@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T11:40:45Z",
+  "calendar_meta_data" : {
+    "author" : "グロースエクスパートナーズ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 131,
+    "subscribers" : 2,
+    "title" : "グロースエクスパートナーズ Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "gxp",
+    "url" : "https://qiita.com/advent-calendar/2021/gxp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "チームの関係性に悩んでいるあなたへ。小さなきっかけ作りをしてみよう！",
+      "author" : "@stsuda",
+      "day" : 1,
+      "url" : "https://qiita.com/stsuda/items/3f8f9a3c94b042705170"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring+DDDでのアプリケーションアーキテクチャとテスト戦略",
+      "author" : "@nyasba",
+      "day" : 2,
+      "url" : "https://qiita.com/nyasba/items/66defc0b9d9786627cd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バックエンドエンジニアがWebフロント開発で学んだ依存関係の問題と解決 ",
+      "author" : "@yTakada-gxp",
+      "day" : 3,
+      "url" : "https://qiita.com/yTakada-gxp/items/a487f64e0a7929e2bb93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Blob Storage のBlobファイルが消し飛んで復旧した話とそこから得た教訓",
+      "author" : "@thirayama",
+      "day" : 4,
+      "url" : "https://qiita.com/thirayama/items/f00cb194427bce4578bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "みんなで動画視聴するリモート社内勉強会",
+      "author" : "@piro-gxp",
+      "day" : 5,
+      "url" : "https://qiita.com/piro-gxp/items/caa2acea3c1698f3dd4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームワークがよくなる！私の周りにいる人たちの素敵な習慣【リモートワーク編】",
+      "author" : "@nshimizu-gxp",
+      "day" : 6,
+      "url" : "https://qiita.com/nshimizu-gxp/items/3bdf47de2e5ddbb6674c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新宿中央公園検定にNuxt.jsを採用した際の周辺技術選定と設計について",
+      "author" : "@knakano-gxp",
+      "day" : 7,
+      "url" : "https://qiita.com/knakano-gxp/items/ad99c0001a6e3758929e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "誰かにチャレンジしてもらいたいときに気を付けていること",
+      "author" : "@aishimura-gxp",
+      "day" : 8,
+      "url" : "https://qiita.com/aishimura-gxp/items/cb5a99d47c59f6db0a47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームについて思い悩むだけだった私が、勇気を出して行動に移してみた話",
+      "author" : "@ksuzuki-gxp",
+      "day" : 9,
+      "url" : "https://qiita.com/ksuzuki-gxp/items/2a989ea448c0fce245a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システム開発で曖昧な要望を形にしていく方法",
+      "author" : "@guest-gxp",
+      "day" : 10,
+      "url" : "https://arclamp.hatenablog.com/entry/2021/12/09/230643"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CAL1研修で学んだ、組織にアジャイルを浸透させるための3つの意外なアイディア",
+      "author" : "@nolick1219",
+      "day" : 11,
+      "url" : "https://qiita.com/nolick1219/items/6986d60aa718eecc6b3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システム導入におけるユーザーとのコミュニケーションの重要性",
+      "author" : "@kmuraki",
+      "day" : 12,
+      "url" : "https://qiita.com/kmuraki/items/3af534cf6ed15c27494c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bluetooth評価ボード「Target Board for RX23W」によるBLE Peripheralデバイスの作成",
+      "author" : "@atsumino-gxp",
+      "day" : 13,
+      "url" : "https://qiita.com/atsumino-gxp/items/46ac9515037b156d4e6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "時間のないエンジニアの簡単な革靴お手入れ",
+      "author" : "@Komatszuaki",
+      "day" : 14,
+      "url" : "https://qiita.com/Komatszuaki/items/8e4b90a4189572ccd71d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1年間、1on1のメンターをやってみて学んだこと",
+      "author" : "@yamemiya",
+      "day" : 15,
+      "url" : "https://qiita.com/yamemiya/items/f5c3b10701dbe791faf0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Copilotで検証環境を構築した話",
+      "author" : "@ttanaka-gxp",
+      "day" : 16,
+      "url" : "https://qiita.com/ttanaka-gxp/items/238017f2ea61492ac154"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React + FullCalendarでデフォルト状態から各種プロパティを使ってカスタマイズしていく",
+      "author" : "@riki_ykgw",
+      "day" : 17,
+      "url" : "https://qiita.com/riki_ykgw/items/c3f7d27aefd136381139"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQL Conference Japan 2021に参加して商用運用する際にPostgreSQLの理解が深められた！",
+      "author" : "@hiromu00",
+      "day" : 18,
+      "url" : "https://qiita.com/hiromu00/items/db1d4c5aeed10fbd0fb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AzureでMinecraftサーバー構築する。料金比較もしてみた。",
+      "author" : "@kobayashi3990",
+      "day" : 19,
+      "url" : "https://qiita.com/kobayashi3990/items/553d410fa6c7c64a682b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache Kafka をコマンドラインと Spring アプリケーションで動かしてイベント駆動型アーキテクチャの雰囲気をつかむ",
+      "author" : "@ponkan1219",
+      "day" : 20,
+      "url" : "https://qiita.com/ponkan1219/items/214599da4fa29db7f6f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLリードレプリカでのクエリ強制キャンセルエラーの対応",
+      "author" : "@rasahina-gxp",
+      "day" : 21,
+      "url" : "https://qiita.com/rasahina-gxp/items/e4edf073903de2bc00bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "良いチームと言われるようになるまでの道のり",
+      "author" : "@suzumin-gxp",
+      "day" : 22,
+      "url" : "https://qiita.com/suzumin-gxp/items/6b37a453073d6d84d025"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FastAPI+MYSQLの「環境構築及びAPI機能」について",
+      "author" : "@kim-grs",
+      "day" : 23,
+      "url" : "https://qiita.com/kim-grs/items/3debef3841c78f03c8c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Excelが激重なのでmermaid.jsでガントチャートを作ってみた",
+      "author" : "@ntsuyuki",
+      "day" : 24,
+      "url" : "https://qiita.com/ntsuyuki/items/6f83a6c4c04b20f1ca43"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@guest-gxp"
+    }
+  ]
+}

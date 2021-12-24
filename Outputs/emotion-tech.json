@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T12:21:05Z",
+  "calendar_meta_data" : {
+    "author" : "@kadotami",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 3,
+    "title" : "Emotion Tech Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "emotion-tech",
+    "url" : "https://qiita.com/advent-calendar/2021/emotion-tech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "インターン採用してみた結果",
+      "author" : "@kadotami",
+      "day" : 1,
+      "url" : "https://tech.emotion-tech.co.jp/entry/intern-recruit"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emotion Techでインターンして半年が過ぎた話",
+      "author" : "@itsuki_s",
+      "day" : 2,
+      "url" : "https://tech.emotion-tech.co.jp/entry/intern-s"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EKSでPull Request毎に起動〜動作チェックまでを全自動で行う環境を作りました",
+      "author" : "@et-okazaki",
+      "day" : 3,
+      "url" : "https://tech.emotion-tech.co.jp/entry/20211203_eks_fargate_preview_environment"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モノリスからマイクロサービスへ OpenResty導入準備中",
+      "author" : "@newapplesho",
+      "day" : 4,
+      "url" : "https://tech.emotion-tech.co.jp/entry/2021-openrety"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「EmotionってTechできるの？」 人間のココロを捉える２つのアプローチ",
+      "author" : "@ikegame",
+      "day" : 5,
+      "url" : "https://note.com/emotiontech_inc/n/n8b6ef5858384"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゆるっと始めたはずの社内ラジオが、全社会議の１コンテンツになった話。",
+      "author" : "@k_hitose",
+      "day" : 6,
+      "url" : "https://note.com/emotiontech_inc/n/n543a2bc53103"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustバックエンドのテスト構成何もわからない",
+      "author" : "@kadotami",
+      "day" : 7,
+      "url" : "https://tech.emotion-tech.co.jp/entry/rust-test-structure"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セルフブランディング〜酒の人",
+      "author" : "@mineitsu",
+      "day" : 8,
+      "url" : "https://note.com/emotiontech_inc/n/ne6f7b99dfd13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セルフブランディング～黄色い人",
+      "author" : "@fusho-takahashi",
+      "day" : 9,
+      "url" : "https://note.com/emotiontech_inc/n/n6035c890e2a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セルフブランディングに迷走している話",
+      "author" : "@EmotionTech",
+      "day" : 10,
+      "url" : "https://note.com/emotiontech_inc/n/n9459211d60fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "actix-webのFromRequestでリクエスト情報取得をカスタマイズ！",
+      "author" : "@kadotami",
+      "day" : 11,
+      "url" : "https://tech.emotion-tech.co.jp/entry/actix-web-from-request"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NewRelicで顧客別のレスポンスタイムの可視化を楽にできた話",
+      "author" : "@et-okazaki",
+      "day" : 12,
+      "url" : "https://tech.emotion-tech.co.jp/entry/newrelic-logs-trial"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "有益なデータが取得できる調査にしよう！",
+      "author" : "@k_note",
+      "day" : 13,
+      "url" : "https://note.com/emotiontech_inc/n/ncf0390b33ada"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emotion Techの開発体制について(2021年編)",
+      "author" : "@newapplesho",
+      "day" : 14,
+      "url" : "https://tech.emotion-tech.co.jp/entry/2021-et-dev-team"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアでギャルの流行語 使い始めたらグルーヴ生まれた。",
+      "author" : "@fusho-takahashi",
+      "day" : 15,
+      "url" : "https://note.com/emotiontech_inc/n/n7343a6ac171c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【論文紹介】「今この瞬間に手を打つべき顧客体験」は何か～CSポートフォリオをアップデートしよう〜",
+      "author" : "@ikegame",
+      "day" : 16,
+      "url" : "https://note.com/emotiontech_inc/n/n566a632d1ef6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "oViced導入してよかった話～CS編～",
+      "author" : "@polipolipolice",
+      "day" : 17,
+      "url" : "https://note.com/emotiontech_inc/n/nbbcd50da02f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おもぱかアルパカ誕生秘話",
+      "author" : "@k_note",
+      "day" : 18,
+      "url" : "https://note.com/emotiontech_inc/n/n3b03569fd3c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "考えてつくりこんだものよりも思いつきでつくったもののほうが、なぜか重宝されちゃう話",
+      "author" : "@Kon-ayu",
+      "day" : 19,
+      "url" : "https://note.com/preview/n9a5adb19ff1f?prev_access_key=8af87f559e91676e78c97f17a53078cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モノリスからマイクロサービスへ k6 導入準備中",
+      "author" : "@newapplesho",
+      "day" : 20,
+      "url" : "https://tech.emotion-tech.co.jp/entry/2021-k6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "全社でストレングス・ファインダーをやってみた！ ～強みを活かして、働きやすく～",
+      "author" : "@wsano",
+      "day" : 21,
+      "url" : "https://note.com/emotiontech_inc/n/n1df0932bca6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "せっかくEmotionTechのnoteにきたんだから、こんな本読んでみたらいかがでしょう",
+      "author" : "@wsano",
+      "day" : 22,
+      "url" : "https://note.com/emotiontech_inc/n/nc0a3ce98d570"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「陽口（ひなたぐち）」ワークをやってみたらめちゃくちゃハッピーになった話",
+      "author" : "@s_matilda",
+      "day" : 23,
+      "url" : "https://note.com/emotiontech_inc/n/n86ea7c0ff26b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emotion Hack で記憶力を高め、人生を変えよう！",
+      "author" : "@EmotionTech",
+      "day" : 24,
+      "url" : "https://note.com/emotiontech_inc/n/ncffc2dc62f94"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kadotami"
+    }
+  ]
+}

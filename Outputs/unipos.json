@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T07:19:48Z",
+  "calendar_meta_data" : {
+    "author" : "Unipos株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 57,
+    "subscribers" : 6,
+    "title" : "Unipos Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "unipos",
+    "url" : "https://qiita.com/advent-calendar/2021/unipos"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebase HostingのPreviewチャネルへデプロイしたURLをPRにコメントするGithub Actionsを作る",
+      "author" : "@IzumiSy",
+      "day" : 1,
+      "url" : "https://izumisy.work/entry/2021/12/01/141202"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Earthlyでコンテナ時代のビルド環境を味わう",
+      "author" : "@IzumiSy",
+      "day" : 2,
+      "url" : "https://izumisy.work/entry/2021/12/02/102546"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイン原則の話（仮置き）",
+      "author" : "@miyabt_",
+      "day" : 3,
+      "url" : "https://note.com/miyabt/n/naabbf38f762f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@jau5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "朝会 フリートークの成功事例 今だけ 無料で 公開 しております！",
+      "author" : "@Yachida",
+      "day" : 5,
+      "url" : "https://qiita.com/Yachida/items/a115644dc2b9cb4d3542"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YouTube好き集合。Go言語でLIVEコメントをリアルタイム取得する",
+      "author" : "@ara1yu81",
+      "day" : 6,
+      "url" : "https://qiita.com/ara1yu81/items/47ebb2272f6a148095d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@ototonari"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務で時系列データを可視化する時の話",
+      "author" : "@trapi",
+      "day" : 8,
+      "url" : "https://zenn.dev/trapi/articles/time_series_data_plot"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UXライティングワークショップをやってみた",
+      "author" : "@gokigen_patsuji",
+      "day" : 9,
+      "url" : "https://note.com/patsuji/n/n1ccae24f828e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Spannerで条件を絞った上でソートするクエリのパフォーマンスチューニング Part1",
+      "author" : "@kakke18",
+      "day" : 10,
+      "url" : "https://zenn.dev/kakke18/articles/8a75f9e92589e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【zsh】空ファイルを作る3つの方法",
+      "author" : "@torikatsuPG",
+      "day" : 11,
+      "url" : "https://torikatsu923.hatenablog.com/entry/2021/11/11/002411"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "set-cookieのドメイン属性をlocalhostに書き換えてブラウザにcookieを保存するテスト環境の作成",
+      "author" : "@tomatoaiu",
+      "day" : 12,
+      "url" : "https://qiita.com/tomatoaiu/items/d4ec8a23d01e6f474d6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "elm-context-html の紹介",
+      "author" : "@nabekou29",
+      "day" : 13,
+      "url" : "https://qiita.com/nabekou29/items/422a1d1de388e3cd3874"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Spannerで条件を絞った上でソートするクエリのパフォーマンスチューニング Part2",
+      "author" : "@kakke18",
+      "day" : 14,
+      "url" : "https://zenn.dev/kakke18/articles/9ee348af3c2ddd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@yuuis"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "federated queryを使ったSpannerからBigQueryへのデータ転送",
+      "author" : "@jau5",
+      "day" : 16,
+      "url" : "https://qiita.com/jau5/items/8dd16cbc164d246bfdce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SpannerにおけるMutationの数え方",
+      "author" : "@Takuya-Shuto-engineer",
+      "day" : 17,
+      "url" : "https://qiita.com/Takuya-Shuto-engineer/items/7997efc671a21666c938"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elm で固定長配列が扱えるライブラリ elm-static-array を触ってみた",
+      "author" : "@kyu_8",
+      "day" : 18,
+      "url" : "https://blog.kyu08.com/posts/2021121217-elm-static-array"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ民主化を進めてデータを資産に、Unipos社がLookerを導入した経緯",
+      "author" : "@tenajima",
+      "day" : 19,
+      "url" : "https://zenn.dev/tenajima/articles/unipos_advent_looker"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elm】Uniposにおけるリクエスト機構の試行錯誤紀行",
+      "author" : "@ShuheiDoi",
+      "day" : 20,
+      "url" : "https://qiita.com/ShuheiDoi/items/5fbaacdf22e49480347c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DiscordBotによる謎解きアプリの作り方 解説",
+      "author" : "@genshun9",
+      "day" : 21,
+      "url" : "https://qiita.com/genshun9/items/9bdf7b0dad7c81d60e0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qualtrics(ウェブサイトフィードバック)を触ってみた学習成果",
+      "author" : "@Atzz",
+      "day" : 22,
+      "url" : "https://qiita.com/Atzz/items/3400c0fc2cf4d8559056"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シークレット情報の管理・運用について",
+      "author" : "@gal1996",
+      "day" : 23,
+      "url" : "https://zenn.dev/yuuuuugo/articles/40bbb7f8ee19b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "令和最新版の輪読会、音読会のススメ",
+      "author" : "@asmasa",
+      "day" : 24,
+      "url" : "https://qiita.com/asmasa/items/45acc254c1837830b745"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@miyabt_"
+    }
+  ]
+}

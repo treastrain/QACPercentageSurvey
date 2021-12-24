@@ -1,0 +1,173 @@
+{
+  "created_at" : "2021-12-24T07:45:06Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社with",
+    "category" : "企業・学校・団体",
+    "lgtm" : 105,
+    "subscribers" : 2,
+    "title" : "with Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "with",
+    "url" : "https://qiita.com/advent-calendar/2021/with"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Jetpack Compose】ColumnとRowで知っていると便利なこと3選",
+      "author" : "@maxfie1d",
+      "day" : 1,
+      "url" : "https://qiita.com/maxfie1d/items/4c876ce9e0ad589a1089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSアプリのクラッシュを減らしアプリを安定運用（したい）[Carefully Unwrapping]",
+      "author" : "@zrn-ns",
+      "day" : 2,
+      "url" : "https://qiita.com/zrn-ns/items/e9fa2836aea1b274f852"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RE: AndroidでFlow<T>をrepeatOnLifecycleでcollectするのをちょっとだけ楽にする",
+      "author" : "@KazaKago",
+      "day" : 3,
+      "url" : "https://qiita.com/KazaKago/items/b1128a1008b9dd298860"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AndroidでUIへのイベント通知としてSharedFlowとChannelを上手に使い分ける",
+      "author" : "@KazaKago",
+      "day" : 4,
+      "url" : "https://qiita.com/KazaKago/items/fba61beba05f5297d951"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud FunctionsをKotlin/JVMで書きたい！",
+      "author" : "@KazaKago",
+      "day" : 5,
+      "url" : "https://qiita.com/KazaKago/items/689f6efdbe11cdf1408c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Jetpack Compose】スロットという考え方",
+      "author" : "@maxfie1d",
+      "day" : 6,
+      "url" : "https://qiita.com/maxfie1d/items/6d6ae80338e03bd1dad1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "失敗しないREST API",
+      "author" : "@taku0084",
+      "day" : 7,
+      "url" : "https://qiita.com/taku0084/items/341aea9f1f487adcd181"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Minecraft  Java Edition 1.18 サーバ側のバージョンアップの備忘録",
+      "author" : "@hayatonzk",
+      "day" : 8,
+      "url" : "https://qiita.com/hayatonzk/items/95ac5e90cf84c4e4abe2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alamofire+Codableをasync/awaitを使ってリクエストする",
+      "author" : "@KazaKago",
+      "day" : 11,
+      "url" : "https://qiita.com/KazaKago/items/7ad966820302e90fa7c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterでDartコードのみで環境ごとにFirebaseプロジェクトを分ける",
+      "author" : "@KazaKago",
+      "day" : 12,
+      "url" : "https://qiita.com/KazaKago/items/5dbe67032ecc7d459d74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ImageView に画像データをいい感じに渡すカッコいいコード",
+      "author" : "@t2low",
+      "day" : 13,
+      "url" : "https://qiita.com/t2low/items/a699440ba8a3ce386004"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "負債を Redash で可視化する",
+      "author" : "@maxfie1d",
+      "day" : 14,
+      "url" : "https://qiita.com/maxfie1d/items/383490621a77fc24692e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ファイル数、コード行数をサクッと調べる方法",
+      "author" : "@maxfie1d",
+      "day" : 15,
+      "url" : "https://qiita.com/maxfie1d/items/af14f33de6d5bae28b35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSの Auto-Renewable Subscription(自動更新サブスクリプション)の値上げ対応は簡単だけど不安になる",
+      "author" : "@ochimasu",
+      "day" : 16,
+      "url" : "https://qiita.com/ochimasu/items/e3faa67323d90a61c1da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonでサンキーダイアグラム実装してみる",
+      "author" : "@ry_4628",
+      "day" : 17,
+      "url" : "https://qiita.com/ry_4628/items/0fae22c1e6ba026458ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SNSアプリのFirestore設計",
+      "author" : "@PictoMki",
+      "day" : 19,
+      "url" : "https://qiita.com/PictoMki/items/52012bf222de1b0440cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Jetpack Compose】 Molecule を使って Flow → StateFlow に変換する",
+      "author" : "@maxfie1d",
+      "day" : 20,
+      "url" : "https://qiita.com/maxfie1d/items/758c00fc1a5991640ce8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2年目に入ったエンジニアが大切にしているキーワード3つ",
+      "author" : "@maxfie1d",
+      "day" : 21,
+      "url" : "https://qiita.com/maxfie1d/items/c08e3a6abeec9f242df4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文系女子大生が、応用情報1発合格するためにやったこと",
+      "author" : "@puccho",
+      "day" : 23,
+      "url" : "https://qiita.com/puccho/items/e9e37035a06baf828320"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@maxfie1d"
+    }
+  ]
+}

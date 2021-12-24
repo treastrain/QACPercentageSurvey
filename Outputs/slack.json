@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T13:24:50Z",
+  "calendar_meta_data" : {
+    "author" : "@seratch",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 78,
+    "subscribers" : 86,
+    "title" : "Slack Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "slack",
+    "url" : "https://qiita.com/advent-calendar/2021/slack"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack API のトークンローテーション完全ガイド",
+      "author" : "@seratch",
+      "day" : 1,
+      "url" : "https://qiita.com/seratch/items/610c14208772d49ac9e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack プラットフォーム 2021 年のアップデートのふりかえり",
+      "author" : "@seratch",
+      "day" : 2,
+      "url" : "https://qiita.com/seratch/items/214866e9b6858fc4bd76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "５つのSlackアプリを立ち上げてみてわかったこと",
+      "author" : "@geeorgey",
+      "day" : 3,
+      "url" : "https://qiita.com/geeorgey/items/a8dceb57f9d122e20893"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack Python SDK でチャンネルにファイルをアップロードしよう",
+      "author" : "@seratch",
+      "day" : 4,
+      "url" : "https://qiita.com/seratch/items/2dd8e5676b09e8863618"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackの中にカスタムデータを保存できる！Tables APIを使ってみる",
+      "author" : "@07JP27",
+      "day" : 5,
+      "url" : "https://qiita.com/07JP27/items/4a41e060870131fc3f46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue.js & Flask & Bolt for Python でSlackアプリを作るチュートリアル",
+      "author" : "@geeorgey",
+      "day" : 6,
+      "url" : "https://qiita.com/geeorgey/items/fb99637d4024cbaf0d37"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初Slack Appを作ったので紹介させて。「Slack通話の内容をSlack上で見えるようにしよう」",
+      "author" : "@wok",
+      "day" : 7,
+      "url" : "https://cloud.flect.co.jp/entry/2021/12/07/073749"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Block Kit でゲシュタルト崩壊しないために JSX でブロックを記述する",
+      "author" : "@75asa",
+      "day" : 8,
+      "url" : "https://zenn.dev/75asa/articles/slack-block-kit-with-jsx-slack"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElixirでSlack botを作って楽しむ (2021/12/09)",
+      "author" : "@torifukukaiou",
+      "day" : 9,
+      "url" : "https://qiita.com/torifukukaiou/items/7c203891144e9ec02d13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bolt 入門ガイド（Bolt入門ガイド）をWindowsで進めるときの読み替え （2021/12/10）",
+      "author" : "@torifukukaiou",
+      "day" : 10,
+      "url" : "https://qiita.com/torifukukaiou/items/b2f97daad19f256a81dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私が最近チョコチョコっとつくったSlackアプリのソースコードを全文掲載 （2021/12/11）",
+      "author" : "@torifukukaiou",
+      "day" : 11,
+      "url" : "https://qiita.com/torifukukaiou/items/74567d2c3302a5d574ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Slackの投稿、たくさんあって見逃してしまう…」を防げるかもしれない \"ピックアップチャンネル\" \"ストックスレッド\" （と読んでるハック）",
+      "author" : "@MintoAoyama",
+      "day" : 12,
+      "url" : "https://qiita.com/MintoAoyama/items/c5dcbb4e6708ea6034c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack Connectでアプリを利用する時にハマったこと",
+      "author" : "@geeorgey",
+      "day" : 13,
+      "url" : "https://qiita.com/geeorgey/items/f1a1e125176cfca38454"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackが楽しくなるbot「Colla」の紹介と、導入のためにやったこと",
+      "author" : "@acnaman",
+      "day" : 14,
+      "url" : "https://qiita.com/acnaman/items/2eb395282384e6481b96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackで人狼がしたいねん",
+      "author" : "@macaron_xxx",
+      "day" : 15,
+      "url" : "https://qiita.com/macaron_xxx/items/2c6ccdd754e4b6acae82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LGTM画像を作成するSlack Appを作ったお話",
+      "author" : "@katzumi",
+      "day" : 16,
+      "url" : "https://zenn.dev/katzumi/articles/0e9c0a49258afc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackチャンネルの粒度設計とそれを支える技術について",
+      "author" : "@geeorgey",
+      "day" : 17,
+      "url" : "https://qiita.com/geeorgey/items/2feb399bf5e603db8e94"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack 公式 SDK に関する情報のリンク集",
+      "author" : "@seratch",
+      "day" : 18,
+      "url" : "https://qiita.com/seratch/items/1fb8079df51c97a5b2ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はてブのコメントを見落とさないようにslackへ通知させてみた",
+      "author" : "@esaka",
+      "day" : 19,
+      "url" : "https://zenn.dev/esaka/articles/4eb358988bc987"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack が提供する GitHub Action \"slack-send\" を使って GitHub から Slack に通知する",
+      "author" : "@seratch",
+      "day" : 20,
+      "url" : "https://qiita.com/seratch/items/28d09eacada09134c96c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サンプルコードからみる Slack モーダルフローの構築",
+      "author" : "@azureus",
+      "day" : 21,
+      "url" : "https://qiita.com/azureus/items/9c70e92c9d2add7aceb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "管理画面の代わりに API の GUI を Slack に構築する",
+      "author" : "@ryota-yamamoto",
+      "day" : 22,
+      "url" : "https://ymmooot.dev/articles/21/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bolt for JavaScriptと静的なコンテンツ、REST API, SocketIOを共存させる",
+      "author" : "@wok",
+      "day" : 23,
+      "url" : "https://cloud.flect.co.jp/entry/2021/12/23/094600"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack で感謝を伝えるボットを作ろう",
+      "author" : "@hello_jun",
+      "day" : 24,
+      "url" : "https://qiita.com/hello_jun/items/c0e0837e46139d9c1299"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tailshape"
+    }
+  ]
+}

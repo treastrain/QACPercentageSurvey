@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T12:01:57Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社グロービス",
+    "category" : "企業・学校・団体",
+    "lgtm" : 226,
+    "subscribers" : 10,
+    "title" : "GLOBIS Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "globis",
+    "url" : "https://qiita.com/advent-calendar/2021/globis"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicPodで作るE2Eテストのメンテナンス性を上げるために気を付けていること。",
+      "author" : "@yajima_wataru",
+      "day" : 1,
+      "url" : "https://qiita.com/yajima_wataru/items/5b76f232c9a5442311d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プッシュ通知誤爆の二次災害を最小限にする方法",
+      "author" : "@technuma",
+      "day" : 2,
+      "url" : "https://qiita.com/technuma/items/4488bd99df5761980b20"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@youhei19880130"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードの見方・関わり方が少し変わった一年でした、という話",
+      "author" : "@ymstshinichiro",
+      "day" : 4,
+      "url" : "https://qiita.com/ymstshinichiro/items/e604ecc28f0a06eb39d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QA経験の少ないチームが良い探索的テストを行えるようになるための障害と、ナイトメアヘッドラインゲームの紹介",
+      "author" : "@h-shima",
+      "day" : 5,
+      "url" : "https://shimack.hatenadiary.jp/entry/2021/09/20/160401"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発者のためのロギング入門",
+      "author" : "@yukin01",
+      "day" : 6,
+      "url" : "https://qiita.com/yukin01/items/33f20fc6efef3e783c85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メディアサイトを多言語対応する【Nuxt.js】",
+      "author" : "@couragenki",
+      "day" : 7,
+      "url" : "https://qiita.com/couragenki/items/7bd26e5ddca62f93575b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack + AWS WAF でサービスをメンテナンス画面 (Sorry Page) に切り替える",
+      "author" : "@chroju",
+      "day" : 8,
+      "url" : "https://qiita.com/chroju/items/c53f787ff57ee22e7350"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apollo ClientのCache機構(fetch policy)を視覚的に理解する",
+      "author" : "@shoota",
+      "day" : 9,
+      "url" : "https://qiita.com/shoota/items/8e52ede8ad0524c23b85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "盛り上がらないスプリントレビューを脱却する方法11選【バザー型宮本茂式スプリントレビュー】",
+      "author" : "@technuma",
+      "day" : 10,
+      "url" : "https://qiita.com/technuma/items/55f04d0498e8c58c3d91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "心地よく働くための環境作り",
+      "author" : "@hiroyukitakehara",
+      "day" : 11,
+      "url" : "https://note.com/hirot/n/n10398a202737"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デジタルプロダクトを開発するチームの議論の共通の土台としてイベントストーミングを導入してみた",
+      "author" : "@tatsushitoji",
+      "day" : 12,
+      "url" : "https://qiita.com/tatsushitoji/items/08be995ba1acafda970d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そのプロダクトにポリシーはありますか？（イベントストーミング実施編）",
+      "author" : "@fursich",
+      "day" : 13,
+      "url" : "https://qiita.com/fursich/items/1edac3b6310112317e89"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React.jsのset stateをラップせずに用いるつらみ",
+      "author" : "@HorikawaTokiya",
+      "day" : 14,
+      "url" : "https://qiita.com/HorikawaTokiya/items/7fc99f446445d611cfd7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AndroidでYouTubeの再生画面の回転仕様を再現する",
+      "author" : "@masaibar",
+      "day" : 15,
+      "url" : "https://qiita.com/masaibar/items/e0d58e84b3102c57a88b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内でOSSコードリーディング会を始めました",
+      "author" : "@shifumin",
+      "day" : 16,
+      "url" : "https://qiita.com/shifumin/items/e29e05f7ef241f5adcfa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Working From the Other Side of the World",
+      "author" : "@michaelamarkey",
+      "day" : 17,
+      "url" : "https://dev.to/mikeamarkey/working-from-the-other-side-of-the-world-599p"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリング組織を正しく伝える採用ピッチを作った話",
+      "author" : "@tamatsuo",
+      "day" : 18,
+      "url" : "https://note.com/globis_engineers/n/n928da5c0094d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムにグロースハックプロセスを組み込んだ話",
+      "author" : "@maKunugi",
+      "day" : 19,
+      "url" : "https://qiita.com/maKunugi/items/205738ce97c47bac634a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "普通のエンジニアとしてOSSにコントリビュートする時に考えていること",
+      "author" : "@QWYNG",
+      "day" : 20,
+      "url" : "https://qiita.com/QWYNG/items/b00b5326b5a246634f88"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GLOBISのtoBプロダクトの面白さと難しさを語ろう",
+      "author" : "@yusuke_hisatsu",
+      "day" : 21,
+      "url" : "https://productmanager55.hatenablog.com/entry/2021/12/21/120344"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "どうやって半年で新しい学習サービスをローンチしたのか",
+      "author" : "@qiuyin",
+      "day" : 22,
+      "url" : "https://qiita.com/qiuyin/items/cbcb8012c770531a450a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリエイターとしての30代を振り返る",
+      "author" : "@talow1225",
+      "day" : 23,
+      "url" : "https://note.com/talow/n/n2961d882c3d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BookTalk：『Googleのソフトウェアエンジニアリング』をぼくたちはこう読んだ！（前編）",
+      "author" : "@mkwrd",
+      "day" : 24,
+      "url" : "https://note.com/globis_engineers/n/n806de3681b45"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@sue738"
+    }
+  ]
+}

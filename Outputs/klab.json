@@ -1,0 +1,289 @@
+{
+  "created_at" : "2021-12-24T11:48:09Z",
+  "calendar_meta_data" : {
+    "author" : "KLab 株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 44,
+    "subscribers" : 16,
+    "title" : "KLab Engineer Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "klab",
+    "url" : "https://qiita.com/advent-calendar/2021/klab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "KLabの技術広報が目指す未来",
+      "author" : "@molmolken",
+      "day" : 1,
+      "url" : "https://www.klab.com/jp/blog/tech/2021/20211201-techpromo.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートで社内ゲームジャムを開催しました",
+      "author" : "@nari-nari",
+      "day" : 2,
+      "url" : "https://www.klab.com/jp/blog/tech/2021/20211202-gamejam-report.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions と cibuildwheel を使ってarm64対応 wheel をビルドする",
+      "author" : "@methane",
+      "day" : 3,
+      "url" : "https://qiita.com/methane/items/41c7d92d603552f2ef33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#向けJSONデシリアライザ Hurisake.JsonDeserializer を作った",
+      "author" : "@hasi_t",
+      "day" : 4,
+      "url" : "https://hasipon.github.io/pages/blog/1638550000.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityのProfilerの情報を取得する(UnityEditorInternal使用)",
+      "author" : "@random25umezawa",
+      "day" : 5,
+      "url" : "https://qiita.com/random25umezawa/items/3bd7ab72e4f0a0233841"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実行できる Python 標準ライブラリ",
+      "author" : "@fgshun",
+      "day" : 6,
+      "url" : "https://qiita.com/fgshun/items/3391a0b3b855e2b0743c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "主要なセキュリティカンファレンス・イベントを簡単にまとめてみた",
+      "author" : "@fude-t",
+      "day" : 7,
+      "url" : "https://qiita.com/fude-t/items/4f6edbf2facb3ce3fa03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "# [Unity] CinemachineをTimelineのCustomTrackで制御してみた",
+      "author" : "@kakazu3",
+      "day" : 8,
+      "url" : "https://qiita.com/kakazu3/items/d8a76479fa3d26d15fc9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity Asset Storeでアセットを販売してみました",
+      "author" : "@kshoji",
+      "day" : 9,
+      "url" : "https://qiita.com/kshoji/items/cea77b87d3fb04ac7d21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクラプログラミング(統合版)いろいろやってみた[Scripting API/Functions/WebSocket/MakeCode]",
+      "author" : "@hamasan05",
+      "day" : 10,
+      "url" : "https://qiita.com/hamasan05/items/329a7b0c0d10396f1e21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fitbit Versa 3 / Sense の文字盤を作る",
+      "author" : "@ChiiAyano",
+      "day" : 11,
+      "url" : "https://qiita.com/ChiiAyano/items/17fe390e00c292514350"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内ゲームジャムをNintendo Switchの『ナビつき！ つくってわかる はじめてゲームプログラミング』を用いて開催しました",
+      "author" : "@molmolken",
+      "day" : 12,
+      "url" : "https://www.klab.com/jp/blog/tech/2021/20211212-hajipro.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps ScriptからGoogle Cloud Functionsに処理を移譲するためのあれこれ",
+      "author" : "@fuji-m",
+      "day" : 13,
+      "url" : "https://qiita.com/fuji-m/items/4c76c83ae821e84df1f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内勉強会で心がけていること",
+      "author" : "@tekun0701",
+      "day" : 14,
+      "url" : "https://qiita.com/tekun0701/items/54126d12645e6a6bf0fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未学習の画像も分類できる? 距離学習によるキャラ画像認識",
+      "author" : "@takada-at",
+      "day" : 15,
+      "url" : "https://qiita.com/takada-at/items/74821037bb59a5859e35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "楽譜をCDする技術",
+      "author" : "@Pctg-x8",
+      "day" : 16,
+      "url" : "https://qiita.com/Pctg-x8/items/8bca3b99cc79daa6185f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MS-DOS時代のリアルタイムレイトレーシング",
+      "author" : "@sakayanagi-k",
+      "day" : 17,
+      "url" : "https://qiita.com/sakayanagi-k/items/7e4f8adaaa4ae16cfb0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity Editor で Harmony を使って再生中にコンパイルなしでメソッドの動作を書き換えてみる",
+      "author" : "@homu-konamilk",
+      "day" : 18,
+      "url" : "https://qiita.com/homu-konamilk/items/291778923b0efdb36849"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cinemachineで設定できる挙動をまとめてみました",
+      "author" : "@jusmiso",
+      "day" : 19,
+      "url" : "https://qiita.com/jusmiso/items/34fa5a97cc440674b801"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tokyo Demo Fest 2021のGLSL Graphics Compo優勝作品の解説",
+      "author" : "@gam0022",
+      "day" : 20,
+      "url" : "https://gam0022.net/blog/2021/12/20/tdf2021-glsl/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sketch ファイルを Unity の GameObject に変換するツール SketchConverter を公開しました",
+      "author" : "@v9129",
+      "day" : 21,
+      "url" : "https://www.klab.com/jp/blog/tech/2021/20211221-sketch-converter.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@hmkz"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オフィスに置いたMac miniをラズパイで遠隔操作できるようにした話",
+      "author" : "@msawahara",
+      "day" : 23,
+      "url" : "https://qiita.com/msawahara/items/1f9edf4e1ec275c14aaf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲーム開発者の為の物理・古典力学基礎知識 #01",
+      "author" : "@suzuna-honda",
+      "day" : 24,
+      "url" : "https://qiita.com/suzuna-honda/items/0db8438109db6ea12ca1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hnw"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CLIで動作するWebRTCを使ったビデオ会議システムを作ってみる",
+      "author" : "@yasu0000",
+      "day" : 22,
+      "url" : "https://qiita.com/yasu0000/items/4385b4fa5ddffa9e4ff2"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

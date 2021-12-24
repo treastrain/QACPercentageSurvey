@@ -1,0 +1,147 @@
+{
+  "created_at" : "2021-12-24T05:52:51Z",
+  "calendar_meta_data" : {
+    "author" : "@motchi0214",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 7,
+    "subscribers" : 11,
+    "title" : "Shopify Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "shopify",
+    "url" : "https://qiita.com/advent-calendar/2021/shopify"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopifyでクライアント向けにECサイトを作るときは、Shopifyパートナープログラムを使おう",
+      "author" : "@motchi0214",
+      "day" : 4,
+      "url" : "https://remoneko.life/create-online-store-from-shopify-partner-program/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React, Polaris, App Bridge, GraphQLを使ったShopify appの作成してみる",
+      "author" : "@_mkazutaka",
+      "day" : 8,
+      "url" : "https://zenn.dev/mkazutaka/articles/5c15f15bdc6991"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopify 公式ヘッドレスコマースフレームワーク \"Hydrogen\" とは",
+      "author" : "@t-kurasawa",
+      "day" : 11,
+      "url" : "https://qiita.com/t-kurasawa/items/6f2b4c13fbb46fe7c519"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "静的サイトにShopify Liteで通販機能を積んだ話",
+      "author" : "@motchi0214",
+      "day" : 12,
+      "url" : "https://remoneko.life/shifter-static-and-shopify-lite/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopify のサブスク(定期購入) アプリ Bold Subscription を利用する",
+      "author" : "@kumatronik",
+      "day" : 13,
+      "url" : "https://qiita.com/kumatronik/items/f69a7692bac681795493"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopifyでコレクションを追加するスクリプト",
+      "author" : "@_mkazutaka",
+      "day" : 15,
+      "url" : "https://zenn.dev/mkazutaka/articles/37f0d2583b7084"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopifyアプリの「Post-Purchase」拡張機能を実装してみる",
+      "author" : "@_mkazutaka",
+      "day" : 16,
+      "url" : "https://zenn.dev/mkazutaka/articles/8b2c52392fba94"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopify 史上最大のアップデート Online Store 2.0 とは",
+      "author" : "@t-kurasawa",
+      "day" : 18,
+      "url" : "https://qiita.com/t-kurasawa/items/fc697d34f0fa83752622"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ShopifyのHygrogenでJamstackなECサイトをセットアップする方法と、起動時のエラー対処方法メモ",
+      "author" : "@motchi0214",
+      "day" : 19,
+      "url" : "https://wp-kyoto.net/getting-started-shopify-hydrogen/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@Shirasu3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サブスクアプリ Bold Subscription v2 の API を利用してみる",
+      "author" : "@kumatronik",
+      "day" : 21,
+      "url" : "https://qiita.com/kumatronik/items/286ad271757907798874"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@makihara434"
+    }
+  ]
+}

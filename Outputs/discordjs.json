@@ -1,0 +1,127 @@
+{
+  "created_at" : "2021-12-24T11:46:03Z",
+  "calendar_meta_data" : {
+    "author" : "@narikakun",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 1,
+    "subscribers" : 18,
+    "title" : "discord.js Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "discordjs",
+    "url" : "https://qiita.com/advent-calendar/2021/discordjs"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【discord.js】～ なぜ私はdiscord.jsを選ぶのか ～",
+      "author" : "@hitori_yuu",
+      "day" : 1,
+      "url" : "https://qiita.com/hitori_yuu/items/bd1fd596c2ce32ee7640"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【基本】discord.js v13 でボット作成 #1 ～ボットの作成と初起動～",
+      "author" : "@hitori_yuu",
+      "day" : 2,
+      "url" : "https://qiita.com/hitori_yuu/items/02eae8b14dc6a9c91c0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【基礎】discord.js v13 でボット作成 #2 ～コマンド作成～",
+      "author" : "@hitori_yuu",
+      "day" : 3,
+      "url" : "https://qiita.com/hitori_yuu/items/3b6c02fac5c610f0615a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【実用編】指定した個数と面数のダイスを振る",
+      "author" : "@hitori_yuu",
+      "day" : 4,
+      "url" : "https://qiita.com/hitori_yuu/items/63de48ba56a8f467cf61"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

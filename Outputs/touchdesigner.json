@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T10:13:44Z",
+  "calendar_meta_data" : {
+    "author" : "@miyukki",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 106,
+    "subscribers" : 15,
+    "title" : "TouchDesigner Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "touchdesigner",
+    "url" : "https://qiita.com/advent-calendar/2021/touchdesigner"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesignerでOpenCVを使った簡単なロゴ検出について",
+      "author" : "@miwa_maroon",
+      "day" : 1,
+      "url" : "https://qiita.com/miwa_maroon/items/89973153e1a791b5dc0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesignerで番組向けのCG・テロップを作る時のTips",
+      "author" : "@miyukki",
+      "day" : 2,
+      "url" : "https://qiita.com/miyukki/items/d5082692839fbed6f1a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " NVIDIA Quadro シリーズとLineMAT",
+      "author" : "@motoishmz",
+      "day" : 3,
+      "url" : "https://qiita.com/motoishmz/items/aede7efd6e66faada5a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C++プラグインとPythonの連携",
+      "author" : "@satoruhiga",
+      "day" : 4,
+      "url" : "https://zenn.dev/satoruhiga/articles/2729e2ef13f8d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reverse Perspective Projection Matrix",
+      "author" : "@dn0t_",
+      "day" : 5,
+      "url" : "https://taiga.hatenadiary.com/entry/2021/12/05/021120"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Premiere + TouchDesigner で簡易タイムラインを作る",
+      "author" : "@chimanaco",
+      "day" : 6,
+      "url" : "https://qiita.com/chimanaco/items/0375fde604faecf37983"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オーディオリアクティブな火炎を作る",
+      "author" : "@syoukera",
+      "day" : 7,
+      "url" : "https://qiita.com/syoukera/items/4fe939a6d47819d7641f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nvidia Flex Solverを使ったシンプルな粒子の物理シミュレーション",
+      "author" : "@v_kaoru",
+      "day" : 8,
+      "url" : "https://qiita.com/v_kaoru/items/d19cc2e628b4a4ee9f55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TOP Particles",
+      "author" : "@ToyoshiMorioka",
+      "day" : 9,
+      "url" : "https://note.com/toyoshimorioka/n/n940daa7e0001"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesigner Workshop 2021 by TDSW ダイジェスト",
+      "author" : "@narumin256",
+      "day" : 10,
+      "url" : "https://qiita.com/narumin256/items/b6a97ebcd645f25fbec5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesignerのWeb系OP、こんな感じで使ってみた",
+      "author" : "@shin-sforzando",
+      "day" : 11,
+      "url" : "https://qiita.com/shin-sforzando/items/a882ae6dc3f17c5c9260"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Particle SOPに関するTIPS",
+      "author" : "@minoge1001",
+      "day" : 12,
+      "url" : "https://qiita.com/minoge1001/items/802e81388a9397a29688"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesignerとThree.jsでWebコンテンツ制作",
+      "author" : "@tai5863",
+      "day" : 13,
+      "url" : "https://qiita.com/tai5863/items/5829563dc4cfc5d80377"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ZIGCAM",
+      "author" : "@ToyoshiMorioka",
+      "day" : 14,
+      "url" : "https://note.com/toyoshimorioka/n/n601d99ab4cf8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[ #TouchDesigner ] Replicator COMP を自在に使えるようになりたい記事",
+      "author" : "@joe0hara",
+      "day" : 15,
+      "url" : "https://qiita.com/joe0hara/items/42614c7deab5f0cd7f33"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@genkitoyama"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@yasuhiro0122"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@y_UM4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TidalCyclesとToudhDesignerをつなげる",
+      "author" : "@Shampagne",
+      "day" : 19,
+      "url" : "https://qiita.com/Shampagne/items/dc5183f3fb88d324b9f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TouchDesigner】DJシステムをつくる",
+      "author" : "@atsonic",
+      "day" : 20,
+      "url" : "https://qiita.com/atsonic/items/c944998351b156e28cc7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "刻みTD：複数toe化によるシステム最適化と分散開発",
+      "author" : "@shks",
+      "day" : 21,
+      "url" : "https://qiita.com/shks/items/656186c5127869bfbe84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GLSLMATで透明表現",
+      "author" : "@MASATONOUSB",
+      "day" : 22,
+      "url" : "https://qiita.com/MASATONOUSB/items/a438b39acfaac48dbea7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesignerでasyncioを使った非同期処理について",
+      "author" : "@sndmtk",
+      "day" : 23,
+      "url" : "https://qiita.com/sndmtk/items/f4f76e24f212a542ed1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数のTouchDesignerプロジェクトで確実にデータ共有する",
+      "author" : "@camikura",
+      "day" : 24,
+      "url" : "https://qiita.com/camikura/items/aa7cc032e92d01f85a99"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@komakinex"
+    }
+  ]
+}

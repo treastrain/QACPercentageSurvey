@@ -1,0 +1,177 @@
+{
+  "created_at" : "2021-12-24T13:42:54Z",
+  "calendar_meta_data" : {
+    "author" : "@xrxoxcxox",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 101,
+    "subscribers" : 57,
+    "title" : "Figma Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "figma",
+    "url" : "https://qiita.com/advent-calendar/2021/figma"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "徹底解剖！FigmaのBranching機能",
+      "author" : "@xrxoxcxox",
+      "day" : 1,
+      "url" : "https://qiita.com/xrxoxcxox/items/48ebfcc7055bd51e3e9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaの公式ナレッジやドキュメント集めました",
+      "author" : "@xrxoxcxox",
+      "day" : 2,
+      "url" : "https://qiita.com/xrxoxcxox/items/db8d8e1a81b1599496a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaのコメント一覧をさっと取得したいなあ……",
+      "author" : "@xrxoxcxox",
+      "day" : 3,
+      "url" : "https://qiita.com/xrxoxcxox/items/d7d0e0f19fabbd0463d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@sota_mikami"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【FigJam】FigJamは、ここまで来た。面白いウィジェットまとめ",
+      "author" : "@degudegu2510",
+      "day" : 5,
+      "url" : "https://qiita.com/degudegu2510/items/a7dc1a1f2a969f56572e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーでもやればできる！FigmaをJavaScriptで操作してみる",
+      "author" : "@hiloki@github",
+      "day" : 6,
+      "url" : "https://qiita.com/hiloki@github/items/8f97c7705d0768c9462d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaでバナー画像を超効率的に量産運用してみる",
+      "author" : "@yasuhiro-y",
+      "day" : 7,
+      "url" : "https://qiita.com/yasuhiro-y/items/e0ac9aa84a18541b7dfd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンポーネントライブラリのデザイントークンを上書きできるFigmaプラグインを作った",
+      "author" : "@putchom",
+      "day" : 8,
+      "url" : "https://suzuri.jp/putchom/journals/2021-12-08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaでオリジナルアイコンを作成した際に起こった問題点と解決策",
+      "author" : "@moyo_door",
+      "day" : 9,
+      "url" : "https://qiita.com/moyo_door/items/5af6bf2ee09f57feb03f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaで複数ページPDF資料を制作する際に役立つかもしれない、3つのTips",
+      "author" : "@mixplace",
+      "day" : 10,
+      "url" : "https://qiita.com/mixplace/items/a71d14d1de017df5ca7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaプロトタイプ入門",
+      "author" : "@aizawa213",
+      "day" : 12,
+      "url" : "https://qiita.com/aizawa213/items/fc558c20eccf87324029"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaでグラフィックデザインをする際に使用しているプラグインや機能を紹介します",
+      "author" : "@Yang_san",
+      "day" : 13,
+      "url" : "https://note.com/yangsan4/n/ne1aba9a3b224"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人的Figma仕草",
+      "author" : "@takanorip",
+      "day" : 14,
+      "url" : "https://zenn.dev/takanorip/articles/11c5d81475d2a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@tayamaaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaのヒラギノ系のfont-weightが狂っている!?",
+      "author" : "@gilly",
+      "day" : 17,
+      "url" : "https://qiita.com/gilly/items/9dd49f5e1e040fbafadf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaの基本の構成と画面の見方",
+      "author" : "@aizawa213",
+      "day" : 18,
+      "url" : "https://qiita.com/aizawa213/items/e2460960d105df9ddda3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaで「UI Flows」の作成とメンテをちょっと楽にする",
+      "author" : "@k1r_n",
+      "day" : 19,
+      "url" : "https://note.com/k1rn/n/nd7ec9d50ff3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figma でゲームを作ってみる",
+      "author" : "@seya",
+      "day" : 20,
+      "url" : "https://www.figma.com/community/file/1054719956725841687/Figma-%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaでいい感じの吹き出しをつくる",
+      "author" : "@akinen",
+      "day" : 21,
+      "url" : "https://zenn.dev/012/articles/aa88cd919f97c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figma API のおさらい – ファイル内のコンポーネントのアセットを1コマンドでZIP化してみる",
+      "author" : "@miminari",
+      "day" : 22,
+      "url" : "https://blog.photosynthesic.jp/2021/12/figma-api-zip-test/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Figma】Figmaのデータとマークアップを揃えたい！Frameをできるだけ少なくFigmaのデータを作成する方法",
+      "author" : "@degudegu2510",
+      "day" : 23,
+      "url" : "https://qiita.com/degudegu2510/items/4081de7ae4e4a9362a3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaのモバイル設計手法",
+      "author" : "@Mono4",
+      "day" : 24,
+      "url" : "https://qiita.com/Mono4/items/5c40734b531014f4ca55"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

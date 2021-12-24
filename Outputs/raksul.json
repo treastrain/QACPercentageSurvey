@@ -1,0 +1,187 @@
+{
+  "created_at" : "2021-12-24T05:27:34Z",
+  "calendar_meta_data" : {
+    "author" : "@KawabataLemon",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 9,
+    "title" : "RAKSUL（ラクスル） Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "raksul",
+    "url" : "https://qiita.com/advent-calendar/2021/raksul"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービスドキュメントガイドラインを策定した話",
+      "author" : "@a-thug",
+      "day" : 1,
+      "url" : "https://tech.raksul.com/2021/12/01/microservices-documentation-guideline-established/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテキスト共有とモブプログラミング",
+      "author" : "@kyuuuuuji",
+      "day" : 2,
+      "url" : "https://tech.raksul.com/2021/12/02/sharing-product-context-by-mob-programming/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スピードチェック入稿にシールを対応させた話",
+      "author" : "@tirol",
+      "day" : 3,
+      "url" : "https://tech.raksul.com/2021/12/03/sticker_sdc/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テレワーク 相手を知らず 照れわーく",
+      "author" : "@yfujimoto",
+      "day" : 4,
+      "url" : "https://tech.raksul.com/2021/12/04/telework_aitewoshirazu_telework"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue.js v2 Composition API + Vue Apollo v4 で得られた知見",
+      "author" : "@miyahkun",
+      "day" : 5,
+      "url" : "https://tech.raksul.com/2021/12/05/combination-of-vue-js-v2-composition-api-vue-apollo-v4/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サブドメインのサービス間を Kafka を使ってデータの同期を行った",
+      "author" : "@isoflabon",
+      "day" : 6,
+      "url" : "https://tech.raksul.com/2021/12/06/data-synchronization-between-subdomain-services-using-kafka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RAKSUL PdM vs BrSE",
+      "author" : "@son-nt",
+      "day" : 7,
+      "url" : "https://tech.raksul.com/2021/12/07/raksul-pdm-vs-brse/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日からはじめるポジティブ思考",
+      "author" : "@rshisaito",
+      "day" : 8,
+      "url" : "https://tech.raksul.com/2021/12/08/positive-thinking/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "物流効率化システム開発で学んだYAGNIの原則の効果",
+      "author" : "@na9amura",
+      "day" : 9,
+      "url" : "https://tech.raksul.com/2021/12/08/%e7%89%a9%e6%b5%81%e5%8a%b9%e7%8e%87%e5%8c%96%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e9%96%8b%e7%99%ba%e3%81%a7%e5%ad%a6%e3%82%93%e3%81%a0yagni%e3%81%ae%e5%8e%9f%e5%89%87%e3%81%ae%e5%8a%b9%e6%9e%9c/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Debeziumを利用したdbを同期する仕組みづくり",
+      "author" : "@YusukeKishino",
+      "day" : 10,
+      "url" : "https://tech.raksul.com/2021/12/10/debezium%e3%82%92%e5%88%a9%e7%94%a8%e3%81%97%e3%81%9fdb%e3%82%92%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b%e4%bb%95%e7%b5%84%e3%81%bf%e3%81%a5%e3%81%8f%e3%82%8a/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RSpecのformatterをクリスマス仕様に",
+      "author" : "@takizawawa",
+      "day" : 11,
+      "url" : "https://tech.raksul.com/2021/12/10/rspec%e3%81%aeformatter%e3%82%92%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e4%bb%95%e6%a7%98%e3%81%ab/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tiny Changes, Remarkable Results",
+      "author" : "@Rikky",
+      "day" : 12,
+      "url" : "https://tech.raksul.com/2021/12/12/tiny-changes-remarkable-results/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadogを活用したRailsアプリケーションのパフォーマンス改善のススメ",
+      "author" : "@kmttsh",
+      "day" : 13,
+      "url" : "https://tech.raksul.com/2021/12/13/datadog%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9frails%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハコベルソリューションチームのモブプログラミングについて",
+      "author" : "@ryokoyama",
+      "day" : 14,
+      "url" : "https://tech.raksul.com/2021/12/14/%e3%83%8f%e3%82%b3%e3%83%99%e3%83%ab%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%81%e3%83%bc%e3%83%a0%e3%81%a7%e3%81%ae%e3%83%a2%e3%83%96%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Protocol Buffersを使ってSQSのメッセージを構造化してみた",
+      "author" : "@no7wataru",
+      "day" : 15,
+      "url" : "https://tech.raksul.com/2021/12/15/use-protocol-buffers-to-structure-sqs-messages/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Working in an IN-JA unit",
+      "author" : "@ashish979",
+      "day" : 16,
+      "url" : "https://tech.raksul.com/2021/12/16/working-in-an-in-ja-unit/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker + Fastify + webpack-dev-server によるフロントエンド開発環境",
+      "author" : "@zenpachi",
+      "day" : 17,
+      "url" : "https://tech.raksul.com/2021/12/17/dockerfastifywebpack-dev-server%e3%81%ab%e3%82%88%e3%82%8b%e3%83%95%e3%83%ad%e3%83%b3%e3%83%88%e3%82%a8%e3%83%b3%e3%83%89%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Composition APIのsetup関数をいい感じに分割したい",
+      "author" : "@ykokw",
+      "day" : 18,
+      "url" : "https://tech.raksul.com/2021/12/18/composition-api%e3%81%aesetup%e9%96%a2%e6%95%b0%e3%82%92%e3%81%84%e3%81%84%e6%84%9f%e3%81%98%e3%81%ab%e5%88%86%e5%89%b2%e3%81%97%e3%81%9f%e3%81%84/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハコベルはなぜFlutterでアプリ開発を行うのか",
+      "author" : "@mercury11",
+      "day" : 19,
+      "url" : "https://tech.raksul.com/2021/12/19/hacobell-flutter-replace/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snowflakeの紹介とSnowCamp参加報告",
+      "author" : "@ywaiwai_y",
+      "day" : 20,
+      "url" : "https://tech.raksul.com/2021/12/20/snowflake%e3%81%ae%e7%b4%b9%e4%bb%8b%e3%81%a8snowcamp%e5%8f%82%e5%8a%a0%e5%a0%b1%e5%91%8a/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StepFunctions を CDK + Typescript で構築するサンプル集",
+      "author" : "@umanoda",
+      "day" : 21,
+      "url" : "https://tech.raksul.com/2021/12/21/stepfunctions-%e3%82%92-cdk-typescript-%e3%81%a7%e6%a7%8b%e7%af%89%e3%81%99%e3%82%8b%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab%e9%9b%86/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ColaboratoryでMVPを作る",
+      "author" : "@ryo101",
+      "day" : 22,
+      "url" : "https://tech.raksul.com/2021/12/22/5434/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Building Products in the API Economy",
+      "author" : "@Abhijith",
+      "day" : 23,
+      "url" : "https://tech.raksul.com/2021/12/23/building-products-in-the-api-economy/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Building Josys: A fascinating Experience of Cultural Integration, Collaboration and Paradigm Shift",
+      "author" : "@sanjay_rajasekhar",
+      "day" : 24,
+      "url" : "https://tech.raksul.com/2021/12/24/building-josys-a-fascinating-experience-of-cultural-integration-collaboration-and-paradigm-shift/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

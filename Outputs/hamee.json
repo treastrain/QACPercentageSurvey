@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T13:25:53Z",
+  "calendar_meta_data" : {
+    "author" : "@yamamoto_hiroya",
+    "category" : "企業・学校・団体",
+    "lgtm" : 113,
+    "subscribers" : 3,
+    "title" : "Hamee Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "hamee",
+    "url" : "https://qiita.com/advent-calendar/2021/hamee"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "BitbucketからGithub、そして伝説へ…",
+      "author" : "@yamamoto_hiroya",
+      "day" : 1,
+      "url" : "https://qiita.com/yamamoto_hiroya/items/4036f67b205e4a13de5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Initialism",
+      "author" : "@shimauchi109",
+      "day" : 2,
+      "url" : "https://qiita.com/shimauchi109/items/2a6bf2d1712bfd9a7be3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ドメイン駆動設計入門」を読んだ後",
+      "author" : "@ryoryou",
+      "day" : 3,
+      "url" : "https://zenn.dev/ryoatsuta/articles/69611bda86149f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Asanaの本文をコードハイライトするChrome拡張を作りました",
+      "author" : "@yamamoto_hiroya",
+      "day" : 4,
+      "url" : "https://qiita.com/yamamoto_hiroya/items/4063e8b31c2ecd9193c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Denoで作る初めてのVimプラグイン",
+      "author" : "@shoooout",
+      "day" : 5,
+      "url" : "https://zenn.dev/shoooout/articles/a8d0abc0d64242"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AsanaのAPIを使ってタスクのストーリー（アクティビティ）までを取得してみる",
+      "author" : "@masakuni-ito",
+      "day" : 6,
+      "url" : "https://qiita.com/masakuni-ito/items/061e9461daecb4fef1b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hamicプロジェクトでの開発の日常",
+      "author" : "@asflash8",
+      "day" : 7,
+      "url" : "https://qiita.com/asflash8/items/f2e792fb983747776a93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「オブジェクト指向のこころ」から学ぶStrategyパターン",
+      "author" : "@asumikam",
+      "day" : 8,
+      "url" : "https://asumikan.hatenablog.com/entry/2021/12/08/015526"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「オブジェクト指向のこころ」から学ぶDecoratorパターン",
+      "author" : "@asumikam",
+      "day" : 9,
+      "url" : "https://asumikan.hatenablog.com/entry/2021/12/09/032707"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「オブジェクト指向のこころ」から学ぶSingletonパターン",
+      "author" : "@asumikam",
+      "day" : 10,
+      "url" : "https://asumikan.hatenablog.com/entry/2021/12/10/003539"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アレクサ、助けて",
+      "author" : "@P_cablin321",
+      "day" : 11,
+      "url" : "https://qiita.com/P_cablin321/items/d44a16e80856f51d6b3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AtlantisでTerraformの実行を自動化しよう！",
+      "author" : "@tatsuo48",
+      "day" : 12,
+      "url" : "https://zenn.dev/tatsuo48/articles/c358e86ad9e1ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ふりかえりガイドブック」から得たいつかやりたいふりかえり手法",
+      "author" : "@yamakona",
+      "day" : 13,
+      "url" : "https://qiita.com/yamakona/items/c68a0a5eafb4bdd6cca5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tensorによる音声認識の精度は本当に高い？Web Speech APIと比較してみた",
+      "author" : "@itanium-R",
+      "day" : 14,
+      "url" : "https://qiita.com/itanium-R/items/0b04ffdc85f696ce62fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Github Actions を使った PHP の静的解析",
+      "author" : "@ss_koishi",
+      "day" : 15,
+      "url" : "https://qiita.com/ss_koishi/items/67b22a3238bee2cb0b2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードレビューするときに心がけていること",
+      "author" : "@narita_kosei",
+      "day" : 16,
+      "url" : "https://qiita.com/narita_kosei/items/f22a6fe46a31b15a869e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "apk ファイルと aab ファイルについて調べてみた",
+      "author" : "@LicaOka",
+      "day" : 17,
+      "url" : "https://qiita.com/LicaOka/items/3f5586bfb6a90649168b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日、水、どれだけ飲んだっけ？に答える仕組みをつくったよー。",
+      "author" : "@myblackcat7112",
+      "day" : 18,
+      "url" : "https://qiita.com/myblackcat7112/items/fc1e48ad9f104d62dc21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "逆引きGoFデザインパターン",
+      "author" : "@tu0607",
+      "day" : 19,
+      "url" : "https://qiita.com/tu0607/items/6e438e4abd7f2f4b4a6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@makishima_yudai"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者用】機械学習Titanicチュートリアル",
+      "author" : "@santosh_shah",
+      "day" : 21,
+      "url" : "https://qiita.com/santosh_shah/items/7f115ef0d25f20c5296a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CRE アナリティクス （遅れて投稿予定）",
+      "author" : "@amaisuna",
+      "day" : 22,
+      "url" : "https://sample.com.com"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL8以上だとナイーブツリーはアンチパターンではなくなる？ ",
+      "author" : "@money166",
+      "day" : 23,
+      "url" : "https://uneven-akubra-6f5.notion.site/MySQL8-7641e42af0eb48749fac83d04436f670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "感情分析 Slack Bot を Amazon Comprehend API + Python3 で作る",
+      "author" : "@nyancat3",
+      "day" : 24,
+      "url" : "https://zenn.dev/nyancat/articles/20211205-sentiment_analysis"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@masakuni-ito"
+    }
+  ]
+}

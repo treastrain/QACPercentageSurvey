@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T04:46:30Z",
+  "calendar_meta_data" : {
+    "author" : "@Ryota888",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 3,
+    "title" : "Zeals  Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "zeals",
+    "url" : "https://qiita.com/advent-calendar/2021/zeals"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "KISS your SOLID frontend code to keep it DRY, part 1",
+      "author" : "@look_man",
+      "day" : 1,
+      "url" : "https://medium.com/@lookman/kiss-your-solid-frontend-code-to-keep-it-dry-part-1-f53a1a98e924"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Joining Zeals as a junior engineer",
+      "author" : "@basileberjot",
+      "day" : 2,
+      "url" : "https://medium.com/@basile.berjot/my-experience-as-a-junior-developer-and-language-school-graduate-8bfbe9c41a62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unexpected Wings",
+      "author" : "@srodebeck",
+      "day" : 3,
+      "url" : "https://medium.com/@rodebeck.seth/unexpected-wings-b5b1f58714db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The guideline for The Zeals Tech Blog",
+      "author" : "@Ryota888",
+      "day" : 4,
+      "url" : "https://medium.com/zeals-tech-blog/the-guideline-for-the-zeals-tech-blog-4ff1f40a5c02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scrum. When only quality is not enough.",
+      "author" : "@david_esteban",
+      "day" : 5,
+      "url" : "https://medium.com/@david.esteban.ines/when-only-quality-is-not-enough-cecdc6cb4fbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "How I learned to stop worrying and love da bomb",
+      "author" : "@tianjianjiang",
+      "day" : 6,
+      "url" : "https://medium.com/zeals-tech-blog/how-i-learned-to-stop-worrying-and-love-da-bomb-a361eaa8f8b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue2 the Vue3 way: Why a new Framework?",
+      "author" : "@OrP",
+      "day" : 7,
+      "url" : "https://medium.com/zeals-tech-blog/vue2-the-vue3-way-why-a-new-framework-5ec49e8c6525"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tips for Documentation at a Tech Start-Up Company",
+      "author" : "@aburd",
+      "day" : 8,
+      "url" : "https://medium.com/zeals-tech-blog/tips-for-documentation-at-a-tech-start-up-company-4af737b682b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bringing Tech to \"Tech\" Recruitment ",
+      "author" : "@calvincaleb",
+      "day" : 9,
+      "url" : "https://medium.com/zeals-tech-blog/bringing-tech-to-tech-recruitment-d61a74d58631"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Make your Python code less verbose and more readable with Python 3.9",
+      "author" : "@ionicc",
+      "day" : 10,
+      "url" : "https://medium.com/zeals-tech-blog/make-your-python-code-more-readable-with-python-3-9-4f53638483d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pursuit of Unity in Diversity",
+      "author" : "@kengosenuma",
+      "day" : 11,
+      "url" : "https://medium.com/@kengo_76471/pursuit-of-unity-in-diversity-8544b1357399"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "My career with no HR/IT experience becoming very HR centred in the global team at Zeals",
+      "author" : "@Scarlett_Shoko",
+      "day" : 12,
+      "url" : "https://medium.com/@shoko.nagashima/my-career-with-no-hr-it-experience-becoming-very-hr-centred-in-the-global-team-at-zeals-dc492aa6b7cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The other guys",
+      "author" : "@aarthi_elizabeth",
+      "day" : 13,
+      "url" : "https://medium.com/zeals-tech-blog/the-other-guys-a2727fb35206"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stories Told by UX Design",
+      "author" : "@royroyroy",
+      "day" : 14,
+      "url" : "https://medium.com/zeals-tech-blog/stories-told-by-ux-design-c917f0ee051c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The Human's Type",
+      "author" : "@JunioS",
+      "day" : 15,
+      "url" : "https://medium.com/@JunioSe/the-humans-type-part-1-e841f0c5d51f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hoarding task or being efficient?",
+      "author" : "@piapip",
+      "day" : 16,
+      "url" : "https://www.linkedin.com/posts/zeals-co-ltd_qiitaadventcalendar-zealsblog-zealers-activity-6877163804300464128-XxyI"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Building a Design Team Culture: from 0 to 1",
+      "author" : "@vishnambiar",
+      "day" : 17,
+      "url" : "https://medium.com/zeals-tech-blog/building-a-design-team-culture-from-0-to-1-cd6f5cde8de9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Design for Aging Users",
+      "author" : "@lu_lu",
+      "day" : 18,
+      "url" : "https://medium.com/zeals-tech-blog/design-for-aging-users-2d7b8e07cf66"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@01ken93miya"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "https://medium.com/zeals-tech-blog/deploy-n-preview-pull-requests-to-n-clusters-1100131805a7",
+      "author" : "@aamir",
+      "day" : 20,
+      "url" : "https://medium.com/zeals-tech-blog/deploy-n-preview-pull-requests-to-n-clusters-1100131805a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The V in VSCode is for Vim",
+      "author" : "@vhyohvi",
+      "day" : 21,
+      "url" : "https://medium.com/@vivian.muchen/vim-is-the-v-in-vscode-448a6e10901c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Adopting MLOps Methodology in Zeals",
+      "author" : "@rituraj17",
+      "day" : 22,
+      "url" : "https://medium.com/zeals-tech-blog/adopting-mlops-methodology-in-zeals-a88612762895"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@deepikakarthikeyan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Introduce the ZEALS IDSS, a security strategy framework for the technology department in ZEALS",
+      "author" : "@yizhou",
+      "day" : 24,
+      "url" : "https://medium.com/@yi.zhou/introduce-the-zeals-idss-a-security-strategy-framework-for-the-technology-department-in-zeals-7d6ed2f6b5eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@moemoe89"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "created_at" : "2021-12-24T10:17:59Z",
+  "calendar_meta_data" : {
+    "author" : "@nile_mt",
+    "category" : "企業・学校・団体",
+    "lgtm" : 7,
+    "subscribers" : 2,
+    "title" : "みらい翻訳 Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "miraitranslate",
+    "url" : "https://qiita.com/advent-calendar/2021/miraitranslate"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "リーンな開発を目指すエンジニアリングマネージャが読んだ本",
+      "author" : "@nile_mt",
+      "day" : 1,
+      "url" : "https://qiita.com/nile_mt/items/f95a1795a5b613bb1ec8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Active Directory と SaaS の連携",
+      "author" : "@s_edward",
+      "day" : 2,
+      "url" : "https://s-edword.hatenablog.com/entry/2021/12/02/034537"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DebeziumとChange Data Captureについて",
+      "author" : "@ftsan",
+      "day" : 12,
+      "url" : "https://miraitranslate-tech.hatenablog.jp/entry/2021/12/10/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年で面白かったTransformer関連論文",
+      "author" : "@moriyamanaoto",
+      "day" : 14,
+      "url" : "https://nmoriyama.hatenablog.com/entry/2021/12/14/100648"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リーン開発について学んだことを書きます",
+      "author" : "@m-chika",
+      "day" : 15,
+      "url" : "https://miraitranslate-tech.hatenablog.jp/entry/learning-lean-dev-case-from-book"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@kobarasukimaro"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenAPIスキーマ互換なAsyncAPIとは？",
+      "author" : "@toycode",
+      "day" : 21,
+      "url" : "https://qiita.com/toycode/items/01a58c466232f50db675"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@reonyanarticle"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPAをGithub ActionsでGithub Pagesにデプロイし、プルリクごとに成果物を確認できるようにする",
+      "author" : "@aoi2",
+      "day" : 24,
+      "url" : "https://miraitranslate-tech.hatenablog.jp/entry/2021/12/24/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@jyami"
+    }
+  ]
+}

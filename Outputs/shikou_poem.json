@@ -1,0 +1,120 @@
+{
+  "created_at" : "2021-12-24T07:30:21Z",
+  "calendar_meta_data" : {
+    "author" : "@j5c8k6m8",
+    "category" : "その他",
+    "lgtm" : 1,
+    "subscribers" : 2,
+    "title" : "「シコウ」を語る Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "shikou_poem",
+    "url" : "https://qiita.com/advent-calendar/2021/shikou_poem"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "構造型指向(SOP) か 公称型指向(NOP) か、それを知りたい ~ 構造型と公称型 ~",
+      "author" : "@j5c8k6m8",
+      "day" : 1,
+      "url" : "https://qiita.com/j5c8k6m8/items/ef6b3d71167441aeb744"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@j5c8k6m8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@torifukukaiou"
+    }
+  ]
+}

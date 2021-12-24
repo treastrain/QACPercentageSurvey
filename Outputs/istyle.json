@@ -1,0 +1,297 @@
+{
+  "created_at" : "2021-12-24T12:11:34Z",
+  "calendar_meta_data" : {
+    "author" : "@sugato",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 6,
+    "title" : "アイスタイル Advent Calendar 2021",
+    "participants" : 27,
+    "unique_name" : "istyle",
+    "url" : "https://qiita.com/advent-calendar/2021/istyle"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "大量のエラー通知を垂れ流しつつ、Embulkのサーバー間の環境差異を解消した話",
+      "author" : "@sugato",
+      "day" : 1,
+      "url" : "https://techblog.istyle.co.jp/?p=8175"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WHATWGのドキュメントを読んで「へぇ」となった話",
+      "author" : "@sakaguchii",
+      "day" : 2,
+      "url" : "https://techblog.istyle.co.jp/archives/8229"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アイスタイルのマネージャーって何しているのって話",
+      "author" : "@tsuchiyanohito",
+      "day" : 3,
+      "url" : "https://techblog.istyle.co.jp/archives/8214"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "A5:SQLを使って、テーブル定義書を自動で作成してみた話",
+      "author" : "@ishidak-istyle",
+      "day" : 4,
+      "url" : "https://techblog.istyle.co.jp/archives/8271"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSを利用したサーバーレスなメールバッチの設計",
+      "author" : "@RieAkiba",
+      "day" : 5,
+      "url" : "https://techblog.istyle.co.jp/archives/8322"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "在宅勤務のマイルール",
+      "author" : "@nakaan",
+      "day" : 6,
+      "url" : "https://techblog.istyle.co.jp/archives/8394"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データベースの暗黙的型変換のお話し",
+      "author" : "@saitoka",
+      "day" : 7,
+      "url" : "https://techblog.istyle.co.jp/archives/8355"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発時に意識しているプログラミングの原則",
+      "author" : "@miyoshiry",
+      "day" : 8,
+      "url" : "https://techblog.istyle.co.jp/archives/8556"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内売上監視ツール『うりあげクン』をパワーアップさせた話",
+      "author" : "@shinoharar",
+      "day" : 9,
+      "url" : "https://techblog.istyle.co.jp/archives/8571"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt.jsを学んでみて。",
+      "author" : "@matsunot",
+      "day" : 10,
+      "url" : "https://techblog.istyle.co.jp/archives/8777"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア → ディレクターになりました",
+      "author" : "@Kitak_5",
+      "day" : 11,
+      "url" : "https://techblog.istyle.co.jp/archives/8709"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google フォームを用いたデータ抽出依頼改善",
+      "author" : "@sasaharay",
+      "day" : 12,
+      "url" : "https://techblog.istyle.co.jp/archives/8874"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元組み込み系学部の新卒が、TypeScriptのユーザー定義型に立ち向かう、みたいな",
+      "author" : "@yakurat",
+      "day" : 13,
+      "url" : "https://techblog.istyle.co.jp/archives/8681"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レコメンドの精度を改善をしようとして失敗した要因を考察する",
+      "author" : "@kakizakih",
+      "day" : 14,
+      "url" : "https://techblog.istyle.co.jp/?p=8430"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021新卒テック研修について",
+      "author" : "@omuramao",
+      "day" : 15,
+      "url" : "https://techblog.istyle.co.jp/archives/8333"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java SE 11(Java Silver)を受験した話",
+      "author" : "@kuriyamay",
+      "day" : 16,
+      "url" : "https://techblog.istyle.co.jp/archives/8225"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Express+TypeScriptでレスポンスボディに「ストレスなく」型を付ける",
+      "author" : "@kudoma-istyle",
+      "day" : 17,
+      "url" : "https://techblog.istyle.co.jp/archives/8568"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おすすめのシェルとVimの設定を晒す",
+      "author" : "@istyle-nakamura",
+      "day" : 18,
+      "url" : "https://techblog.istyle.co.jp/archives/8575"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUIを学んでみて",
+      "author" : "@tomoyuki_HAYAKAWA",
+      "day" : 19,
+      "url" : "https://techblog.istyle.co.jp/archives/8965"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL Shell Dump Loading UtilityとMySQLネイティブレプリケーションを利用してスマートにRDS Auroraへのデータベース移行を行う",
+      "author" : "@iwasakik",
+      "day" : 20,
+      "url" : "https://techblog.istyle.co.jp/archives/9097"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "同期の誕生日をLINEで通知する仕組みを作った時の回想録",
+      "author" : "@ozbannot",
+      "day" : 21,
+      "url" : "https://techblog.istyle.co.jp/?p=8298"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQL Serverをクラウドへ移行する（立志編）",
+      "author" : "@suzukito",
+      "day" : 22,
+      "url" : "https://techblog.istyle.co.jp/archives/9277"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "より良いプロジェクトマネジメントを目指して ~PMBOKから振り返り編~",
+      "author" : "@anntoque",
+      "day" : 23,
+      "url" : "https://techblog.istyle.co.jp/archives/9410"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "#クリスマスなので、勉強会運営委員会の1年を振り返る",
+      "author" : "@suzukito",
+      "day" : 24,
+      "url" : "https://techblog.istyle.co.jp/archives/9360"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@y_okasuke"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "JavaScriptのDate()に日付文字列を渡すとどうなるか",
+      "author" : "@itohis",
+      "day" : 10,
+      "url" : "https://techblog.istyle.co.jp/archives/8775"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "iOSプッシュ通知の新機能 \"通知要約\" と \"集中モード\" に対する戦略",
+      "author" : "@taichi-yuuki",
+      "day" : 17,
+      "url" : "https://techblog.istyle.co.jp/archives/9008"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "画像のサイズ指定でサイトのCLSを改善させた話",
+      "author" : "@furudomim",
+      "day" : 22,
+      "url" : "https://techblog.istyle.co.jp/archives/9105"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

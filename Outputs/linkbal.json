@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T03:16:50Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社リンクバル",
+    "category" : "企業・学校・団体",
+    "lgtm" : 311,
+    "subscribers" : 3,
+    "title" : "Linkbal（リンクバル） Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "linkbal",
+    "url" : "https://qiita.com/advent-calendar/2021/linkbal"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "非同期通信をするなら絶対にやったほうがいいこと",
+      "author" : "@laineus",
+      "day" : 1,
+      "url" : "https://qiita.com/laineus/items/0a8337586b8c8344a0c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "秘密鍵の所有者を本物だと信じていいのか - PKI と trust of web",
+      "author" : "@takah777",
+      "day" : 2,
+      "url" : "https://3.1415.jp/psrp89x6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustScanのポートスキャンが早すぎる件",
+      "author" : "@mk_linkbal",
+      "day" : 3,
+      "url" : "https://qiita.com/mk_linkbal/items/171ac5447fde8e0933e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Quick Look at Authentication with Keycloak",
+      "author" : "@dennistanaka",
+      "day" : 4,
+      "url" : "https://qiita.com/dennistanaka/items/f7bd097e46eb2c13fe68"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一定間隔で実行する処理はsetIntervalではなくsetTimeoutで書こう",
+      "author" : "@laineus",
+      "day" : 5,
+      "url" : "https://qiita.com/laineus/items/dfc6313e6e6b12d48cb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ethernet の Collision Detection の仕組み",
+      "author" : "@takah777",
+      "day" : 6,
+      "url" : "https://3.1415.jp/ndg6sg6m"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rails】OpenSSLが1.1.1なのにLet’s Encryptの証明書でverify errorが発生する",
+      "author" : "@smurakami_linkbal",
+      "day" : 7,
+      "url" : "https://qiita.com/smurakami_linkbal/items/3f999f299783f798ac75"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "戻るボタンで「ページ遷移」させてはいけない",
+      "author" : "@laineus",
+      "day" : 8,
+      "url" : "https://qiita.com/laineus/items/3b43bf6f347b45cb6f83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SNSに共有するURLを作成仕方",
+      "author" : "@dat_pho",
+      "day" : 9,
+      "url" : "https://qiita.com/dat_pho/items/6a05cc607b6cc593350a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AzureAppServiceにVueやReactのアプリがうまくデプロイできない問題",
+      "author" : "@d-nakajima",
+      "day" : 10,
+      "url" : "https://qiita.com/d-nakajima/items/d11e2c16794e9c46db9b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker Desktop Alternatives (Mac Focused)",
+      "author" : "@dennistanaka",
+      "day" : 11,
+      "url" : "https://qiita.com/dennistanaka/items/d4258cfda5cbaa20a2cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマート家電化計画 !! with M5StickC Plus 〜1. 赤外線受信/送信 (ユニット不使用)〜",
+      "author" : "@d-nakajima",
+      "day" : 12,
+      "url" : "https://qiita.com/d-nakajima/items/43c766cd45d78174cf6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[ Rails N+1問題 ]この記事をストックしておけば、N+1で困った時に確実に解決してくれる!!",
+      "author" : "@Esperer_286",
+      "day" : 13,
+      "url" : "https://qiita.com/Esperer_286/items/b2bd8d617d60bf6e8598"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "git tagのsemantic versionを自動でインクリメントしてpushするシェルスクリプト",
+      "author" : "@reiya018",
+      "day" : 14,
+      "url" : "https://qiita.com/reiya018/items/c3978c3c3a9deb0a1a0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker レイヤー キャッシュ(DLC) で高速なDockerビルドを理解。",
+      "author" : "@Thang_TQ",
+      "day" : 15,
+      "url" : "https://qiita.com/Thang_TQ/items/fdfe870479571165fe98"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swaggerの紹介 – APIドキュメント作成ツール",
+      "author" : "@tatuan19",
+      "day" : 16,
+      "url" : "https://qiita.com/tatuan19/items/8a2158123d3c3093b2c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最近追加されたrubocop規則を確認してみる👮‍♀️🚨",
+      "author" : "@reiya018",
+      "day" : 17,
+      "url" : "https://qiita.com/reiya018/items/2a092dde7f4cac1b74db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Develop with Kubernetes Locally with Tilt",
+      "author" : "@dennistanaka",
+      "day" : 18,
+      "url" : "https://qiita.com/dennistanaka/items/327c930253b8777d55e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyで画像からテキストを認識する",
+      "author" : "@duong_nguyen",
+      "day" : 19,
+      "url" : "https://qiita.com/duong_nguyen/items/fa4b9bc7cb56ed2fb358"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Studio Codeのメジャー過ぎないけど便利なショートカットキー",
+      "author" : "@kinchiki",
+      "day" : 20,
+      "url" : "https://qiita.com/kinchiki/items/67177dd1983671985825"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby on Railsの人気のあるデザインパターン",
+      "author" : "@vudoan",
+      "day" : 21,
+      "url" : "https://qiita.com/vudoan/items/4a70a819f323f7ac524a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Zshを使用してVsCodeで退屈なデフォルトターミナルをカスタマイズする",
+      "author" : "@quanganhk62",
+      "day" : 22,
+      "url" : "https://qiita.com/quanganhk62/items/289e6e2b89db4aabdac6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RailsのActiveRecordのcount、length、sizeメソッドの違い",
+      "author" : "@dat_pho",
+      "day" : 23,
+      "url" : "https://qiita.com/dat_pho/items/c4c42df02ba7a02d652c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@takah777"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Thang_TQ"
+    }
+  ]
+}

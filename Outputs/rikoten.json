@@ -1,0 +1,133 @@
+{
+  "created_at" : "2021-12-24T05:51:48Z",
+  "calendar_meta_data" : {
+    "author" : "@GleamingCake",
+    "category" : "企業・学校・団体",
+    "lgtm" : 3,
+    "subscribers" : 3,
+    "title" : "理工展 - 早稲田理工学園祭の開発チーム Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "rikoten",
+    "url" : "https://qiita.com/advent-calendar/2021/rikoten"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Blender で作成したアニメーション付きモデルを ARKit で配置して遊ぼう - 3Dデータ出力編",
+      "author" : "@GleamingCake",
+      "day" : 1,
+      "url" : "https://qiita.com/GleamingCake/items/75c50360015936c9a22e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blender で作成したアニメーション付きモデルを ARKit で配置して遊ぼう - ARKit編",
+      "author" : "@GleamingCake",
+      "day" : 2,
+      "url" : "https://qiita.com/GleamingCake/items/7cb87a2a042fc8f0e371"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MVVMな感じのRecyclerViewを書く",
+      "author" : "@Uchijo",
+      "day" : 8,
+      "url" : "https://qiita.com/Uchijo/items/eccff0d2b75650e0140a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "磯野ー！IDEにvim拡張入れようぜー！",
+      "author" : "@Uchijo",
+      "day" : 9,
+      "url" : "https://qiita.com/Uchijo/items/539aa9c6b703e2faadc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@Uchijo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@GleamingCake"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@comameito"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@GleamingCake"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@GleamingCake"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Sen_comp"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

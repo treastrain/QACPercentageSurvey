@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T08:10:28Z",
+  "calendar_meta_data" : {
+    "author" : "@hktngch",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 5,
+    "subscribers" : 12,
+    "title" : "Mackerel Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "mackerel",
+    "url" : "https://qiita.com/advent-calendar/2021/mackerel"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ランニングしながら振り返る監視との一年",
+      "author" : "@nkako",
+      "day" : 1,
+      "url" : "https://nkako.hatenablog.com/entry/20211201"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のMackerelのリリース・アップデートについて振り返る",
+      "author" : "@nanotube",
+      "day" : 2,
+      "url" : "https://nanotube.hatenablog.com/entry/2021/12/02/004838"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerelのプロダクトマネージャーとしてミッション・ビジョン・バリューを策定した昔話",
+      "author" : "@songmu",
+      "day" : 3,
+      "url" : "https://blog.song.mu/entry/old-tale-of-mackerel-mvv"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerel で かんたん AWS SES の bounce rate 監視",
+      "author" : "@sogahisashi",
+      "day" : 4,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-04-6ea19598322ef0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apple Silicon MacBook のCPU使用状況をMackerelで可視化する",
+      "author" : "@tatsuru",
+      "day" : 5,
+      "url" : "https://wtatsuru.hatenadiary.com/entry/2021/12/05/191709"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "terraform-provider-mackerel のデバッグ手法",
+      "author" : "@hayajo",
+      "day" : 6,
+      "url" : "https://qiita.com/hayajo/items/a512d249bc816d246b21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MackerelでSLOとエラーバジェットを運用するためのツール shimesaba",
+      "author" : "@mashiike",
+      "day" : 7,
+      "url" : "https://techblog.kayac.com/introducing-shimesaba-for-slo-error-budgets-with-mackerel"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LeSSを回して3ヶ月",
+      "author" : "@hktngch",
+      "day" : 8,
+      "url" : "https://hktngch.hatenablog.com/entry/2021/12/08/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerel関連で2021年にやったことまとめ",
+      "author" : "@sfujiwara",
+      "day" : 9,
+      "url" : "https://techblog.kayac.com/mackerel-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerelのステータスページからメンテナンスや障害情報を受け取る方法",
+      "author" : "@cm-watanabeseigo",
+      "day" : 10,
+      "url" : "https://dev.classmethod.jp/articles/202112-mackerel-status/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerel での Mackerel による Mackerel のための Performance Working Group ",
+      "author" : "@heleeen",
+      "day" : 11,
+      "url" : "https://qiita.com/heleeen/items/62f8b001310d49f42653"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerelの「式グラフ」記法のシンタックスハイライトに対応したVS Code拡張を作った",
+      "author" : "@stefafafan",
+      "day" : 12,
+      "url" : "https://stefafafan.hatenablog.com/entry/vscode-mackerel-advanced-graph"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Mackerel] ディスク単位で異なる監視閾値を設定してみた ",
+      "author" : "@ashi_ssan",
+      "day" : 13,
+      "url" : "https://dev.classmethod.jp/articles/mackerel-disk-unit-monitoring/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "mkr plugin install 時の403 API rate limit exceededエラーを回避する方法",
+      "author" : "@kazeburo",
+      "day" : 14,
+      "url" : "https://kazeburo.hatenablog.com/entry/2021/12/14/113612"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudWatch Logs Insights を使って Mackerel 上にアプリケーションのメトリック監視環境を手早く構築する",
+      "author" : "@susisu",
+      "day" : 15,
+      "url" : "https://susisu.hatenablog.com/entry/2021/12/15/012729"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intel MacBook Pro のサーマルスロットリングの状況を Mackerel で見てみる",
+      "author" : "@inommm",
+      "day" : 16,
+      "url" : "https://qiita.com/inommm/items/de116ba6b338e35c7c08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MackerelでSLI/SLO運用をする際に役立つ機能やツールの紹介",
+      "author" : "@masayoshi634",
+      "day" : 17,
+      "url" : "https://mackerel.io/ja/blog/entry/2021/12/17/200059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerel の Google Cloud インテグレーションから、Compute Engine instance を自動退役する",
+      "author" : "@ne_sachirou",
+      "day" : 18,
+      "url" : "https://c4se.hatenablog.com/entry/2021/12/18/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでMackerel監視整備",
+      "author" : "@sogahisashi",
+      "day" : 19,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-19-fb58235a2fbb6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "継続的E2Eテストを監視する！",
+      "author" : "@a-know",
+      "day" : 20,
+      "url" : "https://blog.a-know.me/entry/2021/12/20/095830"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerelのアラート通知を制御する方法のご紹介",
+      "author" : "@tukaelu",
+      "day" : 21,
+      "url" : "https://tukaelu.hatenablog.jp/entry/20211221/mackerel-advent-calendar"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "よく聞かれるチェック監視の設定について",
+      "author" : "@masarashi",
+      "day" : 22,
+      "url" : "https://qiita.com/masarashi/items/538c7890f28cbdb9cd46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerel生誕秘話",
+      "author" : "@chris4403",
+      "day" : 23,
+      "url" : "https://chris4403.hateblo.jp/entry/2021/12/23/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年から使い始めたので感想ややったことなどを書きます！",
+      "author" : "@ryuichi1208",
+      "day" : 24,
+      "url" : "https://ryuichi1208.hateblo.jp/entry/2021/12/24/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tatsuru"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T11:35:29Z",
+  "calendar_meta_data" : {
+    "author" : "@implicit_none",
+    "category" : "プログラミング言語",
+    "lgtm" : 89,
+    "subscribers" : 30,
+    "title" : "Fortran Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "fortran",
+    "url" : "https://qiita.com/advent-calendar/2021/fortran"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortranの標準ライブラリstdlibの紹介",
+      "author" : "@implicit_none",
+      "day" : 1,
+      "url" : "https://qiita.com/implicit_none/items/6fc196bd96fb5495ed44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortranで利用可能なライブラリ(２０２１年版)",
+      "author" : "@sakamoti",
+      "day" : 2,
+      "url" : "https://qiita.com/sakamoti/items/daa9aaada29c9a71e3bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortran on Windowsで高精度なタイマーを使う",
+      "author" : "@implicit_none",
+      "day" : 3,
+      "url" : "https://qiita.com/implicit_none/items/86c9117990798c1e8b3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スペクトル法により一次元線形移流方程式を実装してみた by Fortran",
+      "author" : "@soybean",
+      "day" : 4,
+      "url" : "https://qiita.com/soybean/items/f732cb71ff978a2352f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenMPを使って昨日のスペクトル法のコードを高速化してみた by Fortran",
+      "author" : "@soybean",
+      "day" : 5,
+      "url" : "https://qiita.com/soybean/items/cfb9419dee813632bba1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortranの標準ライブラリstdlibの紹介（組込機能の代替・補足）",
+      "author" : "@implicit_none",
+      "day" : 6,
+      "url" : "https://qiita.com/implicit_none/items/2d77e26265d94599de0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intel Fortran for Windowsをコマンドラインで使うときのオプション",
+      "author" : "@implicit_none",
+      "day" : 7,
+      "url" : "https://qiita.com/implicit_none/items/6ed1ee6f2312d0e09233"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeでのFortran開発環境2021年版",
+      "author" : "@bluepost59",
+      "day" : 8,
+      "url" : "https://zenn.dev/bluepost/articles/4c5fe8d58f28e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortranの標準ライブラリstdlibの紹介（ロガー）",
+      "author" : "@implicit_none",
+      "day" : 9,
+      "url" : "https://qiita.com/implicit_none/items/b7f325a4219d8f268b8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortran の記憶領域について",
+      "author" : "@cure_honey",
+      "day" : 10,
+      "url" : "https://qiita.com/cure_honey/items/29ec979d3548fb4e74c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EmacsとModernFortran",
+      "author" : "@osada-yum",
+      "day" : 11,
+      "url" : "https://qiita.com/osada-yum/items/099d244b1fab6c96c595"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "do concurrentを使用した並列化の調査(MinGW-W64 GCC-8.1.0)",
+      "author" : "@mmer547",
+      "day" : 12,
+      "url" : "https://qiita.com/mmer547/items/afda99f9f66d85714295"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fpm (Fortran Package Manager)の使い方",
+      "author" : "@implicit_none",
+      "day" : 13,
+      "url" : "https://qiita.com/implicit_none/items/6a65ac1b83efefc782db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fpm (Fortran Package Manager)の設定ファイルの解説",
+      "author" : "@implicit_none",
+      "day" : 14,
+      "url" : "https://qiita.com/implicit_none/items/99c5d12f5c18733c66fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fpm (Fortran Package Manager)とVSCodeの連携",
+      "author" : "@implicit_none",
+      "day" : 15,
+      "url" : "https://qiita.com/implicit_none/items/ad21478203c853852f1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fpm (Fortran Package Manager)のプロジェクトの作成例",
+      "author" : "@implicit_none",
+      "day" : 16,
+      "url" : "https://qiita.com/implicit_none/items/08a2d26f8288dda7b4f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortranの標準ライブラリstdlibの紹介（文字・文字列操作）",
+      "author" : "@implicit_none",
+      "day" : 17,
+      "url" : "https://qiita.com/implicit_none/items/903cddb978363ece0f5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VimとFortran",
+      "author" : "@sakamoti",
+      "day" : 18,
+      "url" : "https://qiita.com/sakamoti/items/a8479b036571bf7d3cb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortranの標準ライブラリstdlibの紹介（ユーザ定義の文字列型）",
+      "author" : "@implicit_none",
+      "day" : 19,
+      "url" : "https://qiita.com/implicit_none/items/a6a2bf0e7ad916f25068"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@kaizen_nagoya"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザー定義派生型の使い方失敗談とその対策",
+      "author" : "@soybean",
+      "day" : 21,
+      "url" : "https://qiita.com/soybean/items/57c9b0ae6acde6a3a889"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FortranからRを使う",
+      "author" : "@sakamoti",
+      "day" : 22,
+      "url" : "https://qiita.com/sakamoti/items/e21ad6f2b2cf922f3dcf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Org-babelとFortran",
+      "author" : "@osada-yum",
+      "day" : 23,
+      "url" : "https://qiita.com/osada-yum/items/502369906bf4e9386e58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fortranの標準ライブラリstdlibの紹介（ソート）",
+      "author" : "@implicit_none",
+      "day" : 24,
+      "url" : "https://qiita.com/implicit_none/items/13acee82941a7542b1cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@cure_honey"
+    }
+  ]
+}

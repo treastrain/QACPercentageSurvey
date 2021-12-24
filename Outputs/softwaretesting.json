@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T07:59:51Z",
+  "calendar_meta_data" : {
+    "author" : "@hiroyuki3gou",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 44,
+    "subscribers" : 111,
+    "title" : "ソフトウェアテスト Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "softwaretesting",
+    "url" : "https://qiita.com/advent-calendar/2021/softwaretesting"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "バグを逃してしまったときにチームでやること",
+      "author" : "@yoshitake_1201",
+      "day" : 1,
+      "url" : "https://yoshitake-1201.hatenablog.com/entry/2021/12/01/360000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「単体テスト」という用語が引き起こした認識齟齬について",
+      "author" : "@yassai",
+      "day" : 2,
+      "url" : "https://qiita.com/yassai/items/ae37f576e93d3543492b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "品質文化試論",
+      "author" : "@mkwrd",
+      "day" : 3,
+      "url" : "https://qiita.com/mkwrd/items/a85a95bdcf889521e69f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者こそTDDを始めるべき理由",
+      "author" : "@gozikyu",
+      "day" : 4,
+      "url" : "https://qiita.com/gozikyu/items/9cc82989fbff96206d06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドキュメントのレビューを効率化しよう！～コメントと変更履歴の使い方～",
+      "author" : "@____rina____",
+      "day" : 5,
+      "url" : "https://underscore42rina.hatenablog.com/entry/adv2021_05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポジティブふりかえりマッピングをやってみたよ",
+      "author" : "@____rina____",
+      "day" : 6,
+      "url" : "https://underscore42rina.hatenablog.com/entry/adv2021_06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スケジュールは余裕をもって",
+      "author" : "@akiyama924",
+      "day" : 7,
+      "url" : "https://qiita.com/akiyama924/items/7f91742891aa2f8e2c49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイル開発で使っているテストのテンプレートの紹介",
+      "author" : "@Otabekey",
+      "day" : 8,
+      "url" : "https://qiita.com/Otabekey/items/b7db6531f9922089d3b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tesseract OCRで文言描画の多言語対応テストを自動化する",
+      "author" : "@goyoki",
+      "day" : 9,
+      "url" : "https://goyoki.hatenablog.com/entry/2021/12/09/032252"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア不足問題よりも深刻なQAエンジニア見つからない問題",
+      "author" : "@gremito",
+      "day" : 10,
+      "url" : "https://gremito.hateblo.jp/entry/2021/12/10/103400"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "やばい！あと1時間で大事な人が来る！ から学ぶ テストの進め方",
+      "author" : "@hiroyuki3gou",
+      "day" : 11,
+      "url" : "https://devtest.hatenablog.com/entry/2021/12/11/180435"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コミュニティの狭間で過ごした1年をふりかえる",
+      "author" : "@yeHoaqko",
+      "day" : 12,
+      "url" : "https://note.com/yehoaqko/n/n5ceb278afda1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Postmanテストでリクエスト送信とレスポンス評価をループ実行したい！！！！！！！",
+      "author" : "@canalun",
+      "day" : 13,
+      "url" : "https://zenn.dev/canalun/articles/postman-loop"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バグバウンティプログラムとは何か？3分で理解する",
+      "author" : "@RyomaMaeda",
+      "day" : 14,
+      "url" : "https://test-hack.com/bug_bounty_program/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発者がテストをできない理由を考えよう",
+      "author" : "@ToshiManaPlus1",
+      "day" : 15,
+      "url" : "https://toshimana.hatenablog.com/entry/2021/12/15/232622?_ga=2.232697631.1606601380.1639483321-1675615314.1639483321"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JaSST'21 HokkaidoでLTをしました",
+      "author" : "@hitomi___kt",
+      "day" : 16,
+      "url" : "https://hitomikt.hatenablog.com/entry/2021/12/16/185138"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラム開発でアジャイルテスティングを実施し、リリースサイクルを早めたハナシ",
+      "author" : "@taikohei",
+      "day" : 17,
+      "url" : "https://blog.nohana.co.jp/article/agile-testing"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアテスト技法の勉強会をやってみた",
+      "author" : "@RS_Dessin",
+      "day" : 18,
+      "url" : "https://note.com/rs_dessin/n/n70ed2677c2e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ひとりソーイングビーごっこで辛くないレビューライフ",
+      "author" : "@TaoBabubb",
+      "day" : 19,
+      "url" : "https://note.com/mjtns/n/nf603a0be4d2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAエンジニアとかテスターを何と呼ぼう？",
+      "author" : "@YasuharuNishi",
+      "day" : 20,
+      "url" : "https://qualab.jp/qualityengineer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バッチ処理の自動テストを書こう",
+      "author" : "@ningenMe",
+      "day" : 21,
+      "url" : "https://qiita.com/ningenMe/items/007ebae6d671dc2145a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数条件が関わる題材を用いてテスト設計から自動テストまで考える（前編）",
+      "author" : "@nihonbuson",
+      "day" : 22,
+      "url" : "https://nihonbuson.hatenadiary.jp/entry/2021/12/22/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイル・DevOpsからDeveloper Productivityへ ~食べログのDeveloper Productivityチームが目指す姿~",
+      "author" : "@ogino",
+      "day" : 23,
+      "url" : "https://kokotatata.hatenablog.com/entry/2021/12/23/051947"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pictmaster味わい紀行、その2、仕様変更対応編",
+      "author" : "@KazuhiroYoshino",
+      "day" : 24,
+      "url" : "https://qiita.com/KazuhiroYoshino/items/86155ef144abd08ac7b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@mty_mno"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "created_at" : "2021-12-24T12:29:34Z",
+  "calendar_meta_data" : {
+    "author" : "@nekoniki",
+    "category" : "モバイル",
+    "lgtm" : 43,
+    "subscribers" : 50,
+    "title" : "React Native Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "react-native",
+    "url" : "https://qiita.com/advent-calendar/2021/react-native"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ダイニーで実践している React Native アプリのデプロイ技術について",
+      "author" : "@karszawa",
+      "day" : 1,
+      "url" : "https://note.com/dinii/n/n730cbc5a0123"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nodebrew環境でArchiveするとnodeが見つからない",
+      "author" : "@nekoniki",
+      "day" : 2,
+      "url" : "https://zenn.dev/nekoniki/articles/68074dacb9817b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Native アクセシビリティ対応をわかるための記事: 入門編",
+      "author" : "@grgr-dkrk",
+      "day" : 3,
+      "url" : "https://zenn.dev/grgr_dkrk/articles/react-native-accessibility-lesson-focusable"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Expo Bare Workflow × EAS で実現する、デプロイ頻度改善の取り組み",
+      "author" : "@bearII",
+      "day" : 4,
+      "url" : "https://tech.207-inc.com/entry/2021/12/04/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeで3D表示してみよう",
+      "author" : "@syehacom",
+      "day" : 5,
+      "url" : "https://qiita.com/syehacom/items/2c58d08ebb818458116d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 React Native のアクセシビリティを勝手に振り返る",
+      "author" : "@grgr-dkrk",
+      "day" : 6,
+      "url" : "https://zenn.dev/grgr_dkrk/articles/react-native-accessibility-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React NativeでGoogle Newsを表示しよう",
+      "author" : "@syehacom",
+      "day" : 7,
+      "url" : "https://qiita.com/syehacom/items/6d02b3c32a1023d596df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "react-native-svg でグラデーションを表示",
+      "author" : "@tadaedo",
+      "day" : 8,
+      "url" : "https://zenn.dev/tadaedo/articles/3b7a790a88af19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "react-native-giftedChatとQnA Makerでチャットボットアプリ作成",
+      "author" : "@kos",
+      "day" : 9,
+      "url" : "https://qiita.com/kos/items/7c80c7cb4797b466fc9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Expo のビルドで発生する Unable to find a specification for `UMCore` depended upon by `EX**` について",
+      "author" : "@pokuwagata",
+      "day" : 10,
+      "url" : "https://pokuwagata.hatenablog.com/entry/2021/12/10/092917"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeで3D表示してみようの続き",
+      "author" : "@syehacom",
+      "day" : 11,
+      "url" : "https://qiita.com/syehacom/items/29458e911a0c9214b306"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React NativeでMapにマーカーを動的に表示させる",
+      "author" : "@syehacom",
+      "day" : 12,
+      "url" : "https://qiita.com/syehacom/items/b280f9f305996f4a0680"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Native で「ユーザが画面を見る」イベントを発火する",
+      "author" : "@luvmini511",
+      "day" : 13,
+      "url" : "https://zenn.dev/luvmini511/articles/b28c0383b5d28a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[2021年末版]React Native アプリの開発環境",
+      "author" : "@tasugi",
+      "day" : 14,
+      "url" : "https://qiita.com/tasugi/items/62d7e2d5b6bc36e510e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeで3Dキャラクターを動かしてみよう",
+      "author" : "@syehacom",
+      "day" : 15,
+      "url" : "https://qiita.com/syehacom/items/ce3f05c0fc0206c5496b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeで使えるデータベースを比較【2021年12月版】(featuring Couchbase Lite)",
+      "author" : "@yoshiyuki_kono",
+      "day" : 16,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/bffda8fba33839a3e9aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeでお知らせを表示する",
+      "author" : "@syehacom",
+      "day" : 17,
+      "url" : "https://qiita.com/syehacom/items/7134fc9e0562d15a68d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React NativeでSocket通信しよう",
+      "author" : "@syehacom",
+      "day" : 18,
+      "url" : "https://qiita.com/syehacom/items/724bcc1e4826fecb7151"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeでイカゲーム！",
+      "author" : "@syehacom",
+      "day" : 19,
+      "url" : "https://qiita.com/syehacom/items/dd0348f3ff6328e5debc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Native で Liquid Swipe を実装するための4つの技術",
+      "author" : "@tamago3keran",
+      "day" : 21,
+      "url" : "https://qiita.com/tamago3keran/items/67f5d40074c6250ea749"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "react-navigationの設計について",
+      "author" : "@tkow",
+      "day" : 22,
+      "url" : "https://blog.mochicorp.com/blog/2021-11-29-react-navigation-v6-%E3%81%AE%E8%A8%AD%E8%A8%88%E6%96%B9%E9%87%9D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Btips/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeアプリケーション開発にNoSQL組み込みデータベースCouchbase Liteを使ってみる",
+      "author" : "@yoshiyuki_kono",
+      "day" : 23,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/f06a59a56738da4cd0a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 Mac + Xcode 12.5.1でReact Native 0.65 アプリのビルド時に出たエラーと対応",
+      "author" : "@shoken",
+      "day" : 24,
+      "url" : "https://qiita.com/shoken/items/681475eec2e8181f628d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@islandryu"
+    }
+  ]
+}

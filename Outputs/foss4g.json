@@ -1,0 +1,177 @@
+{
+  "created_at" : "2021-12-24T08:39:02Z",
+  "calendar_meta_data" : {
+    "author" : "@tohka383",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 20,
+    "subscribers" : 16,
+    "title" : "FOSS4G Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "foss4g",
+    "url" : "https://qiita.com/advent-calendar/2021/foss4g"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "FOSS4G 2021 Japan Online開催に向けた個人的コメント",
+      "author" : "@wata909",
+      "day" : 1,
+      "url" : "https://togetter.com/li/1810798"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QGISをコマンドプロンプトからインストール",
+      "author" : "@fukuoka1960",
+      "day" : 2,
+      "url" : "https://qiita.com/fukuoka1960/items/b9d88a9266e0f9c0d27c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FOSS4GとOSMと僕の10年",
+      "author" : "@den_thor",
+      "day" : 3,
+      "url" : "https://note.com/jyun76/n/nbd9a3f6261c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CityGMLをQGISで読み込むグラフィカルモデラー",
+      "author" : "@Zero_Kohaku",
+      "day" : 4,
+      "url" : "https://qiita.com/Zero_Kohaku/items/954bea7effd1e1d9329b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "斜めってみた",
+      "author" : "@tohka383",
+      "day" : 5,
+      "url" : "https://qiita.com/tohka383/items/549165150472f5ed6e18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QGIS,GRASSGIS v.sampleで作る断面図",
+      "author" : "@mooya",
+      "day" : 6,
+      "url" : "https://qiita.com/mooya/items/22d97535048fb1860778"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QGISと点群とPLATEAUと(FOSS4G 2021 Japan online 発表資料)",
+      "author" : "@sakuya_izayoi",
+      "day" : 7,
+      "url" : "https://drive.google.com/file/d/18CirDjF-8IaAYSVq8-DTUTw9HIXQp9NH/view?usp=sharing"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基盤地図情報変換スクリプトを作った",
+      "author" : "@smellman",
+      "day" : 8,
+      "url" : "https://smellman.hatenablog.com/entry/2021/12/08/001716"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WindowsでCharitesを使ってMapboxVectorTileのスタイルを編集できる環境を構築してみた",
+      "author" : "@ozo360",
+      "day" : 9,
+      "url" : "https://qiita.com/ozo360/items/9fa334f1e286280d34fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "foliumの機能拡張：プラグイン編",
+      "author" : "@tk01k",
+      "day" : 10,
+      "url" : "https://midoriit.com/2021/12/folium%e3%81%ae%e6%a9%9f%e8%83%bd%e6%8b%a1%e5%bc%b5%ef%bc%9a%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e7%b7%a8.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Weblate上でのSMASHの翻訳 (SMASH on Weblate)",
+      "author" : "@sanak",
+      "day" : 11,
+      "url" : "https://qiita.com/sanak/items/b1d5976b578fff6380a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QGISで楽しく3D表現してみる",
+      "author" : "@nishi_bayashi",
+      "day" : 12,
+      "url" : "https://qiita.com/nishi_bayashi/items/8508a06a78ef95c3ec96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QGISのVector Benderプラグインでベクタデータの幾何補正",
+      "author" : "@ishiijunpei",
+      "day" : 13,
+      "url" : "https://qiita.com/ishiijunpei/items/a51d786c8738344b9bbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シェープファイルの真の後継規格 FlatGeobufの普及啓蒙活動（FOSS4G Japan 2021 Online発表資料）",
+      "author" : "@Kanahiro",
+      "day" : 14,
+      "url" : "https://docs.google.com/presentation/d/1vL-gNWlyM8W_jdG7AiUf1bsebZlvC8Nn9AXMzLs4Qoc/edit?usp=sharing"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "foliumの機能拡張：派生クラス編",
+      "author" : "@tk01k",
+      "day" : 15,
+      "url" : "https://midoriit.com/2021/12/folium%e3%81%ae%e6%a9%9f%e8%83%bd%e6%8b%a1%e5%bc%b5%ef%bc%9a%e6%b4%be%e7%94%9f%e3%82%af%e3%83%a9%e3%82%b9%e7%b7%a8.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterとMapLibre GLでMapTilerのスタイルを表示してみた",
+      "author" : "@dayjournal",
+      "day" : 16,
+      "url" : "https://qiita.com/dayjournal/items/6699ab8e94cc1fb02783"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あのお金持ちな方と同じ景色をリアルタイムで味わうことができる。そう、Re:Earthならね。",
+      "author" : "@nishi_bayashi",
+      "day" : 18,
+      "url" : "https://qiita.com/nishi_bayashi/items/2052e1fcda735d98d9df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3D Tiles から i3S に変換して、loaders.gl で表示してみる。",
+      "author" : "@freedom-tech",
+      "day" : 19,
+      "url" : "https://freedom-tech.hatenablog.com/entry/2021/12/19/220823"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データドリブンでおいしいワインの生産適地を評価したい！（暫定版）",
+      "author" : "@wata909",
+      "day" : 20,
+      "url" : "https://speakerdeck.com/wata909/foss4g-japan-2021-lt"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Code for Historyのオープンソース群(非GISもあるでよ)",
+      "author" : "@kochizufan",
+      "day" : 21,
+      "url" : "https://qiita.com/kochizufan/items/1d55200e0bd8779850a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@picaosgeo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@sanak"
+    }
+  ]
+}

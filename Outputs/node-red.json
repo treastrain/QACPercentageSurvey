@@ -1,0 +1,177 @@
+{
+  "created_at" : "2021-12-22T13:36:35Z",
+  "calendar_meta_data" : {
+    "author" : "@tseigo",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 44,
+    "subscribers" : 30,
+    "title" : "Node-RED Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "node-red",
+    "url" : "https://qiita.com/advent-calendar/2021/node-red"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi 400 キーボードに Node-RED をインストールしてキーイベントを取得するメモ",
+      "author" : "@tseigo",
+      "day" : 1,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/01/raspberry-pi-400-with-node-red-and-getting-keycode/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ミニ四駆アニメのワンシーンを爆速で体現する",
+      "author" : "@rockhack",
+      "day" : 2,
+      "url" : "https://rockhack-design.hatenablog.com/entry/2021/12/02/mini4w"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-RED で LINE Notify",
+      "author" : "@Kakimoty_Field",
+      "day" : 3,
+      "url" : "https://qiita.com/Kakimoty_Field/items/0869f64fd9311c2b2044"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Switchbot人感センサで座りっぱなし防止アラートを作る",
+      "author" : "@elzup",
+      "day" : 4,
+      "url" : "https://zenn.dev/anozon/articles/node-red-swarippa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@WEB_MIX"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google AnalyticsのAPIでリアルタイムの閲覧者数が分かるノードを公開してみました。 #noderedjp",
+      "author" : "@n0bisuke",
+      "day" : 6,
+      "url" : "https://qiita.com/n0bisuke/items/f5b3136e74d44ec2e4e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "node-redで2021年 衆議院選挙をリアルタイム感情測定した話 ",
+      "author" : "@miraimeisatu",
+      "day" : 7,
+      "url" : "https://note.com/futureforecast/n/n4639a31ce4b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "読める！読めるぞ！リーダブルフロー",
+      "author" : "@BlueTone",
+      "day" : 8,
+      "url" : "https://qiita.com/BlueTone/items/852855d7de37d8814f21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDでLINE Payを使うノードを公開してみた",
+      "author" : "@KMiura95",
+      "day" : 9,
+      "url" : "https://supernove.hatenadiary.jp/entry/2021/12/09/022952"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-Redでマルチメータのデータを読む",
+      "author" : "@NWLab",
+      "day" : 10,
+      "url" : "https://qiita.com/NWLab/items/10b4bba74ba4ae66c976"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-RED 2.1.xで追加された Link Call ノードをいろいろ試してみた",
+      "author" : "@utaani",
+      "day" : 11,
+      "url" : "https://qiita.com/utaani/items/0a51f15193936a87b574"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDでフローが動かなくなったら試すこと",
+      "author" : "@a10teki",
+      "day" : 12,
+      "url" : "https://qiita.com/a10teki/items/7a0b1469d1d0149a1fc0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初学者向けNode-REDハンズオン・ワークショップ用開発環境構築方法【3選】",
+      "author" : "@ueponx",
+      "day" : 13,
+      "url" : "https://uepon.hatenadiary.com/entry/2021/12/13/110122"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Arduino IoT CloudとNode-REDを組み合わせるときのメモ",
+      "author" : "@Inoue_Minoru",
+      "day" : 14,
+      "url" : "https://qiita.com/Inoue_Minoru/items/d03e764ac48e9038bb9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "さくらのHacobuneとnode-redを利用してIoT用のwebUIのプロトタイプ",
+      "author" : "@shinfrom",
+      "day" : 15,
+      "url" : "https://qiita.com/shinfrom/items/6680983daa09885867d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@kisaichi07"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "爆速でNode-REDカスタムノードを作成・公開する手順",
+      "author" : "@kitazaki",
+      "day" : 17,
+      "url" : "https://qiita.com/kitazaki/items/225d0b5e2262fadf6ffc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi & Node-REDのnode-red-contrib-ui-heatmapを試してみた",
+      "author" : "@t_koba",
+      "day" : 18,
+      "url" : "https://qiita.com/t_koba/items/e03c849500b5fee0fa68"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@ssakaigawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC2インスタンスにNode-Redで仮想IoTデバイスを構築",
+      "author" : "@kenjiwilkins",
+      "day" : 20,
+      "url" : "https://qiita.com/kenjiwilkins/items/7605263d9033d5d86127"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node-RED 2021】 Node.js との間でシンプルな UDP・TCP通信をやってみる",
+      "author" : "@youtoy",
+      "day" : 21,
+      "url" : "https://qiita.com/youtoy/items/b5c790900c79be26082b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローコードツールの比較",
+      "author" : "@taiponrock",
+      "day" : 22,
+      "url" : "https://medium.com/@taiponrock/%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%AF%94%E8%BC%83-87521f783c28"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@ishii-gifu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@umerin"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "created_at" : "2021-12-24T12:33:47Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社GameWith",
+    "category" : "企業・学校・団体",
+    "lgtm" : 1,
+    "subscribers" : 4,
+    "title" : "GameWith Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "gamewith",
+    "url" : "https://qiita.com/advent-calendar/2021/gamewith"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GameWith の技術広報の1年の振り返り",
+      "author" : "@tiwu_dev",
+      "day" : 1,
+      "url" : "https://tech.gamewith.co.jp/entry/2021/12/01/123329"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "要件定義チェックリストを作ったら思ったより良かったという話",
+      "author" : "@esu_eichi",
+      "day" : 3,
+      "url" : "https://qiita.com/esu_eichi/items/d61b6f69a21026a9ddfc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動画の操作のログを取得する",
+      "author" : "@tiwu_dev",
+      "day" : 8,
+      "url" : "https://tech.gamewith.co.jp/entry/2021/12/08/162805"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New GA でレポーティングを行うTips",
+      "author" : "@mi7mi10",
+      "day" : 20,
+      "url" : "https://tech.gamewith.co.jp/entry/2021/12/20/132517"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kyam_"
+    }
+  ]
+}

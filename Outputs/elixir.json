@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T13:53:27Z",
+  "calendar_meta_data" : {
+    "author" : "@ohr486",
+    "category" : "プログラミング言語",
+    "lgtm" : 238,
+    "subscribers" : 39,
+    "title" : "elixir Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "elixir",
+    "url" : "https://qiita.com/advent-calendar/2021/elixir"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ElixirでEnumを使わずEnumする",
+      "author" : "@mnishiguchi",
+      "day" : 1,
+      "url" : "https://qiita.com/mnishiguchi/items/28a3ade4b7b37f262bcb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elixir】B - FizzBuzz Sum問題をEnum.map/2 |> Enum.filter/2 |> Enum.sum/1, Enum.reduce/3 を使って解く (2021/12/02)",
+      "author" : "@torifukukaiou",
+      "day" : 2,
+      "url" : "https://qiita.com/torifukukaiou/items/b82dac53c79b4ee16b98"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iexで関数のドキュメントを調べる方法 他3本",
+      "author" : "@iyanayatudaze",
+      "day" : 3,
+      "url" : "https://zenn.dev/ito_shigeru/articles/dc238b216d73f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixirをとりあえず最小の手数でソースビルドしてみる",
+      "author" : "@takasehideki",
+      "day" : 4,
+      "url" : "https://qiita.com/takasehideki/items/9516da5c6b9150e5992c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElixirでHot Code Reloadingするときに気をつけること",
+      "author" : "@h3_poteto",
+      "day" : 5,
+      "url" : "https://medium.com/ovice/elixir%E3%81%A7hot-code-reloading%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8-b5058eec86dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "様々な開発マシンでもPhoenixが動くDockerfile/docker-composeの作り方",
+      "author" : "@koyo-miyamura",
+      "day" : 6,
+      "url" : "https://qiita.com/koyo-miyamura/items/a609de2e9fadaf198243"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixir/Phoenix入門者向けコミュニティpiyopiyo.exを立ち上げた話",
+      "author" : "@kn339264",
+      "day" : 7,
+      "url" : "https://qiita.com/kn339264/items/5567929bfc91de28b181"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ectoを使ってみよう",
+      "author" : "@t-yamanashi",
+      "day" : 8,
+      "url" : "https://qiita.com/t-yamanashi/items/13e12dc98de0c3e59db7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "苦節二年の時を経て職業錬金術師になれた話",
+      "author" : "@pojiro",
+      "day" : 9,
+      "url" : "https://qiita.com/pojiro/items/e4a724934feae93180b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elixir】ElixirでGoogleAPIを実行してYoutubeの動画情報を取得する",
+      "author" : "@Gsann",
+      "day" : 10,
+      "url" : "https://qiita.com/Gsann/items/c3f7569c5b5e2cfd1f1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "phx.gen.releaseを試して爆速でfly.ioにデプロイしてみよう",
+      "author" : "@koga1020",
+      "day" : 11,
+      "url" : "https://zenn.dev/koga1020/articles/b60725143bbadf6a2b5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YOLO(cvlib)を使用してLiveView上で物体検知をやってみた",
+      "author" : "@the_haigo",
+      "day" : 12,
+      "url" : "https://qiita.com/the_haigo/items/53a4f902c9c3cdc59720"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixir始めたてだった頃からの書き方の変遷",
+      "author" : "@Papillon6814",
+      "day" : 13,
+      "url" : "https://qiita.com/Papillon6814/items/8d607b850644063329f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「UNIXという考え方」がelixirを書くことで身についた",
+      "author" : "@takamizawa46",
+      "day" : 14,
+      "url" : "https://qiita.com/takamizawa46/items/1326ae604ba4724ebc05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LiveViewを使って簡単にステートフルなタイピングゲームアプリを作ろう！前編",
+      "author" : "@Yoosuke",
+      "day" : 15,
+      "url" : "https://qiita.com/Yoosuke/items/8ef22f42fb4aaacf4a95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「JupyterNotebook + NumPyでサクッと画像加工するノリ」をElixirでやってみた（lennaさんのバージョンアップもあるよ）",
+      "author" : "@piacerex",
+      "day" : 16,
+      "url" : "https://qiita.com/piacerex/items/533d26c81bada4741422"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "世俗派関数型言語 Elixir を関数型言語風に使ってみたらやっぱり関数型言語みたいだった",
+      "author" : "@kikuyuta",
+      "day" : 17,
+      "url" : "https://qiita.com/kikuyuta/items/afa4c264720eb29d9760"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iex inside",
+      "author" : "@ohr486",
+      "day" : 18,
+      "url" : "https://blog.ohr486.net/2021/12/18/iex-inside/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語をロクに喋れないプログラマ、AI・MLに支援され、海外登壇でライブコーディングしたら絶賛された ～Elixirで世界進出のススメ～",
+      "author" : "@piacerex",
+      "day" : 19,
+      "url" : "https://qiita.com/piacerex/items/96efdb1377417f942531"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Elixir] Phoenix LiveViewでGoogle Analyticsを使う",
+      "author" : "@mokichi",
+      "day" : 20,
+      "url" : "https://qiita.com/mokichi/items/d5e78d18cda91bbf4825"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年Elixir活動を振り返って2022年に繋げよう",
+      "author" : "@MzRyuKa",
+      "day" : 21,
+      "url" : "https://mzryuka.hatenablog.jp/entry/2021/12/21/230540"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenix 1.6製ポータルサイトへのTailwind CSS導入にあたってphx_gen_tailwindが便利だった話",
+      "author" : "@im_miolab",
+      "day" : 22,
+      "url" : "https://qiita.com/im_miolab/items/f26bfb10efe638e32bf8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenix.LiveViewでリアルタイムにグラフうねうね",
+      "author" : "@mnishiguchi",
+      "day" : 23,
+      "url" : "https://qiita.com/mnishiguchi/items/494ec3e2d9a8948fe60e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dialyzerを使った静的解析",
+      "author" : "@suzuki-t0505",
+      "day" : 24,
+      "url" : "https://qiita.com/suzuki-t0505/items/72ec77d12ce35931d7ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@zacky1972"
+    }
+  ]
+}

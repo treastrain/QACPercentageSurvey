@@ -1,0 +1,130 @@
+{
+  "created_at" : "2021-12-24T03:28:27Z",
+  "calendar_meta_data" : {
+    "author" : "@yoshiyuki_kono",
+    "category" : "データベース",
+    "lgtm" : 2,
+    "subscribers" : 15,
+    "title" : "NoSQL/NewSQL Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "nosql_newsql",
+    "url" : "https://qiita.com/advent-calendar/2021/nosql_newsql"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜ、Couchbaseなのか?〜モバイル/エッジコンピューティングプラットフォームとしての観点から",
+      "author" : "@yoshiyuki_kono",
+      "day" : 1,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/3abd5e32801060a449d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Couchbase Mobile機能解説：データ同期における競合解決②（Couchbase Liteの競合解決）",
+      "author" : "@yoshiyuki_kono",
+      "day" : 6,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/983bb5dfe816eaf76c7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Couchbase Mobile機能解説：データ同期における競合解決③（Sync Gatewayの競合解決）",
+      "author" : "@yoshiyuki_kono",
+      "day" : 7,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/48858b895c693d9b7c8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モバイル/エッジコンピューティングプラットフォームCouchbase Mobileの運用監視について",
+      "author" : "@yoshiyuki_kono",
+      "day" : 9,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/d7d7115c8cde693851d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Couchbase Serverのサブドキュメント操作: cbc subdocコマンド実行例",
+      "author" : "@yoshiyuki_kono",
+      "day" : 17,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/0d00bec42400b51f694f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

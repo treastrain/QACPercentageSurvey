@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-24T04:37:02Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社Legalscape",
+    "category" : "企業・学校・団体",
+    "lgtm" : 2,
+    "subscribers" : 4,
+    "title" : "Legalscape アドベントカレンダー 2021 Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "legalscape",
+    "url" : "https://qiita.com/advent-calendar/2021/legalscape"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Legalscapeとは？",
+      "author" : "@myagita",
+      "day" : 1,
+      "url" : "https://note.com/legalscape/n/nb21cfd8bc0c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リーガルリサーチシステム「Legalscape」の技術スタック2021",
+      "author" : "@p_km",
+      "day" : 2,
+      "url" : "https://yo.eki.do/notes/legalscape-tech-stack"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Legalscape の現在のシステム構成とこれまでの歩み",
+      "author" : "@komiya_atsushi",
+      "day" : 3,
+      "url" : "https://k11i.biz/blog/2021/12/03/history-of-ls-architecture/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「言語処理学会」の「年次大会」とはなにか: Legalscape は NLP2022 をスポンサーしています",
+      "author" : "@sorami",
+      "day" : 6,
+      "url" : "https://note.com/legalscape/n/n74a42e35b505"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Legalscape のリモートワークを支えるコラボレーションのしくみ",
+      "author" : "@aximov",
+      "day" : 7,
+      "url" : "https://note.com/legalscape/n/n4b877bb716f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt.js でレイアウトコンポーネントを使ってレイアウトを統一した話",
+      "author" : "@beijaflor",
+      "day" : 8,
+      "url" : "https://zenn.dev/beijaflor/articles/5cdb44af33caee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Legalscape のインフラストラクチャー管理を支える Terraform",
+      "author" : "@komiya_atsushi",
+      "day" : 9,
+      "url" : "https://k11i.biz/blog/2021/12/09/managing-ls-infrastructure-with-terraform/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dockerのportアクセスをより良くしたい",
+      "author" : "@skobaken",
+      "day" : 10,
+      "url" : "https://qiita.com/skobaken/items/b89049064a2a45902fd5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "会議体設計（の重要性）",
+      "author" : "@ytsugane",
+      "day" : 13,
+      "url" : "https://note.com/legalscape/n/n3f18b79e4632"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモート会議に適したマイクの選び方",
+      "author" : "@aximov",
+      "day" : 14,
+      "url" : "https://note.com/legalscape/n/n4e19bbb3e43d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticsearchで日本語を同義語展開する",
+      "author" : "@sorami",
+      "day" : 15,
+      "url" : "https://zenn.dev/sorami/articles/d7fc2bd871a56e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一週間で構築できる！ お手軽データウェアハウス",
+      "author" : "@komiya_atsushi",
+      "day" : 16,
+      "url" : "https://k11i.biz/blog/2021/12/16/data-warehouse-in-ls/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "openapi-generator を使ってフロントエンドの api を自動生成コードに置き換える",
+      "author" : "@beijaflor",
+      "day" : 17,
+      "url" : "https://zenn.dev/beijaflor/articles/d7664ce9e7976b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SharedArrayBuffer とクロスオリジン分離の問題への対処の記録",
+      "author" : "@komiya_atsushi",
+      "day" : 20,
+      "url" : "https://k11i.biz/blog/2021/12/20/tackle-with-sharedarraybuffer-issue/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "みんなの机とかキーボードへのこだわり",
+      "author" : "@hando",
+      "day" : 21,
+      "url" : "https://note.com/legalscape/n/naafda55e2424"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "openapi-generator フレンドリーな OpenAPI ドキュメントを書く",
+      "author" : "@beijaflor",
+      "day" : 22,
+      "url" : "https://zenn.dev/beijaflor/articles/3d554e51bb20c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PDFと、出版社と、私",
+      "author" : "@p_km",
+      "day" : 23,
+      "url" : "https://yo.eki.do/notes/pdf-publisher-and-me/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NLPによる個人情報の仮名化: 民事判決のオープンデータ化へ向けた取り組みの紹介",
+      "author" : "@sorami",
+      "day" : 24,
+      "url" : "https://note.com/legalscape/n/nf6341940deaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

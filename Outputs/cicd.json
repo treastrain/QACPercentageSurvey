@@ -1,0 +1,150 @@
+{
+  "created_at" : "2021-12-24T10:31:53Z",
+  "calendar_meta_data" : {
+    "author" : "@seigot",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 36,
+    "subscribers" : 142,
+    "title" : "CI/CD Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "cicd",
+    "url" : "https://qiita.com/advent-calendar/2021/cicd"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GCPのCloud BuildでCI/CD環境を構築しSpring Bootアプリをビルド、デプロイする",
+      "author" : "@NagaokaKenichi",
+      "day" : 1,
+      "url" : "https://qiita.com/NagaokaKenichi/items/c88fddbeb8ef56df7a51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Github Actions でGithub Pages更新用ビルド、プルリクを自動化する（mkdocs mike利用）",
+      "author" : "@tomoten",
+      "day" : 2,
+      "url" : "https://qiita.com/tomoten/items/8550315e2c0f1563ad12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions のベストプラクティス",
+      "author" : "@kannkyo",
+      "day" : 3,
+      "url" : "https://qiita.com/kannkyo/items/dd8b11315b4433fda543"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Fargate への CircleCI(等)による全自動/半自動デプロイ",
+      "author" : "@sogahisashi",
+      "day" : 5,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-05-d87b6e85a8e4db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bitbucket PipelineをGithub Actionsと比較しながら使ってみた",
+      "author" : "@Nerosui777",
+      "day" : 6,
+      "url" : "https://qiita.com/Nerosui777/items/7e9a9414819d0e18cd88"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Github Actions（IAMロール認証）を使ったLambdaへのデプロイ",
+      "author" : "@subretu",
+      "day" : 8,
+      "url" : "https://qiita.com/subretu/items/ff23a91a2a9620c1aea3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スケーラブル CI/CD with Nx モノレポ",
+      "author" : "@okmttdhr",
+      "day" : 9,
+      "url" : "https://speakerdeck.com/okmttdhr/cd-with-nx-mofalserepo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナを使わずGitLab CI/CDでNext.jsを環境変数を渡しつつ自動デプロイする。",
+      "author" : "@tingtt",
+      "day" : 10,
+      "url" : "https://qiita.com/tingtt/items/f28e2fa7cd72a866f2da"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCPでJenkins Pipelineを使ってSonarQubeと連携させたCI/CD環境を構築し結果をSlackへ通知する",
+      "author" : "@NagaokaKenichi",
+      "day" : 12,
+      "url" : "https://qiita.com/NagaokaKenichi/items/68df9ec9c43856948ae7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@seigot"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Organizationの所属人数チェックのためにGitHub Actionのアクションを自作する",
+      "author" : "@M-Yamashii",
+      "day" : 18,
+      "url" : "https://zenn.dev/m_yamashii/articles/b771b126127cf9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScript Actionsをnode16で動かすようにする",
+      "author" : "@KengoTODA",
+      "day" : 23,
+      "url" : "https://blog.kengo-toda.jp/entry/2021/12/23/202503"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@taptappun"
+    }
+  ]
+}

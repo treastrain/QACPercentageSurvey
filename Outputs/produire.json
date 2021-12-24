@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T05:09:38Z",
+  "calendar_meta_data" : {
+    "author" : "@nipo",
+    "category" : "プログラミング言語",
+    "lgtm" : 33,
+    "subscribers" : 8,
+    "title" : "日本語プログラミング言語「プロデル」 Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "produire",
+    "url" : "https://qiita.com/advent-calendar/2021/produire"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "政府のdata.go.jpでデータセットを検索する",
+      "author" : "@nipo",
+      "day" : 1,
+      "url" : "https://qiita.com/nipo/items/4a663b1ec2a12e21f912"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CKAN APIを操作する種類を作る",
+      "author" : "@nipo",
+      "day" : 2,
+      "url" : "https://qiita.com/nipo/items/47fcd9a5c35e3a26ad12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "種類の継承",
+      "author" : "@nipo",
+      "day" : 3,
+      "url" : "https://qiita.com/nipo/items/e284d8f771a25136b57d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "手順と補語の助詞",
+      "author" : "@nipo",
+      "day" : 4,
+      "url" : "https://qiita.com/nipo/items/e487c256dc80c58834b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レイアウトやデザインを一切気にしない場合の帳票印刷を考えてみる",
+      "author" : "@sanei_media",
+      "day" : 5,
+      "url" : "https://qiita.com/sanei_media/items/f68f8a2ca52de5da6680"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウィンドウ，ボタンとイベント",
+      "author" : "@nipo",
+      "day" : 6,
+      "url" : "https://qiita.com/nipo/items/f4a1711f9368eab96b46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エクセルファイルを操作する",
+      "author" : "@nipo",
+      "day" : 7,
+      "url" : "https://qiita.com/nipo/items/a99dbee157a6163b340a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルでハノイの塔の答えを可視化する",
+      "author" : "@jpl_produire",
+      "day" : 8,
+      "url" : "https://qiita.com/jpl_produire/items/9023694b8c80a6bb06bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルでレトロRPGを作る",
+      "author" : "@jpl_produire",
+      "day" : 9,
+      "url" : "https://qiita.com/jpl_produire/items/0320735648d05e8b75aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルで15パズルを作る",
+      "author" : "@jpl_produire",
+      "day" : 10,
+      "url" : "https://qiita.com/jpl_produire/items/2c9c7b2d1c4613de67e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "円グラフを描く",
+      "author" : "@nipo",
+      "day" : 11,
+      "url" : "https://qiita.com/nipo/items/b4c8b96292a0161c6b41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "表部品でカーソルを右に動かせるか考えてみる",
+      "author" : "@sanei_media",
+      "day" : 12,
+      "url" : "https://qiita.com/sanei_media/items/98915b81491f9ec182b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "真偽値と文字列の足し算",
+      "author" : "@nipo",
+      "day" : 13,
+      "url" : "https://qiita.com/nipo/items/00a08993c5309483fbac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かどうかを判定する手順の使い方",
+      "author" : "@nipo",
+      "day" : 14,
+      "url" : "https://qiita.com/nipo/items/7283fda7bc85d9a548af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "変数に入れた種類のインスタンスを作るには",
+      "author" : "@nipo",
+      "day" : 15,
+      "url" : "https://qiita.com/nipo/items/ae21f6c75513d7ef8ad3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルに雪を降らせる",
+      "author" : "@jpl_produire",
+      "day" : 16,
+      "url" : "https://qiita.com/jpl_produire/items/0d959b09596d211ec1ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルでマインスイーパを作る",
+      "author" : "@jpl_produire",
+      "day" : 17,
+      "url" : "https://qiita.com/jpl_produire/items/257636543fcb5d872642"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルで乱数サンプリングアルゴリズムを実装する",
+      "author" : "@Mopepe51",
+      "day" : 18,
+      "url" : "https://qiita.com/Mopepe51/items/0612d18db835a2334030"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "既存のアプリケーションに必要なデータを追加するプログラムを考えてみる",
+      "author" : "@sanei_media",
+      "day" : 19,
+      "url" : "https://qiita.com/sanei_media/items/1af5b315a668be1f6605"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "多次元配列",
+      "author" : "@nipo",
+      "day" : 20,
+      "url" : "https://qiita.com/nipo/items/32bc5be39c2ff5af03e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルで乱数",
+      "author" : "@Mopepe51",
+      "day" : 21,
+      "url" : "https://qiita.com/Mopepe51/items/9086eac9670ebdbbe2ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルで文字列操作",
+      "author" : "@nipo",
+      "day" : 22,
+      "url" : "https://qiita.com/nipo/items/a8e1691ef7d2b90bc0ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "何か作ります",
+      "author" : "@jpl_produire",
+      "day" : 23,
+      "url" : "https://qiita.com/jpl_produire/private/c5235d0b9a15db158f29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロデルで水素原子の電子雲を計算しよう",
+      "author" : "@Mopepe51",
+      "day" : 24,
+      "url" : "https://qiita.com/Mopepe51/items/a09674d3e13868622f7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@jpl_produire"
+    }
+  ]
+}

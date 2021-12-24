@@ -1,0 +1,140 @@
+{
+  "created_at" : "2021-12-24T09:25:42Z",
+  "calendar_meta_data" : {
+    "author" : "@kurema",
+    "category" : "その他",
+    "lgtm" : 9,
+    "subscribers" : 16,
+    "title" : "計算と哲学 Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "philosophy",
+    "url" : "https://qiita.com/advent-calendar/2021/philosophy"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学】ビッグバン以前の世界？",
+      "author" : "@kurema",
+      "day" : 1,
+      "url" : "https://qiita.com/kurema/items/a1d5ac89a0c06960c9c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学】計算を数える困難さ",
+      "author" : "@kurema",
+      "day" : 2,
+      "url" : "https://qiita.com/kurema/items/1a89043ece4abc86b16f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学】計算結果はあらかじめ決まっている？",
+      "author" : "@kurema",
+      "day" : 3,
+      "url" : "https://qiita.com/kurema/items/4155c2349ecb093baf14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学】計算機が数学より先だったら (SF風)",
+      "author" : "@kurema",
+      "day" : 4,
+      "url" : "https://qiita.com/kurema/items/9f86aef8b7306c46d5c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学？】宇宙人へのコンタクト",
+      "author" : "@kurema",
+      "day" : 5,
+      "url" : "https://qiita.com/kurema/items/a30377b322ddcc35d01e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学】世界は計算だ！",
+      "author" : "@kurema",
+      "day" : 6,
+      "url" : "https://qiita.com/kurema/items/c1deae7e5539b893f936"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学】意識と計算 / 後書き",
+      "author" : "@kurema",
+      "day" : 7,
+      "url" : "https://qiita.com/kurema/items/3e9e2c3b2f6b6bbce094"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@Sunset_Yuhi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算と哲学】計算の位置付け",
+      "author" : "@bellvine",
+      "day" : 23,
+      "url" : "https://qiita.com/bellvine/items/07f412b767b306ade59f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

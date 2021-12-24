@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T04:25:30Z",
+  "calendar_meta_data" : {
+    "author" : "@okaits",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 27,
+    "title" : "HTML Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "html",
+    "url" : "https://qiita.com/advent-calendar/2021/html"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の要素名として解釈される文字",
+      "author" : "@nanto_vi",
+      "day" : 1,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/01/9444797"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォームコントロール要素をフォーム外に置く",
+      "author" : "@nanto_vi",
+      "day" : 2,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/02/9445014"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォームの送信ボタンごとに挙動を変える",
+      "author" : "@nanto_vi",
+      "day" : 3,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/03/9445242"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の dl 要素内のグループを明示する",
+      "author" : "@nanto_vi",
+      "day" : 4,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/04/9445522"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "同じような HTML コードでもパース結果が異なることがある",
+      "author" : "@nanto_vi",
+      "day" : 5,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/05/9445802"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の form 要素の rel 属性",
+      "author" : "@nanto_vi",
+      "day" : 6,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/06/9446044"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の属性値の先頭または末尾に含まれる空白文字の扱い",
+      "author" : "@nanto_vi",
+      "day" : 7,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/07/9446296"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML 文書内で翻訳してよい箇所かどうか指定する",
+      "author" : "@nanto_vi",
+      "day" : 8,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/08/9446555"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のテキスト入力欄の minlength 属性",
+      "author" : "@nanto_vi",
+      "day" : 9,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/09/9446752"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML 要素の innerText プロパティで要素が生成されうる",
+      "author" : "@nanto_vi",
+      "day" : 10,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/10/9446902"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の暗黙的なフォーム送信と CSS の :default 疑似クラス",
+      "author" : "@nanto_vi",
+      "day" : 11,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/11/9447305"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML 標準における段落の概念",
+      "author" : "@nanto_vi",
+      "day" : 12,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/12/9447523"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の透過的内容モデル",
+      "author" : "@nanto_vi",
+      "day" : 13,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/13/9447810"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の属性値とテキストのパース結果の違い",
+      "author" : "@nanto_vi",
+      "day" : 14,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/14/9448079"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の iframe 要素の srcdoc 属性で埋め込まれる文書の URL",
+      "author" : "@nanto_vi",
+      "day" : 15,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/15/9448291"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォーム送信に使われたボタンを判別する",
+      "author" : "@nanto_vi",
+      "day" : 16,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/16/9448521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の文書型宣言に含まれる要素名",
+      "author" : "@nanto_vi",
+      "day" : 17,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/17/9448724"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォーム送信データを書き換える",
+      "author" : "@nanto_vi",
+      "day" : 18,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/18/9448985"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl で HTML をパースするモジュール",
+      "author" : "@nanto_vi",
+      "day" : 19,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/19/9449330"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の img 要素と image タグ",
+      "author" : "@nanto_vi",
+      "day" : 20,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/20/9449587"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォームでアップロードしてほしいファイル種別を指定する",
+      "author" : "@nanto_vi",
+      "day" : 21,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/21/9449821"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web Platform Tests での HTML 標準のテストに触れる",
+      "author" : "@nanto_vi",
+      "day" : 22,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/22/9450085"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のテキスト入力欄の入力値の一部を置換する",
+      "author" : "@nanto_vi",
+      "day" : 23,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/23/9450331"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T06:57:31Z",
+  "calendar_meta_data" : {
+    "author" : "インテル® FPGA  ユーザーコミュニティ",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 86,
+    "subscribers" : 14,
+    "title" : "インテル® FPGA Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "intelfpga",
+    "url" : "https://qiita.com/advent-calendar/2021/intelfpga"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Cyclone® V SoC＋インテル® Movidius™ Myriad™ X＋OpenVINO™ ツールキットを使用したエッジAI開発環境",
+      "author" : "@element",
+      "day" : 1,
+      "url" : "https://qiita.com/element/items/b28af79ad10398776f7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイPlatform Designerコンポーネントを作ろう",
+      "author" : "@s_osafune",
+      "day" : 2,
+      "url" : "https://qiita.com/s_osafune/items/0486c9cbe6ee33b3960b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FPGA K3sクラスターを作成する Part1 (準備・Server Node/クライアント編)",
+      "author" : "@hikawai",
+      "day" : 3,
+      "url" : "https://qiita.com/hikawai/items/718e1cee50e83d33e448"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Super Sample Rate データ系列向けの FIR フィルタを Mealy Machine の変形で作ってみた",
+      "author" : "@rtl_modeler",
+      "day" : 4,
+      "url" : "https://qiita.com/rtl_modeler/items/05d020b6ad6e9c0c006c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インテル® PACでホストアプリケーションからネットワークまでのレイテンシを測定してみる",
+      "author" : "@yukitaketake",
+      "day" : 5,
+      "url" : "https://qiita.com/yukitaketake/items/9ae7d758c86f0c1f04cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nios® V processor インストール、Hello World実行編",
+      "author" : "@ys11qiitai",
+      "day" : 6,
+      "url" : "https://qiita.com/ys11qiitai/items/10a62072081341441e87"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intel PACのAFUをGitLab CIでテストする",
+      "author" : "@ytoda129",
+      "day" : 7,
+      "url" : "https://qiita.com/ytoda129/items/eb5e64963c793777a076"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FPGA K3sクラスターを作成する Part2 (Agent Node/テスト編)",
+      "author" : "@hikawai",
+      "day" : 8,
+      "url" : "https://qiita.com/hikawai/items/6791dde71e63116fa95c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DPI-C で C言語と SystemVerilog をインターフェース【Windows無償ツールで実現】",
+      "author" : "@Alonso2005",
+      "day" : 9,
+      "url" : "https://qiita.com/Alonso2005/items/7ccac7800578699d3427"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インテル® FPGA ビデオ＆画像処理スイートをCyclone® 10 GX FPGAで動かしてみる",
+      "author" : "@sshino",
+      "day" : 10,
+      "url" : "https://qiita.com/sshino/items/de60b17ef3809f8769fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intel HLSを使ってCPUを記述してみた",
+      "author" : "@TanigawaHCU",
+      "day" : 11,
+      "url" : "https://qiita.com/TanigawaHCU/items/4afb3413ad6a0032b7f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "P4 Compiler for FPGA とN3000カードでNAT機能を実現",
+      "author" : "@sukech",
+      "day" : 12,
+      "url" : "https://qiita.com/sukech/items/1ceaba47603d41ca691b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nios® V processor ブート、シミュレーション、デバッグ編",
+      "author" : "@ys11qiitai",
+      "day" : 13,
+      "url" : "https://qiita.com/ys11qiitai/items/6cdd904f3c251de15877"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Quartus Lite で使えたVHDL-2008機能",
+      "author" : "@windy",
+      "day" : 14,
+      "url" : "https://qiita.com/windy/items/c2cc8a5456bce03e5753"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intel SoCFPGA を WiFi に接続する",
+      "author" : "@Taka1023",
+      "day" : 15,
+      "url" : "https://qiita.com/Taka1023/items/f7f5e95c1f35c00cf502"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FPGA Cloud Connectivity Kitを使ってみた",
+      "author" : "@milkyellow",
+      "day" : 16,
+      "url" : "https://qiita.com/milkyellow/items/386fad612eb332766c21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "oneAPIのUnified Shared Memory（USM）を使ってみた",
+      "author" : "@kondoust",
+      "day" : 17,
+      "url" : "https://qiita.com/kondoust/items/aeb041580b49e1298f53"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@miyox"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows 向け Intel HLS Compiler セットアップ方法（非公式：Visual Studio 無し版）",
+      "author" : "@hihoo",
+      "day" : 19,
+      "url" : "https://qiita.com/hihoo/items/581cf9b265dd29f12482"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ディープラーニングによるギターサウンド分類を作成してFPGAに実装してみた",
+      "author" : "@SacredTubes",
+      "day" : 20,
+      "url" : "https://qiita.com/SacredTubes/items/18a7850d0ed5fe5c1337"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenStack Cyborgを利用してFPGA仮想化基盤を作ろう",
+      "author" : "@YuTAKANO",
+      "day" : 21,
+      "url" : "https://qiita.com/YuTAKANO/items/1d9818a8820a72e21d95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenOCD がやってきた",
+      "author" : "@eofz",
+      "day" : 22,
+      "url" : "https://qiita.com/eofz/items/c5df493e5290a12e8e8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "oneAPIを使ったFPGA上でのグラフ探索アルゴリズムの実装",
+      "author" : "@rugby_tan",
+      "day" : 23,
+      "url" : "https://qiita.com/rugby_tan/items/724c74dd7606c27a1e8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "既存の Nios® II/e システムを Nios® V/m に移植してみた",
+      "author" : "@oritin",
+      "day" : 24,
+      "url" : "https://qiita.com/oritin/items/af144f45b50679d2843c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@TomohiroUeno"
+    }
+  ]
+}

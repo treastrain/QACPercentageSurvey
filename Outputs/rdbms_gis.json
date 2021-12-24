@@ -1,0 +1,139 @@
+{
+  "created_at" : "2021-12-24T12:30:38Z",
+  "calendar_meta_data" : {
+    "author" : "@sakaik",
+    "category" : "データベース",
+    "lgtm" : 12,
+    "subscribers" : 35,
+    "title" : "RDBMS-GIS(MySQL,PostgreSQLなど) Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "rdbms_gis",
+    "url" : "https://qiita.com/advent-calendar/2021/rdbms_gis"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL GIS機能この1年(2021年)",
+      "author" : "@sakaik",
+      "day" : 1,
+      "url" : "https://sakaik.hateblo.jp/entry/20211201/mysql_all_gis_2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostGIS と Hasura でサクッと範囲検索 API の作成",
+      "author" : "@high-u",
+      "day" : 2,
+      "url" : "https://qiita.com/high-u/items/ee9adda51d0cd93fb405"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GeoPackageの使い方（ベクトルデータ編）",
+      "author" : "@ozo360",
+      "day" : 9,
+      "url" : "https://zenn.dev/akioz/articles/659c866710e4bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "書籍「その問題、デジタル地図が解決します」ご紹介",
+      "author" : "@meijik",
+      "day" : 16,
+      "url" : "http://blog.kimuradb.com/?eid=877657"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OGR de SQL",
+      "author" : "@tohka383",
+      "day" : 18,
+      "url" : "https://qiita.com/tohka383/items/f067e00cb28625f1ba5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pgGeocoderとpg_featureservで、簡易ジオコーダAPIを試してみる",
+      "author" : "@sanak",
+      "day" : 19,
+      "url" : "https://qiita.com/sanak/items/773ae86dadbfb2946546"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日は、MySQLのGISを使って検索を試してみるの日。",
+      "author" : "@updraft",
+      "day" : 20,
+      "url" : "https://updraft.hatenadiary.com/entry/2021/12/20/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLとPostgreSQL GISで観光情報を可視化してみる。(サブタイトル：shp2mysqlを利用してみた）",
+      "author" : "@RDBMS",
+      "day" : 21,
+      "url" : "https://techblog.lclco.com/entry/2021/12/20/064937"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

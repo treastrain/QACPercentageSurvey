@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T07:29:18Z",
+  "calendar_meta_data" : {
+    "author" : "ヤフー株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 53,
+    "title" : "Yahoo! JAPAN Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "yahoojapan",
+    "url" : "https://qiita.com/advent-calendar/2021/yahoojapan"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "新技術キャッチアップ効率化！iOSアプリエンジニアのナレッジ共有術",
+      "author" : "@tattn",
+      "day" : 1,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120130233754/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "よりセキュアなHadoopの作り方 〜 ApacheCon Asia 2021登壇報告",
+      "author" : "@2k0ri",
+      "day" : 2,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120230233757/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Deep Metric Learningによる、ホテルや飲食店などの拠点検索改善",
+      "author" : "@ydnjp",
+      "day" : 3,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120330233760/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache Pulsar Meetupの発表内容とヤフーにおける2021年のOSS/コミュニティー活動まとめ",
+      "author" : "@ydnjp",
+      "day" : 4,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120430233763/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "24時間の開発にモブプロを取り入れてみた（Internal Hack Day編）",
+      "author" : "@ydnjp",
+      "day" : 5,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120530233766/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大規模スクラムのプロジェクト実践事例 〜 不確実性を乗り切った工夫の紹介",
+      "author" : "@ydnjp",
+      "day" : 6,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120630233769/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ムード研究の最前線！ネットを通じて気分を数値化",
+      "author" : "@ydnjp",
+      "day" : 7,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120730233772/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規事業への挑戦から挫折まで、その経験をまるっと話します",
+      "author" : "@ydnjp",
+      "day" : 8,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120830233775/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマホのタップ操作の成功率を算出するモデル ～ UIデザインにおけるユーザビリティの推定",
+      "author" : "@ydnjp",
+      "day" : 9,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120930233778/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Yahoo!メールのDMARC導入のその後と、「DMARCレポート」の活用術",
+      "author" : "@mas_noppo",
+      "day" : 10,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121030233781/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webデータマイニングのトップカンファレンス「WSDM」にて共著論文採択",
+      "author" : "@ydnjp",
+      "day" : 11,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121130233784/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache NiFi 2021年の最新動向とヤフーでの活用スタイル",
+      "author" : "@kotarot",
+      "day" : 12,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121230233787/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヤフーにおける技術獲得の考え方、AI倫理の議論も添えて",
+      "author" : "@ydnjp",
+      "day" : 13,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121330233790/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヤフーでは開発迅速性と品質のバランスをどう取ってるか",
+      "author" : "@ydnjp",
+      "day" : 14,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121430233793/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "計算量を抑えながら長時間の録音にも対応できる音声認識手法の提案",
+      "author" : "@ydnjp",
+      "day" : 15,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121530233796/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SRE事例 システムトラブル発生時の対応訓練（ディザスタリカバリトレーニング）の紹介",
+      "author" : "@ydnjp",
+      "day" : 16,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121630233799/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コロナ禍でデザイン思考を社内に広めた活動 ～ 新しい働き方でもユーザーファーストを極めるために",
+      "author" : "@ydnjp",
+      "day" : 17,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121730233802/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vald: 大規模・分散・高速な近似近傍密ベクトル検索エンジンの紹介（OSS）",
+      "author" : "@ydnjp",
+      "day" : 18,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121830233805/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動画のアクセシビリティ",
+      "author" : "@ydnjp",
+      "day" : 19,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121930233808/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヤフーにおける自然言語処理モデルBERTの利用",
+      "author" : "@ydnjp",
+      "day" : 20,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021122030233811/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アクセス制御オープンソース「Athenz」、CNCF Landscape 参加までの道のり",
+      "author" : "@ydnjp",
+      "day" : 21,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021122130233814/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSアプリ用のコード自動生成ツールを作って業務効率を上げる",
+      "author" : "@ydnjp",
+      "day" : 22,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021122230233817/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EOLを迎えたSensuがPrometheusに託した、2万台規模のIaaS監視",
+      "author" : "@ydnjp",
+      "day" : 23,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021122330233820/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NIST SP800-171へ準拠することが決まったら 〜 FIPSモードを有効化した場合",
+      "author" : "@ydnjp",
+      "day" : 24,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021122430233823/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ydnjp"
+    }
+  ]
+}

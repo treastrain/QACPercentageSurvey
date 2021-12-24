@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-24T03:14:44Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ミクシィ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 124,
+    "subscribers" : 10,
+    "title" : "ミクシィグループ QAエンジニア Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "mixi_qa",
+    "url" : "https://qiita.com/advent-calendar/2021/mixi_qa"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "不具合報告書はなんのために？~天気予報は天気を予報するためにあるのではない~",
+      "author" : "@syo-ryu-kennn",
+      "day" : 1,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/4ab5d9d99446a20cb2c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内用QAポータルサイトを製作した話",
+      "author" : "@rk0802",
+      "day" : 2,
+      "url" : "https://qiita.com/rk0802/items/3b7c76b04d68b3e2d399"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ボードゲームとソフトウェアテストの似ているところ",
+      "author" : "@syo-ryu-kennn",
+      "day" : 3,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/094a7cd93bdb5171c53d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザーペルソナやUI・UXから考えるWebサイトQA",
+      "author" : "@rk0802",
+      "day" : 4,
+      "url" : "https://qiita.com/rk0802/items/305228ea07bbbe7f75ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ゲームQA】レビューのチェックリスト",
+      "author" : "@wa_cchi",
+      "day" : 5,
+      "url" : "https://qiita.com/wa_cchi/items/0fe9f8831acb5edafa4e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト管理ツールの導入が面倒な理由",
+      "author" : "@m-kawa",
+      "day" : 6,
+      "url" : "https://qiita.com/m-kawa/items/dc4860c1e797bdd66529"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「引き継ぎ」という仕事は無い、かもしれない",
+      "author" : "@syo-ryu-kennn",
+      "day" : 7,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/e259d034de71a11923b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【実用的？】バグりやすい手順を雑多に並べる記事",
+      "author" : "@syo-ryu-kennn",
+      "day" : 8,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/e78e5cc4890174e41d30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAエンジニアに必要な素養を挙げてみる",
+      "author" : "@syo-ryu-kennn",
+      "day" : 9,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/3587ce1d33941d41168e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ゲーム】QAからプランナーに異動する話",
+      "author" : "@wa_cchi",
+      "day" : 10,
+      "url" : "https://qiita.com/wa_cchi/items/3237eb8704246e4a9ea9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドラえもんで学ぶQA観点出し（ワークショップ）",
+      "author" : "@rk0802",
+      "day" : 11,
+      "url" : "https://qiita.com/rk0802/items/c34367a9672c6dc49bc7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト自動化 OSSかSaaSか",
+      "author" : "@syo-ryu-kennn",
+      "day" : 13,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/3bc5eb887394964bf841"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームQA、ロンチか運用か。やるならどっち！？",
+      "author" : "@syo-ryu-kennn",
+      "day" : 14,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/6e410239ebd87b310c9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト自動化に関心なかった私が、テスト自動化を進める理由",
+      "author" : "@syo-ryu-kennn",
+      "day" : 15,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/9df64cce871998eae877"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 再発防止MTGを開こう",
+      "author" : "@wa_cchi",
+      "day" : 16,
+      "url" : "https://qiita.com/wa_cchi/items/f327dae4baadcbe16395"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAに向いてる(かもしれない)職業",
+      "author" : "@syo-ryu-kennn",
+      "day" : 17,
+      "url" : "https://qiita.com/syo-ryu-kennn/items/b6f466668743f5739511"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAのお仕事を楽しむ",
+      "author" : "@fuku0925",
+      "day" : 23,
+      "url" : "https://qiita.com/fuku0925/items/de32b24852e6c12d5a9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "探索的テストについて開発本部QAの意見を聞いてみた件",
+      "author" : "@alice722",
+      "day" : 24,
+      "url" : "https://qiita.com/alice722/items/6cb487ecc63c6ba7bd45"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

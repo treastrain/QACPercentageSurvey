@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T11:15:22Z",
+  "calendar_meta_data" : {
+    "author" : "watnow",
+    "category" : "企業・学校・団体",
+    "lgtm" : 106,
+    "subscribers" : 3,
+    "title" : "watnow Advent Calendar Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "watnow-calendar",
+    "url" : "https://qiita.com/advent-calendar/2021/watnow-calendar"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "webデザインの知識無用！　 Boootstrapを使ってみた（超初級者編）",
+      "author" : "@ryunosukeabc",
+      "day" : 1,
+      "url" : "https://qiita.com/ryunosukeabc/items/6e8a227045159ec4995a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "！！初心者必見！！今だからわかるプログラミングをやり始めて知った専門用語集",
+      "author" : "@natonato",
+      "day" : 2,
+      "url" : "https://qiita.com/natonato/items/154863f167254935e36a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者による初心者のためのPython",
+      "author" : "@shinpochi2002",
+      "day" : 3,
+      "url" : "https://qiita.com/shinpochi2002/items/ca0be0d533c083a5d4ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【超初心者向け】Python  if文  比較演算子まとめ",
+      "author" : "@maru0402",
+      "day" : 4,
+      "url" : "https://qiita.com/maru0402/items/c19964a7f40eef41be50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者のための】Cファイルをサクサク実行する方法（Visual Studio Code）",
+      "author" : "@F-lapin",
+      "day" : 5,
+      "url" : "https://qiita.com/F-lapin/items/cb59f0406295009227dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ド初心者が使う】おすすめデザインツール＆サイト",
+      "author" : "@ysdiorikit1904",
+      "day" : 6,
+      "url" : "https://qiita.com/ysdiorikit1904/items/4126ab776ddfe62d85af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C言語入門】初心者がprintfについて語ってみた",
+      "author" : "@hirokiwa",
+      "day" : 7,
+      "url" : "https://qiita.com/hirokiwa/items/4e5b4200145c13613783"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "独学でWeb開発系言語に挑戦したい文系ド素人にはまずPHPがおすすめかもしれない。",
+      "author" : "@TN-YY",
+      "day" : 8,
+      "url" : "https://qiita.com/TN-YY/items/5aa7b0020389af96980a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『初心者卒業！』初級から上級までのswift用語集!",
+      "author" : "@ynkn0504",
+      "day" : 9,
+      "url" : "https://qiita.com/ynkn0504/items/0d0016ffbac1b6977e38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発中にエラーを吐いてよくQiitaの記事にたどり着くあなたへ",
+      "author" : "@jmsrsyunrinsyunki",
+      "day" : 10,
+      "url" : "https://qiita.com/jmsrsyunrinsyunki/items/6741f0d656e6e9217f05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "俺的iPadプログラミング環境",
+      "author" : "@mercy34mercy",
+      "day" : 11,
+      "url" : "https://qiita.com/mercy34mercy/items/d4af2bcc52efd7da31ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bootstrapは超便利だよって話",
+      "author" : "@KURO__48",
+      "day" : 12,
+      "url" : "https://qiita.com/KURO__48/items/bbd1429e66cb8165668e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競技プログラミングって？有名問題「Ants(蟻)」を解説",
+      "author" : "@wakanappa22",
+      "day" : 13,
+      "url" : "https://qiita.com/wakanappa22/items/89969f30dbf21d426b04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebAssemblyから見据えるコンピューティングの未来（専門じゃない人むけ）(1/2)",
+      "author" : "@poe_hoshi",
+      "day" : 14,
+      "url" : "https://qiita.com/poe_hoshi/items/9aae358a36ba0a7e1adb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@chell_uoxou"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】iPhoneのAR KitでFace Trackingし、Vroid Hubの3Dアバターを動かすハンズオン",
+      "author" : "@amachi0",
+      "day" : 16,
+      "url" : "https://qiita.com/amachi0/items/d830bd89a18b78745b84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者必見】C言語うまくいかないの大体これ",
+      "author" : "@hicaruyui",
+      "day" : 17,
+      "url" : "https://qiita.com/hicaruyui/items/5f91855b3fa4ddb8d416"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【入門】インターフェースデザインの心理学 〜知ると役に立つ5つのポイント〜",
+      "author" : "@nosuke_engineer",
+      "day" : 18,
+      "url" : "https://qiita.com/nosuke_engineer/items/6c97ea09cb9f293f84b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【エンジニア知識不要】スプシで簡単に一括でカレンダー招待する方法",
+      "author" : "@uizprg",
+      "day" : 19,
+      "url" : "https://qiita.com/uizprg/items/2adc635a64656e458c05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者向け】KPIとマーケティングの話",
+      "author" : "@nemu_ru_00",
+      "day" : 20,
+      "url" : "https://qiita.com/nemu_ru_00/items/a5ff1f58f0aee4c42c40"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マッチングアプリで男性にパートナーが見つからない理由",
+      "author" : "@Kazuki-Shimizu513",
+      "day" : 21,
+      "url" : "https://qiita.com/Kazuki-Shimizu513/items/40c94efbd7b0c7c161b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者向け】WebAPIについて簡単にまとめてみた。",
+      "author" : "@takasynapse",
+      "day" : 22,
+      "url" : "https://qiita.com/takasynapse/items/62c13ed08c10e578c90d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人アプリをGoogle広告に出したら思いのほか人が来た話",
+      "author" : "@_s_",
+      "day" : 23,
+      "url" : "https://qiita.com/_s_/items/109dba3ebf43d99ec7e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Piのセットアップ(これで完結)（初心者）",
+      "author" : "@Momomomo77777",
+      "day" : 24,
+      "url" : "https://qiita.com/Momomomo77777/items/92324a86e658bbd9dd6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Antony"
+    }
+  ]
+}

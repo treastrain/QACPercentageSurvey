@@ -1,0 +1,289 @@
+{
+  "created_at" : "2021-12-24T12:57:09Z",
+  "calendar_meta_data" : {
+    "author" : "@ucan-lab",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 641,
+    "subscribers" : 112,
+    "title" : "Laravel Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "laravel",
+    "url" : "https://qiita.com/advent-calendar/2021/laravel"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "1年半振りのメジャーバージョンアップ(予定)！Laravel9の新機能ピックアップ！",
+      "author" : "@ucan-lab",
+      "day" : 1,
+      "url" : "https://qiita.com/ucan-lab/items/7bde88a5d29a4e56085d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LarastanでLaravelプロジェクトを静的解析しよう！",
+      "author" : "@MasaKu",
+      "day" : 2,
+      "url" : "https://qiita.com/MasaKu/items/7ed6636a57fae12231e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel APISpec Generatorの使い方",
+      "author" : "@kotamat",
+      "day" : 3,
+      "url" : "https://techblog.roxx.co.jp/entry/2021/12/03/092237"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel で JSON 形式の Web API を実装する時に考えること",
+      "author" : "@yoshikyoto",
+      "day" : 4,
+      "url" : "https://www.utakata.work/entry/laravel/json-web-api"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Activity Logを使って簡単に変更履歴機能を実装しよう",
+      "author" : "@bumptakayuki",
+      "day" : 5,
+      "url" : "https://qiita.com/bumptakayuki/items/55edb095ac8bf8558460"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Eloquent Model Factory の今昔",
+      "author" : "@nunulk",
+      "day" : 6,
+      "url" : "https://qiita.com/nunulk/items/37cfe88b5fa999c71ea1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【超入門】Laravelのデバッグ手法22選",
+      "author" : "@ucan-lab",
+      "day" : 7,
+      "url" : "https://qiita.com/ucan-lab/items/29614d0f3ded1d3a94fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelで開発速度を爆速にしてくれるパッケージ3つ 🚀",
+      "author" : "@Zap212",
+      "day" : 8,
+      "url" : "https://qiita.com/Zap212/items/cb37ba321ffb831100a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "laravel-enumの使い方を都度調べてしまうのでまとめた",
+      "author" : "@dai_chi",
+      "day" : 9,
+      "url" : "https://qiita.com/dai_chi/items/4d883d96eb5f57829e09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Socialiteで各プロバイダーごとに取得できるユーザー詳細情報のまとめ",
+      "author" : "@tamakiiii",
+      "day" : 10,
+      "url" : "https://qiita.com/tamakiiii/items/5707cf3ccfbc64362c21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "wikiによるとバージョン4(2013年5月)ではコードがゼロベースから書き直されたらしい。何があったんだろうね。",
+      "author" : "@kachan_0627",
+      "day" : 11,
+      "url" : "https://qiita.com/kachan_0627/items/7dc1f9e7e7c0737e1e78"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel on Cloud Run created by Terraform Modules",
+      "author" : "@sogahisashi",
+      "day" : 12,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-12-2dda7e7314fc48"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "細かすぎて伝わらないLaravel選手権8（laravel8）",
+      "author" : "@okdyy75",
+      "day" : 13,
+      "url" : "https://qiita.com/okdyy75/items/0f3566597a8f7e0107b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LaravelリポジトリのDiscussionされてるアイデアを読んでみる",
+      "author" : "@hiro5963",
+      "day" : 14,
+      "url" : "https://qiita.com/hiro5963/items/4b9f8d6601b053ecabe2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelで❝サービスクラス❞を排除したクリーンな設計",
+      "author" : "@YiwaiY",
+      "day" : 15,
+      "url" : "https://qiita.com/YiwaiY/items/121fe0e73279687261b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel の firstOrNew() firstOrCreate() をレースコンディション考慮で実用的に使う",
+      "author" : "@mpyw",
+      "day" : 16,
+      "url" : "https://qiita.com/mpyw/items/f92f197d6e7f0df231a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Laravel】PHPUnitでテストコードを書くときのTipsやサンプルコード",
+      "author" : "@shimotaroo",
+      "day" : 17,
+      "url" : "https://qiita.com/shimotaroo/items/934e05d3d7335b545429"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel x Pestの覚書",
+      "author" : "@YUM_3",
+      "day" : 18,
+      "url" : "https://qiita.com/YUM_3/items/d65a85895212426179cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Notion APIについて",
+      "author" : "@kumamon_engineer",
+      "day" : 19,
+      "url" : "https://qiita.com/kumamon_engineer/items/095b9848ad3bacae3d0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@kyoya0819"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@77web@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel8マイナーバージョンアップで追加された機能を振り返る",
+      "author" : "@imah",
+      "day" : 22,
+      "url" : "https://qiita.com/imah/items/a617a0071e8c59dd7dd6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Laravel] 動的プロパティと Eager Loading",
+      "author" : "@nekohan",
+      "day" : 23,
+      "url" : "https://qiita.com/nekohan/items/f909ef78d1cd83d58817"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP初心者とお仕事した時に用意したコーディングルールのテンプレ",
+      "author" : "@namizatork",
+      "day" : 24,
+      "url" : "https://qiita.com/namizatork/items/79b0a8002575bc74dfd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kai0310"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20,
+      "author" : "@jnlmyz"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "LaravelでCarbon\\CarbonとIlluminate\\Support\\CarbonとCarbon\\CarbonImmutableで迷ったらCarbonImmutable",
+      "author" : "@YUM_3",
+      "day" : 21,
+      "url" : "https://qiita.com/YUM_3/items/d27c40a748506748d799"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@nunulk"
+    }
+  ]
+}

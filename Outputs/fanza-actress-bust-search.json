@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T10:52:02Z",
+  "calendar_meta_data" : {
+    "author" : "@fabsabsfabsabs",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 26,
+    "subscribers" : 44,
+    "title" : "驚異のFANZA女優検索（ひとり） Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "fanza-actress-bust-search",
+    "url" : "https://qiita.com/advent-calendar/2021/fanza-actress-bust-search"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "👓メガネをかけたFANZA女優をピックアップした",
+      "author" : "@fabsabsfabsabs",
+      "day" : 1,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/679d0e2e21af28ca9691"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "似た顔のFANZA女優を顔写真から検索出来るようにした",
+      "author" : "@fabsabsfabsabs",
+      "day" : 2,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/c1676cbe2941182ac2c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "似た顔のFANZA女優を顔写真から検索出来るUI/UXを考えるのに苦労した",
+      "author" : "@fabsabsfabsabs",
+      "day" : 3,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/55413bb770db95db3a69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "似た顔のFANZA女優を顔写真から検索出来るAJAX実装に苦労した",
+      "author" : "@fabsabsfabsabs",
+      "day" : 4,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/3faaa72ed8f78d2ba6a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "似た顔のFANZA女優を顔写真から検索出来るサンプルを用意するのに苦労した",
+      "author" : "@fabsabsfabsabs",
+      "day" : 5,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/0c8248a8f86970b38c76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 似たプロフィールのFANZA女優を検索出来るようにした",
+      "author" : "@fabsabsfabsabs",
+      "day" : 6,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/a649a8ab53209fe62b1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TwitterとInstagramをやっているFANZA女優を一覧で表示するページを作った",
+      "author" : "@fabsabsfabsabs",
+      "day" : 7,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/ac88054eaa151fff54f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "夜のFANZA女優モード（ダークモード）を実装した",
+      "author" : "@fabsabsfabsabs",
+      "day" : 8,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/17c0b89f8a08dcc6c081"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "多言語対応をしようとして諦めた話",
+      "author" : "@fabsabsfabsabs",
+      "day" : 9,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/189c646893010c1e21ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「驚異のFANZA女優検索」という名前について",
+      "author" : "@fabsabsfabsabs",
+      "day" : 10,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/1159d406e2d4b54eb5de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FANZA女優データの自動更新",
+      "author" : "@fabsabsfabsabs",
+      "day" : 11,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/3e5ad92f7eff8a59e89e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "驚異のFANZA女優検索のナビゲーションバーのこだわり",
+      "author" : "@fabsabsfabsabs",
+      "day" : 12,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/5a5d0aee0f540784dc72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "驚異のFANZA女優検索のTOPページのメイン部分のこだわり",
+      "author" : "@fabsabsfabsabs",
+      "day" : 13,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/acbae6660cc912caeb5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "年齢認証ページの作り方",
+      "author" : "@fabsabsfabsabs",
+      "day" : 14,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/0c212c015ae2183d2e63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "前へ次へと移動できる動画再生機能を実装した",
+      "author" : "@fabsabsfabsabs",
+      "day" : 15,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/5ff1722910d79fd40ec4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SEO&OGP対応",
+      "author" : "@fabsabsfabsabs",
+      "day" : 16,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/098edb55e66213b55a81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "驚異のFANZA女優検索のTwitter（とInstagram）",
+      "author" : "@fabsabsfabsabs",
+      "day" : 17,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/43659e9a1b3fc9f39023"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パンくずリストと階層表現",
+      "author" : "@fabsabsfabsabs",
+      "day" : 18,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/5d45035bfd795fdb1034"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めての人に見てもらう",
+      "author" : "@fabsabsfabsabs",
+      "day" : 19,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/e16ed7f9878580b0f5fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2つの名前の管理の仕方",
+      "author" : "@fabsabsfabsabs",
+      "day" : 20,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/b903697676fa7f115bbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アナリティクスによるサイト分析",
+      "author" : "@fabsabsfabsabs",
+      "day" : 21,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/20290cbc476a52531288"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サイトの収益について",
+      "author" : "@fabsabsfabsabs",
+      "day" : 22,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/219f739d29ad24dd2bb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アダルトサイトの相互リンクに自分のサイトも乗っかろうとして止めた",
+      "author" : "@fabsabsfabsabs",
+      "day" : 23,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/ecacdea7d07956c112ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アダルトサイト開発はカーテンの向こう側",
+      "author" : "@fabsabsfabsabs",
+      "day" : 24,
+      "url" : "https://qiita.com/fabsabsfabsabs/items/26ae584f0bad2a3f0db6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@fabsabsfabsabs"
+    }
+  ]
+}

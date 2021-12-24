@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T03:02:07Z",
+  "calendar_meta_data" : {
+    "author" : "@e99h2121",
+    "category" : "その他",
+    "lgtm" : 159,
+    "subscribers" : 6,
+    "title" : "アドベントカレンダーデラックス Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "advent-calendar-delaxe",
+    "url" : "https://qiita.com/advent-calendar/2021/advent-calendar-delaxe"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "「カタログ」概論",
+      "author" : "@e99h2121",
+      "day" : 1,
+      "url" : "https://qiita.com/e99h2121/items/2e992ba08be2ad324124"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マネージャーのお仕事をたのしくしたい",
+      "author" : "@e99h2121",
+      "day" : 2,
+      "url" : "https://qiita.com/e99h2121/items/2d6e6045df53ab527b4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "良いチームや良い製品を作るには、共通言語や共通体験を持つのが良いという仮説",
+      "author" : "@e99h2121",
+      "day" : 3,
+      "url" : "https://qiita.com/e99h2121/items/ec25c121ca1857a34bb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「20年弱開発をやっていて一番嬉しかった瞬間」",
+      "author" : "@e99h2121",
+      "day" : 4,
+      "url" : "https://qiita.com/e99h2121/items/9dd41104671286904830"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "育児していたからこそエンジニアのお仕事に役立ったこと10選",
+      "author" : "@e99h2121",
+      "day" : 5,
+      "url" : "https://qiita.com/e99h2121/items/db7e54c111ffcd3c3957"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "質問できるひとは強い",
+      "author" : "@e99h2121",
+      "day" : 6,
+      "url" : "https://qiita.com/e99h2121/items/72132c392c072d4ab097"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "失敗を披露できるひとは強い",
+      "author" : "@e99h2121",
+      "day" : 7,
+      "url" : "https://qiita.com/e99h2121/items/76ce33317b8cebf3d713"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アンチパターン「野戦病院」",
+      "author" : "@e99h2121",
+      "day" : 8,
+      "url" : "https://qiita.com/e99h2121/items/c2b53ac16b38fda859cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発チーム的「電話の取り方」",
+      "author" : "@e99h2121",
+      "day" : 9,
+      "url" : "https://qiita.com/e99h2121/items/af3d72da7ce9aa45da5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "回答とは目線を合わせること",
+      "author" : "@e99h2121",
+      "day" : 10,
+      "url" : "https://qiita.com/e99h2121/items/7899b7055ed7c89a0c56"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "手を抜いたプログラム",
+      "author" : "@e99h2121",
+      "day" : 11,
+      "url" : "https://qiita.com/e99h2121/items/77be259b6d361dc54c73"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ケロポンズはすごい",
+      "author" : "@e99h2121",
+      "day" : 12,
+      "url" : "https://note.com/e99h2121/n/n087ea92726eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Issueを立てていただくよろこび",
+      "author" : "@e99h2121",
+      "day" : 13,
+      "url" : "https://qiita.com/e99h2121/items/246ec2354809ca0bfa4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Keep Calm",
+      "author" : "@e99h2121",
+      "day" : 14,
+      "url" : "https://qiita.com/e99h2121/items/50fbf33c542f0c3e97e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外との多拠点開発の話 - 東京で開発のための通翻訳チームを立ち上げたことを振り返る",
+      "author" : "@e99h2121",
+      "day" : 15,
+      "url" : "https://qiita.com/e99h2121/items/24f7beb0ee847332331e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外との多拠点開発の話 - 開発のための通翻訳チームの挑戦を振り返る",
+      "author" : "@e99h2121",
+      "day" : 16,
+      "url" : "https://qiita.com/e99h2121/items/00374d4bd27ec09b27e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外との多拠点開発の話 - 社内文書アンチパターン",
+      "author" : "@e99h2121",
+      "day" : 17,
+      "url" : "https://qiita.com/e99h2121/items/5f456421fdf8bd76d15b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QiitaのLGTMランキング記事を参考に、大事な「説明の順番」を考えた",
+      "author" : "@e99h2121",
+      "day" : 18,
+      "url" : "https://qiita.com/e99h2121/items/72c39263a549dc99eb3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実家の話とか年末の話とか",
+      "author" : "@e99h2121",
+      "day" : 19,
+      "url" : "https://note.com/e99h2121/n/n07c6dad6f7d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テキストコミュニケーションのTips",
+      "author" : "@e99h2121",
+      "day" : 20,
+      "url" : "https://qiita.com/e99h2121/items/9af582ec7f5ac76b0b99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内で開発として顧客フロント各位に向けて勉強会をしたので、その感想",
+      "author" : "@e99h2121",
+      "day" : 21,
+      "url" : "https://qiita.com/e99h2121/items/2d927bda7ba6bf158bd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Technical Writing: How to Write Software Documentationを修了したので、まとめ",
+      "author" : "@e99h2121",
+      "day" : 22,
+      "url" : "https://qiita.com/e99h2121/items/2f5a8965f5ca16217f3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Notion概要と、無料Markdownエディタとの比較",
+      "author" : "@e99h2121",
+      "day" : 23,
+      "url" : "https://qiita.com/e99h2121/items/727041904ea41d02b26c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発文書部のお仕事 2022年1月版",
+      "author" : "@e99h2121",
+      "day" : 24,
+      "url" : "https://qiita.com/e99h2121/items/b83423a07c975b349f3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@e99h2121"
+    }
+  ]
+}

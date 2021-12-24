@@ -1,0 +1,293 @@
+{
+  "created_at" : "2021-12-24T11:13:14Z",
+  "calendar_meta_data" : {
+    "author" : "@Akio_Tomiya",
+    "category" : "学術",
+    "lgtm" : 56,
+    "subscribers" : 88,
+    "title" : "物理学アドベントカレンダー Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "physics",
+    "url" : "https://qiita.com/advent-calendar/2021/physics"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ねぇ。Binder Parameterって知ってる？",
+      "author" : "@xparams",
+      "day" : 1,
+      "url" : "https://qiita.com/xparams/items/58f32e9936e18ccbf9af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "２１cm線で探る宇宙の夜明けと宇宙再電離",
+      "author" : "@SMBKRHYT",
+      "day" : 2,
+      "url" : "https://www.asj.or.jp/geppou/archive_open/2016_109_11/109_11_780.pdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenJijを使ったスピングラスの数値計算",
+      "author" : "@ywyamashiro",
+      "day" : 3,
+      "url" : "https://jijtech.hatenablog.com/entry/2021/12/03/204137"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リー群の任意の元はexp(リー代数の元)とかけるか？",
+      "author" : "@subarusatosi",
+      "day" : 4,
+      "url" : "http://physnakajima.html.xdomain.jp/Lorentz_Lie_exp.pdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ザイデル収差(幾何光学)",
+      "author" : "@subarusatosi",
+      "day" : 5,
+      "url" : "http://physnakajima.html.xdomain.jp/Seidel.pdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "重力のゲージ理論",
+      "author" : "@subarusatosi",
+      "day" : 6,
+      "url" : "http://physnakajima.html.xdomain.jp/Gauge_Theory_of_Gravity.pdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "隠れた変数理論のお気持ちとその導入 ～ボーム力学を代表に～",
+      "author" : "@r_koganezawa",
+      "day" : 7,
+      "url" : "https://qiita.com/r_koganezawa/items/0e933928fc7575b0458d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スピン模型をGPUを使って解く　（副題：monolishを使って固有値を計算してみる）",
+      "author" : "@fockl",
+      "day" : 8,
+      "url" : "https://qiita.com/fockl/items/f6446ff504b91be0027a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "太陽圏とリボン",
+      "author" : "@aDAVISk",
+      "day" : 9,
+      "url" : "https://qiita.com/aDAVISk/items/de7bca26d5d1f254cda8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "場の量子論と格子正則化",
+      "author" : "@Akio_Tomiya",
+      "day" : 10,
+      "url" : "https://zenn.dev/akio_tomiya/articles/b2078910e287c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプライン補間1 - 最適化問題としてのスプライン補間の定式化",
+      "author" : "@tchaikovsky1026",
+      "day" : 11,
+      "url" : "https://qiita.com/tchaikovsky1026/items/070ef4d5112297521013"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QKDから量子インターネットの物理入門",
+      "author" : "@mi2valley",
+      "day" : 12,
+      "url" : "https://qiita.com/mi2valley/items/096f0110dfee8bd50b44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "第二量子化入門",
+      "author" : "@cometscome_phys",
+      "day" : 13,
+      "url" : "https://qiita.com/cometscome_phys/items/006117cb6449f2589ebd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超伝導BCS理論",
+      "author" : "@cometscome_phys",
+      "day" : 14,
+      "url" : "https://qiita.com/cometscome_phys/items/0aed28297021aeb3bcf2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプライン補間2 - 多次元・高階微分への拡張",
+      "author" : "@tchaikovsky1026",
+      "day" : 15,
+      "url" : "https://qiita.com/tchaikovsky1026/items/79ddde1f39180e6feabc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子アルゴリズム（QSVT）について",
+      "author" : "@neutron63zf",
+      "day" : 16,
+      "url" : "https://neutron63zf.hatenablog.com/entry/2021/12/16/003930"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インフレーション宇宙論について",
+      "author" : "@KatagiriSo",
+      "day" : 17,
+      "url" : "https://www.researchgate.net/publication/357115952_infureshonyuzhoulunnitsuite"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンピュータの本質は0と1ではない",
+      "author" : "@amane-uehara",
+      "day" : 18,
+      "url" : "https://amane-uehara.github.io/20211218-adventcalendar/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LatticeQCD.jl から始めるLatticeQCD",
+      "author" : "@Akio_Tomiya",
+      "day" : 19,
+      "url" : "https://zenn.dev/akio_tomiya/articles/0e12647ecead86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電荷密度波の量子干渉",
+      "author" : "@khinagaki",
+      "day" : 20,
+      "url" : "https://note.com/ji3xok/n/n1e8124e64c1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年のarXiv/astrophチェックで面白かった論文をご紹介！",
+      "author" : "@github-nakasho",
+      "day" : 21,
+      "url" : "https://github-nakasho.github.io/astroph/2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非正準ハミルトン形式入門〜束縛された相空間の世界〜",
+      "author" : "@nrnrk",
+      "day" : 22,
+      "url" : "https://qiita.com/nrnrk/items/cdbc3a06fbd6f800a018"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@Akio_Tomiya"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "水素原子の数理入門",
+      "author" : "@adhara_mathphys",
+      "day" : 24,
+      "url" : "https://adharam.github.io/pdf/2021%e5%b9%b4%e7%89%a9%e7%90%86%e5%ad%a6%e3%82%a2%e3%83%89%e3%83%99%e3%83%b3%e3%83%88%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc24%e6%97%a5%e7%9b%ae.pdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@dave_quantum"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "バイオインフォマティクスは物理学だと言えるこれだけの理由",
+      "author" : "@Yh_Taguchi",
+      "day" : 1,
+      "url" : "https://qiita.com/Yh_Taguchi/items/1a80a004a47249203993"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "一般ハウスドルフ公式",
+      "author" : "@subarusatosi",
+      "day" : 9,
+      "url" : "http://physnakajima.html.xdomain.jp/General_Hausdorff.pdf"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19,
+      "author" : "@aDAVISk"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

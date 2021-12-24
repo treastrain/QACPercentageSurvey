@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:58:34Z",
+  "calendar_meta_data" : {
+    "author" : "CYBIRD",
+    "category" : "企業・学校・団体",
+    "lgtm" : 96,
+    "subscribers" : 4,
+    "title" : "CYBIRD Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "cybird",
+    "url" : "https://qiita.com/advent-calendar/2021/cybird"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "新規案件の設計について, 使用したサービスの紹介",
+      "author" : "@ntrv",
+      "day" : 1,
+      "url" : "https://qiita.com/ntrv/items/39bbf4b8bf7765ca72fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイで居留守を極める",
+      "author" : "@march_f",
+      "day" : 2,
+      "url" : "https://qiita.com/march_f/items/63e9a465083f07a59070"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリの通信回数を減らすためにやったこと",
+      "author" : "@kyorokyoro",
+      "day" : 3,
+      "url" : "https://qiita.com/kyorokyoro/items/3d357661613a6cb89d3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TargetSDK 30対応中にハマったこと",
+      "author" : "@chikako_ikeda",
+      "day" : 4,
+      "url" : "https://qiita.com/chikako_ikeda/items/14f3b279e8e27afe3124"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【新卒研修】Device Farmerの導入",
+      "author" : "@kappysan",
+      "day" : 5,
+      "url" : "https://qiita.com/kappysan/items/83406c969b7aa20c0d5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityにまつわる入社前後の変化",
+      "author" : "@cy_ssss",
+      "day" : 6,
+      "url" : "https://qiita.com/cy_ssss/items/e0d1d2435a48e4a00240"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "supervisorとLaravelのQueueを使ってみた",
+      "author" : "@kenta_kitagawa",
+      "day" : 7,
+      "url" : "https://qiita.com/kenta_kitagawa/items/c9144fe0e33e4e98d844"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大容量のデータをGoogleドライブにアップしよう",
+      "author" : "@yuki_utsumi",
+      "day" : 8,
+      "url" : "https://qiita.com/yuki_utsumi/items/ab9179b03b388a123893"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSTQB社内勉強会についてのあれそれ",
+      "author" : "@kazurasaka",
+      "day" : 9,
+      "url" : "https://qiita.com/kazurasaka/items/48d5849dc7778b8a254c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イケメンに絆されて入社したらScrollViewに囚われた話",
+      "author" : "@shiso_c",
+      "day" : 10,
+      "url" : "https://qiita.com/shiso_c/items/1ba6a0162928b3b4fceb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPでのサーバー間通信について",
+      "author" : "@naotwu",
+      "day" : 11,
+      "url" : "https://qiita.com/naotwu/items/07a987e39b5f53b0ded0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "itamaeを用いたサーバの構成管理",
+      "author" : "@ice_matcha3",
+      "day" : 12,
+      "url" : "https://qiita.com/ice_matcha3/items/a28330d7c3183d146d11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポケモンのデータ設計をしてみた",
+      "author" : "@ohmiha",
+      "day" : 13,
+      "url" : "https://qiita.com/ohmiha/items/77cf878353c0e11c768e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Heroku＆Phaserでかんたん環境構築",
+      "author" : "@cy-n_ao",
+      "day" : 14,
+      "url" : "https://qiita.com/cy-n_ao/items/2dbed28c544b18003f3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify+React+Node.jsを使ってWebSocket通信の簡単なチャットアプリを作ってみる",
+      "author" : "@utamakura",
+      "day" : 15,
+      "url" : "https://qiita.com/utamakura/items/5d4b4889e2fdd9fd38ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスの夜にボイパやラップで踊り狂うアレクサ",
+      "author" : "@kyukkyu81",
+      "day" : 16,
+      "url" : "https://qiita.com/kyukkyu81/items/e652e39a5de78748f03d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity1週間ゲームジャムで毎回やるいい加減な実装",
+      "author" : "@cy-tatsuya-sakai",
+      "day" : 17,
+      "url" : "https://qiita.com/cy-tatsuya-sakai/items/6d6dcea7008cdc11d111"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQLite meets Unity 〜Unityでローカルなデータベースを使おう〜",
+      "author" : "@whitemage_yu",
+      "day" : 18,
+      "url" : "https://qiita.com/whitemage_yu/items/8f6bfc54c392b458b929"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GooglePlayストアのOS対応とAPIレベル対応って何が違うの？説明してみた。",
+      "author" : "@koroneko",
+      "day" : 19,
+      "url" : "https://qiita.com/koroneko/items/8dfa64b299eb773cf89a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めての負荷試験とパフォーマンスチューニングで得た苦戦・快感・理解",
+      "author" : "@cy-seiyan",
+      "day" : 20,
+      "url" : "https://qiita.com/cy-seiyan/items/0c68b1d5d09076153fcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "研修中勉強したObserverパターンについて",
+      "author" : "@R_arai",
+      "day" : 21,
+      "url" : "https://qiita.com/R_arai/items/48238c49d04cb3c270ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity初心者がImageを発光させる",
+      "author" : "@cy-naull",
+      "day" : 22,
+      "url" : "https://qiita.com/cy-naull/items/dbe3a03cddd12306318b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "応用情報技術者試験に向けて失敗から学ぶ対策法",
+      "author" : "@gumita",
+      "day" : 23,
+      "url" : "https://qiita.com/gumita/items/3e84eef9d542e82d872a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒のコードリーディング",
+      "author" : "@S_onizawa",
+      "day" : 24,
+      "url" : "https://qiita.com/S_onizawa/items/ffebdfb13f621bef2bed"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@garyumaru"
+    }
+  ]
+}

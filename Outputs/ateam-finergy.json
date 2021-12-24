@@ -1,0 +1,171 @@
+{
+  "created_at" : "2021-12-24T06:17:07Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エイチームフィナジー",
+    "category" : "企業・学校・団体",
+    "lgtm" : 127,
+    "subscribers" : 11,
+    "title" : "Ateam Finergy Inc. Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "ateam-finergy",
+    "url" : "https://qiita.com/advent-calendar/2021/ateam-finergy"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "LT大会のランキングを設計してみた",
+      "author" : "@suzuki_sh",
+      "day" : 1,
+      "url" : "https://qiita.com/suzuki_sh/items/0d636315c8dd76bb9f18"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CLIでツイートするだけのgemを作った",
+      "author" : "@okonomi",
+      "day" : 4,
+      "url" : "https://qiita.com/okonomi/items/699df082865a91a0a088"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceを宣言的に開発していたSalesforce初心者の私が、今さらながらSalesforce DXをさわってみた",
+      "author" : "@hondam",
+      "day" : 6,
+      "url" : "https://qiita.com/hondam/items/8566bbc5f5d3848bcfe8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vscode で stylelint を設定したはずが効かなくなってる問題",
+      "author" : "@ariariasria",
+      "day" : 7,
+      "url" : "https://qiita.com/ariariasria/items/8d33943e34d94bbaa9bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goreplayを入れた話",
+      "author" : "@NMura3",
+      "day" : 8,
+      "url" : "https://qiita.com/NMura3/items/48e220ee5ed69fdfe991"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS コマンドラインインターフェース (CLI) でEC2インスタンスに触れてみる",
+      "author" : "@andmorefine",
+      "day" : 9,
+      "url" : "https://qiita.com/andmorefine/items/cd4134846c0a3de39f1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@mizunomi32"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "気になるRustのユースケースを調査してみた",
+      "author" : "@murajun1978",
+      "day" : 13,
+      "url" : "https://qiita.com/murajun1978/items/59a617eaa89b23369f8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TailwindCSSを触ってみて感じたユーティリティクラスの考え方について",
+      "author" : "@yukiwada",
+      "day" : 14,
+      "url" : "https://qiita.com/yukiwada/items/64f6ce98c90d6bced83a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudflareのDurable Objectsをかる〜くご紹介",
+      "author" : "@yothio",
+      "day" : 15,
+      "url" : "https://qiita.com/yothio/items/cd3f76250a828aea7dc8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudRunの実行環境とCPUのお話",
+      "author" : "@NMura3",
+      "day" : 16,
+      "url" : "https://qiita.com/NMura3/items/26b442e92dba65db4dfb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mac 内に Linux 環境を作ってみる",
+      "author" : "@tommy1038",
+      "day" : 17,
+      "url" : "https://qiita.com/tommy1038/items/bb6470acd2147f84960e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tailwind CSSを導入した一年を振り返りながら、今後の展開について考えてみた。",
+      "author" : "@themeaningof8",
+      "day" : 18,
+      "url" : "https://qiita.com/themeaningof8/items/6d53b1b5687981007265"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTTP/3とQUICについてざっくり解説",
+      "author" : "@kazenomachi",
+      "day" : 19,
+      "url" : "https://qiita.com/kazenomachi/items/53a4642d35fc2182fa1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "`react-spring`を使ってReactでのアニメーションを行う",
+      "author" : "@okkuyama",
+      "day" : 20,
+      "url" : "https://qiita.com/okkuyama/items/e835fa4e483c0bc05733"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービス改善って結局これやらないとダメだよ。。",
+      "author" : "@yudai_neba",
+      "day" : 21,
+      "url" : "https://qiita.com/yudai_neba/items/78b1d61318ac48439f75"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーでもできるLighthouseスコア改善",
+      "author" : "@masaki632d",
+      "day" : 22,
+      "url" : "https://qiita.com/masaki632d/items/8383828643c31847c676"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーが気をつけるべきOOUI(オブジェクト指向UI)",
+      "author" : "@ito_yuri",
+      "day" : 23,
+      "url" : "https://qiita.com/ito_yuri/items/185d77007a04f0965d1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceの基本となるオブジェクトについてざっくりまとめる",
+      "author" : "@Adacchi3",
+      "day" : 24,
+      "url" : "https://qiita.com/Adacchi3/items/5161b5e0fc4583159430"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@suzuki_sh"
+    }
+  ]
+}

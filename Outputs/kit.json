@@ -1,0 +1,134 @@
+{
+  "created_at" : "2021-12-24T09:36:21Z",
+  "calendar_meta_data" : {
+    "author" : "@nagutabby",
+    "category" : "企業・学校・団体",
+    "lgtm" : 10,
+    "subscribers" : 2,
+    "title" : "KIT Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "kit",
+    "url" : "https://qiita.com/advent-calendar/2021/kit"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "レガシーシステムからの脱却",
+      "author" : "@nagutabby",
+      "day" : 1,
+      "url" : "https://qiita.com/nagutabby/items/5284c698605ad07aefb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "久々にshellをいじろうか…",
+      "author" : "@daikimare",
+      "day" : 2,
+      "url" : "https://qiita.com/daikimare/items/4712683a2a2ee543effc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerを支えるLinuxのコンテナ技術",
+      "author" : "@arakappa",
+      "day" : 3,
+      "url" : "https://qiita.com/arakappa/items/b0ea7b91ad0db36b931c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@daikimare"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@gitloveme"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@nagutabby"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UbuntuのデスクトップをMac風にカスタムしてみた(拡張機能編)",
+      "author" : "@kaito071831",
+      "day" : 10,
+      "url" : "https://qiita.com/kaito071831/items/0198e5cbff091483a237"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@nagutabby"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマプロハッカソン参加してみた！",
+      "author" : "@sato-na",
+      "day" : 17,
+      "url" : "https://qiita.com/sato-na/items/8cc1b32691edb53667b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

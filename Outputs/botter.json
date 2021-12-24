@@ -1,0 +1,302 @@
+{
+  "created_at" : "2021-12-24T10:27:39Z",
+  "calendar_meta_data" : {
+    "author" : "@hoheto",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 456,
+    "subscribers" : 142,
+    "title" : "仮想通貨botter Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "botter",
+    "url" : "https://qiita.com/advent-calendar/2021/botter"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨ボットの概要と意義",
+      "author" : "@hoheto",
+      "day" : 1,
+      "url" : "https://qiita.com/hoheto/items/7dd1a13e0c42dd3e2a0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨ボット構築に必要な知識体系",
+      "author" : "@hoheto",
+      "day" : 2,
+      "url" : "https://qiita.com/hoheto/items/299b7eef1dbb8155966f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨botterのための必読書",
+      "author" : "@hoheto",
+      "day" : 3,
+      "url" : "https://qiita.com/hoheto/items/9a76a5d1ee51bace6b3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バックテスト時のパラメータの保持と文字表現に関わる工夫",
+      "author" : "@78oki",
+      "day" : 4,
+      "url" : "https://qiita.com/78oki/items/107eddcef9ba830a5d5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨botterのための論文検索のススメ",
+      "author" : "@blog_UKI",
+      "day" : 5,
+      "url" : "https://qiita.com/blog_UKI/items/c81df71ec79fba4eee6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨botter一覧マップ",
+      "author" : "@blog_UKI",
+      "day" : 6,
+      "url" : "https://qiita.com/blog_UKI/items/eb50a668e0a906b3d8dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "良いbotを作るためのasync/awaitとイベントループの基本(前編)",
+      "author" : "@kuroeda_0011",
+      "day" : 7,
+      "url" : "https://qiita.com/kuroeda_0011/items/fdad1c1bd85e54e96a5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "良いbotを作るためのasync/awaitとイベントループの基本(後編)",
+      "author" : "@kuroeda_0011",
+      "day" : 8,
+      "url" : "https://qiita.com/kuroeda_0011/items/f559ee47708143cc7ab6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨 botter のためのモダン Python 環境構築ガイド",
+      "author" : "@supermomonga",
+      "day" : 9,
+      "url" : "https://pasokon.blog/articles/2021-12-09-modern-python-env"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ML botterにオススメなLightGBMのとっておきパラメータ紹介",
+      "author" : "@j262226",
+      "day" : 10,
+      "url" : "https://note.com/j26/n/n64d9c37167a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSでBTCの積立プログラムを動かす",
+      "author" : "@kaiyu0401",
+      "day" : 11,
+      "url" : "https://qiita.com/kaiyu0401/items/b56d4e6eab868c93e8b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "oktetoでpython botを動かそう",
+      "author" : "@ag4r1chan",
+      "day" : 12,
+      "url" : "https://agari.notion.site/okteto-python-bot-53eadf39c9274f1a8b73dad4366979c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CCXTとBacktesting.pyを使ってColabで暗号資産バックテスト ",
+      "author" : "@shinseitaro",
+      "day" : 13,
+      "url" : "https://note.com/shinseitaro/n/na18f67431dd4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローソク足を自炊してGrafanaで描画してみた",
+      "author" : "@sammrai",
+      "day" : 14,
+      "url" : "https://qiita.com/sammrai/items/b9ab6246c72b3b527126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨ボット：BitMEXの板でスプーフィングを試みた話",
+      "author" : "@blog_UKI",
+      "day" : 15,
+      "url" : "https://qiita.com/blog_UKI/items/d01367ff01ffbd64c863"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨の税率は実質20%? 仮想通貨節税戦略",
+      "author" : "@yoshiso",
+      "day" : 16,
+      "url" : "https://qiita.com/yoshiso/items/fd6e4f48607750e82a07"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tmux + keep-one-running コマンドで仮想通貨 bot のお手軽デーモン化",
+      "author" : "@supermomonga",
+      "day" : 17,
+      "url" : "https://pasokon.blog/articles/2021-12-17-bot-process-management"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無料で学べる初心者botter向けバイブルを集めてみた",
+      "author" : "@hesoponyo",
+      "day" : 18,
+      "url" : "https://qiita.com/hesoponyo/items/947414c36398c7237cbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非プログラマーによるbot作成の考え方（実運用例＆Pythonファイル付き）",
+      "author" : "@JapaneseMl",
+      "day" : 19,
+      "url" : "https://note.com/japaneseml/n/nc3bd17bc2b70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想通貨bot「アルミラージ」の振り返り",
+      "author" : "@rabbbit",
+      "day" : 20,
+      "url" : "https://note.com/rabbbit/n/n42efe9bf10d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Is Price Everything?(ローソク足は全てか？)",
+      "author" : "@nekonobunnni",
+      "day" : 21,
+      "url" : "https://note.com/nekonobunnni/n/n4e306d0861e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シン・破産確率",
+      "author" : "@richwomanbtc",
+      "day" : 22,
+      "url" : "https://qiita.com/richwomanbtc/items/f2b39e71de6597bc2684"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パパ活女子がbotでNFT売ってみた（前編）",
+      "author" : "@puyu",
+      "day" : 23,
+      "url" : "https://medium.com/@puyu.eth/nft-opensea-and-bot-tokyo-sugar-baby-story-e6db2a2dc9a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パパ活女子がbotでNFT売ってみた（中編）",
+      "author" : "@puyu",
+      "day" : 24,
+      "url" : "https://medium.com/@puyu.eth/nft-opensea-and-bot-tokyo-sugar-baby-story-e6db2a2dc9a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@puyu"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "仮想通貨botで稼いだ人のその後の資産運用先と幸福度について（URLは今後更新）",
+      "author" : "@Snufkin0866",
+      "day" : 1,
+      "url" : "https://www.google.co.jp/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2,
+      "author" : "@richmanbtc"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【ポエム】botterはどのように人々の役に立っているか",
+      "author" : "@kijitora_2018",
+      "day" : 17,
+      "url" : "https://kijitora-2018.hatenablog.com/entry/2021/12/17/113928"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Web3.0を生き抜くbotterたち",
+      "author" : "@hesoponyo",
+      "day" : 18,
+      "url" : "https://qiita.com/hesoponyo/items/461deee4ea3151e10322"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "価格帯別出来高を扱いたい",
+      "author" : "@pip_pip_pip_p",
+      "day" : 23,
+      "url" : "https://qiita.com/pip_pip_pip_p/items/2b12e409c94e5f9b4fc7"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@teto_btc"
+    }
+  ]
+}

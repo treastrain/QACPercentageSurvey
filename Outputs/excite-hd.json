@@ -1,0 +1,359 @@
+{
+  "created_at" : "2021-12-24T05:33:53Z",
+  "calendar_meta_data" : {
+    "author" : "@aharenchi",
+    "category" : "企業・学校・団体",
+    "lgtm" : 14,
+    "subscribers" : 5,
+    "title" : "エキサイトホールディングス Advent Calendar 2021",
+    "participants" : 31,
+    "unique_name" : "excite-hd",
+    "url" : "https://qiita.com/advent-calendar/2021/excite-hd"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Bootで、AWSパラメータストアから簡単にDBのパスワードを取得する方法",
+      "author" : "@takayuki-miura",
+      "day" : 1,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/01/102040"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Spreadsheet でゆるくタスク管理するときにオススメの設定",
+      "author" : "@kei2ro",
+      "day" : 2,
+      "url" : "https://qiita.com/kei2ro/items/5511f855bd6e267ed8d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SDK for PHP を利用してSESで添付ファイル付きのメールを送信する",
+      "author" : "@motoki-ito",
+      "day" : 3,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/02/171437"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Value Objectを使用する場合の、演算子の拡張について",
+      "author" : "@Ryuya_KusozkoImomusi",
+      "day" : 4,
+      "url" : "https://qiita.com/Ryuya_KusozkoImomusi/items/60a9b39781c72b4533a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AR.js + A-frame触ってみた",
+      "author" : "@miya-watanabe",
+      "day" : 5,
+      "url" : "https://qiita.com/miya-watanabe/items/f833d648ef878c878c8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【タイポグラフィ・ポスター製作に】簡単計算！Illustratorでグリッドを作る方法",
+      "author" : "@nagisa______",
+      "day" : 6,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/06/124403"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt × TypeScript環境にESLintとPrettierが設定済みの環境を構築する",
+      "author" : "@honyafun",
+      "day" : 7,
+      "url" : "https://qiita.com/honyafun/items/f5aca61de742c20670be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動作検証のためのブラウザ自動化",
+      "author" : "@ItoTakumi",
+      "day" : 8,
+      "url" : "https://qiita.com/ItoTakumi/items/fe434bef98be63fc62e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブログのネタが無いならPHPの発展に貢献してみればいいじゃない",
+      "author" : "@ohshige",
+      "day" : 9,
+      "url" : "https://ohshige.hatenablog.com/entry/2021/12/09/180000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DOM操作をするjQueryコードをJestでテストする方法を勉強した話",
+      "author" : "@aharenchi",
+      "day" : 10,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/10/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Step FunctionsでサポートされたAWSサービスを活用して既存処理の改善するお話",
+      "author" : "@hum2",
+      "day" : 11,
+      "url" : "https://qiita.com/hum2/items/7ebd2c5f926f80c91796"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Secres Managerでパスワード等をセキュアに管理する",
+      "author" : "@soichiro_yoshikawa",
+      "day" : 12,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/12/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PKCE実装で使うcode_verifierとcode_challengeをPHPで実装する。",
+      "author" : "@sugamaan",
+      "day" : 13,
+      "url" : "https://qiita.com/sugamaan/items/50699432a65ad9e5829e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DBeaver でいい感じに date 型に bind parameter する方法(日付型のみ)",
+      "author" : "@oswhk",
+      "day" : 14,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/14/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "口下手流のプレゼンスライド制作のコツ",
+      "author" : "@KAJIJI_design",
+      "day" : 15,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/15/103000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エキサイト株式会社の長期インターン体験談",
+      "author" : "@iseruuuuu",
+      "day" : 16,
+      "url" : "https://qiita.com/iseruuuuu/items/a81a688be858ecf6d430"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SpringBootでEventListenerの実装",
+      "author" : "@kohei_sasaki",
+      "day" : 17,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/17/102114"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Flutter]iOSでネイティブ広告を出す際にIBOutletを繋げられない時の対処法",
+      "author" : "@exRyusei1026",
+      "day" : 18,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/18/175015"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AndroidのJetpack ComposeでSwipe to Refreshのインジケータの表示位置をずらす",
+      "author" : "@katsuhiro-ito",
+      "day" : 19,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/19/060000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TABLE定義を設計する時、カラム名に半角数値を入れるのはやめよう",
+      "author" : "@naka_sho",
+      "day" : 20,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/20/112836"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@kumi-someya"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレからAWSリソースへ安全にアクセスする",
+      "author" : "@_ht_mn_",
+      "day" : 22,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/22/200000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chakra UIで作るポケモン図鑑",
+      "author" : "@Yuto-Konagaya",
+      "day" : 23,
+      "url" : "https://qiita.com/Yuto-Konagaya/items/9510279f0d5d192277f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LT会【年忘れ！しくじり先生！】を開催しました 🎉",
+      "author" : "@excite-kazuki",
+      "day" : 24,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/24/114401"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yuichiro-takarada"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SpringBoot x Gradleマルチプロジェクトで環境構築をする",
+      "author" : "@kohei_sasaki",
+      "day" : 1,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/01/120000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Flutter]WebViewの高さをローディング時に動的に変える方法",
+      "author" : "@exRyusei1026",
+      "day" : 2,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/02/095000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "リモートワークを快適に行うためにデスクまわりを整備した",
+      "author" : "@excite-kazuki",
+      "day" : 3,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/03/060000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "quarkusを使う(環境構築編)",
+      "author" : "@naka_sho",
+      "day" : 4,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/04/063000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "JavaとLombokの@Withでイミュータブルなデータ型を生成する",
+      "author" : "@kohei_sasaki",
+      "day" : 5,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/05/103513"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "quarkusを使う(バリデーション編)",
+      "author" : "@naka_sho",
+      "day" : 6,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/06/063000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SpringBoot x Spring Shell で簡易バッチ処理を作る",
+      "author" : "@kohei_sasaki",
+      "day" : 7,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/07/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "quarkusを使う(inject編)",
+      "author" : "@naka_sho",
+      "day" : 8,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/08/063000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Spring BootでCacheableが効かなかった",
+      "author" : "@excite-kazuki",
+      "day" : 9,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/09/125653"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "quarkusを使う(mybatis編)",
+      "author" : "@naka_sho",
+      "day" : 10,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/10/063000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Jetpack ComposeにおけるLayoutの共通化処理について",
+      "author" : "@Ryuya_KusozkoImomusi",
+      "day" : 11,
+      "url" : "https://qiita.com/Ryuya_KusozkoImomusi/items/8dc3f2aa93d2433245c1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【社内バリュー浸透施策】バリューポスターを製作した話",
+      "author" : "@nagisa______",
+      "day" : 12,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/12/170000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SESのバンス対策",
+      "author" : "@akihiro-moriwaki",
+      "day" : 13,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/13/094016"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Spring BootのRedisキャッシュで、Master/Replicaを呼び分ける方法",
+      "author" : "@takayuki-miura",
+      "day" : 14,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/14/101455"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【休日にリフレッシュ】都内でオススメの美術館5選",
+      "author" : "@nagisa______",
+      "day" : 15,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/15/104013"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MySQLの機能でスロークエリ関連の解析を行う方法の紹介",
+      "author" : "@ebi_",
+      "day" : 16,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/16/180327"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Illustratorのシェイプ形成ツールが便利！",
+      "author" : "@a_sazuka",
+      "day" : 17,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/16/200000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SorJを使ってSolr検索をする",
+      "author" : "@mthiroshi",
+      "day" : 18,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/18/063000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SpringBoot DevToolsのHot RestartとLiveReloadでサクサク開発を行う",
+      "author" : "@kohei_sasaki",
+      "day" : 19,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/19/145720"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Flutter]Rxdartを使用して値の変化を他タブなど別画面に通知する方法",
+      "author" : "@exRyusei1026",
+      "day" : 20,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/20/103115"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "quarkusを使う(コンパイル編)",
+      "author" : "@naka_sho",
+      "day" : 21,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/21/063000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "JacksonのObjectMapperがかなり優秀だった話",
+      "author" : "@okazakiHiromi",
+      "day" : 22,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/22/163906"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Oracle ADD_MOTHS関数とPHP DateTimeImmutableクラスのmodify関数を比べてみる",
+      "author" : "@aharenchi",
+      "day" : 23,
+      "url" : "https://tech.excite.co.jp/entry/2021/12/23/100000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "海中の通信技術について",
+      "author" : "@ixit_hori",
+      "day" : 24,
+      "url" : "https://qiita.com/ixit_hori/items/d7fbeb3e1b9d7011507d"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@nagisa______"
+    }
+  ]
+}

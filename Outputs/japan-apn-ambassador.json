@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T05:14:52Z",
+  "calendar_meta_data" : {
+    "author" : "@hirosys-biz",
+    "category" : "企業・学校・団体",
+    "lgtm" : 51,
+    "subscribers" : 5,
+    "title" : "Japan APN Ambassador Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "japan-apn-ambassador",
+    "url" : "https://qiita.com/advent-calendar/2021/japan-apn-ambassador"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS に出会って変わり、広がった\"楽しい\"世界のその後",
+      "author" : "@hirosys-biz",
+      "day" : 1,
+      "url" : "https://note.com/hirosys/n/n513faa96b59a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APN Ambassadorsってなんだ？2021年度版",
+      "author" : "@keizoa",
+      "day" : 2,
+      "url" : "https://qiita.com/keizoa/items/8c2c68783c49e609f78a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術選定とアーキテクトの育成について",
+      "author" : "@dkfj",
+      "day" : 3,
+      "url" : "https://tech.nri-net.com/entry/TrainingArchitects"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS移行あるある",
+      "author" : "@REALKTMR",
+      "day" : 4,
+      "url" : "https://qiita.com/REALKTMR/items/32cb70aca4a79c616fc7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Well-Architected Frameworkに追加されたサステナビリティの柱の紹介",
+      "author" : "@a-shibata",
+      "day" : 5,
+      "url" : "https://engineers.fenrir-inc.com/entry/2021/12/05/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自社を ”AWSに強くする” 開発者支援活動の紹介",
+      "author" : "@kizawa2020",
+      "day" : 6,
+      "url" : "https://blog.usize-tech.com/aws-devrel/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon SESへqmailからSMTPリレーする",
+      "author" : "@cs_sonar",
+      "day" : 7,
+      "url" : "https://qiita.com/cs_sonar/items/3c87af358c2a43767c22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『AWS Well-Architected フレームワーク 勉強会』のススメ",
+      "author" : "@k_kuninori",
+      "day" : 8,
+      "url" : "https://blog.mmmcorp.co.jp/blog/2021/12/08/dws_well-architected_study_meeting/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年末版Control Tower総まとめ〜これからAWSマルチアカウント管理したい人に向けて〜 #reinvent",
+      "author" : "@ke_ni_",
+      "day" : 9,
+      "url" : "https://dev.classmethod.jp/articles/aws-control-tower-allin-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSマネジメントコンソールのハック(DOM操作編)",
+      "author" : "@iselegant",
+      "day" : 10,
+      "url" : "https://iselegant.hatenablog.com/entry/2021/12/10/165020"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DevOps Guru for RDS を触ってみた",
+      "author" : "@defmementomori",
+      "day" : 11,
+      "url" : "https://cloud-aws-gcp.hateblo.jp/entry/2021/12/12/001151"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NASDAQの発表をもとに、AWSセキュリティを考える",
+      "author" : "@pict3",
+      "day" : 12,
+      "url" : "https://qiita.com/pict3/items/5de1ce1482efe0fd548e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSを使い始めてよかったこと",
+      "author" : "@shu85t",
+      "day" : 13,
+      "url" : "https://qiita.com/shu85t/items/98327ad3e85152cfd7f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSに誕生した大阪リージョンの軌跡！",
+      "author" : "@Masayuki-Goto",
+      "day" : 14,
+      "url" : "https://qiita.com/Masayuki-Goto/items/28a7d829f1231734625b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon FSx for NetApp ONTAPを使ってみる。",
+      "author" : "@damepanda_supra",
+      "day" : 15,
+      "url" : "https://qiita.com/damepanda_supra/items/6d5599d670089c45bc87"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSで構築した「コスト最優先WordPress」改善の歴史を振り返って",
+      "author" : "@nasuvitz",
+      "day" : 16,
+      "url" : "https://qiita.com/nasuvitz/items/7d09a82ef8176454f3f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これまでの私のクラウドジャーニー",
+      "author" : "@biatunky",
+      "day" : 17,
+      "url" : "https://note.com/biatunky/n/na2ff15982756"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS RDS(PostgreSQL)とPower BIを接続してみた",
+      "author" : "@t-taku",
+      "day" : 18,
+      "url" : "https://qiita.com/t-taku/items/cc9b06a16c91abaea929"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Ambassador秘伝！がんばる人のためのAWSの調べ方",
+      "author" : "@takuma818t",
+      "day" : 19,
+      "url" : "https://qiita.com/takuma818t/items/e2df516e8a3d11544a80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon SageMaker Canvas を使ってノーコードで AI による予測をする",
+      "author" : "@kikuchitk7",
+      "day" : 20,
+      "url" : "https://kikuchitk7.hatenablog.com/entry/2021/12/20/085713?_ga=2.129425924.902409961.1639886183-1316894212.1639886183"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSアカウントはなぜ＆どう分けるべき？",
+      "author" : "@fu3ak1",
+      "day" : 21,
+      "url" : "https://tech.nri-net.com/entry/why_multi_accounts"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "長く使えるAWSの技術は何か？",
+      "author" : "@tomoya_oka",
+      "day" : 22,
+      "url" : "https://qiita.com/tomoya_oka/items/37e6367434c8fb360188"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AI？ML？ディープラーニング？",
+      "author" : "@schwrzKtz",
+      "day" : 23,
+      "url" : "https://note.com/schwrz_ktz/n/nebb41735fc24"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@MayForBlue"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ohtk79"
+    }
+  ]
+}

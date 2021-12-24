@@ -1,0 +1,127 @@
+{
+  "created_at" : "2021-12-24T09:35:14Z",
+  "calendar_meta_data" : {
+    "author" : "@YusukeIwaki",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 3,
+    "subscribers" : 113,
+    "title" : "自動テスト・テスト自動化 Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "autotest",
+    "url" : "https://qiita.com/advent-calendar/2021/autotest"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【翻訳記事】テスト自動化の対象となるテストシナリオの整理に役立つBRIEFの原則",
+      "author" : "@nihonbuson",
+      "day" : 7,
+      "url" : "https://nihonbuson.hatenadiary.jp/entry/keep-your-scenarios-brief"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年12月現在、PlaywrightとPuppeteerのどっちを使うべき？",
+      "author" : "@YusukeIwaki",
+      "day" : 12,
+      "url" : "https://qiita.com/YusukeIwaki/items/f4616094c5572f1f7d25"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイル・DevOpsからDeveloper Productivityへ ~食べログのDeveloper Productivityチームが目指す姿~",
+      "author" : "@ogino",
+      "day" : 23,
+      "url" : "https://kokotatata.hatenablog.com/entry/2021/12/23/051947"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数条件が関わる題材を用いてテスト設計から自動テストまで考える（後編）",
+      "author" : "@nihonbuson",
+      "day" : 24,
+      "url" : "https://nihonbuson.hatenadiary.jp/entry/2021/12/24/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

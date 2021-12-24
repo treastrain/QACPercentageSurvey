@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T04:28:38Z",
+  "calendar_meta_data" : {
+    "author" : "NTTコムウェア株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 407,
+    "subscribers" : 8,
+    "title" : "NTTコムウェア Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "nttcomware",
+    "url" : "https://qiita.com/advent-calendar/2021/nttcomware"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【iOS】アプリ内でシステムログを取得したい",
+      "author" : "@comware_fujihira",
+      "day" : 1,
+      "url" : "https://qiita.com/comware_fujihira/items/e764179536077aec7b73"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノーコードで作るカーテンスヌーズ機能",
+      "author" : "@comware_kakeuchi",
+      "day" : 2,
+      "url" : "https://qiita.com/comware_kakeuchi/items/84c0292d4cbf2882ba86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【リーダー体験談】アジャイル開発のプラクティスがチームにもたらした\"絶対王政\"からの\"変化\"",
+      "author" : "@comware_exohashi",
+      "day" : 3,
+      "url" : "https://qiita.com/comware_exohashi/items/1fd59b47a1467509c894"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerfile の技術的負債についてまとめてみた",
+      "author" : "@comware_azuma",
+      "day" : 4,
+      "url" : "https://qiita.com/comware_azuma/items/853f137ceca2adf1152b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Grafana lokiを利用してコンテナログの収集をしてみた",
+      "author" : "@comware_terashi",
+      "day" : 5,
+      "url" : "https://qiita.com/comware_terashi/items/2818558e4aae039843ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadogハンズオン！ログの収集・管理に疲弊している人集まれ〜",
+      "author" : "@comware_sasaki",
+      "day" : 6,
+      "url" : "https://qiita.com/comware_sasaki/items/f73a64213ebfeb394110"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS WAFの動作チェックを試みる",
+      "author" : "@comware_hirousi",
+      "day" : 7,
+      "url" : "https://qiita.com/comware_hirousi/items/68daf3bbab2d29ce990e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "絵文字👨🏻‍🦱は何文字としてカウントする？関連する文字コードの仕様を詳しく調べてみた",
+      "author" : "@comware_harase",
+      "day" : 8,
+      "url" : "https://qiita.com/comware_harase/items/59c60ab1c6e1797f0821"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社会人1年目の社員がCORSについて調べてみた",
+      "author" : "@comware_harada",
+      "day" : 9,
+      "url" : "https://qiita.com/comware_harada/items/b34138df641a558525ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人指導に役立つ！？初めてのGit学習と、躓くポイントのケーススタディ",
+      "author" : "@comware_sugimoto",
+      "day" : 10,
+      "url" : "https://qiita.com/comware_sugimoto/items/c5f9bd4cad7c705bdc21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングほぼ未経験社員がRPAツールSikuliXを使ってみた感想",
+      "author" : "@comware_masuda",
+      "day" : 11,
+      "url" : "https://qiita.com/comware_masuda/items/e39745ddece7f1b60d90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon EKSでEC2料金を節約する",
+      "author" : "@comware_tonomura",
+      "day" : 12,
+      "url" : "https://qiita.com/comware_tonomura/items/341477c27f49cf80267a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマートスピーカーを導入すると育児が捗った",
+      "author" : "@comware_wkry",
+      "day" : 13,
+      "url" : "https://qiita.com/comware_wkry/items/27f9520598c19537971e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Service NowのAPIからデータ抽出した話",
+      "author" : "@comware_takumi",
+      "day" : 14,
+      "url" : "https://qiita.com/comware_takumi/items/29e923cbe0159f47d652"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムマスターがコーチング研修を受けてみた",
+      "author" : "@comware_tanaka",
+      "day" : 15,
+      "url" : "https://qiita.com/comware_tanaka/items/53c21c3e312b5748fcba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パスワード管理どうればいいの？ ~令和最新版~",
+      "author" : "@comware_futao",
+      "day" : 16,
+      "url" : "https://qiita.com/comware_futao/items/9375e73d6a745ce12a14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSM資格保有からの12か月で（ようやく）得られた気づき",
+      "author" : "@comware_miyabi",
+      "day" : 17,
+      "url" : "https://qiita.com/comware_miyabi/items/581a22db3ff5048ced7f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "効率化のためにPowerShellを使ってみた話",
+      "author" : "@comware_ishizuka",
+      "day" : 18,
+      "url" : "https://qiita.com/comware_ishizuka/items/46dfdbb80150bb99eee7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習の特徴量スケーリングの簡単な観察",
+      "author" : "@comware_misawa",
+      "day" : 19,
+      "url" : "https://qiita.com/comware_misawa/items/f7dfe37e9f4c101a3ba7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SIerで幸せな技術キャリアを築くために",
+      "author" : "@comware_tkonishi",
+      "day" : 20,
+      "url" : "https://qiita.com/comware_tkonishi/items/dd2f59d8b71df1f0c456"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pod Security AdmissionでPodの特権を制限する",
+      "author" : "@comware_higashi",
+      "day" : 21,
+      "url" : "https://qiita.com/comware_higashi/items/b8b2d90c15b57223713e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tsunami UDP Protocolを動かしてみた",
+      "author" : "@comware_naito",
+      "day" : 22,
+      "url" : "https://qiita.com/comware_naito/items/bf3c9ef4fedb08a4b527"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetesにおけるコンテナイメージスキャン",
+      "author" : "@comware_yamahara",
+      "day" : 23,
+      "url" : "https://qiita.com/comware_yamahara/items/1d18f03dea002c4c4e65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あなたのサーバは大丈夫？Vulsで脆弱性スキャンしてみる",
+      "author" : "@comware_thirai",
+      "day" : 24,
+      "url" : "https://qiita.com/comware_thirai/items/ffe14af58c99ecfc7afd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@comware_WATANABE_N"
+    }
+  ]
+}

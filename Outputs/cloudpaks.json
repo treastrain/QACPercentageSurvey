@@ -1,0 +1,185 @@
+{
+  "created_at" : "2021-12-24T10:00:53Z",
+  "calendar_meta_data" : {
+    "author" : "@norikokt",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 42,
+    "subscribers" : 6,
+    "title" : "IBM Cloud Paks Advent Calendar 2021  Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "cloudpaks",
+    "url" : "https://qiita.com/advent-calendar/2021/cloudpaks"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "新たな技術との出会いがあるIBM Cloud Paks",
+      "author" : "@ayatokura",
+      "day" : 1,
+      "url" : "https://qiita.com/ayatokura/items/39fca3e232edfd1abfc1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Pak for Data as a Service にSnowflakeを接続してみた。",
+      "author" : "@Shumpei_Kubo",
+      "day" : 2,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/2bf7a91b6baa43a0f5bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Technology Zone の Cloud Pak for Data で遊ぶ ",
+      "author" : "@norikokt",
+      "day" : 3,
+      "url" : "https://qiita.com/norikokt/items/a41447befe48e51d6ba6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Pak for Data as a Service のデータカタログにSnowflakeを登録してみた。",
+      "author" : "@Shumpei_Kubo",
+      "day" : 4,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/cc5e67c4db146188a94f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "S-JISで保存されたデータをCLoud Pak for Dataで表示するためには",
+      "author" : "@osonoi",
+      "day" : 5,
+      "url" : "https://qiita.com/osonoi/items/32026e77e77285c69e64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snowflakeに手動でロードしたデータをWKCのデータカタログに登録してみた。",
+      "author" : "@Shumpei_Kubo",
+      "day" : 6,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/5334191adb721a75f8b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DataScienceのための、それっぽい位置情報テストデータを作成する方法",
+      "author" : "@tty-kwn",
+      "day" : 7,
+      "url" : "https://qiita.com/tty-kwn/items/d09d7a622b2ccf21c0e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Watson Knowledge Catalog (WKC) で始めるデータガバナンス",
+      "author" : "@t_esaking",
+      "day" : 8,
+      "url" : "https://qiita.com/t_esaking/items/15075d4809db5687236f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Db2に手動でロードしたデータをWKCのデータカタログに登録してみた。",
+      "author" : "@Shumpei_Kubo",
+      "day" : 9,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/c1a5a0332c07050ada4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Paksではなくなったけれど：WebSphere Hybrid Editionとコンテナ",
+      "author" : "@TTakakiyo",
+      "day" : 10,
+      "url" : "https://qiita.com/TTakakiyo/items/78505cb2c79c75fbf88f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CP4DでModeler Flowを動かす",
+      "author" : "@MtsuSheep",
+      "day" : 11,
+      "url" : "https://qiita.com/MtsuSheep/items/9911b76999e63cc41ba2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務変革を進めるためのプロセス・マイニング入門",
+      "author" : "@Sagawan",
+      "day" : 12,
+      "url" : "https://qiita.com/Sagawan/items/a032c2011681363a29e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WatsonAIOpsを用いた、ミッションクリティカルな環境におけるインシデント解決",
+      "author" : "@kazuya-ho2",
+      "day" : 13,
+      "url" : "https://qiita.com/kazuya-ho2/items/202571aa1cb69400b4b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ仮想化機能である Watson Query を有効化する。",
+      "author" : "@Shumpei_Kubo",
+      "day" : 14,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/1ff4f6d98de1435ce458"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Developer Learning Paths 日本語サイトのご紹介",
+      "author" : "@tty-kwn",
+      "day" : 15,
+      "url" : "https://qiita.com/tty-kwn/items/67de88d2f3b4da74ac8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Instanaのバックエンドサーバのインストール (Ubuntu 20.x版) ",
+      "author" : "@daihiraoka",
+      "day" : 16,
+      "url" : "https://qiita.com/daihiraoka/items/796371e8a359fcf62d90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Instanaバックエンドサーバの導入でunauthorized: authentication requiredでPullできない場合のTips",
+      "author" : "@daihiraoka",
+      "day" : 17,
+      "url" : "https://qiita.com/daihiraoka/items/fd8b42dbee8e95c2e650"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "try turbonomicで AIを活用したアプリケーションのリソース管理を体験しよう",
+      "author" : "@daihiraoka",
+      "day" : 18,
+      "url" : "https://qiita.com/daihiraoka/items/4a24bf212917b65fa583"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloud Pakのライセンス・サービスを確認する",
+      "author" : "@uedatks",
+      "day" : 19,
+      "url" : "https://qiita.com/uedatks/items/c7d6ef3d6341b020464e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Codewindを使ってSpring BootアプリをKubernetes上にビルドしてみた",
+      "author" : "@miekoma",
+      "day" : 20,
+      "url" : "https://qiita.com/miekoma/items/b62d6cddb05683e9daeb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Watson Query で、Db2とSnowflakeのデータを仮想化して結合する。",
+      "author" : "@Shumpei_Kubo",
+      "day" : 21,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/ecd02072e6eb5f84b499"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Db2】PID1問題の回避策【Docker】",
+      "author" : "@LgmQue",
+      "day" : 22,
+      "url" : "https://qiita.com/LgmQue/items/ff985aac05c39e709e6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@yukikod"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud paksの下回りのOpenshiftのCNIの話",
+      "author" : "@kurosaway",
+      "day" : 24,
+      "url" : "https://qiita.com/kurosaway/items/2075328d3feb6af2b3d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

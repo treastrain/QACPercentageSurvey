@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-24T03:50:37Z",
+  "calendar_meta_data" : {
+    "author" : "@tokotan",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 21,
+    "subscribers" : 21,
+    "title" : "Box Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "box",
+    "url" : "https://qiita.com/advent-calendar/2021/box"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Box最新テクノロジーを自分のためだけに使う",
+      "author" : "@masa-9",
+      "day" : 1,
+      "url" : "https://qiita.com/masa-9/items/5321f9b086ddb11993e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Box Signがリリースされたのでさっそく触ってみた [追記]",
+      "author" : "@humihumi_n",
+      "day" : 2,
+      "url" : "https://zenn.dev/humihumi/articles/341dc34783c742"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "用途に応じたBoxフォルダ共有設定の定石パターン",
+      "author" : "@yusukeoi",
+      "day" : 3,
+      "url" : "https://qiita.com/yusukeoi/items/100f54a8305f882b7fb9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Box Signを実務で使ってみた",
+      "author" : "@tokotan",
+      "day" : 4,
+      "url" : "https://qiita.com/tokotan/items/2f386e38b7e8a8837c1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BoxのEventAPIのレスポンスを特定ユーザでフィルタしたい",
+      "author" : "@DAHARA",
+      "day" : 5,
+      "url" : "https://note.com/daharas/n/nb1bebaea4bf8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コロナ禍での転職活動には #Box が必要だった",
+      "author" : "@guen",
+      "day" : 6,
+      "url" : "https://app.box.com/s/g6xzt7zcqi97hzqy1bxenv5ycksmxyhn"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "意外と知らない？コピーと保存の小技達",
+      "author" : "@masa-9",
+      "day" : 7,
+      "url" : "https://qiita.com/masa-9/items/47653e58d07fc38570e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@kumagai-takaaki"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "経営層に響くbox採用への殺し文句_前編",
+      "author" : "@HaradaAtsushi",
+      "day" : 9,
+      "url" : "https://note.com/watereng/n/nab02b180aa3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Box×Tableau！Boxの利用ログをTableauで可視化しよう！",
+      "author" : "@Hironobu-y",
+      "day" : 10,
+      "url" : "https://note.com/h_yoshida/n/nb585d3bc6cc2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Box APIカスタムコネクタをpower automteに追加する",
+      "author" : "@daichiiiiiii",
+      "day" : 11,
+      "url" : "https://qiita.com/daichiiiiiii/items/1f68764e510b751d9770"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Box CLIでフォルダをロックする",
+      "author" : "@tokotan",
+      "day" : 12,
+      "url" : "https://qiita.com/tokotan/items/0065ef8a95023cb6d325"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Boxやらかし・残念小ネタ集",
+      "author" : "@yurinee",
+      "day" : 13,
+      "url" : "https://note.com/yurinee/n/n2ed114726dda"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウドサービスのアカウント通知をBoxのコラボレーション機能でしているお話",
+      "author" : "@J-KEI",
+      "day" : 15,
+      "url" : "https://j-kei.net/archives/628"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "経営層に響くbox採用への殺し文句_後編",
+      "author" : "@HaradaAtsushi",
+      "day" : 16,
+      "url" : "https://note.com/watereng/n/n9dff52b73731"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Box マイコレクション・コレクション！",
+      "author" : "@tokotan",
+      "day" : 17,
+      "url" : "https://qiita.com/tokotan/items/f1ed540bad2f8fd4cab4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元外資情シス秘伝！ 最強のBoxの広め方",
+      "author" : "@masa-9",
+      "day" : 18,
+      "url" : "https://qiita.com/masa-9/items/6adaf09bf6576dc69710"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "稟議書に費用対効果書くときのネタ帳",
+      "author" : "@yurinee",
+      "day" : 19,
+      "url" : "https://note.com/yurinee/n/nf89ba5ad9b62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Box APIとの通信をCharles Proxyを通して覗き見る方法",
+      "author" : "@kobay",
+      "day" : 20,
+      "url" : "https://qiita.com/kobay/items/e1ca355d6aeb58476b38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Boxで脱PPAP！",
+      "author" : "@tokotan",
+      "day" : 21,
+      "url" : "https://qiita.com/tokotan/items/a80c387b7e74cb7d9da7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power AppsでBOXと繋げてみた",
+      "author" : "@akira_365",
+      "day" : 22,
+      "url" : "https://hanakuso365.hatenablog.com/entry/2021/12/22/160406?_ga=2.192458402.902602529.1640156648-424240551.1605682833"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@humihumi_n"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内稟議の通し方（Box導入したときのお話）",
+      "author" : "@shota100sec",
+      "day" : 24,
+      "url" : "https://note.com/shota100sec/n/nb46c9cb03f6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shiho_kayako"
+    }
+  ]
+}

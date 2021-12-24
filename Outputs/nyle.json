@@ -1,0 +1,149 @@
+{
+  "created_at" : "2021-12-24T06:23:32Z",
+  "calendar_meta_data" : {
+    "author" : "ナイル株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 15,
+    "subscribers" : 1,
+    "title" : "ナイル Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "nyle",
+    "url" : "https://qiita.com/advent-calendar/2021/nyle"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormationで組んだインフラ構成を改善する",
+      "author" : "@sankaku_q",
+      "day" : 1,
+      "url" : "https://intothelambda.com/blog/docker-rec-radiko-version2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "会員情報DBを安全に利用するためにマスキングする",
+      "author" : "@katsat",
+      "day" : 2,
+      "url" : "https://qiita.com/katsat/items/90c3ba47f220905666a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "amazon-linux-extrasのdockerパッケージで地味にトラブった話",
+      "author" : "@y-komiya",
+      "day" : 9,
+      "url" : "https://qiita.com/y-komiya/items/4843ee31051a601f2836"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BacklogとGASでかんたん開発生産性自動計測",
+      "author" : "@cun1016",
+      "day" : 10,
+      "url" : "https://qiita.com/cun1016/items/1cd52af611b4f23b82c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vuetifyを初めて使ったときの備忘録",
+      "author" : "@daiarock",
+      "day" : 14,
+      "url" : "https://qiita.com/daiarock/items/bcb1d6aa8911eb83fcb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASを使った採用業務効率化",
+      "author" : "@murataku_1009",
+      "day" : 15,
+      "url" : "https://qiita.com/murataku_1009/items/3a5c2f98016bcaee2e7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "actix-webでRedisを使う",
+      "author" : "@sankaku_q",
+      "day" : 17,
+      "url" : "https://intothelambda.com/blog/actix-web-with-redis/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大規模アプリケーション設計概論みたいな記事を寄稿しました",
+      "author" : "@ta9to",
+      "day" : 18,
+      "url" : "https://eh-career.com/engineerhub/entry/2021/05/28/160000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gatlingを使って、actix-web上でのRedisクレートを比較してみる",
+      "author" : "@sankaku_q",
+      "day" : 19,
+      "url" : "https://intothelambda.com/blog/compare-redis-crates-with-actix-web-by-gatling/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@daiarock"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年エンジニア採用の振り返り（アウトソース活用による応募数増加の方法について）",
+      "author" : "@murataku_1009",
+      "day" : 22,
+      "url" : "https://qiita.com/murataku_1009/items/cf07c7b50616dc59b2f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@rinachan_xyz"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Kairi_Yasunnde"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ta9to"
+    }
+  ]
+}

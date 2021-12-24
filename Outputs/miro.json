@@ -1,0 +1,126 @@
+{
+  "created_at" : "2021-12-24T06:13:57Z",
+  "calendar_meta_data" : {
+    "author" : "@tyasuma",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 11,
+    "subscribers" : 8,
+    "title" : "Miro Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "miro",
+    "url" : "https://qiita.com/advent-calendar/2021/miro"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "オンラインホワイトボードを超えたツールMiro～Miroでプレゼンテーションをしてみよう",
+      "author" : "@viva_tweet_x",
+      "day" : 1,
+      "url" : "https://qiita.com/viva_tweet_x/items/9bf78ebaed3be2d08364"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Miroはいいぞ　～私的おすすめ機能と使い方～",
+      "author" : "@shima-d",
+      "day" : 3,
+      "url" : "https://qiita.com/shima-d/items/73b15a256e754b6ec34a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Miroが日本初上陸！Miroの使い方をセミナーで学んでみよう！",
+      "author" : "@kimagre_human",
+      "day" : 6,
+      "url" : "https://qiita.com/kimagre_human/items/e05731d2991d66c1e8da"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@tyasuma"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

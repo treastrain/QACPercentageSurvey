@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-24T10:33:59Z",
+  "calendar_meta_data" : {
+    "author" : "TIS株式会社",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 189,
+    "subscribers" : 6,
+    "title" : "TIS Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "tis",
+    "url" : "https://qiita.com/advent-calendar/2021/tis"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS re:Invent 2021で発表された新サービス/アップデートまとめ",
+      "author" : "@nasuvitz",
+      "day" : 1,
+      "url" : "https://qiita.com/nasuvitz/items/6dd55f9dd2fb40d27abd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MetabaseとmongoDBでセンサーデータをリアルタイムに可視化した話",
+      "author" : "@seiketkm",
+      "day" : 2,
+      "url" : "https://qiita.com/seiketkm/items/f3c5624465a9e5133d9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Micronaut 3を使ってみる",
+      "author" : "@charon",
+      "day" : 3,
+      "url" : "https://qiita.com/charon/items/d1811cba2b385deed240"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS BackupがVMwareVMware Cloud on AWSに対応したよ。",
+      "author" : "@damepanda_supra",
+      "day" : 4,
+      "url" : "https://qiita.com/damepanda_supra/items/1cbec2d20dc78c3a6b83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsでAWSのクレデンシャル登録なしにAWS操作を行う",
+      "author" : "@kiririmode",
+      "day" : 5,
+      "url" : "https://kiririmode.hatenablog.jp/entry/20211205/1638686686"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Linux 2のPHP 7.4環境に、xhprofを導入する",
+      "author" : "@charon",
+      "day" : 6,
+      "url" : "https://qiita.com/charon/items/8249ae82cfa9092486a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Linux 2のPHP 7.4環境に、OPcacheを導入する",
+      "author" : "@charon",
+      "day" : 7,
+      "url" : "https://qiita.com/charon/items/83b80306db03f9a4487a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINE BOTアプリとLIFFを利用して既存WEBサービスをログインレス化する part.1",
+      "author" : "@akahori_s",
+      "day" : 8,
+      "url" : "https://qiita.com/akahori_s/items/3d063c1eca18b57b4616"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Linux 2のPHP 7.4環境に、APCuを導入する",
+      "author" : "@charon",
+      "day" : 9,
+      "url" : "https://qiita.com/charon/items/4c7302cf6ed7a76f00d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSで構築した「コスト最優先WordPress」改善の歴史を振り返って",
+      "author" : "@nasuvitz",
+      "day" : 10,
+      "url" : "https://bit.ly/3q7Bsr3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規事業開発のエンジニアリングという夢を見た",
+      "author" : "@kiririmode",
+      "day" : 12,
+      "url" : "https://qiita.com/kiririmode/items/9bc126040783b21aadec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TestContainersを触ってみる",
+      "author" : "@y518gaku",
+      "day" : 13,
+      "url" : "https://qiita.com/y518gaku/items/c7d4734c5bf6e960606d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS IAMユーザを作業申請の時間に限定して都度発行する",
+      "author" : "@h_nide",
+      "day" : 17,
+      "url" : "https://qiita.com/h_nide/items/23ce13d1afc5c8d8b556"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CiscoConfParseでNW機器コンフィグをパースする　",
+      "author" : "@corestate55",
+      "day" : 18,
+      "url" : "https://qiita.com/corestate55/items/cfa222f1ab144538a00d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".terraform.hcl.lockでChecksumエラーが発生する問題と対策",
+      "author" : "@kiririmode",
+      "day" : 19,
+      "url" : "https://kiririmode.hatenablog.jp/entry/20211218/1639808868"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークで運動不足なのでオンライン駅伝を主催した話し",
+      "author" : "@akiraabe",
+      "day" : 20,
+      "url" : "https://qiita.com/akiraabe/items/9774ef7c85a5ac738b06"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでAzureADユーザを作成する際のパスワードの扱い ",
+      "author" : "@Yuyuyuta",
+      "day" : 22,
+      "url" : "https://qiita.com/Yuyuyuta/items/207d572b4603a1a5dc0b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Pipelines を無料枠で使おうとして躓いた話",
+      "author" : "@Hachiyou-Renge",
+      "day" : 24,
+      "url" : "https://qiita.com/Hachiyou-Renge/items/2083f2ce9e8b38558805"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

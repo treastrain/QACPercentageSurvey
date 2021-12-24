@@ -1,0 +1,317 @@
+{
+  "created_at" : "2021-12-24T07:31:29Z",
+  "calendar_meta_data" : {
+    "author" : "@tuna19980210",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 69,
+    "subscribers" : 3,
+    "title" : "TUNA-JP Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "tuna-jp",
+    "url" : "https://qiita.com/advent-calendar/2021/tuna-jp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "TCE で OSS を始めよう！",
+      "author" : "@hirosat",
+      "day" : 1,
+      "url" : "https://qiita.com/hirosat/items/aa1fb8efd9d95251679a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Contour ではじめる Kubernetes Ingress",
+      "author" : "@hichtakk",
+      "day" : 2,
+      "url" : "https://qiita.com/hichtakk/items/b0cac4b766a58755062a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenTelemetryだけじゃない！Spring Cloud Sleuthでお手軽Observability",
+      "author" : "@hmachi",
+      "day" : 3,
+      "url" : "https://qiita.com/hmachi/items/069d8865eb142a561dbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Octant で色々みてみよう",
+      "author" : "@tarowork64",
+      "day" : 4,
+      "url" : "https://qiita.com/tarowork64/items/2213994ced97ca70fa22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Knativeのこれまでとv1.0の変更点",
+      "author" : "@ipppppei",
+      "day" : 5,
+      "url" : "https://qiita.com/ipppppei/items/d1c53d1e272a08496a05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "30分で Tanzu Community Edition 環境 と Spring アプリケーションを作ってみる",
+      "author" : "@shinyay",
+      "day" : 6,
+      "url" : "https://qiita.com/shinyay/items/b6fccdae5d8b80eb2580"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tanzu Community Edition + Contour + ExternalDNS でアプリのURL を払い出してみよう",
+      "author" : "@vkbaba",
+      "day" : 7,
+      "url" : "https://qiita.com/vkbaba/items/8bcc8da56ee121384dc6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fluent Bit を利用した Splunk 連携",
+      "author" : "@yama-s",
+      "day" : 8,
+      "url" : "https://qiita.com/yama-s/items/cd5cf9621907ac387d6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TCE+cert-managerで自己証明書をつくってみる",
+      "author" : "@hondy444",
+      "day" : 9,
+      "url" : "https://qiita.com/hondy444/items/a22f3764ee79b1916895"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめての Tanzu Community Edition。（kube-vip 編）補足情報",
+      "author" : "@gowatana",
+      "day" : 10,
+      "url" : "https://vm.gowatana.jp/entry/2021/12/10/022507"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Antrea が OVS に書き込んでる Flow Table を読んでみよう (苦行)",
+      "author" : "@iwaseyusuke",
+      "day" : 11,
+      "url" : "https://qiita.com/iwaseyusuke/items/369e66b6714102f6d843"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TCE で Gatekeeper をサクッとやってみる",
+      "author" : "@hirosat",
+      "day" : 12,
+      "url" : "https://qiita.com/hirosat/items/9d2ac85adda9a8eccc6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Antrea の FQDN based filtering を試してみる",
+      "author" : "@ttani03",
+      "day" : 13,
+      "url" : "https://qiita.com/ttani03/items/410bf4e0fff7641cbe5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自宅で運用しているTanzu Kubernetes Grid及びTanzu Community Editionのk8sクラスタ on vSphereをvSANなしでホスト跨ぎで冗長化する方法",
+      "author" : "@making@github",
+      "day" : 14,
+      "url" : "https://ik.am/entries/678"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tanzu Community Edition でlocal-path-storage を試してみよう ",
+      "author" : "@vkbaba",
+      "day" : 15,
+      "url" : "https://qiita.com/vkbaba/items/154ef05453be597a6c49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TCE で Multus を試してみよう",
+      "author" : "@tarowork64",
+      "day" : 16,
+      "url" : "https://qiita.com/tarowork64/items/c0aad20bfa5c4d5672c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "引越しの箱詰めから考える SBOMとlog4shellのお話",
+      "author" : "@hmachi",
+      "day" : 17,
+      "url" : "https://qiita.com/hmachi/items/8c7c4caf90ad8188a0d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salt で Kubernetes をもっと自動化しよう",
+      "author" : "@sadakunihiro",
+      "day" : 18,
+      "url" : "https://qiita.com/sadakunihiro/items/c17ed491d15c0c0f5c69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Carvelでパッケージを作って公開する",
+      "author" : "@masanara",
+      "day" : 19,
+      "url" : "https://qiita.com/masanara/items/220eacf08e3e7f52f545"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform Cloud Businessを利用し、Tanzu上のKubernetesリソースを管理する",
+      "author" : "@I10chu",
+      "day" : 20,
+      "url" : "https://qiita.com/I10chu/items/2d7812c19d0856ec8f18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TCE ( Tanzu Community Edition ) on Azure をやってみる",
+      "author" : "@tbuchi888",
+      "day" : 21,
+      "url" : "https://qiita.com/tbuchi888/items/ebc5b91444eb1935938e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TCE構築に使うコマンド類をコンテナでくるんで次回ちょっとだけ楽したかった件",
+      "author" : "@make0x0",
+      "day" : 22,
+      "url" : "https://qiita.com/make0x0/items/f197aecfd518b6700a9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tanzu community editionでWindows Contarinerをデプロイする",
+      "author" : "@kurosaway",
+      "day" : 23,
+      "url" : "https://qiita.com/kurosaway/items/dbed5cf3475dbadfdae8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@jacopen"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hirosat"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Tanzu Community Editionのk8sクラスタにHarborをインストールするメモ",
+      "author" : "@making@github",
+      "day" : 10,
+      "url" : "https://ik.am/entries/674"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Tanzu Kubernetes Grid 1.4のk8sクラスタにHarborをインストールするメモ",
+      "author" : "@making@github",
+      "day" : 11,
+      "url" : "https://ik.am/entries/673"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Tanzu Kubernetes Grid及びTanzu Community Editionのk8sクラスタから自己署名証明書を使ったコンテナレジストリにアクセスするメモ",
+      "author" : "@making@github",
+      "day" : 12,
+      "url" : "https://ik.am/entries/675"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Carvel kbldでコンテナイメージをair-gapped環境にrelocateする",
+      "author" : "@making@github",
+      "day" : 13,
+      "url" : "https://ik.am/entries/676"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Carvel imgpkgでコンテナイメージをair-gapped環境にrelocateする",
+      "author" : "@making@github",
+      "day" : 14,
+      "url" : "https://ik.am/entries/677"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Helm Chartをimgpkg bundle化してair-gapped環境にインストールできるようにする",
+      "author" : "@making@github",
+      "day" : 15,
+      "url" : "https://ik.am/entries/679"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16,
+      "author" : "@cchen"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "imgpkg bundle化したHelm ChartをCarvel Package化する",
+      "author" : "@making@github",
+      "day" : 17,
+      "url" : "https://ik.am/entries/680"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "imgpkg bundle化したk8s manifests + ytt overlayをCarvel Package化する",
+      "author" : "@making@github",
+      "day" : 18,
+      "url" : "https://ik.am/entries/681"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Tanzu Community EditionのPackage Repositoryをimgpkgでrelocateする",
+      "author" : "@making@github",
+      "day" : 19,
+      "url" : "https://ik.am/entries/682"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "kpack on kind (K8s in Docker)でBuild Serviceによるコンテナイメージ管理をスモールスタート",
+      "author" : "@making@github",
+      "day" : 20,
+      "url" : "https://ik.am/entries/683"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

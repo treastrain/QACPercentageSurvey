@@ -1,0 +1,150 @@
+{
+  "created_at" : "2021-12-24T05:37:02Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社センシンロボティクス",
+    "category" : "企業・学校・団体",
+    "lgtm" : 14,
+    "subscribers" : 1,
+    "title" : "センシンロボティクス Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "sensyn-robotics",
+    "url" : "https://qiita.com/advent-calendar/2021/sensyn-robotics"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ISMS 認証を取得した話(1)",
+      "author" : "@kotetsu-sr",
+      "day" : 4,
+      "url" : "https://qiita.com/kotetsu-sr/items/07a4330253efa529ca58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Percept DKで簡単インフラ点検！その１",
+      "author" : "@SugaiShun",
+      "day" : 5,
+      "url" : "https://qiita.com/SugaiShun/items/5c2e8354e3614030efa7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google カレンダーに社外の人から招待された Google Meet の URL を設定する",
+      "author" : "@kotetsu-sr",
+      "day" : 8,
+      "url" : "https://qiita.com/kotetsu-sr/items/3a1ed157c546561401a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BrowserにあるObserverについて",
+      "author" : "@tokidoki11",
+      "day" : 11,
+      "url" : "https://qiita.com/tokidoki11/items/8ac0bea1cb9770bda95c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tailscaleで自宅やどこかとセキュアにつなぐ (tailscale, securely connect to home or third places)",
+      "author" : "@sepiartwork",
+      "day" : 12,
+      "url" : "https://qiita.com/sepiartwork/items/390d91271a503346af79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Non Rigid Registration (非剛体レジストレーション)　やってみた",
+      "author" : "@ohtt",
+      "day" : 13,
+      "url" : "https://qiita.com/ohtt/items/126f25531809b1833c84"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@Mas-sensyn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@k-koh"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サンタクロースで考えるUIUXデザイン",
+      "author" : "@j-skt",
+      "day" : 17,
+      "url" : "https://qiita.com/j-skt/items/925e11817774883e3984"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@s-okamura"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@krdhrk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@nakayamaatsushi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Location Based AR】緯度経度と高度からARを表示する",
+      "author" : "@ta-sr",
+      "day" : 21,
+      "url" : "https://qiita.com/ta-sr/items/cff5d64d973c84dd08b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@s-yamasaki-sr"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack上のやるべきことを忘れなく、効率が上がる作業方法",
+      "author" : "@T-M-H",
+      "day" : 23,
+      "url" : "https://qiita.com/T-M-H/items/4b8b3d53ab332dca96b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@satsuki-ls"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tayasu"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T06:07:37Z",
+  "calendar_meta_data" : {
+    "author" : "@yuto_nakaizumi",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 41,
+    "subscribers" : 66,
+    "title" : "Ansible Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "ansible",
+    "url" : "https://qiita.com/advent-calendar/2021/ansible"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "振り返り - 2021年のAnsibleとわたし",
+      "author" : "@saito_hideki",
+      "day" : 1,
+      "url" : "https://rheb.hatenablog.com/entry/ansible_future_2021_review"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Moleculeテスト環境用のDockerゴールデンイメージを作成する",
+      "author" : "@mamono210",
+      "day" : 2,
+      "url" : "https://qiita.com/mamono210/items/eed86f8cf5182b7598a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ansible Automation Platform 2.1 がリリースされました(代理投稿)",
+      "author" : "@saito_hideki",
+      "day" : 3,
+      "url" : "https://rheb.hatenablog.com/entry/ansible_automation_platform_2_1_released"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AAP2.0とk8s(kind)とpodmanを連携してEEを動作させる方法の紹介をします",
+      "author" : "@sky_jokerxx",
+      "day" : 4,
+      "url" : "https://sky-joker.tech/2021/12/04/ansible-automation-platform-2-1%e3%81%a8kubernetes%e3%82%92%e9%80%a3%e6%90%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsのReusable workflowsをMolecule + Dockerのテスト環境で採用してみる",
+      "author" : "@mamono210",
+      "day" : 5,
+      "url" : "https://qiita.com/mamono210/items/0c01705d8240f6d79c80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "No More 変数汚染",
+      "author" : "@comefigo",
+      "day" : 6,
+      "url" : "https://qiita.com/comefigo/items/a6d94eedd77a0a5cc4ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ほぼAnsibleで管理している自社クラウドサービスのシステムテスト",
+      "author" : "@comefigo",
+      "day" : 7,
+      "url" : "https://qiita.com/comefigo/items/443e7822325a4a94aceb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ansible学習ロードマップ",
+      "author" : "@stopendy",
+      "day" : 8,
+      "url" : "https://endy-tech.hatenablog.jp/entry/ansible_learning_roadmap"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "しがないCollectionsメンテナの日常",
+      "author" : "@saito_hideki",
+      "day" : 9,
+      "url" : "https://rheb.hatenablog.com/entry/daily_life_of_maintainers"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Ansible]dictのkeyを一部削除する方法まとめ",
+      "author" : "@miyuk",
+      "day" : 10,
+      "url" : "https://qiita.com/miyuk/items/816e8d6abd737b894b0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@kanta_yamaoka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco IOS の allowed vlan の 範囲表記をリストにバラす vlan_expander フィルター",
+      "author" : "@akira6592",
+      "day" : 12,
+      "url" : "https://tekunabe.hatenablog.jp/entry/2021/12/12/ansible_vlan_expander"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[小ネタ] ignore_errorsの罠",
+      "author" : "@comefigo",
+      "day" : 13,
+      "url" : "https://qiita.com/comefigo/items/cb749eefa21356581078"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MoleculeのDockerドライバーについて解説してみる",
+      "author" : "@mamono210",
+      "day" : 14,
+      "url" : "https://qiita.com/mamono210/items/a0bc24a0daa511c471bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@sky_jokerxx"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更ながら、Ansibleでvim-bootstrapベースの設定管理をする自作ロールの紹介をする",
+      "author" : "@attakei",
+      "day" : 16,
+      "url" : "https://zenn.dev/attakei/articles/introduce-ansible-vim-bootstrap"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab の private repository を ansible-galaxy collection install する",
+      "author" : "@yo_C_ta",
+      "day" : 17,
+      "url" : "https://qiita.com/yo_C_ta/items/478ebcd43bd4bc11036e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ansible で vCenter 構築する日記",
+      "author" : "@yo_C_ta",
+      "day" : 18,
+      "url" : "https://qiita.com/yo_C_ta/items/4cab7c92c9866f63851e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows PC上にAnsibleを実行する環境を作って、Alteonを操作する。",
+      "author" : "@OYJ_DANTYO",
+      "day" : 19,
+      "url" : "https://note.com/oyj_dantyo/n/n5811d932dba5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Excelを使ったDynamic Inventoryについて再考",
+      "author" : "@jir0",
+      "day" : 20,
+      "url" : "https://qiita.com/jir0/items/87f6c46713f1a000068f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "え！！AnsibleでRouteのdiffを！？できらぁ！",
+      "author" : "@snamon",
+      "day" : 21,
+      "url" : "https://usage-automate.hatenablog.com/entry/2021/12/21/183623?_ga=2.238129990.731088404.1640001780-106132283.1616725142"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ansible Tower で Private Git レポジトリから role を取得する",
+      "author" : "@nanodayo",
+      "day" : 22,
+      "url" : "https://rheb.hatenablog.com/entry/2021/12/22/Ansible_Tower_%E3%81%A7_Private_Git_%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%8B%E3%82%89_role_%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ansible-runner再入門",
+      "author" : "@tshu1",
+      "day" : 23,
+      "url" : "https://tshu1.jp/posts/ansible_adventclender_20211223/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@konono"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@saito_hideki"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T13:54:31Z",
+  "calendar_meta_data" : {
+    "author" : "@Reputeless",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 69,
+    "subscribers" : 27,
+    "title" : "Siv3D Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "siv3d",
+    "url" : "https://qiita.com/advent-calendar/2021/siv3d"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "実行ファイルのサイズを小さくする",
+      "author" : "@Reputeless",
+      "day" : 1,
+      "url" : "https://zenn.dev/reputeless/articles/article-minimum"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GUI に便利なアイコン集",
+      "author" : "@Reputeless",
+      "day" : 2,
+      "url" : "https://zenn.dev/reputeless/articles/article-useful-icons"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "三方比較演算子の導入",
+      "author" : "@tetsurom",
+      "day" : 3,
+      "url" : "https://qiita.com/tetsurom/items/14c38055e32f775ba873"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "簡単な避けゲー",
+      "author" : "@azarashi0002",
+      "day" : 4,
+      "url" : "https://qiita.com/azarashi0002/items/2541096fe642e3504d95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[OpenSiv3D]DrawTrianglesを使って🐟をいっぱい泳がそう",
+      "author" : "@tyanmahou",
+      "day" : 5,
+      "url" : "https://qiita.com/tyanmahou/items/3b5a7bbb1aca84c209a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Polygon から 3D の壁を作る",
+      "author" : "@Reputeless",
+      "day" : 6,
+      "url" : "https://zenn.dev/reputeless/articles/article-3d-wall"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenSiv3D for Web での WebGPU の有効化と WebGL/WebGPU バックエンドの比較",
+      "author" : "@nokotan",
+      "day" : 7,
+      "url" : "https://qiita.com/nokotan/items/c31ca339e2ace054d99b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Siv3Dでシリアル通信を行う",
+      "author" : "@Nicious",
+      "day" : 8,
+      "url" : "https://nicious.net/constr/zak/zak211208.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<OpenSiv3D>簡単な図形描画アプリを作ってみた<Siv3D Advent Calendar 2021>",
+      "author" : "@M_simplifier",
+      "day" : 9,
+      "url" : "https://qiita.com/M_simplifier/items/c9975cc1047060e9e3c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenSiv3Dで3Dゲームを作る（未完成）",
+      "author" : "@polyester-CTRL",
+      "day" : 10,
+      "url" : "https://qiita.com/polyester-CTRL/items/2442cf58132121050bee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LinuxのGLFWで日本語入力に対応した話",
+      "author" : "@sthairno",
+      "day" : 11,
+      "url" : "https://zenn.dev/sthairno/articles/cd0ea916f45580"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年書いて良かった関数",
+      "author" : "@agehama_",
+      "day" : 12,
+      "url" : "https://qiita.com/agehama_/items/d53f82a0c87526426048"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カメラワークに使える関数の紹介",
+      "author" : "@kestrel-7",
+      "day" : 13,
+      "url" : "https://qiita.com/kestrel-7/items/d3dc02c986867574c611"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Squircle の実装",
+      "author" : "@Ebishu",
+      "day" : 14,
+      "url" : "https://qiita.com/Ebishu/items/3cf5fbf4cee7d78708ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロシージャルな流体エフェクトを OpenSiv3D で実装する【Curl-Noise】",
+      "author" : "@randall2835",
+      "day" : 15,
+      "url" : "https://qiita.com/randall2835/items/0c4b3910958f7c331ac7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenSiv3Dで迷路のメッシュを生成する",
+      "author" : "@inaba_darkfox",
+      "day" : 16,
+      "url" : "https://qiita.com/inaba_darkfox/items/b630d1a7a62c7e21e15b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenSiv3Dのサンプルにあるシューティングゲームを改造して弾幕を出してみる(初心者向け)",
+      "author" : "@ichi-raven",
+      "day" : 17,
+      "url" : "https://qiita.com/ichi-raven/items/61b3cf607deafdba567e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C++/OpenSiv3D】YouTube Data API を使ってライブのチャットを取得・表示する",
+      "author" : "@Ryoga-exe",
+      "day" : 18,
+      "url" : "https://qiita.com/Ryoga-exe/items/6257c2b144dcb58e1245"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APG4bとSiv3Dを利用して勉強会を開催した",
+      "author" : "@Jumpaku",
+      "day" : 19,
+      "url" : "https://jumpaku.hatenablog.com/entry/siv3d-advent-calender-2021-12-19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The Nature OF CodeとSiv3D",
+      "author" : "@hosodamath9696",
+      "day" : 20,
+      "url" : "https://qiita.com/hosodamath9696/items/0904a0744cc63b6ff53d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Siv3Dの重要だと思う機能について",
+      "author" : "@hacca_chg",
+      "day" : 21,
+      "url" : "https://qiita.com/hacca_chg/items/979ce82cf46e5912bbb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスっぽいゲーム作ってみた",
+      "author" : "@takara2314",
+      "day" : 22,
+      "url" : "https://qiita.com/takara2314/items/93b416083161e0bc3443"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SimpleAnimationでお手軽アニメーション",
+      "author" : "@Luke02561",
+      "day" : 23,
+      "url" : "https://qiita.com/Luke02561/items/4e2299537904b62eb2d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SivPhotonの制作進捗についてと今後の予定",
+      "author" : "@makia",
+      "day" : 24,
+      "url" : "https://qiita.com/makia/items/5401b2bae218e7e7df1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Reputeless"
+    }
+  ]
+}

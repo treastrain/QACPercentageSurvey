@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T10:24:26Z",
+  "calendar_meta_data" : {
+    "author" : "コネヒト株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 8,
+    "title" : "コネヒト Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "connehito",
+    "url" : "https://qiita.com/advent-calendar/2021/connehito"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習プロジェクトにおけるSageMaker Processingの使い所",
+      "author" : "@takapy0210",
+      "day" : 1,
+      "url" : "https://tech.connehito.com/entry/2021/12/01/164447"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tableauでデータソースの更新に合わせて初期値も更新される日付フィルターの作り方",
+      "author" : "@YuyaAbo",
+      "day" : 2,
+      "url" : "https://tech.connehito.com/entry/2021/12/02/141123"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインチーム定例の会議設計",
+      "author" : "@oooNAKi",
+      "day" : 3,
+      "url" : "https://note.com/ooonaki/n/n1bed795f0deb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "持続的な1on1をするために気をつけていること",
+      "author" : "@fortkle",
+      "day" : 4,
+      "url" : "https://blog.fortkle.com/entry/2021/12/04/235302"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "その日にgithubにpushした数が規定の回数に届かなかったら自動でcommit&pushして草を生やしてくれるシェルスクリプト",
+      "author" : "@ryoutaka",
+      "day" : 5,
+      "url" : "https://qiita.com/ryoutaka/items/1d44b2b56f8795ded58c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリ離脱ユーザーのインタビュー準備",
+      "author" : "@hitominabeno0920",
+      "day" : 6,
+      "url" : "https://note.com/hn0920/n/n51d2d6624efe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "異なるデータソース間の同期がしたくてAWS DMSについて調べたのでまとめてみた",
+      "author" : "@shnagai",
+      "day" : 7,
+      "url" : "https://tech.connehito.com/entry/2021/12/07/174254"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CakePHP の Authentication プラグインを使って、複数の Authenticator を有効にする - コネヒト開発者ブログ",
+      "author" : "@takoba",
+      "day" : 8,
+      "url" : "https://tech.connehito.com/entry/cakephp-authentication-with-several-form-authenticators"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "洋書読み始めるならThe Minimalist Entrepreneurがオススメ",
+      "author" : "@otukutun",
+      "day" : 9,
+      "url" : "https://note.com/otukutun/n/nba13617879f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CakePHP３から４へのバージョンアップ時に困ったキャッシュ周りの話",
+      "author" : "@TOC8",
+      "day" : 10,
+      "url" : "https://tech.connehito.com/entry/2021/12/10/170716"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ママリの WebView を JavaScript + Flow から TypeScript に移行しました",
+      "author" : "@mryhryki",
+      "day" : 11,
+      "url" : "https://tech.connehito.com/entry/2021-12-11-flow-to-typescript"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ZipArchiveでハマってしまった件",
+      "author" : "@satoshi-nishinaka",
+      "day" : 12,
+      "url" : "https://qiita.com/satoshi-nishinaka/items/4f0dde2839c10d0833bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "事業会社のデザイナーが、産休・育休からブランクを抑えて職場復帰するにはどうすればいいか、を考えた",
+      "author" : "@koto11",
+      "day" : 13,
+      "url" : "https://note.com/kkitahara/n/n4ccfd2d09b79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CakePHP4.3でコントローラーのアクションの引数にstring型以外を指定できるようになっていた件",
+      "author" : "@robertcal",
+      "day" : 14,
+      "url" : "https://zenn.dev/robertcal/articles/cakephp-action-parameter-type"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SageMaker Experimentsを使った機械学習モデルの実験管理",
+      "author" : "@asteriam",
+      "day" : 15,
+      "url" : "https://tech.connehito.com/entry/2021/12/15/181332"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Android版ママリアプリのリファクタ事情 ~ ViewModel編 ~",
+      "author" : "@katsutomu",
+      "day" : 16,
+      "url" : "https://tech.connehito.com/entry/2021-12-16-android-refactoring-viewmodel"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS OpenSearchでkuromojiのユーザ辞書の検証をする手順",
+      "author" : "@shnagai",
+      "day" : 17,
+      "url" : "https://kobitosan.hatenablog.com/entry/2021/12/17/184341"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インフラエンジニアの業務で部分的にスクラムを取り入れている話",
+      "author" : "@laughk",
+      "day" : 18,
+      "url" : "https://tech.connehito.com/entry/2021/12/18/115457"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[react-testing-library] waitFor を使う時に await を用いないとどうなるか",
+      "author" : "@takf-jp",
+      "day" : 19,
+      "url" : "https://qiita.com/takf-jp/items/bd35c7fef61de720d886"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プレイングマネージャーとしてプレイヤーとマネージャーを両立させるためにやっていること",
+      "author" : "@yanamura",
+      "day" : 20,
+      "url" : "https://yanamura.hatenablog.com/entry/2021/12/20/120416"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPDocにおける @throws の使い方 2021 ver.",
+      "author" : "@fortkle",
+      "day" : 21,
+      "url" : "https://blog.fortkle.com/entry/2021/12/21/154005"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "思考することを生業とするためにすべきこと",
+      "author" : "@takoba",
+      "day" : 22,
+      "url" : "https://note.com/takoba/n/n45fba4532914"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APIクライアントをAPIKit+RxSwiftからURLSession+Combineにしました(前編）",
+      "author" : "@ohayoukenchan",
+      "day" : 23,
+      "url" : "https://tech.connehito.com/entry/2021/12/23/093149"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tableauのパラメーターを横並びのラジオボタンにする拡張機能をつくった",
+      "author" : "@YuyaAbo",
+      "day" : 24,
+      "url" : "https://tech.connehito.com/entry/2021/12/24/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@itosho"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "created_at" : "2021-12-24T02:14:27Z",
+  "calendar_meta_data" : {
+    "author" : "@ryogaskywalker",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 0,
+    "title" : "IVRy Advent Calendar Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "ivry",
+    "url" : "https://qiita.com/advent-calendar/2021/ivry"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackに「times制度（分報）とtimes選手権導入」の圧倒的な効果",
+      "author" : "@ryogaskywalker",
+      "day" : 1,
+      "url" : "https://note.com/ryogaskywalker/n/n6f5532888e82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IVRyの立ち上げ時から、1年半の間にカスタマサクセスとしてやってきたことをざっくりまとめます。（前編）",
+      "author" : "@fujisakishun",
+      "day" : 2,
+      "url" : "https://note.com/shunshunworld/n/nd6db51ed50c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RDS Proxyを作成して、lambdaで利用する",
+      "author" : "@kshimadutsu",
+      "day" : 3,
+      "url" : "https://qiita.com/kshimadutsu/items/a6dd4f8482eda836f0f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "4日目にしてアドベントカレンダーがつきたら、キャンプに行って誤魔化す会社です",
+      "author" : "@ryogaskywalker",
+      "day" : 4,
+      "url" : "https://note.com/ryogaskywalker/n/nefc77b58cc11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IVRyのTwitterアカウントを本気で2ヶ月運用してみた結果",
+      "author" : "@ivryoga",
+      "day" : 5,
+      "url" : "https://note.com/ryoga826/n/n8c1944c24224"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IPPONとりましょう",
+      "author" : "@umichang",
+      "day" : 6,
+      "url" : "https://note.com/capoteee/n/nc2d24c2e6172"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロボット開発とWeb開発で感じた違い",
+      "author" : "@ats312",
+      "day" : 7,
+      "url" : "https://note.com/kose_atsuya/n/n1d4d41ac0178"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「仕事が楽しいとは」 を 歴史から考えてみた。",
+      "author" : "@nerikirin",
+      "day" : 8,
+      "url" : "https://note.com/tnishihara/n/n461da0ae9c18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NextJS+NestJSでhello world!",
+      "author" : "@lsr90518",
+      "day" : 9,
+      "url" : "https://note.com/massaaakkkkiiiii/n/na427b7677c70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年冬、初めましてBlender！",
+      "author" : "@yamasyoooooo",
+      "day" : 10,
+      "url" : "https://note.com/yamasyoooooo/n/n88763296b9a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "副業とキャリア形成について書きます",
+      "author" : "@shrek_baby44",
+      "day" : 11,
+      "url" : "https://note.com/shrekbaby_note/n/nd1a61017e067"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電話自動応答サービスIVRyの立ち上げ時から、1年半の間にカスタマサクセスとしてやってきたことをざっくりまとめます。（後編）",
+      "author" : "@fujisakishun",
+      "day" : 12,
+      "url" : "https://note.com/shunshunworld/n/n0e68dba6bbe1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "slackのセクションの活用",
+      "author" : "@kshimadutsu",
+      "day" : 13,
+      "url" : "https://qiita.com/kshimadutsu/items/590e79ca672caeb3bdcc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ダイエットや肩こり・腰痛改善に効くアイテムをご紹介します！",
+      "author" : "@seki_r621",
+      "day" : 14,
+      "url" : "https://note.com/ryomaseki/n/nce2f71984ac1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IVRyに文化を根付かせる",
+      "author" : "@u16m",
+      "day" : 15,
+      "url" : "https://note.com/u16m/n/n72c0837bd5d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Customer Service with AI",
+      "author" : "@lsr90518",
+      "day" : 16,
+      "url" : "https://note.com/massaaakkkkiiiii/n/n005ff8b06d85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社長を紹介します",
+      "author" : "@umichang",
+      "day" : 17,
+      "url" : "https://note.com/capoteee/n/nb88c167d3c83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コールセンター出身が伝える、4つの話法",
+      "author" : "@kanomata",
+      "day" : 18,
+      "url" : "https://note.com/kanomatasan/n/nfb82100bab93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電話商談のポイントまとめてみました",
+      "author" : "@fujisakishun",
+      "day" : 19,
+      "url" : "https://note.com/shunshunworld/n/n769d5e2599bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "声にまつわるエトセトラ",
+      "author" : "@meganetaro",
+      "day" : 20,
+      "url" : "https://note.com/meganetaro/n/nb254cc544bc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノリと勢いで色々なIVRyグッズ、できてます。",
+      "author" : "@ivryoga",
+      "day" : 21,
+      "url" : "https://note.com/ryoga826/n/n26b2c5bf5679"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "資金調達プレスリリースの裏側でやったこと",
+      "author" : "@ryogaskywalker",
+      "day" : 22,
+      "url" : "https://note.com/ryogaskywalker/n/nb098c849c992"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップと大企業の新規事業を経験して感じた違い",
+      "author" : "@m-miya17",
+      "day" : 23,
+      "url" : "https://note.com/miya_p17/n/n84ce055abfb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kshimadutsu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

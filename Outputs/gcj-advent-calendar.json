@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T02:33:29Z",
+  "calendar_meta_data" : {
+    "author" : "@google-cloud-advent-calendar",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 35,
+    "title" : "Google Cloud Japan Advent Calendar Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "gcj-advent-calendar",
+    "url" : "https://qiita.com/advent-calendar/2021/gcj-advent-calendar"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "今日からはじめる DevOps 改善 ~ DORA Accelerate State of DevOps Report 2021 ~",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 1,
+      "url" : "https://medium.com/google-cloud-jp/f85bbdab0dad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Config Controller で Google Cloud のセキュリティガードレールを構築する",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 2,
+      "url" : "https://medium.com/google-cloud-jp/config-controller-guardrail-bd3de8f69098"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Cloud Japan に入社してみた",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 3,
+      "url" : "https://medium.com/google-cloud-jp/google-cloud-japan-%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-ceb58b38f99c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebase update summary 2021",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 4,
+      "url" : "https://medium.com/google-cloud-jp/firebase-update-summary-2021-82df38e938da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Cloud のアクセス管理をおさらいしよう 2021年版",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 5,
+      "url" : "https://medium.com/google-cloud-jp/google-cloud-access-management-2021-43152d69bdb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebase App Check と App Attest を使って iOS アプリのバックエンドサービスを保護する",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 6,
+      "url" : "https://medium.com/google-cloud-jp/firebase-app-check-app-attest-b618593f5531"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Migrate for Compute Engine (M4CE) を利用して VMware vSphere 環境の仮想マシンを Google Cloud Compute Engine に移行する",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 7,
+      "url" : "https://medium.com/google-cloud-jp/migrate-vm-from-vsphere-to-google-compute-engine-using-m4ce-66bd9130b86c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vertex AI で AnimeGAN やってみた",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 8,
+      "url" : "https://medium.com/google-cloud-jp/serving-animegan-with-vertex-ai-9d210e3a66a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発におすすめな Firebase Extensions",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 9,
+      "url" : "https://medium.com/google-cloud-jp/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AA-firebase-extensions-eda580b5786a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "採用担当者のつぶやき",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 10,
+      "url" : "https://medium.com/google-cloud-jp/%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E3%81%AE%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8D-165ab9f19616"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データベースエンジニアから見たCloud Spanner",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 11,
+      "url" : "https://medium.com/google-cloud-jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9Fcloud-spanner-206c9d92ceeb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のK8S周りのCVEまとめて多層防御の重要性を再確認する",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 12,
+      "url" : "https://medium.com/google-cloud-jp/2021%E5%B9%B4%E3%81%AEk8s%E5%91%A8%E3%82%8A%E3%81%AEcve%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E5%A4%9A%E5%B1%A4%E9%98%B2%E5%BE%A1%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7%E3%82%92%E5%86%8D%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B-f5126391c6bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "re:Work と振り返るチーム OKR 2021",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 13,
+      "url" : "https://medium.com/google-cloud-jp/re-work-%E3%81%A8%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0-okr-2021-228d7692ef35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021 年の Cloud Spanner を振り返る",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 14,
+      "url" : "https://medium.com/google-cloud-jp/2021-cloud-spanner-new-features-484ab653943d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Run は理解した。Cloud Run for Anthos って何？",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 15,
+      "url" : "https://medium.com/google-cloud-jp/cloudrun-or-cloudrun-for-anthos-626d04228403"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ingress の進化版 Gateway API を解説する",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 16,
+      "url" : "https://medium.com/google-cloud-jp/gke-gateway-4150649d8c37"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Cloud × スプレッドシートでととのう！YouTube 配信用ライブ制作環境！",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 17,
+      "url" : "https://medium.com/google-cloud-jp/google-cloud-for-youtube-live-production-439de7ce012c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google ドライブをドメイン移行するための引っ越し方法",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 18,
+      "url" : "https://medium.com/google-cloud-jp/google-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%92%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E6%96%B9%E6%B3%95-8eef2d4fd267"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバサイド Google Tag Manager 環境を Cloud Run で構築する",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 19,
+      "url" : "https://medium.com/google-cloud-jp/server-side-google-tag-manager-on-cloud-run-48451cee7f89"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google のマネージャーについての研究から学ぶ Google マネージャーの 10 の行動規範",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 20,
+      "url" : "https://medium.com/google-cloud-jp/google-manager-behaviors-287fbc6ae40c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud SQL に Reader Endpoint 的なものを作ってみる",
+      "author" : "@google-cloud-advent-calendar",
+      "day" : 21,
+      "url" : "https://medium.com/google-cloud-jp/cloud-sql-%E3%81%AB-reader-endpoint-%E7%9A%84%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B-f504a575c01b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@google-cloud-advent-calendar"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@google-cloud-advent-calendar"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@google-cloud-advent-calendar"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@google-cloud-advent-calendar"
+    }
+  ]
+}

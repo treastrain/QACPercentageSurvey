@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T04:41:11Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エイチーム引越し侍",
+    "category" : "企業・学校・団体",
+    "lgtm" : 381,
+    "subscribers" : 12,
+    "title" : "Ateam Hikkoshi samurai Inc.× Ateam Connect Inc. Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "hikkoshizamurai-connect",
+    "url" : "https://qiita.com/advent-calendar/2021/hikkoshizamurai-connect"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "引越し業界初の新サービスを支えるバックエンドの技術",
+      "author" : "@sho-hata",
+      "day" : 1,
+      "url" : "https://qiita.com/sho-hata/items/054c77392cc61bc2f3ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "引越し業界初の新サービスを支えるフロントエンドの技術",
+      "author" : "@anneau",
+      "day" : 2,
+      "url" : "https://qiita.com/anneau/items/3936c954690a28c51c8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ分析基盤・DataLakeを作成するツールとしてのEmbulk",
+      "author" : "@ex_SOUL",
+      "day" : 3,
+      "url" : "https://qiita.com/ex_SOUL/items/0df5371011d11f8b26f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私が開発をするときに意識していること",
+      "author" : "@yhorikawa",
+      "day" : 4,
+      "url" : "https://qiita.com/yhorikawa/items/da903663e0feded8c36f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Google Analytics初心者向け】忙しいエンジニアのためのGA入門",
+      "author" : "@namiita",
+      "day" : 5,
+      "url" : "https://qiita.com/namiita/items/e178090f5252456860d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "愛しの逆引きコマンド集【初心者・ズボラ向け】",
+      "author" : "@ayumik",
+      "day" : 6,
+      "url" : "https://qiita.com/ayumik/items/0677985aa7742bec29b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "zoomバーチャル背景の画像認識の限界を探してみた",
+      "author" : "@nakagawa_shota",
+      "day" : 7,
+      "url" : "https://qiita.com/nakagawa_shota/items/72df24135e7e7966f2c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SREの実践、SLI/SLO策定までの道のり",
+      "author" : "@sugoto911",
+      "day" : 8,
+      "url" : "https://qiita.com/sugoto911/items/c6c9fd458abb5b9d9487"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術の詰め込み方",
+      "author" : "@ysysysys",
+      "day" : 9,
+      "url" : "https://qiita.com/ysysysys/items/2814a6b065e5ea3613ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScript一人リファクタリング",
+      "author" : "@acc1io",
+      "day" : 10,
+      "url" : "https://qiita.com/acc1io/items/1baf320aaaca841fa617"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyCaretまかせで回帰分析してみた",
+      "author" : "@m-otsuka",
+      "day" : 11,
+      "url" : "https://qiita.com/m-otsuka/items/2d94d3186eb5d39c84f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go 構造体はポインター型にするべき？",
+      "author" : "@lostfind",
+      "day" : 12,
+      "url" : "https://qiita.com/lostfind/items/270340b82d3cab67ab43"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私たちは、どう技術を進化させていくべきか",
+      "author" : "@keki",
+      "day" : 13,
+      "url" : "https://qiita.com/keki/items/54af37027a6343f191f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードレビューの負担を減らすためにマジリク（プルリク）を分割してみた",
+      "author" : "@mfuz",
+      "day" : 14,
+      "url" : "https://qiita.com/mfuz/items/2e6b5ce7ec1dd4520829"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "W3Cの勧告が難なく読める！最新情報をキャッチアップするための「おすすめなツール」と「2つのポイント」",
+      "author" : "@tanimoto-hikari",
+      "day" : 15,
+      "url" : "https://qiita.com/tanimoto-hikari/items/cebda322d5b36e02b7ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年】みんなどうやってSlackとうまくつきあっているのか?",
+      "author" : "@halkt",
+      "day" : 16,
+      "url" : "https://qiita.com/halkt/items/535077cc557a52deef17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超かんたん！Figmaの通知をSlackで受け取る設定をしよう！",
+      "author" : "@manabe511",
+      "day" : 17,
+      "url" : "https://qiita.com/manabe511/items/5ac51f11a6cfe5803d9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パフォーマンス改善をやる前に知りたかった３つのこと",
+      "author" : "@hinora",
+      "day" : 18,
+      "url" : "https://qiita.com/hinora/items/c23cc877ede8130f3d72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyCaret と Cloud AutoML Tables を比較してみた",
+      "author" : "@hironey",
+      "day" : 19,
+      "url" : "https://qiita.com/hironey/items/d318af634a43164cdb96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "環境構築の素人がRailsの環境をWIndows11PCに作ってみた",
+      "author" : "@Ingward",
+      "day" : 20,
+      "url" : "https://qiita.com/Ingward/items/b6d9fa4c8f705df8997a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cypressを用いたE2Eテスト開発",
+      "author" : "@nao_70",
+      "day" : 21,
+      "url" : "https://qiita.com/nao_70/items/1cdb05a817819ffabbe1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Storybookで完結！UIコンポーネントのインタラクション管理",
+      "author" : "@dia",
+      "day" : 22,
+      "url" : "https://qiita.com/dia/items/3b984afec9a51cc803d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのTerraform Provider",
+      "author" : "@dd511805",
+      "day" : 23,
+      "url" : "https://qiita.com/dd511805/items/c1916770d1275f67ce5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ":vimgrepを使っていますか？",
+      "author" : "@kaitat",
+      "day" : 24,
+      "url" : "https://qiita.com/kaitat/items/14eb32b0793ff13eeea8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@zwirky"
+    }
+  ]
+}

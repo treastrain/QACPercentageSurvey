@@ -1,0 +1,157 @@
+{
+  "created_at" : "2021-12-24T13:51:20Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社SRA",
+    "category" : "企業・学校・団体",
+    "lgtm" : 12,
+    "subscribers" : 5,
+    "title" : "SRA Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "sra",
+    "url" : "https://qiita.com/advent-calendar/2021/sra"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Java 17で追加されたHexFormatクラス",
+      "author" : "@kazsharp",
+      "day" : 1,
+      "url" : "https://qiita.com/kazsharp/items/c373effb273104e6ee3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "論理的に考え伝える – SEA関西「開発現場で役立つ論文の書き方のお話」 ",
+      "author" : "@sakaba37",
+      "day" : 3,
+      "url" : "http://sakaba.cocolog-nifty.com/sakaba/2021/05/post-24ec05.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メールやチャットでも役立つテクニック",
+      "author" : "@sakaba37",
+      "day" : 4,
+      "url" : "http://sakaba.cocolog-nifty.com/sakaba/2021/05/post-581dcf.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon S3 Access Points のエイリアス とは",
+      "author" : "@yu-yama-sra",
+      "day" : 5,
+      "url" : "https://qiita.com/yu-yama-sra/items/0a6fce8944559b98419a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「任せて、任せず」「魚を与えるのではなく\"釣り\"を教えよ」",
+      "author" : "@sakaba37",
+      "day" : 7,
+      "url" : "http://sakaba.cocolog-nifty.com/sakaba/2021/08/post-82cf26.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "One fact in one placeとチケット駆動開発 - Software Processes are Software, Too -",
+      "author" : "@sakaba37",
+      "day" : 8,
+      "url" : "http://sakaba.cocolog-nifty.com/sakaba/2021/12/post-bcb37a.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Kendraが多言語対応していた",
+      "author" : "@t_tsuchida",
+      "day" : 11,
+      "url" : "https://qiita.com/t_tsuchida/items/f19c3f2f0b4da02bb114"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Greedy algorithmと2割8割の法則 - Software Processes are Software, Too -",
+      "author" : "@sakaba37",
+      "day" : 13,
+      "url" : "http://sakaba.cocolog-nifty.com/sakaba/2021/12/post-02cf4b.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カプセル化と組織パターン - Software Processes are Software, Too -",
+      "author" : "@sakaba37",
+      "day" : 16,
+      "url" : "http://sakaba.cocolog-nifty.com/sakaba/2021/12/post-2e5d44.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS認定試験】DAS-C01取得しました",
+      "author" : "@t_tsuchida",
+      "day" : 18,
+      "url" : "https://qiita.com/t_tsuchida/items/752b58e6ea4ee89a50e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クアドラティックボーディング(Quadratic voting)をやってみた",
+      "author" : "@buta_suneo",
+      "day" : 19,
+      "url" : "https://qiita.com/buta_suneo/items/6d685929a005df0fe9b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マルチスレッド処理と進捗管理・配員・作業分割/割り当て- Software Processes are Software, Too -",
+      "author" : "@sakaba37",
+      "day" : 21,
+      "url" : "http://sakaba.cocolog-nifty.com/sakaba/2021/12/post-10a803.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スキップマッチングを使用して Auto Scaling グループを更新する",
+      "author" : "@yu-yama-sra",
+      "day" : 23,
+      "url" : "https://qiita.com/yu-yama-sra/items/b4fc6b696f9c68e5d718"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDでgRPC：1000x10回の処理時間をhttpと比較",
+      "author" : "@sakaba37",
+      "day" : 24,
+      "url" : "https://qiita.com/sakaba37/items/c7af1b3295f70670d675"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

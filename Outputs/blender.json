@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T08:05:08Z",
+  "calendar_meta_data" : {
+    "author" : "@SaitoTsutomu",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 38,
+    "subscribers" : 35,
+    "title" : "Blender Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "blender",
+    "url" : "https://qiita.com/advent-calendar/2021/blender"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "BlenderのLayer Painterを使ってみた",
+      "author" : "@___monta___",
+      "day" : 1,
+      "url" : "https://qiita.com/___monta___/items/a8120ac2f75fe979c791"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで木から森を作ろう",
+      "author" : "@SaitoTsutomu",
+      "day" : 2,
+      "url" : "https://qiita.com/SaitoTsutomu/items/6a6c45f3bf52d15d5bd0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オブジェクトの表面に他のオブジェクトを変形",
+      "author" : "@yukimituki11",
+      "day" : 3,
+      "url" : "https://qiita.com/yukimituki11/items/f225d11186f20a891415"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blender2.93のジオメトリノード一覧",
+      "author" : "@yukimituki11",
+      "day" : 4,
+      "url" : "https://qiita.com/yukimituki11/items/b3db6a4b6a5cb4a9b8bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blender 2.93 の設定を 3.0 に持ってくるのにやったこと",
+      "author" : "@SaitoTsutomu",
+      "day" : 5,
+      "url" : "https://qiita.com/SaitoTsutomu/items/b4326269a2e0d5f48b19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "blenderで縦書きテキストを作るアドオンを書いたよ",
+      "author" : "@kapibara19",
+      "day" : 6,
+      "url" : "https://qiita.com/kapibara19/items/a2b0c67e524683b65a44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blender3.0×Varjo XR-3で肉眼レベルのレンダリングを試す。",
+      "author" : "@Horomoto-Asahi",
+      "day" : 7,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/07/204529?_ga=2.243569733.1514135693.1638832704-1307746765.1630660816"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "グリースペンシルから木の枝を作成する手法を考えてみる",
+      "author" : "@yukimituki11",
+      "day" : 8,
+      "url" : "https://qiita.com/yukimituki11/items/0e4b8b6643273a3877fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blender3.0のジオメトリノード一覧",
+      "author" : "@yukimituki11",
+      "day" : 9,
+      "url" : "https://qiita.com/yukimituki11/items/c81645ce7920ae4822dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderでサッカーボールを作ろう",
+      "author" : "@SaitoTsutomu",
+      "day" : 10,
+      "url" : "https://qiita.com/SaitoTsutomu/items/e7e5114a5916843dd068"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カーブに沿わせたオブジェクト配置について考える(2.9-3.0)",
+      "author" : "@yukimituki11",
+      "day" : 11,
+      "url" : "https://qiita.com/yukimituki11/items/94cc61828eb1d6080db7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blender Tips",
+      "author" : "@SaitoTsutomu",
+      "day" : 12,
+      "url" : "https://qiita.com/SaitoTsutomu/items/675b395a04cfba8cdb9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderチャレンジ：らせんトーラス",
+      "author" : "@SaitoTsutomu",
+      "day" : 13,
+      "url" : "https://qiita.com/SaitoTsutomu/items/7532d7d48da6282f5ba4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ジオメトリーノードでで木から森を作ろう",
+      "author" : "@SaitoTsutomu",
+      "day" : 14,
+      "url" : "https://qiita.com/SaitoTsutomu/items/ee30cbe777e26971bf20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderチャレンジ：平面の丸い穴",
+      "author" : "@SaitoTsutomu",
+      "day" : 15,
+      "url" : "https://qiita.com/SaitoTsutomu/items/5a9fd6e48dd1fd44f93b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "blenderでテクスチャをにじませる指先ツールの設定方法 ",
+      "author" : "@nyorock",
+      "day" : 16,
+      "url" : "https://note.com/nyorock/n/n30b8a34d5e90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderでメッシュをきれいにするには",
+      "author" : "@SaitoTsutomu",
+      "day" : 17,
+      "url" : "https://qiita.com/SaitoTsutomu/items/5d0211d5ce4140be6b03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Blender3.0】Free GN Presets V1.0.11 - Blender Geometry Nodes 3.0 Field を自分なりに解釈",
+      "author" : "@t0rry_",
+      "day" : 18,
+      "url" : "https://t0rry.hatenablog.com/entry/Free_GN_Presets"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderチャレンジ：網目",
+      "author" : "@SaitoTsutomu",
+      "day" : 19,
+      "url" : "https://qiita.com/SaitoTsutomu/items/4aa23cf960842cd103c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderでサイコロを作ろう",
+      "author" : "@SaitoTsutomu",
+      "day" : 20,
+      "url" : "https://qiita.com/SaitoTsutomu/items/8888a0cad6b2fe5f480b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderでチェーンを作ろう",
+      "author" : "@SaitoTsutomu",
+      "day" : 21,
+      "url" : "https://qiita.com/SaitoTsutomu/items/0efc83ea526b44c05eb1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderチャレンジ：星マークのボール",
+      "author" : "@SaitoTsutomu",
+      "day" : 22,
+      "url" : "https://qiita.com/SaitoTsutomu/items/5384807ac3969e24af2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderのテクスチャ座標についておさらいしてみる",
+      "author" : "@yukimituki11",
+      "day" : 23,
+      "url" : "https://qiita.com/yukimituki11/items/7dc1ec71df37b38ec3a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モーション作成のためのノンリニアアニメーションエディタ",
+      "author" : "@yukimituki11",
+      "day" : 24,
+      "url" : "https://qiita.com/yukimituki11/items/f74b4d4e85b2c4c012b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yukimituki11"
+    }
+  ]
+}

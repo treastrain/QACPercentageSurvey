@@ -1,0 +1,163 @@
+{
+  "created_at" : "2021-12-24T04:20:13Z",
+  "calendar_meta_data" : {
+    "author" : "@hakatamax",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 12,
+    "subscribers" : 14,
+    "title" : "micro:bit Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "microbit",
+    "url" : "https://qiita.com/advent-calendar/2021/microbit"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bitで下駄箱を「ゼルダの伝説」の世界に ～前編(まずは作ってみた)～",
+      "author" : "@hakatamax",
+      "day" : 1,
+      "url" : "https://qiita.com/hakatamax/items/a8c2d3fe439e5fa6a04e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bitをRubyでブラウザだけでプログラミングするプログラミング環境「rbCanvas」の紹介",
+      "author" : "@noanoa07",
+      "day" : 2,
+      "url" : "https://qiita.com/noanoa07/items/cdc9a2a8d832a6ca1fbf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あつまれ！世界中のmicro:bitファンのみなさーん！",
+      "author" : "@hatasarah",
+      "day" : 3,
+      "url" : "https://qiita.com/hatasarah/items/554b845d90c17b7a4f26"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bit V2 の MicroPython サポート状況(Advent Calendar 2021版)",
+      "author" : "@inachi",
+      "day" : 4,
+      "url" : "https://qiita.com/inachi/items/02a229bea0f4da9ca1d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bitを授業で使うためのグラフツール,IoTツール(micro:bit live 2021 boothより)",
+      "author" : "@asondemita",
+      "day" : 5,
+      "url" : "https://youtu.be/n5jrE5PxdhI"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【micro:bit 2021】 PC と micro:bit を通信させる方法： Node.js・MakeCode でのシンプルなシリアル通信（USBケーブル接続）",
+      "author" : "@youtoy",
+      "day" : 6,
+      "url" : "https://qiita.com/youtoy/items/889f8ee3a3bd884f5df8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bit v2 の MicroPython で OLED を使う(framebuf追加編)",
+      "author" : "@inachi",
+      "day" : 7,
+      "url" : "https://qiita.com/inachi/items/930608fa3fb98690977d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bit v2 の MicroPython で OLED を使う(ssd1306モジュール修正編)",
+      "author" : "@inachi",
+      "day" : 8,
+      "url" : "https://qiita.com/inachi/items/8335d762e5cb4a90c075"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【micro:bit 2021（2つ目）】 PC と micro:bit で送受の両方を行う通信： Node.js・MakeCode でのシンプルなシリアル通信2（USBケーブル接続）",
+      "author" : "@youtoy",
+      "day" : 9,
+      "url" : "https://qiita.com/youtoy/items/136f379b86da54b9f249"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bit v2 の MicroPython で OLED を使う(ssd1306モジュールをSPI版に対応させる編)",
+      "author" : "@inachi",
+      "day" : 10,
+      "url" : "https://qiita.com/inachi/items/2a0ac583a33b4afb0cb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【micro:bit 2021（3つ目）】 micro:bit v2.0 と Scratch：「Microbit More v2」を使う（2021年12月版）",
+      "author" : "@youtoy",
+      "day" : 11,
+      "url" : "https://qiita.com/youtoy/items/56f8bbaf9ee0d689f58d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "つくるバーチャルライドバイク",
+      "author" : "@jp-96",
+      "day" : 12,
+      "url" : "https://qiita.com/jp-96/items/30f3295f28e9e3a03d6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "run_everyデコレータについて",
+      "author" : "@inachi",
+      "day" : 18,
+      "url" : "https://qiita.com/inachi/items/24accdf863bcf5e00832"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "logモジュールについて",
+      "author" : "@inachi",
+      "day" : 19,
+      "url" : "https://qiita.com/inachi/items/51f11aa28bdbabce9e07"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新宿区落合第二小学校お祭りでの活用事例を紹介します(-☌ᴗ⚬-)",
+      "author" : "@sw_education",
+      "day" : 22,
+      "url" : "https://sedu.link/2021microbitAC"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FBの記事でもアップできるかな⁇ 12/14ドタキャンの穴埋め、micro:cartを載せてみます",
+      "author" : "@tu_boy28",
+      "day" : 23,
+      "url" : "https://www.facebook.com/100001656797868/posts/4776340589097787/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

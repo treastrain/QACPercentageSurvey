@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T09:58:46Z",
+  "calendar_meta_data" : {
+    "author" : "@teco_iida",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 4,
+    "title" : "テコテック Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "tecotec",
+    "url" : "https://qiita.com/advent-calendar/2021/tecotec"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "LINE BlockchainでNFTを発行する",
+      "author" : "@teco_tsuchida",
+      "day" : 1,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/01/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " LightGBMの機械学習モデル予測シミュレーンアプリをFlaskで構築し爆速でHerokuに公開する",
+      "author" : "@teco_kawahito",
+      "day" : 2,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/02/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebaseでサービスを運用して2021",
+      "author" : "@teco_iida",
+      "day" : 3,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/03/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hello Vim Script World !!",
+      "author" : "@tecoteckimura",
+      "day" : 4,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/04/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPhone のカメラで複数の QR を同時スキャン、結果を AR 表示するアプリのサンプル",
+      "author" : "@teco_yagi",
+      "day" : 5,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/05/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dvorak配列使いはDvorak配列をススメない話",
+      "author" : "@teco_chen_ichun",
+      "day" : 6,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/06/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter × Firebase ユーザー登録",
+      "author" : "@teco_hirose",
+      "day" : 7,
+      "url" : "https://qiita.com/teco_hirose/items/53cacadc1e1f781d0028"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LaravelからAppSync APIをIAM認証で実行する",
+      "author" : "@teco_suzuki",
+      "day" : 8,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/08/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[flutter] firebase導入時のビルドエラーに対処する",
+      "author" : "@teco_noguchi",
+      "day" : 9,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/09/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gitのコミットをならべかえたりまとめたりする",
+      "author" : "@teco_shibata",
+      "day" : 10,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/10/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeでssh接続してRaspberry Piを触りたい",
+      "author" : "@teco_takada",
+      "day" : 11,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/11/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "年末なのでUSBケーブルを断捨離してみよう",
+      "author" : "@mochizuki-shusuke",
+      "day" : 12,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/12/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「amplify init」を使わず必要最低限構成でCognitoを用いたAmplifyを使ってみる",
+      "author" : "@teco_nishinaga",
+      "day" : 13,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/13/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Laravel】with関数で処理高速化",
+      "author" : "@teco-yamazaki",
+      "day" : 14,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/14/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "数学的に最適な寄せ鍋を考えてみた",
+      "author" : "@teco_abiko",
+      "day" : 15,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/15/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swiftで文字を圧縮表示したい！",
+      "author" : "@teco_akaike",
+      "day" : 16,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/16/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dockerはufwに穴を空ける。",
+      "author" : "@teco_shimoe",
+      "day" : 17,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/17/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Workshopsで学ぼう",
+      "author" : "@teco-uchida",
+      "day" : 18,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/18/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OAuth、OpenID Connectについて改めて調べてみた",
+      "author" : "@teco-tanaka-yoshitaka",
+      "day" : 19,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/19/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APIを使って天気予報を取得してみた",
+      "author" : "@teco_abe",
+      "day" : 20,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/20/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASで定期実行しているスクリプトのエラー通知をLINEに飛ばすようにしてみた",
+      "author" : "@teco_y-kondo",
+      "day" : 21,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/21/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@teco_kinjo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React+Node.js(express)+MySQLの環境を整えてReactとNode.jsの自己学習に取り組んでみた",
+      "author" : "@teco_watanabe_y",
+      "day" : 23,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/23/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Vision APIを使ってみよう",
+      "author" : "@teco_kaji",
+      "day" : 24,
+      "url" : "https://tec.tecotec.co.jp/entry/2021/12/24/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@teco_roppongi"
+    }
+  ]
+}

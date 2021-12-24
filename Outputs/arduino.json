@@ -1,0 +1,164 @@
+{
+  "created_at" : "2021-12-24T13:03:34Z",
+  "calendar_meta_data" : {
+    "author" : "@frodo821",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 17,
+    "subscribers" : 49,
+    "title" : "Arduino Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "arduino",
+    "url" : "https://qiita.com/advent-calendar/2021/arduino"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "タクトスイッチが押されたらLEDを5回点滅させる",
+      "author" : "@KeitetsuWorks",
+      "day" : 1,
+      "url" : "https://keitetsu.blogspot.com/2021/12/arduino-led5.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数のLEDを別々の周期やON/OFF比で点滅させる",
+      "author" : "@KeitetsuWorks",
+      "day" : 2,
+      "url" : "https://keitetsu.blogspot.com/2021/12/arduino-ledonoff.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArduinoにiPadから(嘘)、スケッチを書き込む",
+      "author" : "@C2_now",
+      "day" : 3,
+      "url" : "https://qiita.com/C2_now/items/d1dd4df806649ec007a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "analogReadの値の変換を誤解していた話(1023、1024問題)",
+      "author" : "@C2_now",
+      "day" : 4,
+      "url" : "https://qiita.com/C2_now/items/a87e5632aacbc79ba5d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エアコンのリモコンの信号をコピーする",
+      "author" : "@asukiaaa",
+      "day" : 5,
+      "url" : "https://asukiaaa.blogspot.com/2021/12/copy-and-send-ir-signal-by-esp32-arduino.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1からArduino系基板を自作した話",
+      "author" : "@ume-boshi",
+      "day" : 6,
+      "url" : "https://ume-boshi.hatenablog.jp/entry/2021/12/06/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vistaでstm32duino",
+      "author" : "@ohisama@github",
+      "day" : 7,
+      "url" : "https://qiita.com/ohisama@github/items/99748eb1f06130e034bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NodejsからArduino IoT Cloudを操作するためのメモ",
+      "author" : "@Inoue_Minoru",
+      "day" : 11,
+      "url" : "https://qiita.com/Inoue_Minoru/items/36280e265f4fcf580698"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「光強度」をなるべく安価で高精度に測定したい(Arduino + ADS1115 + フォトICダイオード)",
+      "author" : "@sugar_king777",
+      "day" : 12,
+      "url" : "https://qiita.com/sugar_king777/items/be7e78c022caa8ad94ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サクッとはじめるArduinoライブラリ",
+      "author" : "@zama_8722",
+      "day" : 13,
+      "url" : "https://qiita.com/zama_8722/items/378deba0a11a1aed03c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Arduino IDEでESP32/ESP8266を使う時のメモ",
+      "author" : "@jerrywdlee",
+      "day" : 18,
+      "url" : "https://qiita.com/jerrywdlee/items/586c59e7806c97043cd6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "周波数を計測する便利ライブラリHzMeter_asukiaaaを作った",
+      "author" : "@asukiaaa",
+      "day" : 19,
+      "url" : "https://asukiaaa.blogspot.com/2021/12/Hz-meter-on-arduino.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP32でNetatmo Weather Stationもどきを作る",
+      "author" : "@mtakatou",
+      "day" : 20,
+      "url" : "https://qiita.com/mtakatou/items/b317e9b5c99ff091afe4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Private LoRa】ESP-WROOM-32をホストマイコンにしてES920LRの設定をする",
+      "author" : "@masaoguchi",
+      "day" : 22,
+      "url" : "https://zenn.dev/masaoguchi/articles/4f56abc05bae83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laze(自作プログラミング言語)でArduinoを制御して遊んでみた",
+      "author" : "@coder6583",
+      "day" : 23,
+      "url" : "https://qiita.com/coder6583/items/9adc2a7d5b55207c4b74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustのHAL(avr-hal)でシンデレラのペーパークラフトを【Leafony】でライトアップ",
+      "author" : "@gracehime",
+      "day" : 24,
+      "url" : "https://elchika.com/article/c74e9dd4-cdbe-4550-a4e9-60730bb374b0/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@covao"
+    }
+  ]
+}

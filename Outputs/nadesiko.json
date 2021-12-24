@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T10:07:16Z",
+  "calendar_meta_data" : {
+    "author" : "@snowdrops89",
+    "category" : "プログラミング言語",
+    "lgtm" : 31,
+    "subscribers" : 13,
+    "title" : "日本語プログラミング言語「なでしこ」 Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "nadesiko",
+    "url" : "https://qiita.com/advent-calendar/2021/nadesiko"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこでねずみ算を解くよ！",
+      "author" : "@snowdrops89",
+      "day" : 1,
+      "url" : "https://qiita.com/snowdrops89/items/2b2ce554487cc4c0653c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "事務処理・バッチ処理のための「なでしこ3」PC版について",
+      "author" : "@kujirahand",
+      "day" : 2,
+      "url" : "https://qiita.com/kujirahand/items/12b9dca1866768038b25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこさんでLINE Botを作りたい！　～なでしこの最新バージョンを答えてくれるLINE Bot～",
+      "author" : "@snowdrops89",
+      "day" : 3,
+      "url" : "https://qiita.com/snowdrops89/items/d36fba24a1f5b65bcf5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年なでしこはこんな事がありました！",
+      "author" : "@eznavi",
+      "day" : 4,
+      "url" : "https://qiita.com/eznavi/items/8695d181d47e55b5e9ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこさんでマルバツゲームを作るよ！　①　～キャンバスにゲーム画面を描画～",
+      "author" : "@snowdrops89",
+      "day" : 5,
+      "url" : "https://qiita.com/snowdrops89/items/a39e686d1d518a816717"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこ3で簡単なcatコマンドを作る",
+      "author" : "@sonota88",
+      "day" : 6,
+      "url" : "https://qiita.com/sonota88/items/d43c9618498062863e58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこさんでマルバツゲームを作るよ！　②　～人対人で遊べるようにする～",
+      "author" : "@snowdrops89",
+      "day" : 7,
+      "url" : "https://qiita.com/snowdrops89/items/58f1a7453298d50eb722"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこさんでマルバツゲームを作るよ！　③　～人対コンピューターで遊べるようにする～",
+      "author" : "@snowdrops89",
+      "day" : 8,
+      "url" : "https://qiita.com/snowdrops89/items/b4c5af2addf4b81aa173"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「なでしこ」で分かりやすいプログラムを書くTips",
+      "author" : "@kujirahand",
+      "day" : 9,
+      "url" : "https://qiita.com/kujirahand/items/a0dc96b40cfaf2c1afad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこさんでマルバツゲームを作るよ！　④　～ミニマックス法を学ぶ～",
+      "author" : "@snowdrops89",
+      "day" : 10,
+      "url" : "https://qiita.com/snowdrops89/items/e129f5fb70b4981251ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこさんでマルバツゲームを作るよ！　⑤　～最強のマルバツゲームできた☆～",
+      "author" : "@snowdrops89",
+      "day" : 11,
+      "url" : "https://qiita.com/snowdrops89/items/8432323b124d658f59f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこでmacOSの.DS_Storeを一括削除する",
+      "author" : "@kujirahand",
+      "day" : 12,
+      "url" : "https://qiita.com/kujirahand/items/d0153b2b40eac61e390c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこ3でかんたんな自作言語のコンパイラを書いた",
+      "author" : "@sonota88",
+      "day" : 13,
+      "url" : "https://qiita.com/sonota88/items/54c65e97aa563009137e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこ3配布キットを使ってみたよ！",
+      "author" : "@snowdrops89",
+      "day" : 14,
+      "url" : "https://qiita.com/snowdrops89/items/580e3b8a6b3383d64311"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこでアナログ時計を作る",
+      "author" : "@kujirahand",
+      "day" : 15,
+      "url" : "https://qiita.com/kujirahand/items/94bcdf707829c4261bea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「なでしこ3」でCSVファイルを読む",
+      "author" : "@kujirahand",
+      "day" : 16,
+      "url" : "https://qiita.com/kujirahand/items/c55b98fe3996dcdabd5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ねずみ算の続きあるいは単位換算のこと",
+      "author" : "@snowdrops89",
+      "day" : 17,
+      "url" : "https://qiita.com/snowdrops89/items/a22a740d18cd9525e1bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "色読み脳トレをなでしこで作ろう！",
+      "author" : "@kujirahand",
+      "day" : 18,
+      "url" : "https://qiita.com/kujirahand/items/e7969f6adacd9f79587d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日のお月様を表示したい！",
+      "author" : "@snowdrops89",
+      "day" : 19,
+      "url" : "https://qiita.com/snowdrops89/items/01d75d85f7eed557335e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerでなでしこ開発環境を整える",
+      "author" : "@kujirahand",
+      "day" : 20,
+      "url" : "https://qiita.com/kujirahand/items/6d49fa8cf3ce72bc0a9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "月齢カレンダーを作るよ！",
+      "author" : "@snowdrops89",
+      "day" : 21,
+      "url" : "https://qiita.com/snowdrops89/items/71a121de7cac15deafa7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なでしこ3サーバー簡単保存APIを使ってみよう",
+      "author" : "@kujirahand",
+      "day" : 22,
+      "url" : "https://qiita.com/kujirahand/items/70f52577c7300e0f4470"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスな時計を作る！",
+      "author" : "@kurea2020",
+      "day" : 23,
+      "url" : "https://qiita.com/kurea2020/items/f0560573e3ad3e0b191a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングの陰に〇〇の存在",
+      "author" : "@eznavi",
+      "day" : 24,
+      "url" : "https://www.eznavi.net/index.php?site=ez20211224"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@snowdrops89"
+    }
+  ]
+}

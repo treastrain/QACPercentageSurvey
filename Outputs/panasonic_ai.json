@@ -1,0 +1,125 @@
+{
+  "created_at" : "2021-12-24T03:43:14Z",
+  "calendar_meta_data" : {
+    "author" : "Panasonic × AI",
+    "category" : "企業・学校・団体",
+    "lgtm" : 12,
+    "subscribers" : 3,
+    "title" : "Panasonic×AI Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "panasonic_ai",
+    "url" : "https://qiita.com/advent-calendar/2021/panasonic_ai"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パナコンだけで競プロの面白さを伝える！",
+      "author" : "@nasu_onigiri",
+      "day" : 18,
+      "url" : "https://qiita.com/nasu_onigiri/items/4182ab554c9f24813e1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jax + haiku + jmp ではじめるAutomatic Mixed Precision(AMP)なdeep learning",
+      "author" : "@nodaki",
+      "day" : 23,
+      "url" : "https://qiita.com/nodaki/items/2bc7a78cbc754f661acf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AutoAugmentの進化のざっくりとしたまとめ",
+      "author" : "@kuz44ma69",
+      "day" : 24,
+      "url" : "https://qiita.com/kuz44ma69/items/ad5beac17c228e75b8fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@jack_the_kaggler"
+    }
+  ]
+}

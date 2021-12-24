@@ -1,0 +1,183 @@
+{
+  "created_at" : "2021-12-22T13:45:02Z",
+  "calendar_meta_data" : {
+    "author" : "@Yametaro",
+    "category" : "Qiita主催",
+    "lgtm" : 1238,
+    "subscribers" : 225,
+    "title" : "ググって解決しづらかったこと Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "gseach",
+    "url" : "https://qiita.com/advent-calendar/2021/gseach"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyで長文を変数に入れるあれ",
+      "author" : "@tosiooooooo",
+      "day" : 1,
+      "url" : "https://qiita.com/tosiooooooo/items/3a84f31b68de0de3f414"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ワイ「Tailwind CSSで選択したラジオボタンの背景色を変えたいんやけど」",
+      "author" : "@shimayu22",
+      "day" : 2,
+      "url" : "https://qiita.com/shimayu22/items/b42de991c1db627ce535"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【FileMaker】curl ググって解決しづらかったこと",
+      "author" : "@tyuma",
+      "day" : 3,
+      "url" : "https://qiita.com/tyuma/items/7f0c161509f3c5c78257"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "困ったときの心得、質問する前に",
+      "author" : "@baku2san",
+      "day" : 4,
+      "url" : "https://qiita.com/baku2san/items/8a27e05e2d20fa22f686"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python関係のググり方Tips集",
+      "author" : "@c60evaporator",
+      "day" : 5,
+      "url" : "https://qiita.com/c60evaporator/items/ebccb74c591631952eb3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お客さんによって表示内容を変えるテンプレートを作るには（Vue）",
+      "author" : "@3tomcha",
+      "day" : 6,
+      "url" : "https://qiita.com/3tomcha/items/655a0eeeecc0bf287754"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「簡単」のレベルは人によって違うよねという話",
+      "author" : "@dem_kk",
+      "day" : 7,
+      "url" : "https://qiita.com/dem_kk/items/ce29625a2efffed49ee2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINEのテキストファイルを分析しやすそうに整形する",
+      "author" : "@ishidao",
+      "day" : 8,
+      "url" : "https://qiita.com/ishidao/items/f68c5274bb2883bc453e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ググり力、それはエンジニアには必須の能力である",
+      "author" : "@dodonki1223",
+      "day" : 9,
+      "url" : "https://qiita.com/dodonki1223/items/955819806297ee554b31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ググって解決できないことへの対処方法",
+      "author" : "@TakamiChie",
+      "day" : 10,
+      "url" : "https://blog.onpu-tamago.net/entry/2021/12/10/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windowsのコマンドライン引数でのクォートの話",
+      "author" : "@igrep",
+      "day" : 11,
+      "url" : "https://qiita.com/igrep/items/d4251d12e85cfc0a00df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリーンアーキわからんかった人のためのクリーンじゃないけどクリーンみたいなオニオンに見せかけたSOLIDの話",
+      "author" : "@StreamWest-1629",
+      "day" : 12,
+      "url" : "https://zenn.dev/streamwest1629/articles/no-clean_like-clean_its-onion-solid"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メモリの規格を表す\"PCx-yyyy\"の\"PC\"って何の略なの？ パソコンじゃないよね？→ パソコンかもしれない",
+      "author" : "@yamasaki1ma",
+      "day" : 13,
+      "url" : "https://qiita.com/yamasaki1ma/items/9ad197da386ffd66275b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[英語が苦手な人向け]英語でのググり方(JavaのScannerクラスのコンストラクタにSystem.inを入れた場合にCloseするべきか？問題を添えて)",
+      "author" : "@nanagami1369",
+      "day" : 14,
+      "url" : "https://qiita.com/nanagami1369/items/faeec532335fe563e445"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Windowsサービス] SESSIONCHANGE時のWTS_〇〇〇達がどういうタイミングで来るのかを調べる",
+      "author" : "@tera1707",
+      "day" : 15,
+      "url" : "https://qiita.com/tera1707/items/9c74aa0b05eced42480e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアが欲しい情報に最速で辿り着くには",
+      "author" : "@Tita_boc16",
+      "day" : 16,
+      "url" : "https://qiita.com/Tita_boc16/items/22d90ecab0d5d720bb56"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「検索の鉄人」への道",
+      "author" : "@kaizen_nagoya",
+      "day" : 17,
+      "url" : "https://qiita.com/kaizen_nagoya/items/eca80e3ac4dca6e93902"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「VB.NET」とかいう言語",
+      "author" : "@obsidian_puyo",
+      "day" : 18,
+      "url" : "https://qiita.com/obsidian_puyo/items/b42b3c8a1288d7286f61"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C#.NET】言語によって挙動が変わる",
+      "author" : "@michimichix521",
+      "day" : 19,
+      "url" : "https://qiita.com/michimichix521/items/8d276acd3a7906b34c24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenix.LiveView.Socket ... show",
+      "author" : "@torifukukaiou",
+      "day" : 20,
+      "url" : "https://qiita.com/torifukukaiou/items/07ce15066914e86f1213"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "呼称の違う連想配列系の単語でググってみた",
+      "author" : "@j5c8k6m8",
+      "day" : 21,
+      "url" : "https://qiita.com/j5c8k6m8/items/4717884ab4390089a695"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityHubに古いUnityをインストールするときに詰まった話",
+      "author" : "@kuro_take",
+      "day" : 22,
+      "url" : "https://qiita.com/kuro_take/items/1297567f6861145e65a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@stnamco"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@igrep"
+    }
+  ]
+}

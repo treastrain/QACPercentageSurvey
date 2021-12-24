@@ -1,0 +1,147 @@
+{
+  "created_at" : "2021-12-24T05:35:58Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ダイアログ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 13,
+    "subscribers" : 0,
+    "title" : "Dialog Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "dialog",
+    "url" : "https://qiita.com/advent-calendar/2021/dialog"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "W3 CloudFormation 2021 振り返り",
+      "author" : "@aikoyd",
+      "day" : 1,
+      "url" : "https://qiita.com/aikoyd/items/4eb944bdd57e52ef9898"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Salesforce】AppExchangeのアプリケーション開発に関わる環境をまとめてみた。",
+      "author" : "@yuki82511988",
+      "day" : 2,
+      "url" : "https://qiita.com/yuki82511988/items/7c067562738914ad6108"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterで設定画面を実装してみた",
+      "author" : "@yamauchihrt",
+      "day" : 10,
+      "url" : "https://qiita.com/yamauchihrt/items/c85b5b29fae758f4383c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Flutter] Android端末で、Bluetoothペアリング済みの端末の情報を取得する方法",
+      "author" : "@yamauchihrt",
+      "day" : 13,
+      "url" : "https://qiita.com/yamauchihrt/items/5feddd5e75540bee5fe5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インフラ調査 ~データ分析編~",
+      "author" : "@narumiyam",
+      "day" : 14,
+      "url" : "https://qiita.com/narumiyam/items/04c9713160603112e67a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Salesforce/AppExchange】テストデータをコード化して、心地良いスクラッチ組織開発を心がける",
+      "author" : "@yuki82511988",
+      "day" : 15,
+      "url" : "https://qiita.com/yuki82511988/items/7a0a794790ecfc1e1eaf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "友達とのチーム開発を成功させるためには？〜仲良く学びを深めるために〜",
+      "author" : "@yuki82511988",
+      "day" : 16,
+      "url" : "https://qiita.com/yuki82511988/items/7e4e3ef2706bca56613f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Flutter]moorを使用したテーブルの作り方",
+      "author" : "@teruis",
+      "day" : 17,
+      "url" : "https://qiita.com/teruis/items/608cfa444c41f588b147"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QRコードにも文字コードはある",
+      "author" : "@iidat",
+      "day" : 20,
+      "url" : "https://qiita.com/iidat/items/3d9a4c9bd3d8f78c3440"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SalesforceテストデータのTypeID書き換えを自動化した",
+      "author" : "@naniwadari",
+      "day" : 21,
+      "url" : "https://qiita.com/naniwadari/items/b4cda8e4928e9de2452d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@idek"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@shinozakiy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

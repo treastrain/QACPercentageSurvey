@@ -1,0 +1,151 @@
+{
+  "created_at" : "2021-12-24T11:33:19Z",
+  "calendar_meta_data" : {
+    "author" : "@munieru_jp",
+    "category" : "プログラミング言語",
+    "lgtm" : 42,
+    "subscribers" : 219,
+    "title" : "TypeScript Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "typescript",
+    "url" : "https://qiita.com/advent-calendar/2021/typescript"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "tsconfig.jsonを書くときはTSConfig Basesを使うと便利",
+      "author" : "@munieru_jp",
+      "day" : 1,
+      "url" : "https://qiita.com/munieru_jp/items/a67ac782bbf099d90128"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptのテンプレートリポジトリ集（TS Templates）をつくった",
+      "author" : "@munieru_jp",
+      "day" : 2,
+      "url" : "https://qiita.com/munieru_jp/items/b02884cf7cf0f77dc308"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TypeScript】非情報系卒の駆け出しエンジニアなりにDIするコードをvanillaで書いてみた",
+      "author" : "@masayasviel",
+      "day" : 3,
+      "url" : "https://qiita.com/masayasviel/items/8e981422052d4655c1f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "関数型プログラミングが『銀の弾丸』であるという非常識な常識 2022 【長大ドキュメント】",
+      "author" : "@stken2050",
+      "day" : 4,
+      "url" : "https://kentutorialbook.github.io/functionalprogramming2022/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Jest】Fetch APIのインターフェースを代替する",
+      "author" : "@kohbis",
+      "day" : 5,
+      "url" : "https://fushagoya.com/blog/2021/12/05/using-fetchapi-interfaces-in-jest/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[TypeScript] Array.isArrayでReadonlyArrayの型ガード",
+      "author" : "@sugoroku_y",
+      "day" : 6,
+      "url" : "https://qiita.com/sugoroku_y/items/150b5e564ca4a8570e43"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fp-tsとio-tsを使ってWeb APIをいい感じに叩く",
+      "author" : "@ruriro0125",
+      "day" : 7,
+      "url" : "https://qiita.com/ruriro0125/items/4ffdd628a4f03450359a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[TypeScript]具体例で理解する、配列から\"その配列型\"と\"その要素のUnion型\"を定義する方法とその使い道",
+      "author" : "@iron-samurai",
+      "day" : 10,
+      "url" : "https://qiita.com/iron-samurai/items/0aa102af4d0bd33dbff3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "型安全Storageの実装を通して学ぶ! TypeScriptの型",
+      "author" : "@jiftechnify",
+      "day" : 11,
+      "url" : "https://zenn.dev/jiftechnify/articles/2489f4103918a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript 4.5で入ったAwaitedは自作できるのか",
+      "author" : "@daishi",
+      "day" : 13,
+      "url" : "https://qiita.com/daishi/items/2f05e7c6dae8daa436f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@abouch"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "定数から生成した型が string になった!? 焦らずアサーション(Assertion)を付けよう",
+      "author" : "@luvmini511",
+      "day" : 23,
+      "url" : "https://zenn.dev/luvmini511/articles/11f2ec7aad8e14"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@yoshikyoto"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@islandryu"
+    }
+  ]
+}

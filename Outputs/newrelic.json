@@ -1,0 +1,292 @@
+{
+  "created_at" : "2021-12-24T07:02:49Z",
+  "calendar_meta_data" : {
+    "author" : "@t_wkm2",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 7,
+    "subscribers" : 26,
+    "title" : "New Relic Advent Calendar 2021",
+    "participants" : 26,
+    "unique_name" : "newrelic",
+    "url" : "https://qiita.com/advent-calendar/2021/newrelic"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relicを導入する事となったきっかけ",
+      "author" : "@uchiyamah",
+      "day" : 1,
+      "url" : "https://qiita.com/uchiyamah/items/f5e5ad78c5bbf431906a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "姉さん、大変です。New Relicを・・・",
+      "author" : "@horit0123",
+      "day" : 2,
+      "url" : "https://qiita.com/horit0123/items/a53013db9d42711b648d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "久しぶりにNew Relic (with Kubernetes)使ってみたらいろいろ便利なことが増えてた話",
+      "author" : "@inductor",
+      "day" : 3,
+      "url" : "https://blog.inductor.me/entry/2021/12/06/152734"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APNs 証明書の有効性を New Relic で監視する",
+      "author" : "@kitakitash",
+      "day" : 4,
+      "url" : "https://qiita.com/kitakitash/items/b77e38d1cdea552c93d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "姉さん、New Relic デビューしたのでLambdaと・・・・",
+      "author" : "@horit0123",
+      "day" : 5,
+      "url" : "https://qiita.com/horit0123/items/fba2572eefd2ff92057a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relic を使って問題の原因を特定し、一瞬で処理を爆速にした",
+      "author" : "@oz-urabe",
+      "day" : 6,
+      "url" : "https://qiita.com/oz-urabe/items/0360c06b7658945124cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relic初心者がNew Relicを紹介する",
+      "author" : "@chichiritsuka",
+      "day" : 7,
+      "url" : "https://qiita.com/chichiritsuka/items/5b8fa932e162baa254cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relic CodeStream をNext.js & Remote Containersな環境で使ってみた！",
+      "author" : "@Keisuke69",
+      "day" : 8,
+      "url" : "https://www.keisuke69.net/entry/2021/12/08/235914"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relic CodeStream触ってみた",
+      "author" : "@happy_ryo",
+      "day" : 9,
+      "url" : "http://tech.aainc.co.jp/archives/12036"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relic OneでDevOpsのキーメトリクス デプロイ頻度をグラフ化する",
+      "author" : "@budougumi0617",
+      "day" : 10,
+      "url" : "https://devblog.thebase.in/entry/devops_key_metrics_on_newrelic"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NewRelicで顧客別のレスポンスタイムの可視化を楽にできた話 ",
+      "author" : "@et-okazaki",
+      "day" : 11,
+      "url" : "https://tech.emotion-tech.co.jp/entry/newrelic-logs-trial"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relic APMのMost time consumingを特定のUser Agentでフィルタして分析する",
+      "author" : "@yuki549",
+      "day" : 12,
+      "url" : "https://qiita.com/yuki549/items/e25f494b743f8cf39780"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【New Relic】NerdGraphを使ってAPMのトランザクション情報を取得してみる",
+      "author" : "@mmclsntr",
+      "day" : 13,
+      "url" : "https://qiita.com/mmclsntr/items/e16e4c6bba5e0c763dee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relicのテレメトリデータを最適化しよう",
+      "author" : "@kazumax55",
+      "day" : 14,
+      "url" : "https://qiita.com/kazumax55/items/d7a0cc0831a96c44d5e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New RelicのTIMESERIES句について",
+      "author" : "@shu85t",
+      "day" : 15,
+      "url" : "https://qiita.com/shu85t/items/85f156474e99457e3d0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NRUG (New Relic User Group) Vol.1に参加してきました",
+      "author" : "@glassmonkey",
+      "day" : 16,
+      "url" : "https://devblog.thebase.in/entry/nrug-report-vol1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "\"Hello, New Relic!\" 基礎中の基礎が学べるハンズオンをやってみた",
+      "author" : "@cm-watanabeseigo",
+      "day" : 17,
+      "url" : "https://dev.classmethod.jp/articles/202112-try-hello-new-relic-handson/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュリティ要件の高いシステムにNew Relicを導入できるのか検証してみた",
+      "author" : "@dcm_yabuki",
+      "day" : 18,
+      "url" : "https://qiita.com/dcm_yabuki/items/5858c8e6b6c91cde92d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudWatchのメトリクスデータをNew Relicに連携してみた",
+      "author" : "@inomasosan",
+      "day" : 19,
+      "url" : "https://dev.classmethod.jp/articles/cloudwatch-new-relic-integration/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fluentd ✖︎ New Relic でnginxのアクセスログをNew Relic Oneで見れるようにしよう！",
+      "author" : "@redchili",
+      "day" : 20,
+      "url" : "http://tech.aainc.co.jp/archives/12064"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS Lambda編】New Relic で サーバーレスアプリケーション をモニタリングする",
+      "author" : "@kinunori",
+      "day" : 21,
+      "url" : "https://shimakaze.hatenablog.com/entry/2021/12/21/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Relicを1年ぐらい導入したので色々まとめてみた",
+      "author" : "@tsuchiyanohito",
+      "day" : 22,
+      "url" : "https://techblog.istyle.co.jp/archives/9267"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "外形監視とNew Relic Syntheticsについてかきました",
+      "author" : "@infragirl755",
+      "day" : 23,
+      "url" : "https://natsuyo.net/entry/newrelicsynthetics"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@takamin55"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@masahiro_takeda"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "APM として New Relic を導入した話",
+      "author" : "@becyn",
+      "day" : 21,
+      "url" : "https://tech.uzabase.com/entry/2021/12/22/102708"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "レスポンス改善プロジェクトでやったこと",
+      "author" : "@cureseven",
+      "day" : 24,
+      "url" : "https://devblog.thebase.in/entry/2021/12/18/180000"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

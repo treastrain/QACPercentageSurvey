@@ -1,0 +1,343 @@
+{
+  "created_at" : "2021-12-24T05:03:17Z",
+  "calendar_meta_data" : {
+    "author" : "NTTドコモ R&D",
+    "category" : "企業・学校・団体",
+    "lgtm" : 790,
+    "subscribers" : 80,
+    "title" : "NTTドコモ R&D Advent Calendar 2021",
+    "participants" : 44,
+    "unique_name" : "nttdocomo",
+    "url" : "https://qiita.com/advent-calendar/2021/nttdocomo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ドコモ、IPv6シングルスタックはじめます",
+      "author" : "@dcm_MakiSaito",
+      "day" : 1,
+      "url" : "https://qiita.com/dcm_MakiSaito/items/a50084903b1047926d8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レガシーシステムのインフラ作業自動化してみた！",
+      "author" : "@dcm_hishi",
+      "day" : 2,
+      "url" : "https://qiita.com/dcm_hishi/items/1dc009110fd07006187c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "論文タイトルから学会流行を知り，日本語GPT-2でタイトル生成してみよう!",
+      "author" : "@dcm_sawayama",
+      "day" : 3,
+      "url" : "https://qiita.com/dcm_sawayama/items/7c991d44ee57e96446c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "逆翻訳を使って日本語テキストデータを拡張(水増し)してみた",
+      "author" : "@dcm_inago",
+      "day" : 4,
+      "url" : "https://qiita.com/dcm_inago/items/1b3aa6a04e0e4256e105"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "真っ白な空間を作る (Unreal Engine 4)",
+      "author" : "@dosada",
+      "day" : 5,
+      "url" : "https://qiita.com/dosada/items/220a7614b3182dfe9a2a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】写真を絵文字に変換する",
+      "author" : "@dcm_fukushima",
+      "day" : 6,
+      "url" : "https://qiita.com/dcm_fukushima/items/b9f9da8e3cd6aacbb1b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドコモデータコピーアプリ　音響通信機能の紹介！",
+      "author" : "@dcm_utsumi",
+      "day" : 7,
+      "url" : "https://qiita.com/dcm_utsumi/items/6b220d195613fd0806c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "グラフニューラルネットワークでQiitaのタグづけをレコメンドする",
+      "author" : "@dcm_hashimotom",
+      "day" : 8,
+      "url" : "https://qiita.com/dcm_hashimotom/items/718cbea25d9b5e2c4e50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebaseでスマホアプリビッグデータをかんたんに解析する方法",
+      "author" : "@dcm_OsamuAsai",
+      "day" : 9,
+      "url" : "https://qiita.com/dcm_OsamuAsai/items/e63b14183cac09394582"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSM研修の内容と学んだこと",
+      "author" : "@dcm_takehiro",
+      "day" : 10,
+      "url" : "https://qiita.com/dcm_takehiro/items/d10b9c83134091960134"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSで〇〇やってみた！に踏み出せないあなたへ",
+      "author" : "@dcm_onishi",
+      "day" : 11,
+      "url" : "https://qiita.com/dcm_onishi/items/00d18c5e75229d7a8b17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Managed GrafanaをOkta認証を用いてセットアップしてみた",
+      "author" : "@dcm_ueno",
+      "day" : 12,
+      "url" : "https://qiita.com/dcm_ueno/items/a7dbde77f7bf11df9180"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps ScriptでGoogleドライブを適正管理／ファイル格納検知・自動削除",
+      "author" : "@dcm_yudaiasai",
+      "day" : 13,
+      "url" : "https://qiita.com/dcm_yudaiasai/items/b148c2587c350a91aff3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Genetic Algorithmでメロディー生成してみた",
+      "author" : "@dcm_fumiya_komatsu",
+      "day" : 14,
+      "url" : "https://qiita.com/dcm_fumiya_komatsu/items/f0b629ed324cdf5c31f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベッドで寝るだけで自分の運動能力がわかる...！（Ubicomp2021参加体験談）",
+      "author" : "@dcm_kumakawa",
+      "day" : 15,
+      "url" : "https://qiita.com/dcm_kumakawa/items/a208ca68851ebb6beec2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おうちディープラーニングPCにモニタリング環境を整える",
+      "author" : "@dcm_miura-h",
+      "day" : 16,
+      "url" : "https://qiita.com/dcm_miura-h/items/1e545f6cd486f27ecfaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "乗換検索はPythonで自作できる",
+      "author" : "@dcm_ishikawa",
+      "day" : 17,
+      "url" : "https://qiita.com/dcm_ishikawa/items/1d266ea69abd728c95cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プライバシを保護しながら糖尿病罹患リスクを正確に予測する！〜匿名ヘルスケアデータコンテストPWSCup2021参加記〜",
+      "author" : "@dcm_hsgw",
+      "day" : 18,
+      "url" : "https://qiita.com/dcm_hsgw/items/6524de51a692cb168203"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackを用いたPeople Analytics：仕事への熱量をSlackから推定してみる",
+      "author" : "@dcm_hiroaki-tanaka",
+      "day" : 19,
+      "url" : "https://qiita.com/dcm_hiroaki-tanaka/items/f5985fe8a00cc8c36c31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習モデルをAPI化しオートスケールさせて遊んでみる",
+      "author" : "@dcm_ogasawara",
+      "day" : 20,
+      "url" : "https://qiita.com/dcm_ogasawara/items/71639b64f14962807faa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像処理を使ったペット見守りアプリを作ってみた",
+      "author" : "@dcm_kawashima",
+      "day" : 21,
+      "url" : "https://qiita.com/dcm_kawashima/items/445f3e3d1ba1e7892965"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ分析したいけど、プライバシーが・・・そんな経験ありませんか？",
+      "author" : "@dcm_gentaro",
+      "day" : 22,
+      "url" : "https://qiita.com/dcm_gentaro/items/c4101a7200899ab57021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システムログを取得してみた",
+      "author" : "@dcm_momose",
+      "day" : 23,
+      "url" : "https://qiita.com/dcm_momose/items/ea6e71a44e18917070fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadogで監視の設定してみた",
+      "author" : "@dcm_otsuki",
+      "day" : 24,
+      "url" : "https://qiita.com/dcm_otsuki/items/84379431038dca69e45b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@dcm_ozawa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ドコモケータイのT9入力をMeCabで再現する",
+      "author" : "@dcm_komada",
+      "day" : 1,
+      "url" : "https://qiita.com/dcm_komada/items/7699dc642680b2b63dd9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "新入社員、zapierに出会う",
+      "author" : "@dcm_tmk",
+      "day" : 2,
+      "url" : "https://qiita.com/dcm_tmk/items/61290ae3f3800e509a68"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Slackから一瞬でGoogle MeetのURLを取得できるAppをAppsScriptを使って作る",
+      "author" : "@dcm_kuri",
+      "day" : 3,
+      "url" : "https://qiita.com/dcm_kuri/items/4c50fa832d9121a64174"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "リンクをクリックしたいだけなんだ",
+      "author" : "@dcm_kurumatani",
+      "day" : 4,
+      "url" : "https://qiita.com/dcm_kurumatani/items/f1a8148c2d6d5e751fa9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GAFAMとも違う、別のロードバランサスケールアウト方式導入してみたお",
+      "author" : "@dcm_kawamune",
+      "day" : 5,
+      "url" : "https://qiita.com/dcm_kawamune/items/326acc3699f9e564b300"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Auth0でdアカウント・コネクト使ってみた",
+      "author" : "@dcm_yokuda",
+      "day" : 11,
+      "url" : "https://qiita.com/dcm_yokuda/items/e0947218dcc11b77af76"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ノーベル経済学賞から学ぶA/Bテストできない場合の効果検証",
+      "author" : "@dcm_tzkm",
+      "day" : 13,
+      "url" : "https://qiita.com/dcm_tzkm/items/32750dc7a1da4be3ff42"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【2021年版】文字検出ってなんですか？",
+      "author" : "@dcm_ryou-kawanami",
+      "day" : 14,
+      "url" : "https://qiita.com/dcm_ryou-kawanami/items/0cecbe13909ffa295bd7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "因果推論を使って施策改善を検討してみた",
+      "author" : "@dcm_aiba",
+      "day" : 15,
+      "url" : "https://qiita.com/dcm_aiba/items/0e5c4b6da3891e51113c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "かゆい所に手が届く！Splunk活用術",
+      "author" : "@dcm_okuhara",
+      "day" : 16,
+      "url" : "https://qiita.com/dcm_okuhara/items/442eefaa043bf5bd22e2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サーバ数千台規模のクラウド基盤を６年以上運用して分かってきたこと",
+      "author" : "@dcm_uranoy",
+      "day" : 17,
+      "url" : "https://qiita.com/dcm_uranoy/items/c67a8714ee587cd355cf"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Apple Watch で計測したランニングの記録から機械学習で目標タイムを設定してみた",
+      "author" : "@dcm_uchimura",
+      "day" : 18,
+      "url" : "https://qiita.com/dcm_uchimura/items/898fe34bc86187d9b182"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "簡単なデータ分析でサッカー欧州5大リーグの優勝チームを予測してみた",
+      "author" : "@dcm_haruyama",
+      "day" : 19,
+      "url" : "https://qiita.com/dcm_haruyama/items/a69f7390d590fdb36112"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "社会人3年目が流行のローコードツールを触ってみてデータサイエンティストの今後について考えてみた件",
+      "author" : "@dcm_hashimotos",
+      "day" : 20,
+      "url" : "https://qiita.com/dcm_hashimotos/items/c4283cac3a74b02104c1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "pygameでノベルゲームを作成してみる",
+      "author" : "@dcm_sakaguchi",
+      "day" : 21,
+      "url" : "https://qiita.com/dcm_sakaguchi/items/4d9c9125e05514ce2194"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "牧草地の雑草管理はおまかせ！ドローンを活用した農業への取り組み",
+      "author" : "@dcm_yamaya",
+      "day" : 22,
+      "url" : "https://qiita.com/dcm_yamaya/items/62730b07672d123b9518"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Unreal Engine初心者だけどマルチプレイしたい！ ~サーバビルド環境構築手順まとめてみた~",
+      "author" : "@dcm_kkataoka",
+      "day" : 23,
+      "url" : "https://qiita.com/dcm_kkataoka/items/1e44233296c0c8df0dec"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GNSS経路情報を可視化しながら前処理入門",
+      "author" : "@dcm_koyama",
+      "day" : 24,
+      "url" : "https://qiita.com/dcm_koyama/items/7d5c5338334cf0c43777"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@dcm_kitade"
+    }
+  ]
+}

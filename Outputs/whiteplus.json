@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T05:15:55Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ホワイトプラス",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "WHITEPLUS Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "whiteplus",
+    "url" : "https://qiita.com/advent-calendar/2021/whiteplus"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒2年目デザイナーの愛用アプリ10選",
+      "author" : "@n_sakamoto",
+      "day" : 1,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/362555"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "全社イベントを盛り上げる企画をやってみた話",
+      "author" : "@r_ishi",
+      "day" : 2,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/363750"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リファクタリングタイム 〜KPTを放置しないために〜",
+      "author" : "@d_tanaka_wp",
+      "day" : 3,
+      "url" : "https://blog.wh-plus.co.jp/entry/2021/12/3/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3分でわかる！明日から使えるオタク用語講座",
+      "author" : "@fukao_753",
+      "day" : 4,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/363884"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年にデザインチームが取り組んだ3つの事",
+      "author" : "@nozue",
+      "day" : 5,
+      "url" : "https://style.wh-plus.co.jp/knowledge-team-design/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードレビューの観点を言語化してみる試み",
+      "author" : "@inouehi",
+      "day" : 6,
+      "url" : "https://blog.wh-plus.co.jp/entry/2021/12/6/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人格形成に影響を与えた、幼少期のスポーツの話し",
+      "author" : "@r_kato_wp",
+      "day" : 7,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/364589"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「読みやすい文章」を作るために編集者の私が心がけていること",
+      "author" : "@no_i",
+      "day" : 8,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/364772"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React + Redux のベストディレクトリ構成　re-ducksパターンとは？",
+      "author" : "@NashimotoT",
+      "day" : 9,
+      "url" : "https://blog.wh-plus.co.jp/entry/2021/12/9/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オリンピックでスケボーってぶっちゃけどうなの？-スケーター目線で勝手に語ってみる-",
+      "author" : "@zukapon",
+      "day" : 10,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/365216"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1ヶ月でマンションの購入契約をするまでのお話",
+      "author" : "@yuiki18takami",
+      "day" : 11,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/366571"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPでnull安全",
+      "author" : "@atsu_kg",
+      "day" : 12,
+      "url" : "https://blog.wh-plus.co.jp/entry/2021/12/12/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最近ハマっている食べ物のお話",
+      "author" : "@kawamura11",
+      "day" : 13,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/365815"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私の「心のビタミン」は？",
+      "author" : "@maehara_hiroki",
+      "day" : 14,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/366050?status=success"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "職能横断型チームの自己組織化に必要な振り返り",
+      "author" : "@sugimotoak",
+      "day" : 15,
+      "url" : "https://blog.wh-plus.co.jp/draft/entry/JpYa9cwDPSzC3PZJS_v5ct2Sv1M"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務フレームワーク実践（元彼バチバチ喧嘩編）",
+      "author" : "@odaka_m",
+      "day" : 16,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/366518"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "40を過ぎてからランニングを始めた理由",
+      "author" : "@t_kondo_wp",
+      "day" : 17,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/366852"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒エンジニアが入社してから感じた「文末」の重要性",
+      "author" : "@mineshita",
+      "day" : 18,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/367048"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "行方を知っている人がいたら、至急ご連絡ください！",
+      "author" : "@llllchillll",
+      "day" : 19,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/367163"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "不可避？な天災を予測して備える話",
+      "author" : "@NakayamaKoji",
+      "day" : 20,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/367167"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DDDのチーム理解度をレベルMAXにする方法（アーキテクチャ編）",
+      "author" : "@knakamigawa",
+      "day" : 21,
+      "url" : "https://blog.wh-plus.co.jp/entry/2021/12/21/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "同期と動物白玉パーティをしました",
+      "author" : "@k_uchimura",
+      "day" : 22,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/367168"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "独断と偏見と妄想と気まぐれによる、2021年のオススメ5選",
+      "author" : "@ffffffff",
+      "day" : 23,
+      "url" : "https://www.wantedly.com/companies/whiteplus/post_articles/368114"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SP（ストーリーポイント）を正しく理解する",
+      "author" : "@yamauchi0116",
+      "day" : 24,
+      "url" : "https://blog.wh-plus.co.jp/entry/2021/12/24/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Yuma_Yoshida"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "created_at" : "2021-12-22T13:32:23Z",
+  "calendar_meta_data" : {
+    "author" : "@jiyuujin",
+    "category" : "モバイル",
+    "lgtm" : 232,
+    "subscribers" : 163,
+    "title" : "Flutter Advent Calendar 2021",
+    "participants" : 64,
+    "unique_name" : "flutter",
+    "url" : "https://qiita.com/advent-calendar/2021/flutter"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterKaigi 2021 ウェブサイトの話を中心に",
+      "author" : "@jiyuujin",
+      "day" : 1,
+      "url" : "https://webneko.dev/posts/thanks-to-join-flutterkaigi-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter Webで画像分類を行う(AutoML Vision, TensorFlow.js)",
+      "author" : "@tfandkusu",
+      "day" : 2,
+      "url" : "https://qiita.com/tfandkusu/items/b8b498d60ddff3db4d50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】バッテリーの充電状態を検知する方法",
+      "author" : "@Umigishi-Aoi",
+      "day" : 3,
+      "url" : "https://qiita.com/Umigishi-Aoi/items/97a7e607f312171f3dbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なんでドロワー、下に行ってしまうん？？",
+      "author" : "@yusuke-0505",
+      "day" : 4,
+      "url" : "https://zenn.dev/taisuke55276018/articles/f261bf89a7c72f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Riverpod を使用しているアプリで、ブロック機能を実装する",
+      "author" : "@zwtin",
+      "day" : 5,
+      "url" : "https://qiita.com/zwtin/items/b5cfd757d84e42326d65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【freezed】required？optional？unknownEnum？な人に丁寧に解説してみた",
+      "author" : "@ashdik",
+      "day" : 6,
+      "url" : "https://blog.dalt.me/3138"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】コピペで使える！ログイン画面",
+      "author" : "@archer_hiro1112",
+      "day" : 7,
+      "url" : "https://qiita.com/archer_hiro1112/items/ad1c077dc841e0795126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キー入力イベント処理の周辺知識とWidget選定",
+      "author" : "@toshi-kuji",
+      "day" : 8,
+      "url" : "https://zenn.dev/inari_sushio/articles/746ad8a0470594"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Analyzer Pluginで欲しいLintを自作する",
+      "author" : "@kawa_1214",
+      "day" : 9,
+      "url" : "https://kawa.dev/posts/create-flutter-analyzer-plugin"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter FocusNode",
+      "author" : "@akihisasen",
+      "day" : 10,
+      "url" : "https://qiita.com/akihisasen/items/b6cea57623fe66957738"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】親Widgetから子のメソッドを呼ぶには、GlobalObjectKeyを使う",
+      "author" : "@karamage",
+      "day" : 11,
+      "url" : "https://qiita.com/karamage/items/19d53a5870c32bf59742"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter WebにフォームをSpearlyを使って埋め込んでみる",
+      "author" : "@qst_exe",
+      "day" : 12,
+      "url" : "https://zenn.dev/qst/articles/741f7befcb2d6e44b68d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ジェスチャの闘技場: GestureArena",
+      "author" : "@mjhd",
+      "day" : 13,
+      "url" : "https://qiita.com/mjhd/items/8e300238e494d8755b44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そのDefaultTextStyle本当に大丈夫？？",
+      "author" : "@b4tchkn",
+      "day" : 14,
+      "url" : "https://qiita.com/b4tchkn/items/417b49bab8b996c15435"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "表示・非表示系のWidgetの使い分けを考えてみる Visibility vs Offstage vs Opacity vs Collection If",
+      "author" : "@miyakeso",
+      "day" : 15,
+      "url" : "https://qiita.com/miyakeso/items/ba8b5125828ba5da9407"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterとRiverpodで簡単に将棋アプリを作ってみる",
+      "author" : "@welchi",
+      "day" : 16,
+      "url" : "https://welchizm.medium.com/flutter%E3%81%A8riverpod%E3%81%A7%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A8%E5%B0%86%E6%A3%8B%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B-9579ce661932"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】一番高い子供に合わせて他の子供をなるべく引き伸ばすあのUIをIntrinsicHeightで作ります",
+      "author" : "@niwatly",
+      "day" : 17,
+      "url" : "https://qiita.com/niwatly/items/54dcb73c42e6f9c06c20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter Web + microCMSで写真ギャラリーサイトを作る",
+      "author" : "@himara2",
+      "day" : 18,
+      "url" : "https://zenn.dev/himara2/articles/ebda12f84aa9df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】Google MapのMarkerをWidgetで表示する",
+      "author" : "@3ta0212",
+      "day" : 19,
+      "url" : "https://qiita.com/3ta0212/items/274be540664e473e64d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS AmplifyとFlutterでログイン機能を構築してみた",
+      "author" : "@dayjournal",
+      "day" : 20,
+      "url" : "https://qiita.com/dayjournal/items/092d51dfb463bf8b8837"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "どうしてもチケットもぎもぎしたい！！！もぎもぎもぎもぎ！！！",
+      "author" : "@airy_flutter",
+      "day" : 21,
+      "url" : "https://qiita.com/airy_flutter/items/fdac5703727bf433248c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "年末感出したい -> Flutterの歴史をちょっとだけ調べてみた",
+      "author" : "@sugitlab",
+      "day" : 22,
+      "url" : "https://zenn.dev/sugitlab/articles/flutter_history_talk_sugitlab"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@Riscait"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@mono0926"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@chooyan_eng"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "大量の情報を効率的にインプットするためのFlutter概要",
+      "author" : "@chooyan_eng",
+      "day" : 1,
+      "url" : "https://qiita.com/chooyan_eng/items/b47fc642b24e2c2be553"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Flutter の快適 GitHubActions まとめ",
+      "author" : "@sensuikan1973",
+      "day" : 2,
+      "url" : "https://qiita.com/sensuikan1973/items/cf4626f480cb584a9e50"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Flutterの国際化対応(Qiita以外でも大丈夫と聞いて)",
+      "author" : "@SakushinFlutter",
+      "day" : 3,
+      "url" : "https://flutter.salon/flutter/l10n/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4,
+      "author" : "@heavenosk"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "続・FlutterでWindows用のアプリを作成する",
+      "author" : "@tomohip",
+      "day" : 5,
+      "url" : "https://qiita.com/tomohip/items/5117ba533353202663ba"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Flutter初学習者視点での状態管理について",
+      "author" : "@yogita109",
+      "day" : 6,
+      "url" : "https://zenn.dev/ueshun/articles/0227f3add1b5b3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Flutterだけでサービスを完結させたい、欲張りな僕みたいなあなたへ。",
+      "author" : "@tatessy",
+      "day" : 7,
+      "url" : "https://qiita.com/tatessy/items/c12449ae44877252ba61"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "providerからriverpodに漸次的に移行する（providerとriverpodを1つのプロジェクト内で共存させる）",
+      "author" : "@kikuchy",
+      "day" : 8,
+      "url" : "https://zenn.dev/kikuchy/articles/5feec4fa7444c6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "webview_flutterでJavaScriptからFlutter処理を呼び出す",
+      "author" : "@asmz",
+      "day" : 9,
+      "url" : "https://creators.videomarket.co.jp/entry/call-flutter-from-javascript-using-webview-flutter"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MethodChannelを使った事例とReactNativeとの比較",
+      "author" : "@Umibows",
+      "day" : 10,
+      "url" : "https://zenn.dev/umibows/articles/a7ccd69766a13d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Flutterアプリ開発でハマった機能をランキング形式で紹介します",
+      "author" : "@tamappe",
+      "day" : 11,
+      "url" : "https://qiita.com/tamappe/items/0d7033181b65ae4bd7d6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GitHub Actions で Flutter の自動フォーマットのプルリクを作成（fvm を利用）",
+      "author" : "@blendthink",
+      "day" : 12,
+      "url" : "https://qiita.com/blendthink/items/48e6c4b2c0f016da8c72"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "FirebaseAnalyticsのScreenViewイベントにカスタムパラメータを渡す",
+      "author" : "@YoshiakiOshima",
+      "day" : 14,
+      "url" : "https://www.kamo-it.org/blog/flutter-analytics/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ローカルで GitHub Actions ワークフローを実行できるようにする。(M1 macでは失敗)",
+      "author" : "@cch_robo",
+      "day" : 15,
+      "url" : "https://cch-robo.github.io/flutter_extreme_test_sample/index.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[WIP]Flutterコマンドはどのように実装されているのか",
+      "author" : "@fumiharun11",
+      "day" : 16,
+      "url" : "https://zenn.dev/miharun/articles/d93f2810b732d4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Flutter] 動画プレイヤーを再実装する形でTexture Widgetについて調べてみた",
+      "author" : "@mao_",
+      "day" : 17,
+      "url" : "https://qiita.com/mao_/items/aa219925270e7dfaee39"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Flutterアプリケーション開発に、NoSQLドキュメント指向組み込みデータベースCouchbase Liteを使うには？",
+      "author" : "@yoshiyuki_kono",
+      "day" : 18,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/d253caba38a9b12ba8f3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "迷っているJavaエンジニアに、Flutterすすめてみる",
+      "author" : "@Captain_Blue",
+      "day" : 19,
+      "url" : "https://zenn.dev/captain_blue/articles/java-programmer-meets-flutter"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Flutter】Android12~とそれ以前でスプラッシュを出し分ける",
+      "author" : "@hirothings",
+      "day" : 20,
+      "url" : "https://zenn.dev/hirothings/articles/91bf90fd4243f2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Flutter】flutter_markdown で見た目をカスタマイズする",
+      "author" : "@K_shir_0",
+      "day" : 21,
+      "url" : "https://zenn.dev/k_shir0/articles/a4fb94315ac89a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Flutter x AWS Amplifyでアプリを作る",
+      "author" : "@unbam",
+      "day" : 22,
+      "url" : "https://zenn.dev/unbam/articles/fd1efebdb6d636"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23,
+      "author" : "@tetsukick"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24,
+      "author" : "@SakushinFlutter"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@jiyuujin"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "FlutterWebで動的OGPタイトルを実現する",
+      "author" : "@kboy",
+      "day" : 1,
+      "url" : "https://zenn.dev/kboy/articles/8ee86f7b4b9c61"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Flutter WebアプリにBasic認証をつけてFirebaseにHostingする　",
+      "author" : "@ko-izumi",
+      "day" : 2,
+      "url" : "https://qiita.com/ko-izumi/items/5763b4904705794f8260"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 3,
+      "author" : "@toshi-kuji"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Flutter】2.8.0に対応するときに変更したこと",
+      "author" : "@ashdik",
+      "day" : 4,
+      "url" : "https://blog.dalt.me/3182"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Flutter から Hasura + Firebaseで作ったGraphQL APIを活用する",
+      "author" : "@glassmonkey",
+      "day" : 5,
+      "url" : "https://zenn.dev/glassmonkey/articles/ec0b3be5246300#%E5%9E%8B%E7%94%9F%E6%88%90%E3%81%AE%E8%A8%AD%E5%AE%9A"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Flutter】【Freezed】JsonConverterを使った独自のカスタムコンバータを作る",
+      "author" : "@rei_012",
+      "day" : 6,
+      "url" : "https://qiita.com/rei_012/items/281b716f22482419834b"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Flutter】FirebaseDynamicLinksで招待機能を実装する",
+      "author" : "@tokkun5552",
+      "day" : 7,
+      "url" : "https://qiita.com/tokkun5552/items/f27ddb159cb3228bf6b2"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Flutter開発を4ヶ月ほどやっての振り返り",
+      "author" : "@repepe2en",
+      "day" : 8,
+      "url" : "https://qiita.com/repepe2en/items/d30a545df23a03d32cca"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Flutter Web で Drawer のレスポンシブ対応",
+      "author" : "@ponwink",
+      "day" : 9,
+      "url" : "https://zenn.dev/ponwink/articles/11afb55a381f20"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Flutter Web+microCMSでJamstackなサイトを作る",
+      "author" : "@fastriver_org",
+      "day" : 10,
+      "url" : "https://qiita.com/fastriver_org/items/dbd252a5e93ea9de464a"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Riverpod, StateNotifier, freezedの簡単な説明",
+      "author" : "@island_jima",
+      "day" : 11,
+      "url" : "https://qiita.com/island_jima/items/21f2cc679163e7bd7ae6"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Riverpod、ProviderScopeどこに置く? ~ Providerをcontextを使って初期化する方法 ~",
+      "author" : "@Umigishi-Aoi",
+      "day" : 12,
+      "url" : "https://qiita.com/Umigishi-Aoi/items/456ec6a9b6303e7deac0"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Asana × Flutterで実現するOAuth認証",
+      "author" : "@ishibashi-futoshi",
+      "day" : 13,
+      "url" : "https://qiita.com/ishibashi-futoshi/items/86d59cff1ce83cb8e0ec"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "FlutterのiOS アプリでの画面表示の仕組み",
+      "author" : "@hs7",
+      "day" : 14,
+      "url" : "https://zenn.dev/hs7/articles/550403859a8a98"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Riverpod + FlutterHooksにおける一覧・投稿機能",
+      "author" : "@kosawa",
+      "day" : 15,
+      "url" : "https://zenn.dev/kosawa/articles/acd8e4f9849abd"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16,
+      "author" : "@stnamco"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "[Flutter] YOLOv5を使ってリアルタイムで物体検出",
+      "author" : "@syu-kwsk",
+      "day" : 17,
+      "url" : "https://qiita.com/syu-kwsk/items/e3126f55895444aa408b"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "AndroidManifest.xmlとAppDelegate.swiftからenvにアクセス",
+      "author" : "@taitai9847",
+      "day" : 18,
+      "url" : "https://zenn.dev/taitai9847/articles/0be7298408b7c8"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Flutter】FlutterJsonBeanFactoryがとても便利という話",
+      "author" : "@tetsukick",
+      "day" : 19,
+      "url" : "https://qiita.com/tetsukick/items/13ccbe0e3886ecd376e8"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 20,
+      "author" : "@kazukios"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 23,
+      "author" : "@sensuikan1973"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 24,
+      "author" : "@hidea"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25,
+      "author" : "@highstake"
+    }
+  ]
+}

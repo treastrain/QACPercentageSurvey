@@ -1,0 +1,124 @@
+{
+  "created_at" : "2021-12-24T10:45:43Z",
+  "calendar_meta_data" : {
+    "author" : "@akihironitta",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 2,
+    "subscribers" : 36,
+    "title" : "PyTorch Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "pytorch",
+    "url" : "https://qiita.com/advent-calendar/2021/pytorch"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@kanta_yamaoka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyTorch Lightning v1.5 新機能の紹介",
+      "author" : "@akihironitta",
+      "day" : 14,
+      "url" : "https://qiita.com/akihironitta/items/edfd6b29dfb67b17fb00"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@NoriakiOshita"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@akihironitta"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@akihironitta"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@yayaya7639"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@akihironitta"
+    }
+  ]
+}

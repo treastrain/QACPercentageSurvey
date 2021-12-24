@@ -1,0 +1,130 @@
+{
+  "created_at" : "2021-12-24T09:48:05Z",
+  "calendar_meta_data" : {
+    "author" : "@rhymof",
+    "category" : "プログラミング言語",
+    "lgtm" : 1,
+    "subscribers" : 14,
+    "title" : "毎日誰かのプルリクをマージしてクリスマスを彩るアドベントカレンダー（Golang） Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "go-advent",
+    "url" : "https://qiita.com/advent-calendar/2021/go-advent"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "初期化された状態のリポジトリを公開します",
+      "author" : "@rhymof",
+      "day" : 1,
+      "url" : "https://github.com/rhymof/advent"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "golangで『hello world』ならぬ『Merry Christmas』を出すまで。(初めてのAdvent Calendarです！)",
+      "author" : "@sachiko-kame",
+      "day" : 2,
+      "url" : "https://qiita.com/sachiko-kame/items/dc54512815436bc8c33b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の cowsay を導入する",
+      "author" : "@codehex",
+      "day" : 3,
+      "url" : "https://github.com/rhymof/advent/pull/9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマス前にアクセスしたら、カウントダウンを表示するようにしました",
+      "author" : "@syumai",
+      "day" : 4,
+      "url" : "https://github.com/rhymof/advent/pull/13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カウントダウンメッセージにGoのことわざを追加する",
+      "author" : "@nobishii",
+      "day" : 5,
+      "url" : "https://github.com/rhymof/advent/pull/15"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

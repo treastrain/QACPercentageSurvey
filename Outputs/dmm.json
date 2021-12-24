@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T03:23:10Z",
+  "calendar_meta_data" : {
+    "author" : "DMM.com",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 28,
+    "title" : "DMMグループ Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "dmm",
+    "url" : "https://qiita.com/advent-calendar/2021/dmm"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "事業をスケールさせるエンジニアリング〜技術のコモディティ化にエンジニアは敗北する〜",
+      "author" : "@dmmcomtech",
+      "day" : 1,
+      "url" : "https://inside.dmm.com/entry/2021/12/01/connecting-business-engineering"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SEO対策で商品一覧ページのURLを再設計している話",
+      "author" : "@dmmcomtech",
+      "day" : 2,
+      "url" : "https://inside.dmm.com/entry/2021/12/02/dmm-books-seo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "terraformでどこまでやる？運用を見据えた部分的な管理アプローチ",
+      "author" : "@dmmcomtech",
+      "day" : 3,
+      "url" : "https://inside.dmm.com/entry/2021/12/03/terraform-approach"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ansible（jinja2）のdictで使ってはいけない変数名の話",
+      "author" : "@dmmcomtech",
+      "day" : 4,
+      "url" : "https://inside.dmm.com/entry/2021/12/04/ad-cal-ansible-dict"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microservices Architect in DMM Platform",
+      "author" : "@dmmcomtech",
+      "day" : 5,
+      "url" : "https://inside.dmm.com/entry/2021/12/05/microservices-architect-in-dmm-platform"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内Android勉強会の現状と目的",
+      "author" : "@dmmcomtech",
+      "day" : 6,
+      "url" : "https://inside.dmm.com/entry/2021/12/06/android-study-meeting"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECS + firelensで大きなサイズのログをNewRelicに転送する",
+      "author" : "@dmmcomtech",
+      "day" : 7,
+      "url" : "https://inside.dmm.com/entry/2021/12/07/firelens-log-newrelic"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "研修でLinariaを使ってCSS in JSした話",
+      "author" : "@dmmcomtech",
+      "day" : 8,
+      "url" : "https://inside.dmm.com/entry/2021/12/08/ad-cal-linaria"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "古典的暗号化アルゴリズムをTypeScriptで書いてみる",
+      "author" : "@dmmcomtech",
+      "day" : 9,
+      "url" : "https://inside.dmm.com/entry/2021/12/09/encrypt-typescript"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元JavaエンジニアがGoに感じた「表現力の低さ」と「開発生産性」の話",
+      "author" : "@dmmcomtech",
+      "day" : 10,
+      "url" : "https://inside.dmm.com/entry/2021/12/10/ex-java-engineer-thoughts-about-go"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMMブックスのフロントエンドチームで改善文化を作った話",
+      "author" : "@dmmcomtech",
+      "day" : 11,
+      "url" : "https://inside.dmm.com/entry/2021/12/11/improved_culture"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TiDB on AWS EKS 〜DMM動画のPoCレポート〜",
+      "author" : "@dmmcomtech",
+      "day" : 12,
+      "url" : "https://inside.dmm.com/entry/2021/12/12/tidb-on-aws-eks-poc-report"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS TGWとDXGWを検証してみた結果わかったこと",
+      "author" : "@dmmcomtech",
+      "day" : 13,
+      "url" : "https://inside.dmm.com/entry/2021/12/13/tgw-dxgw-verify"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SWRを活用してページネーションの実装を工夫した話",
+      "author" : "@dmmcomtech",
+      "day" : 14,
+      "url" : "https://inside.dmm.com/entry/2021/12/14/pagination-use-swr-infinite"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コスパよくセキュアでスケーラブルなライブ配信システムを構築する",
+      "author" : "@dmmcomtech",
+      "day" : 15,
+      "url" : "https://inside.dmm.com/entry/2021/12/15/aws-live-streaming"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMMブックスにビジュアルリグレッションテストを導入してみた（iOS版）",
+      "author" : "@dmmcomtech",
+      "day" : 16,
+      "url" : "https://inside.dmm.com/entry/2021/12/16/meet-books-vizregtest"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内で提供しているマイクロサービスの参考実装について",
+      "author" : "@dmmcomtech",
+      "day" : 17,
+      "url" : "https://inside.dmm.com/entry/2021/12/17/microservices-template"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "管理システムの改善でSCIMを採用した話",
+      "author" : "@dmmcomtech",
+      "day" : 18,
+      "url" : "https://inside.dmm.com/entry/2021/12/18/why-we-adopted-scim"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「良いマネジメント」から得たチーム運営の気づき〜最高の仲間と共に最高のチームを築いた話〜",
+      "author" : "@dmmcomtech",
+      "day" : 19,
+      "url" : "https://inside.dmm.com/entry/2021/12/19/team-building"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMMポイントクラブのiOSのUI更新を支える\"StatefulViewController\"",
+      "author" : "@dmmcomtech",
+      "day" : 20,
+      "url" : "https://inside.dmm.com/entry/2021/12/20/pointclub-ios-ui-update"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSからオンプレミスに移行したWebRTC配信サーバのその後",
+      "author" : "@dmmcomtech",
+      "day" : 21,
+      "url" : "https://inside.dmm.com/entry/2021/12/21/migrate-webrtc-system"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトデザインや組織創設を通して感じたDMMとは",
+      "author" : "@dmmcomtech",
+      "day" : 22,
+      "url" : "https://inside.dmm.com/entry/2021/12/22/dmm-Designer-Career-Case"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアエンジニアがエニグマを解説してみる",
+      "author" : "@dmmcomtech",
+      "day" : 23,
+      "url" : "https://inside.dmm.com/entry/2021/12/23/enigma"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMMブックス 2021年の機能・アウトプットまとめ",
+      "author" : "@dmmcomtech",
+      "day" : 24,
+      "url" : "https://inside.dmm.com/entry/2021/12/24/sugoi-dmmbooks"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@dmmcomtech"
+    }
+  ]
+}

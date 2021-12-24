@@ -1,0 +1,127 @@
+{
+  "created_at" : "2021-12-24T08:35:53Z",
+  "calendar_meta_data" : {
+    "author" : "@kaizen_nagoya",
+    "category" : "Webテクノロジー",
+    "lgtm" : 2,
+    "subscribers" : 14,
+    "title" : "Ethernet Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "ethernet",
+    "url" : "https://qiita.com/advent-calendar/2021/ethernet"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Ethernet をお正月休み終わりまでに読み終えるために",
+      "author" : "@kaizen_nagoya",
+      "day" : 1,
+      "url" : "https://qiita.com/kaizen_nagoya/items/4529f359768d6b60a7b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ethernet (IEEE 802.3)　Advent Calendar 2021 を満席にする5つの方法",
+      "author" : "@kaizen_nagoya",
+      "day" : 2,
+      "url" : "https://qiita.com/kaizen_nagoya/items/66103a711190d28ce9f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "車載Ethernet",
+      "author" : "@kaizen_nagoya",
+      "day" : 5,
+      "url" : "https://qiita.com/kaizen_nagoya/items/54fdb716c9ad9d070827"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社してから３ヶ月後にネットワーク研修に行ってきました。",
+      "author" : "@tkm_1112",
+      "day" : 11,
+      "url" : "https://qiita.com/tkm_1112/items/bf2a2b33678658c7a857"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

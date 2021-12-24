@@ -1,0 +1,135 @@
+{
+  "created_at" : "2021-12-24T05:24:26Z",
+  "calendar_meta_data" : {
+    "author" : "@jostandard",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 4,
+    "subscribers" : 19,
+    "title" : "AWS Analytics Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "aws-analytics",
+    "url" : "https://qiita.com/advent-calendar/2021/aws-analytics"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "RedshiftからAIサービスにアクセスするSUPERな方法",
+      "author" : "@mashiike",
+      "day" : 1,
+      "url" : "https://techblog.kayac.com/aws-access-ai-services-from-redshift"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon QuickSight の 1-click 埋め込みダッシュボード機能を試してみた",
+      "author" : "@smrmkt",
+      "day" : 3,
+      "url" : "https://smrmkt.hatenablog.jp/entry/2021/12/03/071400"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon AthenaのApache Iceberg対応 previewを試す",
+      "author" : "@simosako",
+      "day" : 7,
+      "url" : "http://portablecode.info/athena-ireberg-preview/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SageMaker Canvasを使ってみた",
+      "author" : "@hideki",
+      "day" : 8,
+      "url" : "https://qiita.com/hideki/items/973c95a8c704ccae9a2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@chie8842"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Registry of Open Data on AWS にある気象衛星ひまわりのデータを分析して可視化してみた",
+      "author" : "@naokimy",
+      "day" : 16,
+      "url" : "https://qiita.com/naokimy/items/12c5d1c0afcb289d1182"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@koushidahira41"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Redshift 2021 年振り返り",
+      "author" : "@jostandard",
+      "day" : 20,
+      "url" : "https://josql.hatenablog.com/entry/amazon-redshift-2021-recap"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

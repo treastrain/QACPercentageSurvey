@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T11:11:06Z",
+  "calendar_meta_data" : {
+    "author" : "@hfu",
+    "category" : "Webテクノロジー",
+    "lgtm" : 26,
+    "subscribers" : 11,
+    "title" : "ベクトルタイル Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "vt",
+    "url" : "https://qiita.com/advent-calendar/2021/vt"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜ地図に関わり続けるのか",
+      "author" : "@hfu",
+      "day" : 1,
+      "url" : "https://qiita.com/hfu/items/786bcc5e6dac97c4e894"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "絵文字が地図で使えるアイコンサーバーを作ってみたらめちゃくちゃ便利すぎた",
+      "author" : "@naogify",
+      "day" : 2,
+      "url" : "https://qiita.com/naogify/items/336e4fe19842feb38ea6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArcGIS onlineで地理院地図Vector（仮称）のベクトルタイル（ArcGISサーバー以外から供給されているもの）を表示してみる",
+      "author" : "@T-ubu",
+      "day" : 3,
+      "url" : "https://qiita.com/T-ubu/items/ac4c1aef293e4b253111"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mapbox、Maptiler、ArcGIS の地図プラットフォームについて",
+      "author" : "@freedom-tech",
+      "day" : 4,
+      "url" : "https://freedom-tech.hatenablog.com/entry/2021/12/04/011104"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArcGISベクトルタイルサーバーのベクトルタイルはどう使われているか（特にtilemapの反応について）",
+      "author" : "@T-ubu",
+      "day" : 5,
+      "url" : "https://qiita.com/T-ubu/items/6360252ece6c792732c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベクトルタイルを使って星の海を探検する",
+      "author" : "@KamataRyo",
+      "day" : 6,
+      "url" : "https://qiita.com/KamataRyo/items/aacd680d8548291f7230"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@nissyyu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地理院地図Vector（仮称）のベクトルタイルを使って地図語りを試した（UNVTとMapLibreを利用）",
+      "author" : "@T-ubu",
+      "day" : 8,
+      "url" : "https://qiita.com/T-ubu/items/b970339a49d8f584acf6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nodejsでベクトルタイルサーバーを作る（mbtilesからpbfを配信する）",
+      "author" : "@T-ubu",
+      "day" : 9,
+      "url" : "https://qiita.com/T-ubu/items/545d9f995ef7496a2ec4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi で ベクトルタイルサーバー をつくる",
+      "author" : "@T-ubu",
+      "day" : 10,
+      "url" : "https://qiita.com/T-ubu/items/f5cb639b4c337ef1050d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "道路地図のベクトルタイル",
+      "author" : "@geo80k",
+      "day" : 11,
+      "url" : "https://geo80k.hatenablog.com/entry/2021/12/11/153818"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenMapTilesの展望について",
+      "author" : "@smellman",
+      "day" : 12,
+      "url" : "https://smellman.hatenablog.com/entry/2021/12/12/195447"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tilemakerを使って爆速でOSMベクタータイルを作る",
+      "author" : "@Kanahiro",
+      "day" : 13,
+      "url" : "https://qiita.com/Kanahiro/items/6a98ee285d3de7ac61fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベクトルタイルを使った地図をホログラムで表示してみた！",
+      "author" : "@miya0001",
+      "day" : 14,
+      "url" : "https://blog.geolonia.com/2021/12/13/holo.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UNVTについて",
+      "author" : "@Shogo_Hirasawa",
+      "day" : 15,
+      "url" : "https://qiita.com/Shogo_Hirasawa/items/cf63af3121b68093ef45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地理院ベクトルタイルをmbtilesにダウンロード・差分更新できるツール",
+      "author" : "@sleepy__keita",
+      "day" : 16,
+      "url" : "https://blog.geolonia.com/2021/12/16/gsi-japan-vector-tiles-to-mbtiles.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベクトルタイルとAzure AD認証（nodejsでサーバーを作る）",
+      "author" : "@T-ubu",
+      "day" : 17,
+      "url" : "https://qiita.com/T-ubu/items/f7147def371b49cb232c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@picaosgeo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "unvt/equinox コンポーネントレビュー",
+      "author" : "@hfu",
+      "day" : 19,
+      "url" : "https://qiita.com/hfu/items/8792cf354faebf9b0efb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "タイル地図アプリ向けPWAオフライン対応フレームワークWeiwudiをベクトルタイルに対応させる宣言",
+      "author" : "@kochizufan",
+      "day" : 20,
+      "url" : "https://qiita.com/kochizufan/items/0f01b08ca48d1109c59f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年、デジタル地図について考えたこと",
+      "author" : "@shinichiN",
+      "day" : 21,
+      "url" : "https://shinichi.blog/answering-the-question/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウェブ地図の多様性と、ベクトルタイルで人を助けること",
+      "author" : "@hfu",
+      "day" : 22,
+      "url" : "https://qiita.com/hfu/items/c0c496edc07beabdd22c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PLATEAU の CityGML Building LOD2 を MVT にしてみた",
+      "author" : "@frogcat",
+      "day" : 24,
+      "url" : "https://qiita.com/frogcat/items/84b413c7e08c00b78c6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hfu"
+    }
+  ]
+}

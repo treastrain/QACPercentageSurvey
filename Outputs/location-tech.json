@@ -1,0 +1,161 @@
+{
+  "created_at" : "2021-12-24T10:15:51Z",
+  "calendar_meta_data" : {
+    "author" : "一般社団法人LBMA Japan",
+    "category" : "企業・学校・団体",
+    "lgtm" : 37,
+    "subscribers" : 4,
+    "title" : "Location Tech Advent Calendar 2021 by LBMA Japan 🛰 Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "location-tech",
+    "url" : "https://qiita.com/advent-calendar/2021/location-tech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Python Firebase Admin SDKによる位置情報データの取り扱い① データの登録編",
+      "author" : "@KeisukeNagakawa",
+      "day" : 1,
+      "url" : "https://qiita.com/KeisukeNagakawa/items/fb6bf52c4213359de466"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新機能 BigQuery Omni を使ってみた part 1 ～導入編～",
+      "author" : "@Mario-unerry",
+      "day" : 4,
+      "url" : "https://qiita.com/Mario-unerry/items/0caeef37812f98b950ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新機能 BigQuery Omni を使ってみた part 2 ～レビュー編～",
+      "author" : "@Mario-unerry",
+      "day" : 5,
+      "url" : "https://qiita.com/Mario-unerry/items/3f682777d1594b6f013e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Googleマップをメッシュ単位で地図色塗りする",
+      "author" : "@ak-yamakura",
+      "day" : 8,
+      "url" : "https://qiita.com/ak-yamakura/items/471287f9619e3152198e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データの面積按分とその他の按分",
+      "author" : "@gsi-kakinuma",
+      "day" : 11,
+      "url" : "https://qiita.com/gsi-kakinuma/items/c4f8a2be6d5de9f84dc8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Googleマップに統計データを投影してみた",
+      "author" : "@sh-esaki",
+      "day" : 14,
+      "url" : "https://qiita.com/sh-esaki/items/6287f859e4a3cba39a84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "位置に紐づくオープンデータをもっと手軽に！",
+      "author" : "@VToshikuni",
+      "day" : 15,
+      "url" : "https://qiita.com/VToshikuni/items/4016d76fd3dd01c3addb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "位置情報と商圏分析",
+      "author" : "@mt-akiba",
+      "day" : 16,
+      "url" : "https://qiita.com/mt-akiba/items/43a2d2d83ba17157502f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mapbox GL JSのスワイプ機能を試してみた",
+      "author" : "@kodokunadancer",
+      "day" : 18,
+      "url" : "https://qiita.com/kodokunadancer/items/e77f40aa5101d9d41239"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostGISでビッグデータにQuery評価",
+      "author" : "@bordoray",
+      "day" : 19,
+      "url" : "https://qiita.com/bordoray/items/e4d24b39e9adba3ae650"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地図を使ったジオ広告配信管理プラットフォームのプロトタイプを作ってみた",
+      "author" : "@mmodaira",
+      "day" : 20,
+      "url" : "https://qiita.com/mmodaira/items/3831e63c7cc5f48b1cbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Airflowの公式Dockerイメージを使ったサーバー構築 on GCP",
+      "author" : "@abechan0212",
+      "day" : 21,
+      "url" : "https://qiita.com/abechan0212/items/80889eb16a5453b701c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryでGIS関数を使う時は下準備が大事",
+      "author" : "@Tokuma-unerry",
+      "day" : 22,
+      "url" : "https://qiita.com/Tokuma-unerry/items/1721746a5cfb14e3a456"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "位置情報 Web アプリを作成する最も簡単な方法 (2021年)",
+      "author" : "@five-dots",
+      "day" : 23,
+      "url" : "https://qiita.com/five-dots/items/871605e6aa41b5f516e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSVファイルで消耗しないためのApache Avro入門",
+      "author" : "@Janos",
+      "day" : 24,
+      "url" : "https://qiita.com/Janos/items/8480158b52da14d0b438"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@sayakaitooo"
+    }
+  ]
+}

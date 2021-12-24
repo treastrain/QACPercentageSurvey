@@ -1,0 +1,176 @@
+{
+  "created_at" : "2021-12-24T12:56:06Z",
+  "calendar_meta_data" : {
+    "author" : "MIERUNE",
+    "category" : "企業・学校・団体",
+    "lgtm" : 105,
+    "subscribers" : 7,
+    "title" : "MIERUNE Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "mierune",
+    "url" : "https://qiita.com/advent-calendar/2021/mierune"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "モダンな技術で手軽に地図アプリを始めてみよう！！！（Next.js/TypeScript/Tailwind CSS/maplibre GL JS/Deck.gl）",
+      "author" : "@nokonoko_1203",
+      "day" : 1,
+      "url" : "https://qiita.com/nokonoko_1203/items/161a29d33d265a39016b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GeoDjangoを触ってみよう！",
+      "author" : "@selfsryo",
+      "day" : 2,
+      "url" : "https://qiita.com/selfsryo/items/3a56b8303827121e92cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebサイトをWordpressからNext.js + MicroCMSに置き換えた話",
+      "author" : "@Nekoya3",
+      "day" : 3,
+      "url" : "https://qiita.com/Nekoya3/items/7a29a2b6247f23c8961f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "p5.jsで地図を描く",
+      "author" : "@mits003",
+      "day" : 4,
+      "url" : "https://qiita.com/mits003/items/e8e4e913cc3f8cb96cfc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "luma.glでWebGLに入門する",
+      "author" : "@Kanahiro",
+      "day" : 5,
+      "url" : "https://qiita.com/Kanahiro/items/24cb8191bf1ea8fdd54b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(富士山の)断面図をQGISで作成する",
+      "author" : "@Yfuruchin",
+      "day" : 6,
+      "url" : "https://qiita.com/Yfuruchin/items/8a5766a548175ba7c5e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Location Service のルート検索を有効活用する",
+      "author" : "@Nekoya3",
+      "day" : 7,
+      "url" : "https://qiita.com/Nekoya3/items/d02631055af1d825d229"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "市区町村名・緯度経度から平面直角座標系の系番号を取得するツールを作成した！",
+      "author" : "@nokonoko_1203",
+      "day" : 8,
+      "url" : "https://qiita.com/nokonoko_1203/items/f8925081665cab3f36f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シンプルなAmazon Location Serviceのスターターを公開してみた",
+      "author" : "@dayjournal",
+      "day" : 9,
+      "url" : "https://qiita.com/dayjournal/items/a4326bd2041389db2c1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tangramでWEB GLSL地図入門",
+      "author" : "@northprint",
+      "day" : 10,
+      "url" : "https://qiita.com/northprint/items/00eee5ee48007f794de7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あの日みた学校の最寄駅を僕達はまだ知らない。だからSQLで探してみる。",
+      "author" : "@yuskesuzki@github",
+      "day" : 11,
+      "url" : "https://qiita.com/yuskesuzki@github/items/87e7c10e48d23dcb00bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebGL2(luma.gl)でTransform Feedbackをやってみた",
+      "author" : "@Kanahiro",
+      "day" : 12,
+      "url" : "https://qiita.com/Kanahiro/items/4c58a5584fb93f570b8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "全世界のベクトルタイルOpenMapTilesを使って地図のスタイリングをする",
+      "author" : "@moritoru",
+      "day" : 13,
+      "url" : "https://qiita.com/moritoru/items/434783e50345a35d9d45"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本初！？FlatGeobufを使ってワンクリックで平面直角座標系を教えてくれるサイトを作りました！",
+      "author" : "@nokonoko_1203",
+      "day" : 15,
+      "url" : "https://qiita.com/nokonoko_1203/items/c8c5c4883468b848576f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@northprint"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地理位置情報に関係ありそうな配信動画コンテンツ・その1",
+      "author" : "@yuskesuzki@github",
+      "day" : 18,
+      "url" : "https://qiita.com/yuskesuzki@github/items/54cde5c9faa6922ea731"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebGLをGISに応用してみる【DEM編】",
+      "author" : "@Kanahiro",
+      "day" : 19,
+      "url" : "https://qiita.com/Kanahiro/items/9c7096c307d3c816582f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rを使った地理的回帰加重分析",
+      "author" : "@xinmiao1995",
+      "day" : 20,
+      "url" : "https://qiita.com/xinmiao1995/items/cd6fdb269f8c9174a702"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@selfsryo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シンプルなPython3.9のDocker環境をマルチステージビルドしてスリムにする",
+      "author" : "@nokonoko_1203",
+      "day" : 22,
+      "url" : "https://qiita.com/nokonoko_1203/items/204da4a9d5247c276136"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webブラウザ上でGDALを利用できるLoamをためしてみた",
+      "author" : "@dayjournal",
+      "day" : 23,
+      "url" : "https://qiita.com/dayjournal/items/92d85e66c3003e647e4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Yfuruchin"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yuskesuzki@github"
+    }
+  ]
+}

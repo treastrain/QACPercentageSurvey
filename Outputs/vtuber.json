@@ -1,0 +1,132 @@
+{
+  "created_at" : "2021-12-24T12:03:01Z",
+  "calendar_meta_data" : {
+    "author" : "@OkuriSae",
+    "category" : "その他",
+    "lgtm" : 7,
+    "subscribers" : 12,
+    "title" : "Engineering for Vtuber Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "vtuber",
+    "url" : "https://qiita.com/advent-calendar/2021/vtuber"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミング系Vtuberとプログラミングしよう",
+      "author" : "@eteeeeeerminal",
+      "day" : 4,
+      "url" : "https://zenn.dev/etrnl_tamayura/articles/intro-virtual-programmer"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vtuberが自分で準備画面作るときに使った技術の紹介",
+      "author" : "@KakiiroMate",
+      "day" : 12,
+      "url" : "https://qiita.com/KakiiroMate/items/e298bcac8d1fa20feb18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi OSのこと！",
+      "author" : "@haruelico",
+      "day" : 13,
+      "url" : "https://zenn.dev/haruelico/articles/d22ce795675b6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VTuberの配信環境でREST APIを叩く方法",
+      "author" : "@will-yama",
+      "day" : 16,
+      "url" : "https://qiita.com/will-yama/items/6b3f0ee9a1e88e8a5089"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@shirasaya_vvv"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@OkuriSae"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@KasuyaMofu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@LinaTsukusu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hariyama_harine"
+    }
+  ]
+}

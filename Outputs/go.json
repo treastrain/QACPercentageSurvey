@@ -1,0 +1,657 @@
+{
+  "created_at" : "2021-12-24T13:52:24Z",
+  "calendar_meta_data" : {
+    "author" : "@syumai",
+    "category" : "プログラミング言語",
+    "lgtm" : 703,
+    "subscribers" : 256,
+    "title" : "Go Advent Calendar 2021",
+    "participants" : 77,
+    "unique_name" : "go",
+    "url" : "https://qiita.com/advent-calendar/2021/go"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ファイルパーミッションでスロットがしたい",
+      "author" : "@jiro4989",
+      "day" : 1,
+      "url" : "https://qiita.com/jiro4989/items/2530c4f789916521a47a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenTelemetry in Go",
+      "author" : "@ww24",
+      "day" : 2,
+      "url" : "https://zenn.dev/ww24/articles/beae98be198c94"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goのinterfaceをデータ構造から理解する",
+      "author" : "@sivchari",
+      "day" : 3,
+      "url" : "https://zenn.dev/sivchari/articles/be6cc55d313b12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bitfield を使った json.Marshal/Unmarshal の例",
+      "author" : "@yyoshiki41",
+      "day" : 4,
+      "url" : "https://qiita.com/yyoshiki41/items/5660f22278e96de1e5a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoならわかるWindows API",
+      "author" : "@masa_ito",
+      "day" : 5,
+      "url" : "https://qiita.com/masa_ito/items/e3f21dd43e1013732755"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goでビットの操作やカウントの実装を見てみる",
+      "author" : "@kaneshin",
+      "day" : 6,
+      "url" : "https://medium.com/eureka-engineering/go-bitwise-manipulating-counting-algorithm-4f8bb14893d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go に Contribute する",
+      "author" : "@emahiro",
+      "day" : 7,
+      "url" : "https://ema-hiro.hatenablog.com/entry/2021/12/07/000040"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goによる動的なJSON生成パターンの比較検討~Elasticsearch Query生成機構を求めて~",
+      "author" : "@po3rin",
+      "day" : 8,
+      "url" : "https://www.m3tech.blog/entry/go-json-es"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goのmonorepoとworkspace mode",
+      "author" : "@takashabe",
+      "day" : 9,
+      "url" : "https://qiita.com/takashabe/items/c0c8dd8bfdc13fc743aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go 言語の reflect : 最初の一歩",
+      "author" : "@sago35",
+      "day" : 10,
+      "url" : "https://qiita.com/sago35/items/e2799a21924aada6408a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Go] gorpを使っていい感じにDBアクセスを分離したい",
+      "author" : "@okkn",
+      "day" : 11,
+      "url" : "https://qiita.com/okkn/items/c44add184190cb50bf2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go 1.18 で interface{} の代わりに any が使えるようになる話",
+      "author" : "@syumai",
+      "day" : 12,
+      "url" : "https://zenn.dev/syumai/articles/c6q5un1j0msim0aj0ca0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goにおけるjsonの扱い方を整理・考察してみた ~ データスキーマを添えて",
+      "author" : "@saki-engineering",
+      "day" : 13,
+      "url" : "https://zenn.dev/hsaki/articles/go-convert-json-struct"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goのリリースプロセスとブランチ戦略",
+      "author" : "@ymotongpoo",
+      "day" : 14,
+      "url" : "https://ymotongpoo.hatenablog.com/entry/2021/12/15/231928"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gotipでリリース前のGoを使って最先端Gopherになる",
+      "author" : "@uji_",
+      "day" : 15,
+      "url" : "https://zenn.dev/uji/articles/d51e81535e0d723af56e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Go言語】静的解析である構造体のフィールドを参照している機能を調べたい",
+      "author" : "@hogedigo",
+      "day" : 16,
+      "url" : "https://qiita.com/hogedigo/items/3d9e173b06042035c963"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Golangのパッケージ名はどうするのが正解か",
+      "author" : "@_kazuya",
+      "day" : 17,
+      "url" : "https://zenn.dev/_kazuya/articles/ce19973159a028"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "goroutine で os.Chdir() する際に注意すべきポイント",
+      "author" : "@akif999",
+      "day" : 18,
+      "url" : "https://qiita.com/akif999/items/4772c7eaa59ff3c0b114"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "go buildについて書きます",
+      "author" : "@yyh-gl",
+      "day" : 19,
+      "url" : "https://yyh-gl.github.io/tech-blog/blog/go-build"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gomockで順序を無視してスライスの引数を検証する",
+      "author" : "@budougumi0617",
+      "day" : 20,
+      "url" : "https://budougumi0617.github.io/2021/12/20/gomock_verify_in_any_order/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP32 向けに TinyGo をセットアップする",
+      "author" : "@sago35",
+      "day" : 21,
+      "url" : "https://qiita.com/sago35/items/4517cc96919f84f0efb3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go製アプリケーションのコンテナ化にはkoを推したい",
+      "author" : "@ymotongpoo",
+      "day" : 22,
+      "url" : "https://ymotongpoo.hatenablog.com/entry/2021/12/22/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "静的解析でソースコードの保守性を計測する",
+      "author" : "@HiroyukiYagihashi",
+      "day" : 23,
+      "url" : "https://blog.yagipy.me/analyze-maintainability-index"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Is golangci-lint Generics Rediness?",
+      "author" : "@cia_rana",
+      "day" : 24,
+      "url" : "https://dev.to/cia_rana/is-golangci-lint-generics-readiness-200n"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hajimehoshi"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : ".envから設定パッケージを自動生成するツールを作った",
+      "author" : "@potproject",
+      "day" : 1,
+      "url" : "https://blog.potproject.net/2021/12/01/dotenv-goenvgen-oss/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "go の好きなところと嫌いなところについて",
+      "author" : "@Nabetani",
+      "day" : 2,
+      "url" : "https://zenn.dev/articles/2aaa5b271a880a/edit"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "作ったCLIツールについて書きます",
+      "author" : "@tomato3713",
+      "day" : 3,
+      "url" : "https://tomato3713.hatenablog.com/entry/21-intro-gomu"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Go】Go歴1年になった今、fmt.Println()を覗いてみる",
+      "author" : "@sakashin10291029",
+      "day" : 4,
+      "url" : "https://zenn.dev/shinshin/articles/b499b76e08d2f1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "sqlc と golang-migrate で PostgreSQL を扱う",
+      "author" : "@tchssk",
+      "day" : 5,
+      "url" : "https://zenn.dev/tchssk/articles/a701d3ce5f9b6b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Goのimport順気にしてますか？",
+      "author" : "@tommy-sho",
+      "day" : 6,
+      "url" : "https://zenn.dev/tommy/articles/7de1b702d765fa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GoのPrintfをハックする",
+      "author" : "@momotaro98",
+      "day" : 7,
+      "url" : "https://zenn.dev/momotaro98/articles/922f58a42d852b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Goのスライス式で遊ぶ",
+      "author" : "@kanataxa",
+      "day" : 8,
+      "url" : "https://qiita.com/kanataxa/items/2a0526ae2dd93068ff5e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "sync.Onceの内部実装から学ぶGoの実装アイデア",
+      "author" : "@ryoya-s",
+      "day" : 9,
+      "url" : "https://zenn.dev/sryoya/articles/b0e8e8d83032b0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GitHub上でGoプロジェクトを正しくTransferする",
+      "author" : "@songmu",
+      "day" : 10,
+      "url" : "https://songmu.jp/riji/entry/2021-12-10-transfer-repository-in-go.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "実戦で役立つ4つの無名関数(Anonymous function) 利用パターン",
+      "author" : "@bubu_suke",
+      "day" : 11,
+      "url" : "https://qiita.com/bubu_suke/items/bebd701a93ddaf2d6690"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Go, Elasticsearch】ElasticSearchクライアント olivere を使ってみる①(CRUD)",
+      "author" : "@e_nakashima",
+      "day" : 12,
+      "url" : "https://zenn.dev/a_ichi1/articles/555c8eed11fdad"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "はじめてのゲームプログラミング（Ebiten）",
+      "author" : "@hokita222",
+      "day" : 13,
+      "url" : "https://zenn.dev/hokita/articles/66cc118b227ae3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "gonum.org/v1/plot が良かった話",
+      "author" : "@Ranks",
+      "day" : 14,
+      "url" : "https://qiita.com/Ranks/items/19970c2b9bfa8d0da5ed"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Go】\"ぬるぽ\"についてまとめました",
+      "author" : "@GenkiHirano",
+      "day" : 15,
+      "url" : "https://zenn.dev/genki86web/articles/332cfc9e3c29f8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GoのDuck Typingを活用する",
+      "author" : "@lostfind",
+      "day" : 16,
+      "url" : "https://qiita.com/lostfind/items/9ed4b28222334ea93a38"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "勉強する中で知った「Go言語には○○がない」を理解する",
+      "author" : "@AkitoTsukahara",
+      "day" : 17,
+      "url" : "https://qiita.com/AkitoTsukahara/items/8d2e1414c3e2e14d462a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GraphQL(gqlgen) + Go(gin)のファイルアップロード(Postman)",
+      "author" : "@ShinsakuYagi",
+      "day" : 18,
+      "url" : "https://zenn.dev/ygsn/articles/e047d74c5870ca"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "go testの裏側では何をしているのか？Goのtestingパッケージの中身を覗いてみよう！",
+      "author" : "@sho-hata",
+      "day" : 19,
+      "url" : "https://qiita.com/sho-hata/items/31a36016f9a482b8bd86"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GoのHTTPハンドラーとconfig",
+      "author" : "@guregu",
+      "day" : 21,
+      "url" : "https://zenn.dev/guregu/articles/8734c78a2771dc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "カジュアルゲームをEbitenで作る",
+      "author" : "@ichiban_kunio",
+      "day" : 22,
+      "url" : "https://qiita.com/ichiban_kunio/items/cff6cf3bbdd12856ff9b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "go/typesでgo moduleを有効にするまでの旅路",
+      "author" : "@Jun-Chang",
+      "day" : 23,
+      "url" : "https://junchang1031.hatenablog.com/entry/2021/12/22/193522"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "よ～しパパ、何か書いちゃうぞ～",
+      "author" : "@mattn",
+      "day" : 24,
+      "url" : "https://zenn.dev/mattn/articles/d16e9c8bb6138c"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Go + Cobra でかんたんコマンドラインツール",
+      "author" : "@yoshikyoto",
+      "day" : 1,
+      "url" : "https://www.utakata.work/entry/2021/12/01/104808"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【初OSS】クリスマスをカラフルに彩る🎉！ターミナルで動作するGo製マテリアルカラーピッカー！🎄",
+      "author" : "@tenkoh88",
+      "day" : 2,
+      "url" : "https://zenn.dev/foxtail88/articles/2b883ff3e97c16"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "これから始めるなら気にしたいGoの作法",
+      "author" : "@c6tower",
+      "day" : 3,
+      "url" : "https://qiita.com/c6tower/items/3eec89c68e4cdbc4fa19"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "GoからZetaSQLを使う",
+      "author" : "@naoto0822",
+      "day" : 4,
+      "url" : "https://medium.com/@naoto0822/go%E3%81%8B%E3%82%89zetasql%E3%82%92%E4%BD%BF%E3%81%86-b5c904fa76fb"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "fmtパッケージをインポートするとファイルサイズがどかんと増えてしまう理由",
+      "author" : "@shibukawa",
+      "day" : 5,
+      "url" : "https://qiita.com/shibukawa/items/5b8d9b0c2265ffc13201"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【DDD】Golangを使ってモデルでドメイン知識を表現してみた",
+      "author" : "@jojo__hack",
+      "day" : 6,
+      "url" : "https://zenn.dev/jojo/articles/4cec9606662446c502e9"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【GO】 外部ライブラリを用いたコードをテスタブルに書き換える ~GCPクライアントライブラリ編~",
+      "author" : "@Ken_Fujimoto",
+      "day" : 7,
+      "url" : "https://xkenshirou.hatenablog.com/entry/2021/12/06/190000"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "一時的/恒久的なエラーの隙間をハンドリングする",
+      "author" : "@deltam",
+      "day" : 8,
+      "url" : "https://deltam.blogspot.com/2021/12/go-recoverable-error.html"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Go、ポインタにするか値にするかの方針を考えてみた",
+      "author" : "@ShintaNakama",
+      "day" : 9,
+      "url" : "https://qiita.com/ShintaNakama/items/274b24fc4ab4c9e4f094"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Go 1.18 で追加される `any` は `interface{}` のエイリアス",
+      "author" : "@sg0hsmt",
+      "day" : 10,
+      "url" : "https://qiita.com/sg0hsmt/items/06449d7ec8382b68d457"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "GoからPHPを呼び出す方法",
+      "author" : "@tzmfreedom",
+      "day" : 11,
+      "url" : "https://tech.yappli.io/entry/go_php"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Go/TUI】使徒に侵食される気分になれるツール作ってみた",
+      "author" : "@kure",
+      "day" : 12,
+      "url" : "https://qiita.com/kure/items/e0fd27e9c12d07c47c05"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Functional Options Patternで、「元に戻す」機能を実装してみた",
+      "author" : "@uh-zz",
+      "day" : 13,
+      "url" : "https://qiita.com/uh-zz/items/7485de5d0658492c86eb"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "[Hands-On Serverless Applications with Go] やってみた感想",
+      "author" : "@pisa-kun",
+      "day" : 14,
+      "url" : "https://qiita.com/pisa-kun/items/f057566d80156dc65d56"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Goのnet/httpはクエリーパラメータもx-www-form-urlencodedが透過的に扱える",
+      "author" : "@shibukawa",
+      "day" : 15,
+      "url" : "https://qiita.com/shibukawa/items/eb821b68d95cdf7b2cee"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Go sliceの容量は常に2倍で伸びない",
+      "author" : "@naoto0822",
+      "day" : 16,
+      "url" : "https://naoto0822.medium.com/go-slice%E3%81%AE%E5%AE%B9%E9%87%8F%E3%81%AF%E5%B8%B8%E3%81%AB2%E5%80%8D%E3%81%A7%E4%BC%B8%E3%81%B3%E3%81%AA%E3%81%84-f677af3dac62"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "go の乱数を見て気づいたこと",
+      "author" : "@Nabetani",
+      "day" : 17,
+      "url" : "https://qiita.com/Nabetani/items/8aec971aa46543370fec"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "TwilioとGolangで理解してサクッと作る発着信Webアプリ",
+      "author" : "@PlanetMeron",
+      "day" : 18,
+      "url" : "https://note.com/homie_inc/n/ncbd6da4f7706"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "GoでクロスプラットフォームGUI",
+      "author" : "@nobonobo",
+      "day" : 19,
+      "url" : "https://zenn.dev/nobonobo/articles/6cc4c510988e82"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "aws周りをgoでやる",
+      "author" : "@yuina1056",
+      "day" : 20,
+      "url" : "https://yu1056y.hatenablog.com/entry/2021/12/20/210000"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "とってもやさしいGo言語入門",
+      "author" : "@ka-aki",
+      "day" : 21,
+      "url" : "https://zenn.dev/ak/articles/1fb628d82ed79b"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "context の Value のみを引き継いでコピーする方法",
+      "author" : "@knwoop",
+      "day" : 22,
+      "url" : "https://zenn.dev/knwoop/articles/dd93fffb48775b"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Goでファイル検索を行うサーバーを立てる",
+      "author" : "@u1and0",
+      "day" : 23,
+      "url" : "https://qiita.com/u1and0/items/06b65199a5e11c8d4411"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "AlfredでGoのドキュメントを検索するツールを作った",
+      "author" : "@morikuni",
+      "day" : 24,
+      "url" : "https://morikuni.dev/articles/awgodoc-release"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25,
+      "author" : "@kazuhito_nakayama"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【Go: excelize】ExcelデータベースをSQLに移行するサンプルApp📖【年末大掃除】",
+      "author" : "@tenkoh88",
+      "day" : 1,
+      "url" : "https://zenn.dev/foxtail88/articles/f22e6cc2a19c94"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Golangでカノンを演奏してみた",
+      "author" : "@ryosh",
+      "day" : 10,
+      "url" : "https://note.com/homie_inc/n/n52e3108962d1"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Goの正規表現が遅いって言う人がいたから、（速い）正規表現エンジンを作ったよ",
+      "author" : "@Maki-Daisuke",
+      "day" : 15,
+      "url" : "https://zenn.dev/yanother/articles/8b5c3a42d36f27"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "interfaceを子に持ったstructをJSONでencode/decodeすることを考えてみる",
+      "author" : "@podhmo",
+      "day" : 19,
+      "url" : "https://pod.hatenablog.com/entry/2021/12/20/221315"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Go 言語に興味があるという人のためにシンプルさをアピールする",
+      "author" : "@kzkamago0721",
+      "day" : 20,
+      "url" : "https://k2ss.info/archives/3214/"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 21,
+      "author" : "@soraan"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Go 1.18 で追加される debug/buildinfo",
+      "author" : "@sg0hsmt",
+      "day" : 22,
+      "url" : "https://qiita.com/sg0hsmt/items/6d852c50baa37a0c957e"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【Go】genericsのチュートリアルがあったので試した話",
+      "author" : "@Komisan19",
+      "day" : 23,
+      "url" : "https://zenn.dev/komisan19/articles/44c82955823fcc"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "gqlgen と Auth0 を利用した認証機能の話",
+      "author" : "@bst-imai",
+      "day" : 24,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-19"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 25,
+      "author" : "@ktnyt"
+    }
+  ]
+}

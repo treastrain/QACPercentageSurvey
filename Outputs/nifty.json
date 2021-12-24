@@ -1,0 +1,292 @@
+{
+  "created_at" : "2021-12-24T07:10:15Z",
+  "calendar_meta_data" : {
+    "author" : "@nuna",
+    "category" : "企業・学校・団体",
+    "lgtm" : 179,
+    "subscribers" : 7,
+    "title" : "ニフティグループ Advent Calendar 2021",
+    "participants" : 29,
+    "unique_name" : "nifty",
+    "url" : "https://qiita.com/advent-calendar/2021/nifty"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Gatsby + AWS Amplify (frontend + backend) で CMS 付きのサイト作成を目指してみた",
+      "author" : "@kiwi26",
+      "day" : 1,
+      "url" : "https://kiwi-dev.com/blog/268c5135-c2b1-475c-9fce-bba9c45e75c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker Desktopが有料になるのでPodmanを使ってみる",
+      "author" : "@curryside",
+      "day" : 2,
+      "url" : "https://qiita.com/curryside/items/93e7a475a3412fc450ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ITエンジニアがMBAを取るとどうなるのかという話",
+      "author" : "@yasu_m_0123",
+      "day" : 3,
+      "url" : "https://qiita.com/yasu_m_0123/items/1af1903e9d5c9f3b226c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackに追加されたカスタム絵文字を通知するBOTを作った",
+      "author" : "@hajimete",
+      "day" : 4,
+      "url" : "https://qiita.com/hajimete/items/226759d0abd5350fabde"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<canvas>要素の内容をPicture in Pictureで表示する。",
+      "author" : "@mh326",
+      "day" : 5,
+      "url" : "https://qiita.com/mh326/items/1302f5ae159deb8b260e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@kasayu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@rubihiko"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 【初心者向け】GASでニュース記事をSlackに通知するアプリを作ってみた～前編～",
+      "author" : "@sakauchi_riki",
+      "day" : 8,
+      "url" : "https://qiita.com/sakauchi_riki/items/3194e6ae2fdb7916784a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 【初心者向け】GASでニュース記事をSlackに通知するアプリを作ってみた～後編～",
+      "author" : "@nahiro_tus",
+      "day" : 9,
+      "url" : "https://qiita.com/nahiro_tus/items/144754ab51df97bafe97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MoviePyで結婚式のエンドロールムービーを作成する",
+      "author" : "@shin27",
+      "day" : 10,
+      "url" : "https://zenn.dev/sk27/articles/bab6aba3b83d0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "paizaのスキルチェックを200問以上解いて分かったこと",
+      "author" : "@kinari321",
+      "day" : 11,
+      "url" : "https://zenn.dev/kinariru/articles/cd4ba1870f7b33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsのパブリックIPアドレスをAWS WAFのIP Setに登録し、制限のかかったサービス（Amazon CloudFront）につなぐ",
+      "author" : "@shotaws",
+      "day" : 12,
+      "url" : "https://qiita.com/shotaws/items/3c66785f67a247330ad1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "こんな時どう書くの？初級者向けSwift Combineチートシート",
+      "author" : "@5_21maimai",
+      "day" : 13,
+      "url" : "https://qiita.com/5_21maimai/items/d3d069c267ec11728d53"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue3.2から追加された<script setup>記法をまとめてみた",
+      "author" : "@matsu-matsu",
+      "day" : 14,
+      "url" : "https://qiita.com/matsu-matsu/items/89ca4a5374cb2404c4bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SpreadSheetで階層構造グラフをパースして可視化",
+      "author" : "@y_kono",
+      "day" : 15,
+      "url" : "https://qiita.com/y_kono/items/e9727b7464f0231baeed"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@kanishionori"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reactの環境下でWASM(Rust)使ってグリッチLIKEな画像を作成してみる",
+      "author" : "@udoncat",
+      "day" : 17,
+      "url" : "https://zenn.dev/ifhito/articles/6a509dced5023c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YOLOv5を使って、うちの犬の犬種を推論してみた（猫種も）",
+      "author" : "@k0825",
+      "day" : 18,
+      "url" : "https://qiita.com/k0825/items/352ded20efccb12a2188"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "雑談のためのチャットボットを深層学習自然言語処理モデル（T5）で作る",
+      "author" : "@iNakamura",
+      "day" : 19,
+      "url" : "https://qiita.com/iNakamura/items/683091fb65396570a63d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Compositional Layoutでgroupのsubitemの指定方法でセルの高さが微妙に変わるんじゃ〜い",
+      "author" : "@Ryomm",
+      "day" : 20,
+      "url" : "https://zenn.dev/ryomm/articles/7ddcdf20380401"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「jqめちゃくちゃ便利じゃん😂」と感動することが多いので使い方を調べた",
+      "author" : "@h_okawa0303",
+      "day" : 21,
+      "url" : "https://qiita.com/h_okawa0303/items/32f9580e1de6802eb776"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務に活かせたVimのテクニック",
+      "author" : "@penpenpen",
+      "day" : 22,
+      "url" : "https://qiita.com/penpenpen/items/1f4f764345f90ad6b443"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS X-Rayをとりあえず使ってみたいハンズオン",
+      "author" : "@Takumi-Miura",
+      "day" : 23,
+      "url" : "https://qiita.com/Takumi-Miura/items/2b9a944bdf6076e6bdcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker imageの容量が大きい？Check !",
+      "author" : "@eevee-eevee",
+      "day" : 24,
+      "url" : "https://zenn.dev/eevee_eevee/articles/f65e3512ee7bad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@fuku710"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10,
+      "author" : "@nuna"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コマンドラインで電気をつけよう",
+      "author" : "@hatepo",
+      "day" : 19,
+      "url" : "https://qiita.com/hatepo/items/7562bdcd8d6885a2ed33"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20,
+      "author" : "@spicy_laichi"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21,
+      "author" : "@yasu_m_0123"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Slack】Events APIとAWSでトリガー処理してみた",
+      "author" : "@daiki-k-0231",
+      "day" : 22,
+      "url" : "https://qiita.com/daiki-k-0231/items/dda8ca1501c5788d022f"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@udoncat"
+    }
+  ]
+}

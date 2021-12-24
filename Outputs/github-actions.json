@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T08:42:12Z",
+  "calendar_meta_data" : {
+    "author" : "@peaceiris",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 45,
+    "subscribers" : 117,
+    "title" : "GitHub Actions Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "github-actions",
+    "url" : "https://qiita.com/advent-calendar/2021/github-actions"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsの歴史",
+      "author" : "@Shitimi_613",
+      "day" : 1,
+      "url" : "https://korosuke613.hatenablog.com/entry/history-of-github-actions"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作PythonライブラリのGitHub Actionsの環境のキャッシュ利用やジョブの並列化などをやってみる",
+      "author" : "@simonritchie",
+      "day" : 2,
+      "url" : "https://qiita.com/simonritchie/items/d536e5ee59b8e192e1d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenID Connect サポートについて",
+      "author" : "@miyajan",
+      "day" : 3,
+      "url" : "https://zenn.dev/miyajan/articles/github-actions-support-openid-connect"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「雑に立てられるissue」で疲弊しないためにOSS開発者ができること（issueを自動で閉じるActionの運用について）",
+      "author" : "@piroor",
+      "day" : 4,
+      "url" : "https://www.clear-code.com/blog/2021/12/4/issue-management-on-public-oss-project.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Github Actionsのself-hosted runnerをCloud Build, Cloud Run上で動かす（POC段階)",
+      "author" : "@Kesin11",
+      "day" : 5,
+      "url" : "https://zenn.dev/kesin11/articles/dcd39738324976"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そのマシンユーザー不要ですよ！GitHub Appsを使ってGitHub Actionsを利用しよう",
+      "author" : "@tatsuo48",
+      "day" : 6,
+      "url" : "https://zenn.dev/tatsuo48/articles/72c8939bbc6329"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Volta + GitHub Actions】ワークフロー内での Node.js のバージョン管理を自動化するアクションを作った話",
+      "author" : "@_kt15_",
+      "day" : 7,
+      "url" : "https://qiita.com/_kt15_/items/b567a7faf79a183d6d31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発時によく使っている action をまとめてみる",
+      "author" : "@kzkamago0721",
+      "day" : 8,
+      "url" : "https://k2ss.info/archives/3142/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsのstepsの重複を減らすためのComposite run steps action",
+      "author" : "@simonritchie",
+      "day" : 9,
+      "url" : "https://qiita.com/simonritchie/items/2d108612691b8ab6f167"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CoverageをPull RequestにコメントするActionsを作った",
+      "author" : "@y-chan",
+      "day" : 10,
+      "url" : "https://qiita.com/y-chan/items/724561cf74927d9ef4e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions にタイムアウトを設定しておいた方が良い",
+      "author" : "@chihiro",
+      "day" : 11,
+      "url" : "https://qiita.com/chihiro/items/341b579a07fac35fd1d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAP BTPのCloud FoundryにGithub Actionsを使って自動デプロイする",
+      "author" : "@nanaki11",
+      "day" : 12,
+      "url" : "https://qiita.com/nanaki11/items/6c606e09e33363ffc159"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS S3＋GitHub Actions＋IP制限でwebサイトをホスティングする",
+      "author" : "@Kakachiya",
+      "day" : 13,
+      "url" : "https://qiita.com/Kakachiya/items/4f433d66e027244dd1f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsでRubyによるスクレイピングを定期実行する",
+      "author" : "@hukurouo",
+      "day" : 14,
+      "url" : "https://zenn.dev/hukurouo/articles/github-actions-ruby-scrape"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Github actionsでpythonからPRにコメントする",
+      "author" : "@yoshi65",
+      "day" : 15,
+      "url" : "https://zenn.dev/yoshi65/articles/github_actions_python"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLocalizeで翻訳された結果をマージするとJSON内のUnicodeエスケープシーケンスがUnicode文字になってしまうのを回避する",
+      "author" : "@piroor",
+      "day" : 16,
+      "url" : "https://qiita.com/piroor/items/6987fa70d5215a55e2af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI が完了したら GitHub Actions を動かす",
+      "author" : "@tchssk",
+      "day" : 17,
+      "url" : "https://zenn.dev/tchssk/articles/e4136e75501c8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "workflow_dispatch の使い方、使い所",
+      "author" : "@chihiro",
+      "day" : 18,
+      "url" : "https://qiita.com/chihiro/items/8b2918ceb709cb9079e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsとRe:VIEWを使って同人誌を書いてみた",
+      "author" : "@huideyeren",
+      "day" : 19,
+      "url" : "https://qiita.com/huideyeren/items/15649b076782813975c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@inomasosan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsで定数値などを各jobで使いまわす",
+      "author" : "@simonritchie",
+      "day" : 21,
+      "url" : "https://qiita.com/simonritchie/items/1104f6339cad72644160"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数リポジトリでのGithub Actions運用 2021年の状況総まとめ",
+      "author" : "@Jerome_1010",
+      "day" : 22,
+      "url" : "https://zenn.dev/jerome/articles/cc07ad73e017ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitter のアイコンを 1 日 1 度ずつ回転させることで得られたもの",
+      "author" : "@Kumassy",
+      "day" : 23,
+      "url" : "https://zenn.dev/kumassy/articles/3fdc4b5d98c44f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GitHub Actions】入力で型とか指定できるようになった",
+      "author" : "@ryuichi1208",
+      "day" : 24,
+      "url" : "https://blog.hatena.ne.jp/ryuichi1208/ryuichi1208.hateblo.jp/edit"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yoshi389111"
+    }
+  ]
+}

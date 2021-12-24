@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-22T13:31:20Z",
+  "calendar_meta_data" : {
+    "author" : "@suin",
+    "category" : "Qiita主催",
+    "lgtm" : 509,
+    "subscribers" : 183,
+    "title" : "タイムリープTypeScript 〜TypeScript始めたてのあの頃に知っておきたかったこと〜 Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "timeleap-typescript",
+    "url" : "https://qiita.com/advent-calendar/2021/timeleap-typescript"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript の「型安全」を担保するために知っておきたかったこと",
+      "author" : "@oika",
+      "day" : 1,
+      "url" : "https://oita.oika.me/2021/12/01/timeleap-typescript"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonユーザーのためのTypeScript入門",
+      "author" : "@nicco_mirai",
+      "day" : 2,
+      "url" : "https://qiita.com/nicco_mirai/items/d4e88fa61f663c59825b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "* d.tsに足せば良いです。がわからなかった私",
+      "author" : "@ideodora",
+      "day" : 3,
+      "url" : "https://qiita.com/ideodora/items/12b0aa45c5944aa0a37a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Analyticsのgtag型定義で迷走",
+      "author" : "@webdev",
+      "day" : 4,
+      "url" : "https://qiita.com/webdev/items/2e6b04f0d766e07d7dcf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript+Jestでテストを書くときに型安全にモックする方法を教えてほしかった",
+      "author" : "@t-yng",
+      "day" : 5,
+      "url" : "https://t-yng.jp/post/jest-typescript-types"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Switch文　いつ使う？",
+      "author" : "@ehika",
+      "day" : 6,
+      "url" : "https://qiita.com/ehika/items/a2cca1349c3a3db8f161"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "console.log(typeof null)の出力結果に自信のない人は読んでください",
+      "author" : "@shimi7o",
+      "day" : 7,
+      "url" : "https://qiita.com/shimi7o/items/da9db1c82164534c55b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非同期処理につまづいたあの頃の自分に送るHow-To",
+      "author" : "@naoki-haba",
+      "day" : 8,
+      "url" : "https://qiita.com/naoki-haba/items/7b127d5195e62ad3e341"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TypeScript】neverを使って実装漏れを型エラーで検知する",
+      "author" : "@sonishimura",
+      "day" : 9,
+      "url" : "https://qiita.com/sonishimura/items/b7b36b95686b83ec36f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptのd.tsでCommonJSスタイルのエクスポートの型を記述する際に引っかかったこと",
+      "author" : "@umireon",
+      "day" : 10,
+      "url" : "https://qiita.com/umireon/items/694189ed3ecf02429f64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript +NestJSをプロジェクトで導入したら素晴らしかった件",
+      "author" : "@naoki-haba",
+      "day" : 11,
+      "url" : "https://qiita.com/naoki-haba/items/957f43bda4c169d0b52b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "型推論のTips集",
+      "author" : "@wintyo",
+      "day" : 12,
+      "url" : "https://qiita.com/wintyo/items/6ff67816f718a8fe6398"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[TypeScript] 型エラーだらけでもstrict: trueに切り替える",
+      "author" : "@mokoshi",
+      "day" : 13,
+      "url" : "https://qiita.com/mokoshi/items/d5642de2bd22f9d9eeab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TypeScript】結局のところfunctionとアロー関数はどちらを使うべきなのか？",
+      "author" : "@nicco_mirai",
+      "day" : 14,
+      "url" : "https://qiita.com/nicco_mirai/items/0bd0d0bcee72497d4b42"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あの時の俺に言いたい。NPMにpublishしたら（ほぼ）消せないことを",
+      "author" : "@jamashita",
+      "day" : 15,
+      "url" : "https://qiita.com/jamashita/items/6e8b2bedc0d47d3f7748"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript始めたてに知ったこと",
+      "author" : "@kaizen_nagoya",
+      "day" : 16,
+      "url" : "https://qiita.com/kaizen_nagoya/items/9dbe119ea4919a30fba2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript始めたての頃知りたかったこと",
+      "author" : "@nakamo-03",
+      "day" : 18,
+      "url" : "https://qiita.com/nakamo-03/items/e5fb0aaaef36f20bd24e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今、僕が新しい TypeScript プロジェクトを立ち上げるならこんな環境構築をします",
+      "author" : "@anneau",
+      "day" : 19,
+      "url" : "https://qiita.com/anneau/items/4b7461bb9eb9f7988df3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptを3ヶ月勉強してみて、最も参考になった情報源5選",
+      "author" : "@mu-suke08",
+      "day" : 20,
+      "url" : "https://qiita.com/mu-suke08/items/085cde8dbd797de64ccd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stellarブロックチェーンで独自トークン(Qiitaトークン)を管理してみる",
+      "author" : "@shunichi_com",
+      "day" : 21,
+      "url" : "https://qiita.com/shunichi_com/items/018e9bc9ef76a6b4dbb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "type-challengesを二週間続けてみた",
+      "author" : "@hagahiro",
+      "day" : 22,
+      "url" : "https://qiita.com/hagahiro/items/583fc3f391162fb1cce6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@kouchanne"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@biga816"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

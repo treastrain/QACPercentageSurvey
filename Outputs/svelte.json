@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-24T13:28:01Z",
+  "calendar_meta_data" : {
+    "author" : "@oekazuma",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 114,
+    "subscribers" : 55,
+    "title" : "Svelte Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "svelte",
+    "url" : "https://qiita.com/advent-calendar/2021/svelte"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "SvelteKitを使ってコンポーネントライブラリを作成してみよう！",
+      "author" : "@oekazuma",
+      "day" : 1,
+      "url" : "https://qiita.com/oekazuma/items/d6a0dc6f7c3c2d912f64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelte Shield 拡張機能のリリースと Toymorphism デザインの話",
+      "author" : "@am_nimitz3",
+      "day" : 2,
+      "url" : "https://qiita.com/am_nimitz3/items/fcf85874661697fe531e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@takurinton"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SvelteKitのHooksを使ってFirebase AuthとSSRする",
+      "author" : "@ssssota",
+      "day" : 4,
+      "url" : "https://zenn.dev/ssssota/articles/sveltekit-hooks"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sapperを使ってほどよいテンプレートを作る",
+      "author" : "@Migii",
+      "day" : 5,
+      "url" : "https://qiita.com/Migii/items/3b203e3aef88f2eeb521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelte Summit Fall 2021 まとめ",
+      "author" : "@tomoam",
+      "day" : 6,
+      "url" : "https://zenn.dev/tomoam/articles/ac01485f429ab6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelteを中心にVue.jsとの違いをざっくり掴む",
+      "author" : "@baseballyama",
+      "day" : 7,
+      "url" : "https://qiita.com/baseballyama/items/321542c8a4103d19f10c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@highstake"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Svelte] 動的にHTMLタグを切り替えたい（dynamic elements）",
+      "author" : "@kentt",
+      "day" : 9,
+      "url" : "https://qiita.com/kentt/items/dc4bb6cc6a9da5b4ae63"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@junseinagao"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Svelte」で以前作ったサイトに色々と手を加えた話",
+      "author" : "@kzkamago0721",
+      "day" : 11,
+      "url" : "https://k2ss.info/archives/3146/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@tomoam"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reactヘビーユーザーが思うSvelteの良いところ",
+      "author" : "@tonio0720",
+      "day" : 13,
+      "url" : "https://qiita.com/tonio0720/items/88e62e6beffa9adc1a7f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelte、そのドキュメントは驚きの読みやすさ的な！を書きます。",
+      "author" : "@fkuMnk",
+      "day" : 14,
+      "url" : "https://zenn.dev/fkumnk/articles/71732a09d203a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go!Go!Movie!を支える技術",
+      "author" : "@mkin",
+      "day" : 15,
+      "url" : "https://qiita.com/mkin/items/a0b99f6a813ffd0eed30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SvelteKit と sk-auth でソーシャル認証を簡単に導入する",
+      "author" : "@lulzneko",
+      "day" : 16,
+      "url" : "https://zenn.dev/lulzneko/articles/easy-to-impl-sns-login-with-sveltekit-and-sk-auth"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "svelteのユニットテスト2021/12",
+      "author" : "@miruoon",
+      "day" : 17,
+      "url" : "https://zenn.dev/miruoon_892/articles/3919091ae5fdc4c1b757"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@highstake"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@kan_dai"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@tomoam"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "具体的に理解する楽しいOSS貢献 (Svelteを具体例に説明します)",
+      "author" : "@baseballyama",
+      "day" : 21,
+      "url" : "https://qiita.com/baseballyama/items/640cf43cd021caf15fba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelteのlifecycleとactionについて改めて学習する",
+      "author" : "@miruoon",
+      "day" : 22,
+      "url" : "https://zenn.dev/miruoon_892/articles/2c9efd2c302c56bd41a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@junseinagao"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tnzk"
+    }
+  ]
+}

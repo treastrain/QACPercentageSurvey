@@ -1,0 +1,331 @@
+{
+  "created_at" : "2021-12-24T09:37:25Z",
+  "calendar_meta_data" : {
+    "author" : "@motorcontrolman",
+    "category" : "プログラミング言語",
+    "lgtm" : 304,
+    "subscribers" : 28,
+    "title" : "MATLAB/Simulink Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "matlab",
+    "url" : "https://qiita.com/advent-calendar/2021/matlab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【MATLAB】便利！S-Function Builderの使い方-Arduino連携ライブラリの自作-",
+      "author" : "@motorcontrolman",
+      "day" : 1,
+      "url" : "https://qiita.com/motorcontrolman/items/756f175c0675f564790f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MATLABでCUDAの計画を立てる方法の提案",
+      "author" : "@tommyecguitar",
+      "day" : 2,
+      "url" : "https://qiita.com/tommyecguitar/items/e268b012adea814beda1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "船舶の揺動をシミュレーションする環境構築",
+      "author" : "@gamonoss",
+      "day" : 3,
+      "url" : "https://qiita.com/gamonoss/items/ebd62ad3ba6dc5315bb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【SUPER HIGH LEVEL SIMULINK LESSON】SimulinkとStateflowをFusionさせてみた",
+      "author" : "@griffin921",
+      "day" : 4,
+      "url" : "https://qiita.com/griffin921/items/a4aa154b95148f2c72f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Devil With Angel Heart～ MATLABで綺麗な「ボケ」を作ろう～決め手は対数～巡回畳み込み・直線畳み込み、MATLABでブロック処理",
+      "author" : "@cafe_on_the",
+      "day" : 5,
+      "url" : "https://note.com/leftbank/n/n8183701f9927"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SimulinkにオリジナルのToolboxを追加してみた",
+      "author" : "@griffin921",
+      "day" : 6,
+      "url" : "https://qiita.com/griffin921/items/f6a4869e214f913764b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spatial CNNを用いた車載動画からの車線の自動検出について (Pan et al., AAAI, 2018)",
+      "author" : "@kentaPt",
+      "day" : 7,
+      "url" : "https://kentapt.hatenablog.com/entry/2021/12/06/014209?_ga=2.68071961.969068872.1638721409-1601353361.1630730568"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LIMEを用いたCNN分類の判断根拠の可視化について (Ribeiro et al., KDD, 2016)",
+      "author" : "@kentaPt",
+      "day" : 8,
+      "url" : "https://kentapt.hatenablog.com/entry/2021/12/06/224424?_ga=2.30839223.969068872.1638721409-1601353361.1630730568"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "反復計算をカスケードで表現する為、For Each Subsystem の代わりにマスクブロックの初期化 for 文でコアを描画",
+      "author" : "@rtl_modeler",
+      "day" : 9,
+      "url" : "https://qiita.com/rtl_modeler/items/42b702344d055da5c4a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Metaのロゴによく似た錯視をMATLABで書いてみた",
+      "author" : "@griffin921",
+      "day" : 10,
+      "url" : "https://qiita.com/griffin921/items/1d5f7374d9626c217986"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Which is better for deep learning: Python or MATLAB?",
+      "author" : "@stktu",
+      "day" : 11,
+      "url" : "https://qiita.com/stktu/items/da1bb4182c83d32bff30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MATLABからPythonライブラリを利用できた話",
+      "author" : "@larking95",
+      "day" : 12,
+      "url" : "https://qiita.com/larking95/items/405316460dc51cbd7071"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "数独の楽しみが台無し！写真を撮って解けるようにしてみた話",
+      "author" : "@eigs",
+      "day" : 13,
+      "url" : "https://qiita.com/eigs/items/5058a5b70ffbac65a5b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Positionよ，話せば分かる……！(分からない)",
+      "author" : "@C2_now",
+      "day" : 14,
+      "url" : "https://qiita.com/C2_now/items/3740a458ddf0a82dabfe"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@kikd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MATLABを使った卒論・修論・論文向けグラフ作成方法まとめ（補助線・2軸グラフ・疑似カラープロット・アノテーション・拡大図の書き方etc）",
+      "author" : "@YutaNakamura_bbhomejp",
+      "day" : 16,
+      "url" : "https://qiita.com/YutaNakamura_bbhomejp/items/a2ffcc4d8a486b5fddcb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MATLABにファイルデータを読みこむ関数",
+      "author" : "@Monzo_N",
+      "day" : 17,
+      "url" : "https://qiita.com/Monzo_N/items/ddcb5d80bed3a3ceb66c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "このWebカメラを使ってな、このWebカメラを使ってな、ビジュアルフィードバックしようと思うたのじゃ",
+      "author" : "@HppyCtrlEngnrng",
+      "day" : 18,
+      "url" : "https://qiita.com/HppyCtrlEngnrng/items/2d14c678a7abf50c1f38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モンテカルロMPCを実装してみた",
+      "author" : "@fumiya_sato",
+      "day" : 19,
+      "url" : "https://qiita.com/fumiya_sato/items/55a8163bca31f7061066"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【MATLAB】超便利！デバッグ機能のおさらい",
+      "author" : "@shun-kusano",
+      "day" : 20,
+      "url" : "https://qiita.com/shun-kusano/items/7409129f8a87f23b1cfa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Simulinkで始める線形システムのモデル規範適応制御(MRAC)",
+      "author" : "@shinji00q",
+      "day" : 21,
+      "url" : "https://qiita.com/shinji00q/items/74ce4042f7324f325732"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Simscape Multibodyを使ってフライホイール倒立振子のシミュレーション(simscapeの使い所的な話も含めて)",
+      "author" : "@shimotoriharuki",
+      "day" : 22,
+      "url" : "https://underbirdworks.blogspot.com/2021/12/simscape-multibody.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendar MATLAB/Simulink",
+      "author" : "@kaizen_nagoya",
+      "day" : 23,
+      "url" : "https://qiita.com/kaizen_nagoya/items/bf261bfccbc43228f525"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MATLABで音楽を生成してみた",
+      "author" : "@backslash",
+      "day" : 24,
+      "url" : "https://qiita.com/backslash/items/356c4d59c196f7f4e4cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@motorcontrolman"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MATLABアプリを「外から」ぶったたく方法",
+      "author" : "@motorcontrolman",
+      "day" : 1,
+      "url" : "https://qiita.com/motorcontrolman/items/b61cf0d8ec855476fcd3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MATLAB で描いてみる「金星の薔薇」",
+      "author" : "@eigs",
+      "day" : 2,
+      "url" : "https://qiita.com/eigs/items/85c9b6d2899a08f0813e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Christmas Tree Illusion",
+      "author" : "@cafe_on_the",
+      "day" : 3,
+      "url" : "https://note.com/leftbank/n/n5e3c2629438f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MATLAB ロゴを使った MATLAB ロゴのモザイクアート",
+      "author" : "@backslash",
+      "day" : 4,
+      "url" : "https://qiita.com/backslash/items/cb498ed540a4a96c016a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "シンプルかつ高精度な姿勢推定の手法について学んでみた（Xiao et al., ECCV, 2018）",
+      "author" : "@kentaPt",
+      "day" : 12,
+      "url" : "https://kentapt.hatenablog.com/entry/2021/12/11/231001?_ga=2.206475675.969068872.1638721409-1601353361.1630730568"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MATLABで自然言語処理に入門してみた",
+      "author" : "@kentaPt",
+      "day" : 13,
+      "url" : "https://kentapt.hatenablog.com/entry/2021/12/12/172625?_ga=2.227974677.969068872.1638721409-1601353361.1630730568"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デジタル制御するときのソフトウェアアーキテクチャをモデリングしてみた",
+      "author" : "@griffin921",
+      "day" : 14,
+      "url" : "https://qiita.com/griffin921/items/fa510ed2fb2b22e63788"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MATLAB x OpenAI Gym: 強化学習アプリでラクして強化学習!",
+      "author" : "@HYCE",
+      "day" : 15,
+      "url" : "https://qiita.com/HYCE/items/29e490ab7a9706c2e2e4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "数字の画像を作ってモデルを学習して C 言語に変換する話",
+      "author" : "@eigs",
+      "day" : 16,
+      "url" : "https://qiita.com/eigs/items/70bfa7a0579c80fffc22"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "マシンガンで音を撃ち、弾丸を回収しにいく話",
+      "author" : "@Monzo_N",
+      "day" : 17,
+      "url" : "https://qiita.com/Monzo_N/items/f4823999df15620d2453"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "説明可能AIの手法：Score-CAMを勉強＆実装してみた（Wang et al., CVPR workshop, 2020)",
+      "author" : "@kentaPt",
+      "day" : 18,
+      "url" : "https://kentapt.hatenablog.com/entry/2021/12/16/105958"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自転車とSimulinkとを接続してみました",
+      "author" : "@1300s",
+      "day" : 19,
+      "url" : "https://cycle1300ss.blogspot.com/2021/12/blog-post_19.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MATLABでマウスインタラクティブGUI ～ 画像を馴染ませてコピー ～ Poisson Image Editing",
+      "author" : "@cafe_on_the",
+      "day" : 20,
+      "url" : "https://note.com/leftbank/n/n2592fe6f4675"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "単眼超解像(Single Image Super Resolution)手法のVDSR について勉強＆動かしてみた (Kim et al., CVPR, 2016)",
+      "author" : "@kentaPt",
+      "day" : 22,
+      "url" : "https://kentapt.hatenablog.com/entry/2021/12/21/170251?_ga=2.107003018.96728766.1640050803-1601353361.1630730568"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "モデルベース開発モータ制御編~C言語とSimulinkの文法記述を比較する~",
+      "author" : "@gracehime",
+      "day" : 24,
+      "url" : "https://speakerdeck.com/grace2riku/moderubesukai-fa-motazhi-yu-bian-cyan-yu-tosimulinkfalsewen-fa-ji-shu-wobi-jiao-suru"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

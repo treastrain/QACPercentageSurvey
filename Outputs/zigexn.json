@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-24T09:43:50Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社じげん",
+    "category" : "企業・学校・団体",
+    "lgtm" : 732,
+    "subscribers" : 11,
+    "title" : "株式会社じげん Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "zigexn",
+    "url" : "https://qiita.com/advent-calendar/2021/zigexn"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt開発におけるTailwindcssをv1系からv2系にアップグレードして解決した課題やそのメリット",
+      "author" : "@sengosha",
+      "day" : 1,
+      "url" : "https://qiita.com/sengosha/items/f0c413467b0c66b1589e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "preload, eager_load, includesについて",
+      "author" : "@iLLviA",
+      "day" : 2,
+      "url" : "https://qiita.com/iLLviA/items/a52bdec96c25ebdc8e4e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非エンジニアがGoogleAppScript（GAS）を社内で広めた方法",
+      "author" : "@240oowarai",
+      "day" : 3,
+      "url" : "https://qiita.com/240oowarai/items/835dbb2c6bdf11741b8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動画をgifに変換してSlackにサクッと貼り付ける shellscript のおすすめ設定",
+      "author" : "@rorensu2236",
+      "day" : 4,
+      "url" : "https://qiita.com/rorensu2236/items/de5ea9ca092b566aabef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilioの留守番電話検知機能（AMD）を使ってみた（PHP）",
+      "author" : "@s-yamagata-z",
+      "day" : 5,
+      "url" : "https://qiita.com/s-yamagata-z/items/0b31468edf8ac481e331"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "深層学習ではじめる画像ベクトル化",
+      "author" : "@yizaki0212",
+      "day" : 6,
+      "url" : "https://qiita.com/yizaki0212/items/11a12a06aa703b72fc12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPでのTwilio自動音声の実装方法と日本語の読ませ方のコツ",
+      "author" : "@m-kazu-z",
+      "day" : 7,
+      "url" : "https://qiita.com/m-kazu-z/items/b7aaedc85af3470c66ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウェブサイト開発に便利なmacアプリケーションの紹介 ",
+      "author" : "@kkosuke",
+      "day" : 8,
+      "url" : "https://qiita.com/kkosuke/items/a7c9ea74fcd02d92402f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MVCモデルのViewにDTOを導入するとどうなるか",
+      "author" : "@zazi",
+      "day" : 9,
+      "url" : "https://qiita.com/zazi/items/2d7ed5bfeddfd7215cae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非エンジニアがSQLを覚えて社内勉強会を開くまで",
+      "author" : "@reina_tashiro",
+      "day" : 10,
+      "url" : "https://qiita.com/reina_tashiro/items/afa9fb99c398ecc78b0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Document AIでPDFの請求書を構造化データにしてみた",
+      "author" : "@zacksan",
+      "day" : 11,
+      "url" : "https://qiita.com/zacksan/items/a321e8d857dfdf72e214"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Cloud Talent Solutionで求人検索までしてみる",
+      "author" : "@sako_Y",
+      "day" : 12,
+      "url" : "https://qiita.com/sako_Y/items/304e229e934a80b21299"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "flagsの機能を使ってChromeの使い勝手を改善する",
+      "author" : "@ZX1800R",
+      "day" : 13,
+      "url" : "https://qiita.com/ZX1800R/items/5983e71e51db2de59851"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習ことはじめにscikit-learnを触ってみた（scikit-learnのサンプルデータセットをmatplotlibで表示するところまで）",
+      "author" : "@moumao",
+      "day" : 14,
+      "url" : "https://qiita.com/moumao/items/6f917a93e4ed20237542"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel 6 のプロジェクトに Vue.js & TypeScript & ESLint & Jest をもりっと導入する",
+      "author" : "@kotahashihama",
+      "day" : 15,
+      "url" : "https://qiita.com/kotahashihama/items/498e0438c8730d806033"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Eloquentとクエリビルダの違いを整理してみた",
+      "author" : "@rin_f_z",
+      "day" : 16,
+      "url" : "https://qiita.com/rin_f_z/items/63e795530af53d460b26"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアも見ておきたいGoogle Search Consoleの機能 5選",
+      "author" : "@chia_ckra",
+      "day" : 17,
+      "url" : "https://qiita.com/chia_ckra/items/c3c49364920358e27ceb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Looker導入を機にデータガバナンスと分析基盤を整える話",
+      "author" : "@shinto_apw",
+      "day" : 18,
+      "url" : "https://qiita.com/shinto_apw/items/5413dc3da4aa3e125bb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "laravel-page-speed を導入する",
+      "author" : "@vivien3327",
+      "day" : 19,
+      "url" : "https://qiita.com/vivien3327/items/890fb6a2394e6271a37f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "完璧な要件定義など幻想である。個ではなく、チームで作る要件定義",
+      "author" : "@Haruyuki_Hirose",
+      "day" : 20,
+      "url" : "https://qiita.com/Haruyuki_Hirose/items/2ce5a2877bc5c66aa2b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS EC2の「No space left on device」エラーの解決方法",
+      "author" : "@rkinsei",
+      "day" : 21,
+      "url" : "https://qiita.com/rkinsei/items/1e112591de088e124aac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語が苦手なエンジニアが、克服するためにやったこと",
+      "author" : "@RyoYamamoto0508",
+      "day" : 22,
+      "url" : "https://qiita.com/RyoYamamoto0508/items/87a09cf621f6be9b5730"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

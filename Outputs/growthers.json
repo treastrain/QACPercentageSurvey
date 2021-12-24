@@ -1,0 +1,166 @@
+{
+  "created_at" : "2021-12-24T11:19:36Z",
+  "calendar_meta_data" : {
+    "author" : "@Yuigishi",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 12,
+    "title" : "共同開発鯖 Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "growthers",
+    "url" : "https://qiita.com/advent-calendar/2021/growthers"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "共同開発鯖について(by Moderators)",
+      "author" : "@Yuigishi",
+      "day" : 1,
+      "url" : "https://blog.growthers.dev/Growthers/posts/advent2021-about/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TRPGで知る文章構築(未定)",
+      "author" : "@mruyr",
+      "day" : 2,
+      "url" : "https://note.com/mruyr/n/nd7cedff3d30a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vimでmarkdownをプレビューするプラグインを作った（最新版）（6日と入れ替え）",
+      "author" : "@kat0h",
+      "day" : 3,
+      "url" : "https://blog.growthers.dev/kat0h/posts/how-make-md-it-plugin/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "鯖民向けBlogの使い方",
+      "author" : "@Yusuke4869",
+      "day" : 4,
+      "url" : "https://blog.growthers.dev/Growthers/posts/how-to-post/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Serenity (Rust) でDiscord Bot開発",
+      "author" : "@watasuke102",
+      "day" : 5,
+      "url" : "https://watasuke.tk/blog/article/discord-bot-by-rust-and-serenity"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Markdown-it用Github Markdown風yamlヘッダレンダリングプラグインを作った",
+      "author" : "@kat0h",
+      "day" : 6,
+      "url" : "https://blog.growthers.dev/kat0h/posts/vim-render-md/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oshaveryを支える技術",
+      "author" : "@laminne",
+      "day" : 7,
+      "url" : "https://blog.growthers.dev/laminne/posts/overview-oshavery-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Armbian Build Battle",
+      "author" : "@Yuigishi",
+      "day" : 8,
+      "url" : "https://blog.growthers.dev/yuki/posts/armbian-install-battle-1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チーム開発のすゝめ",
+      "author" : "@Re-taro",
+      "day" : 12,
+      "url" : "https://blog.growthers.dev/re-taro/posts/how-to-develope-with-team/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "cargo-competeでAtCoder",
+      "author" : "@sobonn",
+      "day" : 13,
+      "url" : "https://blog.growthers.dev/sobonn/posts/atcoder-with-cargo-compete/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows11ではWSL2のGUI表示にXサーバー使わなくていいってほんまか！？",
+      "author" : "@nekoshark02",
+      "day" : 14,
+      "url" : "https://qiita.com/nekoshark02/items/bfbee38f59fec8e6c8b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blog作成にあたって",
+      "author" : "@Yusuke4869",
+      "day" : 15,
+      "url" : "https://blog.growthers.dev/yusuke4869/posts/created-blog/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@Siguma"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cでcsvデータ分割",
+      "author" : "@Yusuke4869",
+      "day" : 20,
+      "url" : "https://blog.growthers.dev/yusuke4869/posts/c-splitting-csv/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【実録】Notionのつかいかた",
+      "author" : "@watasuke102",
+      "day" : 21,
+      "url" : "https://watasuke.tk/blog/article/how-to-use-notion-mystyle"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マルコフ解析を用いて文章を生成してみる",
+      "author" : "@matamatajupiter",
+      "day" : 22,
+      "url" : "https://qiita.com/matamatajupiter/items/6cc740d1218b1bd1d3d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AzureのCustom Visionを使って物体検出してみた",
+      "author" : "@abokado-sa-mon",
+      "day" : 23,
+      "url" : "https://qiita.com/abokado-sa-mon/items/65f12d41dfd500652dc2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@chiepu913"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Yuigishi"
+    }
+  ]
+}

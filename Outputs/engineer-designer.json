@@ -1,0 +1,185 @@
+{
+  "created_at" : "2021-12-24T11:43:55Z",
+  "calendar_meta_data" : {
+    "author" : "@yo-okazawa",
+    "category" : "企業・学校・団体",
+    "lgtm" : 124,
+    "subscribers" : 16,
+    "title" : "KDDI Engineer&Designer Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "engineer-designer",
+    "url" : "https://qiita.com/advent-calendar/2021/engineer-designer"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【OCI】初心者がOracle Cloudのアカウントを作ってサーバを起動する【ハンズオン】",
+      "author" : "@hamham",
+      "day" : 1,
+      "url" : "https://qiita.com/hamham/items/14d3214f7a6ffd772862"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon ECR でpull-through-cache機能がリリース(2021/11/30時点)",
+      "author" : "@yoshii0110",
+      "day" : 2,
+      "url" : "https://qiita.com/yoshii0110/items/2cac49fc919d9a8465c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "boto3からの解放。python3の標準ライブラリのみでAWSサービスを取り扱うには",
+      "author" : "@yoshii0110",
+      "day" : 3,
+      "url" : "https://qiita.com/yoshii0110/items/9071de3fa67db5991f3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者】AWS Wavelengthを使ってみる #5 (Amazon EKS + F5 BIG-IP によるコンテナ負荷分散)",
+      "author" : "@mksamba",
+      "day" : 4,
+      "url" : "https://qiita.com/mksamba/items/0b87e575b9df096d6388"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " terraform-aws-github-runnerを試してみた",
+      "author" : "@Synohara",
+      "day" : 5,
+      "url" : "https://qiita.com/Synohara/items/7bc808ddace96ca5678e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリーンアーキテクチャに入門してバッチシステムをリニューアルした",
+      "author" : "@nishinishidayo",
+      "day" : 6,
+      "url" : "https://qiita.com/nishinishidayo/items/f70d5ab86757f8e8bfc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Contact Lens for Amazon Connectが日本語対応したので試してみた",
+      "author" : "@hamham",
+      "day" : 7,
+      "url" : "https://qiita.com/hamham/items/9430e73e85098112adc0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "recap: DX白書2021 (要点だけまとめてみた)",
+      "author" : "@yoshii0110",
+      "day" : 8,
+      "url" : "https://qiita.com/yoshii0110/items/38a16ed511c4b1c6df4e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS初心者は見た！私でもすぐ使える!? re:Invent 2021で出た新機能",
+      "author" : "@minorun365",
+      "day" : 9,
+      "url" : "https://qiita.com/minorun365/items/37b8c9627fb965dafeb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "cynefin frameworkについてまとめてみる",
+      "author" : "@yoshii0110",
+      "day" : 10,
+      "url" : "https://qiita.com/yoshii0110/items/655215c1284e3083c9b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Amplify Studioが変えるフロントエンド開発の未来とは",
+      "author" : "@yoshii0110",
+      "day" : 11,
+      "url" : "https://qiita.com/yoshii0110/items/65fdaa367aef075df084"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon CloudWatch EvidentlyでA/Bテストすればデザインで困らないんじゃね？",
+      "author" : "@yoshii0110",
+      "day" : 12,
+      "url" : "https://qiita.com/yoshii0110/items/2a1caae289587b461992"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Deno-deploy beta3触った感触について書きます",
+      "author" : "@sandshiP",
+      "day" : 13,
+      "url" : "https://zenn.dev/sandship/articles/7b758401cfe217"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Remixの特徴と思想について",
+      "author" : "@yoshii0110",
+      "day" : 14,
+      "url" : "https://qiita.com/yoshii0110/items/1cf44219c2b2cec64050"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ガラケー時代にハマっていた動画変換ナレッジを令和最新版にアプデしてみる",
+      "author" : "@minorun365",
+      "day" : 15,
+      "url" : "https://qiita.com/minorun365/items/de8f52494b95024b6ec6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レプリケーションとスナップショットの違い",
+      "author" : "@ayuayuayu842",
+      "day" : 16,
+      "url" : "https://qiita.com/ayuayuayu842/items/6d88084645c69e086efd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Diataxisという思考ツールとしてのフレームワーク",
+      "author" : "@yoshii0110",
+      "day" : 17,
+      "url" : "https://qiita.com/yoshii0110/items/6c9bd7f2b4103375b171"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "0からReactとTypeScriptを学ぶために使用した教材。ついでにJestとGraphQLも",
+      "author" : "@YSasago",
+      "day" : 18,
+      "url" : "https://qiita.com/YSasago/items/7133118fa542525670a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AIもこなせるようになってきた IoTデバイス",
+      "author" : "@y-shikama",
+      "day" : 19,
+      "url" : "https://qiita.com/y-shikama/items/dde2edb354e43355d7b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ContentfulのTechnical Limit(API call数制限 429 Too Many Requests)をapollo clientで回避する方法",
+      "author" : "@yoshii0110",
+      "day" : 20,
+      "url" : "https://qiita.com/yoshii0110/items/7171071f8a72afb49704"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The Amazon Builder’s Library \"Reliability, constant work, and a good cup of coffee\" を読んでみた",
+      "author" : "@kinunori",
+      "day" : 21,
+      "url" : "https://qiita.com/kinunori/items/c8a991371a71e997f8ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSP(Contents Security Policy)を導入してWebサイトのセキュリティ強化を目指す",
+      "author" : "@Static_Novice",
+      "day" : 22,
+      "url" : "https://qiita.com/Static_Novice/items/ba6e37edf03c4a100ebd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonとColaboratoryでクリスマスツリーを描いてみた",
+      "author" : "@hamham",
+      "day" : 24,
+      "url" : "https://qiita.com/hamham/items/5c4f665ad0b075a2e7cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@piyonakajima"
+    }
+  ]
+}

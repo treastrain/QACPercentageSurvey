@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-22T13:40:49Z",
+  "calendar_meta_data" : {
+    "author" : "@treastrain",
+    "category" : "プログラミング言語",
+    "lgtm" : 171,
+    "subscribers" : 74,
+    "title" : "Swift Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "swift",
+    "url" : "https://qiita.com/advent-calendar/2021/swift"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Swift5 全予約語 (106語) の解説",
+      "author" : "@ezura",
+      "day" : 1,
+      "url" : "https://qiita.com/ezura/items/a4e43dfdadedb738be8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swiftのプロトコルは何？",
+      "author" : "@hironytic",
+      "day" : 2,
+      "url" : "https://qiita.com/hironytic/items/6a50b7cc6dd1ea332ee2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swiftアプリケーション開発に、NoSQLドキュメント指向モバイルデータベースCouchbase Liteを使ってみる",
+      "author" : "@yoshiyuki_kono",
+      "day" : 3,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/9d9988826014bfc331d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Swift]async/awaitを使ってGitHubAPIを叩く（UIKit版）",
+      "author" : "@nkekisasa222",
+      "day" : 4,
+      "url" : "https://qiita.com/nkekisasa222/items/bdc9947a3a7b1fb126ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイで Vapor を動かす",
+      "author" : "@am10",
+      "day" : 5,
+      "url" : "https://qiita.com/am10/items/3fa26eec433ea187981c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Swift] Combine の flatMap で failure になると、以降は値が流れなくなる問題に対処する",
+      "author" : "@hcrane",
+      "day" : 6,
+      "url" : "https://qiita.com/hcrane/items/76d6a91d58459373eb0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOS13 SwiftUIバグ集",
+      "author" : "@trickart4121",
+      "day" : 7,
+      "url" : "https://qiita.com/trickart4121/items/efc0d8db54f0617d4698"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftのProperty Wrappers 機能を使って自作の @-prefixed attributes.を作ってみた",
+      "author" : "@keisukeYamagishi",
+      "day" : 8,
+      "url" : "https://qiita.com/keisukeYamagishi/items/3cdce9461d2613def10f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロジェクトにWidgetExtensionを追加して'WidgetFamily'ごとに表示してみる",
+      "author" : "@nkekisasa222",
+      "day" : 9,
+      "url" : "https://qiita.com/nkekisasa222/items/698b28968b4fd72bbcf2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RxSwift 6.0/6.1で弱参照なオブジェクトの参照が楽になった",
+      "author" : "@simorgh3196",
+      "day" : 10,
+      "url" : "https://zenn.dev/simorgh3196/articles/rxswift-with-unretained"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOS13(SwiftUI 1.0)のScrollViewを使いこなす",
+      "author" : "@k-yamada-github",
+      "day" : 11,
+      "url" : "https://qiita.com/k-yamada-github/items/f6ad6071854336f173f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SCNViewの描画結果をPIPで表示する",
+      "author" : "@fuziki",
+      "day" : 12,
+      "url" : "https://qiita.com/fuziki/items/9c4efeb4af22eefef0d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Swift] Compositional Layouts で Readable Width の対応をする",
+      "author" : "@hcrane",
+      "day" : 13,
+      "url" : "https://qiita.com/hcrane/items/120c17f10fb25b68d83f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swift Package Managerで公開しているライブラリのPackage.swiftを最適化する",
+      "author" : "@417_72ki",
+      "day" : 14,
+      "url" : "https://qiita.com/417_72ki/items/9e1efa14483768a8ff76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "参照カウンタになじむ Part. 1",
+      "author" : "@freddi_",
+      "day" : 15,
+      "url" : "https://qiita.com/freddi_/items/de4aa9cfa79be569620e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterでシステムのライフサイクルをSwiftで",
+      "author" : "@repepe2en",
+      "day" : 16,
+      "url" : "https://qiita.com/repepe2en/items/3e2c2f97108987b009e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swift Type Alias から学ぶ開発指針と雑学",
+      "author" : "@AkkeyLab",
+      "day" : 17,
+      "url" : "https://qiita.com/AkkeyLab/items/3919d0921b1c257f5ba9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "小ネタ集",
+      "author" : "@S_Shimotori",
+      "day" : 18,
+      "url" : "https://s-shimotori.hatenablog.com/entry/2021/12/18/165834"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swift Concurrencyを使って既存のクロージャベースな非同期処理を残しつつasyncメソッドを追加していきたい話",
+      "author" : "@yimajo",
+      "day" : 19,
+      "url" : "https://qiita.com/yimajo/items/085fdb89afb3b0a9711d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Danger-Swift のプラグインを SwiftPM で導入する手引き",
+      "author" : "@lovee",
+      "day" : 20,
+      "url" : "https://qiita.com/lovee/items/42aa886605a65938b60e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Swift] iOS14 から使える UICollectionView の CellRegistration を拡張する",
+      "author" : "@hcrane",
+      "day" : 21,
+      "url" : "https://qiita.com/hcrane/items/c89a256130040adb46dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GlobalActorとTaskを使う際の実行スレッドがメインスレッドなのかを速攻で思い出すためのサンプルコード",
+      "author" : "@yimajo",
+      "day" : 22,
+      "url" : "https://qiita.com/yimajo/items/90b298d2e457a308a7a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@treastrain"
+    }
+  ]
+}

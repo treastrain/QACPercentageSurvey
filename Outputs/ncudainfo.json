@@ -1,0 +1,139 @@
+{
+  "created_at" : "2021-12-24T04:03:25Z",
+  "calendar_meta_data" : {
+    "author" : "@ekedu",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "【非公式】NCU芸工情報 Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "ncudainfo",
+    "url" : "https://qiita.com/advent-calendar/2021/ncudainfo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft Teamsで新しいチームを作る",
+      "author" : "@ekedu",
+      "day" : 4,
+      "url" : "https://qiita.com/ekedu/items/cd8135f5ed5d77e2ab31"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Studio Code インストール方法(mac版)",
+      "author" : "@ShintaroTate",
+      "day" : 8,
+      "url" : "https://qiita.com/ShintaroTate/items/3a2e0255754a751ec789"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリエイティブ作品のオンライン展示会訪問",
+      "author" : "@ekedu",
+      "day" : 9,
+      "url" : "https://qiita.com/ekedu/items/ccc572c53d831f1ca82e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YOLOv5を使って動画から物体検出をする",
+      "author" : "@KSNYOooO",
+      "day" : 10,
+      "url" : "https://qiita.com/KSNYOooO/items/628af72f9e68c3019b9e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps Script(GAS) で画像をリサイズする",
+      "author" : "@yamo",
+      "day" : 11,
+      "url" : "https://zenn.dev/yamo/articles/c0c6d51c7d625c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Virtual Agentsを初めて触る方へ",
+      "author" : "@ktr_ch",
+      "day" : 12,
+      "url" : "https://qiita.com/ktr_ch/items/91043b0ea14b303b6988"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VS Code インストール方法(mac版)",
+      "author" : "@state159",
+      "day" : 21,
+      "url" : "https://qiita.com/state159/items/bd6e7a8ddb29e65fd5f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityで紙吹雪演出をする",
+      "author" : "@serari",
+      "day" : 24,
+      "url" : "https://qiita.com/serari/items/ace233cea6007667e634"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

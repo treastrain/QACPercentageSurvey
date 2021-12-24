@@ -1,0 +1,135 @@
+{
+  "created_at" : "2021-12-24T06:02:19Z",
+  "calendar_meta_data" : {
+    "author" : "@kaizen_nagoya",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 2,
+    "title" : "法政大学 Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "hosei-university",
+    "url" : "https://qiita.com/advent-calendar/2021/hosei-university"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "法政大学 三題噺",
+      "author" : "@kaizen_nagoya",
+      "day" : 1,
+      "url" : "https://qiita.com/kaizen_nagoya/items/030dd5ae8dd63c2b2737"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "法政大学 Advent Calendar 2021 を満席にする5つの方法",
+      "author" : "@kaizen_nagoya",
+      "day" : 2,
+      "url" : "https://qiita.com/kaizen_nagoya/items/8bf80c72b9ef59ff5704"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@gitloveme"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebブラウザでPDFのページにしおりをはさむやり方",
+      "author" : "@shizu",
+      "day" : 6,
+      "url" : "https://qiita.com/shizu/items/9417890dc240221fcc58"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@debu-despot 「「見える化」の語感が何故ダサいのか」と違和感",
+      "author" : "@kaizen_nagoya",
+      "day" : 15,
+      "url" : "https://qiita.com/kaizen_nagoya/items/ec7fa8ad71f61d8294de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@kazuo_reve「「新人の方によく展開している有益な情報」の中で大学時代に得ておけばよかった情報」に付け加える3つのこと。",
+      "author" : "@kaizen_nagoya",
+      "day" : 16,
+      "url" : "https://qiita.com/kaizen_nagoya/items/36bc634d5eb092c5b759"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendar 協賛者を分析",
+      "author" : "@kaizen_nagoya",
+      "day" : 17,
+      "url" : "https://qiita.com/kaizen_nagoya/items/9f551296bd9e593686cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@kaizen_nagoya"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

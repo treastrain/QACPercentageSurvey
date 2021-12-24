@@ -1,0 +1,152 @@
+{
+  "created_at" : "2021-12-24T07:57:44Z",
+  "calendar_meta_data" : {
+    "author" : "@cactaceae",
+    "category" : "プログラミング言語",
+    "lgtm" : 8,
+    "subscribers" : 39,
+    "title" : "Scala Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "scala",
+    "url" : "https://qiita.com/advent-calendar/2021/scala"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Essential Effects を読んで Cats Effect を勉強した",
+      "author" : "@tanishiking",
+      "day" : 1,
+      "url" : "https://tanishiking24.hatenablog.com/entry/2021/12/01/161058"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "scala-scraper を使ってお手軽 Web スクレイピング",
+      "author" : "@exoego",
+      "day" : 2,
+      "url" : "https://zenn.dev/exoego/scraps/16aeafeb6034b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "sbt の Docker image を探したり作ったり",
+      "author" : "@maigo_name",
+      "day" : 4,
+      "url" : "https://zenn.dev/maigo_name/articles/ae505be95cbd1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務と個人でScalaを使って感じたScalaのメリット・デメリット",
+      "author" : "@yoshikyoto",
+      "day" : 5,
+      "url" : "https://www.utakata.work/entry/scala/advent-calendar-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scala クロスビルド用バージョンを一元管理する GitHub Action を作りました",
+      "author" : "@exoego",
+      "day" : 7,
+      "url" : "https://zenn.dev/exoego/articles/a7832a7f95c669"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Akka Actors を便利につかう",
+      "author" : "@hayasshi",
+      "day" : 9,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/10/183503"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scalaで一番easyな構成を考えた(autowireの紹介)",
+      "author" : "@cactaceae",
+      "day" : 14,
+      "url" : "https://qiita.com/cactaceae/items/47cf9d637767b287477d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scala3の列挙型(enum)を試す",
+      "author" : "@nnhiguchi",
+      "day" : 15,
+      "url" : "https://qiita.com/nnhiguchi/items/5545d142f19266a5119b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AkkaのPersistence (Event Sourcing)について",
+      "author" : "@taketora",
+      "day" : 16,
+      "url" : "https://zenn.dev/taketora/articles/5b1fc78932656c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ZIO2.0について",
+      "author" : "@takatori",
+      "day" : 17,
+      "url" : "https://takatorix.hatenablog.com/entry/2021/12/16/235154"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scala 3 で導入されたカインド多相 (kind polymorphism) とは",
+      "author" : "@tnagao7",
+      "day" : 20,
+      "url" : "https://qiita.com/tnagao7/items/2301c92f01b6cbf0a4eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@maigo_name"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slickをデータベースのバックエンドとして採用する時のインターフェース",
+      "author" : "@j_kugiya",
+      "day" : 23,
+      "url" : "https://zenn.dev/jkugiya/articles/slick-backend"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

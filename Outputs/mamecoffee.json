@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T07:04:55Z",
+  "calendar_meta_data" : {
+    "author" : "@_mamezou_",
+    "category" : "企業・学校・団体",
+    "lgtm" : 81,
+    "subscribers" : 6,
+    "title" : "まめコーヒーアドベントカレンダー Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "mamecoffee",
+    "url" : "https://qiita.com/advent-calendar/2021/mamecoffee"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "コミュニティのすゝめ",
+      "author" : "@_mamezou_",
+      "day" : 1,
+      "url" : "https://qiita.com/_mamezou_/items/84029582ffb0670986f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Well-Architected Frameworkの概要",
+      "author" : "@_mamezou_",
+      "day" : 2,
+      "url" : "https://abillyz.com/mamezou/studies/49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これから勉強会を開催する方へ伝えたいこと4つ",
+      "author" : "@slowshrike",
+      "day" : 3,
+      "url" : "https://qiita.com/slowshrike/items/fb985896d27cd4a099d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マネジメントコンソールで冗長化したWordPressの環境を作る手順【AWS】",
+      "author" : "@_mamezou_",
+      "day" : 4,
+      "url" : "https://abillyz.com/mamezou/studies/55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKバージョン2でnslookupウェブアプリを作る",
+      "author" : "@vclbuff",
+      "day" : 5,
+      "url" : "https://abillyz.com/vclbuff/studies/59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いろんなもくもく会に参加して",
+      "author" : "@zanjibar",
+      "day" : 6,
+      "url" : "https://note.com/zanjibar/n/n26241b4df2c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rcloneを使ってGoogle共有ドライブにファイルアップロードしてみた",
+      "author" : "@Yuhta",
+      "day" : 7,
+      "url" : "https://zenn.dev/yuta28/articles/rclone-upload-gdrive"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Redmineでコーヒーの焙煎記録を管理したいと考えている件",
+      "author" : "@amarelo_n24",
+      "day" : 8,
+      "url" : "https://qiita.com/amarelo_n24/items/7fe3dcf69a7cfe0d6116"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テレワークのエンジニアにオススメコーヒー",
+      "author" : "@kohei_04",
+      "day" : 9,
+      "url" : "https://qiita.com/kohei_04/items/147926cc5d88dae21624"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オフラインもくもく会の失敗事例",
+      "author" : "@G-san",
+      "day" : 10,
+      "url" : "https://qiita.com/G-san/items/860c411f8cf5f3764a09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "strongSwanでサイト間VPNをAWSで張る",
+      "author" : "@_mamezou_",
+      "day" : 11,
+      "url" : "https://abillyz.com/mamezou/studies/101"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsにAWSクレデンシャル情報を渡さずにTerraformでCI/CDをやってみた",
+      "author" : "@Yuhta",
+      "day" : 12,
+      "url" : "https://zenn.dev/yuta28/articles/terraform-gha"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Argocd notificationsでMS Teamsに通知",
+      "author" : "@m0121",
+      "day" : 13,
+      "url" : "https://mo3789530.hatenablog.com/entry/2021/12/13/205842?_ga=2.83055122.529735174.1639394383-651421945.1596373974"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NestJSのUnitTestでsqlite3を使う方法",
+      "author" : "@m0121",
+      "day" : 14,
+      "url" : "https://mo3789530.hatenablog.com/entry/2021/12/14/214308?_ga=2.107566342.529735174.1639394383-651421945.1596373974"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NSwagでBuild時にclient側のSwaggerを自動生成する(NSwagの紹介)",
+      "author" : "@kakumeikatakesi",
+      "day" : 15,
+      "url" : "https://qiita.com/kakumeikatakesi/items/f7adf36b86fadea5d898"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オフライン勉強会開催後の振り返り",
+      "author" : "@slowshrike",
+      "day" : 16,
+      "url" : "https://qiita.com/slowshrike/items/c5018d3a130493d0fcbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験エンジニアがやったこと・やるべきこと",
+      "author" : "@_yuki0302_",
+      "day" : 17,
+      "url" : "https://qiita.com/_yuki0302_/items/8987862c3e8c3c64e5e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonでコーヒー豆を数えるだけ",
+      "author" : "@G-san",
+      "day" : 18,
+      "url" : "https://qiita.com/G-san/items/e840203791c02d0e51ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音声ショッピングの未来についての妄想",
+      "author" : "@vui_rie",
+      "day" : 19,
+      "url" : "https://note.com/r9i9e/n/n59d66331067c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コーヒーのポートフォリオサイトを作りました！！",
+      "author" : "@kohei_04",
+      "day" : 20,
+      "url" : "https://qiita.com/kohei_04/items/8d54a19a308ce7d5a3de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラマとコーヒー",
+      "author" : "@kaizen_nagoya",
+      "day" : 21,
+      "url" : "https://qiita.com/kaizen_nagoya/items/1d20e3c4d3efe2582397"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@sardine_bird"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt × TypeScriptにおける型セーフなコンポーネント設計を考える",
+      "author" : "@kakumeikatakesi",
+      "day" : 23,
+      "url" : "https://qiita.com/kakumeikatakesi/items/7a63b9b617ff1e2b78c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "水やりを自動化して、ポトスを元気にする",
+      "author" : "@G-san",
+      "day" : 24,
+      "url" : "https://qiita.com/G-san/items/7cca79c1e5ffa609dd8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@_mamezou_"
+    }
+  ]
+}

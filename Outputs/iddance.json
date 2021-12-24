@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-24T12:16:51Z",
+  "calendar_meta_data" : {
+    "author" : "@ritou",
+    "category" : "Webテクノロジー",
+    "lgtm" : 71,
+    "subscribers" : 36,
+    "title" : "Digital Identity技術勉強会 #iddance Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "iddance",
+    "url" : "https://qiita.com/advent-calendar/2021/iddance"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GNAP超入門 ~ OAuth 2.0との違いとは",
+      "author" : "@ritou",
+      "day" : 1,
+      "url" : "https://ritou.hatenablog.com/entry/2021/12/01/163000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Grant Management for OAuth 2.0",
+      "author" : "@TakahikoKawasaki",
+      "day" : 2,
+      "url" : "https://qiita.com/TakahikoKawasaki/items/605a4dc319e9f1343331"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IETF OAuth WGの仕様全部...じゃなく差分見る - 2021/12",
+      "author" : "@ritou",
+      "day" : 3,
+      "url" : "https://zenn.dev/ritou/articles/aa99fabb810cff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レゴブロックで整理する認証方式の段階/要素",
+      "author" : "@ritou",
+      "day" : 4,
+      "url" : "https://zenn.dev/ritou/articles/ea144bcf7e680e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Transformed Claimsについて個人的に思うこと",
+      "author" : "@Frog_kt",
+      "day" : 5,
+      "url" : "https://zenn.dev/frog/articles/42c80598a42a08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BBS+ Signature Scheme理解メモ (1) - 署名・検証アルゴリズム",
+      "author" : "@kazuhideYS",
+      "day" : 6,
+      "url" : "https://qiita.com/kazuhideYS/items/1bac1c277e5e45385f08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IDサーバのOSS、ORY Kratosを試してみる",
+      "author" : "@sawadashota",
+      "day" : 7,
+      "url" : "https://qiita.com/sawadashota/items/e76e96408ffd9e11f268"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OAuthの認可フローにおけるエラーレスポンス等を用いたフィッシングリスクについて",
+      "author" : "@ritou",
+      "day" : 8,
+      "url" : "https://zenn.dev/ritou/articles/75b0e231888c2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FedCM(Federated Credential Management API)を実装して動かしてみた",
+      "author" : "@kazuki229",
+      "day" : 9,
+      "url" : "https://qiita.com/kazuki229/items/f7690fad0a4716ef72b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAMLの証明書更新のお話",
+      "author" : "@wadahiro",
+      "day" : 10,
+      "url" : "https://zenn.dev/wadahiro/articles/61d39d263dd9e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Token Exchange Grantについて",
+      "author" : "@kokukuma",
+      "day" : 11,
+      "url" : "https://qiita.com/kokukuma/items/34b5aacad9fd9a894730"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【永久保存版】OAuth 2.0 / OpenID Connect シーケンスまとめ",
+      "author" : "@kura_lab",
+      "day" : 12,
+      "url" : "https://qiita.com/kura_lab/items/812a62b5aa3427bdb49d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Auth0 と auth0-spa-js を使った独自Backend APIのアクセス制御方法の整理",
+      "author" : "@corocn",
+      "day" : 13,
+      "url" : "https://zenn.dev/corocn/articles/374b8695da9411"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@samiii"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPAでのバックエンド認証用トークンの管理方法に関する考察",
+      "author" : "@unhurried",
+      "day" : 15,
+      "url" : "https://qiita.com/unhurried/items/e9f751dcdfc0900947ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Compact じゃない JWS Serialization",
+      "author" : "@lemiyachi",
+      "day" : 16,
+      "url" : "https://qiita.com/lemiyachi/items/e5937c4fc438707c554c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@nhosoya"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@kura_lab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitter OAuth2.0の正式提供版について",
+      "author" : "@kg0r0",
+      "day" : 19,
+      "url" : "https://zenn.dev/kg0r0/articles/8b1cfe654a1cee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go 製の認可サーバー、IdP 実装用ライブラリ Fosite",
+      "author" : "@inabajunmr",
+      "day" : 20,
+      "url" : "https://zenn.dev/inabajunmr/articles/introduce-ory-fosite"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JWTの発音問題について",
+      "author" : "@s01",
+      "day" : 21,
+      "url" : "https://d.s01.ninja/entry/20211221/1640012400"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebAuthn Level3で追加されるConditional UI",
+      "author" : "@ynojima",
+      "day" : 22,
+      "url" : "https://www.sharplab.net/blog/2021/12/21/webauthn-level3%E3%81%A7%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%82%8Bconditional-ui/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@ayokura"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@i7a7467"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ritou"
+    }
+  ]
+}

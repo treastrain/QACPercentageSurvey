@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T05:00:04Z",
+  "calendar_meta_data" : {
+    "author" : "HRBrain",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 4,
+    "title" : "HRBrain Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "hrbrain",
+    "url" : "https://qiita.com/advent-calendar/2021/hrbrain"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービスのローカル開発をTiltでちょっと楽にする",
+      "author" : "@4486",
+      "day" : 1,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/01/tilt"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goの構造体のバイナリエンコーディングを速くしたい",
+      "author" : "@hrb-takahashi-yu",
+      "day" : 2,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/01/go-struct-encode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モノレポで大量に作成されるRenovateのPRに負けないための施策",
+      "author" : "@hoshiin",
+      "day" : 3,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/03/renovate-config"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Volume control from terminal in Go",
+      "author" : "@mowazzem",
+      "day" : 4,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/04/Volume_control_from_terminal_in_Go"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ストリート育ちのデザイナーがこの先生きのこるには",
+      "author" : "@hrb-matsudo",
+      "day" : 5,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/4/street-designer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年聴いたPodcastのおすすめTech系エピソード5選",
+      "author" : "@ymatzki",
+      "day" : 6,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/06/recommend-podcast-episodes"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キャリアメールをちゃんと届ける技術",
+      "author" : "@yudppp",
+      "day" : 7,
+      "url" : "https://times.hrbrain.co.jp/entry/delivery-career-mail"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社に伴い服を買いに行く服が無かったのでairClosetを使ってみた件について",
+      "author" : "@hrb-ohashi",
+      "day" : 8,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/08/fashion"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社から1年、CS業務のテックタッチ化に挑む話",
+      "author" : "@takenawa_sota",
+      "day" : 9,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HRBrainの人事評価サービスにおけるSLO運用",
+      "author" : "@tonarinohey",
+      "day" : 10,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/10/slo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "50連フルカラーLEDを制御してお家クリスマスイルミネーション",
+      "author" : "@goodtea0223",
+      "day" : 11,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/11/50%E9%80%A3%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCLED%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%97%E3%81%A6%E3%81%8A%E5%AE%B6%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CS業務のテックタッチ化に挑む Part2〜コードを書くようになった話〜",
+      "author" : "@k_tohiski",
+      "day" : 12,
+      "url" : "https://qiita.com/k_tohiski/items/f199bc219c311776fbf0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenAPIスキーマから生成したmockをテストで使い倒す",
+      "author" : "@purpleeeee",
+      "day" : 13,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/13/open-api-mock"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "成長を支援する取り組み「HRBrain流ドラッカー風エクササイズ」",
+      "author" : "@y_yue",
+      "day" : 14,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/14/the-drucker-exercise"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EX◯LEよりも先に武道館に立った新米プロダクトマネージャーの挑戦",
+      "author" : "@ryosuke77777",
+      "day" : 15,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/15/rookie-PdM-try"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情シス目線から見えている会社の話",
+      "author" : "@hrb-nagasaki",
+      "day" : 16,
+      "url" : "https://times.hrbrain.co.jp/entry/corporate-engineer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めての新規プランコンテスト",
+      "author" : "@ssossan",
+      "day" : 17,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/17/contest"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubのプルリクマージでJIRAの修正バージョンを自動付与する",
+      "author" : "@fujiwaram",
+      "day" : 18,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/18/jira-auto-fix-version"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社後1ヶ月でチームリーダーとなった新入社員が感情ベースでメンバーに向き合った話",
+      "author" : "@darkro",
+      "day" : 19,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/20/team-building"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアをグローバルに採用すると決めてから、考えたこと、今取り組んでいること",
+      "author" : "@hrbabe",
+      "day" : 20,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/21/global-recruiting"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "別業界からきて４ヶ月！今思っていること",
+      "author" : "@mioin",
+      "day" : 21,
+      "url" : "https://times.hrbrain.co.jp/entry/4months"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "現PdM元藝大生がブルーピリオドから読み解く、ものづくりとプロダクト開発の類似性",
+      "author" : "@minamikkk",
+      "day" : 22,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/22/creative-similarity"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "独断と偏見で2010年代を振り返り、デザインの未来を見つめる",
+      "author" : "@hrb-ando-kaoru",
+      "day" : 23,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/23/looking-back-on-2010s"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 人事からみるHRBrainの人ってどんな人？という話",
+      "author" : "@hrb-oki",
+      "day" : 24,
+      "url" : "https://times.hrbrain.co.jp/entry/2021/12/24/Members-Introduction"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Masatoshi_Uchida"
+    }
+  ]
+}

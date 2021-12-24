@@ -1,0 +1,150 @@
+{
+  "created_at" : "2021-12-22T13:42:55Z",
+  "calendar_meta_data" : {
+    "author" : "@cvusk",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 84,
+    "subscribers" : 66,
+    "title" : "MLOps Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "mlops",
+    "url" : "https://qiita.com/advent-calendar/2021/mlops"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "MLOpsの知見をオープンにする",
+      "author" : "@cvusk",
+      "day" : 1,
+      "url" : "https://qiita.com/cvusk/items/74805e5e889017ede0b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのデータドリフト",
+      "author" : "@tshowis",
+      "day" : 2,
+      "url" : "https://qiita.com/tshowis/items/f4c1f5579079e4d264d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DataRobot × Vertex Feature Storeで実現するオンライン推論",
+      "author" : "@ptatecom",
+      "day" : 3,
+      "url" : "https://qiita.com/ptatecom/items/67292d7aad720f0801d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@kanta_yamaoka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AIプロダクト品質保証ガイドライン（QA4AIガイドライン）を用いたAIプロダクトの品質保証",
+      "author" : "@iusami",
+      "day" : 14,
+      "url" : "https://qiita.com/iusami/items/62d236ae7e3c8b8d1d5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@dhirooka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレML学習環境の構築（少人数）",
+      "author" : "@tamakihime",
+      "day" : 16,
+      "url" : "https://qiita.com/tamakihime/items/4eacd4ac97c03c89e84f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AI platformで作ったML基盤をお手軽に監視する方法",
+      "author" : "@canonrock16",
+      "day" : 17,
+      "url" : "https://qiita.com/canonrock16/items/31807655bd2ceb81b4b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MLOps系プロダクトの布教活動報告",
+      "author" : "@kazunori279",
+      "day" : 18,
+      "url" : "https://qiita.com/kazunori279/items/8f315250058206526aa1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Introduction to Data Validation: MLOps における重要性とその分類、実用上の注意点について",
+      "author" : "@AseiSugiyama",
+      "day" : 19,
+      "url" : "https://qiita.com/AseiSugiyama/items/4e74fe788d07ba6906bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Machine Learning + Azure Databricks で実験管理とパイプライン構築を試してみた話",
+      "author" : "@ShuntaIto",
+      "day" : 20,
+      "url" : "https://qiita.com/ShuntaIto/items/98676a4e85d1cf5af52e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MLflow+AWS+SageMakerの環境を立ち上げる",
+      "author" : "@highitoh",
+      "day" : 21,
+      "url" : "https://qiita.com/highitoh/items/c063a11981d23978f820"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@keonabut"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@taikiinoue45"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shisyu_gaku"
+    }
+  ]
+}

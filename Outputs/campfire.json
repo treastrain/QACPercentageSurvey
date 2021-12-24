@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T08:51:44Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社CAMPFIRE",
+    "category" : "企業・学校・団体",
+    "lgtm" : 59,
+    "subscribers" : 13,
+    "title" : "CAMPFIRE Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "campfire",
+    "url" : "https://qiita.com/advent-calendar/2021/campfire"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "カラフルな世界を目指して",
+      "author" : "@hbkr",
+      "day" : 1,
+      "url" : "https://ieiri.co/n/n43f6423fd4d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクションミーティングをやってみた",
+      "author" : "@yuzoiwasaki",
+      "day" : 2,
+      "url" : "https://note.com/campfire_dev/n/n9798f6d18182"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ダッシュボードのリニューアルプロジェクトにユーザーテストを取り入れた話",
+      "author" : "@sunada_sunada",
+      "day" : 3,
+      "url" : "https://note.com/sunara/n/n3c7813d7f42d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の開発を振り返る",
+      "author" : "@pyonk",
+      "day" : 4,
+      "url" : "https://pyonk.github.io/blog/posts/campfire-adventcalendar-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークによる変化",
+      "author" : "@dkai",
+      "day" : 5,
+      "url" : "https://note.com/dkai/n/n7f5ae8e917bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザで動くドット絵なゲームを作る！",
+      "author" : "@koichi-hasegawa",
+      "day" : 6,
+      "url" : "https://qiita.com/koichi-hasegawa/items/af96293c29d1f2474847"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CAMPFIREクラウドファンディングアワードについて",
+      "author" : "@oshiokeiko",
+      "day" : 7,
+      "url" : "https://note.com/keiko03ad049/n/n74fc960a390b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "より良いデザイン批評をするために",
+      "author" : "@ykkp",
+      "day" : 8,
+      "url" : "https://note.com/yukakka/n/n7b671c499281"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CAMPFIREアプリの2021年",
+      "author" : "@tomoki_sun",
+      "day" : 9,
+      "url" : "https://note.com/tomoki_sun/n/n89539c6c3e3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CAMPFIRE開発チームにおける独自のユーザーサポート対応文化について",
+      "author" : "@ishimizu-cmpqiita",
+      "day" : 10,
+      "url" : "https://qiita.com/ishimizu-cmpqiita/items/147d35f49acb5e852b4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワーク入社から今までの取り組み",
+      "author" : "@takayama26",
+      "day" : 11,
+      "url" : "https://qiita.com/takayama26/items/5e9770a0dd433db7a2af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spotifyで再生回数が1番多かった曲を共有する",
+      "author" : "@waaaaall",
+      "day" : 12,
+      "url" : "https://zenn.dev/waaaaall/articles/f3dd2c82c9def8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新メンバーを迎えるための開発ドキュメント",
+      "author" : "@matinana",
+      "day" : 13,
+      "url" : "https://qiita.com/matinana/items/40c25e9f928d7ca5a72b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "話題のAmplify Studioを触ってみた&感想",
+      "author" : "@east_takumi",
+      "day" : 14,
+      "url" : "https://zenn.dev/east_takumi/articles/211214-amplify_studio_beginner"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワーク有用の素敵なメンバーを紹介するぜ！",
+      "author" : "@404ykrn",
+      "day" : 15,
+      "url" : "https://qiita.com/404ykrn/items/68962f8a42c01e439da1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【コスト削減】検証環境をSlackから停止できるようにした話【QA止める君】",
+      "author" : "@sakaki-cf",
+      "day" : 16,
+      "url" : "https://qiita.com/sakaki-cf/items/ea5a75e149452c1f5810"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年、私にとってのビッグニュース！",
+      "author" : "@miiyukii",
+      "day" : 17,
+      "url" : "https://note.com/_miyukich_/n/nebabca8ac6a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "将来のキャリアを今考えるのって難しくない？と思うデザイナーに知ってほしい「偶然を計画する」考え方",
+      "author" : "@623px",
+      "day" : 18,
+      "url" : "https://note.com/623px/n/n57e1e30e490a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DiscordのAPIをちょっと触ってみる",
+      "author" : "@tan",
+      "day" : 19,
+      "url" : "https://qiita.com/tan/items/d876fca53615e5dba85b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングを少し使って今流行りの電脳せどり物販のリサーチを半自動化してみた",
+      "author" : "@tatsuya223",
+      "day" : 20,
+      "url" : "https://qiita.com/tatsuya223/items/77dc22b45d9222f22ab9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YouTube Data API使ってRailsでYoutubeチャンネル情報を取得してみた",
+      "author" : "@saksakl",
+      "day" : 21,
+      "url" : "https://note.com/sleaflet/n/n24cad629cd71"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フルリモートワークの社員がフロー状態に入るために実践していること",
+      "author" : "@Saudade56",
+      "day" : 22,
+      "url" : "https://note.com/saudade56/n/n1e4503528e1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CAMPFIREに入社したけど実際どうなの？",
+      "author" : "@iamokayu",
+      "day" : 23,
+      "url" : "https://note.com/i_am_okayu/n/nce5d139383c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@momotarabitch"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@mason_q"
+    }
+  ]
+}

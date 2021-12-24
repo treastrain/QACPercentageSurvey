@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T13:45:00Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エニグモ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 3,
+    "title" : "Enigmo Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "enigmo",
+    "url" : "https://qiita.com/advent-calendar/2021/enigmo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアインタビュー 第7回 加藤春樹さん編",
+      "author" : "@yashio",
+      "day" : 1,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/01/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コーポレートITの未来を考えた話",
+      "author" : "@enigmo7",
+      "day" : 2,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/02/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おすすめポモドーロアプリ4選徹底比較！ポモドーロテクニックによる時間管理術",
+      "author" : "@enigmo7",
+      "day" : 3,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/03/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OhMyZshからZinitに乗り換えてみた話",
+      "author" : "@okamotchan",
+      "day" : 6,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/06/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "決定木分析を使用して、データ分析を行った話",
+      "author" : "@enigmo7",
+      "day" : 7,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/07/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロジェクトを運用しての学び8つのこと",
+      "author" : "@hokita222",
+      "day" : 8,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/08/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS移行のため、大規模で複雑な負荷テストをやった話",
+      "author" : "@takayama_eg",
+      "day" : 9,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/09/110010"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryとAirtableをGASとZapierで自動連携してNPSアンケートチェックを効率化した話",
+      "author" : "@enigmo7",
+      "day" : 10,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/10/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BUYMAのWebディレクター（PdM）紹介／エニグモの魅力は？UXDグループとは？インタビューしました！",
+      "author" : "@enigmo7",
+      "day" : 11,
+      "url" : "https://www.wantedly.com/companies/enigmo/post_articles/365288"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraformにまつわる運用tips的なもの",
+      "author" : "@enigmo7",
+      "day" : 12,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/12/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "移行パターン（ストラングラー、抽象化ブランチ、同時実行）を活用してブラックフライデーを乗り切った負荷対策",
+      "author" : "@kmrshntr",
+      "day" : 13,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/13/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シェルスクリプトの実装に潜む 4 つの罠",
+      "author" : "@sean0628_i",
+      "day" : 14,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/14/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MLOpsはじめました",
+      "author" : "@pma1013",
+      "day" : 15,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/15/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "受注リストRails化プロジェクトについて",
+      "author" : "@sodaihirai",
+      "day" : 16,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/16/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Googleスプレットシートのオリジナル関数作ってみた",
+      "author" : "@kmt47",
+      "day" : 17,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/17/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あんしんしてお買い物してもらうためのカートUIリニューアルの裏側",
+      "author" : "@enigmo7",
+      "day" : 18,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/18/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASとスプレッドシートを使ったOkta管理の一例",
+      "author" : "@enigmo7",
+      "day" : 19,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/19/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.js + Material UI でアプリケーションを作る",
+      "author" : "@mterada1228",
+      "day" : 20,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/20/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "New Normalなオフィス作り",
+      "author" : "@enigmo7",
+      "day" : 21,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/21/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "macOS で Docker 環境をどう早くしたか",
+      "author" : "@ershnsyn",
+      "day" : 22,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/22/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache Airflowを使ってみた感想",
+      "author" : "@enigmo7",
+      "day" : 23,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/23/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレミスMySQLをAuroraへ移行する際に、困ったこととその対応 ",
+      "author" : "@enigmo7",
+      "day" : 24,
+      "url" : "https://tech.enigmo.co.jp/entry/2021/12/24/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@enigmo7"
+    }
+  ]
+}

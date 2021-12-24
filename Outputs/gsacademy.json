@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T04:26:32Z",
+  "calendar_meta_data" : {
+    "author" : "@kanomi",
+    "category" : "企業・学校・団体",
+    "lgtm" : 122,
+    "subscribers" : 5,
+    "title" : "ジーズアカデミー Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "gsacademy",
+    "url" : "https://qiita.com/advent-calendar/2021/gsacademy"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "講義をDXする（2部構成になったから後半は前半の記事内にリンク張ったw）",
+      "author" : "@taro_osg",
+      "day" : 1,
+      "url" : "https://taroosg.io/dx-the-lecture-01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AIへの好奇心が強すぎて公務員を退職し、『この人狂ってる』と言われた未経験エンジニアの競馬予想AIアプリ開発記録",
+      "author" : "@philosophy_note",
+      "day" : 2,
+      "url" : "https://qiita.com/philosophy_note/items/0b6f8751e61728c26d30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリエイティブになりたいあなたに聞いて欲しい話。",
+      "author" : "@watarubull",
+      "day" : 3,
+      "url" : "https://note.com/wataru_igarashi/n/n12e8edebad23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "受講生、チューター、スタッフからみたジーズアカデミー",
+      "author" : "@sachioka",
+      "day" : 4,
+      "url" : "https://note.com/sachioka/n/n35997ece984d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webサービス創ろうとプログラミング始めたら、フロー体験した話",
+      "author" : "@yoshie_nagatomo",
+      "day" : 5,
+      "url" : "https://note.com/yoshie_azegami/n/nd505335131d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 リモートワークのメンタルヘルス向上のために試したこと&反省点",
+      "author" : "@Riooon",
+      "day" : 6,
+      "url" : "https://note.com/rioon/n/nc20f4c3d5db3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いいな、いいな、学ぶっていいな",
+      "author" : "@ke-ta29",
+      "day" : 7,
+      "url" : "https://note.com/bizandcoffee/n/ncf666352098f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "山口にG'sがやってきた話！",
+      "author" : "@kazuki_takata",
+      "day" : 8,
+      "url" : "https://note.com/gs_yam_dev01/n/n0a578d0870f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語を習得するにはビールが良い、じゃあ、プログラミングは？",
+      "author" : "@Ponyukko",
+      "day" : 9,
+      "url" : "https://note.com/shinewithyuki/n/n327ba53d0a46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "兼業主婦ですが、なにか？〜自ら作った時間と努力は裏切らない〜",
+      "author" : "@broccolibroccolibroccoli",
+      "day" : 10,
+      "url" : "https://qiita.com/broccolibroccolibroccoli/items/6f902c93929de1a96d35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "球技とプログラミングは似ている件",
+      "author" : "@michiko071",
+      "day" : 11,
+      "url" : "https://qiita.com/michiko071/items/20514c2bb7778f3ab4cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "面倒な水替えを自動化！RaspberryPiで自動水替えシステム作ってみた。WIP",
+      "author" : "@Earthfreedom",
+      "day" : 12,
+      "url" : "https://qiita.com/Earthfreedom/items/e039de4ea29903649003"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いきなりフリーランスをやってヒヤッとしたときの話",
+      "author" : "@YukiOmori",
+      "day" : 13,
+      "url" : "https://qiita.com/YukiOmori/items/05b6993ab0619a7f3dee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ジーズアカデミーで作成したプロダクト集",
+      "author" : "@worldwideweb13",
+      "day" : 14,
+      "url" : "https://qiita.com/worldwideweb13/items/95f51b9a5f592a8e5f6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "わたしとG’sと心理的安全性",
+      "author" : "@tat_mae084",
+      "day" : 15,
+      "url" : "https://note.com/ttymet084/n/n27ac0e5f3da0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「50代で、今さら、なぜ起業＆プログラミングを学ぶのか？」",
+      "author" : "@sing",
+      "day" : 16,
+      "url" : "https://note.com/omalley1967/n/nee8e55357d36"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブロックチェーンとの出会いと共感",
+      "author" : "@masharl",
+      "day" : 17,
+      "url" : "https://note.com/masharls/n/ne9e39304505e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「1位じゃなきゃダメなんですか？」に対するマイアンサー",
+      "author" : "@cacomir1008",
+      "day" : 18,
+      "url" : "https://note.com/mousoutrip/n/nbc1953165ca3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大切な事は全てプログラミングが教えてくれた",
+      "author" : "@Taijiro_Inoue",
+      "day" : 19,
+      "url" : "https://note.com/taijiro/n/n95a3ae114617"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "G'sに入学して感じた今年分の感謝を綴ります",
+      "author" : "@05-takuto-M",
+      "day" : 20,
+      "url" : "https://note.com/takuto1979/n/nc905e8824013"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2週間でMVPを開発し鎌倉で50組をナンパした結果",
+      "author" : "@Kendai",
+      "day" : 21,
+      "url" : "https://note.com/kendai/n/nb593d20d23b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "拝啓、子ども向けサービスに興味があるエンジニアへ。とにかくwebエンジニアが欲しいEdTechスタートアップのゼロイチ開発を振り返る",
+      "author" : "@mataki_tanaka",
+      "day" : 22,
+      "url" : "https://qiita.com/mataki_tanaka/items/dd8e2e80f4abac196222"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "教える仕事をして学んだこと",
+      "author" : "@Daisky",
+      "day" : 23,
+      "url" : "https://note.com/daisky/n/nfb332929b60b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Hiroyasukodama"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@daisu_yamazaki"
+    }
+  ]
+}

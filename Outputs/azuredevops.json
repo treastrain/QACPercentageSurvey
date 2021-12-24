@@ -1,0 +1,149 @@
+{
+  "created_at" : "2021-12-24T13:41:50Z",
+  "calendar_meta_data" : {
+    "author" : "@kkamegawa",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 7,
+    "subscribers" : 47,
+    "title" : "Azure DevOps Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "azuredevops",
+    "url" : "https://qiita.com/advent-calendar/2021/azuredevops"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure DevOps ServiceでのTLS 1.0/1.1廃止の話",
+      "author" : "@kkamegawa",
+      "day" : 1,
+      "url" : "https://kkamegawa.hatenablog.jp/entry/2021/12/01/061354"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure PipelinesのYAMLでXamarin.Forms製アプリのApp Center配布パイプラインを構築する方法",
+      "author" : "@uhooi",
+      "day" : 2,
+      "url" : "https://qiita.com/uhooi/items/a4bb5282eed708dadb40"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムプロジェクトを始める時のAzure DevOps設定例",
+      "author" : "@zt_megane",
+      "day" : 3,
+      "url" : "https://blog.nextscape.net/archives/azuredevops_scrum"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Pipelines Tips 8 選",
+      "author" : "@KoKeCross",
+      "day" : 4,
+      "url" : "https://qiita.com/KoKeCross/items/a8ab06d313147b6230b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Pipelines で SQL Server LocalDB を用いたテストを実行する",
+      "author" : "@tsuna_can_se",
+      "day" : 6,
+      "url" : "https://tsuna-can.hateblo.jp/entry/2021/12/05/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure DevOps CLI 完全ガイド",
+      "author" : "@azukipochette",
+      "day" : 8,
+      "url" : "https://azukipochette.hatenablog.com/entry/2021/12/08/000742"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Pipelinesから Azure Load Testingの負荷テストを実施する",
+      "author" : "@kkamegawa",
+      "day" : 12,
+      "url" : "https://kkamegawa.hatenablog.jp/entry/2021/12/12/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure DevOps Sprint 196リリースノートの話",
+      "author" : "@kkamegawa",
+      "day" : 18,
+      "url" : "https://kkamegawa.hatenablog.jp/entry/2021/12/18/183627"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "続：Azure PipelinesからのAzure Load Testingでパラメータを渡す",
+      "author" : "@kkamegawa",
+      "day" : 20,
+      "url" : "https://kkamegawa.hatenablog.jp/entry/2021/12/20/183015"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft-hosted agents の IP アドレス範囲は Mac だけリージョンと異なる範囲にある",
+      "author" : "@KoKeCross",
+      "day" : 21,
+      "url" : "https://qiita.com/KoKeCross/items/265351f663aa5100832d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネイティブ アプリ開発者に捧ぐ！Azure DevOps をシンボル サーバーとして使って気持ちよくデバッグしよう！",
+      "author" : "@hihigash",
+      "day" : 23,
+      "url" : "https://qiita.com/hihigash/items/11d69485c52ce2c9f749"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kkamegawa"
+    }
+  ]
+}

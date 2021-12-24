@@ -1,0 +1,353 @@
+{
+  "created_at" : "2021-12-24T02:50:29Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社iCARE",
+    "category" : "企業・学校・団体",
+    "lgtm" : 8,
+    "subscribers" : 5,
+    "title" : "iCARE Dev Advent Calendar 2021",
+    "participants" : 27,
+    "unique_name" : "icaredev",
+    "url" : "https://qiita.com/advent-calendar/2021/icaredev"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "iCAREの開発チーム体制とその課題",
+      "author" : "@toshi1973814",
+      "day" : 1,
+      "url" : "https://dev.icare.jpn.com/dev_cat/icare_dev_team_structure"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSSコミュニティ活動のすすめ（岩崎）",
+      "author" : "@hiroendore",
+      "day" : 2,
+      "url" : "https://dev.icare.jpn.com/dev_cat/oss_community_activities/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HHKBから分離型キーボードMistel BAROCCOに乗り換えてみた",
+      "author" : "@hiroendore",
+      "day" : 3,
+      "url" : "https://dev.icare.jpn.com/dev_cat/from_hhkb_to_mistel_barocco/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apollo Client Devtoolsについて",
+      "author" : "@zaki87",
+      "day" : 4,
+      "url" : "https://dev.icare.jpn.com/dev_cat/apollo-client-devtools"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストコードを書きながらアプリケーションコードを書くメリット",
+      "author" : "@issei126",
+      "day" : 5,
+      "url" : "https://dev.icare.jpn.com/dev_cat/the_benefits_of_writing_test_codes_while_writing_application_codes"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SaaS企業におけるデザイン組織のあり方",
+      "author" : "@takayukiaoki_icare",
+      "day" : 6,
+      "url" : "https://dev.icare.jpn.com/dev_cat/saas_designteam"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "javascriptをvscodeで実行するまで",
+      "author" : "@takeiin",
+      "day" : 7,
+      "url" : "https://dev.icare.jpn.com/dev_cat/vscode_javascript"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロックバンドくるりに出会えた幸運",
+      "author" : "@zouzei8to10",
+      "day" : 8,
+      "url" : "https://note.com/taka84mj/n/nff48f4b25994"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "中堅エンジニアに聞く、iCAREのリアルな今とこれから",
+      "author" : "@hiroendore",
+      "day" : 9,
+      "url" : "https://dev.icare.jpn.com/dev_cat/engineer_interview_20211209/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "専門職大学院の学生をしながらエンジニアをしている裏側",
+      "author" : "@watsuyo_2",
+      "day" : 10,
+      "url" : "https://note.com/watuyo_2/n/n309abe77b39a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rails/Postgresでユーザーの年代を計算する",
+      "author" : "@shogoden",
+      "day" : 12,
+      "url" : "https://dev.icare.jpn.com/dev_cat/calc_age_by_postgres"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オブジェクト指向設計実践ガイド 第1章をまとめてみました",
+      "author" : "@enghst",
+      "day" : 13,
+      "url" : "https://dev.icare.jpn.com/dev_cat/object_book_1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テンあげ↑開発⭐️",
+      "author" : "@kanako-110",
+      "day" : 14,
+      "url" : "https://dev.icare.jpn.com/dev_cat/tenage_dev/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GJ Carelyへ機能追加した時の話",
+      "author" : "@nobuo_hirai",
+      "day" : 15,
+      "url" : "https://dev.icare.jpn.com/dev_cat/gj-carely-20211215"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドエンジニアになって１年、前職とのギャップなどの話",
+      "author" : "@homusuke",
+      "day" : 16,
+      "url" : "https://dev.icare.jpn.com/dev_cat/%e3%83%95%e3%83%ad%e3%83%b3%e3%83%88%e3%82%a8%e3%83%b3%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%ef%bc%91%e5%b9%b4%e3%81%8c%e7%b5%8c%e3%81%a3%e3%81%9f/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大トロくん( オートロック )の作り方",
+      "author" : "@yasunarle-icare",
+      "day" : 17,
+      "url" : "https://dev.icare.jpn.com/dev_cat/%e5%a4%a7%e3%83%88%e3%83%ad%e3%81%8f%e3%82%93-%e3%82%aa%e3%83%bc%e3%83%88%e3%83%ad%e3%83%83%e3%82%af-%e3%81%ae%e4%bd%9c%e3%82%8a%e6%96%b9/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAEチームの半年間の取り組み",
+      "author" : "@rina_zeni",
+      "day" : 18,
+      "url" : "https://dev.icare.jpn.com/dev_cat/qae_zenimaru002/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptでよく見る「？」「！」と仲良くしたい",
+      "author" : "@oreo2990",
+      "day" : 19,
+      "url" : "https://dev.icare.jpn.com/dev_cat/oreo_cast/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてプロジェクトリーダーになった話",
+      "author" : "@mgmmy",
+      "day" : 20,
+      "url" : "https://dev.icare.jpn.com/dev_cat/advent_calendar_2021_mgmmy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「DDDなんもわからん」な私がセキュア・バイ・デザインを読んでみた",
+      "author" : "@kk-icare",
+      "day" : 21,
+      "url" : "https://dev.icare.jpn.com/dev_cat/secure_by_design"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いまさら振り返る2021年のmimemagicのライセンス問題とは",
+      "author" : "@kou-row-line",
+      "day" : 22,
+      "url" : "https://zenn.dev/kou_row_line/articles/ca4d0ad1eb8a0b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GraphQL Rubyを使ったときのデータの流れ",
+      "author" : "@krpk1900",
+      "day" : 23,
+      "url" : "https://dev.icare.jpn.com/dev_cat/graphql-ruby/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@jacky0407"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ogijun"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "株式会社iCAREの荻野としてnoteを書いたよ",
+      "author" : "@ogijun",
+      "day" : 1,
+      "url" : "https://note.com/ogijun/n/n9ea9f0045913"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "iCAREに入社しました。(岩崎)",
+      "author" : "@ogijun",
+      "day" : 2,
+      "url" : "https://note.com/n_iwasaki_icare/n/n0f5a02560165"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "苦手な「報連相」が少し分かってきた話",
+      "author" : "@shogoden",
+      "day" : 3,
+      "url" : "https://note.com/shogoden/n/nb1a6d7d0ff03"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CSS学習サイト３選",
+      "author" : "@zaki87",
+      "day" : 4,
+      "url" : "https://qiita.com/zaki87/items/a9b6ab848a656e29b838"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ドッグフードを食べるということ",
+      "author" : "@ogijun",
+      "day" : 5,
+      "url" : "https://note.com/ogijun/n/n6fcd666e9704"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "元産業看護職がCarely SustainableExpoを見て学びと感想をまとめてみた①",
+      "author" : "@harumoooonz",
+      "day" : 6,
+      "url" : "https://note.com/harumoooonz/n/n073749357256"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "元産業看護職がCarely SustainableExpoを見て学びと感想をまとめてみた②",
+      "author" : "@harumoooonz",
+      "day" : 7,
+      "url" : "https://note.com/harumoooonz/n/n0d497d3e3a1f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "見て分かる席替えメーカー開発の歴史",
+      "author" : "@krpk1900",
+      "day" : 8,
+      "url" : "https://note.com/krpk1900/n/nf590df613b70#36babe7e-d756-4ee4-93f1-050bc3b6587a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "恵比寿で出張コーヒー屋を開店しています",
+      "author" : "@ogijun",
+      "day" : 9,
+      "url" : "https://note.com/ogijun/n/n47450ef6aef6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "iCAREの採用のリアルな裏側",
+      "author" : "@laveex06",
+      "day" : 10,
+      "url" : "https://note.com/lavee/n/n1709ffc94e7e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ミニマリズムの美学",
+      "author" : "@sumiita",
+      "day" : 11,
+      "url" : "https://note.com/radiostation/n/n52d3bddcfea2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "とあるWebエンジニアの歴史(2002〜2021)",
+      "author" : "@msykd",
+      "day" : 12,
+      "url" : "https://note.com/msykd/n/n12880046139a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "文章で質の高いアウトプットをするには？",
+      "author" : "@harumoooonz",
+      "day" : 13,
+      "url" : "https://note.com/harumoooonz/n/n0d8bee899eff"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "メンバーにどういう技術者になって欲しいか (1)",
+      "author" : "@ogijun",
+      "day" : 14,
+      "url" : "https://ogijun.hatenablog.com/entry/2021/12/14/213200"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "メンバーどういう技術者になって欲しいか (2)",
+      "author" : "@ogijun",
+      "day" : 15,
+      "url" : "https://ogijun.hatenablog.com/entry/2021/12/15/232100"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "20余年Web制作・開発を生業にしてきた者のしくじり先生",
+      "author" : "@seigo_akamatsu",
+      "day" : 16,
+      "url" : "https://note.com/seigo_akamatsu/n/n15a692135193"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "年末感のある振り返り（株式会社iCAREに入社しました）",
+      "author" : "@hiroendore",
+      "day" : 17,
+      "url" : "https://zenn.dev/hiroendore/articles/4eed78150f1212"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "なぜModel::ActiveRecord_RelationオブジェクトはModelに定義されたクラスメソッドを呼び出せるのか調べてみた",
+      "author" : "@kk-icare",
+      "day" : 18,
+      "url" : "https://qiita.com/kk-icare/items/218f6eb1bfb1f52dbd08"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "とあるWebエンジニアが選ぶ、今年読んで特に良かった本5選",
+      "author" : "@msykd",
+      "day" : 19,
+      "url" : "https://note.com/msykd/n/nedc0927b1eb9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RubyMineを使い続けている理由",
+      "author" : "@nobuo_hirai",
+      "day" : 20,
+      "url" : "https://qiita.com/nobuo_hirai/items/0c7399b1cb41840c9de0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "マネージャーとして意識した、たったひとつのこと",
+      "author" : "@issei126",
+      "day" : 21,
+      "url" : "https://note.com/ise_tang/n/n5894dc9d6c28"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "週4でサウナに行く話",
+      "author" : "@laveex06",
+      "day" : 22,
+      "url" : "https://note.com/lavee/n/n7f4cfa1f8ffc"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23,
+      "author" : "@msykd"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Similarities Between Building Construction and Software Design Systems",
+      "author" : "@zouzei8to10",
+      "day" : 24,
+      "url" : "https://dev.icare.jpn.com/dev_cat/similarities-between-building-construction-and-software-design-systems/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

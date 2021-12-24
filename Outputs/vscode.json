@@ -1,0 +1,167 @@
+{
+  "created_at" : "2021-12-24T13:35:29Z",
+  "calendar_meta_data" : {
+    "author" : "@jiyuujin",
+    "category" : "エディタ",
+    "lgtm" : 433,
+    "subscribers" : 311,
+    "title" : "Visual Studio Code Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "vscode",
+    "url" : "https://qiita.com/advent-calendar/2021/vscode"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "リリースから 6 年も経ってはじめて Visual Studio Code の Ctrl + J キーボードショートカットを知った件",
+      "author" : "@jsakamoto",
+      "day" : 1,
+      "url" : "https://devadjust.exblog.jp/29004422/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@juntakakada",
+      "day" : 2,
+      "url" : "https://qiita.com/advent-calendar/2021/vscode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@shinyorke",
+      "day" : 3,
+      "url" : "https://shinyorke.hatenablog.com/entry/meeting-memo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCode Remote Container 事始め",
+      "author" : "@hkford",
+      "day" : 4,
+      "url" : "https://zenn.dev/hkdord/articles/remote-containers"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeCon JP 2021 サイトの内幕",
+      "author" : "@jiyuujin",
+      "day" : 6,
+      "url" : "https://webneko.dev/posts/inside-the-website-in-vscodecon-jp-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@commdgranche"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@harehare211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tmux っぽく VSCode を操作する",
+      "author" : "@ganyariya",
+      "day" : 10,
+      "url" : "https://zenn.dev/ganariya/articles/tmux-like-vscode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dreamweaver→VisualStudioCode移行ガイド",
+      "author" : "@yshimizu125",
+      "day" : 11,
+      "url" : "https://qiita.com/yshimizu125/items/9027052b22e973caabe1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "知り合いに教えたら、知られてなかった便利なショートカット",
+      "author" : "@yasudanaoya",
+      "day" : 13,
+      "url" : "https://qiita.com/yasudanaoya/items/67690d4e171bfb827d0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードの自動生成をあなたのPCでも実現！GitHub CopilotをVisual Studio Codeで使ってみた",
+      "author" : "@mochan_tk",
+      "day" : 14,
+      "url" : "https://qiita.com/mochan_tk/items/43493dd862ecda98886c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubActionsの自動PRでVSCodeの拡張機能をMarkdown管理する",
+      "author" : "@faronan",
+      "day" : 15,
+      "url" : "https://qiita.com/faronan/items/0d5d2a44dc09d14d03c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCode + Markdownでスライドや書籍も書いちゃおう！",
+      "author" : "@loftkun",
+      "day" : 17,
+      "url" : "https://qiita.com/loftkun/items/414ed6c7789b49ed0c5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCode Remote Developmentでラズパイにssh接続 ＆ root取得",
+      "author" : "@ibaraki",
+      "day" : 18,
+      "url" : "https://zenn.dev/ibaraki/articles/6f3485035b961c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "74thの技術同人誌執筆環境（Markdown+Vivliostyle+VS Code）",
+      "author" : "@74th",
+      "day" : 19,
+      "url" : "https://zenn.dev/74th/articles/ed2229692ba6c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Studio Code を使い始める前に調べていること",
+      "author" : "@kaizen_nagoya",
+      "day" : 20,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f7450d645c93ce5b54ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者の人にいつも紹介するVSCodeカスタマイズ",
+      "author" : "@HajimexxxNakagawa",
+      "day" : 22,
+      "url" : "https://zenn.dev/ikenohi/articles/843e4992fff9bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCode用の言語サーバ拡張機能をPythonでつくってみた",
+      "author" : "@www-tacos",
+      "day" : 23,
+      "url" : "https://qiita.com/www-tacos/items/23e63c4572c9f52b9825"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@ayatokura"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ganyariya"
+    }
+  ]
+}

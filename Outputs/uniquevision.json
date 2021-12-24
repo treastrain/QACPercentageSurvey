@@ -1,0 +1,294 @@
+{
+  "created_at" : "2021-12-24T08:20:01Z",
+  "calendar_meta_data" : {
+    "author" : "ユニークビジョン株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 33,
+    "subscribers" : 1,
+    "title" : "ユニークビジョン株式会社 Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "uniquevision",
+    "url" : "https://qiita.com/advent-calendar/2021/uniquevision"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust で学ぶメソッドチェーン",
+      "author" : "@okm-uv",
+      "day" : 1,
+      "url" : "https://qiita.com/okm-uv/items/50ca7e058b8f74e8b19c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "cloudfront のオリジンに指定したs3に空ファイルがいると悪さをする",
+      "author" : "@Takayuki_Nakano",
+      "day" : 2,
+      "url" : "https://qiita.com/Takayuki_Nakano/items/b6ebc64107a470d1dcc6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustのnomでCREATE TABLEをパースする",
+      "author" : "@aoyagikouhei",
+      "day" : 3,
+      "url" : "https://qiita.com/aoyagikouhei/items/6013e24e686236f10e1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "小ロット生産について",
+      "author" : "@misha",
+      "day" : 4,
+      "url" : "https://misha.jp/ja/posts/on-small-batch-sizes/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vueの振り返り",
+      "author" : "@misha",
+      "day" : 5,
+      "url" : "https://misha.jp/ja/posts/a-vue-retrospective/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webアプリケーションのパフォーマンステスト概要",
+      "author" : "@kyamamoto9120",
+      "day" : 6,
+      "url" : "https://qiita.com/kyamamoto9120/items/ad7eccaa186704c655ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "どう print と使い分ける？ 私のログの使い方",
+      "author" : "@yan7010",
+      "day" : 7,
+      "url" : "https://qiita.com/yan7010/items/49331b67b93c302baba8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VimScriptでスネークケース、キャメルケースを切り替える拡張をつくってみる",
+      "author" : "@takezawa_masatoshi",
+      "day" : 8,
+      "url" : "https://qiita.com/takezawa_masatoshi/items/3d8baa527ded156af4be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "shellスクリプトに触れてみた話",
+      "author" : "@ishihara_kyohei",
+      "day" : 9,
+      "url" : "https://qiita.com/ishihara_kyohei/items/cf1823d5df0aa8a07903"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Haskell 入門してみた",
+      "author" : "@Yappii_111",
+      "day" : 10,
+      "url" : "https://qiita.com/Yappii_111/items/5c077706f9b722ad69ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vueのコンポーネントパターン",
+      "author" : "@keyhole0",
+      "day" : 11,
+      "url" : "https://qiita.com/keyhole0/items/a9a17e3ca1757c7e2c63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK(version 1.x)で個人的によく使う機能まとめ",
+      "author" : "@Keiwa",
+      "day" : 12,
+      "url" : "https://qiita.com/Keiwa/items/30ee03c4e1e97ddcbd6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプレッドシートのカスタム関数でお手軽処理しましょう",
+      "author" : "@yoh_n",
+      "day" : 13,
+      "url" : "https://qiita.com/yoh_n/items/0104984f1d3bdae81e82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OAuthリクエストを送信してTwitter APIを利用する",
+      "author" : "@kagesumi3m",
+      "day" : 14,
+      "url" : "https://qiita.com/kagesumi3m/items/f2c1a9e5064687d710d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustで使いそうな出力フォーマットをまとめてみました",
+      "author" : "@katsumata_yusuke",
+      "day" : 15,
+      "url" : "https://qiita.com/katsumata_yusuke/items/7437382047ac45df18bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust - Actix-web - Zipファイルダウンロードコード",
+      "author" : "@pham_thanh_thuong",
+      "day" : 16,
+      "url" : "https://qiita.com/pham_thanh_thuong/items/bbbe7651183335391a6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "zod を実際のプロジェクトで使う時にどうするか考えた",
+      "author" : "@punkshiraishi",
+      "day" : 17,
+      "url" : "https://qiita.com/punkshiraishi/items/581680537e688bb9ada0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "滅亡迅雷.net で見るドメインヤクザ",
+      "author" : "@daichi_yamazaki",
+      "day" : 18,
+      "url" : "https://qiita.com/daichi_yamazaki/items/1e9070d791ce345fc2b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "League of Legendのレートを調べるためのDiscord BotをRustで作ってみた",
+      "author" : "@Cowsisland",
+      "day" : 19,
+      "url" : "https://qiita.com/Cowsisland/items/8b738b4cf427dea6d6ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでAWS S3に静的ウェブサイトをホスティングしてみた",
+      "author" : "@9laceef",
+      "day" : 20,
+      "url" : "https://qiita.com/9laceef/items/b3036383130f87d174f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コスパ抜群！VSCode ショートカットキー３選！",
+      "author" : "@yamada_yoshiki",
+      "day" : 21,
+      "url" : "https://qiita.com/yamada_yoshiki/items/fcc077074b44e2854330"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大体1億レコードのシリアルナンバーを、大体15分で作成する方法",
+      "author" : "@hhh_snthtns",
+      "day" : 22,
+      "url" : "https://qiita.com/hhh_snthtns/items/f0aa90a8519be28b0738"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ちょっとした羅列を手で作るのはやめようって話",
+      "author" : "@daichi_yamazaki",
+      "day" : 23,
+      "url" : "https://qiita.com/daichi_yamazaki/items/aaa082a924785e82e2b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文章に複数の特定ワードが含まれているか判定する",
+      "author" : "@okm-uv",
+      "day" : 24,
+      "url" : "https://qiita.com/okm-uv/items/6dc0ffee9d6ed2205de2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@aoyagikouhei"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "curlとAdvanced REST clientでAPIの動作確認する",
+      "author" : "@aoyagikouhei",
+      "day" : 1,
+      "url" : "https://qiita.com/aoyagikouhei/items/ea0007b1c4c8c6ba3017"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "朝会マッチング問題を解きました",
+      "author" : "@okm-uv",
+      "day" : 21,
+      "url" : "https://qiita.com/okm-uv/items/f1574e65361ab9807a6a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T10:32:56Z",
+  "calendar_meta_data" : {
+    "author" : "サムザップ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 208,
+    "subscribers" : 10,
+    "title" : "サムザップ Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "sumzap",
+    "url" : "https://qiita.com/advent-calendar/2021/sumzap"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】おさえておきたいUI開発3つのポイント",
+      "author" : "@ohbashunsuke",
+      "day" : 1,
+      "url" : "https://shibuya24.info/entry/unity_ui_point_3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】図解で分かる！アニメ調シェーダ基礎",
+      "author" : "@KoniroIris",
+      "day" : 2,
+      "url" : "https://qiita.com/KoniroIris/items/1f0fccb88cbad2aab1b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Golang】OAuth2.0を実装する方法/Google認証",
+      "author" : "@shiiman",
+      "day" : 3,
+      "url" : "https://shiimanblog.com/engineering/golang-oauth2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker+Clasp+Jest+GitHub ActionsでモリモリGAS開発",
+      "author" : "@RyotoKitajima",
+      "day" : 4,
+      "url" : "https://qiita.com/RyotoKitajima/items/17db92fbc3c89428b40f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【開発プロセス】完成をイメージして動く状態を維持しながら開発してみる話",
+      "author" : "@fuzy",
+      "day" : 5,
+      "url" : "https://qiita.com/fuzy/items/cccf256e335fbf034c3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Linux 2でAMIからのEC2インスタンス起動時に、cloud-initを使ってhostnameの設定とRoute53への登録を自動で行う",
+      "author" : "@RyotoKitajima",
+      "day" : 6,
+      "url" : "https://qiita.com/RyotoKitajima/items/a52ca5448ac78f67db60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【トラブル回避】端末依存のC#処理に注意！",
+      "author" : "@Gaku_Ishii",
+      "day" : 7,
+      "url" : "https://qiita.com/Gaku_Ishii/items/c44b832ee08cbc7c25c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】後回しにすると大変なことになった事例集",
+      "author" : "@kurosawa_tomokazu",
+      "day" : 8,
+      "url" : "https://qiita.com/kurosawa_tomokazu/items/09723bb192fb9d0fbd99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity] Exception発生時に自動でSlackへレポート送信",
+      "author" : "@sumchun",
+      "day" : 9,
+      "url" : "https://qiita.com/sumchun/items/89050e82ee30c98c5971"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "億単位のレコード数のテーブルを含むDBをAWS Database Migration Serviceを使って移行した際のTIPS",
+      "author" : "@kojima_akira",
+      "day" : 10,
+      "url" : "https://qiita.com/kojima_akira/items/b5edbf9ea3ffebb2d4e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【CRI ADX2】タイムストレッチ機能を使った音声の倍速再生",
+      "author" : "@norimatsu_yusuke",
+      "day" : 11,
+      "url" : "https://qiita.com/norimatsu_yusuke/items/b21b867e488ece466e95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Octaneの開発時のハマりポイントと回避方法について",
+      "author" : "@shirai_suguru",
+      "day" : 12,
+      "url" : "https://qiita.com/shirai_suguru/items/ec71a3b852ba7ed65537"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】簡単！エフェクト解説と改変方法！",
+      "author" : "@KoniroIris",
+      "day" : 13,
+      "url" : "https://qiita.com/KoniroIris/items/4aae5f86316fbd3c169d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CI初心者がfastlaneでアプリ申請の半自動化を行うまで",
+      "author" : "@s_ebata",
+      "day" : 14,
+      "url" : "https://qiita.com/s_ebata/items/c629e0a5b78382fdd665"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityでシーン遷移時にシンプルかつ安全にパラメーターを渡す方法",
+      "author" : "@ozaki_shinya",
+      "day" : 15,
+      "url" : "https://qiita.com/ozaki_shinya/private/0834a635d32585839c23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityのビジュアルスクリプティングで作るシンプルな横スクロールゲーム",
+      "author" : "@K3nsuke",
+      "day" : 16,
+      "url" : "https://qiita.com/K3nsuke/items/a1946fe4dac3513f012b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】ATBシステムにおける新ルールの実装コストを削減した設計",
+      "author" : "@higuchi_yuta",
+      "day" : 17,
+      "url" : "https://qiita.com/higuchi_yuta/items/1a01563a78e680c79efb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアの命。キーボードの修理方法",
+      "author" : "@shintsu_takamasa",
+      "day" : 18,
+      "url" : "https://qiita.com/shintsu_takamasa/items/8ce1185cd1a3549f88cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ピグパーティ」で数百に及ぶFlash製のモーションデータをSpineに変換した話",
+      "author" : "@takahashi-kenichi",
+      "day" : 19,
+      "url" : "https://developers.cyberagent.co.jp/blog/archives/33843/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リマインドツールで少しでもストレスを減らそう",
+      "author" : "@kanasaki_kenji",
+      "day" : 20,
+      "url" : "https://qiita.com/kanasaki_kenji/items/4d48cfce79c08e30b5a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ScriptableObject】シングルトンを使わずにマルチシーンのイベント管理してみる",
+      "author" : "@Buna_unity_game",
+      "day" : 21,
+      "url" : "https://qiita.com/Buna_unity_game/items/db58a5706b89a68a8976"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ShaderGraph】積雪表現をShaderGraphで作ってみる",
+      "author" : "@kida_hironari",
+      "day" : 22,
+      "url" : "https://qiita.com/kida_hironari/items/9ca5bf3eb915ac34180f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大規模プロジェクトにおけるconfluenceからNotionへのお引越し大作戦",
+      "author" : "@chrno001",
+      "day" : 23,
+      "url" : "https://qiita.com/chrno001/items/10a474ded7ed488e8695"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleAppSscriptからNotionAPIを利用してみた",
+      "author" : "@shirahama_manabu",
+      "day" : 24,
+      "url" : "https://qiita.com/shirahama_manabu/items/687602e6e020d28cb1b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Gaku_Ishii"
+    }
+  ]
+}

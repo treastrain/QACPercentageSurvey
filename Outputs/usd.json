@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:26:43Z",
+  "calendar_meta_data" : {
+    "author" : "@fereria",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 20,
+    "subscribers" : 6,
+    "title" : "Universal Scene Description Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "usd",
+    "url" : "https://qiita.com/advent-calendar/2021/usd"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "まえがき",
+      "author" : "@fereria",
+      "day" : 1,
+      "url" : "https://fereria.github.io/blog/posts/usd_advenct_calendar/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "USD は手書きするもの",
+      "author" : "@takahito-tejima",
+      "day" : 2,
+      "url" : "https://qiita.com/takahito-tejima/items/ee0332bfb5c9baed3b09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "USDのProperty/Attribute/Relationship",
+      "author" : "@fereria",
+      "day" : 3,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/17_property_attribute_relation/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "usdcheckerの使い方",
+      "author" : "@fereria",
+      "day" : 4,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/20_USDTools/00_usdtools/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PopulationMask(OpenMasked)について",
+      "author" : "@fereria",
+      "day" : 5,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/19_population_mask/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "usdcatの使い方",
+      "author" : "@fereria",
+      "day" : 6,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/20_USDTools/01_usdtools_usdcat/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Schemaについて",
+      "author" : "@fereria",
+      "day" : 7,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/18_schema/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stage/Layer/Spec",
+      "author" : "@fereria",
+      "day" : 8,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/21_stage_layer_spec/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "USD・Hydra の環境変数と仲良くなる",
+      "author" : "@takahito-tejima",
+      "day" : 9,
+      "url" : "https://qiita.com/takahito-tejima/items/c065c7cd5c3a7abe14f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Prism PipelineでUSDファイルを管理する方法",
+      "author" : "@kei_iketani",
+      "day" : 10,
+      "url" : "https://note.com/johnkparkh13/n/n657e2e0a391b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MultiverseでUSDファイルを作成する方法",
+      "author" : "@kei_iketani",
+      "day" : 11,
+      "url" : "https://note.com/johnkparkh13/n/n69600c40e58f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KATANAでUSDを使う(執筆中)",
+      "author" : "@kei_iketani",
+      "day" : 12,
+      "url" : "https://note.com/johnkparkh13/n/nbe10403bddbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AssetInfoについて",
+      "author" : "@fereria",
+      "day" : 13,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/23_assetInfo/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタムノードをUSDの世界に取り込んでみよう(OBJ編)",
+      "author" : "@K240",
+      "day" : 14,
+      "url" : "https://qiita.com/K240/items/d3d0fa8a632bc06cfda5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AssetResolutionについて(1) - usdResolverExample",
+      "author" : "@fereria",
+      "day" : 15,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/24_asset_resolution/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UsdGeomImageable 完全に理解した",
+      "author" : "@takahito-tejima",
+      "day" : 16,
+      "url" : "https://qiita.com/takahito-tejima/items/54eccf9b93d6e386186e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AssetResolution(2) ResolveとContext",
+      "author" : "@fereria",
+      "day" : 17,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/25_asset_resolution_02/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "usdzip",
+      "author" : "@fereria",
+      "day" : 18,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/20_USDTools/02_usdzip/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Specifierについて",
+      "author" : "@fereria",
+      "day" : 19,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/26_specifier/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonでアセットを作る",
+      "author" : "@fereria",
+      "day" : 20,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/30_USD_Programming/01_Python/07_create_usd_assets/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタムノードをUSDの世界に取り込んでみよう(マテリアル編)",
+      "author" : "@K240",
+      "day" : 21,
+      "url" : "https://qiita.com/K240/items/c0a95d95c9ab37f34e29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アーティスト視点の主観的USDの価値",
+      "author" : "@55hertz",
+      "day" : 22,
+      "url" : "https://qiita.com/55hertz/items/39f46015e9e4aab4a2b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UsdGeomXform だいたい理解した",
+      "author" : "@takahito-tejima",
+      "day" : 23,
+      "url" : "https://qiita.com/takahito-tejima/items/4c30dd882ea3fdd737fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FileFormatPluginについて",
+      "author" : "@fereria",
+      "day" : 24,
+      "url" : "https://fereria.github.io/reincarnation_tech/11_Pipeline/01_USD/27_fileformat_plugin/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@fereria"
+    }
+  ]
+}

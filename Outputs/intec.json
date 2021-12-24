@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T13:09:55Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社インテック",
+    "category" : "企業・学校・団体",
+    "lgtm" : 4608,
+    "subscribers" : 12,
+    "title" : "INTEC Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "intec",
+    "url" : "https://qiita.com/advent-calendar/2021/intec"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Dataiku Certificationの紹介① ~ Core Designer~",
+      "author" : "@ponnchi",
+      "day" : 1,
+      "url" : "https://qiita.com/ponnchi/items/8288b91ef4aec7d79e27"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【機械学習】最適輸送とPOTライブラリについて",
+      "author" : "@purple_jp",
+      "day" : 2,
+      "url" : "https://qiita.com/purple_jp/items/fe935e73382373264c3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動いて書いてダイエット！ MediaPipeで文字書き用フィットネスプログラム作ってみた【PunchWriter ver0.1】",
+      "author" : "@Moh_no",
+      "day" : 3,
+      "url" : "https://qiita.com/Moh_no/items/f5df649f4425f64397e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自己主権型アイデンティティのウォレットaries-mobile-agent-xamarinを動かしてみた",
+      "author" : "@TomokoY",
+      "day" : 4,
+      "url" : "https://qiita.com/TomokoY/items/6ab87f098e98582338a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "短時間フーリエ変換を用いたスペクトログラムとPython実行方法の概要",
+      "author" : "@purple_jp",
+      "day" : 5,
+      "url" : "https://qiita.com/purple_jp/items/7c91a05c547615e9ab89"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dataiku AcademyのAdvanced Prepare Recipe Usageをやってみました。（中編）",
+      "author" : "@ponnchi",
+      "day" : 6,
+      "url" : "https://qiita.com/ponnchi/items/aea9e6d850054a3cb9b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "書籍「ユースケースで学ぶDataiku－マーケティング活⽤のためのWeb ログ分析－」告知",
+      "author" : "@ayoyo",
+      "day" : 7,
+      "url" : "https://qiita.com/ayoyo/items/103b514a33f51b34c3b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【作曲】AIと作曲してみた",
+      "author" : "@haruyama_keita",
+      "day" : 8,
+      "url" : "https://qiita.com/haruyama_keita/items/b1e53e51fbf3bc6f4f2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FastDDSが送出するIGMPv2マルチキャストパケットを追いかける",
+      "author" : "@fudekun",
+      "day" : 9,
+      "url" : "https://qiita.com/fudekun/items/78244342475ecb007a86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Speedtest CLIでインターネット速度を定期自動計測してログを残す方法",
+      "author" : "@purple_jp",
+      "day" : 10,
+      "url" : "https://qiita.com/purple_jp/items/0905c933f9d1a28c6313"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webサイトを設定ゼロで爆速デプロイする Serverless Component を公開しました⚡️ ",
+      "author" : "@G-awa",
+      "day" : 11,
+      "url" : "https://qiita.com/G-awa/items/d972cd4383676815c78d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SendGrid + Cloud Functionsで毎朝お天気通知してみよう",
+      "author" : "@Akira_kun",
+      "day" : 12,
+      "url" : "https://qiita.com/Akira_kun/items/0e4abd8b8ba43c3509a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音楽とデータサイエンス#1　-分析支援ツールDataikuで音楽アルバムのデータ分析をやってみた-",
+      "author" : "@fried_chicken_380",
+      "day" : 13,
+      "url" : "https://qiita.com/fried_chicken_380/items/8a24cc94ab1bb76db5f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Home MiniがSiriと会話へ？【2021年版】",
+      "author" : "@ko-p",
+      "day" : 14,
+      "url" : "https://qiita.com/ko-p/items/8876ea024909616a1014"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイでチャイム検知してみた Part2",
+      "author" : "@seaka829",
+      "day" : 15,
+      "url" : "https://qiita.com/seaka829/items/522042454ddf2d97ab8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト駆動でMediaPipeのCalculatorをつくる",
+      "author" : "@summer_tabi",
+      "day" : 16,
+      "url" : "https://qiita.com/summer_tabi/items/dd2fe352edf9a6d87747"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "駆け出しエンジニアがまず学んで200%損しない学習について",
+      "author" : "@Yu-jin27",
+      "day" : 17,
+      "url" : "https://qiita.com/Yu-jin27/items/0aadf086d2eb1e3f1d55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜエンジニアが作る画面はダサいのか…?「理由」と「対策」を徹底解説【エンジニア向け画面デザイン講座】",
+      "author" : "@mskmiki",
+      "day" : 18,
+      "url" : "https://qiita.com/mskmiki/items/544149987475719e417b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dataikuでプラグインを作るときには必須？プラグインパラメータについてまとめてみた",
+      "author" : "@hktonton",
+      "day" : 19,
+      "url" : "https://qiita.com/hktonton/items/a437b36f2a8059e3acfa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mac標準のAutomatorでRPAに入門してみる",
+      "author" : "@ggaaii",
+      "day" : 20,
+      "url" : "https://qiita.com/ggaaii/items/72f8aa4165429ff3884c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSを安心して個人利用するための色々をまとめてみた。",
+      "author" : "@t_oka",
+      "day" : 21,
+      "url" : "https://qiita.com/t_oka/items/ce9d2e3bf8e820d38e4e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dataiku インタラクティブスコアリングを用いた学習モデルの理解",
+      "author" : "@goya1021",
+      "day" : 22,
+      "url" : "https://qiita.com/goya1021/items/d0db28dc52118fc472ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ALBの認証機能でお手軽SSOを実現する",
+      "author" : "@moikei",
+      "day" : 23,
+      "url" : "https://qiita.com/moikei/items/c21ff9e96da280055aa0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DataikuのNLPプラグイン紹介",
+      "author" : "@ayoyo",
+      "day" : 24,
+      "url" : "https://qiita.com/ayoyo/items/d10ef600ae8c0afbe99d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ningendamono"
+    }
+  ]
+}

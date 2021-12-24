@@ -1,0 +1,141 @@
+{
+  "created_at" : "2021-12-24T02:43:03Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エイチームコマーステック",
+    "category" : "企業・学校・団体",
+    "lgtm" : 48,
+    "subscribers" : 7,
+    "title" : "Ateam Commerce Tech Inc.  Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "ateam-commerce-tech",
+    "url" : "https://qiita.com/advent-calendar/2021/ateam-commerce-tech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vimゴルフのすゝめ",
+      "author" : "@shimura_atsushi",
+      "day" : 9,
+      "url" : "https://qiita.com/shimura_atsushi/items/9e3f033c3ddee7862657"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gitlab Package Registryを利用してプライベートNPMパッケージを運用する",
+      "author" : "@hytkgami",
+      "day" : 10,
+      "url" : "https://zenn.dev/hytkgami/articles/private-npm-package-with-gitlab-package-registry"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hasura&Nextjsで快適な開発環境を構築〜ローカル環境構築編〜",
+      "author" : "@kazzzzzz",
+      "day" : 13,
+      "url" : "https://qiita.com/kazzzzzz/items/eeba893646eb494b4f57"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "難しく考えずにベイジアンABテストを試してみた",
+      "author" : "@o93",
+      "day" : 15,
+      "url" : "https://qiita.com/o93/items/15bfdb259580461793b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自転車通販サイトcyma-サイマ-のフロントエンドリプレイス戦略",
+      "author" : "@nagimaruxxx",
+      "day" : 17,
+      "url" : "https://qiita.com/nagimaruxxx/items/4383e5a8b1df3aaad3c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RubyMineをさらに便利にするプラグインたち：2021年版",
+      "author" : "@hibiheion",
+      "day" : 20,
+      "url" : "https://qiita.com/hibiheion/items/8865935a9804e4073f98"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.jsアプリケーションにメンテナンスモードを実装する",
+      "author" : "@hytkgami",
+      "day" : 22,
+      "url" : "https://qiita.com/hytkgami/items/d4854a7698de6d6f3721"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hasura&Nextjsで快適な開発環境を構築〜プロダクション環境構築編〜",
+      "author" : "@kazzzzzz",
+      "day" : 23,
+      "url" : "https://qiita.com/kazzzzzz/items/966019524c5203858a2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@NamedPython"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kopug"
+    }
+  ]
+}

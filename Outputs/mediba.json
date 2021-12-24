@@ -1,0 +1,174 @@
+{
+  "created_at" : "2021-12-24T07:46:10Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社mediba",
+    "category" : "企業・学校・団体",
+    "lgtm" : 10,
+    "subscribers" : 1,
+    "title" : "mediba Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "mediba",
+    "url" : "https://qiita.com/advent-calendar/2021/mediba"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "medibaを支える技術（2021年度） ",
+      "author" : "@primunu",
+      "day" : 1,
+      "url" : "https://qiita.com/primunu/items/9c9934cf0891219e1b85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "denoで現在のディレクトリ以下にあるフォルダごとにzip圧縮するコードを書いてみた",
+      "author" : "@medi-y-sato",
+      "day" : 2,
+      "url" : "https://zenn.dev/mediysato/articles/fc240111c4ac90"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザショートカットとしてのA2HS",
+      "author" : "@satoru-ka",
+      "day" : 5,
+      "url" : "https://qiita.com/satoru-ka/items/0c522d9250ec40e36292"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@mary_tuba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The Two Generals' Problem (二人の将軍問題)",
+      "author" : "@mediba_carlos",
+      "day" : 7,
+      "url" : "https://qiita.com/mediba_carlos/items/abeda005fd394d96f80c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "育休のススメ",
+      "author" : "@t-ono-mediba",
+      "day" : 8,
+      "url" : "https://note.com/onot0318/n/n47890ad2016f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "創造推進Unitについて",
+      "author" : "@kamabokochan",
+      "day" : 9,
+      "url" : "https://note.com/funamarusuisan/n/n747d0e937245"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clarityの導入と活用方法について",
+      "author" : "@at-sakai",
+      "day" : 10,
+      "url" : "https://ceblog.mediba.jp/post/670140957783687169/clarity%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%A8%E6%B4%BB%E7%94%A8%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービスの生まれるとき　終わるとき",
+      "author" : "@yuni_v",
+      "day" : 11,
+      "url" : "https://note.com/uni_v/n/n30538429e10a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「神経の衰弱しない自己紹介」をやってみた",
+      "author" : "@y-moritake",
+      "day" : 12,
+      "url" : "https://note.com/moriyasu0410/n/nc4c98a7da624"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "k6での性能試験を試してみる",
+      "author" : "@y3mtk",
+      "day" : 13,
+      "url" : "https://qiita.com/y3mtk/items/a5a70c09bfc0610ee769"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoシングルバイナリDockerイメージビルドでハマったこと",
+      "author" : "@mdbr92",
+      "day" : 14,
+      "url" : "https://qiita.com/mdbr92/items/aea1b2f9267db1c45166"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テクノロジーセンター活動の民主化について",
+      "author" : "@hharai",
+      "day" : 16,
+      "url" : "https://qiita.com/hharai/items/490443963a7c502d286b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポストモーテム輪読会を運営してみた",
+      "author" : "@k-sawada",
+      "day" : 17,
+      "url" : "https://qiita.com/k-sawada/items/902a9a26c4a2f7b7f96e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.js 採用プロダクトにおける Lint ツール導入事例",
+      "author" : "@pokuwagata",
+      "day" : 18,
+      "url" : "https://ceblog.mediba.jp/post/670886881687388161/nextjs-%E6%8E%A1%E7%94%A8%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B-lint-%E3%83%84%E3%83%BC%E3%83%AB%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Formik,Yup,Apolloで非同期バリーデーション作った",
+      "author" : "@mediba-Yang",
+      "day" : 19,
+      "url" : "https://zenn.dev/kaky/articles/f25e933e310d9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GitHub Actions】Cypress のスクリーンショットの文字化けを解決した話",
+      "author" : "@1ha1ru0ki1",
+      "day" : 20,
+      "url" : "https://qiita.com/1ha1ru0ki1/items/41c8c97d22f5e27a81d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rと二項分布とガチャの抽選",
+      "author" : "@satoru-ka",
+      "day" : 21,
+      "url" : "https://qiita.com/satoru-ka/items/22cae9cdd6f62e67afc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web パフォーマンスとメディア数値との相関図を作成してみた",
+      "author" : "@jahana_mediba",
+      "day" : 22,
+      "url" : "https://qiita.com/jahana_mediba/items/a8053eb2cef499ed1c95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BFF層を作ってFEの負荷を減らした話。",
+      "author" : "@yamam00s",
+      "day" : 23,
+      "url" : "https://note.com/yamam00s/n/nc4529df02f2a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hiromasa-fun"
+    }
+  ]
+}

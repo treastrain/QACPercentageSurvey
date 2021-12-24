@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T12:53:59Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社Synamon",
+    "category" : "企業・学校・団体",
+    "lgtm" : 9,
+    "subscribers" : 3,
+    "title" : "Synamon Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "synamon",
+    "url" : "https://qiita.com/advent-calendar/2021/synamon"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "テックブログ運用を回すための取り組み 〜黄金の回転編〜",
+      "author" : "@unsoluble_sugar",
+      "day" : 1,
+      "url" : "https://synamon.hatenablog.com/entry/involved-techblog"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ParrelSyncの実装を深ぼってみる",
+      "author" : "@Kosei-Yoshida",
+      "day" : 2,
+      "url" : "https://synamon.hatenablog.com/entry/read-parrelsync"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OculusGoをアンロックしてみた",
+      "author" : "@Sokuhatiku",
+      "day" : 3,
+      "url" : "https://synamon.hatenablog.com/entry/oculus-go-unlock-first-impression"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Netcode for GameObjectsの機能紹介 NetworkTransformコンポーネントについて",
+      "author" : "@blkcatman",
+      "day" : 4,
+      "url" : "https://synamon.hatenablog.com/entry/ngo-introduce-networktransform"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderでオブジェクトを統合するとテクスチャが表示されなくなる",
+      "author" : "@porto942",
+      "day" : 5,
+      "url" : "https://synamon.hatenablog.com/entry/blender-uvmapname-failure"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラブライブに学ぶリーダーシップ",
+      "author" : "@mochineko",
+      "day" : 6,
+      "url" : "https://note.com/mochineko_/n/nfa7d9c0a9977"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "だれでもできる！NrealLightアプリ作成入門",
+      "author" : "@Q1J011",
+      "day" : 7,
+      "url" : "https://synamon.hatenablog.com/entry/nrealnyuumon"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR企業はこうやって引っ越しをする！！",
+      "author" : "@Marina666",
+      "day" : 8,
+      "url" : "https://note.com/happyonikuyasan/n/n1874967dd2f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AR Foundationでユニティちゃん召喚スマホアプリを作ってみた",
+      "author" : "@unsoluble_sugar",
+      "day" : 9,
+      "url" : "https://synamon.hatenablog.com/entry/arfoundation-unity-chan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HubsCloudをDocker環境で動かしてみる",
+      "author" : "@kro",
+      "day" : 10,
+      "url" : "https://synamon.hatenablog.com/entry/hubscloud-dockernize"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Netcode for GameObjectsでプレイヤー間で同期する物体の生成 / 破棄",
+      "author" : "@blkcatman",
+      "day" : 11,
+      "url" : "https://synamon.hatenablog.com/entry/ngo-networkobject-spawn"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NaughtyAttributesの実装を読み解く",
+      "author" : "@Kosei-Yoshida",
+      "day" : 12,
+      "url" : "https://qiita.com/Kosei-Yoshida/items/d7e3f3a7999ecacc5ba0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRoid Studioでメタバース時代のオリジナルアバターを自作したい！",
+      "author" : "@mochineko",
+      "day" : 13,
+      "url" : "https://note.com/mochineko_/n/nef6b843a2f72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HaritoraX完全に理解した",
+      "author" : "@unsoluble_sugar",
+      "day" : 14,
+      "url" : "https://zenn.dev/unsoluble_sugar/articles/93fc33aa1b2753"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AppleWatchをハンドトラッキング補助デバイスとして使えないか試してみた",
+      "author" : "@Sokuhatiku",
+      "day" : 15,
+      "url" : "https://synamon.hatenablog.com/entry/2021/12/15/184533"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET 6 MAUI(Preview)をWindowsとMacで触ってみたかった",
+      "author" : "@R-Koubou",
+      "day" : 16,
+      "url" : "https://synamon.hatenablog.com/entry/dotnet6-maui-preview"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インフラ周りで直面した課題と対応策について登壇しました",
+      "author" : "@whisky-shusuky",
+      "day" : 17,
+      "url" : "https://synamon.hatenablog.com/entry/2021/12/17/000455?_ga=2.222688729.339283460.1639642782-203350421.1533128147"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Netcode for GameObjectsでMobをスポーンさせる",
+      "author" : "@blkcatman",
+      "day" : 18,
+      "url" : "https://synamon.hatenablog.com/entry/ngo-mob-spawn"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3Dモデリング未経験のエンジニアがBlender入門してみた",
+      "author" : "@unsoluble_sugar",
+      "day" : 19,
+      "url" : "https://synamon.hatenablog.com/entry/blender-introduction"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PlayMakerとBehaviourTreeを使ってステートマシンにイベントハンドリングをできるようにしてみた",
+      "author" : "@blkcatman",
+      "day" : 20,
+      "url" : "https://qiita.com/blkcatman/items/86a780aec37a85ae93c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Addressable Asset System入門",
+      "author" : "@sakano",
+      "day" : 21,
+      "url" : "https://synamon.hatenablog.com/entry/introduction-to-addressable-asset-system"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bledner上での確認にLooking Glass Portraitを使う",
+      "author" : "@porto942",
+      "day" : 22,
+      "url" : "https://note.com/porto942/n/n784b1637deb4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdini Engine For Unityを色々試してみる ",
+      "author" : "@oudont3",
+      "day" : 23,
+      "url" : "https://qiita.com/oudont3/items/213f605cbc9174ba990f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SIer経験者がXR業界に入って感じたこと",
+      "author" : "@kro",
+      "day" : 24,
+      "url" : "https://note.com/krocks96/n/ne724278d385d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@nishiguchi3d"
+    }
+  ]
+}

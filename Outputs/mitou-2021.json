@@ -1,0 +1,129 @@
+{
+  "created_at" : "2021-12-24T09:16:07Z",
+  "calendar_meta_data" : {
+    "author" : "@hoppy_hoda_0616",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 11,
+    "title" : "未踏2021採択者アドカレ！ Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "mitou-2021",
+    "url" : "https://qiita.com/advent-calendar/2021/mitou-2021"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@hoppy_hoda_0616"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "共通言語の重要さ",
+      "author" : "@Ikuo_Takeuchi",
+      "day" : 2,
+      "url" : "https://www.dropbox.com/s/oig0en32jrtj7i6/2021%E6%9C%AA%E8%B8%8F%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%EF%BC%88%E7%AB%B9%E5%86%85%EF%BC%891202.pdf?dl=0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@Y0YFF"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人プロジェクトマネージャーから見た未踏",
+      "author" : "@kunihirotanaka",
+      "day" : 12,
+      "url" : "https://note.com/kunihirotanaka/n/n967956b66b6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "えっ…私のZoom音質低すぎ…？",
+      "author" : "@fumi_maker",
+      "day" : 15,
+      "url" : "https://fumimaker.net/entry/2021/12/15/000431"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "静的型付けスクリプト言語 Cotowali",
+      "author" : "@zakuro9715",
+      "day" : 23,
+      "url" : "https://zenn.dev/zakuro9715/articles/mitou-2021-cotowali"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

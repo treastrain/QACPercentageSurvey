@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T12:17:54Z",
+  "calendar_meta_data" : {
+    "author" : "@tosiooooooo",
+    "category" : "その他",
+    "lgtm" : 27,
+    "subscribers" : 30,
+    "title" : "しくじり先生 Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "shikujiri",
+    "url" : "https://qiita.com/advent-calendar/2021/shikujiri"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Snake in Yabu",
+      "author" : "@tosiooooooo",
+      "day" : 1,
+      "url" : "https://qiita.com/tosiooooooo/items/417c00495b3b1c5a229d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【しくじり先生】失敗続きの未経験からのエンジニア転職1年間を振り返って最短で満足のいく転職をするにはどうすれば良いかを考えてみた",
+      "author" : "@mokio",
+      "day" : 2,
+      "url" : "https://qiita.com/mokio/items/d43d29a4cd7ab600c195"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "inとかnot inは遅い",
+      "author" : "@tosiooooooo",
+      "day" : 3,
+      "url" : "https://qiita.com/tosiooooooo/items/0d7c035b9306612ff73c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ通信カードで300万円の請求が来た昔話",
+      "author" : "@tosiooooooo",
+      "day" : 4,
+      "url" : "https://qiita.com/tosiooooooo/items/f81a1c0299e40c414db3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウド上のサーバのセキュリティ設定ミスると制御不能になる",
+      "author" : "@tosiooooooo",
+      "day" : 5,
+      "url" : "https://qiita.com/tosiooooooo/items/992799587b0c6b4fd25f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システム開発を外注するときはゴールを明確にしよう",
+      "author" : "@tosiooooooo",
+      "day" : 6,
+      "url" : "https://qiita.com/tosiooooooo/items/b2232d671b68ce25c382"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソースコードとデプロイされているものが同じとは限らない件",
+      "author" : "@tosiooooooo",
+      "day" : 7,
+      "url" : "https://qiita.com/tosiooooooo/items/c1ce446d1d68dac50744"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ファイル同期するときは向きに注意",
+      "author" : "@tosiooooooo",
+      "day" : 8,
+      "url" : "https://qiita.com/tosiooooooo/items/c155e39244ba85cf43c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pipでAnacondaをぶっ壊しちゃった☆",
+      "author" : "@dem_kk",
+      "day" : 9,
+      "url" : "https://qiita.com/dem_kk/items/74a3b14f949485ad56cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無限ループはめっちゃでかい有限ループにしておけ",
+      "author" : "@tosiooooooo",
+      "day" : 10,
+      "url" : "https://qiita.com/tosiooooooo/items/4a7c520f485bc3261dfc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はてブで組織的にブックマークしたら何も表示されなくなった話",
+      "author" : "@tosiooooooo",
+      "day" : 11,
+      "url" : "https://qiita.com/tosiooooooo/items/8d3507f09a2158325568"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1年越しのCRONがサービスを落とした話",
+      "author" : "@tosiooooooo",
+      "day" : 12,
+      "url" : "https://qiita.com/tosiooooooo/items/18512be9f440075d5ff7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発環境だと思ったら・・・",
+      "author" : "@tosiooooooo",
+      "day" : 13,
+      "url" : "https://qiita.com/tosiooooooo/items/682a0986973e0d2cbfd5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "数万通のアラートメールを関係者全員に送りつけてしまった件",
+      "author" : "@tosiooooooo",
+      "day" : 14,
+      "url" : "https://qiita.com/tosiooooooo/items/0561fc32e50577321642"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBN5100でしか動かないシステム",
+      "author" : "@tosiooooooo",
+      "day" : 15,
+      "url" : "https://qiita.com/tosiooooooo/items/2d4bb8580a2c0afd4c92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IPアドレスの枯渇",
+      "author" : "@tosiooooooo",
+      "day" : 16,
+      "url" : "https://qiita.com/tosiooooooo/items/c4f0d464c61ec40a2c7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "高級ストレージを放置していた件",
+      "author" : "@tosiooooooo",
+      "day" : 17,
+      "url" : "https://qiita.com/tosiooooooo/items/41010f4e01fa32f7de6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バッチ動いてませんでした & 動きすぎてました",
+      "author" : "@tosiooooooo",
+      "day" : 18,
+      "url" : "https://qiita.com/tosiooooooo/items/eaf2c429cb667d9d4c20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "本番でステージング環境のリソース見てました",
+      "author" : "@tosiooooooo",
+      "day" : 19,
+      "url" : "https://qiita.com/tosiooooooo/items/539a26c04d5047572a22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リソース上では姿を表さないアイツのせいでエラーが起きる",
+      "author" : "@rom1000_onigiri",
+      "day" : 20,
+      "url" : "https://qiita.com/rom1000_onigiri/items/88d7cc6e705ed90a8209"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "集計したらマイナス21億になった件",
+      "author" : "@tosiooooooo",
+      "day" : 21,
+      "url" : "https://qiita.com/tosiooooooo/items/480f2ff4a922da2939e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "監視ツールから通知こないから安心してたら動いていなかった件",
+      "author" : "@tosiooooooo",
+      "day" : 22,
+      "url" : "https://qiita.com/tosiooooooo/items/088614042f115fd7ec5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symantec Endpoint Protectionに画像全消しされた件",
+      "author" : "@tosiooooooo",
+      "day" : 23,
+      "url" : "https://qiita.com/tosiooooooo/items/4734d7608abb5ee74468"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "七つの大罪：怠惰（詰めの甘いローカルテスト）",
+      "author" : "@rom1000_onigiri",
+      "day" : 24,
+      "url" : "https://qiita.com/rom1000_onigiri/items/88fbef73d7f22797e728"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tosiooooooo"
+    }
+  ]
+}

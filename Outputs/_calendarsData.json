@@ -1,0 +1,3530 @@
+{
+  "created_at" : "2021-12-23T17:31:53Z",
+  "calendars" : [
+    {
+      "title" : "CodeIgniter",
+      "url" : "https://qiita.com/advent-calendar/2021/codeigniter",
+      "unique_name" : "codeigniter"
+    },
+    {
+      "title" : "Ibexa DXP",
+      "url" : "https://qiita.com/advent-calendar/2021/ibexa",
+      "unique_name" : "ibexa"
+    },
+    {
+      "title" : "年末駆け込み",
+      "url" : "https://qiita.com/advent-calendar/2021/dash",
+      "unique_name" : "dash"
+    },
+    {
+      "title" : "Start line",
+      "url" : "https://qiita.com/advent-calendar/2021/start",
+      "unique_name" : "start"
+    },
+    {
+      "title" : "XBRL Japan",
+      "url" : "https://qiita.com/advent-calendar/2021/xbrljapan",
+      "unique_name" : "xbrljapan"
+    },
+    {
+      "title" : "knowloge",
+      "url" : "https://qiita.com/advent-calendar/2021/knowloge",
+      "unique_name" : "knowloge"
+    },
+    {
+      "title" : "Test",
+      "url" : "https://qiita.com/advent-calendar/2021/test",
+      "unique_name" : "test"
+    },
+    {
+      "title" : "Robohan",
+      "url" : "https://qiita.com/advent-calendar/2021/robohan",
+      "unique_name" : "robohan"
+    },
+    {
+      "title" : "GCP スキルバッジをもらおう！",
+      "url" : "https://qiita.com/advent-calendar/2021/gcp-skill-boost-sif",
+      "unique_name" : "gcp-skill-boost-sif"
+    },
+    {
+      "title" : "サクラエディタ",
+      "url" : "https://qiita.com/advent-calendar/2021/sakura-editor",
+      "unique_name" : "sakura-editor"
+    },
+    {
+      "title" : "Unity Particle System",
+      "url" : "https://qiita.com/advent-calendar/2021/particle_system",
+      "unique_name" : "particle_system"
+    },
+    {
+      "title" : "neosでlogix",
+      "url" : "https://qiita.com/advent-calendar/2021/logix",
+      "unique_name" : "logix"
+    },
+    {
+      "title" : "Twilioでなんか作ります(仮）",
+      "url" : "https://qiita.com/advent-calendar/2021/sokosoko",
+      "unique_name" : "sokosoko"
+    },
+    {
+      "title" : "電脳",
+      "url" : "https://qiita.com/advent-calendar/2021/cyberbrain",
+      "unique_name" : "cyberbrain"
+    },
+    {
+      "title" : "Life is Tech ! Advent Calendar 2021",
+      "url" : "https://qiita.com/advent-calendar/2021/life-is-tech",
+      "unique_name" : "life-is-tech"
+    },
+    {
+      "title" : "NestJS",
+      "url" : "https://qiita.com/advent-calendar/2021/nestjs",
+      "unique_name" : "nestjs"
+    },
+    {
+      "title" : "BEAR.Sunday",
+      "url" : "https://qiita.com/advent-calendar/2021/bear-sunday",
+      "unique_name" : "bear-sunday"
+    },
+    {
+      "title" : "LINEと連携してみよう",
+      "url" : "https://qiita.com/advent-calendar/2021/line_notify_python",
+      "unique_name" : "line_notify_python"
+    },
+    {
+      "title" : "Python to Ruby",
+      "url" : "https://qiita.com/advent-calendar/2021/py2rb",
+      "unique_name" : "py2rb"
+    },
+    {
+      "title" : "CTO",
+      "url" : "https://qiita.com/advent-calendar/2021/cto",
+      "unique_name" : "cto"
+    },
+    {
+      "title" : "Baking Christmas CakePHP",
+      "url" : "https://qiita.com/advent-calendar/2021/baking-christmas-cakephp",
+      "unique_name" : "baking-christmas-cakephp"
+    },
+    {
+      "title" : "the sense advent calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/thesense",
+      "unique_name" : "thesense"
+    },
+    {
+      "title" : "2021年の25大ニュース",
+      "url" : "https://qiita.com/advent-calendar/2021/top25news",
+      "unique_name" : "top25news"
+    },
+    {
+      "title" : "エヌシーアイ総合システム",
+      "url" : "https://qiita.com/advent-calendar/2021/nci",
+      "unique_name" : "nci"
+    },
+    {
+      "title" : "Happy2022",
+      "url" : "https://qiita.com/advent-calendar/2021/ukin",
+      "unique_name" : "ukin"
+    },
+    {
+      "title" : "軽量マークアップ言語にまつわるあれこれ",
+      "url" : "https://qiita.com/advent-calendar/2021/markup",
+      "unique_name" : "markup"
+    },
+    {
+      "title" : "Twitter",
+      "url" : "https://qiita.com/advent-calendar/2021/twitter",
+      "unique_name" : "twitter"
+    },
+    {
+      "title" : "形式検証 / 形式手法",
+      "url" : "https://qiita.com/advent-calendar/2021/formal_verification",
+      "unique_name" : "formal_verification"
+    },
+    {
+      "title" : "一人アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/abogad",
+      "unique_name" : "abogad"
+    },
+    {
+      "title" : "あなたの心が動く時｜きっかけから繋がる物語",
+      "url" : "https://qiita.com/advent-calendar/2021/moved",
+      "unique_name" : "moved"
+    },
+    {
+      "title" : "今年のアウトプットおよび共有したいスキル",
+      "url" : "https://qiita.com/advent-calendar/2021/c-table",
+      "unique_name" : "c-table"
+    },
+    {
+      "title" : "株式会社Diverse",
+      "url" : "https://qiita.com/advent-calendar/2021/diverse",
+      "unique_name" : "diverse"
+    },
+    {
+      "title" : "Catallaxy",
+      "url" : "https://qiita.com/advent-calendar/2021/catallaxy",
+      "unique_name" : "catallaxy"
+    },
+    {
+      "title" : "法政大学情報科学部",
+      "url" : "https://qiita.com/advent-calendar/2021/cis_hosei",
+      "unique_name" : "cis_hosei"
+    },
+    {
+      "title" : "ひとりでkubernetesを中心に",
+      "url" : "https://qiita.com/advent-calendar/2021/kaisendon",
+      "unique_name" : "kaisendon"
+    },
+    {
+      "title" : "【Python】初心者からの脱却を目指して",
+      "url" : "https://qiita.com/advent-calendar/2021/python-study",
+      "unique_name" : "python-study"
+    },
+    {
+      "title" : "画像・動画・音声処理および XR ひとりアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/media-and-xr-lonely",
+      "unique_name" : "media-and-xr-lonely"
+    },
+    {
+      "title" : "gfam2021",
+      "url" : "https://qiita.com/advent-calendar/2021/gfam",
+      "unique_name" : "gfam"
+    },
+    {
+      "title" : "BitVisor",
+      "url" : "https://qiita.com/advent-calendar/2021/bitvisor",
+      "unique_name" : "bitvisor"
+    },
+    {
+      "title" : "IVRy Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/ivry",
+      "unique_name" : "ivry"
+    },
+    {
+      "title" : "なんもしらんけどRustでWasmやる",
+      "url" : "https://qiita.com/advent-calendar/2021/ignorant-rust-wasm",
+      "unique_name" : "ignorant-rust-wasm"
+    },
+    {
+      "title" : "いぐおアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/djigo",
+      "unique_name" : "djigo"
+    },
+    {
+      "title" : "Wano Group Advent Calendar2021",
+      "url" : "https://qiita.com/advent-calendar/2021/wano-group",
+      "unique_name" : "wano-group"
+    },
+    {
+      "title" : "ソーシャルメディアのデータを使用した分析・活用方法",
+      "url" : "https://qiita.com/advent-calendar/2021/socialmedia-data",
+      "unique_name" : "socialmedia-data"
+    },
+    {
+      "title" : "株式会社atWare（アットウェア",
+      "url" : "https://qiita.com/advent-calendar/2021/atware",
+      "unique_name" : "atware"
+    },
+    {
+      "title" : "クラウドAI by ナレコム",
+      "url" : "https://qiita.com/advent-calendar/2021/knowcom-cloudai",
+      "unique_name" : "knowcom-cloudai"
+    },
+    {
+      "title" : "株式会社ミツモア",
+      "url" : "https://qiita.com/advent-calendar/2021/meetsmore",
+      "unique_name" : "meetsmore"
+    },
+    {
+      "title" : "App::Greple チュートリアル",
+      "url" : "https://qiita.com/advent-calendar/2021/greple",
+      "unique_name" : "greple"
+    },
+    {
+      "title" : "iCARE の技術顧問がどんな事をやっているか - 2021アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/icare-frontend-tech-adviser",
+      "unique_name" : "icare-frontend-tech-adviser"
+    },
+    {
+      "title" : "クリスマスなのでC#でカノジョ（デスクトップアプリ）を作る",
+      "url" : "https://qiita.com/advent-calendar/2021/csharp-making-kanojo",
+      "unique_name" : "csharp-making-kanojo"
+    },
+    {
+      "title" : "hhattoのひとりアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/hhatto",
+      "unique_name" : "hhatto"
+    },
+    {
+      "title" : "IIJ 2021 TECHアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/iij_its",
+      "unique_name" : "iij_its"
+    },
+    {
+      "title" : "GAS",
+      "url" : "https://qiita.com/advent-calendar/2021/gas",
+      "unique_name" : "gas"
+    },
+    {
+      "title" : "ぼくのかんがえたさいきょうCPU",
+      "url" : "https://qiita.com/advent-calendar/2021/keisanki",
+      "unique_name" : "keisanki"
+    },
+    {
+      "title" : "SearchBank",
+      "url" : "https://qiita.com/advent-calendar/2021/search-bank",
+      "unique_name" : "search-bank"
+    },
+    {
+      "title" : "一人LiveView",
+      "url" : "https://qiita.com/advent-calendar/2021/liveview_alone",
+      "unique_name" : "liveview_alone"
+    },
+    {
+      "title" : "一人 bugs.ruby",
+      "url" : "https://qiita.com/advent-calendar/2021/bugs_ruby",
+      "unique_name" : "bugs_ruby"
+    },
+    {
+      "title" : "Google Cloud Japan Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/gcj-advent-calendar",
+      "unique_name" : "gcj-advent-calendar"
+    },
+    {
+      "title" : "PLISE",
+      "url" : "https://qiita.com/advent-calendar/2021/plise",
+      "unique_name" : "plise"
+    },
+    {
+      "title" : "spresense",
+      "url" : "https://qiita.com/advent-calendar/2021/spresense",
+      "unique_name" : "spresense"
+    },
+    {
+      "title" : "Tech.Uni",
+      "url" : "https://qiita.com/advent-calendar/2021/tech-uni",
+      "unique_name" : "tech-uni"
+    },
+    {
+      "title" : "有馬記念予想一人アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/arimakinenn",
+      "unique_name" : "arimakinenn"
+    },
+    {
+      "title" : "日本一詳しいOpenAI入門　by ナレコム Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/openai-knowledgecommunication",
+      "unique_name" : "openai-knowledgecommunication"
+    },
+    {
+      "title" : "Workato",
+      "url" : "https://qiita.com/advent-calendar/2021/workato",
+      "unique_name" : "workato"
+    },
+    {
+      "title" : "quarkus.io 翻訳",
+      "url" : "https://qiita.com/advent-calendar/2021/quarkusio",
+      "unique_name" : "quarkusio"
+    },
+    {
+      "title" : "p5.js",
+      "url" : "https://qiita.com/advent-calendar/2021/p5js",
+      "unique_name" : "p5js"
+    },
+    {
+      "title" : "Ateam Commerce Tech Inc. ",
+      "url" : "https://qiita.com/advent-calendar/2021/ateam-commerce-tech",
+      "unique_name" : "ateam-commerce-tech"
+    },
+    {
+      "title" : "Prop Tech plus",
+      "url" : "https://qiita.com/advent-calendar/2021/proptech-plus",
+      "unique_name" : "proptech-plus"
+    },
+    {
+      "title" : "さくらインターネット",
+      "url" : "https://qiita.com/advent-calendar/2021/sakura",
+      "unique_name" : "sakura"
+    },
+    {
+      "title" : "Oracle Graph",
+      "url" : "https://qiita.com/advent-calendar/2021/oracle-graph",
+      "unique_name" : "oracle-graph"
+    },
+    {
+      "title" : "激熱！1日1製品！最強のデータ系SaaSはどれだ決定戦",
+      "url" : "https://qiita.com/advent-calendar/2021/dive-deep-into-modern-data-saas",
+      "unique_name" : "dive-deep-into-modern-data-saas"
+    },
+    {
+      "title" : "JPHACKS 2021 Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/jphacks",
+      "unique_name" : "jphacks"
+    },
+    {
+      "title" : "trocco",
+      "url" : "https://qiita.com/advent-calendar/2021/trocco",
+      "unique_name" : "trocco"
+    },
+    {
+      "title" : "iCARE Dev",
+      "url" : "https://qiita.com/advent-calendar/2021/icaredev",
+      "unique_name" : "icaredev"
+    },
+    {
+      "title" : "Wazaterm Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/wazaterm",
+      "unique_name" : "wazaterm"
+    },
+    {
+      "title" : "クランチタイマー株式会社",
+      "url" : "https://qiita.com/advent-calendar/2021/crunchtimer",
+      "unique_name" : "crunchtimer"
+    },
+    {
+      "title" : "Livesense",
+      "url" : "https://qiita.com/advent-calendar/2021/livesense",
+      "unique_name" : "livesense"
+    },
+    {
+      "title" : "Octoparse  Advent Calendar 2021(プレゼント：有料プランの15～90に日間の無料利用）",
+      "url" : "https://qiita.com/advent-calendar/2021/octoparse-service",
+      "unique_name" : "octoparse-service"
+    },
+    {
+      "title" : "REALITY Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/reality_inc",
+      "unique_name" : "reality_inc"
+    },
+    {
+      "title" : "クリエイティブエンジニアのための狂科書",
+      "url" : "https://qiita.com/advent-calendar/2021/hello-crazy-world",
+      "unique_name" : "hello-crazy-world"
+    },
+    {
+      "title" : "Unity始めた頃の自分に教えたい ゲーム開発のテクニック【スタジオしまづ 】",
+      "url" : "https://qiita.com/advent-calendar/2021/studioshimazu_unity_tips",
+      "unique_name" : "studioshimazu_unity_tips"
+    },
+    {
+      "title" : "制御工学",
+      "url" : "https://qiita.com/advent-calendar/2021/system_control",
+      "unique_name" : "system_control"
+    },
+    {
+      "title" : "Cloud and Build, Inc",
+      "url" : "https://qiita.com/advent-calendar/2021/cloud-and-build-inc",
+      "unique_name" : "cloud-and-build-inc"
+    },
+    {
+      "title" : "ROS2",
+      "url" : "https://qiita.com/advent-calendar/2021/ros2",
+      "unique_name" : "ros2"
+    },
+    {
+      "title" : "アドベントカレンダーデラックス",
+      "url" : "https://qiita.com/advent-calendar/2021/advent-calendar-delaxe",
+      "unique_name" : "advent-calendar-delaxe"
+    },
+    {
+      "title" : "DevSecOps",
+      "url" : "https://qiita.com/advent-calendar/2021/devsecops",
+      "unique_name" : "devsecops"
+    },
+    {
+      "title" : "Lazarus(FreePascal)",
+      "url" : "https://qiita.com/advent-calendar/2021/freepascal",
+      "unique_name" : "freepascal"
+    },
+    {
+      "title" : "Databricks",
+      "url" : "https://qiita.com/advent-calendar/2021/databricks",
+      "unique_name" : "databricks"
+    },
+    {
+      "title" : "難解プログラミング言語",
+      "url" : "https://qiita.com/advent-calendar/2021/nankaiprograming",
+      "unique_name" : "nankaiprograming"
+    },
+    {
+      "title" : "秋葉原ロボット部",
+      "url" : "https://qiita.com/advent-calendar/2021/akbrobot",
+      "unique_name" : "akbrobot"
+    },
+    {
+      "title" : "23卒のエンジニア職志望向けAdvent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/23grads",
+      "unique_name" : "23grads"
+    },
+    {
+      "title" : "サンプル",
+      "url" : "https://qiita.com/advent-calendar/2021/nagatutu",
+      "unique_name" : "nagatutu"
+    },
+    {
+      "title" : "OpsRamp",
+      "url" : "https://qiita.com/advent-calendar/2021/opsramp",
+      "unique_name" : "opsramp"
+    },
+    {
+      "title" : "ひろ亭",
+      "url" : "https://qiita.com/advent-calendar/2021/hirosys",
+      "unique_name" : "hirosys"
+    },
+    {
+      "title" : "株式会社カケハシ x TypeScript",
+      "url" : "https://qiita.com/advent-calendar/2021/kkhs-ts",
+      "unique_name" : "kkhs-ts"
+    },
+    {
+      "title" : "ミライトデザイン",
+      "url" : "https://qiita.com/advent-calendar/2021/miraito-inc",
+      "unique_name" : "miraito-inc"
+    },
+    {
+      "title" : "ミクシィグループ QAエンジニア",
+      "url" : "https://qiita.com/advent-calendar/2021/mixi_qa",
+      "unique_name" : "mixi_qa"
+    },
+    {
+      "title" : "PARONYM",
+      "url" : "https://qiita.com/advent-calendar/2021/paronym",
+      "unique_name" : "paronym"
+    },
+    {
+      "title" : "Linkbal（リンクバル）",
+      "url" : "https://qiita.com/advent-calendar/2021/linkbal",
+      "unique_name" : "linkbal"
+    },
+    {
+      "title" : "hcscode",
+      "url" : "https://qiita.com/advent-calendar/2021/hcscode",
+      "unique_name" : "hcscode"
+    },
+    {
+      "title" : "Rtipsアタック25【解答編】",
+      "url" : "https://qiita.com/advent-calendar/2021/r_tips_attack25_ans",
+      "unique_name" : "r_tips_attack25_ans"
+    },
+    {
+      "title" : "Rtipsアタック25【出題編】",
+      "url" : "https://qiita.com/advent-calendar/2021/r_tips_attack25_q",
+      "unique_name" : "r_tips_attack25_q"
+    },
+    {
+      "title" : "日立製作所 クラウドビジネス推進センタ",
+      "url" : "https://qiita.com/advent-calendar/2021/hitachi-cbc",
+      "unique_name" : "hitachi-cbc"
+    },
+    {
+      "title" : "CIST (公立千歳科学技術大学)",
+      "url" : "https://qiita.com/advent-calendar/2021/cist",
+      "unique_name" : "cist"
+    },
+    {
+      "title" : "DMMグループ",
+      "url" : "https://qiita.com/advent-calendar/2021/dmm",
+      "unique_name" : "dmm"
+    },
+    {
+      "title" : "株式会社D2C dot",
+      "url" : "https://qiita.com/advent-calendar/2021/d2cdot",
+      "unique_name" : "d2cdot"
+    },
+    {
+      "title" : "OPTIMIND x Acompany",
+      "url" : "https://qiita.com/advent-calendar/2021/optimind_acompany",
+      "unique_name" : "optimind_acompany"
+    },
+    {
+      "title" : "Cisco Systems Japan Advent Calendar 2021 2nd",
+      "url" : "https://qiita.com/advent-calendar/2021/cisco2",
+      "unique_name" : "cisco2"
+    },
+    {
+      "title" : "Minecraftサーバ開発・運営",
+      "url" : "https://qiita.com/advent-calendar/2021/minecraft-server-dev",
+      "unique_name" : "minecraft-server-dev"
+    },
+    {
+      "title" : "NoSQL/NewSQL",
+      "url" : "https://qiita.com/advent-calendar/2021/nosql_newsql",
+      "unique_name" : "nosql_newsql"
+    },
+    {
+      "title" : "deck.gl",
+      "url" : "https://qiita.com/advent-calendar/2021/deckgl",
+      "unique_name" : "deckgl"
+    },
+    {
+      "title" : "グリー品質管理",
+      "url" : "https://qiita.com/advent-calendar/2021/greecps2021",
+      "unique_name" : "greecps2021"
+    },
+    {
+      "title" : "Z Lab",
+      "url" : "https://qiita.com/advent-calendar/2021/zlab",
+      "unique_name" : "zlab"
+    },
+    {
+      "title" : "闇のプログラミング",
+      "url" : "https://qiita.com/advent-calendar/2021/darkprogramming",
+      "unique_name" : "darkprogramming"
+    },
+    {
+      "title" : "2021年のディープラーニング論文を1人で読むAdvent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/solo-dl-papers",
+      "unique_name" : "solo-dl-papers"
+    },
+    {
+      "title" : "日立ソリューションズ OSS",
+      "url" : "https://qiita.com/advent-calendar/2021/hitachi-solutions-oss",
+      "unique_name" : "hitachi-solutions-oss"
+    },
+    {
+      "title" : "DeNA",
+      "url" : "https://qiita.com/advent-calendar/2021/dena",
+      "unique_name" : "dena"
+    },
+    {
+      "title" : "かれかる１",
+      "url" : "https://qiita.com/advent-calendar/2021/karecal1",
+      "unique_name" : "karecal1"
+    },
+    {
+      "title" : "ビビッドガーデン",
+      "url" : "https://qiita.com/advent-calendar/2021/vivid-garden",
+      "unique_name" : "vivid-garden"
+    },
+    {
+      "title" : "ニジボックス",
+      "url" : "https://qiita.com/advent-calendar/2021/nijibox",
+      "unique_name" : "nijibox"
+    },
+    {
+      "title" : "shint",
+      "url" : "https://qiita.com/advent-calendar/2021/shint",
+      "unique_name" : "shint"
+    },
+    {
+      "title" : "Uzabase",
+      "url" : "https://qiita.com/advent-calendar/2021/uzabase",
+      "unique_name" : "uzabase"
+    },
+    {
+      "title" : "アノテーション株式会社 AWS Technical Support",
+      "url" : "https://qiita.com/advent-calendar/2021/annotation-aws-technical-support",
+      "unique_name" : "annotation-aws-technical-support"
+    },
+    {
+      "title" : "Panasonic×AI",
+      "url" : "https://qiita.com/advent-calendar/2021/panasonic_ai",
+      "unique_name" : "panasonic_ai"
+    },
+    {
+      "title" : "AWS Startup Community",
+      "url" : "https://qiita.com/advent-calendar/2021/startups-on-aws",
+      "unique_name" : "startups-on-aws"
+    },
+    {
+      "title" : "AWS Containers",
+      "url" : "https://qiita.com/advent-calendar/2021/aws-containers",
+      "unique_name" : "aws-containers"
+    },
+    {
+      "title" : "はんなりPython アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/hannari_python",
+      "unique_name" : "hannari_python"
+    },
+    {
+      "title" : "NTTテクノクロス",
+      "url" : "https://qiita.com/advent-calendar/2021/ntt-tx",
+      "unique_name" : "ntt-tx"
+    },
+    {
+      "title" : "エンジニア学生インターン&アルバイト",
+      "url" : "https://qiita.com/advent-calendar/2021/internship",
+      "unique_name" : "internship"
+    },
+    {
+      "title" : "Photoruction",
+      "url" : "https://qiita.com/advent-calendar/2021/photoruction-adcale-2021",
+      "unique_name" : "photoruction-adcale-2021"
+    },
+    {
+      "title" : "Box",
+      "url" : "https://qiita.com/advent-calendar/2021/box",
+      "unique_name" : "box"
+    },
+    {
+      "title" : "統計/機械学習の推しトピック 〜あなたの推しを教えてください〜",
+      "url" : "https://qiita.com/advent-calendar/2021/let-us-study-stat",
+      "unique_name" : "let-us-study-stat"
+    },
+    {
+      "title" : "株式会社やどかり & 株式会社ネッコス",
+      "url" : "https://qiita.com/advent-calendar/2021/yadokari_qiita",
+      "unique_name" : "yadokari_qiita"
+    },
+    {
+      "title" : "Koinori年貢の納め時",
+      "url" : "https://qiita.com/advent-calendar/2021/adv_koinori",
+      "unique_name" : "adv_koinori"
+    },
+    {
+      "title" : "eeic （東京大学工学部電気電子・電子情報工学科）",
+      "url" : "https://qiita.com/advent-calendar/2021/eeic",
+      "unique_name" : "eeic"
+    },
+    {
+      "title" : "Wikimedia",
+      "url" : "https://qiita.com/advent-calendar/2021/wikimedia",
+      "unique_name" : "wikimedia"
+    },
+    {
+      "title" : "2021年HUITアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/huit",
+      "unique_name" : "huit"
+    },
+    {
+      "title" : "DevelopersPackages.org",
+      "url" : "https://qiita.com/advent-calendar/2021/dev-pack",
+      "unique_name" : "dev-pack"
+    },
+    {
+      "title" : "Dart",
+      "url" : "https://qiita.com/advent-calendar/2021/dart",
+      "unique_name" : "dart"
+    },
+    {
+      "title" : "NRI OpenStandia",
+      "url" : "https://qiita.com/advent-calendar/2021/nri-openstandia",
+      "unique_name" : "nri-openstandia"
+    },
+    {
+      "title" : "クラスメソッド Zendesk入門 ",
+      "url" : "https://qiita.com/advent-calendar/2021/classmethod-zendesk",
+      "unique_name" : "classmethod-zendesk"
+    },
+    {
+      "title" : "ServiceNow Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/servicenow",
+      "unique_name" : "servicenow"
+    },
+    {
+      "title" : "【非公式】NCU芸工情報",
+      "url" : "https://qiita.com/advent-calendar/2021/ncudainfo",
+      "unique_name" : "ncudainfo"
+    },
+    {
+      "title" : "プロダクトづくりのための挑戦とその成功・失敗談を綴るアドベントカレンダー powered by プロダクト筋トレ",
+      "url" : "https://qiita.com/advent-calendar/2021/product-kintore-challenge",
+      "unique_name" : "product-kintore-challenge"
+    },
+    {
+      "title" : "Code Polaris 2021",
+      "url" : "https://qiita.com/advent-calendar/2021/code-polaris",
+      "unique_name" : "code-polaris"
+    },
+    {
+      "title" : "リンクアンドモチベーション Advent Calendar2021",
+      "url" : "https://qiita.com/advent-calendar/2021/mcs",
+      "unique_name" : "mcs"
+    },
+    {
+      "title" : "Ubiregi",
+      "url" : "https://qiita.com/advent-calendar/2021/ubiregi",
+      "unique_name" : "ubiregi"
+    },
+    {
+      "title" : "EAGLYS",
+      "url" : "https://qiita.com/advent-calendar/2021/eaglys_adcal",
+      "unique_name" : "eaglys_adcal"
+    },
+    {
+      "title" : "トラストバンク",
+      "url" : "https://qiita.com/advent-calendar/2021/trustbank",
+      "unique_name" : "trustbank"
+    },
+    {
+      "title" : "Infocom",
+      "url" : "https://qiita.com/advent-calendar/2021/infocom",
+      "unique_name" : "infocom"
+    },
+    {
+      "title" : "Perl",
+      "url" : "https://qiita.com/advent-calendar/2021/perl",
+      "unique_name" : "perl"
+    },
+    {
+      "title" : "LINE WORKS",
+      "url" : "https://qiita.com/advent-calendar/2021/lineworks",
+      "unique_name" : "lineworks"
+    },
+    {
+      "title" : "【初心者向け】Ruby のまずいコード 25 本",
+      "url" : "https://qiita.com/advent-calendar/2021/undesirable-ruby-code25",
+      "unique_name" : "undesirable-ruby-code25"
+    },
+    {
+      "title" : "データラーニングギルド",
+      "url" : "https://qiita.com/advent-calendar/2021/data-learning-guild",
+      "unique_name" : "data-learning-guild"
+    },
+    {
+      "title" : "シアトルコンサルティング株式会社",
+      "url" : "https://qiita.com/advent-calendar/2021/seattleconsulting",
+      "unique_name" : "seattleconsulting"
+    },
+    {
+      "title" : "アソビュー！",
+      "url" : "https://qiita.com/advent-calendar/2021/asoview",
+      "unique_name" : "asoview"
+    },
+    {
+      "title" : "一人ネットワーク、システムプログラミングを勉強する",
+      "url" : "https://qiita.com/advent-calendar/2021/nukopy-study-network-syspro",
+      "unique_name" : "nukopy-study-network-syspro"
+    },
+    {
+      "title" : "一人けんちょん本を読む",
+      "url" : "https://qiita.com/advent-calendar/2021/nukopy-kenchon-book",
+      "unique_name" : "nukopy-kenchon-book"
+    },
+    {
+      "title" : "micro:bit",
+      "url" : "https://qiita.com/advent-calendar/2021/microbit",
+      "unique_name" : "microbit"
+    },
+    {
+      "title" : "株式会社日立システムズ",
+      "url" : "https://qiita.com/advent-calendar/2021/hisys",
+      "unique_name" : "hisys"
+    },
+    {
+      "title" : "カス記事アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/dz",
+      "unique_name" : "dz"
+    },
+    {
+      "title" : "DXライブラリ",
+      "url" : "https://qiita.com/advent-calendar/2021/dxlib",
+      "unique_name" : "dxlib"
+    },
+    {
+      "title" : "Framer",
+      "url" : "https://qiita.com/advent-calendar/2021/framer",
+      "unique_name" : "framer"
+    },
+    {
+      "title" : "HTML",
+      "url" : "https://qiita.com/advent-calendar/2021/html",
+      "unique_name" : "html"
+    },
+    {
+      "title" : "ジーズアカデミー",
+      "url" : "https://qiita.com/advent-calendar/2021/gsacademy",
+      "unique_name" : "gsacademy"
+    },
+    {
+      "title" : "JSL(日本システム技研)",
+      "url" : "https://qiita.com/advent-calendar/2021/jsl",
+      "unique_name" : "jsl"
+    },
+    {
+      "title" : "NTTコムウェア",
+      "url" : "https://qiita.com/advent-calendar/2021/nttcomware",
+      "unique_name" : "nttcomware"
+    },
+    {
+      "title" : "OpenStreetMap",
+      "url" : "https://qiita.com/advent-calendar/2021/osmjp",
+      "unique_name" : "osmjp"
+    },
+    {
+      "title" : "PONOS",
+      "url" : "https://qiita.com/advent-calendar/2021/ponos",
+      "unique_name" : "ponos"
+    },
+    {
+      "title" : "ProtoPedia",
+      "url" : "https://qiita.com/advent-calendar/2021/protopedia",
+      "unique_name" : "protopedia"
+    },
+    {
+      "title" : "MAヒーローズ・リーグ",
+      "url" : "https://qiita.com/advent-calendar/2021/heroesleague",
+      "unique_name" : "heroesleague"
+    },
+    {
+      "title" : "通信業界アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/telecom",
+      "unique_name" : "telecom"
+    },
+    {
+      "title" : "NECソリューションイノベータ",
+      "url" : "https://qiita.com/advent-calendar/2021/nec_solution_innovators",
+      "unique_name" : "nec_solution_innovators"
+    },
+    {
+      "title" : "SREの日常",
+      "url" : "https://qiita.com/advent-calendar/2021/sre-nitijyou",
+      "unique_name" : "sre-nitijyou"
+    },
+    {
+      "title" : "Legalscape アドベントカレンダー 2021",
+      "url" : "https://qiita.com/advent-calendar/2021/legalscape",
+      "unique_name" : "legalscape"
+    },
+    {
+      "title" : "kafka/kafka-streams/kafka-connect/ksql etc",
+      "url" : "https://qiita.com/advent-calendar/2021/kafka",
+      "unique_name" : "kafka"
+    },
+    {
+      "title" : "Webex",
+      "url" : "https://qiita.com/advent-calendar/2021/webex",
+      "unique_name" : "webex"
+    },
+    {
+      "title" : "豊田工業大学Kaggleサークル",
+      "url" : "https://qiita.com/advent-calendar/2021/kaggle-toyota-ti",
+      "unique_name" : "kaggle-toyota-ti"
+    },
+    {
+      "title" : "Ateam Hikkoshi samurai Inc.× Ateam Connect Inc.",
+      "url" : "https://qiita.com/advent-calendar/2021/hikkoshizamurai-connect",
+      "unique_name" : "hikkoshizamurai-connect"
+    },
+    {
+      "title" : "駆け出しエンジニアのカレンダー（～2022/03）",
+      "url" : "https://qiita.com/advent-calendar/2021/xps_newface",
+      "unique_name" : "xps_newface"
+    },
+    {
+      "title" : "IIT（Iwate Industrial Tecnology）",
+      "url" : "https://qiita.com/advent-calendar/2021/iit_it",
+      "unique_name" : "iit_it"
+    },
+    {
+      "title" : "James",
+      "url" : "https://qiita.com/advent-calendar/2021/james",
+      "unique_name" : "james"
+    },
+    {
+      "title" : "LINE DC Advent Calendar 2021 (クリスマスプレゼント付き)",
+      "url" : "https://qiita.com/advent-calendar/2021/linedc",
+      "unique_name" : "linedc"
+    },
+    {
+      "title" : "Zeals ",
+      "url" : "https://qiita.com/advent-calendar/2021/zeals",
+      "unique_name" : "zeals"
+    },
+    {
+      "title" : "オークファングループ",
+      "url" : "https://qiita.com/advent-calendar/2021/aucfan",
+      "unique_name" : "aucfan"
+    },
+    {
+      "title" : "バイセルテクノロジーズ",
+      "url" : "https://qiita.com/advent-calendar/2021/buysell-tech",
+      "unique_name" : "buysell-tech"
+    },
+    {
+      "title" : "スタンバイ",
+      "url" : "https://qiita.com/advent-calendar/2021/stanby",
+      "unique_name" : "stanby"
+    },
+    {
+      "title" : "T-DASHと他のテスト自動化ツールを比べてみた！【PR】T-DASH",
+      "url" : "https://qiita.com/advent-calendar/2021/tdash02",
+      "unique_name" : "tdash02"
+    },
+    {
+      "title" : "T-DASHを使ってみた！【PR】T-DASH",
+      "url" : "https://qiita.com/advent-calendar/2021/tdash",
+      "unique_name" : "tdash"
+    },
+    {
+      "title" : "AWS CDK",
+      "url" : "https://qiita.com/advent-calendar/2021/aws-cdk",
+      "unique_name" : "aws-cdk"
+    },
+    {
+      "title" : "AIRS-Lab",
+      "url" : "https://qiita.com/advent-calendar/2021/airs-lab",
+      "unique_name" : "airs-lab"
+    },
+    {
+      "title" : "ラクス",
+      "url" : "https://qiita.com/advent-calendar/2021/rakus",
+      "unique_name" : "rakus"
+    },
+    {
+      "title" : "LIGHTz",
+      "url" : "https://qiita.com/advent-calendar/2021/lightz",
+      "unique_name" : "lightz"
+    },
+    {
+      "title" : "Microsoft Azure Tech",
+      "url" : "https://qiita.com/advent-calendar/2021/microsoft-azure-tech",
+      "unique_name" : "microsoft-azure-tech"
+    },
+    {
+      "title" : "富士通クラウドテクノロジーズ",
+      "url" : "https://qiita.com/advent-calendar/2021/fjct",
+      "unique_name" : "fjct"
+    },
+    {
+      "title" : "キーボードとマウスとコーヒーと",
+      "url" : "https://qiita.com/advent-calendar/2021/keyboard_mouse",
+      "unique_name" : "keyboard_mouse"
+    },
+    {
+      "title" : "HRBrain",
+      "url" : "https://qiita.com/advent-calendar/2021/hrbrain",
+      "unique_name" : "hrbrain"
+    },
+    {
+      "title" : "株式会社シンプルウェイ",
+      "url" : "https://qiita.com/advent-calendar/2021/simpleway",
+      "unique_name" : "simpleway"
+    },
+    {
+      "title" : "DENSO",
+      "url" : "https://qiita.com/advent-calendar/2021/denso",
+      "unique_name" : "denso"
+    },
+    {
+      "title" : "NTTドコモ R&D",
+      "url" : "https://qiita.com/advent-calendar/2021/nttdocomo",
+      "unique_name" : "nttdocomo"
+    },
+    {
+      "title" : "Distributed computing (Apache Spark, Hadoop, Kafka, ...)",
+      "url" : "https://qiita.com/advent-calendar/2021/distributed-computing",
+      "unique_name" : "distributed-computing"
+    },
+    {
+      "title" : "ＡＲアドバンストテクノロジ株式会社（ＡＲＩ）",
+      "url" : "https://qiita.com/advent-calendar/2021/ari-group",
+      "unique_name" : "ari-group"
+    },
+    {
+      "title" : "インフォマティカ",
+      "url" : "https://qiita.com/advent-calendar/2021/informatica",
+      "unique_name" : "informatica"
+    },
+    {
+      "title" : "ハンズラボ",
+      "url" : "https://qiita.com/advent-calendar/2021/handslab",
+      "unique_name" : "handslab"
+    },
+    {
+      "title" : "パーソンリンク アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/personlink",
+      "unique_name" : "personlink"
+    },
+    {
+      "title" : "日本語プログラミング言語「プロデル」",
+      "url" : "https://qiita.com/advent-calendar/2021/produire",
+      "unique_name" : "produire"
+    },
+    {
+      "title" : "Ateam Lifestyle Inc.",
+      "url" : "https://qiita.com/advent-calendar/2021/ateam-lifestyle",
+      "unique_name" : "ateam-lifestyle"
+    },
+    {
+      "title" : "MENTAについて語ろう！",
+      "url" : "https://qiita.com/advent-calendar/2021/menta",
+      "unique_name" : "menta"
+    },
+    {
+      "title" : "株式会社デジタルクエスト",
+      "url" : "https://qiita.com/advent-calendar/2021/digiq-tech",
+      "unique_name" : "digiq-tech"
+    },
+    {
+      "title" : "音ゲーのあれこれ",
+      "url" : "https://qiita.com/advent-calendar/2021/otoge",
+      "unique_name" : "otoge"
+    },
+    {
+      "title" : "Japan APN Ambassador",
+      "url" : "https://qiita.com/advent-calendar/2021/japan-apn-ambassador",
+      "unique_name" : "japan-apn-ambassador"
+    },
+    {
+      "title" : "WHITEPLUS",
+      "url" : "https://qiita.com/advent-calendar/2021/whiteplus",
+      "unique_name" : "whiteplus"
+    },
+    {
+      "title" : "株式会社エイアイ・フィールド",
+      "url" : "https://qiita.com/advent-calendar/2021/aifield",
+      "unique_name" : "aifield"
+    },
+    {
+      "title" : "Mapbox",
+      "url" : "https://qiita.com/advent-calendar/2021/mapbox",
+      "unique_name" : "mapbox"
+    },
+    {
+      "title" : " 災害ドローン救援隊 DRONEBIRD",
+      "url" : "https://qiita.com/advent-calendar/2021/dronebird",
+      "unique_name" : "dronebird"
+    },
+    {
+      "title" : "Smalltalk",
+      "url" : "https://qiita.com/advent-calendar/2021/smalltalk",
+      "unique_name" : "smalltalk"
+    },
+    {
+      "title" : "Furuhashi Lab.",
+      "url" : "https://qiita.com/advent-calendar/2021/furuhashilab",
+      "unique_name" : "furuhashilab"
+    },
+    {
+      "title" : "ドキュメンテーション",
+      "url" : "https://qiita.com/advent-calendar/2021/documentation",
+      "unique_name" : "documentation"
+    },
+    {
+      "title" : "アイソルート",
+      "url" : "https://qiita.com/advent-calendar/2021/isoroot",
+      "unique_name" : "isoroot"
+    },
+    {
+      "title" : "AWS Analytics",
+      "url" : "https://qiita.com/advent-calendar/2021/aws-analytics",
+      "unique_name" : "aws-analytics"
+    },
+    {
+      "title" : "Eureka",
+      "url" : "https://qiita.com/advent-calendar/2021/eureka",
+      "unique_name" : "eureka"
+    },
+    {
+      "title" : "株式会社mofmof",
+      "url" : "https://qiita.com/advent-calendar/2021/mofmof",
+      "unique_name" : "mofmof"
+    },
+    {
+      "title" : "RAKSUL（ラクスル）",
+      "url" : "https://qiita.com/advent-calendar/2021/raksul",
+      "unique_name" : "raksul"
+    },
+    {
+      "title" : "EC-CUBE",
+      "url" : "https://qiita.com/advent-calendar/2021/ec-cube",
+      "unique_name" : "ec-cube"
+    },
+    {
+      "title" : "Dentsu Digital",
+      "url" : "https://qiita.com/advent-calendar/2021/dentsudigital",
+      "unique_name" : "dentsudigital"
+    },
+    {
+      "title" : "YAMAP エンジニア",
+      "url" : "https://qiita.com/advent-calendar/2021/yamap-engginers",
+      "unique_name" : "yamap-engginers"
+    },
+    {
+      "title" : "DevRel",
+      "url" : "https://qiita.com/advent-calendar/2021/devrel",
+      "unique_name" : "devrel"
+    },
+    {
+      "title" : "Craft Egg",
+      "url" : "https://qiita.com/advent-calendar/2021/craftegg",
+      "unique_name" : "craftegg"
+    },
+    {
+      "title" : "エキサイトホールディングス",
+      "url" : "https://qiita.com/advent-calendar/2021/excite-hd",
+      "unique_name" : "excite-hd"
+    },
+    {
+      "title" : " LIFULL",
+      "url" : "https://qiita.com/advent-calendar/2021/lifull",
+      "unique_name" : "lifull"
+    },
+    {
+      "title" : "Dialog",
+      "url" : "https://qiita.com/advent-calendar/2021/dialog",
+      "unique_name" : "dialog"
+    },
+    {
+      "title" : "センシンロボティクス",
+      "url" : "https://qiita.com/advent-calendar/2021/sensyn-robotics",
+      "unique_name" : "sensyn-robotics"
+    },
+    {
+      "title" : "株式会社カオナビ",
+      "url" : "https://qiita.com/advent-calendar/2021/kaonavi",
+      "unique_name" : "kaonavi"
+    },
+    {
+      "title" : "セゾン情報システムズ",
+      "url" : "https://qiita.com/advent-calendar/2021/sisco",
+      "unique_name" : "sisco"
+    },
+    {
+      "title" : "TOPPERS",
+      "url" : "https://qiita.com/advent-calendar/2021/toppers",
+      "unique_name" : "toppers"
+    },
+    {
+      "title" : "PostgreSQL",
+      "url" : "https://qiita.com/advent-calendar/2021/postgresql",
+      "unique_name" : "postgresql"
+    },
+    {
+      "title" : "株式会社カオナビ",
+      "url" : "https://qiita.com/advent-calendar/2021/kaonavi",
+      "unique_name" : "kaonavi"
+    },
+    {
+      "title" : "セゾン情報システムズ",
+      "url" : "https://qiita.com/advent-calendar/2021/sisco",
+      "unique_name" : "sisco"
+    },
+    {
+      "title" : "TOPPERS",
+      "url" : "https://qiita.com/advent-calendar/2021/toppers",
+      "unique_name" : "toppers"
+    },
+    {
+      "title" : "PostgreSQL",
+      "url" : "https://qiita.com/advent-calendar/2021/postgresql",
+      "unique_name" : "postgresql"
+    },
+    {
+      "title" : "TechCommit",
+      "url" : "https://qiita.com/advent-calendar/2021/tech-commit",
+      "unique_name" : "tech-commit"
+    },
+    {
+      "title" : "Scratchクックブック",
+      "url" : "https://qiita.com/advent-calendar/2021/scratch-cookbook",
+      "unique_name" : "scratch-cookbook"
+    },
+    {
+      "title" : "大学生限定クリエイティブコミュニティGeekSalon",
+      "url" : "https://qiita.com/advent-calendar/2021/geeksalon",
+      "unique_name" : "geeksalon"
+    },
+    {
+      "title" : "STYLYアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/styly",
+      "unique_name" : "styly"
+    },
+    {
+      "title" : "Tcl/Tk",
+      "url" : "https://qiita.com/advent-calendar/2021/tcltk",
+      "unique_name" : "tcltk"
+    },
+    {
+      "title" : "理工展 - 早稲田理工学園祭の開発チーム",
+      "url" : "https://qiita.com/advent-calendar/2021/rikoten",
+      "unique_name" : "rikoten"
+    },
+    {
+      "title" : "Shopify",
+      "url" : "https://qiita.com/advent-calendar/2021/shopify",
+      "unique_name" : "shopify"
+    },
+    {
+      "title" : "Stripe Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/stripe",
+      "unique_name" : "stripe"
+    },
+    {
+      "title" : "M5Stack",
+      "url" : "https://qiita.com/advent-calendar/2021/m5stack",
+      "unique_name" : "m5stack"
+    },
+    {
+      "title" : "Advent Calendar for upcoming Regional Scrum Gathering Tokyo 2022",
+      "url" : "https://qiita.com/advent-calendar/2021/rsgt",
+      "unique_name" : "rsgt"
+    },
+    {
+      "title" : "HCB Advent  Calendar 2021",
+      "url" : "https://qiita.com/advent-calendar/2021/hcb-2021",
+      "unique_name" : "hcb-2021"
+    },
+    {
+      "title" : "ETロボコン Unofficial",
+      "url" : "https://qiita.com/advent-calendar/2021/etrobo",
+      "unique_name" : "etrobo"
+    },
+    {
+      "title" : "法政大学",
+      "url" : "https://qiita.com/advent-calendar/2021/hosei-university",
+      "unique_name" : "hosei-university"
+    },
+    {
+      "title" : "Azure",
+      "url" : "https://qiita.com/advent-calendar/2021/azure",
+      "unique_name" : "azure"
+    },
+    {
+      "title" : "Zoom",
+      "url" : "https://qiita.com/advent-calendar/2021/zoom",
+      "unique_name" : "zoom"
+    },
+    {
+      "title" : "法政大学",
+      "url" : "https://qiita.com/advent-calendar/2021/hosei-university",
+      "unique_name" : "hosei-university"
+    },
+    {
+      "title" : "Azure",
+      "url" : "https://qiita.com/advent-calendar/2021/azure",
+      "unique_name" : "azure"
+    },
+    {
+      "title" : "Zoom",
+      "url" : "https://qiita.com/advent-calendar/2021/zoom",
+      "unique_name" : "zoom"
+    },
+    {
+      "title" : "PWA（Progressive Web Apps）",
+      "url" : "https://qiita.com/advent-calendar/2021/pwa",
+      "unique_name" : "pwa"
+    },
+    {
+      "title" : "MDC",
+      "url" : "https://qiita.com/advent-calendar/2021/mdc",
+      "unique_name" : "mdc"
+    },
+    {
+      "title" : "Ansible",
+      "url" : "https://qiita.com/advent-calendar/2021/ansible",
+      "unique_name" : "ansible"
+    },
+    {
+      "title" : "赤ちゃんは25日でアプリの設計から開発まで遂行できるのか",
+      "url" : "https://qiita.com/advent-calendar/2021/baby-challenge",
+      "unique_name" : "baby-challenge"
+    },
+    {
+      "title" : "PERSOL PROCESS & TECHNOLOGY",
+      "url" : "https://qiita.com/advent-calendar/2021/ppt",
+      "unique_name" : "ppt"
+    },
+    {
+      "title" : "Tableau",
+      "url" : "https://qiita.com/advent-calendar/2021/tableau2021",
+      "unique_name" : "tableau2021"
+    },
+    {
+      "title" : "朝日新聞社",
+      "url" : "https://qiita.com/advent-calendar/2021/asahi",
+      "unique_name" : "asahi"
+    },
+    {
+      "title" : "Looker",
+      "url" : "https://qiita.com/advent-calendar/2021/looker",
+      "unique_name" : "looker"
+    },
+    {
+      "title" : "Miro",
+      "url" : "https://qiita.com/advent-calendar/2021/miro",
+      "unique_name" : "miro"
+    },
+    {
+      "title" : "KINTO Technologies - トヨタ車のサブスク「KINTO」開発中！",
+      "url" : "https://qiita.com/advent-calendar/2021/kinto-technologies",
+      "unique_name" : "kinto-technologies"
+    },
+    {
+      "title" : "はてなエンジニア",
+      "url" : "https://qiita.com/advent-calendar/2021/hatena",
+      "unique_name" : "hatena"
+    },
+    {
+      "title" : "Ateam Finergy Inc.",
+      "url" : "https://qiita.com/advent-calendar/2021/ateam-finergy",
+      "unique_name" : "ateam-finergy"
+    },
+    {
+      "title" : "Ateam Brides Inc.",
+      "url" : "https://qiita.com/advent-calendar/2021/ateam-brides",
+      "unique_name" : "ateam-brides"
+    },
+    {
+      "title" : "Ateam Brides Inc.",
+      "url" : "https://qiita.com/advent-calendar/2021/ateam-brides",
+      "unique_name" : "ateam-brides"
+    },
+    {
+      "title" : "PasonaTech",
+      "url" : "https://qiita.com/advent-calendar/2021/pasonatech",
+      "unique_name" : "pasonatech"
+    },
+    {
+      "title" : "株式会社Works Human Intelligence",
+      "url" : "https://qiita.com/advent-calendar/2021/advent-works-hi",
+      "unique_name" : "advent-works-hi"
+    },
+    {
+      "title" : "Riot.js",
+      "url" : "https://qiita.com/advent-calendar/2021/riot",
+      "unique_name" : "riot"
+    },
+    {
+      "title" : "ナイル",
+      "url" : "https://qiita.com/advent-calendar/2021/nyle",
+      "unique_name" : "nyle"
+    },
+    {
+      "title" : "シェルスクリプト",
+      "url" : "https://qiita.com/advent-calendar/2021/shellscript",
+      "unique_name" : "shellscript"
+    },
+    {
+      "title" : "FFmpeg",
+      "url" : "https://qiita.com/advent-calendar/2021/ffmpeg",
+      "unique_name" : "ffmpeg"
+    },
+    {
+      "title" : "Universal Scene Description",
+      "url" : "https://qiita.com/advent-calendar/2021/usd",
+      "unique_name" : "usd"
+    },
+    {
+      "title" : "オタクが推しを語る",
+      "url" : "https://qiita.com/advent-calendar/2021/otaku",
+      "unique_name" : "otaku"
+    },
+    {
+      "title" : "Autify",
+      "url" : "https://qiita.com/advent-calendar/2021/autify",
+      "unique_name" : "autify"
+    },
+    {
+      "title" : "Splunk",
+      "url" : "https://qiita.com/advent-calendar/2021/splunk",
+      "unique_name" : "splunk"
+    },
+    {
+      "title" : "ドクターズプライム",
+      "url" : "https://qiita.com/advent-calendar/2021/drsprime",
+      "unique_name" : "drsprime"
+    },
+    {
+      "title" : "ポテパンキャンプ ~エンジニア転職成功ストーリー~ Advent Calendar 2021 🎄",
+      "url" : "https://qiita.com/advent-calendar/2021/potepancamp",
+      "unique_name" : "potepancamp"
+    },
+    {
+      "title" : "NI+C ",
+      "url" : "https://qiita.com/advent-calendar/2021/niandc_teamgcp",
+      "unique_name" : "niandc_teamgcp"
+    },
+    {
+      "title" : "電通国際情報サービス",
+      "url" : "https://qiita.com/advent-calendar/2021/isid",
+      "unique_name" : "isid"
+    },
+    {
+      "title" : "仮想通貨",
+      "url" : "https://qiita.com/advent-calendar/2021/crypto",
+      "unique_name" : "crypto"
+    },
+    {
+      "title" : "Arsaga App Division 2021🎅🏻",
+      "url" : "https://qiita.com/advent-calendar/2021/arsaga-app-division",
+      "unique_name" : "arsaga-app-division"
+    },
+    {
+      "title" : "ドクターズプライム",
+      "url" : "https://qiita.com/advent-calendar/2021/drsprime",
+      "unique_name" : "drsprime"
+    },
+    {
+      "title" : "ポテパンキャンプ ~エンジニア転職成功ストーリー~ Advent Calendar 2021 🎄",
+      "url" : "https://qiita.com/advent-calendar/2021/potepancamp",
+      "unique_name" : "potepancamp"
+    },
+    {
+      "title" : "NI+C ",
+      "url" : "https://qiita.com/advent-calendar/2021/niandc_teamgcp",
+      "unique_name" : "niandc_teamgcp"
+    },
+    {
+      "title" : "電通国際情報サービス",
+      "url" : "https://qiita.com/advent-calendar/2021/isid",
+      "unique_name" : "isid"
+    },
+    {
+      "title" : "仮想通貨",
+      "url" : "https://qiita.com/advent-calendar/2021/crypto",
+      "unique_name" : "crypto"
+    },
+    {
+      "title" : "Arsaga App Division 2021🎅🏻",
+      "url" : "https://qiita.com/advent-calendar/2021/arsaga-app-division",
+      "unique_name" : "arsaga-app-division"
+    },
+    {
+      "title" : "ASTERIA Warp",
+      "url" : "https://qiita.com/advent-calendar/2021/asteriawarp",
+      "unique_name" : "asteriawarp"
+    },
+    {
+      "title" : "BrainPad Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/brainpad",
+      "unique_name" : "brainpad"
+    },
+    {
+      "title" : "がじぇるねGR",
+      "url" : "https://qiita.com/advent-calendar/2021/gadget-renesas",
+      "unique_name" : "gadget-renesas"
+    },
+    {
+      "title" : "VCI",
+      "url" : "https://qiita.com/advent-calendar/2021/vci",
+      "unique_name" : "vci"
+    },
+    {
+      "title" : "ペライチアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/peraichi",
+      "unique_name" : "peraichi"
+    },
+    {
+      "title" : "DMM WEBCAMP",
+      "url" : "https://qiita.com/advent-calendar/2021/infratop",
+      "unique_name" : "infratop"
+    },
+    {
+      "title" : "株式会社ソラコム",
+      "url" : "https://qiita.com/advent-calendar/2021/soracominc",
+      "unique_name" : "soracominc"
+    },
+    {
+      "title" : "Microsoft Power BI",
+      "url" : "https://qiita.com/advent-calendar/2021/powerbi",
+      "unique_name" : "powerbi"
+    },
+    {
+      "title" : "TDU_データ科学・機械学習研究室",
+      "url" : "https://qiita.com/advent-calendar/2021/dsml-tdu",
+      "unique_name" : "dsml-tdu"
+    },
+    {
+      "title" : "ベリサーブ",
+      "url" : "https://qiita.com/advent-calendar/2021/veriserve",
+      "unique_name" : "veriserve"
+    },
+    {
+      "title" : "IchigoJam",
+      "url" : "https://qiita.com/advent-calendar/2021/ichigojam",
+      "unique_name" : "ichigojam"
+    },
+    {
+      "title" : "IchigoJam",
+      "url" : "https://qiita.com/advent-calendar/2021/ichigojam",
+      "unique_name" : "ichigojam"
+    },
+    {
+      "title" : "DEPARTURE",
+      "url" : "https://qiita.com/advent-calendar/2021/departure-development",
+      "unique_name" : "departure-development"
+    },
+    {
+      "title" : "インテル® FPGA",
+      "url" : "https://qiita.com/advent-calendar/2021/intelfpga",
+      "unique_name" : "intelfpga"
+    },
+    {
+      "title" : "CYBIRD",
+      "url" : "https://qiita.com/advent-calendar/2021/cybird",
+      "unique_name" : "cybird"
+    },
+    {
+      "title" : "テックタッチ",
+      "url" : "https://qiita.com/advent-calendar/2021/techtouch",
+      "unique_name" : "techtouch"
+    },
+    {
+      "title" : "aptpod",
+      "url" : "https://qiita.com/advent-calendar/2021/aptpod",
+      "unique_name" : "aptpod"
+    },
+    {
+      "title" : "GEC (Grammatical Error Correction)",
+      "url" : "https://qiita.com/advent-calendar/2021/gec",
+      "unique_name" : "gec"
+    },
+    {
+      "title" : "New Relic",
+      "url" : "https://qiita.com/advent-calendar/2021/newrelic",
+      "unique_name" : "newrelic"
+    },
+    {
+      "title" : "Atrae",
+      "url" : "https://qiita.com/advent-calendar/2021/atrae",
+      "unique_name" : "atrae"
+    },
+    {
+      "title" : "まめコーヒーアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/mamecoffee",
+      "unique_name" : "mamecoffee"
+    },
+    {
+      "title" : "【 baserCMS 】",
+      "url" : "https://qiita.com/advent-calendar/2021/basercms",
+      "unique_name" : "basercms"
+    },
+    {
+      "title" : "Pulumi",
+      "url" : "https://qiita.com/advent-calendar/2021/pulumi",
+      "unique_name" : "pulumi"
+    },
+    {
+      "title" : "ゆるっと",
+      "url" : "https://qiita.com/advent-calendar/2021/yurutto",
+      "unique_name" : "yurutto"
+    },
+    {
+      "title" : "Qiita株式会社",
+      "url" : "https://qiita.com/advent-calendar/2021/qiita",
+      "unique_name" : "qiita"
+    },
+    {
+      "title" : "ニフティグループ",
+      "url" : "https://qiita.com/advent-calendar/2021/nifty",
+      "unique_name" : "nifty"
+    },
+    {
+      "title" : "マークダウン",
+      "url" : "https://qiita.com/advent-calendar/2021/markdown",
+      "unique_name" : "markdown"
+    },
+    {
+      "title" : "異常検知",
+      "url" : "https://qiita.com/advent-calendar/2021/anomaly-detection",
+      "unique_name" : "anomaly-detection"
+    },
+    {
+      "title" : "ミライトデザイン Advent Calendar 2021 バックアップ",
+      "url" : "https://qiita.com/advent-calendar/2021/miraito-inc-bk",
+      "unique_name" : "miraito-inc-bk"
+    },
+    {
+      "title" : "OPENLOGI",
+      "url" : "https://qiita.com/advent-calendar/2021/openlogi",
+      "unique_name" : "openlogi"
+    },
+    {
+      "title" : "Pathee",
+      "url" : "https://qiita.com/advent-calendar/2021/pathee",
+      "unique_name" : "pathee"
+    },
+    {
+      "title" : "自然言語処理",
+      "url" : "https://qiita.com/advent-calendar/2021/nlp",
+      "unique_name" : "nlp"
+    },
+    {
+      "title" : "Blockchain（ブロックチェーン）",
+      "url" : "https://qiita.com/advent-calendar/2021/blockchain",
+      "unique_name" : "blockchain"
+    },
+    {
+      "title" : "豊田高専 ",
+      "url" : "https://qiita.com/advent-calendar/2021/nit_toyota",
+      "unique_name" : "nit_toyota"
+    },
+    {
+      "title" : "Unipos",
+      "url" : "https://qiita.com/advent-calendar/2021/unipos",
+      "unique_name" : "unipos"
+    },
+    {
+      "title" : "UdonTech",
+      "url" : "https://qiita.com/advent-calendar/2021/udontech",
+      "unique_name" : "udontech"
+    },
+    {
+      "title" : "新卒1年目",
+      "url" : "https://qiita.com/advent-calendar/2021/new-graduate",
+      "unique_name" : "new-graduate"
+    },
+    {
+      "title" : "Chatwork",
+      "url" : "https://qiita.com/advent-calendar/2021/chatwork",
+      "unique_name" : "chatwork"
+    },
+    {
+      "title" : "Flask",
+      "url" : "https://qiita.com/advent-calendar/2021/flask",
+      "unique_name" : "flask"
+    },
+    {
+      "title" : "Angular",
+      "url" : "https://qiita.com/advent-calendar/2021/angular",
+      "unique_name" : "angular"
+    },
+    {
+      "title" : "MicroAd (マイクロアド)",
+      "url" : "https://qiita.com/advent-calendar/2021/microad",
+      "unique_name" : "microad"
+    },
+    {
+      "title" : "CSS",
+      "url" : "https://qiita.com/advent-calendar/2021/css",
+      "unique_name" : "css"
+    },
+    {
+      "title" : "Progate",
+      "url" : "https://qiita.com/advent-calendar/2021/progate",
+      "unique_name" : "progate"
+    },
+    {
+      "title" : "Yahoo! JAPAN",
+      "url" : "https://qiita.com/advent-calendar/2021/yahoojapan",
+      "unique_name" : "yahoojapan"
+    },
+    {
+      "title" : "「シコウ」を語る",
+      "url" : "https://qiita.com/advent-calendar/2021/shikou_poem",
+      "unique_name" : "shikou_poem"
+    },
+    {
+      "title" : "TUNA-JP",
+      "url" : "https://qiita.com/advent-calendar/2021/tuna-jp",
+      "unique_name" : "tuna-jp"
+    },
+    {
+      "title" : "ことしもGAOGAOまつりです",
+      "url" : "https://qiita.com/advent-calendar/2021/gaogao",
+      "unique_name" : "gaogao"
+    },
+    {
+      "title" : "グレンジ",
+      "url" : "https://qiita.com/advent-calendar/2021/grenge",
+      "unique_name" : "grenge"
+    },
+    {
+      "title" : "Atom",
+      "url" : "https://qiita.com/advent-calendar/2021/atom",
+      "unique_name" : "atom"
+    },
+    {
+      "title" : "言語実装",
+      "url" : "https://qiita.com/advent-calendar/2021/lang_dev",
+      "unique_name" : "lang_dev"
+    },
+    {
+      "title" : "JetBrains",
+      "url" : "https://qiita.com/advent-calendar/2021/jetbrains",
+      "unique_name" : "jetbrains"
+    },
+    {
+      "title" : "Google Cloud Platform",
+      "url" : "https://qiita.com/advent-calendar/2021/gcp",
+      "unique_name" : "gcp"
+    },
+    {
+      "title" : "Optuna",
+      "url" : "https://qiita.com/advent-calendar/2021/optuna",
+      "unique_name" : "optuna"
+    },
+    {
+      "title" : "某 f 社のアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/anonymous-f",
+      "unique_name" : "anonymous-f"
+    },
+    {
+      "title" : "estie",
+      "url" : "https://qiita.com/advent-calendar/2021/estie",
+      "unique_name" : "estie"
+    },
+    {
+      "title" : "転職",
+      "url" : "https://qiita.com/advent-calendar/2021/job-change",
+      "unique_name" : "job-change"
+    },
+    {
+      "title" : "高校生エンジニア集合",
+      "url" : "https://qiita.com/advent-calendar/2021/highschool-student",
+      "unique_name" : "highschool-student"
+    },
+    {
+      "title" : "大学生エンジニア集合",
+      "url" : "https://qiita.com/advent-calendar/2021/university-student",
+      "unique_name" : "university-student"
+    },
+    {
+      "title" : "with",
+      "url" : "https://qiita.com/advent-calendar/2021/with",
+      "unique_name" : "with"
+    },
+    {
+      "title" : "mediba",
+      "url" : "https://qiita.com/advent-calendar/2021/mediba",
+      "unique_name" : "mediba"
+    },
+    {
+      "title" : "WEBやデータ分析に関する投稿をみんなでしてみよう",
+      "url" : "https://qiita.com/advent-calendar/2021/aloha-web-analytics",
+      "unique_name" : "aloha-web-analytics"
+    },
+    {
+      "title" : "Magic Leap",
+      "url" : "https://qiita.com/advent-calendar/2021/magicleap",
+      "unique_name" : "magicleap"
+    },
+    {
+      "title" : "NCC",
+      "url" : "https://qiita.com/advent-calendar/2021/ncc",
+      "unique_name" : "ncc"
+    },
+    {
+      "title" : "Scala",
+      "url" : "https://qiita.com/advent-calendar/2021/scala",
+      "unique_name" : "scala"
+    },
+    {
+      "title" : "ML (Meta Languages)",
+      "url" : "https://qiita.com/advent-calendar/2021/ml",
+      "unique_name" : "ml"
+    },
+    {
+      "title" : "ソフトウェアテスト",
+      "url" : "https://qiita.com/advent-calendar/2021/softwaretesting",
+      "unique_name" : "softwaretesting"
+    },
+    {
+      "title" : "株式会社POL テックカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/pol",
+      "unique_name" : "pol"
+    },
+    {
+      "title" : "WEBやデータ分析に関する投稿をみんなでしてみよう",
+      "url" : "https://qiita.com/advent-calendar/2021/aloha-web-analytics",
+      "unique_name" : "aloha-web-analytics"
+    },
+    {
+      "title" : "Magic Leap",
+      "url" : "https://qiita.com/advent-calendar/2021/magicleap",
+      "unique_name" : "magicleap"
+    },
+    {
+      "title" : "NCC",
+      "url" : "https://qiita.com/advent-calendar/2021/ncc",
+      "unique_name" : "ncc"
+    },
+    {
+      "title" : "Scala",
+      "url" : "https://qiita.com/advent-calendar/2021/scala",
+      "unique_name" : "scala"
+    },
+    {
+      "title" : "ML (Meta Languages)",
+      "url" : "https://qiita.com/advent-calendar/2021/ml",
+      "unique_name" : "ml"
+    },
+    {
+      "title" : "ソフトウェアテスト",
+      "url" : "https://qiita.com/advent-calendar/2021/softwaretesting",
+      "unique_name" : "softwaretesting"
+    },
+    {
+      "title" : "株式会社POL テックカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/pol",
+      "unique_name" : "pol"
+    },
+    {
+      "title" : "emacs",
+      "url" : "https://qiita.com/advent-calendar/2021/emacs",
+      "unique_name" : "emacs"
+    },
+    {
+      "title" : "StudyCo",
+      "url" : "https://qiita.com/advent-calendar/2021/study-co",
+      "unique_name" : "study-co"
+    },
+    {
+      "title" : "C3(Computer Composite Club) advent calender",
+      "url" : "https://qiita.com/advent-calendar/2021/c3",
+      "unique_name" : "c3"
+    },
+    {
+      "title" : "Blender",
+      "url" : "https://qiita.com/advent-calendar/2021/blender",
+      "unique_name" : "blender"
+    },
+    {
+      "title" : "木更津高専",
+      "url" : "https://qiita.com/advent-calendar/2021/nit_kisarazu",
+      "unique_name" : "nit_kisarazu"
+    },
+    {
+      "title" : "MySQL",
+      "url" : "https://qiita.com/advent-calendar/2021/mysql",
+      "unique_name" : "mysql"
+    },
+    {
+      "title" : "量子コンピューティング by NRI",
+      "url" : "https://qiita.com/advent-calendar/2021/nri_quantum",
+      "unique_name" : "nri_quantum"
+    },
+    {
+      "title" : "Voicy",
+      "url" : "https://qiita.com/advent-calendar/2021/voicy",
+      "unique_name" : "voicy"
+    },
+    {
+      "title" : "Mackerel",
+      "url" : "https://qiita.com/advent-calendar/2021/mackerel",
+      "unique_name" : "mackerel"
+    },
+    {
+      "title" : "Noodl",
+      "url" : "https://qiita.com/advent-calendar/2021/noodl",
+      "unique_name" : "noodl"
+    },
+    {
+      "title" : "un-T factory! XA",
+      "url" : "https://qiita.com/advent-calendar/2021/unt-xa",
+      "unique_name" : "unt-xa"
+    },
+    {
+      "title" : "弁護士ドットコム",
+      "url" : "https://qiita.com/advent-calendar/2021/bengo4com",
+      "unique_name" : "bengo4com"
+    },
+    {
+      "title" : "株式会社TORICO",
+      "url" : "https://qiita.com/advent-calendar/2021/torico",
+      "unique_name" : "torico"
+    },
+    {
+      "title" : "Noodl",
+      "url" : "https://qiita.com/advent-calendar/2021/noodl",
+      "unique_name" : "noodl"
+    },
+    {
+      "title" : "un-T factory! XA",
+      "url" : "https://qiita.com/advent-calendar/2021/unt-xa",
+      "unique_name" : "unt-xa"
+    },
+    {
+      "title" : "弁護士ドットコム",
+      "url" : "https://qiita.com/advent-calendar/2021/bengo4com",
+      "unique_name" : "bengo4com"
+    },
+    {
+      "title" : "株式会社TORICO",
+      "url" : "https://qiita.com/advent-calendar/2021/torico",
+      "unique_name" : "torico"
+    },
+    {
+      "title" : "ユニークビジョン株式会社",
+      "url" : "https://qiita.com/advent-calendar/2021/uniquevision",
+      "unique_name" : "uniquevision"
+    },
+    {
+      "title" : "一人アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/lonely-game-develop",
+      "unique_name" : "lonely-game-develop"
+    },
+    {
+      "title" : "Snykを使ってセキュリティにまつわる記事を投稿しよう！【PR】Snyk",
+      "url" : "https://qiita.com/advent-calendar/2021/snyk",
+      "unique_name" : "snyk"
+    },
+    {
+      "title" : "フラー株式会社",
+      "url" : "https://qiita.com/advent-calendar/2021/fuller-inc",
+      "unique_name" : "fuller-inc"
+    },
+    {
+      "title" : "docker ",
+      "url" : "https://qiita.com/advent-calendar/2021/docker",
+      "unique_name" : "docker"
+    },
+    {
+      "title" : " 「色　いろいろ」",
+      "url" : "https://qiita.com/advent-calendar/2021/colour",
+      "unique_name" : "colour"
+    },
+    {
+      "title" : "AUTOSAR",
+      "url" : "https://qiita.com/advent-calendar/2021/autosar",
+      "unique_name" : "autosar"
+    },
+    {
+      "title" : "Wireshark",
+      "url" : "https://qiita.com/advent-calendar/2021/wireshark",
+      "unique_name" : "wireshark"
+    },
+    {
+      "title" : "Ethernet",
+      "url" : "https://qiita.com/advent-calendar/2021/ethernet",
+      "unique_name" : "ethernet"
+    },
+    {
+      "title" : "Wi-Fi",
+      "url" : "https://qiita.com/advent-calendar/2021/wi-fi",
+      "unique_name" : "wi-fi"
+    },
+    {
+      "title" : "アニーリング",
+      "url" : "https://qiita.com/advent-calendar/2021/annealing",
+      "unique_name" : "annealing"
+    },
+    {
+      "title" : "FOSS4G",
+      "url" : "https://qiita.com/advent-calendar/2021/foss4g",
+      "unique_name" : "foss4g"
+    },
+    {
+      "title" : "VTeacher (鈴木ソフトラボラトリー合同会社)",
+      "url" : "https://qiita.com/advent-calendar/2021/vteacher",
+      "unique_name" : "vteacher"
+    },
+    {
+      "title" : "Static Site Generator",
+      "url" : "https://qiita.com/advent-calendar/2021/static-site-generator",
+      "unique_name" : "static-site-generator"
+    },
+    {
+      "title" : "Wireshark",
+      "url" : "https://qiita.com/advent-calendar/2021/wireshark",
+      "unique_name" : "wireshark"
+    },
+    {
+      "title" : "Ethernet",
+      "url" : "https://qiita.com/advent-calendar/2021/ethernet",
+      "unique_name" : "ethernet"
+    },
+    {
+      "title" : "Wi-Fi",
+      "url" : "https://qiita.com/advent-calendar/2021/wi-fi",
+      "unique_name" : "wi-fi"
+    },
+    {
+      "title" : "アニーリング",
+      "url" : "https://qiita.com/advent-calendar/2021/annealing",
+      "unique_name" : "annealing"
+    },
+    {
+      "title" : "FOSS4G",
+      "url" : "https://qiita.com/advent-calendar/2021/foss4g",
+      "unique_name" : "foss4g"
+    },
+    {
+      "title" : "VTeacher (鈴木ソフトラボラトリー合同会社)",
+      "url" : "https://qiita.com/advent-calendar/2021/vteacher",
+      "unique_name" : "vteacher"
+    },
+    {
+      "title" : "Static Site Generator",
+      "url" : "https://qiita.com/advent-calendar/2021/static-site-generator",
+      "unique_name" : "static-site-generator"
+    },
+    {
+      "title" : "GitHub Actions",
+      "url" : "https://qiita.com/advent-calendar/2021/github-actions",
+      "unique_name" : "github-actions"
+    },
+    {
+      "title" : "ソフトウェアテストの小ネタ",
+      "url" : "https://qiita.com/advent-calendar/2021/software-testing-koneta",
+      "unique_name" : "software-testing-koneta"
+    },
+    {
+      "title" : "ALH",
+      "url" : "https://qiita.com/advent-calendar/2021/alhinc",
+      "unique_name" : "alhinc"
+    },
+    {
+      "title" : "Drupal",
+      "url" : "https://qiita.com/advent-calendar/2021/drupal",
+      "unique_name" : "drupal"
+    },
+    {
+      "title" : "名古屋工業大学",
+      "url" : "https://qiita.com/advent-calendar/2021/nit",
+      "unique_name" : "nit"
+    },
+    {
+      "title" : "GRIPHONE",
+      "url" : "https://qiita.com/advent-calendar/2021/griphone",
+      "unique_name" : "griphone"
+    },
+    {
+      "title" : "株式会社マイホム",
+      "url" : "https://qiita.com/advent-calendar/2021/myhm",
+      "unique_name" : "myhm"
+    },
+    {
+      "title" : "obniz",
+      "url" : "https://qiita.com/advent-calendar/2021/obniz",
+      "unique_name" : "obniz"
+    },
+    {
+      "title" : "すごくなりたいがくせいぐるーぷ",
+      "url" : "https://qiita.com/advent-calendar/2021/sgg",
+      "unique_name" : "sgg"
+    },
+    {
+      "title" : "CAMPFIRE",
+      "url" : "https://qiita.com/advent-calendar/2021/campfire",
+      "unique_name" : "campfire"
+    },
+    {
+      "title" : "セキュリティ",
+      "url" : "https://qiita.com/advent-calendar/2021/security",
+      "unique_name" : "security"
+    },
+    {
+      "title" : "CData Software",
+      "url" : "https://qiita.com/advent-calendar/2021/cdatasoftware",
+      "unique_name" : "cdatasoftware"
+    },
+    {
+      "title" : "CData Software",
+      "url" : "https://qiita.com/advent-calendar/2021/cdatasoftware",
+      "unique_name" : "cdatasoftware"
+    },
+    {
+      "title" : "jadwtajjdtk",
+      "url" : "https://qiita.com/advent-calendar/2021/jadwtajjdt",
+      "unique_name" : "jadwtajjdt"
+    },
+    {
+      "title" : "MYJLab",
+      "url" : "https://qiita.com/advent-calendar/2021/myjlab",
+      "unique_name" : "myjlab"
+    },
+    {
+      "title" : "enebular_uhuru",
+      "url" : "https://qiita.com/advent-calendar/2021/enebular_uhuru",
+      "unique_name" : "enebular_uhuru"
+    },
+    {
+      "title" : "enebular",
+      "url" : "https://qiita.com/advent-calendar/2021/enebular",
+      "unique_name" : "enebular"
+    },
+    {
+      "title" : "NEXTSCAPE",
+      "url" : "https://qiita.com/advent-calendar/2021/nextscape",
+      "unique_name" : "nextscape"
+    },
+    {
+      "title" : "株式会社サイバー・バズ",
+      "url" : "https://qiita.com/advent-calendar/2021/cyberbuzz",
+      "unique_name" : "cyberbuzz"
+    },
+    {
+      "title" : "PureScript",
+      "url" : "https://qiita.com/advent-calendar/2021/purs",
+      "unique_name" : "purs"
+    },
+    {
+      "title" : "ビットスター",
+      "url" : "https://qiita.com/advent-calendar/2021/bitstar-inc",
+      "unique_name" : "bitstar-inc"
+    },
+    {
+      "title" : "CTF(Capture The Flag)",
+      "url" : "https://qiita.com/advent-calendar/2021/ctf",
+      "unique_name" : "ctf"
+    },
+    {
+      "title" : "C言語",
+      "url" : "https://qiita.com/advent-calendar/2021/_c",
+      "unique_name" : "_c"
+    },
+    {
+      "title" : "株式会社ACCESS",
+      "url" : "https://qiita.com/advent-calendar/2021/access",
+      "unique_name" : "access"
+    },
+    {
+      "title" : "C++",
+      "url" : "https://qiita.com/advent-calendar/2021/cxx",
+      "unique_name" : "cxx"
+    },
+    {
+      "title" : "Git",
+      "url" : "https://qiita.com/advent-calendar/2021/git",
+      "unique_name" : "git"
+    },
+    {
+      "title" : "Raspberry Pi",
+      "url" : "https://qiita.com/advent-calendar/2021/raspberrypi",
+      "unique_name" : "raspberrypi"
+    },
+    {
+      "title" : "microCMS",
+      "url" : "https://qiita.com/advent-calendar/2021/microcms",
+      "unique_name" : "microcms"
+    },
+    {
+      "title" : "可茂IT塾",
+      "url" : "https://qiita.com/advent-calendar/2021/kamo-it",
+      "unique_name" : "kamo-it"
+    },
+    {
+      "title" : "ディップ",
+      "url" : "https://qiita.com/advent-calendar/2021/dip-dev",
+      "unique_name" : "dip-dev"
+    },
+    {
+      "title" : "ケーシーエスキャロット",
+      "url" : "https://qiita.com/advent-calendar/2021/kcscarrot",
+      "unique_name" : "kcscarrot"
+    },
+    {
+      "title" : "Kubernetes scheduler plugins",
+      "url" : "https://qiita.com/advent-calendar/2021/kubernetes-scheduler-plugins",
+      "unique_name" : "kubernetes-scheduler-plugins"
+    },
+    {
+      "title" : "未踏2021採択者アドカレ！",
+      "url" : "https://qiita.com/advent-calendar/2021/mitou-2021",
+      "unique_name" : "mitou-2021"
+    },
+    {
+      "title" : "Qt",
+      "url" : "https://qiita.com/advent-calendar/2021/qt",
+      "unique_name" : "qt"
+    },
+    {
+      "title" : "VUTD（バーチャル東大Discord）",
+      "url" : "https://qiita.com/advent-calendar/2021/vutd",
+      "unique_name" : "vutd"
+    },
+    {
+      "title" : "Kafkaの小ネタ",
+      "url" : "https://qiita.com/advent-calendar/2021/kafka-small-tips",
+      "unique_name" : "kafka-small-tips"
+    },
+    {
+      "title" : "Nuxt.js",
+      "url" : "https://qiita.com/advent-calendar/2021/nuxt-js",
+      "unique_name" : "nuxt-js"
+    },
+    {
+      "title" : "RPA (Robotic Process Automation)",
+      "url" : "https://qiita.com/advent-calendar/2021/rpa",
+      "unique_name" : "rpa"
+    },
+    {
+      "title" : "Google Apps Script",
+      "url" : "https://qiita.com/advent-calendar/2021/google-apps-script",
+      "unique_name" : "google-apps-script"
+    },
+    {
+      "title" : "Elm",
+      "url" : "https://qiita.com/advent-calendar/2021/elm",
+      "unique_name" : "elm"
+    },
+    {
+      "title" : "ねこねこ",
+      "url" : "https://qiita.com/advent-calendar/2021/kawaneko139",
+      "unique_name" : "kawaneko139"
+    },
+    {
+      "title" : "計算と哲学",
+      "url" : "https://qiita.com/advent-calendar/2021/philosophy",
+      "unique_name" : "philosophy"
+    },
+    {
+      "title" : "リテールテック",
+      "url" : "https://qiita.com/advent-calendar/2021/retailtech",
+      "unique_name" : "retailtech"
+    },
+    {
+      "title" : "AWS LambdaとServerless",
+      "url" : "https://qiita.com/advent-calendar/2021/lambda",
+      "unique_name" : "lambda"
+    },
+    {
+      "title" : "バイオインフォマティクス",
+      "url" : "https://qiita.com/advent-calendar/2021/bioinfo",
+      "unique_name" : "bioinfo"
+    },
+    {
+      "title" : "JavaScript",
+      "url" : "https://qiita.com/advent-calendar/2021/javascript",
+      "unique_name" : "javascript"
+    },
+    {
+      "title" : "PyCon JP 2021 Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/pyconjp",
+      "unique_name" : "pyconjp"
+    },
+    {
+      "title" : "webpack",
+      "url" : "https://qiita.com/advent-calendar/2021/webpack",
+      "unique_name" : "webpack"
+    },
+    {
+      "title" : "Kotlin",
+      "url" : "https://qiita.com/advent-calendar/2021/kotlin",
+      "unique_name" : "kotlin"
+    },
+    {
+      "title" : "CloudTechカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/awscloudtech",
+      "unique_name" : "awscloudtech"
+    },
+    {
+      "title" : "自動テスト・テスト自動化",
+      "url" : "https://qiita.com/advent-calendar/2021/autotest",
+      "unique_name" : "autotest"
+    },
+    {
+      "title" : "KIT",
+      "url" : "https://qiita.com/advent-calendar/2021/kit",
+      "unique_name" : "kit"
+    },
+    {
+      "title" : "MATLAB/Simulink",
+      "url" : "https://qiita.com/advent-calendar/2021/matlab",
+      "unique_name" : "matlab"
+    },
+    {
+      "title" : "F#",
+      "url" : "https://qiita.com/advent-calendar/2021/fsharp",
+      "unique_name" : "fsharp"
+    },
+    {
+      "title" : "テスト駆動開発（ＴＤＤ）",
+      "url" : "https://qiita.com/advent-calendar/2021/tdd",
+      "unique_name" : "tdd"
+    },
+    {
+      "title" : "Blazor",
+      "url" : "https://qiita.com/advent-calendar/2021/blazor",
+      "unique_name" : "blazor"
+    },
+    {
+      "title" : "OutSystems",
+      "url" : "https://qiita.com/advent-calendar/2021/outsystems",
+      "unique_name" : "outsystems"
+    },
+    {
+      "title" : "初めてのアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/first-try",
+      "unique_name" : "first-try"
+    },
+    {
+      "title" : "株式会社じげん",
+      "url" : "https://qiita.com/advent-calendar/2021/zigexn",
+      "unique_name" : "zigexn"
+    },
+    {
+      "title" : "ひとりアドベントカレンダー C#による投資検証ライブラリMagicalNuts",
+      "url" : "https://qiita.com/advent-calendar/2021/magicalnuts",
+      "unique_name" : "magicalnuts"
+    },
+    {
+      "title" : "RUNTEQ",
+      "url" : "https://qiita.com/advent-calendar/2021/runteq",
+      "unique_name" : "runteq"
+    },
+    {
+      "title" : "and factory.inc",
+      "url" : "https://qiita.com/advent-calendar/2021/andfactory",
+      "unique_name" : "andfactory"
+    },
+    {
+      "title" : "毎日誰かのプルリクをマージしてクリスマスを彩るアドベントカレンダー（Golang）",
+      "url" : "https://qiita.com/advent-calendar/2021/go-advent",
+      "unique_name" : "go-advent"
+    },
+    {
+      "title" : "アジャイル開発",
+      "url" : "https://qiita.com/advent-calendar/2021/agile",
+      "unique_name" : "agile"
+    },
+    {
+      "title" : "Flutter大学",
+      "url" : "https://qiita.com/advent-calendar/2021/flutteruniv",
+      "unique_name" : "flutteruniv"
+    },
+    {
+      "title" : "データ構造とアルゴリズム",
+      "url" : "https://qiita.com/advent-calendar/2021/str",
+      "unique_name" : "str"
+    },
+    {
+      "title" : "Nix",
+      "url" : "https://qiita.com/advent-calendar/2021/nix",
+      "unique_name" : "nix"
+    },
+    {
+      "title" : "シーエー・アドバンス",
+      "url" : "https://qiita.com/advent-calendar/2021/ca-advance",
+      "unique_name" : "ca-advance"
+    },
+    {
+      "title" : "Julia",
+      "url" : "https://qiita.com/advent-calendar/2021/julia",
+      "unique_name" : "julia"
+    },
+    {
+      "title" : "岩手県立大学とか、岩手の人たち",
+      "url" : "https://qiita.com/advent-calendar/2021/ipu",
+      "unique_name" : "ipu"
+    },
+    {
+      "title" : "ミクシィグループ",
+      "url" : "https://qiita.com/advent-calendar/2021/mixi",
+      "unique_name" : "mixi"
+    },
+    {
+      "title" : "ドワンゴ",
+      "url" : "https://qiita.com/advent-calendar/2021/dwango",
+      "unique_name" : "dwango"
+    },
+    {
+      "title" : "テコテック",
+      "url" : "https://qiita.com/advent-calendar/2021/tecotec",
+      "unique_name" : "tecotec"
+    },
+    {
+      "title" : "SONiC",
+      "url" : "https://qiita.com/advent-calendar/2021/sonic",
+      "unique_name" : "sonic"
+    },
+    {
+      "title" : "IBM Cloud Paks Advent Calendar 2021 ",
+      "url" : "https://qiita.com/advent-calendar/2021/cloudpaks",
+      "unique_name" : "cloudpaks"
+    },
+    {
+      "title" : "AWS Amplify",
+      "url" : "https://qiita.com/advent-calendar/2021/amplify",
+      "unique_name" : "amplify"
+    },
+    {
+      "title" : "Goodpatch",
+      "url" : "https://qiita.com/advent-calendar/2021/goodpatch",
+      "unique_name" : "goodpatch"
+    },
+    {
+      "title" : "TECHCAFE×TAIR",
+      "url" : "https://qiita.com/advent-calendar/2021/techcafe_tair",
+      "unique_name" : "techcafe_tair"
+    },
+    {
+      "title" : "Applibot",
+      "url" : "https://qiita.com/advent-calendar/2021/applibot",
+      "unique_name" : "applibot"
+    },
+    {
+      "title" : "GraphQL",
+      "url" : "https://qiita.com/advent-calendar/2021/graphql",
+      "unique_name" : "graphql"
+    },
+    {
+      "title" : "日本語プログラミング言語「なでしこ」",
+      "url" : "https://qiita.com/advent-calendar/2021/nadesiko",
+      "unique_name" : "nadesiko"
+    },
+    {
+      "title" : "祝 .NET 6 GA！.NET 6 での開発 Tips や試してみたことなど、あなたの「いち推し」ポイントを教えてください【PR】日本マイクロソフト",
+      "url" : "https://qiita.com/advent-calendar/2021/microsoft",
+      "unique_name" : "microsoft"
+    },
+    {
+      "title" : "LITALICO Engineers",
+      "url" : "https://qiita.com/advent-calendar/2021/litalico",
+      "unique_name" : "litalico"
+    },
+    {
+      "title" : "トレタ",
+      "url" : "https://qiita.com/advent-calendar/2021/toreta",
+      "unique_name" : "toreta"
+    },
+    {
+      "title" : "Ethereum",
+      "url" : "https://qiita.com/advent-calendar/2021/ethereum",
+      "unique_name" : "ethereum"
+    },
+    {
+      "title" : "datatech-jp",
+      "url" : "https://qiita.com/advent-calendar/2021/datatech-jp",
+      "unique_name" : "datatech-jp"
+    },
+    {
+      "title" : "TouchDesigner",
+      "url" : "https://qiita.com/advent-calendar/2021/touchdesigner",
+      "unique_name" : "touchdesigner"
+    },
+    {
+      "title" : "Craftsman Software",
+      "url" : "https://qiita.com/advent-calendar/2021/craftsman-software",
+      "unique_name" : "craftsman-software"
+    },
+    {
+      "title" : "Location Tech Advent Calendar 2021 by LBMA Japan 🛰",
+      "url" : "https://qiita.com/advent-calendar/2021/location-tech",
+      "unique_name" : "location-tech"
+    },
+    {
+      "title" : "Web API",
+      "url" : "https://qiita.com/advent-calendar/2021/webapi",
+      "unique_name" : "webapi"
+    },
+    {
+      "title" : "みらい翻訳",
+      "url" : "https://qiita.com/advent-calendar/2021/miraitranslate",
+      "unique_name" : "miraitranslate"
+    },
+    {
+      "title" : "Wantedly 21新卒",
+      "url" : "https://qiita.com/advent-calendar/2021/wantedly-2021-newgrads",
+      "unique_name" : "wantedly-2021-newgrads"
+    },
+    {
+      "title" : "Supershipグループ",
+      "url" : "https://qiita.com/advent-calendar/2021/supership",
+      "unique_name" : "supership"
+    },
+    {
+      "title" : "Datadog",
+      "url" : "https://qiita.com/advent-calendar/2021/datadog",
+      "unique_name" : "datadog"
+    },
+    {
+      "title" : "駆け出しエンジニアに伝えたい事",
+      "url" : "https://qiita.com/advent-calendar/2021/kakedashi",
+      "unique_name" : "kakedashi"
+    },
+    {
+      "title" : "ConoHa",
+      "url" : "https://qiita.com/advent-calendar/2021/conoha",
+      "unique_name" : "conoha"
+    },
+    {
+      "title" : "コネヒト",
+      "url" : "https://qiita.com/advent-calendar/2021/connehito",
+      "unique_name" : "connehito"
+    },
+    {
+      "title" : "OpenChain Japan",
+      "url" : "https://qiita.com/advent-calendar/2021/openchainjapanwg",
+      "unique_name" : "openchainjapanwg"
+    },
+    {
+      "title" : "LCL",
+      "url" : "https://qiita.com/advent-calendar/2021/lcl",
+      "unique_name" : "lcl"
+    },
+    {
+      "title" : "仮想通貨botter",
+      "url" : "https://qiita.com/advent-calendar/2021/botter",
+      "unique_name" : "botter"
+    },
+    {
+      "title" : "AVX/AVX2/AVX512",
+      "url" : "https://qiita.com/advent-calendar/2021/avx",
+      "unique_name" : "avx"
+    },
+    {
+      "title" : "SRE",
+      "url" : "https://qiita.com/advent-calendar/2021/site-reliability-engineering",
+      "unique_name" : "site-reliability-engineering"
+    },
+    {
+      "title" : "Alibaba Cloud",
+      "url" : "https://qiita.com/advent-calendar/2021/alibabacloud",
+      "unique_name" : "alibabacloud"
+    },
+    {
+      "title" : "CI/CD",
+      "url" : "https://qiita.com/advent-calendar/2021/cicd",
+      "unique_name" : "cicd"
+    },
+    {
+      "title" : "サムザップ",
+      "url" : "https://qiita.com/advent-calendar/2021/sumzap",
+      "unique_name" : "sumzap"
+    },
+    {
+      "title" : "TIS",
+      "url" : "https://qiita.com/advent-calendar/2021/tis",
+      "unique_name" : "tis"
+    },
+    {
+      "title" : "ちーずのフロントエンド道場",
+      "url" : "https://qiita.com/advent-calendar/2021/cheez-calendar",
+      "unique_name" : "cheez-calendar"
+    },
+    {
+      "title" : "株式会社ピーアールオー（あったらいいな！を作ります）",
+      "url" : "https://qiita.com/advent-calendar/2021/pro-japan1",
+      "unique_name" : "pro-japan1"
+    },
+    {
+      "title" : "弥生",
+      "url" : "https://qiita.com/advent-calendar/2021/yayoi",
+      "unique_name" : "yayoi"
+    },
+    {
+      "title" : "湯婆婆",
+      "url" : "https://qiita.com/advent-calendar/2021/yubaba",
+      "unique_name" : "yubaba"
+    },
+    {
+      "title" : "BigQuery",
+      "url" : "https://qiita.com/advent-calendar/2021/bigquery",
+      "unique_name" : "bigquery"
+    },
+    {
+      "title" : "六本木 FinTech かもしれない",
+      "url" : "https://qiita.com/advent-calendar/2021/giroppon-fintech",
+      "unique_name" : "giroppon-fintech"
+    },
+    {
+      "title" : "機械学習について一人でアドベントカレンダーやってみる",
+      "url" : "https://qiita.com/advent-calendar/2021/solo_advent_calendar",
+      "unique_name" : "solo_advent_calendar"
+    },
+    {
+      "title" : "kintone",
+      "url" : "https://qiita.com/advent-calendar/2021/kintone",
+      "unique_name" : "kintone"
+    },
+    {
+      "title" : "UiPath Advent Calendar (produced with UiPath Friends)",
+      "url" : "https://qiita.com/advent-calendar/2021/uipath",
+      "unique_name" : "uipath"
+    },
+    {
+      "title" : "OpenCV",
+      "url" : "https://qiita.com/advent-calendar/2021/opencv",
+      "unique_name" : "opencv"
+    },
+    {
+      "title" : "PyTorch",
+      "url" : "https://qiita.com/advent-calendar/2021/pytorch",
+      "unique_name" : "pytorch"
+    },
+    {
+      "title" : "Next.js",
+      "url" : "https://qiita.com/advent-calendar/2021/nextjs",
+      "unique_name" : "nextjs"
+    },
+    {
+      "title" : "ドメイン駆動設計（ＤＤＤ）",
+      "url" : "https://qiita.com/advent-calendar/2021/ddd",
+      "unique_name" : "ddd"
+    },
+    {
+      "title" : "Java",
+      "url" : "https://qiita.com/advent-calendar/2021/java",
+      "unique_name" : "java"
+    },
+    {
+      "title" : "C#",
+      "url" : "https://qiita.com/advent-calendar/2021/csharplang",
+      "unique_name" : "csharplang"
+    },
+    {
+      "title" : "福岡モツ鍋クラブ",
+      "url" : "https://qiita.com/advent-calendar/2021/fukuoka-motsunabe",
+      "unique_name" : "fukuoka-motsunabe"
+    },
+    {
+      "title" : "驚異のFANZA女優検索（ひとり）",
+      "url" : "https://qiita.com/advent-calendar/2021/fanza-actress-bust-search",
+      "unique_name" : "fanza-actress-bust-search"
+    },
+    {
+      "title" : "Unity",
+      "url" : "https://qiita.com/advent-calendar/2021/unity",
+      "unique_name" : "unity"
+    },
+    {
+      "title" : "Visual Basic",
+      "url" : "https://qiita.com/advent-calendar/2021/vb",
+      "unique_name" : "vb"
+    },
+    {
+      "title" : "バーチャルキャスト",
+      "url" : "https://qiita.com/advent-calendar/2021/vcas",
+      "unique_name" : "vcas"
+    },
+    {
+      "title" : "長野高専",
+      "url" : "https://qiita.com/advent-calendar/2021/nnct",
+      "unique_name" : "nnct"
+    },
+    {
+      "title" : "クラスター",
+      "url" : "https://qiita.com/advent-calendar/2021/cluster",
+      "unique_name" : "cluster"
+    },
+    {
+      "title" : "Swift/Kotlin愛好会",
+      "url" : "https://qiita.com/advent-calendar/2021/love_swift_kotlin",
+      "unique_name" : "love_swift_kotlin"
+    },
+    {
+      "title" : "Engineering Manager",
+      "url" : "https://qiita.com/advent-calendar/2021/em",
+      "unique_name" : "em"
+    },
+    {
+      "title" : "hgsgtk engineering advent calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/hgsgtk",
+      "unique_name" : "hgsgtk"
+    },
+    {
+      "title" : "Delphi",
+      "url" : "https://qiita.com/advent-calendar/2021/delphi",
+      "unique_name" : "delphi"
+    },
+    {
+      "title" : "Oracle Cloud Infrastructure",
+      "url" : "https://qiita.com/advent-calendar/2021/oci",
+      "unique_name" : "oci"
+    },
+    {
+      "title" : "HAL名古屋",
+      "url" : "https://qiita.com/advent-calendar/2021/hal-nagoya-advent",
+      "unique_name" : "hal-nagoya-advent"
+    },
+    {
+      "title" : "豊田高専コンピューター部　Advent Calender 2021",
+      "url" : "https://qiita.com/advent-calendar/2021/nittc-computerclub",
+      "unique_name" : "nittc-computerclub"
+    },
+    {
+      "title" : "Webパフォーマンス",
+      "url" : "https://qiita.com/advent-calendar/2021/webperf",
+      "unique_name" : "webperf"
+    },
+    {
+      "title" : "闇の魔術に対する防衛術",
+      "url" : "https://qiita.com/advent-calendar/2021/yaminomajutu",
+      "unique_name" : "yaminomajutu"
+    },
+    {
+      "title" : "Firebase",
+      "url" : "https://qiita.com/advent-calendar/2021/firebase",
+      "unique_name" : "firebase"
+    },
+    {
+      "title" : "D言語くん",
+      "url" : "https://qiita.com/advent-calendar/2021/d-man",
+      "unique_name" : "d-man"
+    },
+    {
+      "title" : "D言語",
+      "url" : "https://qiita.com/advent-calendar/2021/dlang",
+      "unique_name" : "dlang"
+    },
+    {
+      "title" : "ベクトルタイル",
+      "url" : "https://qiita.com/advent-calendar/2021/vt",
+      "unique_name" : "vt"
+    },
+    {
+      "title" : "NetBSD",
+      "url" : "https://qiita.com/advent-calendar/2021/netbsd",
+      "unique_name" : "netbsd"
+    },
+    {
+      "title" : "物理学アドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/physics",
+      "unique_name" : "physics"
+    },
+    {
+      "title" : "YUMEMI Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/yumemi",
+      "unique_name" : "yumemi"
+    },
+    {
+      "title" : "watnow Advent Calendar",
+      "url" : "https://qiita.com/advent-calendar/2021/watnow-calendar",
+      "unique_name" : "watnow-calendar"
+    },
+    {
+      "title" : "Webグラフィックス",
+      "url" : "https://qiita.com/advent-calendar/2021/webgraphics",
+      "unique_name" : "webgraphics"
+    },
+    {
+      "title" : "Rails Girls Japan",
+      "url" : "https://qiita.com/advent-calendar/2021/railsgirlsjapan",
+      "unique_name" : "railsgirlsjapan"
+    },
+    {
+      "title" : "プロトアウトスタジオ",
+      "url" : "https://qiita.com/advent-calendar/2021/protoout",
+      "unique_name" : "protoout"
+    },
+    {
+      "title" : "共同開発鯖",
+      "url" : "https://qiita.com/advent-calendar/2021/growthers",
+      "unique_name" : "growthers"
+    },
+    {
+      "title" : "株式会社UnReact",
+      "url" : "https://qiita.com/advent-calendar/2021/unreact",
+      "unique_name" : "unreact"
+    },
+    {
+      "title" : "Lisp",
+      "url" : "https://qiita.com/advent-calendar/2021/lisp",
+      "unique_name" : "lisp"
+    },
+    {
+      "title" : "型理論",
+      "url" : "https://qiita.com/advent-calendar/2021/type-theory",
+      "unique_name" : "type-theory"
+    },
+    {
+      "title" : "SORACOM",
+      "url" : "https://qiita.com/advent-calendar/2021/soracom",
+      "unique_name" : "soracom"
+    },
+    {
+      "title" : "ROS",
+      "url" : "https://qiita.com/advent-calendar/2021/ros",
+      "unique_name" : "ros"
+    },
+    {
+      "title" : "Cisco Systems Japan",
+      "url" : "https://qiita.com/advent-calendar/2021/cisco",
+      "unique_name" : "cisco"
+    },
+    {
+      "title" : "プログラミング学習",
+      "url" : "https://qiita.com/advent-calendar/2021/studying",
+      "unique_name" : "studying"
+    },
+    {
+      "title" : "データ基盤・BIツール・データエンジニアリング",
+      "url" : "https://qiita.com/advent-calendar/2021/dataengineering",
+      "unique_name" : "dataengineering"
+    },
+    {
+      "title" : "toio",
+      "url" : "https://qiita.com/advent-calendar/2021/toiotomo",
+      "unique_name" : "toiotomo"
+    },
+    {
+      "title" : "HDL (SystemVerilog/Verilog/VHDL/Chisel/etc.)",
+      "url" : "https://qiita.com/advent-calendar/2021/hdl",
+      "unique_name" : "hdl"
+    },
+    {
+      "title" : "アドベントカレンダー初参加する人を応援したい、アドベントカレンダーに参加したきっかけアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/sanka-kikkake",
+      "unique_name" : "sanka-kikkake"
+    },
+    {
+      "title" : "おてつたび",
+      "url" : "https://qiita.com/advent-calendar/2021/otetsutabi",
+      "unique_name" : "otetsutabi"
+    },
+    {
+      "title" : "TypeScript",
+      "url" : "https://qiita.com/advent-calendar/2021/typescript",
+      "unique_name" : "typescript"
+    },
+    {
+      "title" : "鈴鹿高専",
+      "url" : "https://qiita.com/advent-calendar/2021/snct",
+      "unique_name" : "snct"
+    },
+    {
+      "title" : "Fortran",
+      "url" : "https://qiita.com/advent-calendar/2021/fortran",
+      "unique_name" : "fortran"
+    },
+    {
+      "title" : "fukuoka.ex Elixir／Phoenix",
+      "url" : "https://qiita.com/advent-calendar/2021/fukuokaex",
+      "unique_name" : "fukuokaex"
+    },
+    {
+      "title" : "Houdini Apprentice",
+      "url" : "https://qiita.com/advent-calendar/2021/happrentice",
+      "unique_name" : "happrentice"
+    },
+    {
+      "title" : "Houdini",
+      "url" : "https://qiita.com/advent-calendar/2021/houdini",
+      "unique_name" : "houdini"
+    },
+    {
+      "title" : "WordPress",
+      "url" : "https://qiita.com/advent-calendar/2021/wordpress",
+      "unique_name" : "wordpress"
+    },
+    {
+      "title" : "グロースエクスパートナーズ",
+      "url" : "https://qiita.com/advent-calendar/2021/gxp",
+      "unique_name" : "gxp"
+    },
+    {
+      "title" : "Haskell",
+      "url" : "https://qiita.com/advent-calendar/2021/haskell",
+      "unique_name" : "haskell"
+    },
+    {
+      "title" : "#NervesJP",
+      "url" : "https://qiita.com/advent-calendar/2021/nervesjp",
+      "unique_name" : "nervesjp"
+    },
+    {
+      "title" : "KDDI Engineer&Designer",
+      "url" : "https://qiita.com/advent-calendar/2021/engineer-designer",
+      "unique_name" : "engineer-designer"
+    },
+    {
+      "title" : "AIQVE ONE ゲームテスト/QA",
+      "url" : "https://qiita.com/advent-calendar/2021/aiqveonegametest",
+      "unique_name" : "aiqveonegametest"
+    },
+    {
+      "title" : "discord.js",
+      "url" : "https://qiita.com/advent-calendar/2021/discordjs",
+      "unique_name" : "discordjs"
+    },
+    {
+      "title" : "Deno",
+      "url" : "https://qiita.com/advent-calendar/2021/deno",
+      "unique_name" : "deno"
+    },
+    {
+      "title" : "KLab Engineer",
+      "url" : "https://qiita.com/advent-calendar/2021/klab",
+      "unique_name" : "klab"
+    },
+    {
+      "title" : "KAYAC",
+      "url" : "https://qiita.com/advent-calendar/2021/kayac",
+      "unique_name" : "kayac"
+    },
+    {
+      "title" : "食べログ",
+      "url" : "https://qiita.com/advent-calendar/2021/tabelog",
+      "unique_name" : "tabelog"
+    },
+    {
+      "title" : "Windows",
+      "url" : "https://qiita.com/advent-calendar/2021/windows",
+      "unique_name" : "windows"
+    },
+    {
+      "title" : "虎の穴ラボ",
+      "url" : "https://qiita.com/advent-calendar/2021/tora-lab",
+      "unique_name" : "tora-lab"
+    },
+    {
+      "title" : "SmartHRの村だよ",
+      "url" : "https://qiita.com/advent-calendar/2021/smarthr",
+      "unique_name" : "smarthr"
+    },
+    {
+      "title" : "FUJITSU",
+      "url" : "https://qiita.com/advent-calendar/2021/fujitsu",
+      "unique_name" : "fujitsu"
+    },
+    {
+      "title" : "Akerun",
+      "url" : "https://qiita.com/advent-calendar/2021/akerun",
+      "unique_name" : "akerun"
+    },
+    {
+      "title" : "N・S高等学校",
+      "url" : "https://qiita.com/advent-calendar/2021/n-s-highschool-1",
+      "unique_name" : "n-s-highschool-1"
+    },
+    {
+      "title" : "Maya",
+      "url" : "https://qiita.com/advent-calendar/2021/maya",
+      "unique_name" : "maya"
+    },
+    {
+      "title" : "Phone Appli",
+      "url" : "https://qiita.com/advent-calendar/2021/pa_engineers",
+      "unique_name" : "pa_engineers"
+    },
+    {
+      "title" : "Heroku",
+      "url" : "https://qiita.com/advent-calendar/2021/heroku",
+      "unique_name" : "heroku"
+    },
+    {
+      "title" : "Stylez",
+      "url" : "https://qiita.com/advent-calendar/2021/stylez",
+      "unique_name" : "stylez"
+    },
+    {
+      "title" : "GLOBIS",
+      "url" : "https://qiita.com/advent-calendar/2021/globis",
+      "unique_name" : "globis"
+    },
+    {
+      "title" : "Engineering for Vtuber",
+      "url" : "https://qiita.com/advent-calendar/2021/vtuber",
+      "unique_name" : "vtuber"
+    },
+    {
+      "title" : "Volare",
+      "url" : "https://qiita.com/advent-calendar/2021/volare",
+      "unique_name" : "volare"
+    },
+    {
+      "title" : "毎日誰かのプルリクを脳死でマージするアドベントカレンダー（Next.js）",
+      "url" : "https://qiita.com/advent-calendar/2021/full-scratch-awesome-app-nextjs",
+      "unique_name" : "full-scratch-awesome-app-nextjs"
+    },
+    {
+      "title" : "Firebird",
+      "url" : "https://qiita.com/advent-calendar/2021/firebird",
+      "unique_name" : "firebird"
+    },
+    {
+      "title" : "スターフェスティバル",
+      "url" : "https://qiita.com/advent-calendar/2021/stafes",
+      "unique_name" : "stafes"
+    },
+    {
+      "title" : "GitLab",
+      "url" : "https://qiita.com/advent-calendar/2021/gitlab",
+      "unique_name" : "gitlab"
+    },
+    {
+      "title" : "N予備校プログラミングコース",
+      "url" : "https://qiita.com/advent-calendar/2021/nyobi",
+      "unique_name" : "nyobi"
+    },
+    {
+      "title" : "ちゅらデータ Advent Calender 2021",
+      "url" : "https://qiita.com/advent-calendar/2021/churadata",
+      "unique_name" : "churadata"
+    },
+    {
+      "title" : "アイスタイル",
+      "url" : "https://qiita.com/advent-calendar/2021/istyle",
+      "unique_name" : "istyle"
+    },
+    {
+      "title" : "R",
+      "url" : "https://qiita.com/advent-calendar/2021/rlang",
+      "unique_name" : "rlang"
+    },
+    {
+      "title" : "Fuzzing",
+      "url" : "https://qiita.com/advent-calendar/2021/fuzzing",
+      "unique_name" : "fuzzing"
+    },
+    {
+      "title" : "エンジニアリングに興味があるデザイナー、デザインに興味があるエンジニア",
+      "url" : "https://qiita.com/advent-calendar/2021/design-code",
+      "unique_name" : "design-code"
+    },
+    {
+      "title" : "Node.js",
+      "url" : "https://qiita.com/advent-calendar/2021/nodejs",
+      "unique_name" : "nodejs"
+    },
+    {
+      "title" : "Digital Identity技術勉強会 #iddance",
+      "url" : "https://qiita.com/advent-calendar/2021/iddance",
+      "unique_name" : "iddance"
+    },
+    {
+      "title" : "しくじり先生",
+      "url" : "https://qiita.com/advent-calendar/2021/shikujiri",
+      "unique_name" : "shikujiri"
+    },
+    {
+      "title" : "Algolia",
+      "url" : "https://qiita.com/advent-calendar/2021/algolia",
+      "unique_name" : "algolia"
+    },
+    {
+      "title" : "レコチョク",
+      "url" : "https://qiita.com/advent-calendar/2021/recochoku",
+      "unique_name" : "recochoku"
+    },
+    {
+      "title" : "Emotion Tech",
+      "url" : "https://qiita.com/advent-calendar/2021/emotion-tech",
+      "unique_name" : "emotion-tech"
+    },
+    {
+      "title" : "ZOZO",
+      "url" : "https://qiita.com/advent-calendar/2021/zozo",
+      "unique_name" : "zozo"
+    },
+    {
+      "title" : "Ruby on Rails",
+      "url" : "https://qiita.com/advent-calendar/2021/ruby-on-rails",
+      "unique_name" : "ruby-on-rails"
+    },
+    {
+      "title" : "IPFactory",
+      "url" : "https://qiita.com/advent-calendar/2021/ipfactory",
+      "unique_name" : "ipfactory"
+    },
+    {
+      "title" : "クラウド・分散システム研究室",
+      "url" : "https://qiita.com/advent-calendar/2021/cdsl",
+      "unique_name" : "cdsl"
+    },
+    {
+      "title" : "運動通信社 AdventCalendar 2021",
+      "url" : "https://qiita.com/advent-calendar/2021/undotsushin",
+      "unique_name" : "undotsushin"
+    },
+    {
+      "title" : "半導体",
+      "url" : "https://qiita.com/advent-calendar/2021/semiconductor",
+      "unique_name" : "semiconductor"
+    },
+    {
+      "title" : "Lancers（ランサーズ",
+      "url" : "https://qiita.com/advent-calendar/2021/lancers",
+      "unique_name" : "lancers"
+    },
+    {
+      "title" : "React Native",
+      "url" : "https://qiita.com/advent-calendar/2021/react-native",
+      "unique_name" : "react-native"
+    },
+    {
+      "title" : "RDBMS-GIS(MySQL,PostgreSQLなど)",
+      "url" : "https://qiita.com/advent-calendar/2021/rdbms_gis",
+      "unique_name" : "rdbms_gis"
+    },
+    {
+      "title" : "ゴリラ",
+      "url" : "https://qiita.com/advent-calendar/2021/gorilla",
+      "unique_name" : "gorilla"
+    },
+    {
+      "title" : "エムティーアイ",
+      "url" : "https://qiita.com/advent-calendar/2021/mti",
+      "unique_name" : "mti"
+    },
+    {
+      "title" : "GameWith",
+      "url" : "https://qiita.com/advent-calendar/2021/gamewith",
+      "unique_name" : "gamewith"
+    },
+    {
+      "title" : "UT-virtual",
+      "url" : "https://qiita.com/advent-calendar/2021/ut-virtual",
+      "unique_name" : "ut-virtual"
+    },
+    {
+      "title" : "Shifter Advent Calendar 2021 #JP_GetShifter",
+      "url" : "https://qiita.com/advent-calendar/2021/getshifter",
+      "unique_name" : "getshifter"
+    },
+    {
+      "title" : "システムアイ Advent Calendar  2021",
+      "url" : "https://qiita.com/advent-calendar/2021/systemi",
+      "unique_name" : "systemi"
+    },
+    {
+      "title" : "NSSOL",
+      "url" : "https://qiita.com/advent-calendar/2021/nssol",
+      "unique_name" : "nssol"
+    },
+    {
+      "title" : "PHP",
+      "url" : "https://qiita.com/advent-calendar/2021/php",
+      "unique_name" : "php"
+    },
+    {
+      "title" : "マイナビ",
+      "url" : "https://qiita.com/advent-calendar/2021/mynavi",
+      "unique_name" : "mynavi"
+    },
+    {
+      "title" : "Notion",
+      "url" : "https://qiita.com/advent-calendar/2021/notion",
+      "unique_name" : "notion"
+    },
+    {
+      "title" : "クソアプリ",
+      "url" : "https://qiita.com/advent-calendar/2021/kuso-app",
+      "unique_name" : "kuso-app"
+    },
+    {
+      "title" : "QualiArts",
+      "url" : "https://qiita.com/advent-calendar/2021/qualiarts",
+      "unique_name" : "qualiarts"
+    },
+    {
+      "title" : "アクシスグループ",
+      "url" : "https://qiita.com/advent-calendar/2021/axisroot",
+      "unique_name" : "axisroot"
+    },
+    {
+      "title" : "JUCE",
+      "url" : "https://qiita.com/advent-calendar/2021/juce",
+      "unique_name" : "juce"
+    },
+    {
+      "title" : "BeeX",
+      "url" : "https://qiita.com/advent-calendar/2021/beex",
+      "unique_name" : "beex"
+    },
+    {
+      "title" : "レイトレーシング(レイトレ)",
+      "url" : "https://qiita.com/advent-calendar/2021/raytracing",
+      "unique_name" : "raytracing"
+    },
+    {
+      "title" : "AWS",
+      "url" : "https://qiita.com/advent-calendar/2021/aws",
+      "unique_name" : "aws"
+    },
+    {
+      "title" : "完全に理解したTalk",
+      "url" : "https://qiita.com/advent-calendar/2021/easyeasy",
+      "unique_name" : "easyeasy"
+    },
+    {
+      "title" : "Next2D",
+      "url" : "https://qiita.com/advent-calendar/2021/next2d",
+      "unique_name" : "next2d"
+    },
+    {
+      "title" : "エムスリー",
+      "url" : "https://qiita.com/advent-calendar/2021/m3",
+      "unique_name" : "m3"
+    },
+    {
+      "title" : "Iwaken Lab.「好きな技術・コト」",
+      "url" : "https://qiita.com/advent-calendar/2021/iwakenlab",
+      "unique_name" : "iwakenlab"
+    },
+    {
+      "title" : "Synamon",
+      "url" : "https://qiita.com/advent-calendar/2021/synamon",
+      "unique_name" : "synamon"
+    },
+    {
+      "title" : "エーピーコミュニケーションズ",
+      "url" : "https://qiita.com/advent-calendar/2021/ap-com",
+      "unique_name" : "ap-com"
+    },
+    {
+      "title" : "MIERUNE",
+      "url" : "https://qiita.com/advent-calendar/2021/mierune",
+      "unique_name" : "mierune"
+    },
+    {
+      "title" : "Laravel",
+      "url" : "https://qiita.com/advent-calendar/2021/laravel",
+      "unique_name" : "laravel"
+    },
+    {
+      "title" : "Kubernetes",
+      "url" : "https://qiita.com/advent-calendar/2021/kubernetes",
+      "unique_name" : "kubernetes"
+    },
+    {
+      "title" : "READYFOR",
+      "url" : "https://qiita.com/advent-calendar/2021/readyfor",
+      "unique_name" : "readyfor"
+    },
+    {
+      "title" : "webflow",
+      "url" : "https://qiita.com/advent-calendar/2021/webflow",
+      "unique_name" : "webflow"
+    },
+    {
+      "title" : "CivicTech ＆ GovTech ",
+      "url" : "https://qiita.com/advent-calendar/2021/civictech",
+      "unique_name" : "civictech"
+    },
+    {
+      "title" : "LAPRAS",
+      "url" : "https://qiita.com/advent-calendar/2021/lapras",
+      "unique_name" : "lapras"
+    },
+    {
+      "title" : "Arduino",
+      "url" : "https://qiita.com/advent-calendar/2021/arduino",
+      "unique_name" : "arduino"
+    },
+    {
+      "title" : "Nim",
+      "url" : "https://qiita.com/advent-calendar/2021/nim",
+      "unique_name" : "nim"
+    },
+    {
+      "title" : "フューチャー",
+      "url" : "https://qiita.com/advent-calendar/2021/future",
+      "unique_name" : "future"
+    },
+    {
+      "title" : "FreeBSD",
+      "url" : "https://qiita.com/advent-calendar/2021/freebsd",
+      "unique_name" : "freebsd"
+    },
+    {
+      "title" : "Salesforce",
+      "url" : "https://qiita.com/advent-calendar/2021/salesforce",
+      "unique_name" : "salesforce"
+    },
+    {
+      "title" : "GMOアドマーケティング",
+      "url" : "https://qiita.com/advent-calendar/2021/gmo-am",
+      "unique_name" : "gmo-am"
+    },
+    {
+      "title" : "INTEC",
+      "url" : "https://qiita.com/advent-calendar/2021/intec",
+      "unique_name" : "intec"
+    },
+    {
+      "title" : "Unreal Engine (UE)",
+      "url" : "https://qiita.com/advent-calendar/2021/ue",
+      "unique_name" : "ue"
+    },
+    {
+      "title" : "個人開発",
+      "url" : "https://qiita.com/advent-calendar/2021/personal-project",
+      "unique_name" : "personal-project"
+    },
+    {
+      "title" : "Kaggle",
+      "url" : "https://qiita.com/advent-calendar/2021/kaggle",
+      "unique_name" : "kaggle"
+    },
+    {
+      "title" : "Vue",
+      "url" : "https://qiita.com/advent-calendar/2021/vue",
+      "unique_name" : "vue"
+    },
+    {
+      "title" : "Django",
+      "url" : "https://qiita.com/advent-calendar/2021/django",
+      "unique_name" : "django"
+    },
+    {
+      "title" : "ZYYX",
+      "url" : "https://qiita.com/advent-calendar/2021/zyyx",
+      "unique_name" : "zyyx"
+    },
+    {
+      "title" : "Data Platform for Microsoft Azure",
+      "url" : "https://qiita.com/advent-calendar/2021/azure-data-platform",
+      "unique_name" : "azure-data-platform"
+    },
+    {
+      "title" : "ABEJA",
+      "url" : "https://qiita.com/advent-calendar/2021/abeja",
+      "unique_name" : "abeja"
+    },
+    {
+      "title" : "PRK Firmware",
+      "url" : "https://qiita.com/advent-calendar/2021/prk_firmware",
+      "unique_name" : "prk_firmware"
+    },
+    {
+      "title" : "スマートスピーカー",
+      "url" : "https://qiita.com/advent-calendar/2021/smart-speaker",
+      "unique_name" : "smart-speaker"
+    },
+    {
+      "title" : "Vim Short Tips",
+      "url" : "https://qiita.com/advent-calendar/2021/vim-short-tips",
+      "unique_name" : "vim-short-tips"
+    },
+    {
+      "title" : "Seeed UG",
+      "url" : "https://qiita.com/advent-calendar/2021/seeed_ug",
+      "unique_name" : "seeed_ug"
+    },
+    {
+      "title" : "Rust",
+      "url" : "https://qiita.com/advent-calendar/2021/rust",
+      "unique_name" : "rust"
+    },
+    {
+      "title" : "Slack",
+      "url" : "https://qiita.com/advent-calendar/2021/slack",
+      "unique_name" : "slack"
+    },
+    {
+      "title" : "Hamee",
+      "url" : "https://qiita.com/advent-calendar/2021/hamee",
+      "unique_name" : "hamee"
+    },
+    {
+      "title" : "本番環境でやらかしちゃった人",
+      "url" : "https://qiita.com/advent-calendar/2021/yarakashi-production",
+      "unique_name" : "yarakashi-production"
+    },
+    {
+      "title" : "Svelte",
+      "url" : "https://qiita.com/advent-calendar/2021/svelte",
+      "unique_name" : "svelte"
+    },
+    {
+      "title" : "Linux",
+      "url" : "https://qiita.com/advent-calendar/2021/linux",
+      "unique_name" : "linux"
+    },
+    {
+      "title" : "Vim",
+      "url" : "https://qiita.com/advent-calendar/2021/vim",
+      "unique_name" : "vim"
+    },
+    {
+      "title" : "qnote",
+      "url" : "https://qiita.com/advent-calendar/2021/qnote",
+      "unique_name" : "qnote"
+    },
+    {
+      "title" : "CircleCI",
+      "url" : "https://qiita.com/advent-calendar/2021/circleci",
+      "unique_name" : "circleci"
+    },
+    {
+      "title" : "CIカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/about_ci",
+      "unique_name" : "about_ci"
+    },
+    {
+      "title" : "Android",
+      "url" : "https://qiita.com/advent-calendar/2021/android",
+      "unique_name" : "android"
+    },
+    {
+      "title" : "Visual Studio Code",
+      "url" : "https://qiita.com/advent-calendar/2021/vscode",
+      "unique_name" : "vscode"
+    },
+    {
+      "title" : "IoTLT",
+      "url" : "https://qiita.com/advent-calendar/2021/iotlt",
+      "unique_name" : "iotlt"
+    },
+    {
+      "title" : "SIOSアドベントカレンダー",
+      "url" : "https://qiita.com/advent-calendar/2021/sios",
+      "unique_name" : "sios"
+    },
+    {
+      "title" : "福島高専",
+      "url" : "https://qiita.com/advent-calendar/2021/nitfc",
+      "unique_name" : "nitfc"
+    },
+    {
+      "title" : "Ruby",
+      "url" : "https://qiita.com/advent-calendar/2021/ruby",
+      "unique_name" : "ruby"
+    },
+    {
+      "title" : "岩手大学",
+      "url" : "https://qiita.com/advent-calendar/2021/iwate-u",
+      "unique_name" : "iwate-u"
+    },
+    {
+      "title" : "Azure DevOps",
+      "url" : "https://qiita.com/advent-calendar/2021/azuredevops",
+      "unique_name" : "azuredevops"
+    },
+    {
+      "title" : "Figma",
+      "url" : "https://qiita.com/advent-calendar/2021/figma",
+      "unique_name" : "figma"
+    },
+    {
+      "title" : "Symfony",
+      "url" : "https://qiita.com/advent-calendar/2021/symfony",
+      "unique_name" : "symfony"
+    },
+    {
+      "title" : "Enigmo",
+      "url" : "https://qiita.com/advent-calendar/2021/enigmo",
+      "unique_name" : "enigmo"
+    },
+    {
+      "title" : "限界開発鯖",
+      "url" : "https://qiita.com/advent-calendar/2021/approvers",
+      "unique_name" : "approvers"
+    },
+    {
+      "title" : "terraform",
+      "url" : "https://qiita.com/advent-calendar/2021/terraform",
+      "unique_name" : "terraform"
+    },
+    {
+      "title" : "Clojure",
+      "url" : "https://qiita.com/advent-calendar/2021/clojure",
+      "unique_name" : "clojure"
+    },
+    {
+      "title" : "Python",
+      "url" : "https://qiita.com/advent-calendar/2021/python",
+      "unique_name" : "python"
+    },
+    {
+      "title" : "Electron",
+      "url" : "https://qiita.com/advent-calendar/2021/electron",
+      "unique_name" : "electron"
+    },
+    {
+      "title" : "SRA",
+      "url" : "https://qiita.com/advent-calendar/2021/sra",
+      "unique_name" : "sra"
+    },
+    {
+      "title" : "Go",
+      "url" : "https://qiita.com/advent-calendar/2021/go",
+      "unique_name" : "go"
+    },
+    {
+      "title" : "elixir",
+      "url" : "https://qiita.com/advent-calendar/2021/elixir",
+      "unique_name" : "elixir"
+    },
+    {
+      "title" : "Siv3D",
+      "url" : "https://qiita.com/advent-calendar/2021/siv3d",
+      "unique_name" : "siv3d"
+    },
+    {
+      "title" : "freee APIで業務を楽しく便利にハックしよう！2021【PR】freee",
+      "url" : "https://qiita.com/advent-calendar/2021/freee-api",
+      "unique_name" : "freee-api"
+    },
+    {
+      "title" : "アルサーガパートナーズ",
+      "url" : "https://qiita.com/advent-calendar/2021/arsaga",
+      "unique_name" : "arsaga"
+    },
+    {
+      "title" : "HoloLens",
+      "url" : "https://qiita.com/advent-calendar/2021/hololens",
+      "unique_name" : "hololens"
+    },
+    {
+      "title" : "IBM Cloud",
+      "url" : "https://qiita.com/advent-calendar/2021/ibmcloud",
+      "unique_name" : "ibmcloud"
+    }
+  ]
+}

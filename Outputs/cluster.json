@@ -1,0 +1,177 @@
+{
+  "created_at" : "2021-12-24T10:57:20Z",
+  "calendar_meta_data" : {
+    "author" : "クラスター株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 66,
+    "subscribers" : 14,
+    "title" : "クラスター Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "cluster",
+    "url" : "https://qiita.com/advent-calendar/2021/cluster"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@htomine"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "clusterに暮らすキャラクターAIについて思うことと、つくり方 ( Living AI in cluster )",
+      "author" : "@hattori88",
+      "day" : 2,
+      "url" : "https://qiita.com/hattori88/items/29781a8361ab830cd9e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSSのglTFライブラリにPull Requestを出した件について",
+      "author" : "@neguse_k",
+      "day" : 3,
+      "url" : "https://qiita.com/neguse_k/items/dd5412204705e1f361df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cluster Creator Kit でそれっぽい飛行機を実装する",
+      "author" : "@noir_neo",
+      "day" : 4,
+      "url" : "https://zenn.dev/noir_neo/articles/8173b5d3aa8086"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@tommy96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cluster Creator Kit に今ないものの話",
+      "author" : "@faidra",
+      "day" : 6,
+      "url" : "https://note.com/faidra/n/n527c9b91bfb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新しい仕事と大阪東京通勤と子育ての話",
+      "author" : "@kurain",
+      "day" : 7,
+      "url" : "https://r-kurain.hatenablog.com/entry/2021/12/07/233542"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AvatarMakerを支える技術（仮）",
+      "author" : "@yutopp",
+      "day" : 8,
+      "url" : "https://yutopp.hateblo.jp/entry/2021/12/08/000022"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "clusterのserver実装小話 Custom Termination Policyは神",
+      "author" : "@uraura",
+      "day" : 9,
+      "url" : "https://qiita.com/uraura/items/6d24a9c1e8fbf4ed8e25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "好きなclusterイベント＆ワールドについて語るだけ",
+      "author" : "@57_kokokona",
+      "day" : 10,
+      "url" : "https://note.com/57_kokokona/n/n55da42c4d20a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタマーサポートがクラッシュの原因を突き止めた話 その2",
+      "author" : "@Swanman",
+      "day" : 11,
+      "url" : "https://qiita.com/Swanman/items/8cb0be80fabd47ded709"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityの作業効率を上げる系Editor ScriptのTips集",
+      "author" : "@MSA-i",
+      "day" : 12,
+      "url" : "https://qiita.com/MSA-i/items/bf9da9a5c5ba00485da3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインデータの読み解き",
+      "author" : "@YOSHIOKA_Ko57",
+      "day" : 13,
+      "url" : "https://zenn.dev/yoshioka_ko57/articles/understand_design_data"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOS開発から見るcluster",
+      "author" : "@ulaph",
+      "day" : 14,
+      "url" : "https://qiita.com/ulaph/items/09f6f46516f5cf3dde9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ワールド紹介動画の撮影について",
+      "author" : "@194_alert",
+      "day" : 15,
+      "url" : "https://qiita.com/194_alert/items/26e6218207f5b94fcd7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityネイティブプラグインのM1 Mac対応",
+      "author" : "@rizumi",
+      "day" : 16,
+      "url" : "https://qiita.com/rizumi/items/1598b4a9b8cdde8ca230"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オリジナルの会場を使ってイベントを開催してみよう!",
+      "author" : "@Hashimoto_Mami",
+      "day" : 17,
+      "url" : "https://note.com/literatrue/n/nb68f8e9813d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@okan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の振り返りと2022年に向けて",
+      "author" : "@ryoya_ino",
+      "day" : 19,
+      "url" : "https://note.com/inotch247/n/na6e684228e54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "clusterのAndroidアプリ開発状況2021版",
+      "author" : "@kyokomi",
+      "day" : 20,
+      "url" : "https://qiita.com/kyokomi/items/ac2fc48be902de830a2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仕事で振り返るclusterの3年間",
+      "author" : "@compile3",
+      "day" : 21,
+      "url" : "https://note.com/compile3/n/n79c08fca85e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "clusterのUnity UI周りの開発紹介",
+      "author" : "@sansuke05",
+      "day" : 22,
+      "url" : "https://qiita.com/sansuke05/items/c353f287dfc9b19d3a14"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@anoriqq"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@t_hara"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

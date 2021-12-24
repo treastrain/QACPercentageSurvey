@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T02:23:57Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社iCARE",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 5,
+    "title" : "iCARE の技術顧問がどんな事をやっているか - 2021アドベントカレンダー Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "icare-frontend-tech-adviser",
+    "url" : "https://qiita.com/advent-calendar/2021/icare-frontend-tech-adviser"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "自分の取扱説明書を書く",
+      "author" : "@beijaflor",
+      "day" : 1,
+      "url" : "https://note.com/beijaflor/n/n7b87360db7f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "定例資料のテンプレートを整理する",
+      "author" : "@beijaflor",
+      "day" : 2,
+      "url" : "https://note.com/beijaflor/n/n28f81b12ae14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "勤怠入力用シートを改善する",
+      "author" : "@beijaflor",
+      "day" : 3,
+      "url" : "https://note.com/beijaflor/n/n4552cd90cbf4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QA エンジニアを紹介する",
+      "author" : "@beijaflor",
+      "day" : 4,
+      "url" : "https://note.com/beijaflor/n/n82d3bbe0e637"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI その1 パフォーマンスチューニング",
+      "author" : "@beijaflor",
+      "day" : 5,
+      "url" : "https://note.com/beijaflor/n/n8c2a6569cf45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI その2 フロントエンドタスクの最適化",
+      "author" : "@beijaflor",
+      "day" : 6,
+      "url" : "https://note.com/beijaflor/n/n87fccf486251"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub actions の有効化",
+      "author" : "@beijaflor",
+      "day" : 7,
+      "url" : "https://note.com/beijaflor/n/ndd3460136862"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI の bundle install 時のキャッシュを調整する",
+      "author" : "@beijaflor",
+      "day" : 8,
+      "url" : "https://note.com/beijaflor/n/ne0c19df3003e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コーポレートページのドメイン変更で落ちるようになったテストを解決する",
+      "author" : "@beijaflor",
+      "day" : 9,
+      "url" : "https://note.com/beijaflor/n/nc2cca2b41175"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "npm script を大整理する",
+      "author" : "@beijaflor",
+      "day" : 10,
+      "url" : "https://note.com/beijaflor/n/n76cb80afa792"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインシステム始めました",
+      "author" : "@beijaflor",
+      "day" : 11,
+      "url" : "https://note.com/beijaflor/n/n598bde23d62d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドキュメンテーションツールの導入",
+      "author" : "@beijaflor",
+      "day" : 12,
+      "url" : "https://note.com/beijaflor/n/n54af54462696"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドキュメントをたくさん書く",
+      "author" : "@beijaflor",
+      "day" : 13,
+      "url" : "https://note.com/beijaflor/n/n3965c7902502"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドのテストを加速させる",
+      "author" : "@beijaflor",
+      "day" : 14,
+      "url" : "https://note.com/beijaflor/n/necd700eb51d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発用ドメインを lvh.me から carely.work に変更する",
+      "author" : "@beijaflor",
+      "day" : 15,
+      "url" : "https://note.com/beijaflor/n/nc1ddf6842057"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CI 用 Docker image の自動ビルドを設定する",
+      "author" : "@beijaflor",
+      "day" : 16,
+      "url" : "https://note.com/beijaflor/n/ndf9e51df8833"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "apollo-client 周りをいい感じにする",
+      "author" : "@beijaflor",
+      "day" : 17,
+      "url" : "https://note.com/beijaflor/n/nba3227c53ba4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "translate.js をフロントエンドでバンドルするようにする",
+      "author" : "@beijaflor",
+      "day" : 18,
+      "url" : "https://note.com/beijaflor/n/n3063c029166c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペアプロをする",
+      "author" : "@beijaflor",
+      "day" : 19,
+      "url" : "https://note.com/beijaflor/n/nb1e9ad78ecb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバサイド向けフロントエンド実装勉強会を開催する",
+      "author" : "@beijaflor",
+      "day" : 20,
+      "url" : "https://note.com/beijaflor/n/n3c4d3627a691"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アーキテクト会を発足させる",
+      "author" : "@beijaflor",
+      "day" : 21,
+      "url" : "https://note.com/beijaflor/n/nb767c2fba793"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカル開発環境辛いことアンケートを行う",
+      "author" : "@beijaflor",
+      "day" : 22,
+      "url" : "https://note.com/beijaflor/n/nbda7f1ea1adf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SRE っぽいこともやります",
+      "author" : "@beijaflor",
+      "day" : 23,
+      "url" : "https://note.com/beijaflor/n/nc14f701f1fd6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

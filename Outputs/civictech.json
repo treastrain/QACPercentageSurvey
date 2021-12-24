@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-24T13:01:27Z",
+  "calendar_meta_data" : {
+    "author" : "@homata",
+    "category" : "その他",
+    "lgtm" : 14,
+    "subscribers" : 11,
+    "title" : "CivicTech ＆ GovTech  Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "civictech",
+    "url" : "https://qiita.com/advent-calendar/2021/civictech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CODE for GIFUの代表を辞めてやったこと",
+      "author" : "@ishii-gifu",
+      "day" : 1,
+      "url" : "https://qiita.com/ishii-gifu/items/8933515875de1ed6a72a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外在住者がオンライン在外投票をできないか",
+      "author" : "@dg4101",
+      "day" : 2,
+      "url" : "https://qiita.com/dg4101/items/3ab1c8bedc4dd327b8b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ITで障害者を支えることが出来る",
+      "author" : "@Pen_Sugawara",
+      "day" : 3,
+      "url" : "https://note.com/itnavpen/n/nc62675ea943b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザ経由マイナンバーカード公的個人認証現状確認会",
+      "author" : "@kyo_ago",
+      "day" : 4,
+      "url" : "https://0-9.tumblr.com/post/671177872327704576/jpki-using-my-number-card-on-the-browser"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地域資料とオープンデータに関するメモ(2)",
+      "author" : "@niryuu",
+      "day" : 5,
+      "url" : "https://niryuu.hatenablog.com/entry/2021/12/18/102709"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Code for Japanでのインターンの経験を振り返る",
+      "author" : "@soheeyunn",
+      "day" : 6,
+      "url" : "https://qiita.com/soheeyunn/items/1c23f84a5f7b96424afa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンデータで一緒に作ろう",
+      "author" : "@K-Sakanoshita",
+      "day" : 7,
+      "url" : "https://k-sakanoshita.medium.com/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E4%BD%9C%E3%82%8D%E3%81%86-f75c80f2af60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地域資料とオープンデータに関するメモ",
+      "author" : "@niryuu",
+      "day" : 8,
+      "url" : "https://niryuu.hatenablog.com/entry/2021/12/13/205958"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@waarrk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "できることがなくても CivicTechに関わることができる",
+      "author" : "@tatsumi0040",
+      "day" : 10,
+      "url" : "https://note.com/dokusoukai/n/n502c7012b512"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSでNPOのWebサービスをはじめるSTO",
+      "author" : "@sogahisashi",
+      "day" : 11,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-11-530ee20e165361"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンデータページの更新状況調べたら鼻血出た",
+      "author" : "@Yfuruchin",
+      "day" : 12,
+      "url" : "https://yfurukawa.medium.com/opendata-website-9924dcbcf560"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアエンジニアのみんな、シビックテックはいいぞ！",
+      "author" : "@jollyjoester",
+      "day" : 13,
+      "url" : "https://jollyjoester.hatenablog.com/entry/2021/12/13/235839"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シビックテックと社会教育とDXと",
+      "author" : "@MiyukiShirasawa",
+      "day" : 14,
+      "url" : "https://note.com/miyukishirasawa/n/n63b4ff251a5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NHKハッカソンで小ネタガチャを作った話",
+      "author" : "@kaizumaki",
+      "day" : 15,
+      "url" : "https://note.com/kaizumaki/n/n1add890cba12"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@otkzh"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シビックテックを伝えるのは人間じゃなかった話。",
+      "author" : "@mamisada",
+      "day" : 17,
+      "url" : "https://note.com/mamisada/n/n44450d1ea029"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gather.Townで行うソーシャルハックデー",
+      "author" : "@forestgtree",
+      "day" : 18,
+      "url" : "https://note.com/forestgtree/n/n13e9f5fc93ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音楽療法を行うNPOの方々とのSTO活動について振り返り(仮)",
+      "author" : "@kawazu255",
+      "day" : 19,
+      "url" : "https://note.com/kawazu255/n/ncf4987159846"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@yamashita-kenngo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "国会議員の頻出語・特徴語を抽出するサイトを作った話",
+      "author" : "@rarara_brahmin",
+      "day" : 21,
+      "url" : "https://qiita.com/rarara_brahmin/items/ca604f3d9d6446434d28"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@hal_sk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私がシビックテックを諦めないわけ ",
+      "author" : "@saygo",
+      "day" : 23,
+      "url" : "https://note.com/saygo/n/na693c9d12caf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Rin2tree"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@homata"
+    }
+  ]
+}

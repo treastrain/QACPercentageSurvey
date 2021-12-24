@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T12:40:06Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社マイナビ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 92,
+    "subscribers" : 12,
+    "title" : "マイナビ Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "mynavi",
+    "url" : "https://qiita.com/advent-calendar/2021/mynavi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "VS Code Remote SSH Tips",
+      "author" : "@hiro_suzuki",
+      "day" : 1,
+      "url" : "https://note.com/hiro_suzuki/n/ndbdd0136bb60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bqコマンドにワイルドカード機能を追加したbq-superを作ってみた",
+      "author" : "@yterui",
+      "day" : 2,
+      "url" : "https://qiita.com/yterui/items/90d0ccf66966adf96be8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユニットテスト大事なのでちゃんと勉強した話",
+      "author" : "@tsano7",
+      "day" : 3,
+      "url" : "https://qiita.com/tsano7/items/b950acaeed5827aab07b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenID Connectを使い、Github ActionsからAWSをより安全に利用する",
+      "author" : "@kyoF",
+      "day" : 4,
+      "url" : "https://qiita.com/kyoF/items/c1e99f9388a36ed9bfc1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】画像検索、翻訳、画像認識を一度にやってみる【初級篇】",
+      "author" : "@Nyama-newbie",
+      "day" : 5,
+      "url" : "https://qiita.com/Nyama-newbie/items/7b5cc0d3c6fbef1c1c08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "”WEBマーケティング\"の仕事とGA4について",
+      "author" : "@Dai_ykmz",
+      "day" : 6,
+      "url" : "https://qiita.com/Dai_ykmz/items/29cfd4057c704968f9b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "xxxというエラーはxxxすると直ります←大好き",
+      "author" : "@komatsubara__tetsuya",
+      "day" : 7,
+      "url" : "https://qiita.com/komatsubara__tetsuya/items/2c2e694a7cd35808d9d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fairseqを使用して今まで消費していた時間を取り戻す",
+      "author" : "@re53min",
+      "day" : 8,
+      "url" : "https://qiita.com/re53min/items/5efa236295d9119051ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go言語+Elasticsearchで簡易求人検索バックエンド構築",
+      "author" : "@ekusiadadus",
+      "day" : 9,
+      "url" : "https://qiita.com/ekusiadadus/items/8402e285478a7bcc6385"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで統計的仮説検定を勉強してみた",
+      "author" : "@tsano7",
+      "day" : 10,
+      "url" : "https://qiita.com/tsano7/items/e03f36e2333244828964"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Colab / Python】気象庁API - 気象データの収集",
+      "author" : "@T_Ryota",
+      "day" : 11,
+      "url" : "https://qiita.com/T_Ryota/items/ef96d6575404a0fd46dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pythonでOpensearchの検索機能を扱う",
+      "author" : "@water12312",
+      "day" : 12,
+      "url" : "https://qiita.com/water12312/items/f66c60c3bd8493847024"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハッカソン型インターンの運営をした話",
+      "author" : "@ekusiadadus",
+      "day" : 13,
+      "url" : "https://qiita.com/ekusiadadus/items/9e7590f7f16f87e7d194"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reactを使うためのJavaScript",
+      "author" : "@kyoF",
+      "day" : 14,
+      "url" : "https://qiita.com/kyoF/items/0b3f53e35cb9c2fb651e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レコメンドエンジンで利用できそうな「埋め込み表現について」",
+      "author" : "@yyyang",
+      "day" : 15,
+      "url" : "https://qiita.com/yyyang/items/a8cdeea7717a30d2a139"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sharepointのリスト×PowerAutomate×Excelで申請業務を自動化できそう・・・",
+      "author" : "@arowoftree",
+      "day" : 16,
+      "url" : "https://qiita.com/arowoftree/items/c71a2e9fb7f9af59eeda"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自宅で手軽にグリーンカレーを作りながらAWS CloudFormation StackSetsの自動デプロイの結果通知を受け取る",
+      "author" : "@ksitsk",
+      "day" : 17,
+      "url" : "https://qiita.com/ksitsk/items/394266cb65d275fa0e79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MLOpsのためのソリューションを調査した",
+      "author" : "@tsano7",
+      "day" : 18,
+      "url" : "https://qiita.com/tsano7/items/69d5dfa39b64a0b6a438"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASからBacklogの課題をカウントしSlackに通知する",
+      "author" : "@object97",
+      "day" : 19,
+      "url" : "https://qiita.com/object97/items/32b4805331298cc1d452"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パン屋のアルゴリズム",
+      "author" : "@ekusiadadus",
+      "day" : 20,
+      "url" : "https://qiita.com/ekusiadadus/items/8cc1f238611081819d9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】はじめてのサーバーレスAPI構築",
+      "author" : "@LingmuSajun",
+      "day" : 21,
+      "url" : "https://qiita.com/LingmuSajun/items/844690b5125396b3974d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今ホットなLog4j脆弱性対応をきっかけにJava版LambdaをDocker版Lambdaへ急遽構成変更した2021年の末",
+      "author" : "@yterui",
+      "day" : 22,
+      "url" : "https://qiita.com/yterui/items/318b7a84fc743ff7b3ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これから流行りそうなSupabaseを触ってみた ",
+      "author" : "@seki19",
+      "day" : 23,
+      "url" : "https://qiita.com/seki19/items/3e669d2ddfdc330a9194"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務を通じての学びと成長",
+      "author" : "@soutaschool",
+      "day" : 24,
+      "url" : "https://qiita.com/soutaschool/items/e4e7dc3bede995a3bdab"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@toshi-bp"
+    }
+  ]
+}

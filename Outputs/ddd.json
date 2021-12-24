@@ -1,0 +1,134 @@
+{
+  "created_at" : "2021-12-24T10:47:50Z",
+  "calendar_meta_data" : {
+    "author" : "@InaLab",
+    "category" : "その他",
+    "lgtm" : 9,
+    "subscribers" : 85,
+    "title" : "ドメイン駆動設計（ＤＤＤ） Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "ddd",
+    "url" : "https://qiita.com/advent-calendar/2021/ddd"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "開発者は領域に入れません。　あるいは、消えたヴィクトリア朝ドメインの常識の謎（上）",
+      "author" : "@turanukimaru",
+      "day" : 1,
+      "url" : "https://qiita.com/turanukimaru/items/a90db0b0f0a0369e34dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発者は領域に入れません。　あるいは、消えたヴィクトリア朝ドメインの常識の謎（下）",
+      "author" : "@turanukimaru",
+      "day" : 2,
+      "url" : "https://qiita.com/turanukimaru/items/ab071dc43c5bf3d27841"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DDDのエンティティはイミュータブルな実装にしてもいいの？(サンプルコード有り)",
+      "author" : "@little_hand_s",
+      "day" : 13,
+      "url" : "https://little-hands.hatenablog.com/entry/2021/12/13/immutable-entity"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@jnuank"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@InaLab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ドメイン駆動設計入門」を読んで",
+      "author" : "@t13801206",
+      "day" : 21,
+      "url" : "https://qiita.com/t13801206/items/90a41f8ea880f30425b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めてのドメインモデリングから得た学び",
+      "author" : "@suzushin54",
+      "day" : 22,
+      "url" : "https://szk416.hatenablog.com/entry/20211222/1640179064"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@ts7i"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@abekoh"
+    }
+  ]
+}

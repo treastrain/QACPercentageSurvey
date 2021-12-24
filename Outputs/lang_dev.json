@@ -1,0 +1,163 @@
+{
+  "created_at" : "2021-12-24T07:35:40Z",
+  "calendar_meta_data" : {
+    "author" : "@blackenedgold",
+    "category" : "学術",
+    "lgtm" : 154,
+    "subscribers" : 59,
+    "title" : "言語実装 Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "lang_dev",
+    "url" : "https://qiita.com/advent-calendar/2021/lang_dev"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "累積レジスタマシンで命令単位JITコンパイラの夢を見る",
+      "author" : "@abo_junghichi",
+      "day" : 1,
+      "url" : "https://abo-junghichi.hatenablog.jp/entry/2021/11/30/035741"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スケーラブルな開発のための新しいプログラミング言語：Pen",
+      "author" : "@raviqqe",
+      "day" : 2,
+      "url" : "https://qiita.com/raviqqe/items/2ba3462bbe6027932984"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DsonというObject Notationを作ってみたが、結構良いかも",
+      "author" : "@ryo33",
+      "day" : 3,
+      "url" : "https://zenn.dev/ryo33/articles/69f6f83e3714e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械語手書きから言語処理系をブートストラップする",
+      "author" : "@9_ties",
+      "day" : 4,
+      "url" : "https://qiita.com/9_ties/items/349b2ed65b7cd8a7d580"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "prologで四則演算とJavaScriptの文字列足し算を実装とかを書いてみる。",
+      "author" : "@h_sakurai",
+      "day" : 5,
+      "url" : "https://qiita.com/h_sakurai/items/f14bf769a0100885c3f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "表示的意味論がわからないので簡単な例を翻訳してみた。",
+      "author" : "@h_sakurai",
+      "day" : 6,
+      "url" : "https://qiita.com/h_sakurai/items/6ffff8943bd0e2d4fb4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SSA変換とSCCP最適化をJavaScriptで実装してみた。",
+      "author" : "@h_sakurai",
+      "day" : 9,
+      "url" : "https://qiita.com/h_sakurai/items/74a3d2ef77f6c3ab9846"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSON Schema っぽいものを作ってみた",
+      "author" : "@h_sakurai",
+      "day" : 10,
+      "url" : "https://qiita.com/h_sakurai/items/8b105a4d4eeaea82a0f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "mmcはどう失敗したのか",
+      "author" : "@miura1729",
+      "day" : 13,
+      "url" : "https://qiita.com/miura1729/items/9b932933c673a0b4f34e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@ryo33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Paraphrase の開発状況 2021",
+      "author" : "@iigura",
+      "day" : 15,
+      "url" : "https://qiita.com/iigura/items/4d325eb7d2c27adedbc8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pangaea言語のプロトタイプチェーンについて",
+      "author" : "@Syuparn",
+      "day" : 16,
+      "url" : "https://qiita.com/Syuparn/items/bbf1241ab804949eb690"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@Myazakky"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@ryo33"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@ryo33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kinx Update 2021（パッケージ管理サポートなど）",
+      "author" : "@Kray-G",
+      "day" : 21,
+      "url" : "https://qiita.com/Kray-G/items/d9575193db154f632033"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクリプト言語は静的型検査の夢を見るか(kirl)",
+      "author" : "@White_Green2525",
+      "day" : 22,
+      "url" : "https://zenn.dev/white_green/articles/statically-typed-scripting-kirl"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " プログラミング言語 Palan v0.4 リファレン ス",
+      "author" : "@tosyama",
+      "day" : 23,
+      "url" : "https://qiita.com/tosyama/items/025355f07ac27d198f88"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@sisshiki1969"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yhara"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "created_at" : "2021-12-24T11:03:44Z",
+  "calendar_meta_data" : {
+    "author" : "@hv_demoon",
+    "category" : "企業・学校・団体",
+    "lgtm" : 1,
+    "subscribers" : 2,
+    "title" : "HAL名古屋 Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "hal-nagoya-advent",
+    "url" : "https://qiita.com/advent-calendar/2021/hal-nagoya-advent"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "気になる！UE5の新機能",
+      "author" : "@kusaribito1203",
+      "day" : 3,
+      "url" : "https://qiita.com/kusaribito1203/items/c005f7f26c03e48ad54e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UE4 C++でSlateアニメーション",
+      "author" : "@Suuta",
+      "day" : 8,
+      "url" : "https://qiita.com/Suuta/items/6e4e42a2c42dbcdfaa2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@hv_demoon"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@wasssk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hv_demoon"
+    }
+  ]
+}

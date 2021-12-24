@@ -1,0 +1,127 @@
+{
+  "created_at" : "2021-12-24T09:14:00Z",
+  "calendar_meta_data" : {
+    "author" : "@emorima",
+    "category" : "企業・学校・団体",
+    "lgtm" : 1,
+    "subscribers" : 0,
+    "title" : "ケーシーエスキャロット Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "kcscarrot",
+    "url" : "https://qiita.com/advent-calendar/2021/kcscarrot"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "新人研修で「現場Rails」を使った話",
+      "author" : "@emorima",
+      "day" : 1,
+      "url" : "https://h2carrot.github.io/2021/12/01-ojt2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分のサイトをWebスクレイピング",
+      "author" : "@garaman",
+      "day" : 10,
+      "url" : "https://owlsmind.blogspot.com/2021/12/web.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pytest mark を使用した実行するテストの絞り込み",
+      "author" : "@naokishi",
+      "day" : 19,
+      "url" : "https://qiita.com/naokishi/items/7d0ce875c2285b02a1e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Step Functionsの実行分をすべて自動で再実行するには",
+      "author" : "@kawakin1975",
+      "day" : 24,
+      "url" : "https://qiita.com/kawakin1975/items/cd5b1cba348b0039317b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T05:16:58Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エイアイ・フィールド",
+    "category" : "企業・学校・団体",
+    "lgtm" : 191,
+    "subscribers" : 3,
+    "title" : "株式会社エイアイ・フィールド Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "aifield",
+    "url" : "https://qiita.com/advent-calendar/2021/aifield"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "スロットマシンで稼ぐためには？（多腕バンディット問題入門）",
+      "author" : "@takuyakubo",
+      "day" : 1,
+      "url" : "https://qiita.com/takuyakubo/items/e20fe5019bbad4d7bf12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】Mediapipeを使って口紅を塗ってみた",
+      "author" : "@YomamaBanana",
+      "day" : 2,
+      "url" : "https://qiita.com/YomamaBanana/items/978689d6ec6c7e7be5d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】Mediapipeを使って「お化粧」をしてみた",
+      "author" : "@YomamaBanana",
+      "day" : 3,
+      "url" : "https://qiita.com/YomamaBanana/items/cb2c72ffd4bdce374f32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】MediapipeとOpenCVでリアルタイムの顔フィルター",
+      "author" : "@YomamaBanana",
+      "day" : 4,
+      "url" : "https://qiita.com/YomamaBanana/items/4197c4f9ec26a05416ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スロットマシンでもう少し遊ぶ(UCBアルゴリズム)",
+      "author" : "@takuyakubo",
+      "day" : 5,
+      "url" : "https://qiita.com/takuyakubo/items/2f2582873c9b440d86ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【VSCode】知っておきたいExtenstions（拡張機能）７選",
+      "author" : "@YomamaBanana",
+      "day" : 6,
+      "url" : "https://qiita.com/YomamaBanana/items/8a613eca2b3d93957c50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】Mediapipe&OpenCV&OBSを使って、WEB会議でのフィルターを作った",
+      "author" : "@YomamaBanana",
+      "day" : 7,
+      "url" : "https://qiita.com/YomamaBanana/items/393d94c0f44d2ea297fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無料で学べるデータサイエンス教材[2021年度版]",
+      "author" : "@Kenta_Hoji",
+      "day" : 8,
+      "url" : "https://qiita.com/Kenta_Hoji/items/07759636c03149f625ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jupyter Notebookをプレゼンにしてみた件",
+      "author" : "@YomamaBanana",
+      "day" : 9,
+      "url" : "https://qiita.com/YomamaBanana/items/468c90bbeffbef319252"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】PySimpleGUIでログインを作ってみた！",
+      "author" : "@YomamaBanana",
+      "day" : 10,
+      "url" : "https://qiita.com/YomamaBanana/items/6b3d720ea683063ea35c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】Bookmarkしておきたいリソース３選",
+      "author" : "@YomamaBanana",
+      "day" : 11,
+      "url" : "https://qiita.com/YomamaBanana/items/ae1f03e5adef32840435"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ分析コンペの登録・学習の進め方[2021年度版]",
+      "author" : "@Kenta_Hoji",
+      "day" : 12,
+      "url" : "https://qiita.com/Kenta_Hoji/items/d64e4c7b76a55c7848ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】Wikipediaを検索し、結果をwordcloudで表示してみた！",
+      "author" : "@YomamaBanana",
+      "day" : 13,
+      "url" : "https://qiita.com/YomamaBanana/items/880498555513dedd7ea2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スロットマシンでさらに遊ぶ(DMEDアルゴリズム)",
+      "author" : "@takuyakubo",
+      "day" : 14,
+      "url" : "https://qiita.com/takuyakubo/items/6f7964d68d797c7ee69b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Streamlit+auto-sklearnでAutoMLツールを作成",
+      "author" : "@Kenta_Hoji",
+      "day" : 15,
+      "url" : "https://qiita.com/Kenta_Hoji/items/4036c248165b663daff4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Windows用】Docker + VSCode でPythonの開発環境を作り、VSCode上でJupyterNotebookを使用する",
+      "author" : "@katsu-sato",
+      "day" : 16,
+      "url" : "https://qiita.com/katsu-sato/items/021cbeaff44e63cd7aaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】癒される・嫌がるpython",
+      "author" : "@YomamaBanana",
+      "day" : 17,
+      "url" : "https://qiita.com/YomamaBanana/items/2ea9f8bb5a693e2f9eed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyCaretでSIGNATEのコンペに参加してみる！",
+      "author" : "@Kenta_Hoji",
+      "day" : 18,
+      "url" : "https://qiita.com/Kenta_Hoji/items/c6fecbbb80ece22412ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】癒される・嫌がるpython（第2弾）",
+      "author" : "@YomamaBanana",
+      "day" : 19,
+      "url" : "https://qiita.com/YomamaBanana/items/cfb79bca2af6bc2a8790"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "それで、結局どの方法がよいの？（多腕バンディット問題のアルゴリズム比較）",
+      "author" : "@takuyakubo",
+      "day" : 20,
+      "url" : "https://qiita.com/takuyakubo/items/18efcd136f39f8179325"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エントロピーことはじめ",
+      "author" : "@takuyakubo",
+      "day" : 21,
+      "url" : "https://qiita.com/takuyakubo/items/3a75ecdc8500c8a6fcd5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "android studioでつくるアプリゲーム開発〜環境構築編",
+      "author" : "@aroe_hiroe",
+      "day" : 22,
+      "url" : "https://qiita.com/aroe_hiroe/items/5124ad7a429f931e18a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初学者向け】プログラミング未経験の文系卒がAI開発会社に入社するまでに勉強したこと",
+      "author" : "@tah_K",
+      "day" : 23,
+      "url" : "https://qiita.com/tah_K/items/058f0085530454300eb1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】国会議員の会議出席可否を文章類似度を使って判断してみた",
+      "author" : "@taka_m",
+      "day" : 24,
+      "url" : "https://qiita.com/taka_m/items/4b129fb236fd225bfa0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@k_tomo"
+    }
+  ]
+}

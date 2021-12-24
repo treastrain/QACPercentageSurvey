@@ -1,0 +1,290 @@
+{
+  "created_at" : "2021-12-24T12:12:37Z",
+  "calendar_meta_data" : {
+    "author" : "@Ringa_hyj",
+    "category" : "プログラミング言語",
+    "lgtm" : 59,
+    "subscribers" : 43,
+    "title" : "R Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "rlang",
+    "url" : "https://qiita.com/advent-calendar/2021/rlang"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "TIF：テキスト分析用Rパッケージのデザインの紹介",
+      "author" : "@paithiov909",
+      "day" : 1,
+      "url" : "https://qiita.com/paithiov909/items/e1fb03bb749e0e10f9dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tidyposteriorの紹介",
+      "author" : "@kenkenvw",
+      "day" : 2,
+      "url" : "https://qiita.com/kenkenvw/items/765c8a4b867b01026d05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "都道府県の人口密度と相関が高いコンビニはどこだ!!!(R言語、無相関検定)",
+      "author" : "@yuki01221013",
+      "day" : 3,
+      "url" : "https://qiita.com/yuki01221013/items/b2d2bec8f49861b7bca8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Japan.RでTidy Tuesdayの企画した",
+      "author" : "@Atsushi776",
+      "day" : 4,
+      "url" : "https://blog.atusy.net/2021/12/05/japanr2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ggplot2】themeの使い方まとめ2021：作ったグラフの見た目をきれいにコントロールするために",
+      "author" : "@ocean_f",
+      "day" : 5,
+      "url" : "https://qiita.com/ocean_f/items/03a31a8a7ce222bb3838"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows 10でポータブルなBookdown環境を構築する",
+      "author" : "@yetanothersu",
+      "day" : 6,
+      "url" : "https://qiita.com/yetanothersu/items/23567011f4d58aea8ad2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tmpfs が noexec だと、Rパッケージのインストールに失敗することがある",
+      "author" : "@zettsu-t",
+      "day" : 7,
+      "url" : "https://qiita.com/zettsu-t/items/ce4cc80ffb5f71e9c01c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "wingetにより一瞬にしてWindowsにR環境を構築する",
+      "author" : "@eitsupi",
+      "day" : 8,
+      "url" : "https://qiita.com/eitsupi/private/f0bbd6579228817e8189"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "R言語でAutoMLの真似をする。{usemodels}+{workflowsets}",
+      "author" : "@Ringa_hyj",
+      "day" : 9,
+      "url" : "https://qiita.com/Ringa_hyj/items/f1155d1729483213814d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RでPython風docstringを実装してみる",
+      "author" : "@Atsushi776",
+      "day" : 10,
+      "url" : "https://blog.atusy.net/2021/12/20/r-docstring/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラッソ回帰のスクラッチ実装",
+      "author" : "@anemptyarchive",
+      "day" : 11,
+      "url" : "https://www.anarchive-beta.com/entry/2021/12/11/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "線形混合モデルを理解したい",
+      "author" : "@0_u0",
+      "day" : 12,
+      "url" : "https://socinuit.hatenablog.com/entry/2021/12/12/105558"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロジスティック回帰のスクラッチ実装",
+      "author" : "@anemptyarchive",
+      "day" : 13,
+      "url" : "https://www.anarchive-beta.com/entry/2021/12/13/110929"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "golemでShinyアプリを作る",
+      "author" : "@zettsu-t",
+      "day" : 14,
+      "url" : "https://qiita.com/zettsu-t/items/e0b2bcabc9803abf1b57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "R Markdownで定型レポート楽々作成",
+      "author" : "@eitsupi",
+      "day" : 15,
+      "url" : "https://qiita.com/eitsupi/items/cfa087b4beedf571c458"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モデルスタッキング時の{stacks}と{finetune}の不健全な関係",
+      "author" : "@Ringa_hyj",
+      "day" : 16,
+      "url" : "https://qiita.com/Ringa_hyj/items/7df19390fbc3e9483b2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "依存パッケージを一括で取得したい",
+      "author" : "@kodachan",
+      "day" : 17,
+      "url" : "https://kodachan.hatenablog.com/entry/advent-calendar-2021-rlang"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "r-libで気になるパッケージを列挙する",
+      "author" : "@y__mattu",
+      "day" : 18,
+      "url" : "https://y-mattu.hatenablog.com/entry/2021/12/18/001857"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "R 4.2でWindowsもUTF-8になることとその他細かい話",
+      "author" : "@yutannihilation",
+      "day" : 19,
+      "url" : "https://notchained.hatenablog.com/entry/2021/12/19/024803"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "都道府県を各コンビニ店舗数で分類してみた!!!(R言語、クラスター分析)",
+      "author" : "@yuki01221013",
+      "day" : 20,
+      "url" : "https://qiita.com/yuki01221013/items/d169c82062002dd5971f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<<-とクロージャ",
+      "author" : "@igjit",
+      "day" : 21,
+      "url" : "https://igjit.github.io/posts/2021/12/r-assign-op-and-closure/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dockerでR",
+      "author" : "@kaizen_nagoya",
+      "day" : 22,
+      "url" : "https://qiita.com/kaizen_nagoya/items/705408b36db9a8f4f340"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tidymodels使用時のオブジェクト(変数)命名規則【2022年度版】",
+      "author" : "@Ringa_hyj",
+      "day" : 23,
+      "url" : "https://qiita.com/Ringa_hyj/items/6ee263d82824ac89559c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kyyonko"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@y__mattu"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ggpatternでggplot2の色分けをパターンや網掛けに変えて白黒対応させる＆ついでにセンター地理のグラフを再現（おまけで模擬問題も作る）",
+      "author" : "@ocean_f",
+      "day" : 19,
+      "url" : "https://qiita.com/ocean_f/items/2b7243e4e19231d27713"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@keach_r"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T05:43:24Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社セゾン情報システムズ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 67,
+    "subscribers" : 8,
+    "title" : "セゾン情報システムズ Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "sisco",
+    "url" : "https://qiita.com/advent-calendar/2021/sisco"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon ECRのPull through cacheでECR PublicからDocker公式イメージをpullする",
+      "author" : "@hayao_k",
+      "day" : 1,
+      "url" : "https://qiita.com/hayao_k/items/78d3acd5b19af0cfa73b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JiraをServerからCloudに移行する際のハマりポイント",
+      "author" : "@Yosuke_Sakaue",
+      "day" : 2,
+      "url" : "https://qiita.com/Yosuke_Sakaue/items/6d5b06df1aa6e8848540"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Logic Apps StandardでVMのプライベートIPにSFTPしてみる",
+      "author" : "@shingo_kawahara",
+      "day" : 3,
+      "url" : "https://qiita.com/shingo_kawahara/items/fffd748309fa9bb5ab57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jira AutomationとGithubを連携してステータスとチケットを同期する",
+      "author" : "@Yosuke_Sakaue",
+      "day" : 4,
+      "url" : "https://qiita.com/Yosuke_Sakaue/items/8d477f0332c31a6b0f79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Hooksライブラリ「SWR」のすすめ",
+      "author" : "@am_765",
+      "day" : 5,
+      "url" : "https://qiita.com/am_765/items/4f8272195544af3b838d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon ECRとInspectorのイメージスキャン機能の違い",
+      "author" : "@hayao_k",
+      "day" : 6,
+      "url" : "https://qiita.com/hayao_k/items/889f2a6cdc4e377fb634"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイン思考や体験設計を学んでエンジニアのキャリアにUX設計を付け加えよう",
+      "author" : "@Akiko_Miyamoto",
+      "day" : 7,
+      "url" : "https://qiita.com/Akiko_Miyamoto/items/5f0b72c4fb1c97b79efb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "curl: (77) Problem with the SSL CA cert (path? access rights?)が出た時の対処法",
+      "author" : "@shingo_kawahara",
+      "day" : 8,
+      "url" : "https://qiita.com/shingo_kawahara/items/175e0561932fa1b20a3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jira Automationで定期的にタスクを起票、そして編集する",
+      "author" : "@Yosuke_Sakaue",
+      "day" : 9,
+      "url" : "https://qiita.com/Yosuke_Sakaue/items/051dea0ab5e4842a6ca5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いまさら聞けないアクセシビリティをざっくりまとめてみた",
+      "author" : "@Chamy_",
+      "day" : 10,
+      "url" : "https://qiita.com/Chamy_/items/e1fa088bb319cfb38ef4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイン思考とUI・UXデザインとサービスデザインについて簡単に説明してみた",
+      "author" : "@Akiko_Miyamoto",
+      "day" : 11,
+      "url" : "https://qiita.com/Akiko_Miyamoto/items/23fb9a6d344df9ff0481"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そのグローバルプロダクトはGDPR対応してますか",
+      "author" : "@Saaaam",
+      "day" : 12,
+      "url" : "https://qiita.com/Saaaam/items/4c5b5ad0d811bd5a6bb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報設計ってなんだ？成果物ってなんだ？どんな良いことがあるんだ？",
+      "author" : "@m-shinozaki",
+      "day" : 13,
+      "url" : "https://qiita.com/m-shinozaki/items/5d6969d07ae3feaec811"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウェブパフォーマンス向上のためにフロントエンドで考えるべきこと",
+      "author" : "@am_765",
+      "day" : 14,
+      "url" : "https://qiita.com/am_765/items/b90ebdfd2ddfd0bbe44b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chrome 97のDevToolsに実装されるブラウザ操作記録についての活用方法を考える",
+      "author" : "@Yoshihiro-Hirose",
+      "day" : 15,
+      "url" : "https://qiita.com/Yoshihiro-Hirose/items/58056f98c867c9d4e262"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AI-OCR】Tegaki 改め SmartRead 帳票自動仕分け機能を試用してみました。",
+      "author" : "@T_Umezaki",
+      "day" : 16,
+      "url" : "https://qiita.com/T_Umezaki/items/0b9f9a2b201f7847af7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「インプットできてる気がしない！」時に見直したいこと",
+      "author" : "@regaeve",
+      "day" : 17,
+      "url" : "https://qiita.com/regaeve/items/7954450427019813e273"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マーケのデータと数字と自動化と、みたいな話。",
+      "author" : "@otoan_u",
+      "day" : 18,
+      "url" : "https://qiita.com/otoan_u/items/6b0941e1c4a095e72b3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Portal上で特定のAzure Blob Storageのみ閲覧可能にする",
+      "author" : "@shingo_kawahara",
+      "day" : 19,
+      "url" : "https://qiita.com/shingo_kawahara/items/821c87a5a6eb36e26cf4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKでらくらくネットワーク構築",
+      "author" : "@araryo",
+      "day" : 20,
+      "url" : "https://qiita.com/araryo/items/f5a3b808be50334b6319"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "調べる技術　調べる時に自分が心がけている5つのこと",
+      "author" : "@brightcat",
+      "day" : 21,
+      "url" : "https://qiita.com/brightcat/private/04e33e0660af6a6ef6a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HULFTの転送速度が速い理由を技術面から説明してみる。",
+      "author" : "@luck_higucho",
+      "day" : 22,
+      "url" : "https://qiita.com/luck_higucho/items/1c4fdc38fdc33de3e302"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stream API の裏を覗いてみた",
+      "author" : "@chyiro",
+      "day" : 23,
+      "url" : "https://qiita.com/chyiro/items/43da05f52dc56df194a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【30分でやってみた】pythonでEXCELを操作",
+      "author" : "@kkueno",
+      "day" : 24,
+      "url" : "https://qiita.com/kkueno/items/c1fd19c19dc0d77bb79b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shingo_kawahara"
+    }
+  ]
+}

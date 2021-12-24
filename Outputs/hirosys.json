@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T03:11:35Z",
+  "calendar_meta_data" : {
+    "author" : "@hirosys",
+    "category" : "その他",
+    "lgtm" : 3,
+    "subscribers" : 2,
+    "title" : "ひろ亭 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "hirosys",
+    "url" : "https://qiita.com/advent-calendar/2021/hirosys"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(1日目)",
+      "author" : "@hirosys",
+      "day" : 1,
+      "url" : "https://qiita.com/hirosys/items/c8e92c253d8acc8f0a96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(2日目)",
+      "author" : "@hirosys",
+      "day" : 2,
+      "url" : "https://qiita.com/hirosys/items/1d15cbd778635cf9820d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(3日目)",
+      "author" : "@hirosys",
+      "day" : 3,
+      "url" : "https://qiita.com/hirosys/items/29a4ba8bd076cfc95b93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(4日目)",
+      "author" : "@hirosys",
+      "day" : 4,
+      "url" : "https://qiita.com/hirosys/items/c14947ad3f5ffa9d03a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(5日目)",
+      "author" : "@hirosys",
+      "day" : 5,
+      "url" : "https://qiita.com/hirosys/items/e0b0e953f63f06af6889"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(6日目)",
+      "author" : "@hirosys",
+      "day" : 6,
+      "url" : "https://qiita.com/hirosys/items/c339bf0d85d4a8ac74e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(7日目)",
+      "author" : "@hirosys",
+      "day" : 7,
+      "url" : "https://qiita.com/hirosys/items/e18d8611e5eeb3f282fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(8日目)",
+      "author" : "@hirosys",
+      "day" : 8,
+      "url" : "https://qiita.com/hirosys/items/a6a91779a668b7c6dbe4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(9日目)",
+      "author" : "@hirosys",
+      "day" : 9,
+      "url" : "https://qiita.com/hirosys/items/72197f72a3314c1fa8a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(10日目) ",
+      "author" : "@hirosys",
+      "day" : 10,
+      "url" : "https://qiita.com/hirosys/items/e54701d7b4468b76b7b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(11日目)",
+      "author" : "@hirosys",
+      "day" : 11,
+      "url" : "https://qiita.com/hirosys/items/22394485356157ab7c6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(12日目)",
+      "author" : "@hirosys",
+      "day" : 12,
+      "url" : "https://qiita.com/hirosys/items/539d3e465ade788c28a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(13日目)",
+      "author" : "@hirosys",
+      "day" : 13,
+      "url" : "https://qiita.com/hirosys/items/f14d0b5068dd4bb9ec44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(14日目)",
+      "author" : "@hirosys",
+      "day" : 14,
+      "url" : "https://qiita.com/hirosys/items/0311a01cf50f0a7f3ef8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(15日目)",
+      "author" : "@hirosys",
+      "day" : 15,
+      "url" : "https://qiita.com/hirosys/items/5fcfd3b4542a2fc0f618"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(16日目)",
+      "author" : "@hirosys",
+      "day" : 16,
+      "url" : "https://qiita.com/hirosys/items/635fd29f1687e979ad92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(17日目)",
+      "author" : "@hirosys",
+      "day" : 17,
+      "url" : "https://qiita.com/hirosys/items/fda20d12dab009b147fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(18日目)",
+      "author" : "@hirosys",
+      "day" : 18,
+      "url" : "https://qiita.com/hirosys/items/00e5c9d4c89a06e22c57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(19日目)",
+      "author" : "@hirosys",
+      "day" : 19,
+      "url" : "https://qiita.com/hirosys/items/7cd8841be06d85c518d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(20日目)",
+      "author" : "@hirosys",
+      "day" : 20,
+      "url" : "https://qiita.com/hirosys/items/d728895040531a8019a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(21日目)",
+      "author" : "@hirosys",
+      "day" : 21,
+      "url" : "https://qiita.com/hirosys/items/352a4e4d4ae3bcf03735"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(22日目)",
+      "author" : "@hirosys",
+      "day" : 22,
+      "url" : "https://qiita.com/hirosys/items/9d130a3464a8afc68645"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(23日目)",
+      "author" : "@hirosys",
+      "day" : 23,
+      "url" : "https://qiita.com/hirosys/items/adc0d1aa89ec5598183b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIで Web サイトを構築、管理、運用する(24日目)",
+      "author" : "@hirosys",
+      "day" : 24,
+      "url" : "https://qiita.com/hirosys/items/0ef3be7e6c40fdbf4c8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hirosys"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "created_at" : "2021-12-24T06:51:08Z",
+  "calendar_meta_data" : {
+    "author" : "@ishiayaya",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 342,
+    "subscribers" : 45,
+    "title" : "Microsoft Power BI Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "powerbi",
+    "url" : "https://qiita.com/advent-calendar/2021/powerbi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BIレポート「DX Criteria・非公式ボード」",
+      "author" : "@ishiayaya",
+      "day" : 1,
+      "url" : "https://qiita.com/ishiayaya/items/4719603e8f01cebbf64f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DA-100の試験勉強をした話",
+      "author" : "@spumoni",
+      "day" : 2,
+      "url" : "https://qiita.com/spumoni/items/0beac6236adb5facc2ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Excel の Power Query でハマった話",
+      "author" : "@flali",
+      "day" : 3,
+      "url" : "https://flali.hatenablog.com/entry/2021/12/03/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CALCULATE 関数 の ベストプラクティスなど - Power BI 勉強会 #23 で話したいこと",
+      "author" : "@PowerBIxyz",
+      "day" : 4,
+      "url" : "https://qiita.com/PowerBIxyz/items/06a3f1c37b66091a6a34"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BI コネクターアップデート情報 2021年版",
+      "author" : "@kuwazzy",
+      "day" : 5,
+      "url" : "https://qiita.com/kuwazzy/items/64328bc52c1781b2032f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PowerBIのかんたんなレポート作成手順",
+      "author" : "@bianchi57",
+      "day" : 6,
+      "url" : "https://qiita.com/bianchi57/items/654f2c6256661c2fc0ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BIにて五黄の寅を計算・可視化してみた。",
+      "author" : "@tsukapon",
+      "day" : 7,
+      "url" : "https://note.com/tkchan/n/n2089828d38cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Metadataをたまには使ってみる",
+      "author" : "@tanuki_phoenix",
+      "day" : 8,
+      "url" : "https://qiita.com/tanuki_phoenix/items/00b985f4440b544791fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年Power BI学習 こんな事しました",
+      "author" : "@mayuki1209",
+      "day" : 9,
+      "url" : "https://encourage-toukadai.com/mirai/encourage/2021%e5%b9%b4-power-bi%e5%ad%a6%e7%bf%92%e5%b8%b3/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BIを社内導入するために、初学者の自分がまずしたこと2021",
+      "author" : "@hanaseleb",
+      "day" : 10,
+      "url" : "https://qiita.com/hanaseleb/items/86517446ceec5971b951"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BIにて社内イベントを可視化した話",
+      "author" : "@tsukapon",
+      "day" : 11,
+      "url" : "https://note.com/tkchan/n/ne7260f15315b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Udemyで「Power BI」を学んでみた",
+      "author" : "@dreams_panda",
+      "day" : 12,
+      "url" : "https://tana-techlog.net/?p=74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BI でBig dataに対応するために。ユーザー定義集計機能のご紹介",
+      "author" : "@ryoma-nagata",
+      "day" : 13,
+      "url" : "https://qiita.com/ryoma-nagata/items/b38d0ed500922687f922"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "時系列メジャー作成時の落とし穴",
+      "author" : "@marshal_dabao",
+      "day" : 14,
+      "url" : "https://marshal115.hatenablog.com/entry/2021/12/13/205037"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Query で正規表現を使って置換したい",
+      "author" : "@baku2san",
+      "day" : 15,
+      "url" : "https://qiita.com/baku2san/items/8041d0259fe0db680e7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Query SPOリストでハマった話",
+      "author" : "@Zen_33",
+      "day" : 16,
+      "url" : "https://qiita.com/Zen_33/items/6fdcabfd6ab99f3f735d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Queryで列名を一括で変換する",
+      "author" : "@Yellow11",
+      "day" : 17,
+      "url" : "https://qiita.com/Yellow11/items/d5b7a1610e63c7efe955"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BIに関するおすすめ海外YouTube 3選",
+      "author" : "@ishiayaya",
+      "day" : 18,
+      "url" : "https://qiita.com/ishiayaya/items/8e1131f9371013333241"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Apps モデル駆動型アプリにPower BIレポートを埋めこんでみる",
+      "author" : "@susumutanaka",
+      "day" : 19,
+      "url" : "https://qiita.com/susumutanaka/items/ce89fd130b9b109b5ad0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BI入門を読んで",
+      "author" : "@akira_365",
+      "day" : 20,
+      "url" : "https://hanakuso365.hatenablog.com/entry/2021/12/20/215845?_ga=2.134381233.1717808306.1639997648-424240551.1605682833"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテキストとメジャーとCALCULATE関数を数学的に説明してみる",
+      "author" : "@k_maki",
+      "day" : 21,
+      "url" : "https://qiita.com/k_maki/items/08a017d8d480cde28b46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BI+Pythonで主成分分析&クラスター分析",
+      "author" : "@covao",
+      "day" : 22,
+      "url" : "https://qiita.com/covao/items/623f7f20cae7f2ce847f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜ、あなたの Power BI は、思うような計算結果を示してくれないのか？！",
+      "author" : "@moexken",
+      "day" : 23,
+      "url" : "https://qiita.com/moexken/items/b268ef8803c3113db755"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "外部企業向けBI導入を全て1人で実践して思ったこと",
+      "author" : "@marshal_dabao",
+      "day" : 24,
+      "url" : "https://marshal115.hatenablog.com/entry/2021/12/24/000030"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yugoes1021"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Excelのテーブル～Power Platform関連へ",
+      "author" : "@ishiayaya",
+      "day" : 1,
+      "url" : "https://qiita.com/ishiayaya/items/f2d7a1f316d039390a92"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RSSのデータ～Power Platform関連へ",
+      "author" : "@ishiayaya",
+      "day" : 2,
+      "url" : "https://qiita.com/ishiayaya/items/4d600e236bda826f7376"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "フォルダ内の最新ファイルの特定",
+      "author" : "@ishiayaya",
+      "day" : 3,
+      "url" : "https://qiita.com/ishiayaya/items/9c9ea594bbe98c2d1b26"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power BIをTeamsの中で使おう",
+      "author" : "@ishiayaya",
+      "day" : 4,
+      "url" : "https://qiita.com/ishiayaya/items/d2b19777bb302154ab33"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power BI で日本語フォントを設定する",
+      "author" : "@ryoma-nagata",
+      "day" : 5,
+      "url" : "https://qiita.com/ryoma-nagata/items/8b452982df1773412111"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power Queryのベストプラクティス",
+      "author" : "@ishiayaya",
+      "day" : 6,
+      "url" : "https://qiita.com/ishiayaya/items/5647c7b481603e9c5c14"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power BIでテキスト検索「Text Filter」ビジュアル",
+      "author" : "@ishiayaya",
+      "day" : 7,
+      "url" : "https://qiita.com/ishiayaya/items/2e94a577b732071c9deb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "夜の Power BI 勉強会 第壱夜 - Power Query で話すことがあるかなと思ってたこと",
+      "author" : "@PowerBIxyz",
+      "day" : 8,
+      "url" : "https://qiita.com/PowerBIxyz/items/27256d5bff325195ec37"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power BIの新しいボタン ページ ナビゲーター/ブックマーク ナビゲーター",
+      "author" : "@ishiayaya",
+      "day" : 9,
+      "url" : "https://qiita.com/ishiayaya/items/0ee3fb8d64e8d244b2f6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "(Power BI) Mから始めよう #11 Excel 複数のブックの複数のシートのデータを取り出す",
+      "author" : "@spumoni",
+      "day" : 10,
+      "url" : "https://qiita.com/spumoni/items/6c9d249514b0a26e2f60"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power BIの各種サンプルデータ",
+      "author" : "@ishiayaya",
+      "day" : 11,
+      "url" : "https://qiita.com/ishiayaya/items/b7a603a0812611c1818d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "DAXの教材集 (Guy in a Cubeより)",
+      "author" : "@ishiayaya",
+      "day" : 12,
+      "url" : "https://qiita.com/ishiayaya/items/9a96432f523760025164"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Teams アクティビティ レポートを解読する",
+      "author" : "@hanaseleb",
+      "day" : 13,
+      "url" : "https://qiita.com/hanaseleb/items/ec5ddd9cb29acdb81355"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power BI で 行レベルセキュリティ（RLS）を実装してみる",
+      "author" : "@hanaseleb",
+      "day" : 14,
+      "url" : "https://qiita.com/hanaseleb/items/a47301f2931cdc9cc8cd"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Power BI  Tips]レポートデザインのアイデア",
+      "author" : "@hanaseleb",
+      "day" : 15,
+      "url" : "https://qiita.com/hanaseleb/items/338c761cfded97a30585"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power Query エディタの \"カスタム列の追加\" は使い方だけじゃなくて、よく使う関数も一緒に勉強するといいよという話",
+      "author" : "@PowerBIxyz",
+      "day" : 16,
+      "url" : "https://qiita.com/PowerBIxyz/items/2edcac76b867d65a7d98"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power Platform、M365のおすすめブログ等",
+      "author" : "@ishiayaya",
+      "day" : 17,
+      "url" : "https://qiita.com/ishiayaya/items/9be42a6a46bbe10e4fe2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ページ分割されたレポート(paginated reports)",
+      "author" : "@hanaseleb",
+      "day" : 18,
+      "url" : "https://qiita.com/hanaseleb/items/a1e6cc920260099e911b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Microsoft SentinelからPower BI",
+      "author" : "@ishiayaya",
+      "day" : 19,
+      "url" : "https://qiita.com/ishiayaya/items/4ba0624988c9944612d9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RESAS-API（地域経済分析システム）で Power BIにオープンデータを取り込む",
+      "author" : "@hanaseleb",
+      "day" : 20,
+      "url" : "https://qiita.com/hanaseleb/items/bfd9ce5f46f0a0e2058f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Microsoft Power BIに慣れていこう",
+      "author" : "@saosao885",
+      "day" : 21,
+      "url" : "https://qiita.com/saosao885/items/aaf38e5b33633df77c65"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "レポートをつくるときに気をつけること 初級",
+      "author" : "@hanaseleb",
+      "day" : 22,
+      "url" : "https://qiita.com/hanaseleb/items/606f468757e02e6e09ce"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power BI 外部ツールことはじめ",
+      "author" : "@hanaseleb",
+      "day" : 23,
+      "url" : "https://qiita.com/hanaseleb/items/09a435438011383bf600"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "(Power BI) DAXの変数",
+      "author" : "@spumoni",
+      "day" : 24,
+      "url" : "https://qiita.com/spumoni/items/82a1e4ebc36e00086e66"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@ishiayaya"
+    }
+  ]
+}

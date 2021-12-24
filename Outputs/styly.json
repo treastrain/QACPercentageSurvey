@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T05:49:42Z",
+  "calendar_meta_data" : {
+    "author" : "@OKsaiyowa",
+    "category" : "その他",
+    "lgtm" : 61,
+    "subscribers" : 10,
+    "title" : "STYLYアドベントカレンダー Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "styly",
+    "url" : "https://qiita.com/advent-calendar/2021/styly"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ARグラスで商店街を水族館に / Tips",
+      "author" : "@alucky7th",
+      "day" : 1,
+      "url" : "https://note.com/miruplace/n/nb28ef77f92a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NrealLightで半透明な物を録画したくて色々ためした",
+      "author" : "@segur",
+      "day" : 2,
+      "url" : "https://qiita.com/segur/items/2c8e5d5c89a3f24c0a1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】STYLY VRでフェードイン・フェードアウトをつくる【STYLY】",
+      "author" : "@Four4_mm",
+      "day" : 3,
+      "url" : "https://qiita.com/Four4_mm/items/53f5fea7548816fab14f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[STYLY] アセットを作って組み立てる。制作効率化のコツ [Unity]",
+      "author" : "@afjk",
+      "day" : 4,
+      "url" : "https://qiita.com/afjk/items/e568e2b6e803c8fbb0d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Immersal × Nreal】200m規模のAR空間を実装した話",
+      "author" : "@OKsaiyowa",
+      "day" : 5,
+      "url" : "https://qiita.com/OKsaiyowa/items/b4508eaad48f8d999f97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[STYLY]コンテンツによるユーザ移動方法を整理する",
+      "author" : "@noria901",
+      "day" : 6,
+      "url" : "https://qiita.com/noria901/items/7e55292124b22e91d5bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STYLY Mobileで背景を透過した動画を再生する方法",
+      "author" : "@MasatoKobayashi",
+      "day" : 7,
+      "url" : "https://kobazlab.tech/2021/12/07/styly-styly-mobile%e3%81%a7%e8%83%8c%e6%99%af%e3%82%92%e9%80%8f%e9%81%8e%e3%81%97%e3%81%9f%e5%8b%95%e7%94%bb%e3%82%92%e5%86%8d%e7%94%9f%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity Barracuda を利用して透明人間になるマン",
+      "author" : "@ku6ryo",
+      "day" : 8,
+      "url" : "https://qiita.com/ku6ryo/items/02edb2506f2165fcedbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2D動画を3DにしてARで見る",
+      "author" : "@ooo_ubi_ooo",
+      "day" : 9,
+      "url" : "https://note.com/ooo_ubi_ooo/n/n9237e8cb4526"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "教育現場におけるSTYLYの活用について",
+      "author" : "@okamochi",
+      "day" : 10,
+      "url" : "https://note.com/okazakisensei02/n/n40995d4cbab5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STYLYを使って「温度から着る服を教えてくれる」服装指数ARを3日で作ってみようと挑戦してみた",
+      "author" : "@chujo_p",
+      "day" : 11,
+      "url" : "https://note.com/chujo/n/n11e18fea10a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STYLYでよく使うPlaymakerサンプル集",
+      "author" : "@yuki736",
+      "day" : 12,
+      "url" : "https://qiita.com/yuki736/items/8ff4d7c1b2e5509d8140"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Border between reality and phantasm - 夢と現のあわい -」について",
+      "author" : "@Techonor",
+      "day" : 13,
+      "url" : "https://note.com/techona/n/n6fad1b844440"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "去年Unity初心者すぎて完成できなかったVRゲームをとりあえず形にしたよ。",
+      "author" : "@ohmysatoh",
+      "day" : 14,
+      "url" : "https://note.com/sasanishiki/n/n369795922c9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XR Interaction Toolkitのコントローラー操作を攻略する",
+      "author" : "@Maku459",
+      "day" : 15,
+      "url" : "https://makumakuworks.hatenablog.com/entry/xrit_controller"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STYLY向けVRゲームの開発tips",
+      "author" : "@hacha_",
+      "day" : 16,
+      "url" : "https://qiita.com/hacha_/items/38e2895990d75d4e5a8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PlayMakerでOculusのコントローラー操作を実装する方法【Oculus Touch Playmaker - Toolkit】 ",
+      "author" : "@Kid_O_xR",
+      "day" : 17,
+      "url" : "https://qiita.com/Kid_O_xR/items/8087dfcf66611ddc3059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRとARを併用したXR作品をSTYLYで作る際のTips",
+      "author" : "@fushikky",
+      "day" : 18,
+      "url" : "https://qiita.com/fushikky/items/bee7992ea054d66cf599"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[STYLY] VR内で動く乗り物を作ろう",
+      "author" : "@mhama",
+      "day" : 19,
+      "url" : "https://qiita.com/mhama/items/89a94b87a1063c912219"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "採用試験「STYLYからの挑戦状」の解説",
+      "author" : "@kotauchisunsun",
+      "day" : 20,
+      "url" : "https://qiita.com/kotauchisunsun/items/91c7fa51866ecb61163c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地味だけどARと現実を地続きに表現するために重要な \"画面揺れ\"の実装",
+      "author" : "@kiyossy",
+      "day" : 21,
+      "url" : "https://qiita.com/kiyossy/items/fe7b494329c2ec59d707"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Kinect を使ったAR表現で魔法っぽいものを出す試み",
+      "author" : "@Sadalsuud",
+      "day" : 22,
+      "url" : "https://zenn.dev/00ffff/articles/520ed13ea144dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "8thWallのWebAR開発で独自ドメイン(Self-Hosting) のWebARをリリースするために参考にしたページ達",
+      "author" : "@iwaken71",
+      "day" : 23,
+      "url" : "https://qiita.com/iwaken71/items/67bbbb3fc1e004d1f5f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Itokazuya"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@from2001vr"
+    }
+  ]
+}

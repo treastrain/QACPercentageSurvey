@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-24T06:45:50Z",
+  "calendar_meta_data" : {
+    "author" : "@lutecia16v",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 13,
+    "subscribers" : 8,
+    "title" : "がじぇるねGR Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "gadget-renesas",
+    "url" : "https://qiita.com/advent-calendar/2021/gadget-renesas"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "がじぇるねの中の人に聞いてみた、2021年総括",
+      "author" : "@lutecia16v",
+      "day" : 1,
+      "url" : "https://qiita.com/lutecia16v/items/4d4185288d4d322707d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "女子美術大学にロボットアームを使ってもらった結果（概要、1班まで）",
+      "author" : "@Renesas_FUN",
+      "day" : 2,
+      "url" : "https://qiita.com/Renesas_FUN/items/6be4b7d718af0ad55799"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【がじぇるねGR 2021】GR-ROSE IoTシステム開発コンテスト向けに作品を作った話（2021/12/3） - 技術とエンタメと、その他・・・",
+      "author" : "@youtoy",
+      "day" : 3,
+      "url" : "https://yo-to.hatenablog.com/entry/20211203/1638541912"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@gadgetrenesas_suzuki"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-ROSEで作るIoT渾天儀",
+      "author" : "@lipoyang",
+      "day" : 5,
+      "url" : "https://lipoyang.hatenablog.com/entry/2021/12/05/092717"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TinyUSBをGR-ROSEで動かす",
+      "author" : "@h7ga40",
+      "day" : 6,
+      "url" : "https://qiita.com/h7ga40/items/63f5d23c97590479a5da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-KAEDEで取得した画像データを使ってe-AIで推論を実行してみた",
+      "author" : "@nizuki926",
+      "day" : 7,
+      "url" : "https://qiita.com/nizuki926/items/c676bd2626f7ab5dcad1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-CITRUSを使った音声処理（マインクラフトを動かすデモ）",
+      "author" : "@mhigashiyama",
+      "day" : 8,
+      "url" : "https://microcraft.blog.fc2.com/blog-entry-1457.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "女子美術大学にロボットアームを使ってもらった結果（2班、3班）",
+      "author" : "@Renesas_FUN",
+      "day" : 9,
+      "url" : "https://qiita.com/Renesas_FUN/items/ebc2e2771890a25b3010"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-ROSEのIOレジスタをWindowsで疑似動作させてみた",
+      "author" : "@h7ga40",
+      "day" : 10,
+      "url" : "https://qiita.com/h7ga40/items/08c50250d744e0472dbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-PEACHを使って、マインクラフトjava版を現実世界と繋いでみた",
+      "author" : "@mhigashiyama",
+      "day" : 11,
+      "url" : "https://microcraft.blog.fc2.com/blog-entry-1219.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ミニそんたくん (GR-COTTON互換ボードを自作して部屋のCO2濃度を測定した話)",
+      "author" : "@teamMandA",
+      "day" : 12,
+      "url" : "https://tmanda.hatenablog.com/entry/20211211/1639227518"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-ROSEで作ったIoT鳩時計をパワーアップしてみた",
+      "author" : "@siroitori0413",
+      "day" : 13,
+      "url" : "https://siroitori.hatenablog.com/entry/2021/12/12/222415"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-ROSEで FreeRTOS vs Azure RTOS",
+      "author" : "@lipoyang",
+      "day" : 14,
+      "url" : "https://lipoyang.hatenablog.com/entry/2021/12/14/075254"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ScratchとGR-PEACHを接続して基板制御",
+      "author" : "@mhigashiyama",
+      "day" : 15,
+      "url" : "https://microcraft.blog.fc2.com/blog-entry-225.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "女子美術大学にロボットアームを使ってもらった結果（4班、5班）",
+      "author" : "@Renesas_FUN",
+      "day" : 16,
+      "url" : "https://qiita.com/Renesas_FUN/items/fedaf5d1538a386a0b26"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TokyoTowerを光らせて癒やされる (GR-COTTONと1/fゆらぎ)",
+      "author" : "@teamMandA",
+      "day" : 17,
+      "url" : "https://qiita.com/teamMandA/items/7a6575927e9c793d5e18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-ROSEのブートとプログラム書き込みの仕組み",
+      "author" : "@lipoyang",
+      "day" : 18,
+      "url" : "https://lipoyang.hatenablog.com/entry/2021/12/18/084822"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-ROSEの同人誌をつくってみたお話し（まだ途中）",
+      "author" : "@lutecia16v",
+      "day" : 19,
+      "url" : "https://azuzuzu.hatenablog.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロボットアームとGR-ROSEで機構学のお勉強",
+      "author" : "@teamMandA",
+      "day" : 20,
+      "url" : "https://tmanda.hatenablog.com/entry/20200506/1588740850"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@TakSan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GR-ROSE IoTシステム開発コンテスト総復習",
+      "author" : "@lipoyang",
+      "day" : 22,
+      "url" : "https://lipoyang.hatenablog.com/entry/2021/12/22/195800"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@lutecia16v"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

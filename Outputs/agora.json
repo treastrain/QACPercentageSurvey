@@ -1,0 +1,257 @@
+{
+  "created_at" : "2021-12-22T13:21:52Z",
+  "calendar_meta_data" : {
+    "author" : "@v-cube",
+    "category" : "プレゼント",
+    "lgtm" : 54,
+    "subscribers" : 22,
+    "title" : "ライブ配信/ビデオ通話SDK（Agora）を使用したサービスのアイデアを大募集！【PR】V-CUBE Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "agora",
+    "url" : "https://qiita.com/advent-calendar/2021/agora"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Agora活用：リモートで実機評価ノウハウを継承するモブ評価システムを作ろう",
+      "author" : "@tenkoh88",
+      "day" : 1,
+      "url" : "https://qiita.com/tenkoh88/items/56207ef4550ebcecbe6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "遠隔教育、少数演習３回、回し機能",
+      "author" : "@kaizen_nagoya",
+      "day" : 2,
+      "url" : "https://qiita.com/kaizen_nagoya/items/2d7df660ec412d4ffed3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@Pig"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AgoraSDKを使って簡易なライブ配信機材を作れるんじゃないか？",
+      "author" : "@tenpa_ozisan",
+      "day" : 4,
+      "url" : "https://qiita.com/tenpa_ozisan/items/2d40a4e206aedb0848d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Agoraでサービスを考えるための基礎知識集めた & オンラインダンスバトルって面白いんじゃない？",
+      "author" : "@mosamosa",
+      "day" : 5,
+      "url" : "https://qiita.com/mosamosa/items/9cc6d63fee2aac86c67f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@s207035"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@romioa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@manbababa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[構想編]VRChatにリアルタイムかつ高品質なDJ&VJを配信する仕組みを実装する",
+      "author" : "@daisukeoda",
+      "day" : 9,
+      "url" : "https://qiita.com/daisukeoda/items/a93654627604b74fdc76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[実装編.Pt1]VRChatにリアルタイムかつ高品質なDJ&VJを配信する仕組みを実装する",
+      "author" : "@daisukeoda",
+      "day" : 10,
+      "url" : "https://qiita.com/daisukeoda/items/6e0b525701d860bf4dd0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@_asa08_"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社一か月の新入社員がagoraで楽しいオンラインオークションイベントを考えてみた！",
+      "author" : "@yamaorca",
+      "day" : 12,
+      "url" : "https://qiita.com/yamaorca/items/541651cad680809a9100"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そうだ、表情筋選手権しよう。",
+      "author" : "@water_resistant",
+      "day" : 13,
+      "url" : "https://qiita.com/water_resistant/items/e74b7b3c3cab24eee2d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@TeruhiroMatsukawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@CaptainPag"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@KJ0513"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@sora_ri"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ホラー映画の怖さを誰かとリアルタイムで共有するアプリをAgoraSDKで簡単に実現してみた",
+      "author" : "@simontanz",
+      "day" : 19,
+      "url" : "https://qiita.com/simontanz/items/5ad2764a2ff7f6af9c06"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リアルタイムライブ配信ができるオークションアプリを作ってみた(AgoraSDK)",
+      "author" : "@yutaroud",
+      "day" : 21,
+      "url" : "https://qiita.com/yutaroud/items/562e591e420b66b52898"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@fumiharun11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@taitai9847"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24,
+      "author" : "@kazzzzzz"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

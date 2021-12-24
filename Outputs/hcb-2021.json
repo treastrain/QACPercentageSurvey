@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T05:57:03Z",
+  "calendar_meta_data" : {
+    "author" : "@QT21-004-2_HCB",
+    "category" : "企業・学校・団体",
+    "lgtm" : 56,
+    "subscribers" : 3,
+    "title" : "HCB Advent  Calendar 2021 Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "hcb-2021",
+    "url" : "https://qiita.com/advent-calendar/2021/hcb-2021"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "HCBについて紹介",
+      "author" : "@QT21-004-2_HCB",
+      "day" : 1,
+      "url" : "https://take2405-first.hatenablog.com/entry/2021/12/01/202354?_ga=2.87676056.1099468337.1638350652-481342717.1625893670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next初心者ガイダンス (Reactしか触ったことない人向け)",
+      "author" : "@takashinishikawapub",
+      "day" : 2,
+      "url" : "https://creatorsfantasyfpn.com/tech_study/2021/12/02/next%e5%88%9d%e5%bf%83%e8%80%85%e3%82%ac%e3%82%a4%e3%83%80%e3%83%b3%e3%82%b9-react%e3%81%97%e3%81%8b%e8%a7%a6%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%aa%e3%81%84%e4%ba%ba%e5%90%91%e3%81%91/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSアプリをApp Storeに公開するまでの流れ",
+      "author" : "@KaitoKudou",
+      "day" : 3,
+      "url" : "https://qiita.com/KaitoKudou/items/051046fa494e93f8ba77"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tex文章を推敲するためにtextlintを導入する (初心者向け)。",
+      "author" : "@takashinishikawapub",
+      "day" : 4,
+      "url" : "https://qiita.com/takashinishikawapub/items/78c5f94d3fa8cc2c7b9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TDD+DDD実践：ゆめみさんの模試",
+      "author" : "@QT21-004-2_HCB",
+      "day" : 5,
+      "url" : "https://qiita.com/QT21-004-2_HCB/items/83f1fcde73bf58361306"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Piとwebカメラで自分を監視するためのカメラを設置した話",
+      "author" : "@BaseKeita",
+      "day" : 6,
+      "url" : "https://qiita.com/BaseKeita/items/3f57b095c7d92c9fc967"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 Pro搭載MacBook Proを触ってみた",
+      "author" : "@QT21-004-5_HCB",
+      "day" : 7,
+      "url" : "https://qiita.com/QT21-004-5_HCB/items/da8efc1fa2ff7f55a49a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SAMを触ってみた",
+      "author" : "@QT21-004-2_HCB",
+      "day" : 8,
+      "url" : "https://qiita.com/QT21-004-2_HCB/items/97d9214c4d4eee70e5a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "耐久！仕様・要求変更に耐える設計・開発 (with React)",
+      "author" : "@takashinishikawapub",
+      "day" : 9,
+      "url" : "https://qiita.com/takashinishikawapub/items/8ed78f7dda803f5c091f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "U-22プログラミングコンテスト2021でベスト37に入ったこととプロダクトについて",
+      "author" : "@KaitoKudou",
+      "day" : 10,
+      "url" : "https://qiita.com/KaitoKudou/items/b755197179dfbbcbe648"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学内で開催したiOS勉強会の感想",
+      "author" : "@KaitoKudou",
+      "day" : 11,
+      "url" : "https://qiita.com/KaitoKudou/items/b97aaecc4ce43e673d21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lottieを使ってアニメーションを自作してみる①",
+      "author" : "@zekuta",
+      "day" : 12,
+      "url" : "https://reltarobox.hatenablog.com/entry/2021/12/13/004755?_ga=2.94668572.1468234258.1639226775-1999813385.1639009891"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "golangとAWS Rekognitionで感情分析",
+      "author" : "@BaseKeita",
+      "day" : 13,
+      "url" : "https://zain05.hatenablog.com/entry/2021/12/14/000111"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "備忘録：TKinterのEntry＆Label生成と動作をクラス化してコード量を減らした編",
+      "author" : "@QT21-004-5_HCB",
+      "day" : 14,
+      "url" : "https://qiita.com/QT21-004-5_HCB/items/4820bc828e276da8d23c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go+MysqlのREST API テンプレートを作成しました",
+      "author" : "@QT21-004-2_HCB",
+      "day" : 15,
+      "url" : "https://take2405-first.hatenablog.com/entry/2021/12/16/014040?_ga=2.132104525.370843822.1639575976-481342717.1625893670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パフォーマンスチューニングを学び始めてみる",
+      "author" : "@takashinishikawapub",
+      "day" : 16,
+      "url" : "https://qiita.com/takashinishikawapub/items/5ddc4510495e1dcacd97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 Pro搭載MacBook ProでGeekbench5のベンチマークを出してみた",
+      "author" : "@QT21-004-5_HCB",
+      "day" : 17,
+      "url" : "https://qiita.com/QT21-004-5_HCB/items/350505947cea2fa07c25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python/OpenCVを使った車線推定",
+      "author" : "@KaitoKudou",
+      "day" : 18,
+      "url" : "https://qiita.com/KaitoKudou/items/99ccc84f4a2be7500db2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハッカソンを開催する側になってみた",
+      "author" : "@QT21-004-2_HCB",
+      "day" : 19,
+      "url" : "https://take2405-first.hatenablog.com/entry/2021/12/19/023324?_ga=2.245809412.128879419.1639750091-481342717.1625893670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルファイルサーバの話",
+      "author" : "@BaseKeita",
+      "day" : 20,
+      "url" : "https://zain05.hatenablog.com/entry/2021/12/20/171631"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Joy-ConとPython3で脚部動作認識",
+      "author" : "@QT21-004-5_HCB",
+      "day" : 21,
+      "url" : "https://qiita.com/QT21-004-5_HCB/items/1ad504edbce3ff253681"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonによる自然言語処理入門 -形態素解析-",
+      "author" : "@QT21-004-2_HCB",
+      "day" : 22,
+      "url" : "https://qiita.com/QT21-004-2_HCB/items/9878473a2596c0cca66d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@takashinishikawapub"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@zekuta"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@KaitoKudou"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "created_at" : "2021-12-24T09:21:27Z",
+  "calendar_meta_data" : {
+    "author" : "@zamaezaaa",
+    "category" : "その他",
+    "lgtm" : 97,
+    "subscribers" : 39,
+    "title" : "RPA (Robotic Process Automation) Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "rpa",
+    "url" : "https://qiita.com/advent-calendar/2021/rpa"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Automation Anywhere】レコーダーで画面の操作を安定させるコツ（初心者向け）（Automation360）",
+      "author" : "@IQ_Bocchi",
+      "day" : 1,
+      "url" : "https://qiita.com/IQ_Bocchi/items/a23674dec400874412ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "（続）RPAの開発見積について",
+      "author" : "@miya_gis",
+      "day" : 2,
+      "url" : "https://qiita.com/miya_gis/items/77d24a759f91ddd734ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RPAの導入・運用が、うまくいかなくて、「にゃ～ん」に、ならないために",
+      "author" : "@Risa_Mizushina",
+      "day" : 3,
+      "url" : "https://qiita.com/Risa_Mizushina/items/9c9abcf0ad504c6d7ac7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ZapierからAutomation 360 Control RoomのAPIを叩いてロボットを実行する",
+      "author" : "@zamaezaaa",
+      "day" : 4,
+      "url" : "https://qiita.com/zamaezaaa/items/c516adbe2d8975b8aef9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WinActorでテンプレートを作る",
+      "author" : "@inaho3517",
+      "day" : 5,
+      "url" : "https://qiita.com/inaho3517/items/794e2a21917daff21f4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年RPA業界この1年を振り返る",
+      "author" : "@RPAbot",
+      "day" : 6,
+      "url" : "https://qiita.com/RPAbot/items/cf75fe5dd64e6463b2ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UiPath RPA デベロッパー上級資格試験を受けてみたから振り返ってみる。",
+      "author" : "@dax4cb",
+      "day" : 7,
+      "url" : "https://qiita.com/dax4cb/items/e096acdad9c0c054abea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Automation Anywhere】V11、A2019、Automation360、A360って何のこと？",
+      "author" : "@IQ_Bocchi",
+      "day" : 8,
+      "url" : "https://qiita.com/IQ_Bocchi/items/e5c95bd74cae45d1c586"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RPA怪談",
+      "author" : "@Risa_Mizushina",
+      "day" : 9,
+      "url" : "https://qiita.com/Risa_Mizushina/items/6706650cbab483bc44b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RPA開発時のポイントのあれこれ",
+      "author" : "@t_a_u_e_25",
+      "day" : 10,
+      "url" : "https://qiita.com/t_a_u_e_25/items/489f68c8f67f5b67f431"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate for desktopでSlackにファイルをアップロードする方法",
+      "author" : "@kinuasa",
+      "day" : 11,
+      "url" : "https://www.ka-net.org/blog/?p=14279"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【無料構築】クラウドBOTとIntegromatを活用して、自動でキーワード順位を取得する",
+      "author" : "@cal_mgc",
+      "day" : 12,
+      "url" : "https://qiita.com/cal_mgc/items/1f9698e1557783d87386"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AutoItによるRPAが、気づくとクリックに失敗して迷子になっているのを避けるには",
+      "author" : "@mrpepper",
+      "day" : 13,
+      "url" : "https://qiita.com/mrpepper/items/4528095f164de66d072c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Excelをデータベースのように使ってみた！",
+      "author" : "@sts_iwasaki",
+      "day" : 14,
+      "url" : "https://qiita.com/sts_iwasaki/items/ecf54ee8316f1add7823"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blue Prismでファイルトリガー実行を実現してみる",
+      "author" : "@irohamaru",
+      "day" : 15,
+      "url" : "https://qiita.com/irohamaru/items/3d56cd74dbf3e3d97d95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【BizRobo!】我流！仕様書作成ロボ（未完）",
+      "author" : "@nogyu21",
+      "day" : 16,
+      "url" : "https://note.com/nogyu21/n/n6bb351a87d4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WinActorシナリオ作成あるある",
+      "author" : "@inaho3517",
+      "day" : 17,
+      "url" : "https://qiita.com/inaho3517/items/2134ee5fdc704fcd88f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RPAツールって何個も学ぶのがいい？",
+      "author" : "@saosao885",
+      "day" : 18,
+      "url" : "https://note.com/master_mbaandit/n/n327ccdf8ef91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PAD:Power Automate Desktop を使って Webブラウザを操作",
+      "author" : "@nofrmm",
+      "day" : 19,
+      "url" : "https://zenn.dev/fuyu/articles/33f484dfe2a204"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イラレコ展覧会2021",
+      "author" : "@inaho3517",
+      "day" : 20,
+      "url" : "https://qiita.com/inaho3517/items/91d334fcb8ca23d189c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@Sumire_Neko"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@zamaezaaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@monaka_aries"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Automation Anywhere】いわゆる「方眼紙エクセル」から値を取得する２つの方法（Automation360）",
+      "author" : "@IQ_Bocchi",
+      "day" : 24,
+      "url" : "https://qiita.com/IQ_Bocchi/items/298225bef605fb3c9b3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@IQ_Bocchi"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RPAの、テスト手法と、考え方",
+      "author" : "@Risa_Mizushina",
+      "day" : 12,
+      "url" : "https://qiita.com/Risa_Mizushina/items/845d07ee4853bd008e61"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RPAって、ナンデスカ？",
+      "author" : "@Risa_Mizushina",
+      "day" : 13,
+      "url" : "https://qiita.com/Risa_Mizushina/private/b1bbcb32452f1efacd00"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power Automate for desktopでテキストから指定した種類の文字列を取得する方法",
+      "author" : "@kinuasa",
+      "day" : 14,
+      "url" : "https://www.ka-net.org/blog/?p=14304"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Automation Anywhereで「ツェラーの公式」で曜日を求めてみた！",
+      "author" : "@auco67",
+      "day" : 16,
+      "url" : "https://qiita.com/auco67/items/7f508af083c7d2c39e42"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Bizrobo!Basicで祝日時は処理をしないようにする処理",
+      "author" : "@auco67",
+      "day" : 17,
+      "url" : "https://qiita.com/auco67/items/1cac4f101a723be4a33d"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19,
+      "author" : "@nofrmm"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "教育・学習について（RPA導入記）",
+      "author" : "@PP_RPA",
+      "day" : 20,
+      "url" : "https://note.com/pp_rpa/n/n99095d1e0e5e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "V字モデルでRPAシナリオ開発を完遂する",
+      "author" : "@woria1517",
+      "day" : 21,
+      "url" : "https://qiita.com/woria1517/items/39f0c2412f526994dbae"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BizRobo!BasicでN営業日に実行させる処理",
+      "author" : "@auco67",
+      "day" : 22,
+      "url" : "https://qiita.com/auco67/items/114a3aa58798863487a4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Power Automate Desktopで編集リクエストを自動化",
+      "author" : "@t13801206",
+      "day" : 23,
+      "url" : "https://qiita.com/t13801206/items/8f251c0dba5f051c2398"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24,
+      "author" : "@cheez_RPA"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@auco67"
+    }
+  ]
+}

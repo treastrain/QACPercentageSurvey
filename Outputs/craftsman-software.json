@@ -1,0 +1,124 @@
+{
+  "created_at" : "2021-12-24T10:14:48Z",
+  "calendar_meta_data" : {
+    "author" : "@suin",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 2,
+    "title" : "Craftsman Software Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "craftsman-software",
+    "url" : "https://qiita.com/advent-calendar/2021/craftsman-software"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者向けkind(kubernetes in docker)上のサービスへのアクセス方法",
+      "author" : "@fruscianteee",
+      "day" : 14,
+      "url" : "https://qiita.com/fruscianteee/items/bee47afe3222f0d073ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "グローバルIPを確認できるサービスたち",
+      "author" : "@fruscianteee",
+      "day" : 22,
+      "url" : "https://qiita.com/fruscianteee/items/7fe2b2663d670e34d143"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Auroraのwriterとreaderで一部パラメータに差異があったので調査してみた",
+      "author" : "@atsushi586",
+      "day" : 23,
+      "url" : "https://qiita.com/atsushi586/items/73e579c01011277a5fc6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

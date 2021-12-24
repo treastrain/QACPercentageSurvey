@@ -1,0 +1,287 @@
+{
+  "created_at" : "2021-12-24T08:22:07Z",
+  "calendar_meta_data" : {
+    "author" : "@SnykSec",
+    "category" : "プレゼント",
+    "lgtm" : 110,
+    "subscribers" : 13,
+    "title" : "Snykを使ってセキュリティにまつわる記事を投稿しよう！【PR】Snyk Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "snyk",
+    "url" : "https://qiita.com/advent-calendar/2021/snyk"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Snykの脆弱性データベースって凄いの？",
+      "author" : "@zzzmisa",
+      "day" : 1,
+      "url" : "https://blog.zzzmisa.com/try-snyk/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snyk Code で究極のShiftLeftを体験する【Snyk アドベントカレンダー】",
+      "author" : "@dairappa",
+      "day" : 2,
+      "url" : "https://qiita.com/dairappa/items/0ef20c647072030a6225"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "snyk を使ってプロジェクトのセキュリティ管理を(できるだけ)楽にする．",
+      "author" : "@masibw",
+      "day" : 3,
+      "url" : "https://qiita.com/masibw/items/50d9f8bfaa07d71f02dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snyk無償版を使ってみた",
+      "author" : "@kannkyo",
+      "day" : 4,
+      "url" : "https://qiita.com/kannkyo/items/913055157c9105d02926"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ubuntu 20.04 で docker scan をやってみた",
+      "author" : "@kannkyo",
+      "day" : 5,
+      "url" : "https://qiita.com/kannkyo/items/a260ecf421406c08ab9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snyk を使って iOS プロジェクトのライブラリ脆弱性を検査する",
+      "author" : "@hcrane",
+      "day" : 6,
+      "url" : "https://qiita.com/hcrane/items/76f9557febd755ebfef6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Code系サービスのCICDパイプラインに脆弱性検査を簡単かつ柔軟に組み込む(Snyk CLI)",
+      "author" : "@mosamosa",
+      "day" : 7,
+      "url" : "https://qiita.com/mosamosa/items/aa07d532332dd21d6226"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "脆弱性検出ツール「Snyk Vulnerability Scanner」 vs. 脆弱性だらけのWebアプリケーション「EasyBuggy」",
+      "author" : "@tamura__246",
+      "day" : 8,
+      "url" : "https://qiita.com/tamura__246/items/5053d9511d54e29c8838"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snykでコンテナのセキュリティハードニング 【Snykテクニカルサポートを使ってみた】",
+      "author" : "@cilto",
+      "day" : 9,
+      "url" : "https://qiita.com/cilto/items/c706c6064029cfeb2d62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VScodeからsnyk SASTを利用する",
+      "author" : "@kyle1920",
+      "day" : 10,
+      "url" : "https://qiita.com/kyle1920/items/bf43d9ee3347dc6b6584"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snyk でデプロイ済みの AWS Lambda の脆弱性診断をしてみた",
+      "author" : "@gnk263",
+      "day" : 11,
+      "url" : "https://dev.classmethod.jp/articles/snyk-check-deployed-aws-lambda/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snyk CodeのVSCode拡張機能を使ってローカルで手軽に脆弱性チェックする",
+      "author" : "@ynishimura0922",
+      "day" : 12,
+      "url" : "https://qiita.com/ynishimura0922/items/c63fa2026aee524e7c53"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリの脆弱性もインフラの脆弱性もSnykで全部漏らさず対処しよう！",
+      "author" : "@tajima_taso",
+      "day" : 13,
+      "url" : "https://qiita.com/tajima_taso/items/964b661a3411c495eb92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一年半放置した electron アプリに Snyk を使ってみた",
+      "author" : "@sanbasan",
+      "day" : 14,
+      "url" : "https://qiita.com/sanbasan/items/fbc51f10896e50bb5e06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker ScanでSynkが使える",
+      "author" : "@t_yamatoya",
+      "day" : 15,
+      "url" : "https://sqlazure.jp/r/docker/1763/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ホリデープロジェクトの安全性を確保する",
+      "author" : "@developersteve",
+      "day" : 16,
+      "url" : "https://qiita.com/developersteve/items/a5fe95f197925a5b9b2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SnykOSSではじめるコンポーネントの脆弱性管理",
+      "author" : "@cramoty",
+      "day" : 17,
+      "url" : "https://qiita.com/cramoty/items/737f077c09c39988b580"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerのセキュリティにおける10のベストプラクティス",
+      "author" : "@bricolageart",
+      "day" : 18,
+      "url" : "https://qiita.com/bricolageart/items/b78a68f3003842beeb24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Code系サービスのCICDパイプラインに脆弱性検査を簡単かつ柔軟に組み込む(good practiceを追ってみる編)",
+      "author" : "@mosamosa",
+      "day" : 19,
+      "url" : "https://qiita.com/mosamosa/items/b96a62af103cbb0756cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@bezeklik"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SnykではじめるDevSecOps",
+      "author" : "@Brutus",
+      "day" : 21,
+      "url" : "https://qiita.com/Brutus/items/f3aed88abdeaeb9e048a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@ma-yu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "snyk を Windows にインストールしてみるのさ",
+      "author" : "@okaru",
+      "day" : 23,
+      "url" : "https://qiita.com/okaru/items/bba74e4122a7768c00c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snykで始めるシフトレフト・テスト",
+      "author" : "@mamono210",
+      "day" : 24,
+      "url" : "https://qiita.com/mamono210/items/8650f0c7bd717f488b83"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Pig"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "5分で始めるSnykによるSASTとSCA、Log4Shellの検知をためしてみた",
+      "author" : "@kzzzzo2",
+      "day" : 23,
+      "url" : "https://qiita.com/kzzzzo2/items/526e657bdd4cf876190a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

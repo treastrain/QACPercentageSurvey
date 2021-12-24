@@ -1,0 +1,161 @@
+{
+  "created_at" : "2021-12-24T12:15:48Z",
+  "calendar_meta_data" : {
+    "author" : "@shisama",
+    "category" : "プログラミング言語",
+    "lgtm" : 27,
+    "subscribers" : 127,
+    "title" : "Node.js Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "nodejs",
+    "url" : "https://qiita.com/advent-calendar/2021/nodejs"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.jsをセットアップウィザードなしで使用する方法",
+      "author" : "@Neko7sora",
+      "day" : 1,
+      "url" : "https://qiita.com/Neko7sora/items/dc0bf3abb8635763c37d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust + Node-APIでクロスプラットフォーム向けnpmパッケージを公開する",
+      "author" : "@shisama",
+      "day" : 2,
+      "url" : "https://shisama.hatenablog.com/entry/2021/12/03/054437"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@yosuke_furukawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@yosuke_furukawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.js で ArcGIS REST JS を使ってみる。",
+      "author" : "@freedom-tech",
+      "day" : 5,
+      "url" : "https://freedom-tech.hatenablog.com/entry/2021/12/05/230839"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Promiseのクイズです",
+      "author" : "@cnloni",
+      "day" : 6,
+      "url" : "https://qiita.com/cnloni/items/c7471810385014a68411"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptでメタデータを扱う",
+      "author" : "@shibukawa",
+      "day" : 7,
+      "url" : "https://qiita.com/shibukawa/items/35a84ceb12923782d03e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js 2021】 WAVファイルを Node.js で再生する（Mac で node-wav-player を利用する）",
+      "author" : "@youtoy",
+      "day" : 8,
+      "url" : "https://qiita.com/youtoy/items/ea270d180d17094807f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry PiにNode.jsのインストールをして起動時に自動実行させるまで",
+      "author" : "@n0bisuke",
+      "day" : 9,
+      "url" : "https://qiita.com/n0bisuke/items/072b9ba68fc812387526"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js 2021（2つ目）】 Node.js での UDP・TCP通信をシンプルに試す（2021年12月）",
+      "author" : "@youtoy",
+      "day" : 10,
+      "url" : "https://qiita.com/youtoy/items/385feead64ff905e9f76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.js や deno に Web Standard な API をなんでも取り入れるのが良いことなのかについて",
+      "author" : "@yosuke_furukawa",
+      "day" : 11,
+      "url" : "https://yosuke-furukawa.hatenablog.com/entry/2021/12/13/174732"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAP BTPのCloud Foundry EnvironmentにNode.jsアプリをデプロイする",
+      "author" : "@nanaki11",
+      "day" : 12,
+      "url" : "https://qiita.com/nanaki11/items/47e6033dee3f76d0b156"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jest + @testing-library/react + mswのtips",
+      "author" : "@shibukawa",
+      "day" : 13,
+      "url" : "https://qiita.com/shibukawa/items/4d431ee4f98c80b682ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.jsで`ERR_PACKAGE_PATH_NOT_EXPORTED`の回避方法",
+      "author" : "@the_red",
+      "day" : 16,
+      "url" : "https://zenn.dev/the_red/articles/5162f9dbbafca3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@kakts"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.js と ID について",
+      "author" : "@martinheidegger",
+      "day" : 21,
+      "url" : "https://qiita.com/martinheidegger/items/425112e84f7c12148d90"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@Maku459"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[NodeJs]Expressのrouterを整理する",
+      "author" : "@rysa",
+      "day" : 23,
+      "url" : "https://qiita.com/rysa/items/8c71c43e148fe3805dc6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

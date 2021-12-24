@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T13:32:15Z",
+  "calendar_meta_data" : {
+    "author" : "@mfunaki",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 98,
+    "subscribers" : 36,
+    "title" : "CircleCI Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "circleci",
+    "url" : "https://qiita.com/advent-calendar/2021/circleci"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のChangelogから振り返るCircleCI - その1",
+      "author" : "@mfunaki",
+      "day" : 1,
+      "url" : "https://qiita.com/mfunaki/items/b163708c9ac22d7456aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のChangelogから振り返るCircleCI - その2",
+      "author" : "@mfunaki",
+      "day" : 2,
+      "url" : "https://qiita.com/mfunaki/items/3def8eda2c4341fc7923"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "古いCircleCI Slack通知からの移行の道",
+      "author" : "@ooharabucyou",
+      "day" : 3,
+      "url" : "https://zenn.dev/kawahara/articles/798dc46c437587"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Boot プロジェクトの自動テストを CircleCI で始めるための2ステップ",
+      "author" : "@bufferings",
+      "day" : 4,
+      "url" : "https://bufferings.hatenablog.com/entry/2021/12/04/010044"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Fargate への CircleCI(等)による全自動/半自動デプロイ",
+      "author" : "@sogahisashi",
+      "day" : 5,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-05-d87b6e85a8e4db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI の Concurrency と Parallelism",
+      "author" : "@srz_zumix",
+      "day" : 6,
+      "url" : "https://srz-zumix.blogspot.com/2021/12/circleci-concurrency-parallelism.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI をジョブとして使った話",
+      "author" : "@riita10069",
+      "day" : 7,
+      "url" : "https://qiita.com/riita10069/items/dcb57a0b513253c276ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLIのためだけにcimg/pythonを使う必要はない",
+      "author" : "@lighthawk",
+      "day" : 8,
+      "url" : "https://qiita.com/lighthawk/items/4f4f30df104ed388b20f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のChangelogから振り返るCircleCI - その3(最終回)",
+      "author" : "@mfunaki",
+      "day" : 9,
+      "url" : "https://qiita.com/mfunaki/items/cf7715113499e60c7127"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI の設定を絵に書いて頭の中を整理",
+      "author" : "@bufferings",
+      "day" : 10,
+      "url" : "https://bufferings.hatenablog.com/entry/2021/12/11/025726"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI でワークフロージョブの処理時間を可視化する試み",
+      "author" : "@inokappa",
+      "day" : 11,
+      "url" : "https://inokara.hateblo.jp/entry/2021/12/09/234926"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCIでAWS NAT Gatewayの起動・停止を実現してみた",
+      "author" : "@juve_534",
+      "day" : 12,
+      "url" : "https://qiita.com/juve_534/items/f1ca0d135b1438ac1ef3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「【自動化何でもLT大会編】CircleCI コミュニティミートアップ」 で CircleCI の有料プランを導入したことについて話しました",
+      "author" : "@bake0937",
+      "day" : 13,
+      "url" : "https://bake0937.hatenablog.com/entry/2021/12/13/205134"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "古いCircleCI Slack通知からの移行の道2 〜WebHook編",
+      "author" : "@ooharabucyou",
+      "day" : 14,
+      "url" : "https://zenn.dev/kawahara/articles/8b26a15e41103c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3年の運用で編み出した CircleCI 超設計大全",
+      "author" : "@dodonki1223",
+      "day" : 15,
+      "url" : "https://qiita.com/dodonki1223/items/98dbdac6f31f9b486ecf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "緑(Succeed)と赤(Failed)を区別する - よりinclusiveなCircleCIを目指して",
+      "author" : "@mfunaki",
+      "day" : 16,
+      "url" : "https://qiita.com/mfunaki/items/c43e79a37cab759237e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI に入社してちょうど2ヶ月がたちました",
+      "author" : "@bufferings",
+      "day" : 17,
+      "url" : "https://bufferings.hatenablog.com/entry/2021/12/17/231827"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCIでAWS CDKのデプロイパイプラインを作る",
+      "author" : "@juve_534",
+      "day" : 19,
+      "url" : "https://qiita.com/juve_534/items/b157a295458d95466f0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI の Scheduled Pipelines で restricted context を使う処理をスケジュール実行する",
+      "author" : "@suzucir",
+      "day" : 20,
+      "url" : "https://qiita.com/suzucir/items/fe38d0ccac54c91baa21"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI の Webhook を使ってみた",
+      "author" : "@chisato-ygc",
+      "day" : 22,
+      "url" : "https://qiita.com/chisato-ygc/items/2f005a95bb7a6f9e81de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI で Heroku Postgres(SSL) を利用する",
+      "author" : "@sho7650",
+      "day" : 23,
+      "url" : "https://qiita.com/sho7650/items/5e0e820c29c56743cee7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI の OpenID Connect サポート",
+      "author" : "@makotom",
+      "day" : 24,
+      "url" : "https://qiita.com/makotom/items/56ed4ccf15a6f4d0b257"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@RyuNen344"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "created_at" : "2021-12-24T13:58:45Z",
+  "calendar_meta_data" : {
+    "author" : "@kolinz",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 19,
+    "subscribers" : 9,
+    "title" : "IBM Cloud Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "ibmcloud",
+    "url" : "https://qiita.com/advent-calendar/2021/ibmcloud"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloud(主にインフラ寄り) 2021年 新機能 振り返り",
+      "author" : "@y_tama",
+      "day" : 1,
+      "url" : "https://qiita.com/y_tama/items/7bb4145d0526ecca78a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloud で Node-RED セットアップ (2021年12月)",
+      "author" : "@Kakimoty_Field",
+      "day" : 2,
+      "url" : "https://qiita.com/Kakimoty_Field/items/bb90c31c8f7a3179165c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新しくなったアカウント登録の話です。",
+      "author" : "@dotnsf",
+      "day" : 3,
+      "url" : "http://dotnsf.blog.jp/archives/1079774834.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新しい Cloudant のライブラリ @ibm-cloud/cloudant について",
+      "author" : "@dotnsf",
+      "day" : 4,
+      "url" : "http://dotnsf.blog.jp/archives/1079476281.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloudカタログに表示される項目を変える",
+      "author" : "@masaffff",
+      "day" : 5,
+      "url" : "https://qiita.com/masaffff/items/83b4f9f55bb66f8e42b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Discovery、あなた変わっちゃったわね……",
+      "author" : "@mihoicchi",
+      "day" : 6,
+      "url" : "https://qiita.com/mihoicchi/items/fdcd7b0ef7991c9c9de8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PowerVS IBM i 日記(40): PowerVS IBM i 2021年 振り返り",
+      "author" : "@6onoda",
+      "day" : 7,
+      "url" : "https://qiita.com/6onoda/items/cb3bd06be6bf9663f64d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DockerでIBM CloudのNode-REDの開発環境を再現してみた",
+      "author" : "@KMiura95",
+      "day" : 8,
+      "url" : "https://zenn.dev/kmiura55/articles/node-red-with-cloudant-on-docker"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloud/IBM Watson Studioサービスで、ビジネスにエンジンをかける",
+      "author" : "@miraimeisatu",
+      "day" : 9,
+      "url" : "https://note.com/futureforecast/n/n162129f43213"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloudant に Node.js で @ibm-cloud/cloudant で外部からアクセスして await / async で非同期処理を書くメモ",
+      "author" : "@tseigo",
+      "day" : 10,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/10/try-nodejs-ibm-cloud-cloudant-access-as-await-async/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@ssakaigawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloud x Amazon ECS Anywhereでマルチクラウド",
+      "author" : "@kolinz",
+      "day" : 12,
+      "url" : "https://qiita.com/kolinz/items/b4a52ebf4ad3e03c1574"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@nikosun"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバーレスとバッチ処理の運命的な出会い",
+      "author" : "@katahiro",
+      "day" : 14,
+      "url" : "https://qiita.com/katahiro/items/566bc4bd7f02d58e4695"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@kolinz"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloud(Auto AI) で知識なしで未来予測する最小の方法",
+      "author" : "@miraimeisatu",
+      "day" : 16,
+      "url" : "https://note.com/futureforecast/n/n1f4291da9faf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ROKSでODF(OpenShift Data Foundation)を利用する",
+      "author" : "@nori0315",
+      "day" : 17,
+      "url" : "https://qiita.com/nori0315/items/a0748a7636298a7fd397"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@daihiraoka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Turbonomic ARMをIBM Cloud Internet Service(CIS)経由で動かす",
+      "author" : "@yukikod",
+      "day" : 20,
+      "url" : "https://qiita.com/yukikod/items/83b1628655c56693ef47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloudで新宿と渋谷の人流の境を調べたよ",
+      "author" : "@miraimeisatu",
+      "day" : 21,
+      "url" : "https://note.com/futureforecast/n/n68ea1d7266c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Cloud の Load Balancer for VPC の料金見積方法をわかりやすく説明します",
+      "author" : "@hiroko27",
+      "day" : 22,
+      "url" : "https://qiita.com/hiroko27/items/74595bf1253f1fb04e09"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kolinz"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@TOMOARI"
+    }
+  ]
+}

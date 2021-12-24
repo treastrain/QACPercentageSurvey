@@ -1,0 +1,135 @@
+{
+  "created_at" : "2021-12-24T11:05:51Z",
+  "calendar_meta_data" : {
+    "author" : "@takehora",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 0,
+    "subscribers" : 45,
+    "title" : "Webパフォーマンス Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "webperf",
+    "url" : "https://qiita.com/advent-calendar/2021/webperf"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@takehora"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インシデント・レビュー - Google Cloudの障害がエンドユーザに広く影響を与える",
+      "author" : "@Shimada-mrk",
+      "day" : 2,
+      "url" : "https://spelldata.co.jp/blog/blog-2021-12-02.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SaaS SaaSのパフォーマンスを向上させるための3つの戦術とお金を節約するための1つの戦術",
+      "author" : "@Shimada-mrk",
+      "day" : 8,
+      "url" : "https://spelldata.co.jp/blog/blog-2021-12-08.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インシデント・レビュー - AWSの障害でAmazonを含む主要なオンラインサービスがクラッシュ",
+      "author" : "@Shimada-mrk",
+      "day" : 9,
+      "url" : "https://spelldata.co.jp/blog/blog-2021-12-09.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Catchpointニュース - 2021年11月:Catchpointはエッジのオブザーバビリティを拡大、Googleは暗中へ",
+      "author" : "@Shimada-mrk",
+      "day" : 14,
+      "url" : "https://spelldata.co.jp/blog/blog-2021-12-14.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オブザーバビリティ vs. モニタリング ― 観測 対 監視",
+      "author" : "@Shimada-mrk",
+      "day" : 16,
+      "url" : "https://spelldata.co.jp/blog/blog-2021-12-16.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebPageTestとCatchpointの1年 ― Tim KadlecとJeena JamesによるQ&A",
+      "author" : "@Shimada-mrk",
+      "day" : 22,
+      "url" : "https://speeddata.jp/blog/blog-2021-12-22.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@MasanoriIwakura"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

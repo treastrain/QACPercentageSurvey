@@ -1,0 +1,154 @@
+{
+  "created_at" : "2021-12-24T10:54:09Z",
+  "calendar_meta_data" : {
+    "author" : "@yaju",
+    "category" : "プログラミング言語",
+    "lgtm" : 44,
+    "subscribers" : 20,
+    "title" : "Visual Basic Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "vb",
+    "url" : "https://qiita.com/advent-calendar/2021/vb"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Basic 2021年の振り返り",
+      "author" : "@yaju",
+      "day" : 1,
+      "url" : "https://qiita.com/yaju/items/785c82ef86469e6b5db9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットでVisual Basic関連を検索する時に除外する略名群",
+      "author" : "@yaju",
+      "day" : 4,
+      "url" : "https://qiita.com/yaju/items/e0d3522cb4a0a9991ef1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET Framework 4.XではCheckedListBoxからVB6.Support.GetItemStringで値が取得できない",
+      "author" : "@tfukumori",
+      "day" : 5,
+      "url" : "https://qiita.com/tfukumori/items/090928a1794bcbe35e71"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【VBS】浮動小数点の剰余",
+      "author" : "@yaju",
+      "day" : 6,
+      "url" : "https://qiita.com/yaju/items/5fb4ed34f41402bb4a8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET 6 + VB でも NativeAOT がしたい！",
+      "author" : "@yaju",
+      "day" : 9,
+      "url" : "https://qiita.com/yaju/items/01387ee61905204b67b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【VBS】Excelファイル(複数も可能)をドラッグ＆ドロップで全シートA1セル移動ツール",
+      "author" : "@yaju",
+      "day" : 11,
+      "url" : "https://qiita.com/yaju/items/98b988c5cf25d5aa024b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Basic 6.0の100％互換性 RAD Basicの紹介",
+      "author" : "@yaju",
+      "day" : 12,
+      "url" : "https://qiita.com/yaju/items/092c9a145ba8261538c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@yaju"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Basic で簡単レポート作成",
+      "author" : "@cyberCatvb",
+      "day" : 18,
+      "url" : "https://qiita.com/cyberCatvb/items/3db7aeea414424f6776b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バッチ実行中にファイル選択やフォルダ選択を行うGUI",
+      "author" : "@yaju",
+      "day" : 19,
+      "url" : "https://qiita.com/yaju/items/3cea48dc3559450f194b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WinFormsでChromium版Edgeブラウザコンポーネント(WebView2)を使ってみる",
+      "author" : "@yaju",
+      "day" : 21,
+      "url" : "https://qiita.com/yaju/items/2e2c7c421a8fa6e7c0a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Excel】TinySeleniumVBA(Chromium版Edge)を使用したWebアプリ操作",
+      "author" : "@yaju",
+      "day" : 22,
+      "url" : "https://qiita.com/yaju/items/9d1f189a5d2118a3f4d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Basic 6.0の100％互換性 TwinBASICの紹介",
+      "author" : "@yaju",
+      "day" : 23,
+      "url" : "https://qiita.com/yaju/items/6ed4a4c3fcd7b0c24cab"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@mnr_u"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tfukumori"
+    }
+  ]
+}

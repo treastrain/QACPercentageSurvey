@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T10:25:29Z",
+  "calendar_meta_data" : {
+    "author" : "OpenChain Project",
+    "category" : "企業・学校・団体",
+    "lgtm" : 247,
+    "subscribers" : 8,
+    "title" : "OpenChain Japan Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "openchainjapanwg",
+    "url" : "https://qiita.com/advent-calendar/2021/openchainjapanwg"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Happy Holidays from OpenChain JapanWG",
+      "author" : "@AyumiWatanabe",
+      "day" : 1,
+      "url" : "https://qiita.com/AyumiWatanabe/items/41ad41cea19afae8beca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年のOpenChain Japan Work Groupの活動まとめ / Summary of OpenChain Japan Work Group Activity in 2021",
+      "author" : "@owada-k",
+      "day" : 2,
+      "url" : "https://qiita.com/owada-k/items/38518687590edc8967b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenChain 認証企業 ふえてます / The number of openchain certified companies is increasing.",
+      "author" : "@n-shima",
+      "day" : 3,
+      "url" : "https://qiita.com/n-shima/items/32db801bb340690e6b74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenChain Japan Work Groupへの参加方法/How to participate OpenChain Japan Work Group",
+      "author" : "@koizumistr",
+      "day" : 4,
+      "url" : "https://qiita.com/koizumistr/items/870bc220858945455635"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "東京都オープンソース公開ガイドラインについて　About Tokyo OSS Guideline",
+      "author" : "@MasatoENDO",
+      "day" : 5,
+      "url" : "https://qiita.com/MasatoENDO/items/69c2f4f005e304943d7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術評論社のwebに中国でのCompliance-Sigの記事を書きました！",
+      "author" : "@tks",
+      "day" : 6,
+      "url" : "https://gihyo.jp/dev/serial/01/china-oss-frontline/0003"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアの透明性とSBOMについて(Software Transparency and SBOM)",
+      "author" : "@AyumiWatanabe",
+      "day" : 7,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120108/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPDX Documentを理解する",
+      "author" : "@zp_takashi",
+      "day" : 8,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120101/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPDX-LiteでSBOMを作ってみよう",
+      "author" : "@zp_takashi",
+      "day" : 9,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120102/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPDX® が ISO/IEC 5962:2021 として公開されました / SPDX® became ISO/IEC 5962:2021",
+      "author" : "@nori0428",
+      "day" : 10,
+      "url" : "https://qiita.com/nori0428/items/e667d316f18e1409f406"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPDX Podcast !!",
+      "author" : "@nori0428",
+      "day" : 11,
+      "url" : "https://qiita.com/nori0428/items/9038091d361b4057bc90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "経産省のOSS管理手法事例集について　About METI's Case Study of Open Source Management Methods",
+      "author" : "@MasatoENDO",
+      "day" : 12,
+      "url" : "https://qiita.com/MasatoENDO/items/f60748c5246b261b7d5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "続OSSスキル標準について　Open Source Skill Standard",
+      "author" : "@MasatoENDO",
+      "day" : 13,
+      "url" : "https://qiita.com/MasatoENDO/items/e42a869d8a091b2e2047"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenChain Security Assurance Reference Guide",
+      "author" : "@MasatoENDO",
+      "day" : 14,
+      "url" : "https://qiita.com/MasatoENDO/items/e11bd9e7aa7961ab9659"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenChain Security Assurance Reference Guideの翻訳について",
+      "author" : "@kida_oss",
+      "day" : 15,
+      "url" : "https://qiita.com/kida_oss/items/bf6a9d005dd1b50b5875"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenChain Japan workgroup FAQ subgroup 最新状況のご紹介／Latest Status Update",
+      "author" : "@ogojo",
+      "day" : 16,
+      "url" : "https://qiita.com/ogojo/items/19df010238e182cb6e65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSSコンプライアンスに関連するプロジェクトやツールの紹介",
+      "author" : "@ambai",
+      "day" : 17,
+      "url" : "https://qiita.com/ambai/items/fade203bf8c979ce84c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "meta-spdxscannerを試してみた",
+      "author" : "@hiromotai7",
+      "day" : 18,
+      "url" : "https://www.miraclelinux.com/tech-blog/meta-spdxscanner"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Event Report of OSS Management Forum 2021",
+      "author" : "@AyumiWatanabe",
+      "day" : 19,
+      "url" : "https://qiita.com/AyumiWatanabe/items/9d0c8b29297b1b6847ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ライセンス コンプライアンスについてのOSSJ 2021 富士通セッション サマリ / OSSJ 2021 Fujitsu session summary about license compliance",
+      "author" : "@keiya-nobuta",
+      "day" : 20,
+      "url" : "https://qiita.com/keiya-nobuta/items/21a9d0e6954113d831b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Open Source Summit Japan イベントレポート",
+      "author" : "@ShinsukeKato",
+      "day" : 21,
+      "url" : "https://qiita.com/ShinsukeKato/items/e0349db975c99cb5517d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Open Source Summit Japan 2021 Report: OSPOの役割について／Roles of OSPO",
+      "author" : "@_hfukuchi",
+      "day" : 22,
+      "url" : "https://qiita.com/_hfukuchi/items/3fc3c6d1f77e08880989"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Open Compliance Summit 2021 参加レポート",
+      "author" : "@gucci56",
+      "day" : 23,
+      "url" : "https://qiita.com/gucci56/items/fbc8ee54426da2332c3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンソースコンプライアンスの透明性と相互運用性からオートメーションに向けて / From Transparency and Interoperability to Automation in Open Source Compliance",
+      "author" : "@TakashiNinjouji",
+      "day" : 24,
+      "url" : "https://qiita.com/TakashiNinjouji/items/4848b35f57b699c4d997"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@MasatoENDO"
+    }
+  ]
+}

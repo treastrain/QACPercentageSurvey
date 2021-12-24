@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T03:41:07Z",
+  "calendar_meta_data" : {
+    "author" : "@m-takehara",
+    "category" : "企業・学校・団体",
+    "lgtm" : 44,
+    "subscribers" : 5,
+    "title" : "Uzabase Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "uzabase",
+    "url" : "https://qiita.com/advent-calendar/2021/uzabase"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "え！！複数の JVM プロジェクトで同時に Code with me を！？",
+      "author" : "@m-takehara",
+      "day" : 1,
+      "url" : "https://qiita.com/m-takehara/items/df4df24d7de3f9c40f79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペアプロがうまくいっている状態とは何なのか考えてみる",
+      "author" : "@jnuank",
+      "day" : 2,
+      "url" : "https://zenn.dev/jnuank/articles/cd330badf8339a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "golangはじめました",
+      "author" : "@kumoP",
+      "day" : 3,
+      "url" : "https://qiita.com/kumoP/items/953ce2dccbdbaf1efa64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットワーク全く知らない新卒が開発環境構築しながら成長した話",
+      "author" : "@magicpieh28",
+      "day" : 4,
+      "url" : "https://tech.uzabase.com/entry/2021/12/03/101329"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.jsでClean ArchitectureとDDD",
+      "author" : "@dordieux",
+      "day" : 5,
+      "url" : "https://qiita.com/dordieux/items/dad83aa9546b5988e885"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Step Functions を利用したCI フローについて",
+      "author" : "@saba_can00",
+      "day" : 6,
+      "url" : "https://qiita.com/saba_can00/items/071aef60542b3ff19d46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP の Cloud Monitoring を使って SLI/SLO を運用する",
+      "author" : "@sshota0809",
+      "day" : 7,
+      "url" : "https://zenn.dev/sshota0809/articles/google-cloud-platform-sli-slo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「NewsPicksの時間は3倍だから」 本当に3倍濃厚だった話",
+      "author" : "@yossiyossi923",
+      "day" : 8,
+      "url" : "https://note.com/akanyoshi/n/nae1d486caa2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.js Update! 2021/11/24 に事例講演登壇者として参加しました！",
+      "author" : "@becyn",
+      "day" : 9,
+      "url" : "https://tech.uzabase.com/entry/2021/12/09/114649"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NewsPicks UIデザイナーのFigma利用フロー大公開！",
+      "author" : "@mokataaan",
+      "day" : 10,
+      "url" : "https://note.com/mokataaan/n/n0b29612123b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NewsPicksで初めてPdMとしてキャリアをスタートして学んだこと",
+      "author" : "@takamayu0717",
+      "day" : 11,
+      "url" : "https://note.com/takamayu0717/n/n6f492b83f04c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ライトテーマのすすめ OS設定に合わせてカラースキームを切り替える",
+      "author" : "@aku11i",
+      "day" : 12,
+      "url" : "https://zenn.dev/aktriver/articles/2021-12-editor-light-theme"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUIで共通コンポーネント・アニメーションを作る",
+      "author" : "@haguhoms",
+      "day" : 13,
+      "url" : "https://qiita.com/haguhoms/items/c0d3398e59d1f92d0b59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リリースに最低限必要なテストをどう見極めるか",
+      "author" : "@takanori-fujiwara",
+      "day" : 14,
+      "url" : "https://qiita.com/takanori-fujiwara/items/167b646f5782cbd4f81d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ServerlessFrameworkでLambda + puppeteer",
+      "author" : "@overgoro56",
+      "day" : 15,
+      "url" : "https://qiita.com/overgoro56/items/2878d854ec485b6a55e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.js で型安全に Facebook SDK を利用する",
+      "author" : "@junkisai",
+      "day" : 16,
+      "url" : "https://qiita.com/junkisai/items/a2d5baa2f2ba06ae17a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "半年間「UIデザイン」にフォーカスして感じれたこと",
+      "author" : "@yajiji",
+      "day" : 17,
+      "url" : "https://note.com/19860125/n/n3bb3cae44d39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Groupieより生産性高い(はず？)なRecylcerViewのススメ",
+      "author" : "@ko2ic",
+      "day" : 18,
+      "url" : "https://qiita.com/ko2ic/items/cf77f8f73986270dc3b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SlackからCodeBuildを走らせるシンプルな方法",
+      "author" : "@fronts1231",
+      "day" : 19,
+      "url" : "https://qiita.com/fronts1231/items/efef533547ec60723244"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "12/18の Tech BASE Okinawaを参加レポートする予定です",
+      "author" : "@ftnext",
+      "day" : 20,
+      "url" : "https://nikkie-ftnext.hatenablog.com/entry/tech-base-okinawa-2021-report"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APM として New Relic を導入した話",
+      "author" : "@becyn",
+      "day" : 21,
+      "url" : "https://tech.uzabase.com/entry/2021/12/22/102708"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Organizationsで開発の安全性と快適性を同時に向上する",
+      "author" : "@goakazawa",
+      "day" : 22,
+      "url" : "https://tech.uzabase.com/entry/2021/12/20/163356"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@edvakf@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidアプリのログが正しく送信されていることを担保する",
+      "author" : "@blurfour",
+      "day" : 24,
+      "url" : "https://qiita.com/blurfour/items/1df91330a3029f84b8ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@enk"
+    }
+  ]
+}

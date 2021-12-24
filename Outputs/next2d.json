@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T12:50:49Z",
+  "calendar_meta_data" : {
+    "author" : "@ienaga",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 1,
+    "subscribers" : 3,
+    "title" : "Next2D Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "next2d",
+    "url" : "https://qiita.com/advent-calendar/2021/next2d"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D入門",
+      "author" : "@ienaga",
+      "day" : 1,
+      "url" : "https://qiita.com/ienaga/items/76597607613a84726a10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode Tool入門",
+      "author" : "@ienaga",
+      "day" : 2,
+      "url" : "https://qiita.com/ienaga/items/726a07a82e6094022400"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode Toolで絵を描く",
+      "author" : "@ienaga",
+      "day" : 3,
+      "url" : "https://qiita.com/ienaga/items/bd49f14f8c9edd9e8122"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode Toolでテキストを挿入する",
+      "author" : "@ienaga",
+      "day" : 4,
+      "url" : "https://qiita.com/ienaga/items/5087a62d5ab8266973eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode ToolのBlendModeを利用する",
+      "author" : "@ienaga",
+      "day" : 5,
+      "url" : "https://qiita.com/ienaga/items/07054f96b078f558dbd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode ToolのFilterを利用する",
+      "author" : "@ienaga",
+      "day" : 6,
+      "url" : "https://qiita.com/ienaga/items/5eeb1948a045912648d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode Toolのタイムライン操作",
+      "author" : "@ienaga",
+      "day" : 7,
+      "url" : "https://qiita.com/ienaga/items/dd64e2123a2b7e25985b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode ToolでJavaScriptを使う[初級編]",
+      "author" : "@ienaga",
+      "day" : 8,
+      "url" : "https://qiita.com/ienaga/items/78303870bd58d6293124"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode ToolでJavaScriptを使う[中級編]",
+      "author" : "@ienaga",
+      "day" : 9,
+      "url" : "https://qiita.com/ienaga/items/c371265bf8f5a3e1d896"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D NoCode ToolでJavaScriptを使う[上級編]",
+      "author" : "@ienaga",
+      "day" : 10,
+      "url" : "https://qiita.com/ienaga/items/31814cca5693e5e8526c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Player入門",
+      "author" : "@ienaga",
+      "day" : 11,
+      "url" : "https://qiita.com/ienaga/items/6089b96e62d18e3250c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D PlayerのAPI [Loader編]",
+      "author" : "@ienaga",
+      "day" : 12,
+      "url" : "https://qiita.com/ienaga/items/2f58fa8368d2dfec03d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D PlayerのAPI [Graphics編]",
+      "author" : "@ienaga",
+      "day" : 13,
+      "url" : "https://qiita.com/ienaga/items/c31832354cca7df8ad1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D PlayerのAPI [TextField編]",
+      "author" : "@ienaga",
+      "day" : 14,
+      "url" : "https://qiita.com/ienaga/items/bce6e1601d33570b8df1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Framework入門",
+      "author" : "@ienaga",
+      "day" : 15,
+      "url" : "https://qiita.com/ienaga/items/573a859e40ac5cfcb280"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Framework [config設定]",
+      "author" : "@ienaga",
+      "day" : 16,
+      "url" : "https://qiita.com/ienaga/items/2e96a9c588bae1bacc24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Frameworkのrouting設定[導入編]",
+      "author" : "@ienaga",
+      "day" : 17,
+      "url" : "https://qiita.com/ienaga/items/3c2d9175d3797621ee2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Frameworkのrouting設定[カスタム設定編]",
+      "author" : "@ienaga",
+      "day" : 18,
+      "url" : "https://qiita.com/ienaga/items/0c5eabedc8e329e033bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Framework routing設定[NoCode Toolの連携編]",
+      "author" : "@ienaga",
+      "day" : 19,
+      "url" : "https://qiita.com/ienaga/items/99511ee77765cf6ea9ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D FrameworkのViewとViewModel",
+      "author" : "@ienaga",
+      "day" : 20,
+      "url" : "https://qiita.com/ienaga/items/9e5f05aef9a7b1db8a6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Frameworkのシーン遷移",
+      "author" : "@ienaga",
+      "day" : 21,
+      "url" : "https://qiita.com/ienaga/items/d2752b772a2dcc64bcb3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2D Frameworkのcallback",
+      "author" : "@ienaga",
+      "day" : 22,
+      "url" : "https://qiita.com/ienaga/items/13673785fa620fb50da7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next2Dでゲームを作ってみる(前半)",
+      "author" : "@ienaga",
+      "day" : 23,
+      "url" : "https://qiita.com/ienaga/items/02eb94a3f94b4b872ab5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@ienaga"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ienaga"
+    }
+  ]
+}

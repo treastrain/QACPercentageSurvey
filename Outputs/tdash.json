@@ -1,0 +1,155 @@
+{
+  "created_at" : "2021-12-24T04:51:42Z",
+  "calendar_meta_data" : {
+    "author" : "@t-dash_support",
+    "category" : "プレゼント",
+    "lgtm" : 24,
+    "subscribers" : 4,
+    "title" : "T-DASHを使ってみた！【PR】T-DASH Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "tdash",
+    "url" : "https://qiita.com/advent-calendar/2021/tdash"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "T-DASHのOPENβ申込からテストツールの起動まで実施したら、とてもハードルが低かった",
+      "author" : "@84zume",
+      "day" : 1,
+      "url" : "https://qiita.com/84zume/items/5051531c1d82139b4267"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "T-DASHのサンプルアプリで自動テストを実行して結果を見てみた",
+      "author" : "@84zume",
+      "day" : 2,
+      "url" : "https://qiita.com/84zume/items/3a23d6c435dd418e98b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロキシが原因でT-DASHを起動できない問題の対処",
+      "author" : "@kikuchi_seiya",
+      "day" : 3,
+      "url" : "https://qiita.com/kikuchi_seiya/items/37c7785a31e724188e2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "T-DASHで基本的なテスト（テストシナリオ、テストケース、テスト手順、画面定義）を書いてみた",
+      "author" : "@84zume",
+      "day" : 4,
+      "url" : "https://qiita.com/84zume/items/c5f5f82e2c6da1a5c1f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "T-DASHのテスト手順作成画面をじっくり見てみた",
+      "author" : "@84zume",
+      "day" : 5,
+      "url" : "https://qiita.com/84zume/items/e3631bd3cea510b21d78"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "T-DASHのOPENβ版で改善したらよいと思う箇所３点",
+      "author" : "@84zume",
+      "day" : 6,
+      "url" : "https://qiita.com/84zume/items/5567fb60a478b8b782d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@s207035"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "T-DASHを使おうと考えましたが、残念ながら...",
+      "author" : "@Keiji_otsubo",
+      "day" : 8,
+      "url" : "https://qiita.com/Keiji_otsubo/items/ef8d5e6aff81a3a0287c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発WebアプリでもE2Eテストを簡単に導入する(T-DASH)",
+      "author" : "@masibw",
+      "day" : 11,
+      "url" : "https://qiita.com/masibw/items/810c26ebfc22726026ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@minhtran"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@mokio"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト自動化ツール『T-DASH』で量子回路の実行に挑戦",
+      "author" : "@ksj555",
+      "day" : 20,
+      "url" : "https://qiita.com/ksj555/items/5efae1264c1c6852181b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト自動化ツール『T-DASH』をよく見てみよう！",
+      "author" : "@ksj555",
+      "day" : 21,
+      "url" : "https://qiita.com/ksj555/items/b6f67c26f40484627f0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flaskチュートリアルを使ったT-DASHチュートリアル",
+      "author" : "@kazu-ojisan",
+      "day" : 22,
+      "url" : "https://qiita.com/kazu-ojisan/items/f3eec4b0e5b17e51a0ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "既存プロダクトでローコードテスト自動化ツールT-DASHを試したらびっくりするほど簡単に導入出来た",
+      "author" : "@tomozoooo",
+      "day" : 24,
+      "url" : "https://qiita.com/tomozoooo/items/789f0127e525b77db1d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@komaru_5maru"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-24T02:06:59Z",
+  "calendar_meta_data" : {
+    "author" : "@catallaxy",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 4,
+    "title" : "Catallaxy Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "catallaxy",
+    "url" : "https://qiita.com/advent-calendar/2021/catallaxy"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby biz Grand prix 2021のファイナリストに選ばれた",
+      "author" : "@catallaxy",
+      "day" : 1,
+      "url" : "https://qiita.com/catallaxy/items/4a4e57c10f39bd86532e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "夏は海に潜り冬は山に登りそしてたまに滑るエンジニアの生活",
+      "author" : "@catallaxy",
+      "day" : 2,
+      "url" : "https://qiita.com/catallaxy/items/11e4e13accf4a7e29543"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CatallaxyのクラウドIDE（開発環境編） 2021",
+      "author" : "@catallaxy",
+      "day" : 3,
+      "url" : "https://qiita.com/catallaxy/items/ac1626bd79aae5dc57d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyアプリを手軽にCloud Runにする話",
+      "author" : "@catallaxy",
+      "day" : 4,
+      "url" : "https://qiita.com/catallaxy/items/7238f1dc08014fe59860"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "御老公様によるgemとnpmのアップデートとそのリリース",
+      "author" : "@catallaxy",
+      "day" : 5,
+      "url" : "https://qiita.com/catallaxy/items/4c0c43c5da0fcb31efe3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワーク生活と部屋とYシャツと私",
+      "author" : "@catallaxy",
+      "day" : 6,
+      "url" : "https://qiita.com/catallaxy/items/dbf5d9ad3abc2b6de352"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仕事ができるいいやつ",
+      "author" : "@catallaxy",
+      "day" : 7,
+      "url" : "https://qiita.com/catallaxy/items/9eb62c04884bcc826cdd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日はNext.j……（リモートワーク中に毎日食べられるスープの作り方）",
+      "author" : "@catallaxy",
+      "day" : 8,
+      "url" : "https://qiita.com/catallaxy/items/1dfb5313fc57a6dbecc1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reactではじめるキノコ狩り",
+      "author" : "@catallaxy",
+      "day" : 9,
+      "url" : "https://qiita.com/catallaxy/items/17dc6327c10e2e3efc5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "やらかしちまって自動販売機の前で泣いた話",
+      "author" : "@catallaxy",
+      "day" : 10,
+      "url" : "https://qiita.com/catallaxy/items/d347a25f807bbb01fe97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CatallaxyがテックブログそしてAdvent Calendarを始める理由",
+      "author" : "@catallaxy",
+      "day" : 11,
+      "url" : "https://zenn.dev/catallaxy/articles/2021-12-11-starting-advent"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Catallaxyは土日祝おやすみです",
+      "author" : "@catallaxy",
+      "day" : 12,
+      "url" : "https://catallaxy.me/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@catallaxy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "10分で分かるDXFファイル",
+      "author" : "@catallaxy",
+      "day" : 14,
+      "url" : "https://qiita.com/catallaxy/items/2eb2825518ca259ed8f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア必見！知っておくと便利なデザインツール",
+      "author" : "@catallaxy",
+      "day" : 15,
+      "url" : "https://qiita.com/catallaxy/items/5edca568df495e0cf9c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@catallaxy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQLでnullにハマった話",
+      "author" : "@catallaxy",
+      "day" : 17,
+      "url" : "https://qiita.com/catallaxy/private/a4a1acf3f26e96cb95ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Catallaxyは土日おやすみです",
+      "author" : "@catallaxy",
+      "day" : 18,
+      "url" : "https://catallaxy.me/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Catallaxyは土日祝おやすみです",
+      "author" : "@catallaxy",
+      "day" : 19,
+      "url" : "https://catallaxy.me/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Collaのご紹介",
+      "author" : "@catallaxy",
+      "day" : 20,
+      "url" : "https://qiita.com/catallaxy/items/4f77522d98d07c04b728"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Zennはじめました",
+      "author" : "@catallaxy",
+      "day" : 21,
+      "url" : "https://zenn.dev/catallaxy/articles/start-zenn-with-github"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@catallaxy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リスペクトメッセージ施策でフルリモート環境でも心理的安全性を高めよう",
+      "author" : "@catallaxy",
+      "day" : 23,
+      "url" : "https://qiita.com/catallaxy/items/7c23f86642bba0b462e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@catallaxy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@catallaxy"
+    }
+  ]
+}

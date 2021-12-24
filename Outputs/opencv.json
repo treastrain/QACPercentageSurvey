@@ -1,0 +1,289 @@
+{
+  "created_at" : "2021-12-24T10:44:40Z",
+  "calendar_meta_data" : {
+    "author" : "@hon_no_mushi",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 269,
+    "subscribers" : 73,
+    "title" : "OpenCV Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "opencv",
+    "url" : "https://qiita.com/advent-calendar/2021/opencv"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "顔向き推定をOpenCVの機能だけで実現したい!",
+      "author" : "@hon_no_mushi",
+      "day" : 1,
+      "url" : "https://qiita.com/hon_no_mushi/items/630cd2e3f29e9f791db5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCV.js のGaussianBlurが遅すぎたのでWebAssemblyで作ってみた",
+      "author" : "@OECkoec",
+      "day" : 2,
+      "url" : "https://qiita.com/OECkoec/items/796bb06302c53391f172"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVの新しい顔検出を試してみる",
+      "author" : "@UnaNancyOwen",
+      "day" : 3,
+      "url" : "https://qiita.com/UnaNancyOwen/items/f3db189760037ec680f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVの新しい顔認識を試してみる",
+      "author" : "@UnaNancyOwen",
+      "day" : 4,
+      "url" : "https://qiita.com/UnaNancyOwen/items/8c65a976b0da2a558f06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVのプラグイン機能",
+      "author" : "@dandelion1124",
+      "day" : 5,
+      "url" : "https://qiita.com/dandelion1124/items/ffe223d7474f7be7a8ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キャリブレーションパターンを Python で作って見よう",
+      "author" : "@tomoaki_teshima",
+      "day" : 6,
+      "url" : "https://qiita.com/tomoaki_teshima/items/b01462cdba77c9fe9bcc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「アイエエエエ! ニンジャ!? ニンジャナンデ!?」(OpenCV module開発のおともに)",
+      "author" : "@hon_no_mushi",
+      "day" : 7,
+      "url" : "https://qiita.com/hon_no_mushi/items/7e342629892c2d60d0e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[OpenCV] 100行で作るAR",
+      "author" : "@suo-takefumi",
+      "day" : 8,
+      "url" : "https://qiita.com/suo-takefumi/items/231a6f97cd880fe629a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メッセージから逆引きしてエラーの原因を特定する記事",
+      "author" : "@tomoaki_teshima",
+      "day" : 9,
+      "url" : "https://qiita.com/tomoaki_teshima/items/a57a408545b955ddbce9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVによる特異値分解と最小二乗法",
+      "author" : "@fukushima1981",
+      "day" : 10,
+      "url" : "https://qiita.com/fukushima1981/items/643aa4ced546dca1fe2a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVとピンホールカメラモデルを用いて、3D空間でグリグリする",
+      "author" : "@iwatake2222",
+      "day" : 11,
+      "url" : "https://qiita.com/iwatake2222/items/c3fe0139d37c4e01c07b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVとDepth Mapを用いて、1枚の写真から3次元再構築する",
+      "author" : "@iwatake2222",
+      "day" : 12,
+      "url" : "https://qiita.com/iwatake2222/items/bbd4ccdacfcf8f846a0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "100行で作る定数時間バイラテラルフィルタ",
+      "author" : "@fukushima1981",
+      "day" : 13,
+      "url" : "https://qiita.com/fukushima1981/items/296e3a20aed78df00ff1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Universal Intrinsic再入門(別角度から)",
+      "author" : "@hon_no_mushi",
+      "day" : 14,
+      "url" : "https://qiita.com/hon_no_mushi/items/df9b8159e7fb47c9e30c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】URLを指定してimread()したい。ついでにpip公開。",
+      "author" : "@Kazuhito",
+      "day" : 15,
+      "url" : "https://qiita.com/Kazuhito/items/ccbf66d03ddd1199ef8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】あれ？ dnnモジュールのONNX推論遅くねえ？ ※2021/12/14時点",
+      "author" : "@Kazuhito",
+      "day" : 16,
+      "url" : "https://qiita.com/Kazuhito/items/beaf01bf47893805cc03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCV でリアルタイム生成した画像を可変フレームレート動画として保存する",
+      "author" : "@mitayuki6",
+      "day" : 17,
+      "url" : "https://qiita.com/mitayuki6/items/73943628b625e0b2ab30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCV4系をHSP3で使いたい！～HSP用DLLヘッダ定義と日本語機械翻訳リファレンスの作成～",
+      "author" : "@hk1v",
+      "day" : 18,
+      "url" : "https://qiita.com/hk1v/items/35846b194cb52e3ce291"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QRコードの検出のAPIを振り返る(2回目)",
+      "author" : "@tomoaki_teshima",
+      "day" : 19,
+      "url" : "https://qiita.com/tomoaki_teshima/items/d12af6cc01968f82bcdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "対戦ゲームの動画記録から特定のイベントを自動的に探してクリップを生成する画像処理作った",
+      "author" : "@eqs",
+      "day" : 20,
+      "url" : "https://blog.eqseqs.work/2021/12/20/000000/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GaussianBlur関数でほぼ空っぽの画像が生成されるバグ",
+      "author" : "@tomoaki_teshima",
+      "day" : 21,
+      "url" : "https://qiita.com/tomoaki_teshima/items/4183ba706067609c9bed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVによる寸法測定",
+      "author" : "@okm_6880",
+      "day" : 22,
+      "url" : "https://qiita.com/okm_6880/items/0f964484d570208d715d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVの新しい顔検出をブラウザでも試してみる",
+      "author" : "@kounoike",
+      "day" : 23,
+      "url" : "https://zenn.dev/kounoike/articles/20211223-wasm-facedetect"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Studio + Image Watch プラグインで快適 OpenCV 画像処理開発",
+      "author" : "@kounoike",
+      "day" : 24,
+      "url" : "https://zenn.dev/kounoike/articles/20211224-opencv-image-watch"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hon_no_mushi"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@hon_no_mushi"
+    }
+  ]
+}

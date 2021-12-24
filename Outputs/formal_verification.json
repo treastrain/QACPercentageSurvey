@@ -1,0 +1,136 @@
+{
+  "created_at" : "2021-12-24T02:01:45Z",
+  "calendar_meta_data" : {
+    "author" : "@nekonibox",
+    "category" : "学術",
+    "lgtm" : 17,
+    "subscribers" : 18,
+    "title" : "形式検証 / 形式手法 Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "formal_verification",
+    "url" : "https://qiita.com/advent-calendar/2021/formal_verification"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "婚活パーティのカップリングアルゴリズムの正しさをCoq/SSReflectで形式検証する",
+      "author" : "@nekonibox",
+      "day" : 4,
+      "url" : "https://qiita.com/nekonibox/items/09d27d81df03144fd2bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "λProlog (Lambda Prolog) の紹介",
+      "author" : "@suharahiromichi",
+      "day" : 5,
+      "url" : "https://qiita.com/suharahiromichi/items/a046859da0c0883e7304"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alloy 6 の新機能 Mutable Field と線形時相論理",
+      "author" : "@y_taka_23",
+      "day" : 9,
+      "url" : "https://zenn.dev/y_taka_23/articles/alloy-mutable-fields"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Introducing TLA+ Intellij plugin",
+      "author" : "@ocadaruma",
+      "day" : 16,
+      "url" : "https://ocadaruma.hatenablog.com/entry/2021/12/16/011059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ある証券会社の証券用語の解説に仕様バグが存在することを形式検証によって発見した話",
+      "author" : "@nekonibox",
+      "day" : 17,
+      "url" : "https://qiita.com/nekonibox/items/5a58a7476df7dbf69604"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "株式の取引と売買価格を決定する板寄せアルゴリズムをCoq/SSReflectで形式検証する",
+      "author" : "@nekonibox",
+      "day" : 18,
+      "url" : "https://qiita.com/nekonibox/items/6d677c265b09922a04c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon S3の軽量形式手法",
+      "author" : "@masateruk",
+      "day" : 19,
+      "url" : "https://masateruk.hatenablog.com/entry/2021/12/19/164637"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "created_at" : "2021-12-24T04:38:04Z",
+  "calendar_meta_data" : {
+    "author" : "@iku000888",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 10,
+    "subscribers" : 5,
+    "title" : "kafka/kafka-streams/kafka-connect/ksql etc Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "kafka",
+    "url" : "https://qiita.com/advent-calendar/2021/kafka"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Confluent Cloudでkafka-streamsのapplicationをリセットする",
+      "author" : "@iku000888",
+      "day" : 1,
+      "url" : "https://scrapbox.io/iku000888-notes/Confluent_Cloud%E3%81%A7kafka-streams%E3%81%AEapplication%E3%82%92%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafkaコンシューマグループのパラメータについて",
+      "author" : "@shinichy",
+      "day" : 2,
+      "url" : "https://shinichy.hatenablog.com/entry/2021/12/01/154320"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Streams で状態を持つアプリケーションを作る",
+      "author" : "@223kazuki",
+      "day" : 3,
+      "url" : "https://qiita.com/223kazuki/items/e6c1633d19741b66a025"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KAFKA-12951を踏んだ話",
+      "author" : "@iku000888",
+      "day" : 4,
+      "url" : "https://scrapbox.io/iku000888-notes/KAFKA-12951%E3%82%92%E8%B8%8F%E3%82%93%E3%81%A0%E8%A9%B1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kafka serde landscape",
+      "author" : "@iku000888",
+      "day" : 5,
+      "url" : "https://scrapbox.io/iku000888-notes/kafka_serde_landscape"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Schema Registry - 怖くないSchema Evolution",
+      "author" : "@ShinHashitani",
+      "day" : 6,
+      "url" : "https://qiita.com/ShinHashitani/items/e6b866b7d22c96f03f0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Streamsのタスク割り当てについて",
+      "author" : "@shinichy",
+      "day" : 7,
+      "url" : "https://shinichy.hatenablog.com/entry/2021/12/07/133801"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kafka-streamsのstateListenerにあれもこれもやらせたい",
+      "author" : "@iku000888",
+      "day" : 8,
+      "url" : "https://scrapbox.io/iku000888-notes/kafka-streams%E3%81%AEstateListener%E3%81%AB%E3%81%82%E3%82%8C%E3%82%82%E3%81%93%E3%82%8C%E3%82%82%E3%82%84%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ksqlDBを現在使ってない理由",
+      "author" : "@iku000888",
+      "day" : 9,
+      "url" : "https://scrapbox.io/iku000888-notes/ksqlDB%E3%82%92%E7%8F%BE%E5%9C%A8%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka StreamsのProcessor APIで出来ること",
+      "author" : "@joker1007",
+      "day" : 10,
+      "url" : "https://joker1007.hatenablog.com/entry/2021/12/11/003831"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojure で Kafka Streams アプリケーションを書く",
+      "author" : "@223kazuki",
+      "day" : 11,
+      "url" : "https://qiita.com/223kazuki/items/394f7a6a340c9d96ed9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Streamsのchangelogトピックを再利用するダーティハック",
+      "author" : "@joker1007",
+      "day" : 13,
+      "url" : "https://joker1007.hatenablog.com/entry/2021/12/14/232952"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StateStore応用編(ローカルキャッシュ、コンフィグストア)",
+      "author" : "@joker1007",
+      "day" : 14,
+      "url" : "https://joker1007.hatenablog.com/entry/2021/12/15/170238"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kafka-streamsのinternal topic",
+      "author" : "@iku000888",
+      "day" : 16,
+      "url" : "https://scrapbox.io/iku000888-notes/kafka-streams%E3%81%AEinternal_topic"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Confluent Parellel Consumer - KafkaネイティブなアプローチでConsumerを極限までスケールする",
+      "author" : "@ShinHashitani",
+      "day" : 17,
+      "url" : "https://qiita.com/ShinHashitani/items/c7d3ca9d7ecd8e956658"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KafkaStreams Production運用時に確認しておくべきコンフィグ値",
+      "author" : "@joker1007",
+      "day" : 20,
+      "url" : "https://joker1007.hatenablog.com/entry/2021/12/21/222807"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

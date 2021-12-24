@@ -1,0 +1,144 @@
+{
+  "created_at" : "2021-12-24T13:14:09Z",
+  "calendar_meta_data" : {
+    "author" : "@jiyuujin",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 22,
+    "subscribers" : 157,
+    "title" : "Vue Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "vue",
+    "url" : "https://qiita.com/advent-calendar/2021/vue"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "discordの開発コミュニティに突撃して尚も解決しなかったvuetifyの不具合",
+      "author" : "@Itamaster",
+      "day" : 1,
+      "url" : "https://qiita.com/Itamaster/items/bd41fa7897a10334273e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vueがメチャメチャ書きやすくなる言語を開発した話",
+      "author" : "@s19514tt",
+      "day" : 2,
+      "url" : "https://qiita.com/s19514tt/items/fe050cc85e536ef8bf36"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue3のComposition APIでロジックをいい感じに切り分ける！カスタムフックのすゝめ",
+      "author" : "@powdersugar828828",
+      "day" : 4,
+      "url" : "https://qiita.com/powdersugar828828/items/0d0eff27437faf5fcc06"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPAでボタンコンポーネントをリンクにする時に気をつけること",
+      "author" : "@kan_dai",
+      "day" : 7,
+      "url" : "https://zenn.dev/kandai/articles/fd23c7497c1fea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@kanta_yamaoka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue.jsでMapLibre GL JSの開発環境を構築してみた",
+      "author" : "@dayjournal",
+      "day" : 13,
+      "url" : "https://qiita.com/dayjournal/items/9698346713391c965cb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue3(Composition API)のComposition Functionの切り出し方のパターンをまとめてみた",
+      "author" : "@Kodak_tmo",
+      "day" : 15,
+      "url" : "https://qiita.com/Kodak_tmo/items/5a7c504ad0f91a1973c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@clown0082"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue.jsでブックマークツール「Quick Bookmark」を作った",
+      "author" : "@yasugahira0810",
+      "day" : 20,
+      "url" : "https://sonomirai.hatenablog.com/entry/2021/12/20/082448"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vite (Vue 3) で SG のすゞめ",
+      "author" : "@jiyuujin",
+      "day" : 21,
+      "url" : "https://webneko.dev/posts/possible-for-vite-usage-as-a-static-generator"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「v-btnコンポーネントのテキストが折り返されない問題」における戦いのいく末を覗く",
+      "author" : "@GANGAN",
+      "day" : 22,
+      "url" : "https://tech-blog.optim.co.jp/entry/2021/12/22/130000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

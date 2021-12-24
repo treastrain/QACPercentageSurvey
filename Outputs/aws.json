@@ -1,0 +1,450 @@
+{
+  "created_at" : "2021-12-24T12:48:42Z",
+  "calendar_meta_data" : {
+    "author" : "@hayao_k",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 100,
+    "subscribers" : 206,
+    "title" : "AWS Advent Calendar 2021",
+    "participants" : 49,
+    "unique_name" : "aws",
+    "url" : "https://qiita.com/advent-calendar/2021/aws"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsを使用した肩肘張らないEKSへのPodデプロイ 〜アプリケーションリリース編〜",
+      "author" : "@yackrru",
+      "day" : 1,
+      "url" : "https://qiita.com/yackrru/items/f53d9614af1d1f81dae3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon RedshiftとDBeaverで空間検索してみた",
+      "author" : "@dayjournal",
+      "day" : 2,
+      "url" : "https://qiita.com/dayjournal/items/fa3aac5a24e9605f2958"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CloudWatch Logs Agentに埋め込みメトリクスを（力技で）導入する",
+      "author" : "@Morichan",
+      "day" : 3,
+      "url" : "https://qiita.com/Morichan/items/e30751a26e8e2ff6dd45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Code BuildでDockerfileをビルド時に`Too Many Requests.`エラーになった時に対応したこと",
+      "author" : "@saba_can00",
+      "day" : 4,
+      "url" : "https://zenn.dev/saba_can00/articles/aws-codebuild-too-many-request"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECS Fargate のメトリクスを Prometheus Agent 使って AMP に送って Grafana で監視する",
+      "author" : "@nikaera",
+      "day" : 5,
+      "url" : "https://zenn.dev/nikaera/articles/aws-ecs-fargate-amp-grafana"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Lambda + S3 + Python で PDF を扱う際のTips",
+      "author" : "@hcrane",
+      "day" : 6,
+      "url" : "https://qiita.com/hcrane/items/7edea7b8e097f1fab6f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Well-Architected カスタムレンズを使ってみる",
+      "author" : "@shu85t",
+      "day" : 7,
+      "url" : "https://qiita.com/shu85t/items/ac559487be5ecc7ea8b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@kamillle"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK+Serverless Next.js構成で、APIからAWSリソースにアクセスできるようにIAMロールを更新する",
+      "author" : "@motchi0214",
+      "day" : 9,
+      "url" : "https://wp-kyoto.net/put-iam-policy-to-the-next-js-app-using-aws-cdk/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "公式!? AWS マネジメントコンソールをダークモードにする方法",
+      "author" : "@udus122",
+      "day" : 10,
+      "url" : "https://zenn.dev/ud/articles/b0319b7d7c91fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSでNPOのWebサービスをはじめるSTO",
+      "author" : "@sogahisashi",
+      "day" : 11,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-11-530ee20e165361"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@hanautarecords"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon ECR のイメージスキャン結果を Slack 通知 (拡張スキャン対応版)",
+      "author" : "@hayao_k",
+      "day" : 13,
+      "url" : "https://qiita.com/hayao_k/items/53228ea158aa82d4d5b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeBuildでREST APIの自動テストを実行する",
+      "author" : "@ny7760",
+      "day" : 14,
+      "url" : "https://qiita.com/ny7760/items/1b47c62df9a18d4160e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習の民主化が加速する！re:Invent 2021で発表されたノーコードで機械学習のモデルが作れるサービス、『Sagemaker Canvas』を触ってみた",
+      "author" : "@mochan_tk",
+      "day" : 15,
+      "url" : "https://zenn.dev/mochan_tk/articles/d70e59f10c38e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lambdaを使用してCloudWatchアラームをLINE Notifyで通知してみる",
+      "author" : "@Mattun_0226",
+      "day" : 16,
+      "url" : "https://qiita.com/Mattun_0226/items/21cd1a1244e3c6e5d9b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Redshift Serverlessでパフォーマンスとコストの課題を一気に解消？",
+      "author" : "@motoy3d",
+      "day" : 17,
+      "url" : "https://qiita.com/motoy3d/items/37a86388f256e28ada34"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS ChatbotとSlackのWorkflowを使ってSlackから特定のインスタンスに特定のコマンドを実行させる",
+      "author" : "@yutaro1985",
+      "day" : 18,
+      "url" : "https://zenn.dev/yutaro1985/articles/edddcb84d2c26c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Transcribe を利用して動画から音声のテキストを抽出する",
+      "author" : "@TakeshiNickOsanai",
+      "day" : 19,
+      "url" : "https://qiita.com/TakeshiNickOsanai/items/5f343e7a19b0a38c2fdd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS App RunnerとAmazon DynamoDBを連携させてみた",
+      "author" : "@becominn",
+      "day" : 20,
+      "url" : "https://zenn.dev/becominn/articles/3c06bc732f8775"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JAWSUG_CLI専門支部 AWS Security Token Service (STS)ハンズオンのまとめ",
+      "author" : "@amarelo_n24",
+      "day" : 21,
+      "url" : "https://qiita.com/amarelo_n24/items/b795749a1183dac2cbf2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Step FunctionsのIterator使うと、LambdaでMulti Threadができてクソ便利なのでCDKでやってみた話",
+      "author" : "@thujikun@github",
+      "day" : 22,
+      "url" : "https://note.com/air_closet/n/n6577d6f5304a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 MacでビルドしたンテナイメージをArm64なAWS Fargateで起動する",
+      "author" : "@kinunori",
+      "day" : 23,
+      "url" : "https://shimakaze.hatenablog.com/entry/2021/12/23/083000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラジオで今流れている曲を Slack に投稿する",
+      "author" : "@noritakaIzumi",
+      "day" : 24,
+      "url" : "https://qiita.com/noritakaIzumi/items/0ea96b6d0979e09896cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tsumita7"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS Certified Cloud Practitioner 合格体験記",
+      "author" : "@mizo0203",
+      "day" : 2,
+      "url" : "https://qiita.com/mizo0203/items/dfc851d4feb3dd4983bf"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3,
+      "author" : "@manbababa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Step FunctionsがAWS Serviceを直接実行できるようになったのでステートマシンでCloudWatch Logs Insightによるログ監視を実行してみる",
+      "author" : "@kazuhiro1982",
+      "day" : 4,
+      "url" : "https://qiita.com/kazuhiro1982/items/0e0d8d5dc207ac2852aa"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5,
+      "author" : "@TsurutaAYM"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GitHub Actionsを使ったECSのデプロイメントパイプライン構築",
+      "author" : "@hi1280",
+      "day" : 6,
+      "url" : "https://hi1280.hatenablog.com/entry/2021/12/06/090000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "EIPの逆引き設定をする",
+      "author" : "@nnhiguchi",
+      "day" : 7,
+      "url" : "https://qiita.com/nnhiguchi/items/6d8c315f1a7f1061a2c4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Amazon RekognitionとOpenCVで画像の目を大きくするAPIを作成する",
+      "author" : "@yuikoito",
+      "day" : 8,
+      "url" : "https://qiita.com/yuikoito/items/eed0a9c37675be27c812"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】Athena でログを検索できるようにしてみたけど、全然幸せになれなかった",
+      "author" : "@kakisoft",
+      "day" : 9,
+      "url" : "https://kaki-engine.com/why-i-dont-recommend-aws-athena/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Amazon Connectの音声問い合わせをデバッグする",
+      "author" : "@stnamco",
+      "day" : 10,
+      "url" : "https://kakehashi-dev.hatenablog.com/entry/2021/12/10/080000_1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CloudWatch Logsのログ取得で空が返ってくることがあるっていう仕様",
+      "author" : "@mmclsntr",
+      "day" : 11,
+      "url" : "https://qiita.com/mmclsntr/items/09ebfa3a6c717923ead4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Partition ProjectionでAthenaのコストを80%削減した話",
+      "author" : "@yuji_saito",
+      "day" : 12,
+      "url" : "https://qiita.com/yuji_saito/items/86da268bed1b5be9b8cc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWSアカウントも年末の大掃除をしよう",
+      "author" : "@shimi7o",
+      "day" : 13,
+      "url" : "https://qiita.com/shimi7o/items/a06b994049508789892f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SageMakerトレーニングジョブで推論を回す👀",
+      "author" : "@Kazuhito",
+      "day" : 14,
+      "url" : "https://zenn.dev/kazuhito/books/4bfc0e4e39752c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Karpenterでなにがうれしいのか試してみた！",
+      "author" : "@takaf04",
+      "day" : 15,
+      "url" : "https://qiita.com/takaf04/items/2f8875c0196f1d0aee3f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】Amplifyを使わずにNuxt.jsとAWS Cognitoでログイン処理を実装してみた",
+      "author" : "@y-aka",
+      "day" : 16,
+      "url" : "https://qiita.com/y-aka/items/6c36a7aecb963e16a05d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "IoT Core, Lambda, Nodejs, TypeScript で RaspberryPiと双方向通信",
+      "author" : "@nkmrkz",
+      "day" : 17,
+      "url" : "https://zenn.dev/nkmrkz/articles/iotcore-raspberrypi"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Amazon Chime SDK for JavaScript で Among Us Automute",
+      "author" : "@wok",
+      "day" : 18,
+      "url" : "https://cloud.flect.co.jp/entry/2021/12/18/213550"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Fargateコンテナの特定ログをFireLensを使って別々に振り分けようとしたけどボツった話",
+      "author" : "@hedgehog051",
+      "day" : 19,
+      "url" : "https://qiita.com/hedgehog051/items/2e163d9cbe98c1716ffc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "見てたってバグなんかわかりゃしないよ！ AWS FIS で障害の注入",
+      "author" : "@Richter-A",
+      "day" : 20,
+      "url" : "https://qiita.com/Richter-A/items/62edfdfd5ad3a913711d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS BackupでVMware Cloud on AWSのバックアップを取得してみた",
+      "author" : "@gongon0616",
+      "day" : 21,
+      "url" : "https://qiita.com/gongon0616/items/46818e290668fd69d2c0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "本番環境のデータをマスクしてステージング環境に自動同期する仕組みを作りました【AWS CDK/SDK】",
+      "author" : "@miyomiyo344",
+      "day" : 22,
+      "url" : "https://zenn.dev/chycara344/articles/7529bd5539de03"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "意図しないネットワークアクセスを特定　Network Access Analyzerを触ってみた",
+      "author" : "@ihsoy_23",
+      "day" : 23,
+      "url" : "https://qiita.com/ihsoy_23/items/c1b3523f336674f8a648"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Amazon PinpointのPush通知について",
+      "author" : "@honma12345",
+      "day" : 24,
+      "url" : "https://qiita.com/honma12345/items/c61a0f5c87ad7923bbd4"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@yokoyan"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25
+    }
+  ]
+}

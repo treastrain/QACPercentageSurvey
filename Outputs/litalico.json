@@ -1,0 +1,346 @@
+{
+  "created_at" : "2021-12-24T10:09:27Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社LITALICO",
+    "category" : "企業・学校・団体",
+    "lgtm" : 557,
+    "subscribers" : 28,
+    "title" : "LITALICO Engineers Advent Calendar 2021",
+    "participants" : 29,
+    "unique_name" : "litalico",
+    "url" : "https://qiita.com/advent-calendar/2021/litalico"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "今年入社の新卒エンジニアがこの一年間に読んだ技術書15冊を紹介する",
+      "author" : "@mihotoyama",
+      "day" : 1,
+      "url" : "https://qiita.com/mihotoyama/items/26a25624475f41c192bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒エンジニアが身につけた役に立つGoogleWorkspace活用術",
+      "author" : "@shinekobe",
+      "day" : 2,
+      "url" : "https://qiita.com/shinekobe/items/9536ebce03363c4ecc80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモート下でもチームメンバーのことを知れるようカジュアルな1on1を設けている話",
+      "author" : "@tomoki-oke",
+      "day" : 3,
+      "url" : "https://zenn.dev/ok8omk/articles/casual-one-on-one"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Docs APIを使って、索引を作成する",
+      "author" : "@nonsaito",
+      "day" : 4,
+      "url" : "https://qiita.com/nonsaito/items/17a98e83e234fafd590b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "原因不明のエラーをチーム跨いで解決した話",
+      "author" : "@tjinjin",
+      "day" : 5,
+      "url" : "https://qiita.com/tjinjin/items/327cbca953e48cbe4c78"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュリティエンジニアに転職して感じた考え方の違い",
+      "author" : "@_miki_",
+      "day" : 6,
+      "url" : "https://zenn.dev/miki_knitter/articles/c46acf94775820"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームでのPull Requestで心掛けていること",
+      "author" : "@cumet04",
+      "day" : 7,
+      "url" : "https://zenn.dev/cumet04/articles/pullreq-idea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityを「体系的に」学ぶことについて",
+      "author" : "@Butterfly-Dream",
+      "day" : 8,
+      "url" : "https://qiita.com/Butterfly-Dream/items/6ef4503be3777d63b82c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "”オンライン全体会”運営の試行錯誤を振り返る",
+      "author" : "@sayaka_hashi",
+      "day" : 9,
+      "url" : "https://note.com/rai527/n/n00d760c24805"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア研修のメンターとして必要な要素（だと思った）4+1選",
+      "author" : "@yknoguchi",
+      "day" : 10,
+      "url" : "https://qiita.com/yknoguchi/items/a640b4dc28121fda2643"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Githubで己のバージョン管理してみた",
+      "author" : "@bashiiko",
+      "day" : 11,
+      "url" : "https://qiita.com/bashiiko/items/cbf03a483a65bf5bfb22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "37歳のSREエンジニアが、なぜ大学で心理学を学ぶことにしたのか",
+      "author" : "@jumpeiMano",
+      "day" : 12,
+      "url" : "https://zenn.dev/mano0307/articles/1a521bb15a9900"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デプロイなしで簡単！A/Bテスト【Googleオプティマイズで出来ること】",
+      "author" : "@tanakashi",
+      "day" : 13,
+      "url" : "https://qiita.com/tanakashi/items/f107856f76f86d0dcdb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "独自コレクションクラスのすゝめ",
+      "author" : "@tatsuya-fujii-LITALICO",
+      "day" : 14,
+      "url" : "https://qiita.com/tatsuya-fujii-LITALICO/items/213159ea4c59543b12b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "法改正をマイクロサービスで立ち向かう（前編）",
+      "author" : "@katzumi",
+      "day" : 15,
+      "url" : "https://zenn.dev/katzumi/articles/confronting-law-amends-with-microservices"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DialogflowとGoogleHomeを使って筋トレログアプリを作った",
+      "author" : "@YudaiTsukamoto",
+      "day" : 16,
+      "url" : "https://qiita.com/YudaiTsukamoto/items/adfac81cca0911547df8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "丁寧なヒアリングで回避せよ。お客様の満足度を下げないために気をつけること",
+      "author" : "@sakagurachan",
+      "day" : 17,
+      "url" : "https://qiita.com/sakagurachan/items/b8de5905bad7dea3e6a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryで経過年数(満年齢)や経過月数を計算する",
+      "author" : "@ti_aiuto",
+      "day" : 18,
+      "url" : "https://qiita.com/ti_aiuto/items/5d741229e550657257cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "clusterで乗り物機能が追加されたからWheelColliderと仲良くなってみた",
+      "author" : "@sanpeita",
+      "day" : 19,
+      "url" : "https://qiita.com/sanpeita/items/1157698958b8fe445a39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "👑業界未経験からエンジニアになった自分が、やってよかったと思うこと3選👑",
+      "author" : "@Junichi_fukushima",
+      "day" : 20,
+      "url" : "https://qiita.com/Junichi_fukushima/items/b625322ea96b5a921f7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UXデザインの5段階モデルによるシステムデザインとビジネス戦略の作り方",
+      "author" : "@kazuis",
+      "day" : 21,
+      "url" : "https://qiita.com/kazuis/items/a5605811fe4c6268a1cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "成功できる組織にする為、考えた5つの取り組み(チームビルディング)",
+      "author" : "@k_kamon",
+      "day" : 22,
+      "url" : "https://qiita.com/k_kamon/items/788aa3e20b147bb4327f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア向け「言葉のUniversal Design」のすすめ。",
+      "author" : "@umi_mori",
+      "day" : 23,
+      "url" : "https://note.com/umi_mori/n/n08e5cadc53e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "採用プロセスのDX化で採用力の10Xを成し遂げられそうな話",
+      "author" : "@kamesennin",
+      "day" : 24,
+      "url" : "https://qiita.com/kamesennin/items/c5891689578ac5dbf27d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yuyaichihashi"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWSの権限無しでECRからprivateリポジトリをpullしたい",
+      "author" : "@tjinjin",
+      "day" : 1,
+      "url" : "https://cross-black777.hatenablog.com/entry/2021/12/01/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CloudformationからTerraformに移行した話",
+      "author" : "@tjinjin",
+      "day" : 2,
+      "url" : "https://cross-black777.hatenablog.com/entry/2021/12/02/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デプロイチェック用のスクリプトを作った話",
+      "author" : "@tjinjin",
+      "day" : 3,
+      "url" : "https://cross-black777.hatenablog.com/entry/2021/12/03/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "oauth2-proxy + Cognito使ってアクセス制限している話",
+      "author" : "@tjinjin",
+      "day" : 4,
+      "url" : "https://cross-black777.hatenablog.com/entry/2021/12/04/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "パフォーマンス改善の話",
+      "author" : "@tjinjin",
+      "day" : 5,
+      "url" : "https://cross-black777.hatenablog.com/entry/2021/12/05/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【TypeScript入門】型使いの心得",
+      "author" : "@tatsuya-fujii-LITALICO",
+      "day" : 6,
+      "url" : "https://qiita.com/tatsuya-fujii-LITALICO/items/f4e8662873bfcb90a0d8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Pull Requestのセルフレビューでやっていること",
+      "author" : "@cumet04",
+      "day" : 7,
+      "url" : "https://zenn.dev/cumet04/articles/pullreq-selfreview"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Mac標準搭載アプリAutomatorを使って作業時間を短縮しよう！（すぐに使えるレシピ付き）",
+      "author" : "@yknoguchi",
+      "day" : 10,
+      "url" : "https://qiita.com/yknoguchi/items/d344154c58065b60cbee"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "WSLはいいぞ",
+      "author" : "@cumet04",
+      "day" : 14,
+      "url" : "https://zenn.dev/cumet04/articles/wsl-is-pleasant"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "zennでも限定公開がしたい！",
+      "author" : "@cumet04",
+      "day" : 15,
+      "url" : "https://zenn.dev/cumet04/articles/zenn-private-preview"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "正月実家に帰ったらインシデントレスポンスするはめになったおうち情シスのあなたへ",
+      "author" : "@nhnmomonga",
+      "day" : 16,
+      "url" : "https://qiita.com/nhnmomonga/items/d9e10f9a05d638a7565c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "JenkinsからGitHub Actionsへの移行（検討）",
+      "author" : "@i-k",
+      "day" : 17,
+      "url" : "https://qiita.com/i-k/items/7b449859fe7a2d5c435b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[D+IO]かわいいハムスターを見守るIoTシステムをつくった",
+      "author" : "@mihotoyama",
+      "day" : 18,
+      "url" : "https://qiita.com/mihotoyama/items/ad6fd2a788356be8d261"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "M&A成立後、初めの3ヶ月で使えるリバースエンジニアリングの心得",
+      "author" : "@kamesennin",
+      "day" : 19,
+      "url" : "https://qiita.com/kamesennin/items/f0fba963fb896052ee0a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Windows10のマスタイメージ作ってキッティング作業簡略化してみた～③イメージ作成から展開編～",
+      "author" : "@sayazamurai",
+      "day" : 20,
+      "url" : "https://qiita.com/sayazamurai/items/1aabc169ad85fe5d226b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自社のサービスにベイズ統計モデリングを取り入れたいので勉強したこと。",
+      "author" : "@nonsaito",
+      "day" : 21,
+      "url" : "https://qiita.com/nonsaito/items/ded33026f3c409d5dcfa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SQSのメッセージ数に応じてFargateタスクをスケーリングさせる",
+      "author" : "@arashi-su",
+      "day" : 22,
+      "url" : "https://qiita.com/arashi-su/items/2fabcae134686d54ad36"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "点字ブロックを考慮したナビゲーションアプリを作ってみた話",
+      "author" : "@nonsaito",
+      "day" : 23,
+      "url" : "https://qiita.com/nonsaito/items/5d9a007f07777b88b54a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "法改正をマイクロサービスで立ち向かう（後編）",
+      "author" : "@katzumi",
+      "day" : 24,
+      "url" : "https://zenn.dev/katzumi/articles/confronting-law-amends-with-microservices2"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@tjinjin"
+    }
+  ]
+}

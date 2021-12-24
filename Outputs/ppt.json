@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T06:09:44Z",
+  "calendar_meta_data" : {
+    "author" : "パーソルプロセス＆テクノロジー株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 44,
+    "subscribers" : 2,
+    "title" : "PERSOL PROCESS & TECHNOLOGY Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "ppt",
+    "url" : "https://qiita.com/advent-calendar/2021/ppt"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【90分】AzureのAI を活用して野生のシロクマを追跡する",
+      "author" : "@abemaki29",
+      "day" : 1,
+      "url" : "https://qiita.com/abemaki29/items/faee1fbe224878c47fb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Virtual WANを試してみた (前編 ～Azure Virtual WANと仮想Hubの作成～)",
+      "author" : "@hidekko",
+      "day" : 2,
+      "url" : "https://qiita.com/hidekko/items/a2f499c71854900cfa39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Virtual WANを試してみた (後編 ～Azure Virtual HubとYAMAHA RTX1210をインターネットVPNで接続～)",
+      "author" : "@hidekko",
+      "day" : 3,
+      "url" : "https://qiita.com/hidekko/items/397d5cdb4b99421eb84f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "資格試験で全くわかない内容を問われた時に少しでも正答率を上げる方法",
+      "author" : "@hidekko",
+      "day" : 4,
+      "url" : "https://qiita.com/hidekko/items/d7dbbcda618728165f23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自然言語処理の前処理（one-hotから多次元へ）",
+      "author" : "@U-chom2",
+      "day" : 5,
+      "url" : "https://qiita.com/U-chom2/items/82da7c2b79b951bc7d45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure File Sync×プライベートエンドポイントでセキュアな同期環境を構築する",
+      "author" : "@sayuri-miura",
+      "day" : 6,
+      "url" : "https://qiita.com/sayuri-miura/items/2a9e6ceccf82af0efc26"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一度落ちたDA-100の試験に全力で再挑戦した話。　～ Analyzing Data with Microsoft Power BI合格メモ ～",
+      "author" : "@abemaki29",
+      "day" : 7,
+      "url" : "https://qiita.com/abemaki29/items/b24ef5ae79683fb2561c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi 4B でAsteriskを構築し、iPhoneを固定電話の内線にする(～音声通話編～)",
+      "author" : "@hidekko",
+      "day" : 8,
+      "url" : "https://qiita.com/hidekko/items/ddefadc9cc27afe1498f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate DesktopでActive Drectoryに新規ユーザーを作成するフローを構築する。",
+      "author" : "@sayuri-miura",
+      "day" : 9,
+      "url" : "https://qiita.com/sayuri-miura/items/206bc80c151d65655c1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自宅に仮想化基盤を構築してみたときのお話",
+      "author" : "@k_oshima23",
+      "day" : 10,
+      "url" : "https://qiita.com/k_oshima23/items/2d4dd0ef7106e18f42ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フォワードプロキシで守られたNW内でngrokを使用する",
+      "author" : "@mizukyf",
+      "day" : 11,
+      "url" : "https://qiita.com/mizukyf/items/06b9a197a5c8f8fb42d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC2からELBの接続・切り離しをする",
+      "author" : "@k-hamu",
+      "day" : 12,
+      "url" : "https://qiita.com/k-hamu/items/9b9d632fcffdf5a75d08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure MonitorエージェントによるWindows仮想マシンの監視",
+      "author" : "@tsuchiwalk",
+      "day" : 13,
+      "url" : "https://qiita.com/tsuchiwalk/items/301e301b47a8235a2286"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【準備時間5分】JavaScriptを学びつつ戦う！RoboCodeやろうぜ！",
+      "author" : "@abemaki29",
+      "day" : 14,
+      "url" : "https://qiita.com/abemaki29/items/84e3ac3d797ea5a6b263"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RxJSのドキュメントを翻訳しながら英文資料を読む意味を考える",
+      "author" : "@mizukyf",
+      "day" : 15,
+      "url" : "https://qiita.com/mizukyf/items/d3d3784bc5973d9ab64a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure VMでWin11の日本語環境を構築する　＆　おまけ：iPadでWindows11を操作して遊んでみる",
+      "author" : "@abemaki29",
+      "day" : 16,
+      "url" : "https://qiita.com/abemaki29/items/8a2fc1f051fe8098a9da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AzureにおけるIaCの選択について(ARMテンプレート/Bicep/Azure BluePrint)",
+      "author" : "@910nagai",
+      "day" : 17,
+      "url" : "https://cloudsteady.jp/post/51890/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "docker-composeでローカルDBを爆速で構築する",
+      "author" : "@OkahashiKa",
+      "day" : 18,
+      "url" : "https://qiita.com/OkahashiKa/items/3093d8b691113c952560"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RPA関白宣言",
+      "author" : "@cheez_RPA",
+      "day" : 19,
+      "url" : "https://qiita.com/cheez_RPA/items/f6c864c8132fb28c759c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RDS(リモートデスクトップサービス)におけるEdge のプロファイル管理について",
+      "author" : "@y447093040",
+      "day" : 20,
+      "url" : "https://qiita.com/y447093040/items/6875490e3218c3fe5ae1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Virtual NetworkをExpressRouteへ接続・削除する方法",
+      "author" : "@maezato",
+      "day" : 21,
+      "url" : "https://cloudsteady.jp/post/52025/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "財務観点で見るオンプレミス/クラウドシステム導入への影響",
+      "author" : "@katsura401",
+      "day" : 22,
+      "url" : "https://cloudsteady.jp/post/51239/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイルソフトウェア開発宣言と協同組合と私",
+      "author" : "@zakiNS",
+      "day" : 23,
+      "url" : "https://qiita.com/zakiNS/items/a6871aa8a983b231dce5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@iwashi-kun"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tetsuya-ooooo"
+    }
+  ]
+}

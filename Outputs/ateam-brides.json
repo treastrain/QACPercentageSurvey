@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:19:16Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エイチームブライズ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 573,
+    "subscribers" : 11,
+    "title" : "Ateam Brides Inc. Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "ateam-brides",
+    "url" : "https://qiita.com/advent-calendar/2021/ateam-brides"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ITP対策！ServerSide GTMをGAEにデプロイしてGA4の接続の検証もしてみる 〜GAEにデプロイ編〜",
+      "author" : "@takaHAL",
+      "day" : 1,
+      "url" : "https://qiita.com/takaHAL/items/38781b4f7d3f022508f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Serverless Framework の使い方を初心者にも分かりやすく説明する",
+      "author" : "@mkin",
+      "day" : 2,
+      "url" : "https://qiita.com/mkin/items/0a82c84df084496544c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[ITP] Google広告のコンバージョンタグをサーバサイドGTM(ssGTM)で実装する",
+      "author" : "@Shuni",
+      "day" : 3,
+      "url" : "https://qiita.com/Shuni/items/bc4862d4bd9ad6fd0c18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleCloud 認定資格 Professional Cloud Architectを受験してみた",
+      "author" : "@takaHAL",
+      "day" : 4,
+      "url" : "https://qiita.com/takaHAL/items/187ea4cc07e71e744b9e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RasPi 4を使ってコロナ禍でのコミュニケーションを改善してみようとする話",
+      "author" : "@hyshr",
+      "day" : 5,
+      "url" : "https://qiita.com/hyshr/items/6658e4caeba354939030"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceの外部サービスを使ってAWSのLambdaを実行してみる",
+      "author" : "@takaHAL",
+      "day" : 6,
+      "url" : "https://qiita.com/takaHAL/items/3e239477bb0bfba597a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スペシャリストとマネージャーにまつわる誤解3選",
+      "author" : "@rf_p",
+      "day" : 7,
+      "url" : "https://qiita.com/rf_p/items/ddbab94776a288eb55dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ITP対策！ServerSide GTMでGA4の接続の検証してみる",
+      "author" : "@takaHAL",
+      "day" : 8,
+      "url" : "https://qiita.com/takaHAL/items/892a59b84736575c880f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いろんなJavaScriptのテストフレームワークを試してみる！",
+      "author" : "@oekazuma",
+      "day" : 9,
+      "url" : "https://qiita.com/oekazuma/items/2c1f21322782562ed823"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "divやspanでボタンっぽい要素を作ると大変なことになるからbuttonを使おう",
+      "author" : "@xrxoxcxox",
+      "day" : 10,
+      "url" : "https://qiita.com/xrxoxcxox/items/7d06d4f2d861b022767a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "宇宙一かわいいQiitanを作ろう！〜React Lottieで簡単2Dアニメーション〜",
+      "author" : "@naomunaomu",
+      "day" : 11,
+      "url" : "https://qiita.com/naomunaomu/items/0038f8c23fd5175f1205"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "続・RasPi 4を使ってコロナ禍でのコミュニケーションを改善してみようとする話",
+      "author" : "@hyshr",
+      "day" : 12,
+      "url" : "https://qiita.com/hyshr/items/ec9d3194ca163c494241"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[GAS] 語学用のフラッシュカードをスプレッドシートから一括生成する",
+      "author" : "@Shuni",
+      "day" : 13,
+      "url" : "https://qiita.com/Shuni/items/c698afaceef36e259698"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非エンジニアがSalesforceとMetabaseを使って目標管理ダッシュボードを作る",
+      "author" : "@take_m",
+      "day" : 14,
+      "url" : "https://qiita.com/take_m/items/1a42bbe68f58a4ead743"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "不安が多いエンジニアに聞いてほしい成果と成長の話",
+      "author" : "@gonjyu121",
+      "day" : 15,
+      "url" : "https://qiita.com/gonjyu121/items/d2140dc0537bd61f5ee7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文字間調節を感覚で出来ないデザイナーが約4時間、論理的に文字間について追究してみた",
+      "author" : "@ma-ni",
+      "day" : 16,
+      "url" : "https://note.com/kana_sugiyama/n/nfe584942fba6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SvelteKitをローカルのDocker環境で動かすまで",
+      "author" : "@mkin",
+      "day" : 17,
+      "url" : "https://qiita.com/mkin/items/5b4fb2e61cf47fc5f904"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【こだわりTODO】ReactでTODOアプリをちょっとこだわって作ってみた",
+      "author" : "@ttk",
+      "day" : 18,
+      "url" : "https://qiita.com/ttk/items/9a6ec736335c900f816a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SvelteKitで始めるKubenetes（GKE）",
+      "author" : "@mkin",
+      "day" : 19,
+      "url" : "https://qiita.com/mkin/items/fdbcad85bc0b6c04894c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナが体感してわかった「コンポーネント設計×tailwindcss」が神という話",
+      "author" : "@miinm030",
+      "day" : 20,
+      "url" : "https://note.com/miinm030/n/ne02a9a86dfcf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインに興味があるエンジニア向けのTips10選",
+      "author" : "@xrxoxcxox",
+      "day" : 21,
+      "url" : "https://qiita.com/xrxoxcxox/items/95959d1eab5a9483ba9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TeamGeekから学ぶ最強のチーム",
+      "author" : "@t_n1005",
+      "day" : 22,
+      "url" : "https://qiita.com/t_n1005/items/5ba5cb4305b8e695b25d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackで仮想本棚botを作って部署内コミュニケーションを促進したい！",
+      "author" : "@MAB_cx",
+      "day" : 23,
+      "url" : "https://qiita.com/MAB_cx/items/01cc7485319da883648b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "30分でできる！GAS×Slackで毎週しいたけ占いの結果を届けてくれるbotを作ろう",
+      "author" : "@kakakaori830",
+      "day" : 24,
+      "url" : "https://qiita.com/kakakaori830/items/660f0d78435bfd60dcc9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kamatari1377"
+    }
+  ]
+}

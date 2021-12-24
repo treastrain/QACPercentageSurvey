@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T12:28:31Z",
+  "calendar_meta_data" : {
+    "author" : "ランサーズ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 63,
+    "subscribers" : 11,
+    "title" : "Lancers（ランサーズ Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "lancers",
+    "url" : "https://qiita.com/advent-calendar/2021/lancers"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ランサーズのエンジニア組織のこれまでとこれから。エンジニア組織における10人、30人、50人の壁。",
+      "author" : "@terukura",
+      "day" : 1,
+      "url" : "https://engineer.blog.lancers.jp/%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e7%b5%84%e7%b9%94/lancers-organization-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPMD の ExcessiveClassComplexity (過剰なクラスの複雑さ) を解消しよう",
+      "author" : "@mamy1326",
+      "day" : 2,
+      "url" : "https://qiita.com/mamy1326/items/0a98b708b6f5a800973f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CIを待たずにphpcsの検証を自動実行するためのエディタ中立な手法を模索する",
+      "author" : "@isanasan",
+      "day" : 3,
+      "url" : "https://zenn.dev/isana/articles/git-hooks-docker-run-phpcs"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(仮) NextJS モノレポ運用",
+      "author" : "@igara",
+      "day" : 4,
+      "url" : "https://zenn.dev/igara/articles/monorepo_nextjs"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "久しぶりにコマンドのエイリアスに向き合ってみる",
+      "author" : "@yuta-ron",
+      "day" : 5,
+      "url" : "https://qiita.com/yuta-ron/items/924c2c219302f345d216"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CakePHP+jQuery製UIをReactでシンプルにした件",
+      "author" : "@high-g",
+      "day" : 6,
+      "url" : "https://qiita.com/high-g/items/8afd8eaf2ff9438d7d01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React(Storybook, unstated-next)とCakePHPでSPA+API開発",
+      "author" : "@rrih",
+      "day" : 7,
+      "url" : "https://qiita.com/rrih/items/69b135607b01435d752c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サブスクリプション型商品でビジネスインフラの価値が高まっている",
+      "author" : "@m-tsuchiya",
+      "day" : 8,
+      "url" : "https://note.com/mtsuchiya/n/ne1f90f1b60b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CakeFest2021への登壇とその影響について",
+      "author" : "@yKanazawa",
+      "day" : 9,
+      "url" : "https://engineer.blog.lancers.jp/event/cakefest2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今期SREチームの取り組みについて",
+      "author" : "@adachin0817",
+      "day" : 10,
+      "url" : "https://engineer.blog.lancers.jp/sre/2021-sre-goal/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KPTの振り返りと継続的Try",
+      "author" : "@koki0527",
+      "day" : 11,
+      "url" : "https://engineer.blog.lancers.jp/intern/kpt_2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文系大学生からWebエンジニアになった所感",
+      "author" : "@ohashidayoo",
+      "day" : 12,
+      "url" : "https://qiita.com/ohashidayoo/items/aa4c9378bd6e6569fb91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "01のプロダクト開発を振り返ってみる",
+      "author" : "@tatuya44511336",
+      "day" : 13,
+      "url" : "https://engineer.blog.lancers.jp/yomoyama/new_project_roll_back/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPの型と向き合いDXを向上させる",
+      "author" : "@isanasan",
+      "day" : 14,
+      "url" : "https://zenn.dev/isana/articles/php-typehint-for-developer-experience"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報工学を学んだことによる変化",
+      "author" : "@manamin0521",
+      "day" : 15,
+      "url" : "https://zenn.dev/manamin0521/articles/07d9b63e277a4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プライベートと現場",
+      "author" : "@igara",
+      "day" : 16,
+      "url" : "https://igara1119.hatenablog.com/entry/2021/12/15/201848"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "事業成長を加速させるためにフロントエンド環境を最高にする",
+      "author" : "@shirasud",
+      "day" : 17,
+      "url" : "https://shirasud.hatenablog.com/entry/2021/12/17/001019"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パスワード管理にKeePassXCを導入した話",
+      "author" : "@kata_dev",
+      "day" : 18,
+      "url" : "https://engineer.blog.lancers.jp/sre/%e3%83%91%e3%82%b9%e3%83%af%e3%83%bc%e3%83%89%e7%ae%a1%e7%90%86%e3%81%abkeepassxc%e3%82%92%e5%b0%8e%e5%85%a5%e3%81%97%e3%81%9f%e8%a9%b1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "既存データのカテゴリ移行するためにデータセットの作成と機械学習モデルの構築をした話",
+      "author" : "@tomoris",
+      "day" : 19,
+      "url" : "https://engineer.blog.lancers.jp/machine-learning/package-migration/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードリーディングのススメとTips風 〜CakePHP4の例を添えて〜",
+      "author" : "@ktplato",
+      "day" : 20,
+      "url" : "https://qiita.com/ktplato/items/0a2c48e5b6a719dbc294"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "結果を出すプロダクト開発体制の思考錯誤と、プロダクトマネージャー組織の責務とスキル定義",
+      "author" : "@lr_itakura",
+      "day" : 21,
+      "url" : "https://note.com/idemii/n/nde8a3b61d6a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MENTAのアプリ開発を振り返る",
+      "author" : "@naoching7010",
+      "day" : 22,
+      "url" : "https://engineer.blog.lancers.jp/flutter/menta_app_development_look_back/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@sayakob"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者が語るフレームワークの違いと魅力　~CakePHPとLaravel~",
+      "author" : "@sazanami5",
+      "day" : 24,
+      "url" : "https://qiita.com/sazanami5/items/06e47d667a912ddc98ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@sonetty"
+    }
+  ]
+}

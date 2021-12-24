@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T02:09:06Z",
+  "calendar_meta_data" : {
+    "author" : "@masahata",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 7,
+    "subscribers" : 7,
+    "title" : "ひとりでkubernetesを中心に Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "kaisendon",
+    "url" : "https://qiita.com/advent-calendar/2021/kaisendon"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "[EKS] kubectlを高速化する",
+      "author" : "@masahata",
+      "day" : 1,
+      "url" : "https://qiita.com/masahata/items/e76ed2c91eeaa095d7c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Loki] docker/cri両用config",
+      "author" : "@masahata",
+      "day" : 2,
+      "url" : "https://qiita.com/masahata/items/06baf707811a4012294a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "（k8s向け）Grafanaで踏み台経由のDB接続",
+      "author" : "@masahata",
+      "day" : 3,
+      "url" : "https://qiita.com/masahata/items/b9fa249312c5b0634a02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[EKS] 起動しているpodの数とサブネットのIP消費が見合わない",
+      "author" : "@masahata",
+      "day" : 4,
+      "url" : "https://qiita.com/masahata/items/60c5d3368381f6300e56"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[EKS] configmap/aws-authを保護したかった",
+      "author" : "@masahata",
+      "day" : 5,
+      "url" : "https://qiita.com/masahata/items/23b3d74166a1fc08d3ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "prometheusのストレージにNFSを使ってはいけない",
+      "author" : "@masahata",
+      "day" : 6,
+      "url" : "https://qiita.com/masahata/items/200369a75047800381a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[k8s] コンテナに身に覚えのない環境変数が設定されている…！",
+      "author" : "@masahata",
+      "day" : 7,
+      "url" : "https://qiita.com/masahata/items/3d22cc971b00b90e1248"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[k8s] secretでstringDataを使う時の注意",
+      "author" : "@masahata",
+      "day" : 8,
+      "url" : "https://qiita.com/masahata/items/8c4830b703c3c347a9be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[k8s] 問題が起きたpodを（雑に）隔離する",
+      "author" : "@masahata",
+      "day" : 9,
+      "url" : "https://qiita.com/masahata/items/e3550f81bf423e3a888b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "肛門のSLI/SLOを定義する",
+      "author" : "@masahata",
+      "day" : 10,
+      "url" : "https://qiita.com/masahata/items/4b2007faa010cf8e8f8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[k8s] 意外な原因でdnsのパフォーマンス障害になってしまった時の記録",
+      "author" : "@masahata",
+      "day" : 11,
+      "url" : "https://qiita.com/masahata/items/528c074c219f12fec2cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "prometheus-adapterの設定を完全理解したい",
+      "author" : "@masahata",
+      "day" : 12,
+      "url" : "https://qiita.com/masahata/items/062a2ee5762b108e8850"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ALBのログを集計してprometheusのメトリクスにする",
+      "author" : "@masahata",
+      "day" : 13,
+      "url" : "https://qiita.com/masahata/items/0c4a4276d4e54d17f95b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EKSアドオンが管理するリソース（2021/12/15時点）",
+      "author" : "@masahata",
+      "day" : 14,
+      "url" : "https://qiita.com/masahata/items/ba88d0f9c26b1c2bf6f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナ環境でのIMDSv2使用上の注意",
+      "author" : "@masahata",
+      "day" : 15,
+      "url" : "https://qiita.com/masahata/items/fd00426f13185efde3ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kubernetes環境でlokiがログを保存し損ねるケース",
+      "author" : "@masahata",
+      "day" : 16,
+      "url" : "https://qiita.com/masahata/items/433ce9b0b4852f2b6dad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kubernetesでphpを動かすパターン",
+      "author" : "@masahata",
+      "day" : 17,
+      "url" : "https://qiita.com/masahata/items/71a60ca3b755d34f91d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kubernetes immutable fieldsを探す",
+      "author" : "@masahata",
+      "day" : 18,
+      "url" : "https://qiita.com/masahata/items/c4f41c16f646786c7c21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArgoCDで差分が無視されるパターン、その他tips",
+      "author" : "@masahata",
+      "day" : 19,
+      "url" : "https://qiita.com/masahata/items/e22b0d30b77251b941d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "php-fpmのliveness/readiness設定",
+      "author" : "@masahata",
+      "day" : 20,
+      "url" : "https://qiita.com/masahata/items/4917de65db203921b86e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "demo.localdev.meとは何者か",
+      "author" : "@masahata",
+      "day" : 21,
+      "url" : "https://qiita.com/masahata/items/89b2be02ee36b82cfced"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kubernetes環境でcgroupOOMを検出してpodやコンテナと繋げる",
+      "author" : "@masahata",
+      "day" : 22,
+      "url" : "https://qiita.com/masahata/items/7c0cfab398d10471e6fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "containerPortなんて飾りです",
+      "author" : "@masahata",
+      "day" : 23,
+      "url" : "https://qiita.com/masahata/items/f3792d4ee06b42376cbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@masahata"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@masahata"
+    }
+  ]
+}

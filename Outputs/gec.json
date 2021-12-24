@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T07:01:45Z",
+  "calendar_meta_data" : {
+    "author" : "@gotutiyan",
+    "category" : "学術",
+    "lgtm" : 55,
+    "subscribers" : 10,
+    "title" : "GEC (Grammatical Error Correction) Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "gec",
+    "url" : "https://qiita.com/advent-calendar/2021/gec"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "トップカンファレンス採択論文数から紐解くGEC研究に強みを持つ組織",
+      "author" : "@chemical_tree",
+      "day" : 1,
+      "url" : "https://qiita.com/chemical_tree/items/7bb2c8271416018b8225"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "語学学習支援のための言語処理",
+      "author" : "@mamorlis",
+      "day" : 2,
+      "url" : "https://qiita.com/mamorlis/items/eee0ff0afec15e14b6b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GEC 十年一日",
+      "author" : "@mamorlis",
+      "day" : 3,
+      "url" : "https://qiita.com/mamorlis/items/5e182bd0950f5cf52bf9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GEC に関するブックマーク",
+      "author" : "@mamorlis",
+      "day" : 4,
+      "url" : "https://qiita.com/mamorlis/items/379073b8cb562e66441b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TEC-JL コーパス",
+      "author" : "@mamorlis",
+      "day" : 5,
+      "url" : "https://qiita.com/mamorlis/items/59befe0815bef99da4b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "中国語 GEC",
+      "author" : "@mamorlis",
+      "day" : 6,
+      "url" : "https://qiita.com/mamorlis/items/4a6b0948c7f626a5bdcb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GECの情報源",
+      "author" : "@gotutiyan",
+      "day" : 7,
+      "url" : "https://gotutiyan.hatenablog.com/entry/2021/12/07/111011"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EDCW ワークショップ",
+      "author" : "@mamorlis",
+      "day" : 8,
+      "url" : "https://qiita.com/mamorlis/items/94b28b13b48f0eef0110"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gramformerを動かしてみた",
+      "author" : "@gotutiyan",
+      "day" : 9,
+      "url" : "https://gotutiyan.hatenablog.com/entry/2021/12/09/121409"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NAIST 誤用コーパス",
+      "author" : "@mamorlis",
+      "day" : 10,
+      "url" : "https://qiita.com/mamorlis/items/516f48b0e53df61be2df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GECの論文紹介：EMNLP2021",
+      "author" : "@gotutiyan",
+      "day" : 11,
+      "url" : "https://gotutiyan.hatenablog.com/entry/2021/12/11/122949"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GECのLow recall問題に迫る",
+      "author" : "@chemical_tree",
+      "day" : 12,
+      "url" : "https://qiita.com/chemical_tree/items/630a92c8f7d5cc91224b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文法誤り訂正の評価ツール ERRANT の使い方 ",
+      "author" : "@youichiro",
+      "day" : 13,
+      "url" : "https://qiita.com/youichiro/items/10062277814890e24658"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英独文法誤り訂正と機械翻訳の同時学習をする（本当は中間言語を再現したかった）話",
+      "author" : "@nymwa",
+      "day" : 14,
+      "url" : "https://qiita.com/nymwa/items/e743a7d4699628bdf2ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語・日本語・中国語以外の言語のGEC",
+      "author" : "@gori-san",
+      "day" : 15,
+      "url" : "https://qiita.com/gori-san/items/116b7b67154d20761e49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GECのタスク説明はなぜ難しいのか",
+      "author" : "@chemical_tree",
+      "day" : 16,
+      "url" : "https://qiita.com/chemical_tree/items/33d409548f7e11728da7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GECモデルを学習，推論と評価できるようになる",
+      "author" : "@MasahiroKaneko_",
+      "day" : 17,
+      "url" : "https://masahiro-kaneko.com/2021/12/17/research_gec_tutorial/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "評価手法としてではない評価手法",
+      "author" : "@gotutiyan",
+      "day" : 18,
+      "url" : "https://gotutiyan.hatenablog.com/entry/2021/12/18/123008"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Grammarlyのベンチマーキング",
+      "author" : "@chemical_tree",
+      "day" : 19,
+      "url" : "https://qiita.com/chemical_tree/items/495c9d8fe789f73afe29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像を用いた語学学習支援",
+      "author" : "@misogil0116",
+      "day" : 20,
+      "url" : "https://qiita.com/misogil0116/items/040b4e39fd2fc495fa81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GECで修士卒業した人間が就職して思ういくつかのこと",
+      "author" : "@Katsumata420",
+      "day" : 21,
+      "url" : "https://eskaylog.com/2021/12/21/gec.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文法誤り訂正の可視化ツールを作ってみた",
+      "author" : "@gotutiyan",
+      "day" : 22,
+      "url" : "https://gotutiyan.hatenablog.com/entry/2021/12/22/103342"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GECと教育データマイニング",
+      "author" : "@yoehara",
+      "day" : 23,
+      "url" : "https://qiita.com/yoehara/items/a15fb9ed2674ffda698c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@mamorlis"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@chemical_tree"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "created_at" : "2021-12-24T04:24:27Z",
+  "calendar_meta_data" : {
+    "author" : "@tyshgc",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "Framer Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "framer",
+    "url" : "https://qiita.com/advent-calendar/2021/framer"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #1 - やることきめてFramerの準備する",
+      "author" : "@tyshgc",
+      "day" : 1,
+      "url" : "https://zenn.dev/tyshgc/articles/b70ee46f5fcecd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #2 - Frameをつかう",
+      "author" : "@tyshgc",
+      "day" : 2,
+      "url" : "https://zenn.dev/tyshgc/articles/9758d454ff9f3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #2 - Textのプロパティ",
+      "author" : "@tyshgc",
+      "day" : 3,
+      "url" : "https://zenn.dev/tyshgc/articles/ec3200139aac81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #4 - Stackの説明",
+      "author" : "@tyshgc",
+      "day" : 4,
+      "url" : "https://zenn.dev/tyshgc/articles/6e0e0ea7952fe0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #5 - Textの調整とStackでレイアウト",
+      "author" : "@tyshgc",
+      "day" : 5,
+      "url" : "https://zenn.dev/tyshgc/articles/6602dc385a19a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #6 - Stackに子要素を差し込む",
+      "author" : "@tyshgc",
+      "day" : 6,
+      "url" : "https://zenn.dev/tyshgc/articles/312dfc0d764a0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #7 - 画面を増やして遷移してみる",
+      "author" : "@tyshgc",
+      "day" : 7,
+      "url" : "https://zenn.dev/tyshgc/articles/e2c8c36e9479e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #8 - スクロールと固定レイアウト",
+      "author" : "@tyshgc",
+      "day" : 8,
+      "url" : "https://zenn.dev/tyshgc/articles/4ae2b1bb02a6bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Framer + RemixでWebサイトをつくる #9 - トップナビゲーションバーとドロワーメニューをつくる",
+      "author" : "@tyshgc",
+      "day" : 9,
+      "url" : "https://zenn.dev/tyshgc/articles/c26c66d63ad271"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@tyshgc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@tyshgc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@tyshgc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@tyshgc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T07:26:07Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社マイクロアド",
+    "category" : "企業・学校・団体",
+    "lgtm" : 114,
+    "subscribers" : 3,
+    "title" : "MicroAd (マイクロアド) Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "microad",
+    "url" : "https://qiita.com/advent-calendar/2021/microad"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Cats の関数覚え書き(Functor, Apply, Applicative, FlatMap)",
+      "author" : "@nozomitaguchi",
+      "day" : 1,
+      "url" : "https://qiita.com/nozomitaguchi/items/24ab70f921f1e013d49b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaからC言語を呼び出す",
+      "author" : "@tobita_yoshiki",
+      "day" : 2,
+      "url" : "https://qiita.com/tobita_yoshiki/items/0400f7e393fc0ba2d0cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tempo Timesheets を使った間接業務管理",
+      "author" : "@cemaimai",
+      "day" : 3,
+      "url" : "https://qiita.com/cemaimai/items/caa5237936f76f479fb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaからRustを呼び出す",
+      "author" : "@tobita_yoshiki",
+      "day" : 4,
+      "url" : "https://qiita.com/tobita_yoshiki/items/74493400bbede2e5d436"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CIOpsでGrafanaダッシュボードを運用していく",
+      "author" : "@yassan168",
+      "day" : 5,
+      "url" : "https://yassan.hatenablog.jp/entry/advent-calendar-1205"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECDSA鍵暗号の作成と検証（openssl、cryptographyを利用）",
+      "author" : "@taka_maenishi",
+      "day" : 6,
+      "url" : "https://qiita.com/taka_maenishi/items/60d2c79752cc4842bd37"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "facebook Graph API を使ってworkplaceのグループチャットに添付ファイルを送信する",
+      "author" : "@mtakagi555",
+      "day" : 7,
+      "url" : "https://qiita.com/mtakagi555/items/ef3bda8f76624d67a4c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cats の関数覚え書き(ApplicativeError, MonadError)",
+      "author" : "@nozomitaguchi",
+      "day" : 8,
+      "url" : "https://qiita.com/nozomitaguchi/items/a74d9bfe67ae63530222"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React-Router v6 新しいuseNavigateでのページ遷移のやり方",
+      "author" : "@apollo_program",
+      "day" : 9,
+      "url" : "https://qiita.com/apollo_program/items/53e733c400ee266289b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VS CodeからREST APIを実行してConfluenceライセンスを付与する",
+      "author" : "@cemaimai",
+      "day" : 10,
+      "url" : "https://qiita.com/cemaimai/items/fc41af27915988841f97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Redis ClusterをDockerで試す",
+      "author" : "@bosq",
+      "day" : 11,
+      "url" : "https://qiita.com/bosq/items/9ed0b6a3d8ea71d3d21a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker(-compose) 同一pathにmountをする設定を複数書いたときの挙動",
+      "author" : "@ken1998",
+      "day" : 12,
+      "url" : "https://qiita.com/ken1998/items/edd7c3f1bc6ce6febb56"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人的に利用しているBashの機能紹介 ",
+      "author" : "@bosq",
+      "day" : 13,
+      "url" : "https://qiita.com/bosq/items/b2873a294a59e4262867"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenStackでneutron-calicoを使ってみた",
+      "author" : "@kthada",
+      "day" : 14,
+      "url" : "https://qiita.com/kthada/items/b419e1ce378c9ab9705b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cats の関数覚え書き(Semigroup, Monoid)",
+      "author" : "@nozomitaguchi",
+      "day" : 15,
+      "url" : "https://qiita.com/nozomitaguchi/items/b65d9720242bd43ebcaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scalaのfor内包表記の変換結果を確認する",
+      "author" : "@tobita_yoshiki",
+      "day" : 16,
+      "url" : "https://qiita.com/tobita_yoshiki/items/8bfc8c7fcb98d5f1f690"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python WSGIでマルチバイト文字が含まれるURLをリダイレクトしたらエラーが出る",
+      "author" : "@dagamun",
+      "day" : 17,
+      "url" : "https://qiita.com/dagamun/items/6e2407b8028b6c6b9997"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで辞書から引数を自動的に抽出する",
+      "author" : "@oba_atsushi",
+      "day" : 18,
+      "url" : "https://qiita.com/oba_atsushi/items/660fccdda9254c3d55c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React hooksでapiなどの非同期処理(async/await)を実施する方法と注意点",
+      "author" : "@apollo_program",
+      "day" : 19,
+      "url" : "https://qiita.com/apollo_program/items/01fa3c4621155f64f930"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWXサーバの外からansibleでジョブを実行する",
+      "author" : "@yassan168",
+      "day" : 20,
+      "url" : "https://yassan.hatenablog.jp/entry/advent-calendar-1220-microad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python 比較演算子 'is' を使ったときの意外な落とし穴",
+      "author" : "@realyutanemoto",
+      "day" : 21,
+      "url" : "https://qiita.com/realyutanemoto/items/919c10d28d6b4f83de97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cats の関数覚え書き(Foldable, Reducible, Traverse, TraverseFilter)",
+      "author" : "@nozomitaguchi",
+      "day" : 22,
+      "url" : "https://qiita.com/nozomitaguchi/items/7e8da5f2d7439a140d65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HDFS上に配置したcsv/tsvファイルのTimestampカラムを読み込む方法",
+      "author" : "@jeta_taka",
+      "day" : 23,
+      "url" : "https://qiita.com/jeta_taka/items/303b82bea8280f29e4ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サンタクロースを救いたい🎅🏻 vol.1",
+      "author" : "@pingu",
+      "day" : 24,
+      "url" : "https://qiita.com/pingu/items/d629ae3e7334f129a520"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@perceptron01"
+    }
+  ]
+}

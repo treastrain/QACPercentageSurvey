@@ -1,0 +1,282 @@
+{
+  "created_at" : "2021-12-24T10:08:22Z",
+  "calendar_meta_data" : {
+    "author" : "@uikou",
+    "category" : "プレゼント",
+    "lgtm" : 126,
+    "subscribers" : 54,
+    "title" : "祝 .NET 6 GA！.NET 6 での開発 Tips や試してみたことなど、あなたの「いち推し」ポイントを教えてください【PR】日本マイクロソフト Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "microsoft",
+    "url" : "https://qiita.com/advent-calendar/2021/microsoft"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET Tutorial - Hello World in 5 minutes から取り組みはじめてみました -- .NET 💜 Azure (2021/12/01)",
+      "author" : "@torifukukaiou",
+      "day" : 1,
+      "url" : "https://qiita.com/torifukukaiou/items/107cd5a32d0e1a78da1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET6 が起動するまでのコードを追ってみよう",
+      "author" : "@up-hash",
+      "day" : 2,
+      "url" : "https://qiita.com/up-hash/items/87e98261bb026298f207"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET6のSystem.Text.Jsonでレスポンスのモデルクラスを作る手間をラクできるかな？",
+      "author" : "@nao-a",
+      "day" : 3,
+      "url" : "https://qiita.com/nao-a/items/f238a8396ff4aae56eea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssemblyのAOTコンパイルによる高速化とAzure Static Web Appsへのデプロイ",
+      "author" : "@kaorumori",
+      "day" : 4,
+      "url" : "https://qiita.com/kaorumori/items/88d836fab1fcbbbb7114"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET6でHTTP/3を扱ってみる",
+      "author" : "@nao-a",
+      "day" : 5,
+      "url" : "https://qiita.com/nao-a/items/15de66d1d05146a04506"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET6でできることをサンプルを交えて",
+      "author" : "@yakumomo",
+      "day" : 6,
+      "url" : "https://qiita.com/yakumomo/items/435632132ab898c605ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MAUIのBuild your first appをやってみました （2021/12/07）",
+      "author" : "@torifukukaiou",
+      "day" : 7,
+      "url" : "https://qiita.com/torifukukaiou/items/cefebdcfccdeee67d151"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Xamarin.Froms プロジェクトを .NET6 へアップグレードする",
+      "author" : "@proudust",
+      "day" : 8,
+      "url" : "https://zenn.dev/proudust/articles/2021-12-12-xamarin-upgrade-to-dotnet6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dotnet-6.0におけるNativeAOTについて",
+      "author" : "@yaju",
+      "day" : 9,
+      "url" : "https://qiita.com/yaju/items/d5a771f3f00672aa19ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET 6 の C# 10 を今すぐ REPL で試す",
+      "author" : "@advanceboy",
+      "day" : 10,
+      "url" : "https://qiita.com/advanceboy/items/03f347cd773934fda8d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET MAUI Blazor App - モバイル、デスクトップ、Web ハイブリッドアプリを開発",
+      "author" : "@shosuz",
+      "day" : 11,
+      "url" : "https://qiita.com/shosuz/items/4218af93343e5cc999ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NativeMemoryArray - .NET 6 APIをフル活用した2GB超えの巨大データを扱うライブラリ",
+      "author" : "@neuecc",
+      "day" : 12,
+      "url" : "https://neue.cc/2021/12/22.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET6のFile IO改善はLinux&macでも改善されているか検証してみた",
+      "author" : "@KuriharaJun",
+      "day" : 13,
+      "url" : "https://qiita.com/KuriharaJun/items/5bab044c4b02dec2da3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メモリ確保ベンチマーク on .NET6",
+      "author" : "@ikorin24",
+      "day" : 14,
+      "url" : "https://ikorin2.hatenablog.jp/entry/2021/12/20/225208"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナ環境でのデータベースマイグレーション",
+      "author" : "@karuakun",
+      "day" : 15,
+      "url" : "https://qiita.com/karuakun/items/6dc22d2cdbbb43c024e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@kannkyo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "System.Text.Jsonソースジェネレーターパフォーマンス調査",
+      "author" : "@skitoy4321",
+      "day" : 17,
+      "url" : "https://qiita.com/skitoy4321/items/727ae10a2bc5a54404d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "右往左往しながら何とかMAUIを起動できてワクワクした話！",
+      "author" : "@Ooooooomin_365",
+      "day" : 18,
+      "url" : "https://qiita.com/Ooooooomin_365/items/f474e1fd6727d7c512e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor ComponentsをJavaScriptからインスタンス化出来る機能のサンプルコードを追って拡張してみよう",
+      "author" : "@yamachu",
+      "day" : 19,
+      "url" : "https://qiita.com/yamachu/items/7fcf645cfdc995990cce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET6.0でのLINQの改善や新しいAPIを紹介",
+      "author" : "@shun-shun123",
+      "day" : 20,
+      "url" : "https://qiita.com/shun-shun123/items/235cf61ae03d402f46ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET 6 がLTS(Long-term Support)にふさわしい理由",
+      "author" : "@proprogrammer0",
+      "day" : 21,
+      "url" : "https://qiita.com/proprogrammer0/items/0f828266e710eea86e09"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@devneko0510"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C# 機能別】知らん書き方が出てきたらこれを見ろ！C# 10 までの進化を1ページで",
+      "author" : "@oika",
+      "day" : 23,
+      "url" : "https://oita.oika.me/2021/12/23/csharp-10-history"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Kujiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Pig"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "created_at" : "2021-12-24T11:54:30Z",
+  "calendar_meta_data" : {
+    "author" : "@tnaoto",
+    "category" : "企業・学校・団体",
+    "lgtm" : 50,
+    "subscribers" : 21,
+    "title" : "FUJITSU Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "fujitsu",
+    "url" : "https://qiita.com/advent-calendar/2021/fujitsu"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "素因数分解入門：3.1 試し割り法 - 処理の内容",
+      "author" : "@izutetsuya",
+      "day" : 1,
+      "url" : "https://qiita.com/izutetsuya/items/56b70bbf2bb394c6cbf6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco Secure Dynamic Attributes Connector (CSDAC) を使ってみた",
+      "author" : "@HMASAYUKI",
+      "day" : 2,
+      "url" : "https://qiita.com/HMASAYUKI/items/3ae67b1119c93ad67973"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NSAでCKSを学ぶ：アメリカ国家安全保局が推すセキュアなKubernetesクラスタのすゝめ",
+      "author" : "@nekia",
+      "day" : 3,
+      "url" : "https://qiita.com/nekia/items/b7de3e50ced1f593d42b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vegaでアドベントカレンダー",
+      "author" : "@ihgs",
+      "day" : 5,
+      "url" : "https://qiita.com/ihgs/items/7e553de1d6b741df8ab3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stack で mruby を動かしてみた",
+      "author" : "@GORO_Neko",
+      "day" : 9,
+      "url" : "https://qiita.com/GORO_Neko/items/5e71e1e34e2f3d7b2f31"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webでサイバー感を出す要素",
+      "author" : "@msquare33",
+      "day" : 11,
+      "url" : "https://qiita.com/msquare33/items/b113d352600300135f35"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プルリクレビュー時に使用している自作GitHub Actionsの紹介",
+      "author" : "@sushichop",
+      "day" : 13,
+      "url" : "https://qiita.com/sushichop/items/6effe4481b2439a3a73a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットワーク侵入検知システム向けOSSを公開しました",
+      "author" : "@f-aisec-team",
+      "day" : 14,
+      "url" : "https://blog.fltech.dev/entry/2021/12/14/psykoda-oss-for-network-ids-alert-screening"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi & Webex messagingを使って無線LANを監視&通知してみた",
+      "author" : "@ayoshiki",
+      "day" : 15,
+      "url" : "https://qiita.com/ayoshiki/items/e963420383278dcd5ae6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットワークスペシャリスト試験（ネスペ）の受験記録",
+      "author" : "@u_hato",
+      "day" : 16,
+      "url" : "https://qiita.com/u_hato/items/3ae4f8371aa221016e40"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "decimal型があるからCOBOLもう要らんやろ、という件について（あるいは十進演算の話）",
+      "author" : "@ipponshimeji",
+      "day" : 17,
+      "url" : "https://qiita.com/ipponshimeji/items/a89038c58b9466a497ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Horovod in Dockerで(Proxy環境上に)分散学習環境を構築してみた",
+      "author" : "@y-vectorfield",
+      "day" : 18,
+      "url" : "https://qiita.com/y-vectorfield/items/ef3bec8602792f907042"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元Linux系開発者がPowerShellはじめて面白かったこと",
+      "author" : "@n_osa",
+      "day" : 19,
+      "url" : "https://qiita.com/n_osa/items/b60c8fd097f4ee16685c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lessons learned from merging Mattermost instances",
+      "author" : "@kaakaa_hoe",
+      "day" : 20,
+      "url" : "https://zenn.dev/kaakaa/articles/mattermost-merge-instances"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "perf-statによるPMCトレース",
+      "author" : "@joule",
+      "day" : 21,
+      "url" : "https://qiita.com/joule/items/65e3eb762a333ed2edc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@tnaoto"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PlantUMLでWebの3層構造を描く、失敗例を交えながら",
+      "author" : "@shiracamus",
+      "day" : 23,
+      "url" : "https://qiita.com/shiracamus/items/5ee681c3675c5e981bc1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(作業中) KubernetesのPodからDAOSを触れるようにした",
+      "author" : "@tkokamo",
+      "day" : 24,
+      "url" : "https://qiita.com/tkokamo/items/44324307cf6fa1ee2d83"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@YasunoriGoto1"
+    }
+  ]
+}

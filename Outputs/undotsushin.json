@@ -1,0 +1,152 @@
+{
+  "created_at" : "2021-12-24T12:26:25Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社運動通信社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 70,
+    "subscribers" : 4,
+    "title" : "運動通信社 AdventCalendar 2021 Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "undotsushin",
+    "url" : "https://qiita.com/advent-calendar/2021/undotsushin"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel PJに値オブジェクトを導入してちょっと幸せになった話",
+      "author" : "@enuswi",
+      "day" : 1,
+      "url" : "https://qiita.com/enuswi/items/be26e15325c990c874d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自社サービスで開発をするということ（元SESの感想）",
+      "author" : "@AKITO-927",
+      "day" : 2,
+      "url" : "https://qiita.com/AKITO-927/items/ca8c27000adba7070a51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Github Actionsを用いてAPI定義書のコード管理をしたらちょっと幸せになった話",
+      "author" : "@enuswi",
+      "day" : 3,
+      "url" : "https://qiita.com/enuswi/items/d52055a23425e99cc964"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内勉強会での学びと「委譲・継承」 - Kotlinイン・アクション篇",
+      "author" : "@enuswi",
+      "day" : 4,
+      "url" : "https://qiita.com/enuswi/items/1d1cb092f2883fce17e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptで簡易な定数のグルーピング（ちょっとしたリファクタリングの話）",
+      "author" : "@take8",
+      "day" : 5,
+      "url" : "https://qiita.com/take8/items/fd9be242553cf6662013"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【neo4j】グラフデータベースを触ってみる",
+      "author" : "@kznr-sny",
+      "day" : 6,
+      "url" : "https://qiita.com/kznr-sny/items/d994a261926bcd779e73"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大量の画像を一斉にリネームする方法",
+      "author" : "@gupoooo",
+      "day" : 7,
+      "url" : "https://qiita.com/gupoooo/items/e48d5d401a23231af6bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitホスティングサービスをGitHubに移行したお話",
+      "author" : "@Keisuke777",
+      "day" : 10,
+      "url" : "https://qiita.com/Keisuke777/items/c4d734650d96acadc1af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SchemaSpyでデータベースのビジュアライズ化をしてみる（お試し篇）",
+      "author" : "@enuswi",
+      "day" : 11,
+      "url" : "https://qiita.com/enuswi/items/be5982f7ff02d88547b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SchemaSpyで生成したドキュメントを眺めてみる",
+      "author" : "@enuswi",
+      "day" : 12,
+      "url" : "https://qiita.com/enuswi/items/5a88651ded98229ec244"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Galaxy Z Fold3が気になったので調べてみた",
+      "author" : "@TeruhiroMatsukawa",
+      "day" : 13,
+      "url" : "https://qiita.com/TeruhiroMatsukawa/items/cabff58ccb8bc8b81c1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPの遅延静的束縛 〜継承と委譲を添えて〜",
+      "author" : "@AKITO-927",
+      "day" : 15,
+      "url" : "https://qiita.com/AKITO-927/items/0ba2c2272981f9cedff9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@take8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

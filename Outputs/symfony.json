@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T13:43:57Z",
+  "calendar_meta_data" : {
+    "author" : "@77web@github",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 7,
+    "subscribers" : 16,
+    "title" : "Symfony Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "symfony",
+    "url" : "https://qiita.com/advent-calendar/2021/symfony"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "12/9-12/10 Symfony World Online 2021 Winter Editionが開催されます！",
+      "author" : "@77web@github",
+      "day" : 1,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/01/symfony-world-2021-winter/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Symfony][Doctrine] 論理削除と変更履歴とDBのビューを駆使して複雑な集計ロジックをシンプルなアプリケーションコードで実装した例",
+      "author" : "@ttskch",
+      "day" : 2,
+      "url" : "https://blog.ttskch.com/symfony-doctrine-soft-delete-change-log-mysql-view/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Symfony][Doctrine] UniqueEntity制約はpersistしただけの既存エンティティとの重複は検出してくれないので工夫が必要",
+      "author" : "@ttskch",
+      "day" : 3,
+      "url" : "https://blog.ttskch.com/symfony-doctrine-unique-entity-for-only-persisted-entities/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP8.1でSymfony6のEnumTypeを使って遊んでみた",
+      "author" : "@77web@github",
+      "day" : 4,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/04/have-fun-with-enum-type-of-symfony6-on-php8.1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Symfony] 再利用可能なバンドルを機能テストする方法（2021年版）",
+      "author" : "@ttskch",
+      "day" : 5,
+      "url" : "https://blog.ttskch.com/functional-testing-for-reusable-bundles-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EntityManagerによるデータのDB永続化はSymfonyの最推しポイント",
+      "author" : "@ippey_s",
+      "day" : 6,
+      "url" : "https://qiita.com/ippey_s/items/be50ff0294837b8f8b1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfonyはmakeコマンドだけでこんなことできちゃいます。",
+      "author" : "@kin29ma_n",
+      "day" : 7,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/07/symfony-play-maker-bundle/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfony でのテストのあれこれ - 公式を読むべきという学び",
+      "author" : "@martini3oz",
+      "day" : 8,
+      "url" : "https://qiita.com/martini3oz/items/6f16f26ef039ab5ef987"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfony5.0以降でのMessengerの改善ポイントまとめ",
+      "author" : "@77web@github",
+      "day" : 9,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/09/symfony5-messenger-improvements/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Symfony] Securityアノテーションを使って複雑な権限チェックを行う",
+      "author" : "@ttskch",
+      "day" : 10,
+      "url" : "https://blog.ttskch.com/symfony-security-annotation-with-expression-language/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアじゃなくたって現在時刻を自由自在に操ってテストがしたいよ〜〜 with Symfony",
+      "author" : "@kalibora",
+      "day" : 11,
+      "url" : "https://engineering.otobank.co.jp/entry/2021/12/11/091909"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SymfonyUX(v1)でchart.jsのプラグインをつかう",
+      "author" : "@77web@github",
+      "day" : 12,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/12/symfony-ux-chartjs-plugin/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Symfony][Doctrine] エンティティを自前でJsonSerializableにするときはプロパティの循環参照に要注意",
+      "author" : "@ttskch",
+      "day" : 13,
+      "url" : "https://blog.ttskch.com/symfony-doctrine-json-serializable-entity-with-recursive-reference/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfonyで開発時に使いたいコードを分離する",
+      "author" : "@polidog",
+      "day" : 14,
+      "url" : "https://polidog.jp/2021/12/14/sf-dev-files/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SymfonyUX Turbo使ってみた",
+      "author" : "@77web@github",
+      "day" : 15,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/15/symfony-ux-turbo/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Symfony][Doctrine] エンティティの特定のプロパティが変更されているかどうかを調べる",
+      "author" : "@ttskch",
+      "day" : 16,
+      "url" : "https://blog.ttskch.com/symfony-doctrine-change-detector/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfony5のDeprecated",
+      "author" : "@kin29ma_n",
+      "day" : 17,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/17/symfony5-deprecated/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfonyのパスポート",
+      "author" : "@ippey_s",
+      "day" : 18,
+      "url" : "https://qiita.com/ippey_s/items/417812e393322f378ae2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfony PassportでFirebase Authentication認証を使う",
+      "author" : "@polidog",
+      "day" : 19,
+      "url" : "https://polidog.jp/2021/12/19/sf-firebase/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "zenstruck/foundryを使ってみる",
+      "author" : "@77web@github",
+      "day" : 20,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/20/foundry-the-new-fixtures-for-functional-testing/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "symfony/consoleを使えばCLIツールが超簡単に作れる！",
+      "author" : "@ttskch",
+      "day" : 21,
+      "url" : "https://blog.ttskch.com/making-cli-tools-with-symfony-console/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HalJsonResponseBundleを作ってみている話",
+      "author" : "@chanshige",
+      "day" : 22,
+      "url" : "https://chanshige.hatenablog.com/entry/2021/12/22/213433"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfony版Livewireこと、Live Componentさん",
+      "author" : "@ippey_s",
+      "day" : 23,
+      "url" : "https://qiita.com/ippey_s/items/0766880c185a2bca7b1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Symfony + API PlatformでGraphQL APIを実装する方法",
+      "author" : "@ttskch",
+      "day" : 24,
+      "url" : "https://blog.ttskch.com/symfony-api-platform-graphql/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@77web@github"
+    }
+  ]
+}

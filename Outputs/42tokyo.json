@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-22T13:28:10Z",
+  "calendar_meta_data" : {
+    "author" : "@sleepyfox97",
+    "category" : "企業・学校・団体",
+    "lgtm" : 53,
+    "subscribers" : 32,
+    "title" : "42Tokyo Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "42tokyo",
+    "url" : "https://qiita.com/advent-calendar/2021/42tokyo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "一年間くらい42Tokyoで生きてきた狐から見た42Tokyoの話",
+      "author" : "@sleepyfox97",
+      "day" : 1,
+      "url" : "https://qiita.com/sleepyfox97/items/f275ab7858cf909d9e6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubを使用したチーム開発のススメ",
+      "author" : "@keitean",
+      "day" : 2,
+      "url" : "https://qiita.com/keitean/items/eb0f00cb13d29c624ab1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CS:APP読んだ感想とまとめ",
+      "author" : "@bayamasa",
+      "day" : 3,
+      "url" : "https://zenn.dev/pictogram/articles/56f8aaad113ffb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions でリークテスト:)",
+      "author" : "@tayamamo",
+      "day" : 4,
+      "url" : "https://zenn.dev/solareenlo/articles/leak_test-6946d15b44d232"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人生(42)を振り返って",
+      "author" : "@ryaoi42",
+      "day" : 5,
+      "url" : "https://nop42.medium.com/%E4%BA%BA%E7%94%9F-42-%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%81%A3%E3%81%A6-25f6a4e6ceb9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C++98でSTLコンテナを再実装した話",
+      "author" : "@nafuka",
+      "day" : 6,
+      "url" : "https://nafuka.hatenablog.com/entry/2021/12/06/014200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【全公開】プログラミング未経験者が42 Tokyoの入学試験「Piscine」に合格のするためにした、42日間にわたる「事前準備」",
+      "author" : "@hosuzuki",
+      "day" : 7,
+      "url" : "https://note.com/hovinci/n/n44cdf3839df0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "42intraのCLIツールを作った",
+      "author" : "@t_komatsu",
+      "day" : 8,
+      "url" : "https://zenn.dev/tkomatsu/articles/6730147d9e1822a45cb1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2Dマップ生成】Unityでso_longを作る",
+      "author" : "@tkanzaki42",
+      "day" : 9,
+      "url" : "https://qiita.com/tkanzaki42/items/b514af4978ff86f1476c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "経路探索超入門~Pythonでの可視化と簡単なアルゴリズムの実装~",
+      "author" : "@Kotabrog",
+      "day" : 10,
+      "url" : "https://qiita.com/Kotabrog/items/fecd80e0e4283bbd5cbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナについて",
+      "author" : "@uhyot",
+      "day" : 11,
+      "url" : "https://qiita.com/uhyot/items/026957a48a7255d5cdd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WHY 42？: ピアツーピアの起こす教育革命",
+      "author" : "@U_mytake",
+      "day" : 12,
+      "url" : "https://note.com/u_yuu/n/n32a3edf2f8fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イケてるデスクトップ環境を作る(yabai + skhd + Übersicht)",
+      "author" : "@yootaki",
+      "day" : 13,
+      "url" : "https://zenn.dev/yootaki/articles/d6ba758c63a315"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元不登校が42Tokyoに入学するまで",
+      "author" : "@mmasuda",
+      "day" : 14,
+      "url" : "https://note.com/mmasuda_42/n/nb7dedd08b1b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "va_listってなんだ",
+      "author" : "@nori26",
+      "day" : 15,
+      "url" : "https://qiita.com/nori26/items/9ccef61571602a6a3b45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ついにッ！最強のMakefileが完成したぞッッッ！！！",
+      "author" : "@harinez2",
+      "day" : 16,
+      "url" : "https://qiita.com/harinez2/items/0d25eabdc6dae66e7bee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "目で味わう三体問題",
+      "author" : "@corvvs",
+      "day" : 17,
+      "url" : "https://qiita.com/corvvs/items/173b983a9a19ac5fe017"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C言語】知っておきたい実行時エラーの話",
+      "author" : "@ryo_manba",
+      "day" : 18,
+      "url" : "https://qiita.com/ryo_manba/items/f5354835859957527aff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "知られざる42Tokyoの校舎について",
+      "author" : "@kkawano_42",
+      "day" : 19,
+      "url" : "https://zenn.dev/riverdam/articles/d30d2dffd95a6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter開発者がAndroidネイティブ開発して思ったこと",
+      "author" : "@Kotaro666-dev",
+      "day" : 20,
+      "url" : "https://zenn.dev/kotaro666/articles/fc6b3024105ff1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "謎の秘密結社 42Tokyoエクストリームコーディング その活動内容に迫る！かも",
+      "author" : "@snara-42",
+      "day" : 21,
+      "url" : "https://qiita.com/snara-42/items/85d32acd81192b1a3bd7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "go学習初めの一歩踏んでみましたというお話",
+      "author" : "@rakiyama",
+      "day" : 22,
+      "url" : "https://rakiyama0229.hatenablog.jp/entry/2021/12/22/094322"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@sudo00"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@tacomea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hiroin"
+    }
+  ]
+}

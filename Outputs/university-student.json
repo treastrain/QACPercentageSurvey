@@ -1,0 +1,158 @@
+{
+  "created_at" : "2021-12-24T07:44:03Z",
+  "calendar_meta_data" : {
+    "author" : "@satoimooimo",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "大学生エンジニア集合 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "university-student",
+    "url" : "https://qiita.com/advent-calendar/2021/university-student"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@highstake"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java入門①",
+      "author" : "@highstake",
+      "day" : 9,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java入門②",
+      "author" : "@highstake",
+      "day" : 10,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java入門③",
+      "author" : "@highstake",
+      "day" : 11,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java入門④",
+      "author" : "@highstake",
+      "day" : 12,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java入門⑤",
+      "author" : "@highstake",
+      "day" : 13,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "書評",
+      "author" : "@highstake",
+      "day" : 14,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "書評",
+      "author" : "@highstake",
+      "day" : 15,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 16,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 17,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 18,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 19,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 20,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 21,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 22,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "created_at" : "2021-12-24T03:34:47Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社日立ソリューションズ OSS活用コミュニティ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 12,
+    "subscribers" : 4,
+    "title" : "日立ソリューションズ OSS Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "hitachi-solutions-oss",
+    "url" : "https://qiita.com/advent-calendar/2021/hitachi-solutions-oss"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bouk/monkeyから考える依存関係を把握することの重要性",
+      "author" : "@d-morishita",
+      "day" : 2,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120104/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPDX Documentを理解する",
+      "author" : "@zp_takashi",
+      "day" : 3,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120101/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SBOM：Software Bill Of Materialsとは？（フォーマット、ユースケース、ツールについて）",
+      "author" : "@d-morishita",
+      "day" : 6,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120105/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SCA（ソフトウェアコンポジション解析）はOSSの脆弱性管理にどのように役立つか",
+      "author" : "@d-morishita",
+      "day" : 7,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120106/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FOSSologyでREST APIを使ってみよう",
+      "author" : "@m-fujisue",
+      "day" : 8,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120103/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンソースプログラムオフィス（OSPO）の構築方法",
+      "author" : "@d-morishita",
+      "day" : 9,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120107/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPDX-LiteでSBOMを作ってみよう",
+      "author" : "@zp_takashi",
+      "day" : 10,
+      "url" : "https://www.hitachi-solutions.co.jp/oms/sp/blog/2021120102/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年にOSS界隈で話題になったニュース10選",
+      "author" : "@d-morishita",
+      "day" : 15,
+      "url" : "https://qiita.com/d-morishita/items/0c88239f58ca2be3c1ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Carvel tools/kapp の特徴について説明してみました",
+      "author" : "@a-tomo",
+      "day" : 16,
+      "url" : "https://qiita.com/a-tomo/items/61dd97f4754dca59ea78"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hyperledger Besuの鍵管理/署名サービスEthSignerを使ってみた",
+      "author" : "@kojima_k",
+      "day" : 17,
+      "url" : "https://qiita.com/kojima_k/items/a0b66d68ba209b245828"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Bootを使ったWebアプリケーションのテンプレートを社内OSSとして開発・メンテナンス",
+      "author" : "@hidenori-miyoshi",
+      "day" : 22,
+      "url" : "https://qiita.com/hidenori-miyoshi/items/e95d4f639ebc98a93084"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

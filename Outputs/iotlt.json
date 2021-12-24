@@ -1,0 +1,283 @@
+{
+  "created_at" : "2021-12-24T13:36:32Z",
+  "calendar_meta_data" : {
+    "author" : "IoTLT",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 54,
+    "subscribers" : 50,
+    "title" : "IoTLT Advent Calendar 2021",
+    "participants" : 26,
+    "unique_name" : "iotlt",
+    "url" : "https://qiita.com/advent-calendar/2021/iotlt"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "よし分かった。コーヒー豆焙煎機を作ろうじゃないか",
+      "author" : "@akiraak",
+      "day" : 1,
+      "url" : "https://qiita.com/akiraak/items/9047e480c983e5631d7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub codespaces使ってブラウザだけでESP32の開発を行う",
+      "author" : "@masuidrive",
+      "day" : 2,
+      "url" : "https://note.com/masuidrive/n/n79c2c94da65b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stack に Grove 端子台経由でゲームスイッチを動かすメモ",
+      "author" : "@tseigo",
+      "day" : 3,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/03/m5stack-connect-game-switch/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python&HolePlateMakerでLEGOテクニックに互換する部品をコードから自作する",
+      "author" : "@Inoue_Minoru",
+      "day" : 4,
+      "url" : "https://qiita.com/Inoue_Minoru/items/efdc38db026a81e1ac7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【IoTLT 2021】 ZIG SIM から送られるデータを p5.js Web Editor上で活用してみる",
+      "author" : "@youtoy",
+      "day" : 5,
+      "url" : "https://qiita.com/youtoy/items/caca41a68ab3bff6ffa6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stack Core2とAlexaでインターフォンに自動で対応してくれるIoTデバイスを作ってみる",
+      "author" : "@ufoo68",
+      "day" : 6,
+      "url" : "https://qiita.com/ufoo68/items/c4cca67387e1eccb6a19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペルチェ素子を使った\"IoT冷蔵庫\"を作る",
+      "author" : "@kedamarunrun",
+      "day" : 7,
+      "url" : "https://note.com/nanamin_kedama/n/n655512d7b13d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS IoTの証明書をESP32に簡単に書き込みたい",
+      "author" : "@norippy_i",
+      "day" : 8,
+      "url" : "https://qiita.com/norippy_i/items/df3ff4bfb23085b3469f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bangle.jsを購入して電源を入れるまで",
+      "author" : "@niccolli",
+      "day" : 9,
+      "url" : "https://log.niccol.li/2021/12/banglejs.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "opnizでつくる「CO2センサ（MH-Z19C）データのGoogle Spreadsheetsロギングシステム」",
+      "author" : "@miso_develop",
+      "day" : 10,
+      "url" : "https://qiita.com/miso_develop/items/287706aa12e84d687c20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircuitPythonをラズパイで使う話を書きます",
+      "author" : "@hrs_sano645",
+      "day" : 11,
+      "url" : "https://hr-sano.net/blog/2021/12/11/circitpython-and-raspberrypi/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドライブレコーダーのデータ解析をした話",
+      "author" : "@SuzukIoT",
+      "day" : 12,
+      "url" : "https://qiita.com/SuzukIoT/items/11e3cfac5c4b605f4784"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IoT杭を作ってみました。",
+      "author" : "@NWLab",
+      "day" : 13,
+      "url" : "https://qiita.com/NWLab/items/0cb101465ee16f89f20a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nüno ver.2 TINYキットをM5StickC Plusと連携する",
+      "author" : "@tendots",
+      "day" : 14,
+      "url" : "https://qiita.com/tendots/items/34ad96cd653b4bfd2a47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IoTLT放送部活動報告2021",
+      "author" : "@kitazaki",
+      "day" : 15,
+      "url" : "https://qiita.com/kitazaki/items/e0073567f802d2fb269f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスタルGYONISOをつくったって話",
+      "author" : "@hepppook",
+      "day" : 16,
+      "url" : "https://qiita.com/hepppook/items/57b3157ae929978e1c72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetsonNanoで自動作曲配信システムを作ってる途中です",
+      "author" : "@kawazu255",
+      "day" : 17,
+      "url" : "https://qiita.com/kawazu255/items/070923d86ebf6fdcaabf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@minwinmin"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@TakedaHiromasa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDと余ったWebカメラを使って監視カメラを作ってみてわかったこと",
+      "author" : "@pokiiio",
+      "day" : 20,
+      "url" : "https://relativelayout.hatenablog.com/entry/2021/12/18/100121?_ga=2.234600918.951707197.1639787301-1659826142.1633746742"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お猫様ほかほか監視装置",
+      "author" : "@3yaka4",
+      "day" : 21,
+      "url" : "https://qiita.com/3yaka4/items/9507089494034db34ff5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポケコンRUN",
+      "author" : "@Google_Homer",
+      "day" : 22,
+      "url" : "https://qiita.com/Google_Homer/items/d1e5abcef8bbe4399d87"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@shinbunbun_"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ツンデレ「けんこちゃん」が僕を健康管理してくれる話(バックエンド編)",
+      "author" : "@YSSkywalker",
+      "day" : 24,
+      "url" : "https://qiita.com/YSSkywalker/items/b21e14fbb1a96d4163e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@KMiura95"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14,
+      "author" : "@takeaship"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

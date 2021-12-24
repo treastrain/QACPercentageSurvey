@@ -1,0 +1,128 @@
+{
+  "created_at" : "2021-12-24T07:13:27Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ミライトデザイン",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 4,
+    "title" : "ミライトデザイン Advent Calendar 2021 バックアップ Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "miraito-inc-bk",
+    "url" : "https://qiita.com/advent-calendar/2021/miraito-inc-bk"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@suzuki-hoge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@tkek321"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@Nyokki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@hirodragon"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@FrozenVoice"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@bucchi0426"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@suzuki-hoge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@suzuki-hoge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@rabit_momo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@bucchi0426"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@tkek321"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@FrozenVoice"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hirodragon"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T11:14:18Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ゆめみ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 104,
+    "subscribers" : 19,
+    "title" : "YUMEMI Advent Calendar Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "yumemi",
+    "url" : "https://qiita.com/advent-calendar/2021/yumemi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Macbook US 配列キーボードの Caps Lock と US 配列 HHKB の Control キーで同じ英数・かな IME 切り替えを実現したい",
+      "author" : "@ikasama",
+      "day" : 1,
+      "url" : "https://qiita.com/ikasama/items/caae56ab4492f41bafa2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS 今すぐ 簡単 ちょっとしたコスト削減レシピ",
+      "author" : "@go_sougen",
+      "day" : 2,
+      "url" : "https://qiita.com/go_sougen/items/a937caf159a0e26d3bc4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Crashlyticsとクラッシュ レポートツールを併用する話",
+      "author" : "@n_komiya",
+      "day" : 3,
+      "url" : "https://qiita.com/n_komiya/private/6e64557d964210e609e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バーチャル空間 oVice で簡単に Zoom Meeting ができるようになってたので録画まわりの挙動を確認してみた",
+      "author" : "@makies",
+      "day" : 4,
+      "url" : "https://qiita.com/makies/items/85a1ffbd3dab6217c854"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions で .kts ファイルを実行して APK の差分を抽出してみた",
+      "author" : "@blendthink",
+      "day" : 5,
+      "url" : "https://qiita.com/blendthink/items/40a9e7444b2b93d82ebb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "graphql-codegen を Next.js の CSR と SSR/SG で使う際の知見",
+      "author" : "@FooliShell",
+      "day" : 6,
+      "url" : "https://zenn.dev/foolishell/articles/3258404f2b41d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel のルーティングファイルを web や api 以外に増やす",
+      "author" : "@ikasama",
+      "day" : 7,
+      "url" : "https://qiita.com/ikasama/items/4161ac9b167687886765"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "誕生日を祝ってもらって嬉しかった話",
+      "author" : "@ykws",
+      "day" : 8,
+      "url" : "https://qiita.com/ykws/items/b404178669e62e9b4c05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "株式会社ゆめみ所属メンバの SSH 鍵強度調査",
+      "author" : "@hugehoge",
+      "day" : 9,
+      "url" : "https://qiita.com/hugehoge/items/e47ef0260cc129f255a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VPCで意図した通信ができないときは VPC Reachability Analyzer で原因をしらべたらいい",
+      "author" : "@akym03",
+      "day" : 10,
+      "url" : "https://qiita.com/akym03/items/342933ed8d8663048225"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@RyoKatsuse"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WEB DEVELOPER Roadmap 2021 の Frontend Developer を見ての振り返り",
+      "author" : "@clown0082",
+      "day" : 12,
+      "url" : "https://zenn.dev/kkeeth/scraps/dd30ae9d48f092"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vaporをasync/awaitに書き直してみる（比較する）",
+      "author" : "@taittide",
+      "day" : 13,
+      "url" : "https://qiita.com/taittide/items/270cb9d4fbb23a5ba8f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "InfluxDBからKotlinで公式SDKを使わず値を読み取る",
+      "author" : "@ikemura23",
+      "day" : 14,
+      "url" : "https://qiita.com/ikemura23/items/5e2ce5f5fbd477885183"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゆめみとティール組織",
+      "author" : "@ykws",
+      "day" : 15,
+      "url" : "https://qiita.com/ykws/items/953a6f89dedecce229ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 環境で Homebrew 導入コマンドを Xcode から叩けない場合の対処法",
+      "author" : "@hugehoge",
+      "day" : 16,
+      "url" : "https://qiita.com/hugehoge/items/0f805c1a264488f7807c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最低限困らない SwiftUI を指定した Xcode プロジェクトを XcodeGen で生成する",
+      "author" : "@macneko",
+      "day" : 17,
+      "url" : "https://qiita.com/macneko/items/0d9bbf1dfd857e2375fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "負荷試験の勉強兼ねてAurora Serverless v2を試してみました",
+      "author" : "@anchor-cable",
+      "day" : 18,
+      "url" : "https://zenn.dev/anchor_cable/articles/1e1d125b047b160e7ec5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SpringfoxとVironでお手軽管理画面を作る！",
+      "author" : "@syumiwohossu",
+      "day" : 19,
+      "url" : "https://qiita.com/syumiwohossu/items/d6ca365d54649f889e74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOS 音声合成SDK（3種類）を聴き比べてみた",
+      "author" : "@BlueEventHorizon",
+      "day" : 20,
+      "url" : "https://qiita.com/BlueEventHorizon/items/f391bae99fe287ec766b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Danger-Swift のプラグインを作る手引き、そして実際に作ったプラグインをご紹介！",
+      "author" : "@lovee",
+      "day" : 21,
+      "url" : "https://qiita.com/lovee/items/fc254155e75055decad8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Backupを用いてAuroraクロスリージョンコピーしてみる(Terraform)",
+      "author" : "@shinon_uk",
+      "day" : 22,
+      "url" : "https://qiita.com/shinon_uk/items/5ee4dcf360b8d5c88779"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GithubActionsであるRepositoryから別のRepositoryにissueを丸ごとコピーする",
+      "author" : "@watanave",
+      "day" : 23,
+      "url" : "https://qiita.com/watanave/items/c11178387ac77b84e4fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマス・イブなのでクリスマスツリーを作る",
+      "author" : "@takashimelon",
+      "day" : 24,
+      "url" : "https://qiita.com/takashimelon/items/bdbad9ec3ab55e041f23"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ykws"
+    }
+  ]
+}

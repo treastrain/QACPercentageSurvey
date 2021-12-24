@@ -1,0 +1,130 @@
+{
+  "created_at" : "2021-12-24T03:18:57Z",
+  "calendar_meta_data" : {
+    "author" : "@kosugitti",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "Rtipsアタック25【解答編】 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "r_tips_attack25_ans",
+    "url" : "https://qiita.com/advent-calendar/2021/r_tips_attack25_ans"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "A.CSVファイル読み込みの文字化けを防ぐ",
+      "author" : "@kosugitti",
+      "day" : 1,
+      "url" : "https://qiita.com/kosugitti/items/f02db0ba575d3be11313"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "A.フォルダ内の全てのファイルを読み込む",
+      "author" : "@kosugitti",
+      "day" : 2,
+      "url" : "https://qiita.com/kosugitti/items/3507798fa10faea00b0b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "A.複数の関数プロットを一枚の図にしたい",
+      "author" : "@kosugitti",
+      "day" : 3,
+      "url" : "https://qiita.com/kosugitti/items/16ec4a4334111a01b848"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "A.変数の中にある数字を使ってグループ化したい",
+      "author" : "@kosugitti",
+      "day" : 4,
+      "url" : "https://qiita.com/kosugitti/items/2b0a19e4de7822fdf918"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "A.行ごとに対応した条件で変数を作る",
+      "author" : "@kosugitti",
+      "day" : 5,
+      "url" : "https://qiita.com/kosugitti/items/e83f533214bf43fed3c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

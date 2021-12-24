@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T12:32:45Z",
+  "calendar_meta_data" : {
+    "author" : "@uhooi",
+    "category" : "企業・学校・団体",
+    "lgtm" : 91,
+    "subscribers" : 4,
+    "title" : "エムティーアイ Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "mti",
+    "url" : "https://qiita.com/advent-calendar/2021/mti"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterの開発環境構築方法(Mac)",
+      "author" : "@uhooi",
+      "day" : 1,
+      "url" : "https://qiita.com/uhooi/items/74bdc893c7a7b43f6e94"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分の考える保守開発スケジューリングの心得",
+      "author" : "@piz032",
+      "day" : 2,
+      "url" : "https://qiita.com/piz032/items/374cd0c9d432ccb1e94b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure PipelinesのYAMLでXamarin.Forms製アプリのストア配布パイプラインを構築する方法",
+      "author" : "@uhooi",
+      "day" : 3,
+      "url" : "https://qiita.com/uhooi/items/31f0630aa47e7980fbc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "議事録を書くコツとテンプレート",
+      "author" : "@uhooi",
+      "day" : 4,
+      "url" : "https://qiita.com/uhooi/items/dc862b3eaef154a35470"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINQでよく使うメソッド構文一覧(C#)",
+      "author" : "@uhooi",
+      "day" : 5,
+      "url" : "https://qiita.com/uhooi/items/c9d3582d024d5f63a1bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Protocol Oriented Programmingを使ってみて思ったこと",
+      "author" : "@rtok",
+      "day" : 6,
+      "url" : "https://qiita.com/rtok/items/80dea6d3567627cf89f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロで使える標準エラーの出力方法(Swift)",
+      "author" : "@uhooi",
+      "day" : 7,
+      "url" : "https://qiita.com/uhooi/items/f490d14602a7bc114948"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubのPRテンプレート(iOS・Android)",
+      "author" : "@uhooi",
+      "day" : 8,
+      "url" : "https://qiita.com/uhooi/items/55cfd8fab2147e3a7839"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "S3 BucketへのファイルのデプロイまでAWS CDKでやりたかった話",
+      "author" : "@piz032",
+      "day" : 9,
+      "url" : "https://qiita.com/piz032/items/789c60700d0573b925fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Prologはパラドックスの夢を見るか？",
+      "author" : "@kokoakuma",
+      "day" : 10,
+      "url" : "https://qiita.com/kokoakuma/items/3e10ded79071310e71bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイルの始め方～化石エンジニアがアジャイラーを探しに行く～",
+      "author" : "@ammonite_404",
+      "day" : 11,
+      "url" : "https://qiita.com/ammonite_404/items/6cbffbfe0fa5e66e236e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアは技術力が全て？強みはもっと他にあるかも",
+      "author" : "@SumikkoSaku",
+      "day" : 12,
+      "url" : "https://qiita.com/SumikkoSaku/items/65bc89ad519ae02ee9a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Android] 実行時アノテーションによる処理例",
+      "author" : "@pps5",
+      "day" : 13,
+      "url" : "https://qiita.com/pps5/items/f4c7b9f7806b2eef6428"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイルの始め方～化石エンジニアがアジャイルの「いい本の探し方」（自己流）を共有する～",
+      "author" : "@ammonite_404",
+      "day" : 14,
+      "url" : "https://qiita.com/ammonite_404/items/be5b0081bd5df30f771c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒2年目がCore Web Vitalsの改善で試したこと",
+      "author" : "@terandard",
+      "day" : 15,
+      "url" : "https://qiita.com/terandard/items/f28b53b8f50ef7e99005"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「成長するプロジェクト計画」は、本当にメンバが成長するやり方だと思った。",
+      "author" : "@hirom16",
+      "day" : 16,
+      "url" : "https://note.com/hirom0316/n/n6b5c42c3edb4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VIPERアーキテクチャの所感と僕の考えるリファクタリング案について",
+      "author" : "@rtok",
+      "day" : 17,
+      "url" : "https://qiita.com/rtok/items/aa293105967b5788849a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebのE2Eフレームワークの選び方",
+      "author" : "@70_10",
+      "day" : 18,
+      "url" : "https://zenn.dev/70_10/articles/6424d54a21d052d52805"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "化石がマイナスからKaggleを始めてみる",
+      "author" : "@ammonite_404",
+      "day" : 19,
+      "url" : "https://qiita.com/ammonite_404/items/de5c206e7099fe218530"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@rtok"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@NewGyu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実践ソフトウェアエンジニアリングを実践するためのブックリスト",
+      "author" : "@bootsy",
+      "day" : 22,
+      "url" : "https://qiita.com/bootsy/items/65fd1469c138070267a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Xamarin に Firebase を導入する",
+      "author" : "@vatscy",
+      "day" : 23,
+      "url" : "https://zenn.dev/vatscy/articles/20df37bc5c949f55fec4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure AD B2C 構築のつまずきポイント",
+      "author" : "@mmbtsAO",
+      "day" : 24,
+      "url" : "https://qiita.com/mmbtsAO/items/21637bd629f7e771b0b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@uhooi"
+    }
+  ]
+}

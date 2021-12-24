@@ -1,0 +1,128 @@
+{
+  "created_at" : "2021-12-24T03:56:00Z",
+  "calendar_meta_data" : {
+    "author" : "@higa4",
+    "category" : "その他",
+    "lgtm" : 3,
+    "subscribers" : 0,
+    "title" : "Wikimedia Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "wikimedia",
+    "url" : "https://qiita.com/advent-calendar/2021/wikimedia"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウィキペディアで使える写真を地図から検索できるMapillary",
+      "author" : "@higa4",
+      "day" : 3,
+      "url" : "https://qiita.com/higa4/items/03217d6f65f2bcdeca85"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wikipediaの出典に多く使われているウェブサイトが何か調べてみた",
+      "author" : "@Koyomiya",
+      "day" : 5,
+      "url" : "https://koyomiya.f5.si/2021/11/20/wikiref.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Template:OSM経路図",
+      "author" : "@higa4",
+      "day" : 6,
+      "url" : "https://qiita.com/higa4/items/35d0a1b78b251b64554b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "すみだの図書館で #1lib1ref 研修を開催",
+      "author" : "@Araisyohei-jawp",
+      "day" : 20,
+      "url" : "https://araisyohei.hatenadiary.org/entry/20211220"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@higa4"
+    }
+  ]
+}

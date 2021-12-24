@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T12:43:21Z",
+  "calendar_meta_data" : {
+    "author" : "QualiArts",
+    "category" : "企業・学校・団体",
+    "lgtm" : 143,
+    "subscribers" : 7,
+    "title" : "QualiArts Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "qualiarts",
+    "url" : "https://qiita.com/advent-calendar/2021/qualiarts"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Riderで開発するなら知っておきたい2つのデバッグ機能",
+      "author" : "@Nitudon",
+      "day" : 1,
+      "url" : "https://myudon.hatenablog.com/entry/2021/12/01/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「IDOLY PRIDE」でGo、gRPC、Cloud Spannerに挑戦してみた",
+      "author" : "@asakuranobuharu",
+      "day" : 2,
+      "url" : "https://qiita.com/asakuranobuharu/items/7ef6f88ee822fb241231"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "目標ブラッシュアップ会の実施",
+      "author" : "@Koheinimi",
+      "day" : 3,
+      "url" : "https://qiita.com/Koheinimi/items/335f2b5c3b2a8cf430ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマホゲームにおけるARxキャラクターコンテンツまとめとアイデア",
+      "author" : "@Yui_Yamamoto",
+      "day" : 4,
+      "url" : "https://qiita.com/Yui_Yamamoto/items/3147ce7c1d03ce39561b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仕事に爆速でキャッチアップするための10の方法",
+      "author" : "@tofu-k",
+      "day" : 5,
+      "url" : "https://qiita.com/tofu-k/items/3af7f6fe8b5f4a79ccf7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity] Visual Effect GraphのSDFとParticle Stripを使ってみた",
+      "author" : "@Mr_K",
+      "day" : 6,
+      "url" : "https://qiita.com/Mr_K/items/444eb6662cea56d174fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "よりよい勉強会を求めて　～これまでに試した勉強会の方式とその結果～",
+      "author" : "@takashimax",
+      "day" : 7,
+      "url" : "https://qiita.com/takashimax/items/6dc72c3ffae030beb55d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "内定者バイトをしてわかった学生時代やっててよかったこと",
+      "author" : "@ninomium",
+      "day" : 8,
+      "url" : "https://qiita.com/ninomium/items/abfb55ee10893cf2d73e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityのCode Strippingって本当に効いてるの？",
+      "author" : "@satanabe1@github",
+      "day" : 9,
+      "url" : "https://qiita.com/satanabe1@github/items/b72b572b7321ff1715e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発環境をCloud Runにして変わったこと",
+      "author" : "@iyu",
+      "day" : 10,
+      "url" : "https://qiita.com/iyu/items/3a9eadd236519c78c5ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒Unityエンジニアが実務を通して感じたこと",
+      "author" : "@haruki777",
+      "day" : 11,
+      "url" : "https://technote.qualiarts.jp/article/28"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity]正攻法でUIのマテリアルをいじる",
+      "author" : "@rarudonet",
+      "day" : 12,
+      "url" : "https://qiita.com/rarudonet/items/52de2fd3a47b6e0a2b1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GPGPUでSeamCarvingをしてみる",
+      "author" : "@thammin",
+      "day" : 13,
+      "url" : "https://qiita.com/thammin/items/cc8319dacd4a4fb6dd48"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity]Prefabの同値での上書きを一括リバートするツール作った話",
+      "author" : "@nakatsuji_tomohiro",
+      "day" : 14,
+      "url" : "https://qiita.com/nakatsuji_tomohiro/items/80c5008f219f574c45ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityで独自の設定のUIを提供できるSettingsProviderの紹介と設定ファイルの保存について",
+      "author" : "@sune2",
+      "day" : 15,
+      "url" : "https://qiita.com/sune2/items/a88cdee6e9a86652137c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲーム専用のマイクロサービス課金基盤QuaPayを独自開発して得たノウハウの全て",
+      "author" : "@asuuma",
+      "day" : 16,
+      "url" : "https://technote.qualiarts.jp/article/29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go ファジング入門",
+      "author" : "@s9i",
+      "day" : 17,
+      "url" : "https://qiita.com/s9i/items/de45b820aaeb6597c9a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソーシャルゲーム開発における「報酬」「消費」「条件」のテーブル設計と機能",
+      "author" : "@yuuyatu090",
+      "day" : 18,
+      "url" : "https://qiita.com/yuuyatu090/items/1492955cf83df3f3564a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MaterialDescriptionを用いてMayaからUnityにMaterial情報を共有する",
+      "author" : "@tm8r",
+      "day" : 19,
+      "url" : "https://qiita.com/tm8r/items/fb106a6fc76e827989ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Golang】ジェネリクスのメリデメを比較してみる【1.18】",
+      "author" : "@hikyaru-suzuki",
+      "day" : 20,
+      "url" : "https://hikyaru-suzuki.hatenablog.jp/entry/2021/12/20/180000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityでMayaのリグを再現してAnimationRiggingでキャラクタを制御する",
+      "author" : "@salt-k2t",
+      "day" : 21,
+      "url" : "https://qiita.com/salt-k2t/items/d0752410773b4b652f2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRMのコアラアバターを自作してダンスさせた話",
+      "author" : "@vinyel",
+      "day" : 22,
+      "url" : "https://qiita.com/vinyel/items/dea20d3e8bf54d8470c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年】Unity 2D Animationの使い方",
+      "author" : "@albatrus",
+      "day" : 23,
+      "url" : "https://qiita.com/albatrus/items/fbe9cf1b07e65a4f5693"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "統計初心者が「統計検定３級」で最優秀賞を取るまでに行なった勉強法",
+      "author" : "@y-yoshinari",
+      "day" : 24,
+      "url" : "https://qiita.com/y-yoshinari/items/5ae5adc143b043ac85fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ygenki"
+    }
+  ]
+}

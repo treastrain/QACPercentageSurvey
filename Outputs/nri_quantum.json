@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T08:08:20Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社野村総合研究所",
+    "category" : "企業・学校・団体",
+    "lgtm" : 275,
+    "subscribers" : 27,
+    "title" : "量子コンピューティング by NRI Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "nri_quantum",
+    "url" : "https://qiita.com/advent-calendar/2021/nri_quantum"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "イメージでざっくり理解する量子コンピュータ",
+      "author" : "@shnchr",
+      "day" : 1,
+      "url" : "https://qiita.com/shnchr/items/92490509b2ae998f2f82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子ハードウェア動向をまとめてみた",
+      "author" : "@izey0306",
+      "day" : 2,
+      "url" : "https://qiita.com/izey0306/items/e643dd30b3fcf37f0905"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子ミドルウェアの有名どころをまとめてみた",
+      "author" : "@izey0306",
+      "day" : 3,
+      "url" : "https://qiita.com/izey0306/items/e9e6b1a5b7d4ed698956"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウドで展開される量子プラットフォームサービスの現状をまとめてみた",
+      "author" : "@izey0306",
+      "day" : 4,
+      "url" : "https://qiita.com/izey0306/items/2472693fac7abf59f415"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パウリゲート（XZY）を細かく見てみる",
+      "author" : "@shnchr",
+      "day" : 5,
+      "url" : "https://qiita.com/shnchr/items/d0702c441cec472096f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブロッホ球と各種ゲートの関係",
+      "author" : "@shnchr",
+      "day" : 6,
+      "url" : "https://qiita.com/shnchr/items/15a42eaf971932230a50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マウスだけ！で作る量子テレポーテーション",
+      "author" : "@shnchr",
+      "day" : 7,
+      "url" : "https://qiita.com/shnchr/items/841e8ec7e7b6b39c572c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マウスだけ！で作る超高密度符号化実験",
+      "author" : "@shnchr",
+      "day" : 8,
+      "url" : "https://qiita.com/shnchr/items/cbbaacf9e6f5f248c0d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アダマールテストと位相キックバック",
+      "author" : "@shnchr",
+      "day" : 9,
+      "url" : "https://qiita.com/shnchr/items/ae194ba81cd07f2277f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子フーリエ変換（QFT）と量子位相推定（QPE）を可視化しながら確認してみる",
+      "author" : "@izey0306",
+      "day" : 10,
+      "url" : "https://qiita.com/izey0306/items/2a63e8c6224a2b640ccd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドイチェとドイチェ・ジョザとサイモンのアルゴリズム",
+      "author" : "@nukipei",
+      "day" : 11,
+      "url" : "https://qiita.com/nukipei/items/a651da3d03f2efd04eb3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Groverのアルゴリズム",
+      "author" : "@shnchr",
+      "day" : 12,
+      "url" : "https://qiita.com/shnchr/items/4160d2d066873824e35e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shorのアルゴリズムを解説してみた",
+      "author" : "@tarutaru000",
+      "day" : 13,
+      "url" : "https://qiita.com/tarutaru000/items/bc299d14609d4470b04e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Quantum Challengeで取り扱われたVQE応用例をまとめる",
+      "author" : "@tarutaru000",
+      "day" : 14,
+      "url" : "https://qiita.com/tarutaru000/items/4912ad901c9ef2c92973"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAOAの回路を丁寧に計算しながら作る話",
+      "author" : "@doiken_",
+      "day" : 15,
+      "url" : "https://qiita.com/doiken_/items/2ff46bde7f107f23de6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子回路学習 QCL: Quantum Circuit Learning をさらっと実装してみた",
+      "author" : "@doiken_",
+      "day" : 16,
+      "url" : "https://qiita.com/doiken_/items/1d66fe4d10805532d6a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子誤り訂正（Shor's Code）",
+      "author" : "@shnchr",
+      "day" : 17,
+      "url" : "https://qiita.com/shnchr/items/a958bcc52898824693bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子誤り訂正（Stabilizer code）",
+      "author" : "@shnchr",
+      "day" : 18,
+      "url" : "https://qiita.com/shnchr/items/ec30fb2533d3cf6eec57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子アニーリング利用のための定式化方法紹介",
+      "author" : "@nukipei",
+      "day" : 19,
+      "url" : "https://qiita.com/nukipei/items/66ec2119bc0f80e9f117"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子アニーリングマシンD-Waveで良い解を出すためのコツ（前編）",
+      "author" : "@izey0306",
+      "day" : 20,
+      "url" : "https://qiita.com/izey0306/items/64174c291ae2292dec20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子アニーリングマシンD-Waveで良い解を出すためのコツ（後編）",
+      "author" : "@izey0306",
+      "day" : 21,
+      "url" : "https://qiita.com/izey0306/items/83cc3b67abba79007a95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fixstars Amplify SDKを使って日経225銘柄でポートフォリオ最適化をやってみた",
+      "author" : "@mtakada00",
+      "day" : 22,
+      "url" : "https://qiita.com/mtakada00/items/45947343b1d77a71b72b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fixstars Amplify SDKで、東京観光の最適巡回ルートを求めてみた！",
+      "author" : "@nukipei",
+      "day" : 23,
+      "url" : "https://qiita.com/nukipei/items/aad014afdb024a72b639"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子コンピュータ素人がIBM Quantum Challenge Fall 2021の難しかった問題を解説してみた",
+      "author" : "@doiken_",
+      "day" : 24,
+      "url" : "https://qiita.com/doiken_/items/23326dd6d743b24df93e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shnchr"
+    }
+  ]
+}

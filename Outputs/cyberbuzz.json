@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T09:01:16Z",
+  "calendar_meta_data" : {
+    "author" : "@Rone_Loreto",
+    "category" : "企業・学校・団体",
+    "lgtm" : 398,
+    "subscribers" : 3,
+    "title" : "株式会社サイバー・バズ Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "cyberbuzz",
+    "url" : "https://qiita.com/advent-calendar/2021/cyberbuzz"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒 Web エンジニアとして入社前にやっておきたかったこと",
+      "author" : "@Rone_Loreto",
+      "day" : 1,
+      "url" : "https://qiita.com/Rone_Loreto/items/fd299a54a63a70824a8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒研修でドメイン層のテストカバレッジ100%にした話",
+      "author" : "@Hirochon",
+      "day" : 2,
+      "url" : "https://qiita.com/Hirochon/items/f886816e4a1d93132744"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "知ってると得をするReactコンポーネントのイケてる書き方",
+      "author" : "@102Design",
+      "day" : 3,
+      "url" : "https://qiita.com/102Design/items/b1dcebbbc768c65befc9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Canvas APIで「ポケモン」を描いてみる",
+      "author" : "@kuririn_33",
+      "day" : 4,
+      "url" : "https://qiita.com/kuririn_33/items/d3ad2aa5ba38770fbdc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "前編：EC2にFabric1.xでデプロイされていたPlayFrameworkのプロジェクトをGitHub Actions+CodeDeployでのデプロイに変えてみた話",
+      "author" : "@kashira2339",
+      "day" : 5,
+      "url" : "https://qiita.com/kashira2339/items/395f8d1a8d53d8c902f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "後編：EC2にFabric1.xでデプロイされていたPlayFrameworkのプロジェクトをGitHub Actions+CodeDeployでのデプロイに変えてみた話",
+      "author" : "@kashira2339",
+      "day" : 6,
+      "url" : "https://qiita.com/kashira2339/items/1479d7691623f5502754"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「自炊しない方が良い」エンジニアとは",
+      "author" : "@Hirochon",
+      "day" : 7,
+      "url" : "https://qiita.com/Hirochon/items/1c7536860177a34fa614"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Nest.js] クエリパラメータをPipeを使って変換する方法",
+      "author" : "@i12_yuya_i15",
+      "day" : 8,
+      "url" : "https://qiita.com/i12_yuya_i15/items/f70e75924e52f25793a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一応エンジニアをしてきて約1年半、すぐに脳裏に浮かぶ読んで良かった記事2つ",
+      "author" : "@kuririn_33",
+      "day" : 9,
+      "url" : "https://qiita.com/kuririn_33/items/923de860d70402488250"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一年間で「大きく成長できた」と感じたターニング技術一覧！",
+      "author" : "@Hirochon",
+      "day" : 10,
+      "url" : "https://qiita.com/Hirochon/items/d8071f19ad4159a3408f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP 開発で必須の標準出力チートシート",
+      "author" : "@Rone_Loreto",
+      "day" : 11,
+      "url" : "https://qiita.com/Rone_Loreto/items/64daa56a7dca554829d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleAppsScript(GAS)で効率化する時になんだかんだよく使うコードスニペット10選",
+      "author" : "@kashira2339",
+      "day" : 12,
+      "url" : "https://qiita.com/kashira2339/items/d0e399a97bf586132ea1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[PHP 初学] 配列とオブジェクトの違いについて「完全に理解した」状態にする",
+      "author" : "@Rone_Loreto",
+      "day" : 13,
+      "url" : "https://qiita.com/Rone_Loreto/items/0da9e0ccf6fb444810c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービスアーキテクチャにおけるProtocolBuffers管理のGitHubActionsフローを実現した",
+      "author" : "@Hirochon",
+      "day" : 14,
+      "url" : "https://qiita.com/Hirochon/items/1aab7ff0dab5a1159659"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かいはつ小話「モックをくださいな」",
+      "author" : "@i12_yuya_i15",
+      "day" : 15,
+      "url" : "https://qiita.com/i12_yuya_i15/items/66b40770e4e8744c36c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[AWS]V4署名を使ってOpenSearchにアクセスする",
+      "author" : "@i12_yuya_i15",
+      "day" : 16,
+      "url" : "https://qiita.com/i12_yuya_i15/items/9506863a0401733c0028"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "話題の React ベースフルスタックフレームワーク Remix のスタイリング事情を探ってみた",
+      "author" : "@Rone_Loreto",
+      "day" : 17,
+      "url" : "https://qiita.com/Rone_Loreto/items/8ebca940b97172bd8ddf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザのタブを節約しつつ情報収集を高めるNotionの使い方入門",
+      "author" : "@kuririn_33",
+      "day" : 18,
+      "url" : "https://qiita.com/kuririn_33/items/408d1a2348628ad89ea0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自社のプロジェクト管理ツールにZenHubが一番あってたって話",
+      "author" : "@kashira2339",
+      "day" : 19,
+      "url" : "https://qiita.com/kashira2339/items/d3a365034b6e3e63f431"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実例から学ぼう！競プロの最悪な歩み方",
+      "author" : "@Hirochon",
+      "day" : 20,
+      "url" : "https://qiita.com/Hirochon/items/6c08c987f1462a76c461"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Canvas APIでの描画をハックする",
+      "author" : "@kuririn_33",
+      "day" : 21,
+      "url" : "https://qiita.com/kuririn_33/items/ec83b4c878395b647586"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[OpenSearch]MatchQueryでscore順に並ばない時",
+      "author" : "@i12_yuya_i15",
+      "day" : 22,
+      "url" : "https://qiita.com/i12_yuya_i15/items/24fadd0c90efe6078d02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "朝よわよわエンジニアがスッキリ起きるための方法",
+      "author" : "@i12_yuya_i15",
+      "day" : 23,
+      "url" : "https://qiita.com/i12_yuya_i15/items/f132dd44c4c445419ae9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kuririn_33"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Rone_Loreto"
+    }
+  ]
+}

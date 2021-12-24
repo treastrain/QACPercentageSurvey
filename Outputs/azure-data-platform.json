@@ -1,0 +1,146 @@
+{
+  "created_at" : "2021-12-24T13:17:24Z",
+  "calendar_meta_data" : {
+    "author" : "@ymasaoka",
+    "category" : "データベース",
+    "lgtm" : 4,
+    "subscribers" : 10,
+    "title" : "Data Platform for Microsoft Azure Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "azure-data-platform",
+    "url" : "https://qiita.com/advent-calendar/2021/azure-data-platform"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@ymasaoka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Introducing SQL Server 2022",
+      "author" : "@yangjiayi",
+      "day" : 2,
+      "url" : "https://qiita.com/yangjiayi/items/31c3e29f1742588442ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQL Server Express を Azure SQL Database に移行する",
+      "author" : "@mihochannel",
+      "day" : 3,
+      "url" : "https://qiita.com/mihochannel/items/a5203c11c7847772e383"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年自分が書いた MI for Apache Cassandra の記事まとめ",
+      "author" : "@kske_t",
+      "day" : 5,
+      "url" : "https://k14i.github.io/2021/12/05/Recap-my-posts-about-Azure-Managed-Instance-for-Apache-Cassandra-in-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenHack Modern Data Warehouse(2021年11月24日～26日)",
+      "author" : "@atl-nabeshima",
+      "day" : 9,
+      "url" : "https://qiita.com/atl-nabeshima/items/0fe621e0fa3ab5f371c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft OpenHack - Modern Data Warehouse 参戦記",
+      "author" : "@take4mats",
+      "day" : 12,
+      "url" : "https://qiita.com/take4mats/items/72f2e6f2dc28f0de9265"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Synapse Data Explorer Pool(SDX Pool)",
+      "author" : "@yangjiayi",
+      "day" : 15,
+      "url" : "https://qiita.com/yangjiayi/items/072788df3e4bd04fb0ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure SQL Database と Python ドライバー",
+      "author" : "@nakagami",
+      "day" : 18,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-18"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MappingDataflowでデータ品質検証によるエラーを起こす",
+      "author" : "@ryoma-nagata",
+      "day" : 22,
+      "url" : "https://qiita.com/ryoma-nagata/items/198e74eac502548f18a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データレイクハウス + 機械学習基盤 on Azure",
+      "author" : "@ShuntaIto",
+      "day" : 23,
+      "url" : "https://qiita.com/ShuntaIto/items/03c994491d2e23e15a1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Synapse Pipeline】ローコードでExcel複数シートの内容をSynapseの専用SQLPoolに取り込む方法",
+      "author" : "@shisyu_gaku",
+      "day" : 24,
+      "url" : "https://zenn.dev/shisyu_gaku/articles/06b0571fcf3c0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

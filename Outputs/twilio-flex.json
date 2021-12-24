@@ -1,0 +1,175 @@
+{
+  "created_at" : "2021-12-22T13:17:38Z",
+  "calendar_meta_data" : {
+    "author" : "@Neri78",
+    "category" : "プレゼント",
+    "lgtm" : 19,
+    "subscribers" : 10,
+    "title" : "Twilioを使ってコンタクトセンター（コールセンター）を作ってみよう！【PR】Twilio Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "twilio-flex",
+    "url" : "https://qiita.com/advent-calendar/2021/twilio-flex"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flex の始め方（準備編）",
+      "author" : "@mobilebiz",
+      "day" : 1,
+      "url" : "https://qiita.com/mobilebiz/items/bbc45ddae7b224fb9bcc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（部品を知ろう編）",
+      "author" : "@mobilebiz",
+      "day" : 2,
+      "url" : "https://qiita.com/mobilebiz/items/e7f965dbda8c29c50f1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカリゼーションプラグインを利用しTwilio Flexのユーザーインターフェースを日本語にする方法",
+      "author" : "@Neri78",
+      "day" : 3,
+      "url" : "https://www.twilio.com/blog/flex-localization-plugin-jp"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（セットアップ編）",
+      "author" : "@mobilebiz",
+      "day" : 4,
+      "url" : "https://qiita.com/mobilebiz/items/d06a29214b437339d226"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（国内番号購入編）",
+      "author" : "@mobilebiz",
+      "day" : 5,
+      "url" : "https://qiita.com/mobilebiz/items/930fbf7cb1f46e2d6ed4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（IVR編）",
+      "author" : "@mobilebiz",
+      "day" : 6,
+      "url" : "https://qiita.com/mobilebiz/items/4906a2d37607e1082808"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（GoogleSpreadsheet連携編）",
+      "author" : "@mobilebiz",
+      "day" : 7,
+      "url" : "https://qiita.com/mobilebiz/items/916b416af155bdab988b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（TaskRouter基礎編）",
+      "author" : "@mobilebiz",
+      "day" : 8,
+      "url" : "https://qiita.com/mobilebiz/items/2af0d9fd09cff1040878"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（エージェント管理）",
+      "author" : "@mobilebiz",
+      "day" : 9,
+      "url" : "https://qiita.com/mobilebiz/items/3c2f2582b7437f63dc14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（ACD編）",
+      "author" : "@mobilebiz",
+      "day" : 10,
+      "url" : "https://qiita.com/mobilebiz/items/d64f6414a1acda4085eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexで特定の担当者に直接繋ぐ方法",
+      "author" : "@mobilebiz",
+      "day" : 11,
+      "url" : "https://qiita.com/mobilebiz/items/971683edee076b3a5686"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexで誰も応答できない場合の処理",
+      "author" : "@mobilebiz",
+      "day" : 12,
+      "url" : "https://qiita.com/mobilebiz/items/a28deca13b98a99c0ede"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexの始め方（プラグイン準備編）",
+      "author" : "@mobilebiz",
+      "day" : 13,
+      "url" : "https://qiita.com/mobilebiz/items/eeca1ce20bb5b561b515"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@yoshikyoto"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlexプラグインTips（着信時に音を鳴らす）",
+      "author" : "@mobilebiz",
+      "day" : 15,
+      "url" : "https://qiita.com/mobilebiz/items/247d50e15a1c3e03c15d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flexで機能追加してみた",
+      "author" : "@sst_2b",
+      "day" : 18,
+      "url" : "https://qiita.com/sst_2b/items/9270d54dddcdf2e0df39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flex導入に苦戦した話",
+      "author" : "@PlanetMeron",
+      "day" : 19,
+      "url" : "https://qiita.com/PlanetMeron/items/d77e905ecc042e24885f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flex Conferenceの参加者情報",
+      "author" : "@sst_2b",
+      "day" : 20,
+      "url" : "https://qiita.com/sst_2b/items/222e195e2fab471021d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Flex&Studioで営業時間外に着信した時に留守電音声を流す",
+      "author" : "@PlanetMeron",
+      "day" : 21,
+      "url" : "https://qiita.com/PlanetMeron/items/a141dd9c330aa190f5c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio FlexとAPI Gateway、Lambda、DynamoDBを連携させて架電してきたユーザがVIPユーザかFlex画面に表示させてみる",
+      "author" : "@ynishimura0922",
+      "day" : 22,
+      "url" : "https://qiita.com/ynishimura0922/items/28072ce15ebd9593c505"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@mobilebiz"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Pig"
+    }
+  ]
+}

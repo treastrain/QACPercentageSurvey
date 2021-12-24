@@ -1,0 +1,124 @@
+{
+  "created_at" : "2021-12-24T03:51:46Z",
+  "calendar_meta_data" : {
+    "author" : "@yoichi_t",
+    "category" : "その他",
+    "lgtm" : 1,
+    "subscribers" : 6,
+    "title" : "統計/機械学習の推しトピック 〜あなたの推しを教えてください〜 Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "let-us-study-stat",
+    "url" : "https://qiita.com/advent-calendar/2021/let-us-study-stat"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "チョコボールデータの分析対象としてのポテンシャルについて",
+      "author" : "@yoichi_t",
+      "day" : 1,
+      "url" : "https://chocolate-ball.hatenablog.com/entry/2021/12/01/215119"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ML初心者が】Amazon SageMaker Studio Lab をやってみた",
+      "author" : "@EbiTT",
+      "day" : 16,
+      "url" : "https://qiita.com/EbiTT/items/a120eb94912046e2f97f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "本当は奥が深いSoftmaxとそのお仲間達",
+      "author" : "@billy_t",
+      "day" : 17,
+      "url" : "https://qiita.com/billy_t/items/c8b14812a6c7aec2eb31"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

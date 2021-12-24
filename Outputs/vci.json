@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:46:54Z",
+  "calendar_meta_data" : {
+    "author" : "@sakkinonana",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 55,
+    "subscribers" : 5,
+    "title" : "VCI Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "vci",
+    "url" : "https://qiita.com/advent-calendar/2021/vci"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "VCIでリング的なUIをつくりたい",
+      "author" : "@sakkinonana",
+      "day" : 1,
+      "url" : "https://qiita.com/sakkinonana/items/aa5416ebb2dd7e520113"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ルームのコライダーレイヤーについて",
+      "author" : "@johnny-um",
+      "day" : 2,
+      "url" : "https://qiita.com/johnny-um/items/57c509bb1592c6d22f2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "USEで開くドアの話",
+      "author" : "@am11-hato",
+      "day" : 3,
+      "url" : "https://www.fanbox.cc/manage/posts/2856564"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VideoPokerのあれこれ",
+      "author" : "@kakunvr",
+      "day" : 4,
+      "url" : "https://note.com/kakunvr/n/n7e9b600ab66f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hinge Jointでなんとかしてみた話",
+      "author" : "@Nyaf0039V",
+      "day" : 5,
+      "url" : "https://qiita.com/Nyaf0039V/items/ef86046c843bf48802be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "衛星ライトのバーチャルキャストでの撮影方法",
+      "author" : "@satellite_right",
+      "day" : 6,
+      "url" : "https://qiita.com/satellite_right/items/9dfa240612b8f5475003"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更ながらかもしれないUnityの導入方法について第1回目",
+      "author" : "@sirohige",
+      "day" : 7,
+      "url" : "https://qiita.com/sirohige/items/0b0a86cfdc7af18900e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更ながらかもしれないUnityの導入方法について第2回目",
+      "author" : "@sirohige",
+      "day" : 8,
+      "url" : "https://qiita.com/sirohige/items/32ad9a60ceb6ad80981a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更ながらかもしれないUnityの導入方法について第3回目（終わり)",
+      "author" : "@sirohige",
+      "day" : 9,
+      "url" : "https://qiita.com/sirohige/items/248b4ab71fd7fedae2f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モデリング出来ない人のVCI",
+      "author" : "@alakabra",
+      "day" : 10,
+      "url" : "https://qiita.com/alakabra/items/5775f18f699ffe9a09d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "掴むとめっちゃ暴れるオブジェクトの話",
+      "author" : "@am11-hato",
+      "day" : 11,
+      "url" : "https://asano11ji.fanbox.cc/posts/2869831"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そうだ、箱を作ろう！第1回目",
+      "author" : "@sirohige",
+      "day" : 12,
+      "url" : "https://qiita.com/sirohige/items/ba1cd84a43d74fae7fb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そうだ、箱を作ろう！第2回目（終わり）",
+      "author" : "@sirohige",
+      "day" : 13,
+      "url" : "https://qiita.com/sirohige/items/8622d091819ac0d2453a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "平面的なUIを作りたい",
+      "author" : "@sakkinonana",
+      "day" : 14,
+      "url" : "https://qiita.com/sakkinonana/items/fcd0f1709834431e4cab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【VCI入門】スライドを変更するレーザポインタを作る",
+      "author" : "@koduki",
+      "day" : 15,
+      "url" : "https://zenn.dev/koduki/articles/d6cc46700a1f7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "装着アイテムを作ってみよう！",
+      "author" : "@sirohige",
+      "day" : 16,
+      "url" : "https://qiita.com/sirohige/items/29b052766df87bf9232d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "変形するVCIを作りたい",
+      "author" : "@natsuori",
+      "day" : 17,
+      "url" : "https://qiita.com/natsuori/items/83413315fed743bd4641"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Vキャス]企画中のカメラ操作は参加者にやってもえたらいいのに",
+      "author" : "@lightjug",
+      "day" : 18,
+      "url" : "https://qiita.com/lightjug/items/81e633a25d10f7fa4a73"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コライダーないなった？（インポートしたモデルのコライダーについて）",
+      "author" : "@sirohige",
+      "day" : 19,
+      "url" : "https://qiita.com/sirohige/items/8ed60d2b24a34e113016"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebのみでVRスライドが作れるVCIスライドジェネレータの作り方",
+      "author" : "@koduki",
+      "day" : 20,
+      "url" : "https://zenn.dev/koduki/articles/64a48081fe58d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "こんにちは世界(Hello World)",
+      "author" : "@sirohige",
+      "day" : 21,
+      "url" : "https://qiita.com/sirohige/items/90f1eef7a8f3a2081e14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "unityなんもわからん勢がマグカップを作る話",
+      "author" : "@kyamaboko",
+      "day" : 22,
+      "url" : "https://qiita.com/kyamaboko/items/b55abc918a088195342a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VCI UI応用編-カラーサークルを作る-",
+      "author" : "@sakkinonana",
+      "day" : 23,
+      "url" : "https://qiita.com/sakkinonana/items/1150b11ae4df479a3635"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VCIアイテム音量の設定を考える ",
+      "author" : "@Nyaf0039V",
+      "day" : 24,
+      "url" : "https://qiita.com/Nyaf0039V/items/3cbef623ace22643a377"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@lightjug"
+    }
+  ]
+}

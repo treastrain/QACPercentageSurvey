@@ -1,0 +1,139 @@
+{
+  "created_at" : "2021-12-24T08:50:40Z",
+  "calendar_meta_data" : {
+    "author" : "すごくなりたいがくせいぐるーぷ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 7,
+    "subscribers" : 2,
+    "title" : "すごくなりたいがくせいぐるーぷ Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "sgg",
+    "url" : "https://qiita.com/advent-calendar/2021/sgg"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "技術書書きたいですか？じゃあRe:View使おうね。",
+      "author" : "@Marny",
+      "day" : 1,
+      "url" : "https://qiita.com/Marny/items/a40bd02d7692cf99cc19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[CentOS7]Apacheの古いバージョンの導入とデーモン化",
+      "author" : "@Marny",
+      "day" : 2,
+      "url" : "https://qiita.com/Marny/items/3824eca3b3194ba37f30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[CentOS7] 古いバージョンのApacheとPHPを連携するまで",
+      "author" : "@Marny",
+      "day" : 3,
+      "url" : "https://qiita.com/Marny/items/b51c4968d949eba252a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "素人がハッカソンを経験して、学んだこと",
+      "author" : "@abcshotaro616",
+      "day" : 10,
+      "url" : "https://qiita.com/abcshotaro616/items/fc8150b129a753506c0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@kota-yata"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GAS】デバックが正常に表示されない時に設定すること",
+      "author" : "@inoue2002",
+      "day" : 20,
+      "url" : "https://qiita.com/inoue2002/items/ad1003dfc168d1a201ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt3×TSXで消えるVueっぽさ",
+      "author" : "@e_chan1007",
+      "day" : 21,
+      "url" : "https://zenn.dev/e_chan1007/articles/070d3b337cd606"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub APIでコミットを読み書きする",
+      "author" : "@e_chan1007",
+      "day" : 22,
+      "url" : "https://zenn.dev/e_chan1007/articles/6eeb84f5ce2ef7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@kyoya0819"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shinbunbun_"
+    }
+  ]
+}

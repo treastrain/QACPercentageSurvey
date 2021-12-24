@@ -1,0 +1,289 @@
+{
+  "created_at" : "2021-12-24T03:32:40Z",
+  "calendar_meta_data" : {
+    "author" : "@dialoguedaisuki",
+    "category" : "その他",
+    "lgtm" : 24,
+    "subscribers" : 31,
+    "title" : "闇のプログラミング Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "darkprogramming",
+    "url" : "https://qiita.com/advent-calendar/2021/darkprogramming"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonですぐ消すbotを再現する",
+      "author" : "@dialoguedaisuki",
+      "day" : 1,
+      "url" : "https://qiita.com/dialoguedaisuki/items/b41a0e7b43104bd3045d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なんでもナイトコアにする",
+      "author" : "@o________o",
+      "day" : 2,
+      "url" : "https://qiita.com/o________o/items/48b370b0628762f42483"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TwitterAPIが凍結されて復活するまでの詳細なやりとり",
+      "author" : "@dialoguedaisuki",
+      "day" : 3,
+      "url" : "https://qiita.com/dialoguedaisuki/items/a6e925c25feb6702ca49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フォローしてない鍵垢のフォロワーをまとめてブロックする",
+      "author" : "@dialoguedaisuki",
+      "day" : 4,
+      "url" : "https://qiita.com/dialoguedaisuki/items/3346f8716be9cbccb0f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitterで人工地震と検索してマルコフ連鎖でランダムな文章を生成してTweetする",
+      "author" : "@dialoguedaisuki",
+      "day" : 5,
+      "url" : "https://qiita.com/dialoguedaisuki/items/5135032faa1a1119f3de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なんでもガバにする",
+      "author" : "@o________o",
+      "day" : 6,
+      "url" : "https://qiita.com/o________o/items/d2919c74544c506023d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドット絵　ツールあれこれ",
+      "author" : "@internet_nicenature",
+      "day" : 7,
+      "url" : "https://qiita.com/internet_nicenature/items/f87aca4c4cf5bd5f7188"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ツイートが少ない人のツイートを勝手に作る",
+      "author" : "@dialoguedaisuki",
+      "day" : 8,
+      "url" : "https://qiita.com/dialoguedaisuki/items/a6cb28d0105e94f38bf9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【必読】笠松競馬場 12/30(木) 第3レース完全攻略マニュアル【water】",
+      "author" : "@PAOTO",
+      "day" : 9,
+      "url" : "https://qiita.com/PAOTO/items/c5fd71858ae02ff8b08e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "世界を闇に変えましょう",
+      "author" : "@sytkm",
+      "day" : 10,
+      "url" : "https://qiita.com/sytkm/items/d5a8d04dfb0495c00a62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "笠松町歴史未来館に行ってきた",
+      "author" : "@internet_nicenature",
+      "day" : 11,
+      "url" : "https://qiita.com/internet_nicenature/items/ededc4e4de9769a22b1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LSDj あれこれ",
+      "author" : "@internet_nicenature",
+      "day" : 12,
+      "url" : "https://qiita.com/internet_nicenature/items/6a45ece731727074ff99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "全ての曲を1分にする２",
+      "author" : "@o________o",
+      "day" : 13,
+      "url" : "https://qiita.com/o________o/items/f219242381674b710ebc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "引用リツイートを自動的に引用リツイートで返す",
+      "author" : "@dialoguedaisuki",
+      "day" : 14,
+      "url" : "https://qiita.com/dialoguedaisuki/items/f1ad888bbf001fc08347"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なんでもナイトコアにする２",
+      "author" : "@o________o",
+      "day" : 15,
+      "url" : "https://qiita.com/o________o/items/db80cf5a35c03706cacd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで監視対象のスクショを撮影して監視する",
+      "author" : "@dialoguedaisuki",
+      "day" : 16,
+      "url" : "https://qiita.com/dialoguedaisuki/items/851d645df8e28a7d9035"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ルイズコピペをPythonで曲にする",
+      "author" : "@dialoguedaisuki",
+      "day" : 17,
+      "url" : "https://qiita.com/dialoguedaisuki/items/ad37b48eefaa713ab406"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitter Webで新規ツイートを表示したときに特定ユーザーのツイートがあればそれをいいねする",
+      "author" : "@sytkm",
+      "day" : 18,
+      "url" : "https://qiita.com/sytkm/items/12694918452d78f9c3ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "遊戯王で見るプログラミング",
+      "author" : "@milrt",
+      "day" : 19,
+      "url" : "https://qiita.com/milrt/items/006c829dd7003f8423be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なんでもヴェイパーウェイヴにする２",
+      "author" : "@o________o",
+      "day" : 20,
+      "url" : "https://qiita.com/o________o/items/85f060b4b1a01a7f8525"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マッシュアップする",
+      "author" : "@o________o",
+      "day" : 21,
+      "url" : "https://qiita.com/o________o/items/54af25020c2006328b63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アメブロの記事をまとめて引っこ抜く",
+      "author" : "@dialoguedaisuki",
+      "day" : 22,
+      "url" : "https://qiita.com/dialoguedaisuki/items/b133b1a7dcb2849605e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポエトリーリーディングする",
+      "author" : "@o________o",
+      "day" : 23,
+      "url" : "https://qiita.com/o________o/items/58f483f3474f286ba01d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブレイクダウンに爆発力を加える音を作る",
+      "author" : "@shiroiruka_o",
+      "day" : 24,
+      "url" : "https://qiita.com/shiroiruka_o/items/13d0e7c4020dc3398ade"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@dialoguedaisuki"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@PAOTO"
+    }
+  ]
+}

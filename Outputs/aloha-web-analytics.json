@@ -1,0 +1,612 @@
+{
+  "created_at" : "2021-12-24T07:54:35Z",
+  "calendar_meta_data" : {
+    "author" : "@tomohiko_ishii",
+    "category" : "Webテクノロジー",
+    "lgtm" : 2,
+    "subscribers" : 78,
+    "title" : "WEBやデータ分析に関する投稿をみんなでしてみよう Advent Calendar 2021",
+    "participants" : 34,
+    "unique_name" : "aloha-web-analytics",
+    "url" : "https://qiita.com/advent-calendar/2021/aloha-web-analytics"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "デジタルマーケティング界隈の七不思議",
+      "author" : "@nagai_takashi",
+      "day" : 1,
+      "url" : "https://note.com/speed_practice/n/n579e320679e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Googleアナリティクス（ユニバーサルアナリティクス）の仕組み・使い方（前編）",
+      "author" : "@Ryo_Koriyama",
+      "day" : 2,
+      "url" : "https://googleanalytics-laboratory.com/columns/22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GA4の導入状況調査 2021年11月",
+      "author" : "@1987yama3",
+      "day" : 3,
+      "url" : "https://sem-technology.info/blog/posts/00158/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "事業会社のデジマの課題を108人にきいた話",
+      "author" : "@tomohiko_ishii",
+      "day" : 4,
+      "url" : "https://home-brewers.jp/post/digima-no-nayami/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "頑張ることについて考えてみる",
+      "author" : "@takano_seo",
+      "day" : 5,
+      "url" : "https://takano.hatenablog.jp/entry/2021/12/05/080051"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地味に重要？Googleビジネスプロフィール経由のサイトアクセス傾向と分析の基本のキ",
+      "author" : "@haseshout",
+      "day" : 6,
+      "url" : "https://note.com/hasebee/n/nfb0eb4f91ce1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GAのイベントを利用して、Webアプリの機能の利用時間を可視化してみる",
+      "author" : "@motoy0shi",
+      "day" : 7,
+      "url" : "https://note.com/yoshi_bpwire/n/n3bc8c2d5c933"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「だけ」になるのが嫌だったけど「だけ」になった",
+      "author" : "@uneidou",
+      "day" : 8,
+      "url" : "https://www.uneidou.com/20522.php"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "この集計処理しているの、どーこだ？問題",
+      "author" : "@Ryo_Koriyama",
+      "day" : 9,
+      "url" : "https://note.com/rk_note/n/nc7da931bcb0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SEOやローカル検索を基礎から学びたいけど、学べる環境にいない方へ",
+      "author" : "@ischool_ito",
+      "day" : 10,
+      "url" : "https://ischool.co.jp/2021-12-10-how-to-learn-seo-and-local-search-from-the-basics/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【休日検索雑談】金曜日の次点の探し方",
+      "author" : "@fuguti",
+      "day" : 11,
+      "url" : "https://www.baka-ke.com/2021/12/11/how-to-search-jiten/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "美容クリニックの広告やら何やらに思うこと",
+      "author" : "@yusuke_futamura",
+      "day" : 12,
+      "url" : "https://yusuke-futamura.com/blog/web/entry-449.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベストプラクティスを教えてもらおうとする行為がベストプラクティスではない ",
+      "author" : "@mackey_ac",
+      "day" : 13,
+      "url" : "https://note.com/mackey_ac/n/n3d195f94328c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規事業を立ち上げるに当たって考えた、検索で勝てる「ネーミング」や「広報」に関する事柄まとめ",
+      "author" : "@medicomkim",
+      "day" : 14,
+      "url" : "https://next-com.biz/new-business/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "過去記事：ある「Google アナリティクス担当」の1日（20200117）",
+      "author" : "@nagai_takashi",
+      "day" : 15,
+      "url" : "https://note.com/speed_practice/n/n50ee881d8cdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1年10ヶ月フルリモートワークした感想",
+      "author" : "@Ryo_Koriyama",
+      "day" : 16,
+      "url" : "https://note.com/rk_note/n/n84a626f7ef3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「やったことがないからできません」の鎮め方",
+      "author" : "@kazkida",
+      "day" : 17,
+      "url" : "https://note.com/kazkida/n/n15e096bc3d2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リサーチのプロにアンケート設計を見てもらった話",
+      "author" : "@tomohiko_ishii",
+      "day" : 19,
+      "url" : "https://home-brewers.jp/post/web-survey/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のGA4とGTMサーバーサイドの話",
+      "author" : "@rinrin2",
+      "day" : 20,
+      "url" : "https://note.com/webanalysis/n/n86ed803fca12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レポート作る時にチェックするといいこと(初心者向け)",
+      "author" : "@kasumiYoshinari",
+      "day" : 21,
+      "url" : "https://note.com/yoshinari_kasumi/n/n41ee2489d268"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "中小企業のGoogle アナリティクスでよく使うものや考え方やその他のあれ",
+      "author" : "@yusuke_futamura",
+      "day" : 22,
+      "url" : "https://yusuke-futamura.com/blog/google_analytics/entry-451.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@Ryo_Koriyama"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GA】Google Merchandise store を勝手に解析する",
+      "author" : "@webplajp",
+      "day" : 24,
+      "url" : "https://www.webpla.jp/20211224/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tomohiko_ishii"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Yahoo！ニュース】オリンピックに関するコメント分析から見えたことは？",
+      "author" : "@Octoparse_Japan",
+      "day" : 1,
+      "url" : "https://www.octoparse.jp/blog/yahoo-comment-analysis-on-the-olympics-in-the-news/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "私がアドベントカレンダーへの参加をおすすめする3つの理由",
+      "author" : "@yusuke_futamura",
+      "day" : 2,
+      "url" : "https://yusuke-futamura.com/blog/google_analytics/entry-446.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "商品・サービス名を決める際にSEO観点から考慮すべき事項",
+      "author" : "@medicomkim",
+      "day" : 3,
+      "url" : "https://next-com.biz/brand-name/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ユニバーサルアナリティクスでのカスタム指標活用例",
+      "author" : "@nagai_takashi",
+      "day" : 4,
+      "url" : "https://digitalanalyst.asia/blog/custom-metrics-in-use/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「ふたむらさん、わたし未経験ですが副業でウェブやりたいです」",
+      "author" : "@yusuke_futamura",
+      "day" : 5,
+      "url" : "https://yusuke-futamura.com/blog/web/entry-447.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "過去記事：GAの「新規とリピーター」の正しい捉え方",
+      "author" : "@Ryo_Koriyama",
+      "day" : 6,
+      "url" : "https://googleanalytics-laboratory.com/columns/7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Googleビジネスプロフィールのパフォーマンスレポートのゆる～い話",
+      "author" : "@mamizu1128",
+      "day" : 7,
+      "url" : "https://mana-biz.com/post-1362/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "地方のウェブ屋がMBA学び始めて半年以上経ちました",
+      "author" : "@yusuke_futamura",
+      "day" : 8,
+      "url" : "https://yusuke-futamura.com/blog/web/entry-448.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "推しとデジタルと2021。",
+      "author" : "@kasumiYoshinari",
+      "day" : 9,
+      "url" : "https://note.com/yoshinari_kasumi/n/nb5f3dce7f126"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "THE MODEL組織の落とし穴。LTVを踏まえたペルソナ設定の必要性",
+      "author" : "@yooheykoji",
+      "day" : 10,
+      "url" : "https://note.com/yoheikojima/n/nc16aa872197e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "過去記事：SEO 中級者向け 順位分析のやり方",
+      "author" : "@takano_seo",
+      "day" : 11,
+      "url" : "https://takano.hatenablog.jp/entry/2019/08/08/084437"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "過去記事：データポータルの CASE 文で Google アナリティクスの URL 系ディメンションを分類したレポート",
+      "author" : "@takano_seo",
+      "day" : 12,
+      "url" : "https://takano.hatenablog.jp/entry/2020/10/13/074456"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "母校に栄光あれ！",
+      "author" : "@yusuke_futamura",
+      "day" : 13,
+      "url" : "https://yusuke-futamura.com/blog/yomoyama/entry-450.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "リスティング広告に大切なことは全部「長州力」が教えてくれた",
+      "author" : "@amijat",
+      "day" : 14,
+      "url" : "https://amijat.work/listing-ad-power-fall"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BtoBマーケ立ち上げで経験した5つの失敗と、自社に合った戦略の見つけ方",
+      "author" : "@yooheykoji",
+      "day" : 15,
+      "url" : "https://note.com/yoheikojima/n/nf2b4db14bfd0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "地方移住して1年半のフリーランスWebマーケターの振り返り",
+      "author" : "@NYUSQUARE",
+      "day" : 16,
+      "url" : "https://dandanshark.com/2021/12/16/advent2021/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "WEBマーケッターにおける精神論と感性のお部屋",
+      "author" : "@nakajo_takuya",
+      "day" : 17,
+      "url" : "https://note.com/takuyanakajo88/n/nc5fed0283e2e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【SEO初心者向け】意外としらない、構造化データのルール",
+      "author" : "@kuma_aspiration",
+      "day" : 18,
+      "url" : "https://note.com/osawa_shoki/n/nae18445fe2a4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【12/25開催告知】疲れている人のためのクリスマス配信",
+      "author" : "@tomohiko_ishii",
+      "day" : 19,
+      "url" : "https://note.com/tomohiko_ishii/n/nbb84943d2ec5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "初心者がBigQueryを使ってみた感想",
+      "author" : "@Ryo_Koriyama",
+      "day" : 20,
+      "url" : "https://note.com/rk_note/n/n4516f9e63122"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SEO担当者100人にお仕事を聞いた話",
+      "author" : "@tomohiko_ishii",
+      "day" : 21,
+      "url" : "https://home-brewers.jp/post/ism-lt/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【役立つ資格？】「初級ウェブ広告マネージャー」を受講してみた感想",
+      "author" : "@amijat",
+      "day" : 22,
+      "url" : "https://amijat.work/admanager-beginner"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "過去記事：検証サイトと本番サイトそれぞれGAをGTMで一括管理する設定方法",
+      "author" : "@motoy0shi",
+      "day" : 23,
+      "url" : "https://note.com/yoshi_bpwire/n/n1ccc2126fd78"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "地方の中小企業にできるO2Oの施策について考えてみる",
+      "author" : "@yuji_sekido",
+      "day" : 24,
+      "url" : "https://note.com/yuji_sekido/n/na585bc891893"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@tomohiko_ishii"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "過去記事：a2iセミナーレポートを1年担当致しました",
+      "author" : "@yusuke_futamura",
+      "day" : 1,
+      "url" : "https://yusuke-futamura.com/blog/google_analytics/entry-407.html"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Excel集計用のGoogle アナリティクスのデータ元をデータポータルで作る方法（とこうした作業が必要になるアクセス解析の昨今について）",
+      "author" : "@nagai_takashi",
+      "day" : 2,
+      "url" : "https://note.com/speed_practice/n/n1401c65c4628"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "「Google アナリティクス４」に関してよくあるQ&Aを40個まとめました！",
+      "author" : "@ryuka01",
+      "day" : 3,
+      "url" : "https://analytics.hatenadiary.com/entry/2021/12/03/091157"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "過去記事：若いうちに働け",
+      "author" : "@yusuke_futamura",
+      "day" : 4,
+      "url" : "https://yusuke-futamura.com/blog/business/entry-213.html"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "データ系プロジェクト用語解説とETLツールの紹介",
+      "author" : "@nanaki11",
+      "day" : 9,
+      "url" : "https://qiita.com/nanaki11/items/58d88f306bc6f26b0238"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "過去記事：GTM×カスタムデータ属性で、特定の要素のクリックをGAに記録する方法",
+      "author" : "@motoy0shi",
+      "day" : 12,
+      "url" : "https://note.com/yoshi_bpwire/n/n826a27103615"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "拡販の努力を。よい商品でも勝手に売れることは稀。",
+      "author" : "@kenichi_hira",
+      "day" : 15,
+      "url" : "https://hiraokakenichi.com/philosophy/33/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "フリーランスの広告運用者。独立1年目の振り返り",
+      "author" : "@amijat",
+      "day" : 16,
+      "url" : "https://amijat.work/sem-freelance-income-01"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "SEM Technologyが提供するMakeshopユーザー向けサービス",
+      "author" : "@1987yama3",
+      "day" : 17,
+      "url" : "https://sem-technology.info/blog/posts/00159/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Scikit-learnのデータセットをブラウザで見るアプリ作った",
+      "author" : "@bluepost59",
+      "day" : 18,
+      "url" : "https://zenn.dev/bluepost/articles/29ed25b754257c"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "役に立たないMBA受験の対策方法",
+      "author" : "@nagai_takashi",
+      "day" : 19,
+      "url" : "https://note.com/speed_practice/n/n2c08934a9398"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "オンライン診療はヘルステック領域に影響を与えたのか",
+      "author" : "@naokiuc",
+      "day" : 20,
+      "url" : "https://qiita.com/naokiuc/items/5efab2cc6b24072ba6b1"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Web未経験者が、日々Webマーケティングを学ぶようになったきっかけ",
+      "author" : "@yuji_sekido",
+      "day" : 21,
+      "url" : "https://note.com/yuji_sekido/n/n887806a8e22e"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "実は一筋縄ではいかない、GA4とGTMによる埋め込みYouTube動画計測の話",
+      "author" : "@makitani",
+      "day" : 22,
+      "url" : "https://cinci.jp/blog/20211222-track-youtube-videos-with-ga4-and-gtm"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "DevToolsのConsoleが開かれたことをGAで計測する",
+      "author" : "@nbkmhr",
+      "day" : 23,
+      "url" : "https://qiita.com/nbkmhr/items/898de22c87097d202fa7"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "GTMを使ってCore Web Vitalsの数値をGA4で計測する方法",
+      "author" : "@muraweb_net",
+      "day" : 24,
+      "url" : "https://blog.muraweb.net/2021/05/how-measure-core-web-vitals-using-gtm.html"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25,
+      "author" : "@nagai_takashi"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "過去記事：ぼくとわたしのテレアポ論",
+      "author" : "@yusuke_futamura",
+      "day" : 23,
+      "url" : "https://yusuke-futamura.com/blog/telephone-appointment/entry-439.html"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "ISM LT 祭り 2021 開催レポート",
+      "author" : "@takano_seo",
+      "day" : 24,
+      "url" : "https://www.ismhub.com/posts/26197827"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 25
+    }
+  ]
+}

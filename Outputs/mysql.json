@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T08:07:15Z",
+  "calendar_meta_data" : {
+    "author" : "@meijik",
+    "category" : "データベース",
+    "lgtm" : 66,
+    "subscribers" : 104,
+    "title" : "MySQL Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "mysql",
+    "url" : "https://qiita.com/advent-calendar/2021/mysql"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "今年もConoHa VPS 1GでMySQLをビルドする",
+      "author" : "@yoku0825",
+      "day" : 1,
+      "url" : "https://yoku0825.blogspot.com/2021/12/conohamysql-2021.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL 8.0.22が来た! カッコで囲まれたクエリー式(Parenthesized Query Expressions)",
+      "author" : "@meijik",
+      "day" : 2,
+      "url" : "http://blog.kimuradb.com/?eid=877642"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perlで作られたMySQL用の何かについて",
+      "author" : "@yoku0825",
+      "day" : 3,
+      "url" : "https://yoku0825.blogspot.com/2021/12/perlmysql.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのデータベース(schema)のコピーにかかる時間を比較してみた",
+      "author" : "@tom__bo",
+      "day" : 4,
+      "url" : "https://tombo2.hatenablog.com/entry/2021/12/04/004720"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートからBLOB型に画像やPDFファイルを登録する方法",
+      "author" : "@taka_yuki_04",
+      "day" : 5,
+      "url" : "https://next4us-ti.hatenablog.com/entry/2021/12/05/063359"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Aurora MySQL バージョン 1（5.6 互換）→バージョン 3（8.0 互換）間の dumpInstance() & loadDump() を試す",
+      "author" : "@hmatsu47",
+      "day" : 6,
+      "url" : "https://qiita.com/hmatsu47/items/9db2ad8e8f41e44a54b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLの行ロックを図解",
+      "author" : "@ham0215",
+      "day" : 7,
+      "url" : "https://qiita.com/ham0215/items/57f84a9bf28cd2635dac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今度はConoHa 1GBの上でMariaDBをビルドします",
+      "author" : "@yoku0825",
+      "day" : 8,
+      "url" : "https://yoku0825.blogspot.com/2021/12/conoha-1gbmariadb.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UUID_TO_BIN() 関数と BIN_TO_UUID() 関数のpolyfillを書いてみた",
+      "author" : "@tkooler_lufar",
+      "day" : 9,
+      "url" : "https://qiita.com/tkooler_lufar/items/9a3b6eb1a9f43db83d04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【MySQL】NULLを含む比較演算でハマった",
+      "author" : "@y_sone",
+      "day" : 10,
+      "url" : "https://qiita.com/y_sone/items/32520817d51652146c2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コラム：僕とイルカとの出会いと、そのころの出来事",
+      "author" : "@meijik",
+      "day" : 11,
+      "url" : "http://blog.kimuradb.com/?eid=877651"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ruby-mysql",
+      "author" : "@tmtms",
+      "day" : 12,
+      "url" : "https://blog.tmtms.net/entry/202112/ruby-mysql"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "良くないテーブル設計だとどうなるのか",
+      "author" : "@updraft",
+      "day" : 13,
+      "url" : "https://updraft.hatenadiary.com/entry/2021/12/13/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pt-online-schema-changeとgh-ostの比較(データが損失するかもしれないAlterTable編)",
+      "author" : "@keny_lala",
+      "day" : 14,
+      "url" : "https://kenken0807.hatenablog.com/entry/2021/12/14/000622"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLアンチパターン：とりあえずUNION",
+      "author" : "@masudakz",
+      "day" : 15,
+      "url" : "https://qiita.com/masudakz/items/7d50a36b2a2f8fc250d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL Server Exporterを使ってみよう",
+      "author" : "@k8uwall",
+      "day" : 16,
+      "url" : "https://qiita.com/k8uwall/items/7a711bb56071ef7cd983"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL8+dockerのレプリケーション環境でbigramの同期を確認する。",
+      "author" : "@abejjj",
+      "day" : 17,
+      "url" : "https://qiita.com/abejjj/items/9f8f5c45e2480a01bb1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL8.0を再起動するとアプリからつながらなくなる理由",
+      "author" : "@taka_yuki_04",
+      "day" : 18,
+      "url" : "https://next4us-ti.hatenablog.com/entry/2021/12/18/072123"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pt-online-schema-changeによる負荷を好きなメトリクスでコントロールする",
+      "author" : "@shallow1729",
+      "day" : 19,
+      "url" : "https://shallow1729.hatenablog.com/entry/modify-pt-osc-for-rds"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのオンラインDDLでレプリケーション遅延を回避する方法",
+      "author" : "@yy_harachi",
+      "day" : 20,
+      "url" : "https://qiita.com/yy_harachi/items/b2463c0872e044c8c25a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日は、MySQLのJSON型ってどんな感じで扱うのの日。",
+      "author" : "@updraft",
+      "day" : 21,
+      "url" : "https://updraft.hatenadiary.com/entry/2021/12/21/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【MySQL】空文字だけを抽出するつもりが半角スペースも抽出されたんだけどどういうこと？",
+      "author" : "@TomoProg",
+      "day" : 22,
+      "url" : "https://qiita.com/TomoProg/items/ba907245dc12e9967faa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLと(OracleとPostgresSQLと)私の12年間",
+      "author" : "@zoosm3",
+      "day" : 23,
+      "url" : "https://zoosm3.hatenablog.com/entry/2021/12/23/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TRUNCATE TABLEの実装とDELETE FROM",
+      "author" : "@meijik",
+      "day" : 24,
+      "url" : "http://blog.kimuradb.com/?eid=877664"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hmatsu47"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "created_at" : "2021-12-24T12:58:13Z",
+  "calendar_meta_data" : {
+    "author" : "@MasayaAoyama",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 30,
+    "subscribers" : 104,
+    "title" : "Kubernetes Advent Calendar 2021",
+    "participants" : 30,
+    "unique_name" : "kubernetes",
+    "url" : "https://qiita.com/advent-calendar/2021/kubernetes"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "おうち Kubernetes に最適な Synology 公式の CSI Driver がリリースされた話と Cloning / Snapshot feature deep dive",
+      "author" : "@MasayaAoyama",
+      "day" : 1,
+      "url" : "https://amsy810.hateblo.jp/entry/2021/12/01/061430"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advanced StatefulSet を使ってみよう",
+      "author" : "@makocchi",
+      "day" : 2,
+      "url" : "https://makocchi.medium.com/how-to-use-advanced-statefulset-ja-779ca00e2dda"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタムコントローラーで任意のイベントを起点にReconcileを実行する",
+      "author" : "@hhiroshell",
+      "day" : 3,
+      "url" : "https://zenn.dev/hhiroshell/articles/custom-controller-for-out-of-cluster-events"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Karpenterのファーストインプレッション",
+      "author" : "@inductor",
+      "day" : 4,
+      "url" : "https://blog.inductor.me/entry/2021/12/06/165743"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GPU Operator の話書きます。",
+      "author" : "@imokurity",
+      "day" : 5,
+      "url" : "https://imokuri123.com/blog/2021/12/gpu-operator-with-multiple-cuda/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kuberentesの水平オートスケール(HPA v2)",
+      "author" : "@shmurata",
+      "day" : 6,
+      "url" : "https://qiita.com/shmurata/items/e6bd8c56f3e4f9a8e384"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetes Podのディレクトリをマウントするkubectlプラグインを作った",
+      "author" : "@ueokande",
+      "day" : 7,
+      "url" : "https://i-beam.org/2021/12/07/kubectl-mount/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@smiyaguchi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Admiraltyのvirtual-kubeletでKubernetesクラスタからk3sにPodをオフロードする",
+      "author" : "@kaitoy",
+      "day" : 9,
+      "url" : "https://www.kaitoy.xyz/2021/12/09/virtual-kubelet-admiralty/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenShift GitOps Operator は 何をしているのか",
+      "author" : "@loftkun",
+      "day" : 10,
+      "url" : "https://qiita.com/loftkun/items/b888b9efd2cebdb990da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "条件付きでPreemptionを抑制(Tolerate)できるPreemption TolerationというKubernetes Scheduler Pluginを作った",
+      "author" : "@everpeace",
+      "day" : 11,
+      "url" : "https://qiita.com/everpeace/items/6152db29e2f609464800"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CUE言語のKubernetesチュートリアル【和訳】",
+      "author" : "@riita10069",
+      "day" : 12,
+      "url" : "https://qiita.com/riita10069/items/1c9077657fcd62843aaf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kustomizeの拡張機能でIngressの環境管理を実現する",
+      "author" : "@jlandowner",
+      "day" : 13,
+      "url" : "https://qiita.com/jlandowner/items/89918462afbaaf865b09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " Auto remove PVCs created by StatefulSetについて",
+      "author" : "@yosshi_",
+      "day" : 14,
+      "url" : "https://qiita.com/yosshi_/items/93dd3b4960412aaca453"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KubernetesのSeccompDefaultを試した",
+      "author" : "@uesyn",
+      "day" : 15,
+      "url" : "https://qiita.com/uesyn/items/3fc1b25eafa0939aebb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Accurateの内部実装",
+      "author" : "@bells17",
+      "day" : 16,
+      "url" : "https://bells17.medium.com/accurate-internal-70915fe716ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kustomize でベースではなくパッチを共有したいときは Component をつかう",
+      "author" : "@superbrothers",
+      "day" : 17,
+      "url" : "https://text.superbrothers.dev/211216-kustomize-components/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Karpenter Deep Dive",
+      "author" : "@Morero",
+      "day" : 18,
+      "url" : "https://t4i5uke.github.io/2021/12/karpenter-deep-dive/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle MySQL Operator for Kubernetes & WordPress",
+      "author" : "@cyberblack28",
+      "day" : 19,
+      "url" : "https://qiita.com/cyberblack28/items/cdf744ece15311714b6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "notifications-engine で作る通知機能",
+      "author" : "@KatsuyaKawabe",
+      "day" : 20,
+      "url" : "https://zenn.dev/k4sper/articles/be96309852fb8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PR が出るたびに Kubernetes 上で dev 環境を立ち上げるための Kubernetes Operator",
+      "author" : "@kanatakita",
+      "day" : 21,
+      "url" : "https://zenn.dev/kanatakita/articles/about-reviewapp-operator"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Liveness Probeのいつもと違う使い方",
+      "author" : "@hnts",
+      "day" : 22,
+      "url" : "https://hanatsuu.medium.com/liveness-probe%E3%81%AE%E3%81%84%E3%81%A4%E3%82%82%E3%81%A8%E9%81%95%E3%81%86%E4%BD%BF%E3%81%84%E6%96%B9-bc1f8d58da8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内の主要バックエンドをGKEに移行したハナシ",
+      "author" : "@junpayment",
+      "day" : 24,
+      "url" : "https://blog.nohana.co.jp/article/move-parse-gke"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@bells17"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "kubenetesクラスターの構築(kubeadm) on Ubuntu Server 20.04.3 LTS",
+      "author" : "@matt_zeus",
+      "day" : 7,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211201/1638364936"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Kubernetes API-Serverへkubectlではなく、curl(http api)でアクセスをする方法",
+      "author" : "@matt_zeus",
+      "day" : 8,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211202/1638446593"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "kubernetesのデータベースetcdをバックアップする",
+      "author" : "@matt_zeus",
+      "day" : 9,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211206/1638796271"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Tiltでカスタムコントローラーの開発を効率化しよう",
+      "author" : "@zoetro",
+      "day" : 10,
+      "url" : "https://zenn.dev/zoetro/articles/fba4c77a7fa3fb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "\"Terminating\"のまま削除できないPodの強制削除(kubernetes)",
+      "author" : "@matt_zeus",
+      "day" : 11,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211207/1638879696"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "カスタムコントローラーでServer-Side Apply - ApplyConfigurationのDeepCopyをなんとかする",
+      "author" : "@zoetro",
+      "day" : 12,
+      "url" : "https://zenn.dev/zoetro/articles/02668f00748e1a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Podが\"Pending\"のまま起動しない原因(kubernetes)",
+      "author" : "@matt_zeus",
+      "day" : 13,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211207/1638884508"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "kuernetes yamlファイルの書き方",
+      "author" : "@matt_zeus",
+      "day" : 14,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211208/1638967607"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "calico.yamlに書かれていること",
+      "author" : "@matt_zeus",
+      "day" : 15,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211208/1638970448"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "NATS JetStreamをKubernetes上で動かしてみた",
+      "author" : "@riita10069",
+      "day" : 16,
+      "url" : "https://qiita.com/riita10069/items/684399e03ff4c3ecb6f9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Kubesprayでcontainerd on UbuntuのKubenretesクラスタを立てる",
+      "author" : "@t-ide",
+      "day" : 17,
+      "url" : "https://qiita.com/t-ide/items/59f8e0db9f94ab8983af"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Go 1.18のGenericsを利用してServer-Side Applyに挑戦",
+      "author" : "@zoetro",
+      "day" : 19,
+      "url" : "https://zenn.dev/zoetro/articles/12ef7ff671a929"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "EKSのノード料金を節約するためにやったこと",
+      "author" : "@tommy-sho",
+      "day" : 20,
+      "url" : "https://zenn.dev/tommy/articles/8dcb0302b2fbdc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ReplicaSet Controllerは削除するPodをどうやって決めるのか",
+      "author" : "@iamnishipy",
+      "day" : 21,
+      "url" : "https://nishipy.com/archives/1912"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ローカルKubernetes環境のネットワークを攻略する",
+      "author" : "@castaneai",
+      "day" : 22,
+      "url" : "https://zenn.dev/castaneai/articles/local-kubernetes-networking"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "clickhouse-operatorツアー",
+      "author" : "@mzuk",
+      "day" : 23,
+      "url" : "https://qiita.com/mzuk/items/b796e35f03ac75ac0eb9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "kubernetes APIリソース一覧とショートネームについて",
+      "author" : "@matt_zeus",
+      "day" : 24,
+      "url" : "https://www.opensourcetech.tokyo/entry/20211219/1639899146"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@matt_zeus"
+    }
+  ]
+}

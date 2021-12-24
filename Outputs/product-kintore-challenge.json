@@ -1,0 +1,177 @@
+{
+  "created_at" : "2021-12-24T04:04:28Z",
+  "calendar_meta_data" : {
+    "author" : "@akihiro-iwata",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 19,
+    "subscribers" : 21,
+    "title" : "プロダクトづくりのための挑戦とその成功・失敗談を綴るアドベントカレンダー powered by プロダクト筋トレ Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "product-kintore-challenge",
+    "url" : "https://qiita.com/advent-calendar/2021/product-kintore-challenge"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "「顧客要望にだけ応えても売れる商品は作れないよ」と言われて途方に暮れていた初心者PMの苦闘と閃き",
+      "author" : "@akihiro-iwata",
+      "day" : 1,
+      "url" : "https://qiita.com/akihiro-iwata/items/ca7c5ffda3334b8ccbc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "B2B(2E) SaaS設計における「顧客」って誰やねん問題について",
+      "author" : "@ku_suke",
+      "day" : 2,
+      "url" : "https://qiita.com/ku_suke/items/916436a9b8373db8570b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WEB屋から事業の世界へ飛び込んだPdMのお話し",
+      "author" : "@cyanpon",
+      "day" : 3,
+      "url" : "https://note.com/cyanpon/n/nb16dac6214f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(仮)PMをチームで行う取り組みの振り返り",
+      "author" : "@otsubo666",
+      "day" : 4,
+      "url" : "https://o-tsubo.medium.com/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E6%8B%85%E3%81%86%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%AE%E6%8C%AF%E8%BF%94%E3%82%8A-44bd82389edb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリ開発に行き詰まったので使われない機能を削除してみた",
+      "author" : "@akinatty",
+      "day" : 5,
+      "url" : "https://note.com/akinat/n/n0d8ce8e16778"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PMにロールを切り替えた話しと切り替えた後にしたことを整理します",
+      "author" : "@Junsora11",
+      "day" : 6,
+      "url" : "https://note.com/blue_sky_js/n/n764100ef8b54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクト開発／企画 ゼロイチフェーズでの苦悩",
+      "author" : "@fideleruuth",
+      "day" : 7,
+      "url" : "https://note.com/fideleruuth/n/nc41563731c69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "子どもが自律して読書をするためのサービスデザイン",
+      "author" : "@morogile",
+      "day" : 8,
+      "url" : "https://note.com/gilefra/n/n8704167bfc94"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「高級フードデリバリー」×「タクシー」アプリ立ち上げの産みの苦しみとやりがい",
+      "author" : "@twoboy3104",
+      "day" : 9,
+      "url" : "https://note.com/twoboy3104/n/n40c3e0314010"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトマネージャー（PdM）とプロジェクトマネージャー（PjM）とプロダクトオーナー（PO）の違いを考える",
+      "author" : "@s977043",
+      "day" : 10,
+      "url" : "https://note.com/mine_unilabo/n/n23ec87da4cdb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CTOがPMをやる事になった背景とそのための準備、これからやっていくこと",
+      "author" : "@kotamat",
+      "day" : 11,
+      "url" : "https://note.com/kotamat/n/nfd52b23a7ec6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドメインエキスパートではないPMがどのようにプロダクトを開発するか",
+      "author" : "@Kesuke2",
+      "day" : 12,
+      "url" : "https://note.com/kkawase/n/ndc2feaae0e38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PdMが採用企画したら応募が数倍になった話をします",
+      "author" : "@go_go_pdm",
+      "day" : 13,
+      "url" : "https://note.com/go_go_career/n/n0bbd8ebc2d57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソリューションありきプロダクトの困難～ビジョンやミッション信じてますか？～",
+      "author" : "@funassy",
+      "day" : 14,
+      "url" : "https://tech.fusic.co.jp/posts/2021-12-13-pm-sigfy/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いいプロダクトと売れるプロダクトは違うという悲しい現実【実体験と解決策あり】",
+      "author" : "@keijiito",
+      "day" : 15,
+      "url" : "https://keijiito.com/goodbutnotsoldwell/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "突然新規事業のディレクターに抜擢されてからすぐにやったことと、いまの課題",
+      "author" : "@okada_seira",
+      "day" : 16,
+      "url" : "https://note.com/okd_sir/n/nd32cf97b8a99"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@dododo8m"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "とにかくユーザーリサーチをやった１年を振り返る",
+      "author" : "@ToSinrai",
+      "day" : 19,
+      "url" : "https://note.com/akihiro0038/n/n79be18d5ddf4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カオスな創業期にPMを兼任する上で、最低限これだけは注力した、するべきだったこと５選",
+      "author" : "@shinz1105",
+      "day" : 20,
+      "url" : "https://note.com/shinz1105/n/n3df2219b4231"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@yuta139k"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトマネジメントロールを新設して1年経ったので振り返る",
+      "author" : "@tamoryo37",
+      "day" : 22,
+      "url" : "https://tech.robotpayment.co.jp/entry/2021/12/23/180254"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@ozyozyo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@aismgr"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@_mathken"
+    }
+  ]
+}

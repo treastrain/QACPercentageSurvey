@@ -1,0 +1,173 @@
+{
+  "created_at" : "2021-12-24T04:55:52Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社LIGHTz",
+    "category" : "企業・学校・団体",
+    "lgtm" : 75,
+    "subscribers" : 4,
+    "title" : "LIGHTz Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "lightz",
+    "url" : "https://qiita.com/advent-calendar/2021/lightz"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "マルチテナント SaaS を設計する際に参考になった資料",
+      "author" : "@nassy20",
+      "day" : 1,
+      "url" : "https://qiita.com/nassy20/items/99ff3d7ac0fb00989aef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラム開発での「ふりかえり」にて改善アクションを決める上で工夫したこと",
+      "author" : "@Shin-27",
+      "day" : 2,
+      "url" : "https://qiita.com/Shin-27/items/cc7ae660770114fdd562"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TDD勉強会主催レポート inspired by TDDyyx",
+      "author" : "@KTaskn",
+      "day" : 3,
+      "url" : "https://qiita.com/KTaskn/items/00109cbb1ae395df0f15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "議事録をお願いするときに気を付けていること",
+      "author" : "@cabbit",
+      "day" : 4,
+      "url" : "https://qiita.com/cabbit/items/8857a87858cea79ae489"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインと実装のギャップを埋めるために",
+      "author" : "@uraura_hs3",
+      "day" : 5,
+      "url" : "https://qiita.com/uraura_hs3/items/bec11e0d9d40ba9a13c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おすすめUdemy講座　データサイエンス初級編",
+      "author" : "@TOga1220",
+      "day" : 6,
+      "url" : "https://qiita.com/TOga1220/items/14508931a5163166a5c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "第1回個人開発プロダクト供養~kotobanote~",
+      "author" : "@KTaskn",
+      "day" : 7,
+      "url" : "https://qiita.com/KTaskn/items/717ef44eea4e7ce54d2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CI/CD戦略を考える",
+      "author" : "@Shin-27",
+      "day" : 8,
+      "url" : "https://qiita.com/Shin-27/items/ce71cbc5b947c4031648"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Git for Windows の落とし穴（Turai）",
+      "author" : "@KTaskn",
+      "day" : 9,
+      "url" : "https://qiita.com/KTaskn/items/663b5195eee0794a5d5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "npm パッケージを TypeScript で作って GitHub packeges に公開する",
+      "author" : "@nassy20",
+      "day" : 10,
+      "url" : "https://qiita.com/nassy20/items/2b22d0efb06a5d7344af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "早寝、早起きのススメ",
+      "author" : "@ko2ym",
+      "day" : 11,
+      "url" : "https://note.com/ko2ym/n/n37d590ee9df0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "失敗から学ぶマネージャー論",
+      "author" : "@ko2ym",
+      "day" : 12,
+      "url" : "https://note.com/ko2ym/n/n91dc386eb564"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お仕事で大切にしていること。",
+      "author" : "@ko2ym",
+      "day" : 13,
+      "url" : "https://www.wantedly.com/users/130858042/post_articles/290182"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "第2回個人開発プロダクト供養~ogpkatex~",
+      "author" : "@KTaskn",
+      "day" : 14,
+      "url" : "https://qiita.com/KTaskn/items/f1d2056326b38db2163e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラム開発を学ぶ上でオススメの書籍・イベント",
+      "author" : "@Shin-27",
+      "day" : 15,
+      "url" : "https://qiita.com/Shin-27/items/184fd4512a641d674027"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenAPI (Swagger) 関連の便利なツールや tips を紹介",
+      "author" : "@nassy20",
+      "day" : 16,
+      "url" : "https://qiita.com/nassy20/items/846c71fbe199a08c80de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロングスリーパーのエンジニアが生き残る方法",
+      "author" : "@cabbit",
+      "day" : 17,
+      "url" : "https://qiita.com/cabbit/items/e0becbb20df8813346ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASとline messaging APIで洗濯タイマーbotを作った話(その1：LINE側準備編)",
+      "author" : "@cabbit",
+      "day" : 18,
+      "url" : "https://qiita.com/cabbit/items/546de0ba56f63711feae"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@KTaskn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Draw.ioのレイヤー機能の挙動をまとめた",
+      "author" : "@YamaZMe",
+      "day" : 23,
+      "url" : "https://qiita.com/YamaZMe/items/6ecb0b2925fe814273ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

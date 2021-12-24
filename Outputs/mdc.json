@@ -1,0 +1,147 @@
+{
+  "created_at" : "2021-12-24T06:06:34Z",
+  "calendar_meta_data" : {
+    "author" : "@Kazuma4420",
+    "category" : "企業・学校・団体",
+    "lgtm" : 24,
+    "subscribers" : 2,
+    "title" : "MDC Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "mdc",
+    "url" : "https://qiita.com/advent-calendar/2021/mdc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "LinuC2を受けようと思ったのできっかけや勉強方法を書く",
+      "author" : "@methimo",
+      "day" : 1,
+      "url" : "https://qiita.com/methimo/items/982ded8a3930c0374b50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "資格試験と自己成長について",
+      "author" : "@omix222",
+      "day" : 2,
+      "url" : "https://qiita.com/omix222/items/8e8af2b1b6e3f18db1ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JJUG CCC 2021 Fallに参加しました",
+      "author" : "@omix222",
+      "day" : 4,
+      "url" : "https://qiita.com/omix222/items/7100e347807ce83fcc9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェア開発とSDGs",
+      "author" : "@bamiyanapp",
+      "day" : 5,
+      "url" : "https://qiita.com/bamiyanapp/items/b57e489e9dd0cb290d1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SSO(SingleSignOn)を使って複数サービスログインを一元管理する①",
+      "author" : "@methimo",
+      "day" : 6,
+      "url" : "https://qiita.com/methimo/items/36c8ce5f995145ac60bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "現役SEが教える10分でわかるチームでのWebアプリケーション開発手法！",
+      "author" : "@aion0721",
+      "day" : 10,
+      "url" : "https://qiita.com/aion0721/items/2cd6feddbba3312e96b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "トヨタ博物館で感じた技術の振り子",
+      "author" : "@bamiyanapp",
+      "day" : 11,
+      "url" : "https://qiita.com/bamiyanapp/items/695ca990d350d0ed1712"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeDojoに参加してみた",
+      "author" : "@omix222",
+      "day" : 12,
+      "url" : "https://qiita.com/omix222/items/6357ed5168fe7a4fedda"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@methimo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "月次の電気料金を通知するLINE Botを作ってみた",
+      "author" : "@mu_yseki",
+      "day" : 21,
+      "url" : "https://qiita.com/mu_yseki/items/67b94c3529d4acdfcb6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イマドキサービスのアーキテクチャパターン（サーバアリやナシや）",
+      "author" : "@aion0721",
+      "day" : 23,
+      "url" : "https://qiita.com/aion0721/items/e87b36158e5fa189106e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@mu_yseki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

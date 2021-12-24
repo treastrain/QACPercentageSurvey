@@ -1,0 +1,183 @@
+{
+  "created_at" : "2021-12-24T06:20:21Z",
+  "calendar_meta_data" : {
+    "author" : "@enokizako",
+    "category" : "企業・学校・団体",
+    "lgtm" : 33,
+    "subscribers" : 2,
+    "title" : "PasonaTech Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "pasonatech",
+    "url" : "https://qiita.com/advent-calendar/2021/pasonatech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AzureFunctions＋Dashでお手軽ダッシュボード",
+      "author" : "@enokizako",
+      "day" : 1,
+      "url" : "https://qiita.com/enokizako/items/d336148bf1166925487c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】Excelに書かれたURLから動画をダウンロードしたい",
+      "author" : "@hanana",
+      "day" : 2,
+      "url" : "https://qiita.com/hanana/items/13e37cbc8dcc035afe1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年に買った技術書",
+      "author" : "@ponwink",
+      "day" : 3,
+      "url" : "https://qiita.com/ponwink/items/7cabd4f7fa793d1f77db"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点群のNeighborhoodについて",
+      "author" : "@natsutan",
+      "day" : 5,
+      "url" : "https://qiita.com/natsutan/items/ea3a2ac010f03aa0eb46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and Control",
+      "author" : "@natsutan",
+      "day" : 6,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/06/204224"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and ControlのM",
+      "author" : "@natsutan",
+      "day" : 7,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/07/001332"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and Control のTwist",
+      "author" : "@natsutan",
+      "day" : 8,
+      "url" : "https://natsutan.hatenablog.com/archive/2021/12/08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and Controlのadjoint representation",
+      "author" : "@natsutan",
+      "day" : 9,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/09/224657"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and ControlのWrench",
+      "author" : "@natsutan",
+      "day" : 10,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/11/151925"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "S3でウェブサイトを公開し、CloudFrontでドメイン名を変える方法",
+      "author" : "@wahaha_ponpon",
+      "day" : 11,
+      "url" : "https://qiita.com/wahaha_ponpon/items/1360c64e8d700420f860"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dlibのimglabを使ってアノテーションしてみた",
+      "author" : "@dafukui",
+      "day" : 12,
+      "url" : "https://qiita.com/dafukui/items/5c0946a875caa3184e5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fitbitでざっくり理解するOAuth2",
+      "author" : "@enokizako",
+      "day" : 13,
+      "url" : "https://qiita.com/enokizako/items/6fa91df4a8ed098a9092"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "便利に使おうSyncWith",
+      "author" : "@enokizako",
+      "day" : 14,
+      "url" : "https://qiita.com/enokizako/items/e43ad904e101547abd23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and ControlのForward Kinematics その1",
+      "author" : "@natsutan",
+      "day" : 15,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/13/210048"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and ControlのForward Kinematics その2",
+      "author" : "@natsutan",
+      "day" : 16,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/14/224933"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロドリゲスの回転公式",
+      "author" : "@natsutan",
+      "day" : 17,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/15/231843"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@yamatokun9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノーコードツール「Click」で実装できる便利な機能",
+      "author" : "@hanana",
+      "day" : 19,
+      "url" : "https://qiita.com/hanana/items/7628d05c93413ded95e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyTorchのConv1dを理解する",
+      "author" : "@sshuv",
+      "day" : 20,
+      "url" : "https://qiita.com/sshuv/items/79d9364b8675fdc080cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LineとTeamsをSlackに集約",
+      "author" : "@nosuke505",
+      "day" : 21,
+      "url" : "https://qiita.com/nosuke505/items/0c93900516070e59f127"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and Controlのヤコビアン",
+      "author" : "@natsutan",
+      "day" : 22,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/18/003427"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and ControlのSpaceヤコビアン",
+      "author" : "@natsutan",
+      "day" : 23,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/19/112026"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modern Robotics: Mechanics, Planning, and ControlのBodyヤコビアン",
+      "author" : "@natsutan",
+      "day" : 24,
+      "url" : "https://natsutan.hatenablog.com/entry/2021/12/21/231028"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@enokizako"
+    }
+  ]
+}

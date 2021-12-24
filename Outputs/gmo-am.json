@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T13:08:51Z",
+  "calendar_meta_data" : {
+    "author" : "GMOアドマーケティング株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 16,
+    "subscribers" : 15,
+    "title" : "GMOアドマーケティング Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "gmo-am",
+    "url" : "https://qiita.com/advent-calendar/2021/gmo-am"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "自律組織へ、エンジニア360度評価の紹介",
+      "author" : "@chriszsc",
+      "day" : 1,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/01/360-degree-feedback"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Functionsのタイムアウトについて",
+      "author" : "@zakisanbaiman",
+      "day" : 2,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/02/cloud-functions_timeout/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPカンファレンス2021のオンライン開催を見て",
+      "author" : "@maykeart",
+      "day" : 3,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/03/phpconference2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "簡易ブラックジャックを作ってPHP8.1の列挙型ENUMを試す",
+      "author" : "@KONCE",
+      "day" : 4,
+      "url" : "https://qiita.com/KONCE/items/bd6ef1b189bb224c86a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vertex AI使ってみた",
+      "author" : "@tfactory",
+      "day" : 5,
+      "url" : "https://qiita.com/tfactory/items/fe7b486bffa50297a5c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gem BrakemanでRails製アプリケーションの脆弱性を検知する",
+      "author" : "@thomi40",
+      "day" : 6,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/06/rails-brakeman/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UiPathでスプレッドシートの更新・書き込みを行う。",
+      "author" : "@ytpcas",
+      "day" : 7,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/07/spreadsheet_update_at_uipath/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jumanpp1.04/KNPの環境構築方法",
+      "author" : "@CodeDiggerM",
+      "day" : 8,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/08/jumanpp-1-04-knp"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jumanpp1.04のユーザー辞書を追加する方法",
+      "author" : "@CodeDiggerM",
+      "day" : 9,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/09/jumanpp1-04_dict/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術ブログの数値集計の取り組み",
+      "author" : "@KONCE",
+      "day" : 10,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/10/total_techblog/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jumanpp 2.0のPython環境構築方法",
+      "author" : "@CodeDiggerM",
+      "day" : 11,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/11/jumanpp-2-0/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TensorFlow Recommenderで映画のレコメンダーシステムを構築",
+      "author" : "@CodeDiggerM",
+      "day" : 12,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/12/tensorflow-recommender/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaのSealed Classesについて",
+      "author" : "@nodataka",
+      "day" : 13,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/13/java17-sealed-classes/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マネージャーのキャリアパス",
+      "author" : "@macchan-dev",
+      "day" : 14,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/14/manager_career_path/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Shellのチュートリアルを使ってみた。",
+      "author" : "@hohyun",
+      "day" : 15,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/15/cloud-shell-tutorial/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レコメンドウィジェットを作ってみよう",
+      "author" : "@mnaka11152",
+      "day" : 16,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/16/rwsample/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習が正しく機能しないときに考えること",
+      "author" : "@kyuki12",
+      "day" : 17,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/17/consideration-of-ml/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Notion APIでデータベースを操作する",
+      "author" : "@thomi40",
+      "day" : 18,
+      "url" : "https://qiita.com/thomi40/items/fe2a828746f31ad827ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非エンジニアのProduct Managerが社内のBig Dataを広告運用業務に生かしてみた",
+      "author" : "@masaseat",
+      "day" : 19,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/19/non-engineering-product-manager-used-big-data/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "特徴量次元削減手法のt-SNE・UMAPで記事文章ベクトルの可視化をしてみた",
+      "author" : "@mSpring",
+      "day" : 20,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/20/t-sne_umap_category/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人ウェブサービス開発開始から3ヶ月で月間5万PVを達成した話",
+      "author" : "@yoshishin",
+      "day" : 21,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/21/my_personal_project/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サクッとApacheのerrorlogをJSON化してBigQueryにLoadします",
+      "author" : "@fiemon",
+      "day" : 22,
+      "url" : "https://qiita.com/fiemon/items/bc41f00bf70aa3b8c9f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SAPを取得したら視野が広がった話",
+      "author" : "@watashinohakumai",
+      "day" : 23,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/23/aws_sap_passing_story/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "p5.jsで動くゲーム風読み込み画面作ってみた",
+      "author" : "@Ryota-Yokouchi",
+      "day" : 24,
+      "url" : "https://techblog.gmo-ap.jp/2021/12/24/game_load/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hoshimasa"
+    }
+  ]
+}

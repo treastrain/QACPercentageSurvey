@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-24T02:17:38Z",
+  "calendar_meta_data" : {
+    "author" : "Wano株式会社",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 18,
+    "subscribers" : 0,
+    "title" : "Wano Group Advent Calendar2021 Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "wano-group",
+    "url" : "https://qiita.com/advent-calendar/2021/wano-group"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudTrailとCloudWatchLogsを使用してIAM関連イベントの通知",
+      "author" : "@akibin",
+      "day" : 1,
+      "url" : "https://qiita.com/akibin/items/af88e49ccc27bb72c4ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年,Go言語でお世話になったライブラリ/検討したけど導入しなかったライブラリ",
+      "author" : "@NaotoFushimi",
+      "day" : 2,
+      "url" : "https://qiita.com/NaotoFushimi/items/bd53f032212d49296d72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GithubActionsでECR向けコンテナデプロイ",
+      "author" : "@maretol",
+      "day" : 3,
+      "url" : "https://zenn.dev/maretol/articles/305990b276d0a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goでtemplateを使って、xmlを生成してみる",
+      "author" : "@johnnytfhs",
+      "day" : 4,
+      "url" : "https://qiita.com/johnnytfhs/items/328448e972101cc4be60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go Linter - Staticcheckを使ってみる",
+      "author" : "@johnnytfhs",
+      "day" : 5,
+      "url" : "https://qiita.com/johnnytfhs/items/efaaddde94ba94da72a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【型は命、anyは敵】 React + TypeScript のコーディング規約を一部晒す",
+      "author" : "@shogoroy",
+      "day" : 6,
+      "url" : "https://qiita.com/shogoroy/items/c35532547e0fff6f6495"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでやってきたLambdaデプロイの試行錯誤の歴史と行き着いた雑な運用",
+      "author" : "@NaotoFushimi",
+      "day" : 7,
+      "url" : "https://qiita.com/NaotoFushimi/items/b0131ac2b2a7252f73ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのMetadata Lockで困るケースと解決策的なもの",
+      "author" : "@ktat",
+      "day" : 8,
+      "url" : "https://qiita.com/ktat/items/384c899e2e20d261038e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoとRepositoryパターンと集約またぎのトランザクションと",
+      "author" : "@NaotoFushimi",
+      "day" : 9,
+      "url" : "https://qiita.com/NaotoFushimi/items/2a10e927c09b088e3413"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackワークフローを使ってみた",
+      "author" : "@ktat",
+      "day" : 10,
+      "url" : "https://qiita.com/ktat/items/5b6783e29d6cf5708bb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ダメゼッタイ】aws-sdk-go s3.GetObject のBody Close忘れ",
+      "author" : "@K-juju",
+      "day" : 11,
+      "url" : "https://zenn.dev/yshingo/articles/6aa1e60bbb7d0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StepFunctions から AWS Batchの呼び出しでJSON Stringを使う",
+      "author" : "@NaotoFushimi",
+      "day" : 12,
+      "url" : "https://qiita.com/NaotoFushimi/items/15d4c8e72c46ee0cc684"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RubyでWindowsのGUIアプリを作る",
+      "author" : "@ktat",
+      "day" : 13,
+      "url" : "https://qiita.com/ktat/items/a254441a29c577a3da9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アイコン作成の秘密",
+      "author" : "@anastasiaw",
+      "day" : 14,
+      "url" : "https://qiita.com/anastasiaw/items/0655d1de5e13f589c72d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go flagパッケージを読んで自分なりに理解してみた",
+      "author" : "@K-juju",
+      "day" : 15,
+      "url" : "https://zenn.dev/yshingo/articles/263f7fde177b1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Adobe Xdを上手く使おうとして辛いなぁと思った話",
+      "author" : "@wanomaeda",
+      "day" : 17,
+      "url" : "https://qiita.com/wanomaeda/items/4808af6bd1fc6cf09eec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.js + TypeScript +  Material UI 環境でのフロントエンドチーム開発で生産性をどうやって保つか",
+      "author" : "@lamechang",
+      "day" : 18,
+      "url" : "https://qiita.com/lamechang/items/0222d47f22b956fcffe0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DBへのテストデータの作成について ",
+      "author" : "@lala5",
+      "day" : 19,
+      "url" : "https://qiita.com/lala5/items/6761f1d75f5c9c101180"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebWorker上でS3にファイルをアップロードするときに困ったグローバルオブジェクト",
+      "author" : "@NaotoFushimi",
+      "day" : 20,
+      "url" : "https://qiita.com/NaotoFushimi/items/480b9349aeedee442ccd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「イケてる」をサンプリングするプロダクト文化",
+      "author" : "@tkzwww",
+      "day" : 22,
+      "url" : "https://note.com/tkzwww/n/ne2da21ccdbb1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "揮発性の私がAWS認定ソリューションアーキテクト-アソシエイトに合格できた勉強方法と後日談",
+      "author" : "@akibin",
+      "day" : 23,
+      "url" : "https://qiita.com/akibin/items/ee895271475201cc0cc2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

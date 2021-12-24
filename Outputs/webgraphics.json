@@ -1,0 +1,140 @@
+{
+  "created_at" : "2021-12-24T11:16:26Z",
+  "calendar_meta_data" : {
+    "author" : "@warotarock",
+    "category" : "Webテクノロジー",
+    "lgtm" : 44,
+    "subscribers" : 27,
+    "title" : "Webグラフィックス Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "webgraphics",
+    "url" : "https://qiita.com/advent-calendar/2021/webgraphics"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML/Canvas ImageDataのバイトデータ操作による描画をWebAssembly(AssemblyScript)でやってみた",
+      "author" : "@warotarock",
+      "day" : 1,
+      "url" : "https://qiita.com/warotarock/items/469fa8eafa85aa0890f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderで3Dモデルを作成し、webpack × Three.js でサイトを作成する",
+      "author" : "@kaito_takase",
+      "day" : 3,
+      "url" : "https://qiita.com/kaito_takase/items/4b381799d76d4101278c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "各ブラウザにおける WebGL 対応状況（2021年12月時点）",
+      "author" : "@cx20",
+      "day" : 5,
+      "url" : "https://qiita.com/cx20/items/bd15fc5c41a0c470fa97"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML/Canvas ImageDataでパス領域の塗りつぶし描画処理をWebAssembly(AssemblyScript)でやってみた",
+      "author" : "@warotarock",
+      "day" : 7,
+      "url" : "https://qiita.com/warotarock/items/1d3ba8883d67577296ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@cx20"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Electron＋Canvas＋WebGL＋Reactのお絵描きツールの進捗2021",
+      "author" : "@warotarock",
+      "day" : 14,
+      "url" : "https://qiita.com/warotarock/items/b22b6eaffd38e8aaadad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LiDARでスキャンした3DモデルをA-Frameで表示する",
+      "author" : "@FollowTheDarkside",
+      "day" : 22,
+      "url" : "https://hahaeatora.hateblo.jp/entry/2021/12/22/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML/Canvas １ピクセル内のアンチエイリアス処理の実験",
+      "author" : "@warotarock",
+      "day" : 23,
+      "url" : "https://qiita.com/warotarock/items/4c8b0bf0639e6e4bdbc6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebGLライブラリRhodonite２年目の報告",
+      "author" : "@emadurandal",
+      "day" : 24,
+      "url" : "https://qiita.com/emadurandal/items/dbbe00979112f558a919"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "created_at" : "2021-12-24T10:46:47Z",
+  "calendar_meta_data" : {
+    "author" : "@InaLab",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 1,
+    "subscribers" : 101,
+    "title" : "Next.js Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "nextjs",
+    "url" : "https://qiita.com/advent-calendar/2021/nextjs"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.jsでIonic Reactを利用する",
+      "author" : "@motchi0214",
+      "day" : 5,
+      "url" : "https://wp-kyoto.net/use-ionic-react-in-nextjs/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK+Serverless Next.js構成で、APIからAWSリソースにアクセスできるようにIAMロールを更新する",
+      "author" : "@motchi0214",
+      "day" : 9,
+      "url" : "https://wp-kyoto.net/put-iam-policy-to-the-next-js-app-using-aws-cdk/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.js が好きな理由と2年間使い続けてきた感想",
+      "author" : "@Panda_Program",
+      "day" : 11,
+      "url" : "https://panda-program.com/posts/why-i-love-nextjs"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@InaLab"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jest のSnapshotTest で生成されるファイルのディレクトリ構成をいい感じに変更する",
+      "author" : "@fussy113",
+      "day" : 23,
+      "url" : "https://qiita.com/fussy113/items/adada0e1c515bf9598e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

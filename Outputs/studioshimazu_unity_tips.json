@@ -1,0 +1,310 @@
+{
+  "created_at" : "2021-12-24T02:57:54Z",
+  "calendar_meta_data" : {
+    "author" : "@simanezumi1989",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 11,
+    "subscribers" : 31,
+    "title" : "Unity始めた頃の自分に教えたい ゲーム開発のテクニック【スタジオしまづ 】 Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "studioshimazu_unity_tips",
+    "url" : "https://qiita.com/advent-calendar/2021/studioshimazu_unity_tips"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityに関連した知っておくと便利なもの",
+      "author" : "@Upon",
+      "day" : 1,
+      "url" : "https://qiita.com/Upon/items/136588042aff58d4445c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "知っているとゲーム開発が捗るサイト",
+      "author" : "@popiiiii0131",
+      "day" : 2,
+      "url" : "https://www.popii33.com/game-progress/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードをめんどくさがるな！",
+      "author" : "@Jonny_dayo",
+      "day" : 3,
+      "url" : "https://qiita.com/Jonny_dayo/items/30ba9fdff3a6e23c4ace"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】スクリプトのエラーの種類を知れる方法。",
+      "author" : "@mof-jp",
+      "day" : 4,
+      "url" : "https://qiita.com/mof-jp/items/20e0a7e12778925c797a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドット絵のチュートリアル集",
+      "author" : "@nyangoro7788",
+      "day" : 5,
+      "url" : "https://lospec.com/pixel-art-tutorials"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "簡単なオンラインランキングの実装方法",
+      "author" : "@4CDA",
+      "day" : 6,
+      "url" : "https://qiita.com/4CDA/items/6957c4a088873177a616"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入門書終わったらゲームジャム！",
+      "author" : "@temoshi",
+      "day" : 7,
+      "url" : "https://temoshiblog.com/advent-calendarunity/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2D】unity roomにアップする際のUIサイズ設定",
+      "author" : "@kuwapon",
+      "day" : 8,
+      "url" : "https://note.com/kuwapon69/n/n989035b85d50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コライダーがすり抜けてしまうときの対処不法",
+      "author" : "@popiiiii0131",
+      "day" : 9,
+      "url" : "https://www.popii33.com/unity_collider_make-ones-way-through-quickly/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Studioのインテリセンス活用",
+      "author" : "@imoyoukandesu",
+      "day" : 10,
+      "url" : "https://qiita.com/imoyoukandesu/items/36dc5b00bfa674e4337a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】スクリプトからのテキスト改行方法",
+      "author" : "@Maru60014236",
+      "day" : 11,
+      "url" : "https://qiita.com/Maru60014236/items/d5fcc5211d7b2239fff9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityでHDRPを使ってみた。",
+      "author" : "@Upon",
+      "day" : 12,
+      "url" : "https://qiita.com/Upon/items/c40d8b3b5e5c6721053a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】アセットをラベルで整理しよう",
+      "author" : "@iroha71",
+      "day" : 13,
+      "url" : "https://qiita.com/iroha71/items/da306626ecb42242bb1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "早く使っておけばよかったUnityアセット",
+      "author" : "@temoshi",
+      "day" : 14,
+      "url" : "https://temoshiblog.com/advent-calendarunity-2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もしかしてシーン切り替え時にフェードしたいのかい？",
+      "author" : "@Upon",
+      "day" : 15,
+      "url" : "https://qiita.com/Upon/items/3141962d86cc57111fc9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityで他のスクリプト上の関数を別のスクリプトから呼び出す方法のまとめ",
+      "author" : "@Teru_3",
+      "day" : 16,
+      "url" : "https://qiita.com/Teru_3/items/a023af26a2283a163904"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityのマウスイベント - 簡単ポップアップ",
+      "author" : "@imoyoukandesu",
+      "day" : 17,
+      "url" : "https://qiita.com/imoyoukandesu/items/da086e504285131974ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity初心者】関数(メソッド)って何？　",
+      "author" : "@Maru60014236",
+      "day" : 18,
+      "url" : "https://qiita.com/Maru60014236/items/412925cdefd7a462caf8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者にはハードルが高い列挙型の使い方まとめ",
+      "author" : "@Teru_3",
+      "day" : 19,
+      "url" : "https://qiita.com/Teru_3/items/fef128073f5506fc67ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "unityで音響関係の実装についてのまとめ",
+      "author" : "@Teru_3",
+      "day" : 20,
+      "url" : "https://qiita.com/Teru_3/items/ff5dde963a1100be0a72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityで使える小ワザ【5選】",
+      "author" : "@mof-jp",
+      "day" : 21,
+      "url" : "https://qiita.com/mof-jp/items/172f8cf3413f89786eae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderの基礎について",
+      "author" : "@Upon",
+      "day" : 22,
+      "url" : "https://qiita.com/Upon/items/3004bf49973c62016f3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2DゲームのUIを変更する2つの方法",
+      "author" : "@Teru_3",
+      "day" : 23,
+      "url" : "https://qiita.com/Teru_3/items/2891e76077f069973c83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アトリビュートの活用 - メソッドを非ランタイム時に実行",
+      "author" : "@imoyoukandesu",
+      "day" : 24,
+      "url" : "https://qiita.com/imoyoukandesu/items/781508830ecfc0c3c2db"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@mof-jp"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Unity】コードの乱れは心の乱れ　分かりやすいコード　＋α",
+      "author" : "@mof-jp",
+      "day" : 9,
+      "url" : "https://qiita.com/mof-jp/items/5be969937790476cd4f6"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AudioMixer】Unityで簡単音量調整ができるオーディオミキサー機能【導入編】",
+      "author" : "@kuwapon",
+      "day" : 13,
+      "url" : "https://note.com/kuwapon69/n/ne908ebfd574b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AudioMixer】Unityで簡単音量調整ができるオーディオミキサー機能【SoundOption編】",
+      "author" : "@kuwapon",
+      "day" : 14,
+      "url" : "https://note.com/kuwapon69/n/n714fb6d1628f"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "レトロ風なゲームが作りたいって！？",
+      "author" : "@Upon",
+      "day" : 19,
+      "url" : "https://qiita.com/Upon/items/db844e31dc0310e0375b"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "DOTweenって便利なんだぜ！",
+      "author" : "@Upon",
+      "day" : 21,
+      "url" : "https://qiita.com/Upon/items/b94aba1be6f8d9b6ec95"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BF1のリスポーンみたいなカメラワークを実現したい",
+      "author" : "@Upon",
+      "day" : 23,
+      "url" : "https://qiita.com/Upon/items/c3cbea4d74428fc9347c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[動画アップロード中]clusterは無料で簡単にメタバース空間のゲーム開発ができるよ",
+      "author" : "@njn0te",
+      "day" : 24,
+      "url" : "https://youtu.be/SNarITqO_9s"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@Upon"
+    }
+  ]
+}

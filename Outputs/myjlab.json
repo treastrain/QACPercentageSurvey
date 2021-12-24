@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T08:57:01Z",
+  "calendar_meta_data" : {
+    "author" : "@hcpmiyuki",
+    "category" : "企業・学校・団体",
+    "lgtm" : 161,
+    "subscribers" : 4,
+    "title" : "MYJLab Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "myjlab",
+    "url" : "https://qiita.com/advent-calendar/2021/myjlab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Colab と Turtle で描くアルファベット一覧（大文字編）",
+      "author" : "@chiba___",
+      "day" : 1,
+      "url" : "https://qiita.com/chiba___/items/fae8271cad6b9d2604fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Next.js & Supabase】Supabaseって実際どうなの？",
+      "author" : "@hcpmiyuki",
+      "day" : 2,
+      "url" : "https://qiita.com/hcpmiyuki/items/f78e8fe8505913584fb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GPT-3で遊んでみた",
+      "author" : "@nyax",
+      "day" : 3,
+      "url" : "https://qiita.com/nyax/items/553bf5610c2d2202de22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】for文で回せるオブジェクト",
+      "author" : "@kanekom",
+      "day" : 4,
+      "url" : "https://qiita.com/kanekom/items/8e151a581fb7d07abad7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSでお手軽に遊び場(VPC)をつくりたい",
+      "author" : "@nobu_wt",
+      "day" : 5,
+      "url" : "https://qiita.com/nobu_wt/items/886455382d9c7d83a1fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更だけどもテスト駆動開発",
+      "author" : "@ren_180",
+      "day" : 6,
+      "url" : "https://qiita.com/ren_180/items/de7fc7a41a0559225f71"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "完全理解を目指す、Pythonデコレータはむずくない！",
+      "author" : "@Kuroi_Cc",
+      "day" : 7,
+      "url" : "https://qiita.com/Kuroi_Cc/items/c250a93e043aa1f6a84d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "結局俺って何してんの？",
+      "author" : "@geranium1216",
+      "day" : 8,
+      "url" : "https://qiita.com/geranium1216/items/bf9ebda7fbd4f4a77f1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google ColabでWordcloudを作成",
+      "author" : "@naretayami",
+      "day" : 9,
+      "url" : "https://qiita.com/naretayami/items/bb0ad0739c7c4f41cc5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サイトと資料がちょっとおしゃれになるサービス３選",
+      "author" : "@suzukihikaru",
+      "day" : 10,
+      "url" : "https://qiita.com/suzukihikaru/items/0a836db620fa887f8f3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "viewer-modelでWebARやってみる",
+      "author" : "@Tyanri_",
+      "day" : 11,
+      "url" : "https://qiita.com/Tyanri_/items/39eb7ce51a7a275bad07"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "reactで簡単に管理画面が作れる「react-admin」",
+      "author" : "@Kakki78",
+      "day" : 12,
+      "url" : "https://qiita.com/Kakki78/items/f3bd02e7c3fb371b1140"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cとその基礎",
+      "author" : "@linked34ce",
+      "day" : 13,
+      "url" : "https://qiita.com/linked34ce/items/ecd8d745a427f92373ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VS Codeしか勝たん",
+      "author" : "@Kuroi_Cc",
+      "day" : 14,
+      "url" : "https://qiita.com/Kuroi_Cc/items/7f4bc810538daf4d3c35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyCaret使ってみる",
+      "author" : "@Tyanri_",
+      "day" : 15,
+      "url" : "https://qiita.com/Tyanri_/items/9559e18faa3cd19d7788"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Colab と Turtle で描くアルファベット一覧（小文字編）",
+      "author" : "@chiba___",
+      "day" : 16,
+      "url" : "https://qiita.com/chiba___/items/671de84c1ce47965effd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCVで画像に文字を描画してみた",
+      "author" : "@yuzu_m",
+      "day" : 17,
+      "url" : "https://qiita.com/yuzu_m/items/341298006b3b30ca4379"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】デバイスからの画像選択とカメラの起動",
+      "author" : "@suzukihikaru",
+      "day" : 18,
+      "url" : "https://qiita.com/suzukihikaru/items/b7e5e9da0f378acf84c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】サーバーレスで遊んでみる",
+      "author" : "@nobu_wt",
+      "day" : 19,
+      "url" : "https://qiita.com/nobu_wt/items/9255286bf7b9370a3751"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelte触ってみた　with React",
+      "author" : "@ren_180",
+      "day" : 20,
+      "url" : "https://qiita.com/ren_180/items/10421cec546903dc75f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pythonライブラリの作成方法",
+      "author" : "@mofumoffy223",
+      "day" : 21,
+      "url" : "https://qiita.com/mofumoffy223/items/a461efba5c80acafdbf0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "他のサイトよりも検索順位が上がる小手先のテクニック10選(SEO対策など)",
+      "author" : "@Kaiseiblog",
+      "day" : 22,
+      "url" : "https://qiita.com/Kaiseiblog/items/f8ae7b43f1d711468aea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自然言語処理の国際会議・論文探しのいろは",
+      "author" : "@nyax",
+      "day" : 23,
+      "url" : "https://qiita.com/nyax/items/98dbb955f517b447d294"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SupabaseにGraphQLのエクステンションができたと聞いて🔥",
+      "author" : "@hcpmiyuki",
+      "day" : 24,
+      "url" : "https://qiita.com/hcpmiyuki/items/45e51e4c1418cfa21ae7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@mofumoffy223"
+    }
+  ]
+}

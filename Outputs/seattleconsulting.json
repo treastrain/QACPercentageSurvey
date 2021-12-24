@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T04:16:01Z",
+  "calendar_meta_data" : {
+    "author" : "@Ryooooo",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 2,
+    "title" : "シアトルコンサルティング株式会社 Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "seattleconsulting",
+    "url" : "https://qiita.com/advent-calendar/2021/seattleconsulting"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaのマルチスレッド実装例(前編)",
+      "author" : "@Ryooooo",
+      "day" : 1,
+      "url" : "https://qiita.com/Ryooooo/private/c4fdffa50ad31c972bad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaのマルチスレッド実装例(後編)（排他制御編）",
+      "author" : "@Ryooooo",
+      "day" : 2,
+      "url" : "https://qiita.com/Ryooooo/items/1160aff479ff0d4b78f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaでOutOfMemoryError: GC Overhead limit exceededを穏当に解決した話",
+      "author" : "@Ryooooo",
+      "day" : 3,
+      "url" : "https://qiita.com/Ryooooo/items/6200b063d7f8fb1f45ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "つみたてNISAの損益をスプレッドシートに保存",
+      "author" : "@ryuya-matsunawa",
+      "day" : 4,
+      "url" : "https://qiita.com/ryuya-matsunawa/items/3e865fbd450b80262614"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaアクセス制御について",
+      "author" : "@takanori_koizumi4869",
+      "day" : 5,
+      "url" : "https://qiita.com/takanori_koizumi4869/items/53ab3a8bdfb91a553670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非デザイナーだけど色についてまとめてみる",
+      "author" : "@TekkaMK",
+      "day" : 6,
+      "url" : "https://qiita.com/TekkaMK/items/026f0711e477241e53c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java変数のスコープ(有効範囲)について",
+      "author" : "@takanori_koizumi4869",
+      "day" : 7,
+      "url" : "https://qiita.com/takanori_koizumi4869/items/5897d7d4611785fc507a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[JavaSilver受験対策]　非検査例外と検査例外の違い　",
+      "author" : "@keisukeM",
+      "day" : 8,
+      "url" : "https://qiita.com/keisukeM/items/7d51f6471293f012bdf6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[JavaSilver受験対策] 誰も解けないラムダ式を解説",
+      "author" : "@keisukeM",
+      "day" : 9,
+      "url" : "https://qiita.com/keisukeM/items/7eae1dd218fb7dec0a0b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaSilver受験者は必ずマスターしよう！ポリモーフィズムの考え方",
+      "author" : "@koudai-mori",
+      "day" : 10,
+      "url" : "https://qiita.com/koudai-mori/items/8d10f54ef34e0b804aad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのSQL構文、これさえ分かれば大丈夫！",
+      "author" : "@koudai-mori",
+      "day" : 11,
+      "url" : "https://qiita.com/koudai-mori/items/15cb199cace7111ff59d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初学者向け】Scannerクラスの使い方",
+      "author" : "@koudai-mori",
+      "day" : 12,
+      "url" : "https://qiita.com/koudai-mori/items/0137839eb5df2a5cb376"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scannerクラスの使い方＃2",
+      "author" : "@koudai-mori",
+      "day" : 13,
+      "url" : "https://qiita.com/koudai-mori/items/0c7467e7a0ae18bfb612"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Java】クラス変数につけるprivate static finalについて",
+      "author" : "@yuto-hatano",
+      "day" : 14,
+      "url" : "https://qiita.com/yuto-hatano/items/7161ec8fd9a2f1ba0d2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Spring】＠Autowiredはコンストラクタインジェクションで使おう！",
+      "author" : "@yuto-hatano",
+      "day" : 15,
+      "url" : "https://qiita.com/yuto-hatano/items/69d01343f710117e4243"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DB、SQL小ネタ集（Oracle）",
+      "author" : "@keisukeM",
+      "day" : 16,
+      "url" : "https://qiita.com/keisukeM/items/d535b702209d32a1ae6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でデバッグ時のみ実行する処理を書く",
+      "author" : "@TaitoKudo",
+      "day" : 17,
+      "url" : "https://qiita.com/TaitoKudo/items/2aa3bc22f259b25d0584"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaBeansについて",
+      "author" : "@takanori_koizumi4869",
+      "day" : 18,
+      "url" : "https://qiita.com/takanori_koizumi4869/items/76bdaad9a1ac23f695cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#の非同期処理 基礎編",
+      "author" : "@TaitoKudo",
+      "day" : 19,
+      "url" : "https://qiita.com/TaitoKudo/items/130949f41eece8ef4d80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【laravel】Eloquentをざっくり理解してみよう！",
+      "author" : "@yuto-hatano",
+      "day" : 20,
+      "url" : "https://qiita.com/yuto-hatano/private/8d82cc17f0350d31a901"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UIデザイナー１年目のお悩み別ハンドブック",
+      "author" : "@seattle_emikaf",
+      "day" : 21,
+      "url" : "https://qiita.com/seattle_emikaf/items/7bf53c0b43be47bb579e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元プログラミングスクール講師から見た伸びる人の特徴",
+      "author" : "@Kenta_Sakakura",
+      "day" : 22,
+      "url" : "https://qiita.com/Kenta_Sakakura/items/e93c0584868ab27d7819"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Data Management】暴走するデータ利活用への楔_Seattle Advent Calendar 2021 12/23",
+      "author" : "@ryo09241",
+      "day" : 23,
+      "url" : "https://qiita.com/ryo09241/items/c0f12913fe3fd2ddd3e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Java]ArrayListとLinkedListの違いについて",
+      "author" : "@takanori_koizumi4869",
+      "day" : 24,
+      "url" : "https://qiita.com/takanori_koizumi4869/items/d0ea1243d3e461def729"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@taku-imozawa"
+    }
+  ]
+}

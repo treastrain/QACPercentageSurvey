@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T05:47:37Z",
+  "calendar_meta_data" : {
+    "author" : "@nakaken0629",
+    "category" : "プログラミング言語",
+    "lgtm" : 18,
+    "subscribers" : 10,
+    "title" : "Scratchクックブック Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "scratch-cookbook",
+    "url" : "https://qiita.com/advent-calendar/2021/scratch-cookbook"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "切れ目のないループ再生",
+      "author" : "@nakaken0629",
+      "day" : 1,
+      "url" : "https://qiita.com/nakaken0629/items/381e609ef1b5c71f4779"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロジェクトのスクリーンショットを表示する",
+      "author" : "@nakaken0629",
+      "day" : 2,
+      "url" : "https://qiita.com/nakaken0629/items/f6114147a4d7caad505a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "押した手応えのあるボタンの作り方",
+      "author" : "@nakaken0629",
+      "day" : 3,
+      "url" : "https://qiita.com/nakaken0629/items/05d790adfbc4df93bba6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バーチャルパッドを作成する",
+      "author" : "@nakaken0629",
+      "day" : 4,
+      "url" : "https://qiita.com/nakaken0629/items/62e8c9c6495297229a2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "場面の変更",
+      "author" : "@nakaken0629",
+      "day" : 5,
+      "url" : "https://qiita.com/nakaken0629/items/c2a6c8f140ab0a244e5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプライトでスコアを表示する",
+      "author" : "@nakaken0629",
+      "day" : 6,
+      "url" : "https://qiita.com/nakaken0629/items/61b385366c5b56d6cc22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "移動しながらコスチュームを変更する",
+      "author" : "@nakaken0629",
+      "day" : 7,
+      "url" : "https://qiita.com/nakaken0629/items/4751912035f16c38d810"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "和音を鳴らす",
+      "author" : "@nakaken0629",
+      "day" : 8,
+      "url" : "https://qiita.com/nakaken0629/items/f64670af6f14ed84dd14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クローンしたスプライトを特定する",
+      "author" : "@nakaken0629",
+      "day" : 9,
+      "url" : "https://qiita.com/nakaken0629/items/8ed745e197eb96275e81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソースコードの整形",
+      "author" : "@nakaken0629",
+      "day" : 10,
+      "url" : "https://qiita.com/nakaken0629/items/5aa7ec8763a5e6f733f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "変数名を変える",
+      "author" : "@nakaken0629",
+      "day" : 11,
+      "url" : "https://qiita.com/nakaken0629/items/9c53a9b08de0ce689599"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプライトの当たり判定を見た目と別にする",
+      "author" : "@nakaken0629",
+      "day" : 12,
+      "url" : "https://qiita.com/nakaken0629/items/83ac3e20a14e13efd83d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Scratch】スプライトの大きさを無限にする方法",
+      "author" : "@Teba_eleven",
+      "day" : 13,
+      "url" : "https://qiita.com/Teba_eleven/items/3438d6e9367bdacda13e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Scratch】ひとつのボタンで「ON/OFF」を切り替える",
+      "author" : "@kaerulesson",
+      "day" : 14,
+      "url" : "https://twitter.com/kaerulesson/status/1466733200483389441?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Scratch】お絵かきプログラム",
+      "author" : "@kaerulesson",
+      "day" : 15,
+      "url" : "https://twitter.com/kaerulesson/status/1466735717006987270?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Scratch】パーカッションを鳴らす",
+      "author" : "@kaerulesson",
+      "day" : 16,
+      "url" : "https://twitter.com/kaerulesson/status/1470747561837621249?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アナログ時計",
+      "author" : "@nakaken0629",
+      "day" : 17,
+      "url" : "https://qiita.com/nakaken0629/items/3f05986e7d5ca3417ac5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "秒数を数える",
+      "author" : "@nakaken0629",
+      "day" : 18,
+      "url" : "https://qiita.com/nakaken0629/items/88e01626ae68401cb6e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Scratch】Pico Walking で歩き回る",
+      "author" : "@kaerulesson",
+      "day" : 19,
+      "url" : "https://twitter.com/kaerulesson/status/1470942051735060485?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ループに関する考察",
+      "author" : "@nakaken0629",
+      "day" : 20,
+      "url" : "https://qiita.com/nakaken0629/items/f253054ecf912dfc8002"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "慣性付きの移動",
+      "author" : "@nakaken0629",
+      "day" : 21,
+      "url" : "https://qiita.com/nakaken0629/items/a21742c525e0cf715859"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペンの高速描画",
+      "author" : "@nakaken0629",
+      "day" : 22,
+      "url" : "https://qiita.com/nakaken0629/items/6e7633bf9872b6cd962e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PPAP歌ってみた",
+      "author" : "@nakaken0629",
+      "day" : 23,
+      "url" : "https://qiita.com/nakaken0629/items/0e872f0f7a5231a4ee6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実行中しか押せないボタン",
+      "author" : "@nakaken0629",
+      "day" : 24,
+      "url" : "https://qiita.com/nakaken0629/items/eb5f30133113c9da8f17"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@nakaken0629"
+    }
+  ]
+}

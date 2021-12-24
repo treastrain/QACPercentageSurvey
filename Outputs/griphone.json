@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T08:47:31Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社グリフォン",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 3,
+    "title" : "GRIPHONE Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "griphone",
+    "url" : "https://qiita.com/advent-calendar/2021/griphone"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "技術チャレンジプレゼン",
+      "author" : "@kawamura_takeru",
+      "day" : 1,
+      "url" : "https://tech.griphone.co.jp/2021/12/01/tech-challenge/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GKEのPodからTokenRequestProjectionで発行されたOIDCのID Tokenを使用してAWSのRoleにAssumeRoleしてみる",
+      "author" : "@cstoku",
+      "day" : 2,
+      "url" : "https://tech.griphone.co.jp/2021/12/02/assume-role-from-gke/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions上でsymfony/pantherを使ってスクレイピングしてみる",
+      "author" : "@IwakamiYuki",
+      "day" : 3,
+      "url" : "https://tech.griphone.co.jp/2021/12/03/scraping-on-github-actions/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアやめてみた",
+      "author" : "@hiroelza",
+      "day" : 4,
+      "url" : "https://tech.griphone.co.jp/2021/12/04/engineer-manager/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NuxtJSのSCSS設定を外部から取り込む方法",
+      "author" : "@eoiytaama",
+      "day" : 5,
+      "url" : "https://tech.griphone.co.jp/2021/12/05/howto-get-scss-env-on-nuxtjs/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ基盤にArgoWorkflowsを導入した話",
+      "author" : "@yoshina9a",
+      "day" : 6,
+      "url" : "https://tech.griphone.co.jp/2021/12/06/migrate-to-argo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】Localizationでstringの多言語対応を試してみた",
+      "author" : "@kuroita",
+      "day" : 7,
+      "url" : "https://tech.griphone.co.jp/2021/12/07/unity-localization"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】簡単！軽い！自作LayoutGroup",
+      "author" : "@fumi1995",
+      "day" : 8,
+      "url" : "https://tech.griphone.co.jp/2021/12/08/custom-layout/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "忙しい人のための「2Dアニメーションに3Dライトを適用する話」",
+      "author" : "@h_harashi",
+      "day" : 9,
+      "url" : "https://tech.griphone.co.jp/2021/12/09/animation2d-lighting/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "外部SDK間でのAndroidManifestのコンフリクト解消方法",
+      "author" : "@yonepi1212",
+      "day" : 10,
+      "url" : "https://tech.griphone.co.jp/2021/12/10/conflict-android-manifest"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WSL2で「困った」を解決したTips",
+      "author" : "@kaita_ryusuke",
+      "day" : 11,
+      "url" : "https://tech.griphone.co.jp/2021/12/11/wsl2-tips/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubebuilder で Webhook 作る話を書きます",
+      "author" : "@hitsumabushi845",
+      "day" : 12,
+      "url" : "https://tech.griphone.co.jp/2021/12/12/kubebuilder-coreresource-webhook/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "本番環境のPHPバージョンを7.3から8.0に上げてみた",
+      "author" : "@mkiken",
+      "day" : 13,
+      "url" : "https://tech.griphone.co.jp/2021/12/13/php8-update"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KPTがうまくいっていないと感じている人たちへ",
+      "author" : "@tsain",
+      "day" : 14,
+      "url" : "https://tech.griphone.co.jp/2021/12/14/kpt"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】アセット間の依存関係を視覚化するツールを使ってみた",
+      "author" : "@misoni_tama",
+      "day" : 15,
+      "url" : "https://tech.griphone.co.jp/2021/12/15/unity-dependency-viewer-introduction/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GKEでhostNetworkを使ったPodでもWorkload Identityを使いたい！！",
+      "author" : "@cstoku",
+      "day" : 16,
+      "url" : "https://tech.griphone.co.jp/2021/12/16/gke-wif/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IntelliJ IDEAで自動コード生成",
+      "author" : "@tack_8131",
+      "day" : 17,
+      "url" : "https://tech.griphone.co.jp/2021/12/17/intellij-file-template/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Buildx x Composeでテストにかかる時間を半減したぞ",
+      "author" : "@kznrluk",
+      "day" : 18,
+      "url" : "https://tech.griphone.co.jp/2021/12/18/fast-docker-compose-buildx-github-actions/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity2021でもFaceTrackingをしたい！",
+      "author" : "@chocopuyo",
+      "day" : 19,
+      "url" : "https://tech.griphone.co.jp/2021/12/19/unity-face-tracking-tutorial/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Golangでビットコインの値動きを知るCLIツールを作ってみた",
+      "author" : "@sengok",
+      "day" : 20,
+      "url" : "https://tech.griphone.co.jp/2021/12/20/golang-bitcoin-ticker/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "360度カメラで遊んでみた",
+      "author" : "@_km",
+      "day" : 21,
+      "url" : "https://tech.griphone.co.jp/2021/12/21/360-degree-camera/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform Cloudを使ってみた",
+      "author" : "@jagaNikuman",
+      "day" : 22,
+      "url" : "https://tech.griphone.co.jp/2021/12/22/terraform-cloud/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP8のJITコンパイラについて",
+      "author" : "@SenK",
+      "day" : 23,
+      "url" : "https://tech.griphone.co.jp/2021/12/23/php8jit/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CKAD受験記録 @2021/11月",
+      "author" : "@hadayan0",
+      "day" : 24,
+      "url" : "https://tech.griphone.co.jp/2021/12/24/ckad-2021-11/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@machikomen"
+    }
+  ]
+}

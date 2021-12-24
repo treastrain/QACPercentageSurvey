@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T04:30:47Z",
+  "calendar_meta_data" : {
+    "author" : "@e73ryo",
+    "category" : "企業・学校・団体",
+    "lgtm" : 75,
+    "subscribers" : 5,
+    "title" : "PONOS Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "ponos",
+    "url" : "https://qiita.com/advent-calendar/2021/ponos"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityのGC AllocateとWaitForSeconds",
+      "author" : "@nissy_gp",
+      "day" : 1,
+      "url" : "https://qiita.com/nissy_gp/items/7823afcd6b1db0b75887"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SystemInfo.operatingSystemからバージョンを取得するときの注意（iPadOS15.1以降のiPad端末の挙動について）",
+      "author" : "@e73ryo",
+      "day" : 2,
+      "url" : "https://qiita.com/e73ryo/items/ebb63cb90c71b4c31db7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Debug.Log()の全文をファイル出力し、<message truncated>で省略された内容をすぐに確認できるようにする",
+      "author" : "@e73ryo",
+      "day" : 3,
+      "url" : "https://qiita.com/e73ryo/items/808107640ea77ec04a8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeのインテリセンスが機能しなかったときに確認すること",
+      "author" : "@FW14B",
+      "day" : 4,
+      "url" : "https://qiita.com/FW14B/items/1e10785e4a19bbf4b013"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CLIから使えるC#のフォーマッターdotnet-formatの紹介",
+      "author" : "@block",
+      "day" : 5,
+      "url" : "https://qiita.com/block/items/3d2a2680d7c6cfbb5890"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityのLightAnchorコンポーネント",
+      "author" : "@block",
+      "day" : 6,
+      "url" : "https://qiita.com/block/items/396525cddbf5c0044d58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DOTSベースのUnity PhysicsはPhysXよりどの程度軽量なのか？",
+      "author" : "@nissy_gp",
+      "day" : 7,
+      "url" : "https://qiita.com/nissy_gp/items/ed26e934ddf5a190946d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YouTubeの英語の動画はどう見たほうが間違えないのか",
+      "author" : "@nissy_gp",
+      "day" : 8,
+      "url" : "https://qiita.com/nissy_gp/items/8f561767d3fca8d03421"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityエディタの中を見て理解を深める",
+      "author" : "@e73ryo",
+      "day" : 9,
+      "url" : "https://qiita.com/e73ryo/items/e67a5838eea79cc7facd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustのゲームエンジンAmethystを触れてみる",
+      "author" : "@nisei275",
+      "day" : 10,
+      "url" : "https://qiita.com/nisei275/items/e94758bb30d35c438ef9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】VSCodeの便利な拡張機能14種紹介",
+      "author" : "@caramel_cafe",
+      "day" : 11,
+      "url" : "https://qiita.com/caramel_cafe/items/bbce81ee30e633dea0c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "防音室の中にいてもインターホンに気づけるようにしたこと",
+      "author" : "@ackyla",
+      "day" : 12,
+      "url" : "https://qiita.com/ackyla/items/2a3d4e01f5904a4d188d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityのツールバーに特定シーン再生ボタンを追加する方法",
+      "author" : "@iixd_pog",
+      "day" : 13,
+      "url" : "https://qiita.com/iixd_pog/items/f9536aefb2f5c00c3913"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もうすぐ2022年になるのに今からVimを学ぶべきか？",
+      "author" : "@honeniq",
+      "day" : 14,
+      "url" : "https://qiita.com/honeniq/items/61e1337bd06f1492c885"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityログにタグをつけて見やすくする方法",
+      "author" : "@714ho",
+      "day" : 15,
+      "url" : "https://qiita.com/714ho/items/153cff53d98ff80c469e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityで予測できるランダム値を生成",
+      "author" : "@jesseniqiita",
+      "day" : 16,
+      "url" : "https://qiita.com/jesseniqiita/items/8b98b953713de42cd77b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustのゲームエンジンBevyに触れてみる",
+      "author" : "@nisei275",
+      "day" : 17,
+      "url" : "https://qiita.com/nisei275/items/7daf8542f7a4ab4b0fb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityにインポートされたアセットの名前がルールに沿っているか判定する",
+      "author" : "@e73ryo",
+      "day" : 18,
+      "url" : "https://qiita.com/e73ryo/items/3c31d748f52d4c27a9b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MP3ファイルをアップロードしてWAVに変換する",
+      "author" : "@aibausound",
+      "day" : 19,
+      "url" : "https://qiita.com/aibausound/items/86ad5bb09ee9451d731c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity初心者向け】Layout GroupでUI配置をお手軽に綺麗に",
+      "author" : "@CaL",
+      "day" : 20,
+      "url" : "https://qiita.com/CaL/items/39a689a6024cba43b7c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者向け】Unityでの非同期処理、コルーチン、コールバックについて",
+      "author" : "@abcdeff",
+      "day" : 21,
+      "url" : "https://qiita.com/abcdeff/items/9181698feeab5d558c8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelのログを一日より早くローテーションさせる",
+      "author" : "@ackyla",
+      "day" : 22,
+      "url" : "https://qiita.com/ackyla/items/0e134757e7f158934061"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オブジェクト指向が分からなくなったので、Smalltalk(Pharo)に入門してみた",
+      "author" : "@honeniq",
+      "day" : 23,
+      "url" : "https://qiita.com/honeniq/items/9bfe27a69e5dd9240f27"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityのLightAnchorについてもう少し詳しく",
+      "author" : "@block",
+      "day" : 24,
+      "url" : "https://qiita.com/block/items/b61e970d7c0e0fbfe8fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@block"
+    }
+  ]
+}

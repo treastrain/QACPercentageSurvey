@@ -1,0 +1,126 @@
+{
+  "created_at" : "2021-12-24T03:48:32Z",
+  "calendar_meta_data" : {
+    "author" : "@toki_k",
+    "category" : "その他",
+    "lgtm" : 4,
+    "subscribers" : 3,
+    "title" : "エンジニア学生インターン&アルバイト Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "internship",
+    "url" : "https://qiita.com/advent-calendar/2021/internship"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "React学習約2週間で、Reactの実務に参加した話",
+      "author" : "@toki_k",
+      "day" : 1,
+      "url" : "https://qiita.com/toki_k/items/d30ed0deb825717fb2b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@Hide-nu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア長期インターンに参加した経験から、これからエンジニアを目指す学生に向けて",
+      "author" : "@A-nkt",
+      "day" : 10,
+      "url" : "https://qiita.com/A-nkt/items/2a9d74cc9f7fc6e88714"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インターン当日に実施したいPC設定",
+      "author" : "@rabirion",
+      "day" : 23,
+      "url" : "https://qiita.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@makihara434"
+    }
+  ]
+}

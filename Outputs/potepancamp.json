@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:38:22Z",
+  "calendar_meta_data" : {
+    "author" : "@miyazaki0901",
+    "category" : "企業・学校・団体",
+    "lgtm" : 21,
+    "subscribers" : 4,
+    "title" : "ポテパンキャンプ ~エンジニア転職成功ストーリー~ Advent Calendar 2021 🎄 Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "potepancamp",
+    "url" : "https://qiita.com/advent-calendar/2021/potepancamp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "消防士からエンジニアになってみて",
+      "author" : "@s7056i3056",
+      "day" : 1,
+      "url" : "https://qiita.com/s7056i3056/items/afd83b01a4dd7b6e7eba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自動車の品質管理からエンジニアになってみて",
+      "author" : "@shungo_m",
+      "day" : 2,
+      "url" : "https://qiita.com/shungo_m/items/7d235f3d49ad1eaec214"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "営業職からエンジニアになってみて",
+      "author" : "@chiaki-kjwr",
+      "day" : 3,
+      "url" : "https://qiita.com/chiaki-kjwr/items/d0c046d55f2cb058f4e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械エンジニアからエンジニアになってみて",
+      "author" : "@kyoryu_san",
+      "day" : 4,
+      "url" : "https://qiita.com/kyoryu_san/items/e700157234e5b224dcfb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人材営業職からエンジニアになってみて",
+      "author" : "@sugya",
+      "day" : 5,
+      "url" : "https://qiita.com/sugya/items/d24a532e5ae58c38f069"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲストハウス支配人からエンジニアになってみて",
+      "author" : "@tomatomatobanana",
+      "day" : 6,
+      "url" : "https://qiita.com/tomatomatobanana/items/75ef0565acdfc6df0205"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セラピストからエンジニアになってみて",
+      "author" : "@kohei_abe",
+      "day" : 7,
+      "url" : "https://qiita.com/kohei_abe/items/fbbe63bfe09b1f265831"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メガネ販売員からエンジニアになってみて",
+      "author" : "@hana_web_88",
+      "day" : 8,
+      "url" : "https://qiita.com/hana_web_88/items/3d9fe430f27656ad2ac9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人材営業職からエンジニアになってみて",
+      "author" : "@Takkumuman",
+      "day" : 9,
+      "url" : "https://qiita.com/Takkumuman/private/3e9b894b1e25d475230a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "八百屋からエンジニアになってみて",
+      "author" : "@matsu-com",
+      "day" : 10,
+      "url" : "https://qiita.com/matsu-com/items/4b72a6f1ae5429102422"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "産業用ロボット販売営業職からエンジニアになってみて",
+      "author" : "@kenkenkengo-y",
+      "day" : 11,
+      "url" : "https://qiita.com/kenkenkengo-y/items/16ed50fad3aa2eadd06a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "料理人からエンジニアになってみて",
+      "author" : "@rokudaime_cook",
+      "day" : 12,
+      "url" : "https://qiita.com/rokudaime_cook/items/f5958c321f5424aecc4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メーカー技術者からエンジニアになってみて",
+      "author" : "@roooll12",
+      "day" : 13,
+      "url" : "https://qiita.com/roooll12/items/9c3290135f0d603e2d57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自動車メーカー勤務からエンジニアになってみて",
+      "author" : "@yuta6113",
+      "day" : 14,
+      "url" : "https://qiita.com/yuta6113/items/a12cb43dc52113f60a08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "調理師見習いからエンジニアになってみて",
+      "author" : "@Yukit02",
+      "day" : 15,
+      "url" : "https://qiita.com/Yukit02/items/8941274e407151a5efec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "材料屋からエンジニアになってみて",
+      "author" : "@tktk0430",
+      "day" : 16,
+      "url" : "https://qiita.com/tktk0430/items/c8383ed718426300e94a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "配達ドライバーからエンジニアになってみて",
+      "author" : "@kurokawa516",
+      "day" : 17,
+      "url" : "https://qiita.com/kurokawa516/items/42de0fca3f9a99929c39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電気設計からエンジニアになってみて",
+      "author" : "@namasho0606",
+      "day" : 18,
+      "url" : "https://qiita.com/namasho0606/items/e0f73382befb5acb6a5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "薬剤師からエンジニアになってみて",
+      "author" : "@tuk19",
+      "day" : 19,
+      "url" : "https://qiita.com/tuk19/items/a8b43aa5bb8c02674263"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "教員からエンジニアになってみて",
+      "author" : "@kenta0518",
+      "day" : 20,
+      "url" : "https://qiita.com/kenta0518/items/f003d00cecb0e3bf879c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "金融系SIerからエンジニアになってみて",
+      "author" : "@Muu-lan",
+      "day" : 21,
+      "url" : "https://qiita.com/Muu-lan/items/da1a3a457d66c3676302"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フリーターからエンジニアになってみて",
+      "author" : "@Masashi9410",
+      "day" : 22,
+      "url" : "https://qiita.com/Masashi9410/items/497434cdddc317eb9b7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外事業部門からエンジニアになってみて",
+      "author" : "@junkrat",
+      "day" : 23,
+      "url" : "https://qiita.com/junkrat/items/5da0a6eec9b0165e189b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "物流管理からエンジニアになってみて",
+      "author" : "@fyuya59",
+      "day" : 24,
+      "url" : "https://qiita.com/fyuya59/items/608fa1bc4990b257a01e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@miyajimatasuku"
+    }
+  ]
+}

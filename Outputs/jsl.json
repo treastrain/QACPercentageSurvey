@@ -1,0 +1,164 @@
+{
+  "created_at" : "2021-12-24T04:27:35Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社日本システム技研",
+    "category" : "企業・学校・団体",
+    "lgtm" : 46,
+    "subscribers" : 0,
+    "title" : "JSL(日本システム技研) Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "jsl",
+    "url" : "https://qiita.com/advent-calendar/2021/jsl"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】bytesとstrを真面目に理解する【初心者向け】",
+      "author" : "@qtatsunishiura",
+      "day" : 1,
+      "url" : "https://qtatsu.hatenablog.com/entry/2021/12/02/003403"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】型ヒントと抽象基底クラス ~○○クエストを添えて~",
+      "author" : "@takapp",
+      "day" : 2,
+      "url" : "https://qiita.com/takapp/items/54230fb79dc305892de2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTTPXとasyncioを利用したPythonの非同期HTTPリクエスト",
+      "author" : "@jrfk",
+      "day" : 3,
+      "url" : "https://qiita.com/jrfk/items/ccba8dd63b635018cb6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@qtatsunishiura"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@qtatsunishiura"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "（∪＾ω＾）【Python watchdog】",
+      "author" : "@qtatsunishiura",
+      "day" : 6,
+      "url" : "https://qtatsu.hatenablog.com/entry/2021/12/06/234558"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Typescriptのスーパータイプとサブタイプについて",
+      "author" : "@al_tarte",
+      "day" : 7,
+      "url" : "https://qiita.com/al_tarte/items/737db7a2f6fe37ed7e16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアともうひとつ",
+      "author" : "@chinoppy",
+      "day" : 8,
+      "url" : "https://note.com/chinoppy0727/n/n32b3ef078f1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ReactでStateの更新がうまくいかないなと思った時に疑ってみて欲しいこと",
+      "author" : "@toto_public",
+      "day" : 9,
+      "url" : "https://qiita.com/toto_public/items/4a026b55da1917f48772"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あなた（わたし）のための型ヒント - 型変数TypeVar入門",
+      "author" : "@jrfk",
+      "day" : 10,
+      "url" : "https://qiita.com/jrfk/items/fa9e4a5922a7d3a5615b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@qtatsunishiura"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@qtatsunishiura"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】テスト時にデフォルト引数の値を差し替える",
+      "author" : "@qtatsunishiura",
+      "day" : 13,
+      "url" : "https://qtatsu.hatenablog.com/entry/2021/12/12/175106"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Vue.js】超エキサイティングなslot",
+      "author" : "@al_tarte",
+      "day" : 14,
+      "url" : "https://qiita.com/al_tarte/items/9d7211fa6ec3537b87bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@t_koba"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@takapp"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@jrfk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@qtatsunishiura"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@qtatsunishiura"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Lightsail を使ってみたはなし",
+      "author" : "@katekichi",
+      "day" : 20,
+      "url" : "https://qiita.com/katekichi/items/8a2259524a51952ac08f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TypeScript】 有効な状態を表す値だけを許可する",
+      "author" : "@takumi_akiba",
+      "day" : 21,
+      "url" : "https://qiita.com/takumi_akiba/items/d216238afacf2adad07a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React、高階コンポーネントってなんすか？",
+      "author" : "@toto_public",
+      "day" : 23,
+      "url" : "https://qiita.com/toto_public/items/87590d5bbb3925467234"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@qtatsunishiura"
+    }
+  ]
+}

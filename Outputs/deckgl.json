@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-24T03:29:30Z",
+  "calendar_meta_data" : {
+    "author" : "@_shimizu",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 0,
+    "subscribers" : 9,
+    "title" : "deck.gl Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "deckgl",
+    "url" : "https://qiita.com/advent-calendar/2021/deckgl"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeSandboxにdeck.glのテンプレートを作った",
+      "author" : "@_shimizu",
+      "day" : 1,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7584"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで作成した地図をページの一部に埋め込む",
+      "author" : "@_shimizu",
+      "day" : 2,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7667"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでマウスカーソルを変更する",
+      "author" : "@_shimizu",
+      "day" : 3,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7531"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glをpythonで使用するためのライブラリ「pydeck」",
+      "author" : "@_shimizu",
+      "day" : 4,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7723"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでツールチップを表示する",
+      "author" : "@_shimizu",
+      "day" : 6,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7541"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで日本語／絵文字ラベルを表示する",
+      "author" : "@_shimizu",
+      "day" : 7,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7660"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでマーカーを表示する",
+      "author" : "@_shimizu",
+      "day" : 8,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7575"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでGeoJSONを可視化する ",
+      "author" : "@_shimizu",
+      "day" : 9,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7654"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでKMLファイルを読み込んで可視化する",
+      "author" : "@_shimizu",
+      "day" : 10,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7616"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで公共交通データ(GTFS) データを可視化する",
+      "author" : "@_shimizu",
+      "day" : 11,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7753"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでカメラ移動をアニメーションする。",
+      "author" : "@_shimizu",
+      "day" : 13,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7551"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで特定の地物を画面内に自動的に収める",
+      "author" : "@_shimizu",
+      "day" : 14,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7556"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでレイヤーをアニメーションさせる",
+      "author" : "@_shimizu",
+      "day" : 15,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7565"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでポイントクラウドを表示する",
+      "author" : "@_shimizu",
+      "day" : 16,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7626"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで塗りにテクスチャを適用する ",
+      "author" : "@_shimizu",
+      "day" : 17,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7590"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで地図上に衛星画像を表示する",
+      "author" : "@_shimizu",
+      "day" : 18,
+      "url" : "https://gunmagisgeek.com/blog/other/7845"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArcGIS と deck.gl の連携",
+      "author" : "@freedom-tech",
+      "day" : 19,
+      "url" : "https://freedom-tech.hatenablog.com/entry/2021/12/19/002342"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " deck.glで地図上に動画を表示する",
+      "author" : "@_shimizu",
+      "day" : 20,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7679"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで地球儀を表示する",
+      "author" : "@_shimizu",
+      "day" : 21,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7603"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでポイントを光らせる",
+      "author" : "@_shimizu",
+      "day" : 22,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7671"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glで地図の表示領域を制限する",
+      "author" : "@_shimizu",
+      "day" : 23,
+      "url" : "https://gunmagisgeek.com/blog/other/7868"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deck.glでFPSのように3Dポリゴンを表示する",
+      "author" : "@_shimizu",
+      "day" : 24,
+      "url" : "https://gunmagisgeek.com/blog/deck-gl/7704"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

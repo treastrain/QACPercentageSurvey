@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T12:59:17Z",
+  "calendar_meta_data" : {
+    "author" : "READYFOR株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 2052,
+    "subscribers" : 27,
+    "title" : "READYFOR Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "readyfor",
+    "url" : "https://qiita.com/advent-calendar/2021/readyfor"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "伝えたい人に届ける技術記事の書き方",
+      "author" : "@MinoDriven",
+      "day" : 1,
+      "url" : "https://qiita.com/MinoDriven/items/6718b5e70e3fb321ff9b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECS 以後の構成と Progressive Delivery の調査",
+      "author" : "@jedipunkz@github",
+      "day" : 2,
+      "url" : "https://jedipunkz.github.io/post/progressive_delivery/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPAでのデータの流れ方を設計するための一つの考え方",
+      "author" : "@mosmos21",
+      "day" : 3,
+      "url" : "https://qiita.com/mosmos21/items/7ab6b9b62941bf7f681e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Integration Testing を改善！Testing Trophy を整形してCI実行速度を5倍に",
+      "author" : "@Takepepe",
+      "day" : 4,
+      "url" : "https://tech.readyfor.jp/entry/2021/12/04/000917"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "設計を歪める認知バイアス",
+      "author" : "@MinoDriven",
+      "day" : 5,
+      "url" : "https://qiita.com/MinoDriven/items/8e4abda43b05cd7a0200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "不確実性下の意思決定理論入門",
+      "author" : "@amachino",
+      "day" : 6,
+      "url" : "https://note.com/amachino/n/nbdd20181dbcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ダメな発表はなぜ聞いていてつらいのか？　プレゼンやイベントで 「大事なポイントを伝える」 ための喋り方・話し方のコツ。",
+      "author" : "@t2-kob",
+      "day" : 7,
+      "url" : "https://qiita.com/t2-kob/items/71163cddc4e38993ff30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービス立ち上げのプロダクトマネジメントをPMM・TPMで分担した話",
+      "author" : "@laura_ko",
+      "day" : 8,
+      "url" : "https://tech.readyfor.jp/entry/2021/12/08/185152"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web開発施策における効果予測を瞬殺で終わらせる方法",
+      "author" : "@makkinry222",
+      "day" : 9,
+      "url" : "https://note.com/kishin222/n/n1ea1b7215d90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "巨大Reactコンポーネントをミニマム工数で安全にリファクタリングした話",
+      "author" : "@neripark",
+      "day" : 10,
+      "url" : "https://tech.readyfor.jp/entry/2021/12/10/111331"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "App Mesh と ECS によるカナリーリリース構成を検証してみた",
+      "author" : "@jedipunkz@github",
+      "day" : 11,
+      "url" : "https://jedipunkz.github.io/post/app-mesh-ecs-canary/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文系だからこそエンジニアになれる道",
+      "author" : "@johnmanjiro4th",
+      "day" : 12,
+      "url" : "https://qiita.com/johnmanjiro4th/items/0579df46590e0f30faae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リファクタリング自爆奥義集",
+      "author" : "@MinoDriven",
+      "day" : 13,
+      "url" : "https://qiita.com/MinoDriven/items/dac5505cf8442e1721d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアエンジニアという人種（または私という一人）についてつらつらと思ふ",
+      "author" : "@otaizo",
+      "day" : 14,
+      "url" : "https://qiita.com/otaizo/items/5bfe1a3eae571babf75a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "READYFOR Updates #3: より簡単にプロジェクトページの準備ができるようになりました",
+      "author" : "@laura_ko",
+      "day" : 15,
+      "url" : "https://tech.readyfor.jp/entry/2021/12/15/114140"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャーとしての開発力向上の取り組みついて",
+      "author" : "@KUMAN",
+      "day" : 16,
+      "url" : "https://qiita.com/KUMAN/items/8cee8e33628850fd4e29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ファシリテーション手法「ラジオDJシステム」でオンラインイベントの孤独の壁を破壊する！　　～コミュニケーションの特徴とその対策～",
+      "author" : "@t2-kob",
+      "day" : 17,
+      "url" : "https://qiita.com/t2-kob/items/b9282a514507149cad1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトカイゼンを進めるためのチーム作り",
+      "author" : "@feat2kj",
+      "day" : 18,
+      "url" : "https://qiita.com/feat2kj/items/a241792c182721258609"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインシステムの負債との戦い方",
+      "author" : "@kyota",
+      "day" : 19,
+      "url" : "https://tech.readyfor.jp/entry/2021/12/19/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyの使い方や目的を整理してみた",
+      "author" : "@afracs",
+      "day" : 20,
+      "url" : "https://qiita.com/afracs/items/c415d526a41d784d8c02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドのログ周りを改善する過程で OSS (Datadog Browser SDK) にコントリビュートした話",
+      "author" : "@kotarella1110",
+      "day" : 21,
+      "url" : "https://qiita.com/kotarella1110/items/0a1578e8a1be09dc7c1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SLI/SLOをちゃんと運用しようと準備している話",
+      "author" : "@shmokmt",
+      "day" : 22,
+      "url" : "https://qiita.com/shmokmt/items/156cdfefd4cf27d586f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KPTじゃ無理だった...READYFORの大規模開発を支えた\"振り返り\"の工夫。CITKフレームワークとは？",
+      "author" : "@kecy",
+      "day" : 23,
+      "url" : "https://tech.readyfor.jp/entry/2021/12/23/194152"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュリティを学びたくてCTFに入門した話",
+      "author" : "@s-mori",
+      "day" : 24,
+      "url" : "https://qiita.com/s-mori/items/300765d8b2a89bcf5461"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@itohiro73"
+    }
+  ]
+}

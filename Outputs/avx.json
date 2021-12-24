@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T10:28:43Z",
+  "calendar_meta_data" : {
+    "author" : "@fukushima1981",
+    "category" : "プログラミング言語",
+    "lgtm" : 18,
+    "subscribers" : 35,
+    "title" : "AVX/AVX2/AVX512 Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "avx",
+    "url" : "https://qiita.com/advent-calendar/2021/avx"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2/AVX512 アドベントカレンダー2021イントロダクション",
+      "author" : "@fukushima1981",
+      "day" : 1,
+      "url" : "https://qiita.com/fukushima1981/items/66bc7265f3b678903dba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intel/AMDの直近のCPU年表",
+      "author" : "@fukushima1981",
+      "day" : 2,
+      "url" : "https://qiita.com/fukushima1981/items/4b8dded3ee57625a1645"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CPUのパフォーマンス：Latency, Throughput, Uops",
+      "author" : "@fukushima1981",
+      "day" : 3,
+      "url" : "https://qiita.com/fukushima1981/items/3bd94f1fc1b9ee3aab99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による浮動小数点・整数の加算＋x87による加算",
+      "author" : "@fukushima1981",
+      "day" : 4,
+      "url" : "https://qiita.com/fukushima1981/items/201442864dfb5ce9039f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による256ビットロード命令",
+      "author" : "@fukushima1981",
+      "day" : 5,
+      "url" : "https://qiita.com/fukushima1981/items/a11f7882857cf3e15308"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による256ビットストア命令",
+      "author" : "@fukushima1981",
+      "day" : 6,
+      "url" : "https://qiita.com/fukushima1981/items/467f8a796b8d0abc9d95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による実数・整数の乗算",
+      "author" : "@fukushima1981",
+      "day" : 7,
+      "url" : "https://qiita.com/fukushima1981/items/c9d18ba576b728f5abed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるFMA",
+      "author" : "@fukushima1981",
+      "day" : 8,
+      "url" : "https://qiita.com/fukushima1981/items/e1d589b6f5611062b7a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による除算と平方根",
+      "author" : "@fukushima1981",
+      "day" : 9,
+      "url" : "https://qiita.com/fukushima1981/items/934f2ef109a9388c6697"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるRCPとRSQRT",
+      "author" : "@fukushima1981",
+      "day" : 10,
+      "url" : "https://qiita.com/fukushima1981/items/ed2e14dd346e03de24d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるSVML (Short Vector Mathematical Library)を使った計算",
+      "author" : "@fukushima1981",
+      "day" : 11,
+      "url" : "https://qiita.com/fukushima1981/items/734f5849c6b73fc28faa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "xsave",
+      "author" : "@tanakmura",
+      "day" : 12,
+      "url" : "https://zenn.dev/tanakmura/articles/8af62a260ff05d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による論理演算",
+      "author" : "@fukushima1981",
+      "day" : 13,
+      "url" : "https://qiita.com/fukushima1981/items/2b8d27032607289ef99f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるnot演算の作成とsetzero",
+      "author" : "@fukushima1981",
+      "day" : 14,
+      "url" : "https://qiita.com/fukushima1981/items/fb4f6942d431084244d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による浮動小数点比較命令",
+      "author" : "@fukushima1981",
+      "day" : 15,
+      "url" : "https://qiita.com/fukushima1981/items/5001079900b328696859"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による整数比較命令",
+      "author" : "@fukushima1981",
+      "day" : 16,
+      "url" : "https://qiita.com/fukushima1981/items/4d77e24749edb8ea3d2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるキャスト",
+      "author" : "@fukushima1981",
+      "day" : 17,
+      "url" : "https://qiita.com/fukushima1981/items/704ee8f55aa9b023953a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による整数型から整数型への型変換",
+      "author" : "@fukushima1981",
+      "day" : 18,
+      "url" : "https://qiita.com/fukushima1981/items/d7ed1440ee2ae51f1a8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による整数型から浮動小数点型への型変換",
+      "author" : "@fukushima1981",
+      "day" : 19,
+      "url" : "https://qiita.com/fukushima1981/items/041ed1b8aa6a4575abe3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるShuffleとPermute一覧とpermute2f128命令",
+      "author" : "@fukushima1981",
+      "day" : 20,
+      "url" : "https://qiita.com/fukushima1981/items/1cd5fa6ea1caac1ddb58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による浮動小数点のShuffleとPermute",
+      "author" : "@fukushima1981",
+      "day" : 21,
+      "url" : "https://qiita.com/fukushima1981/items/496b0e0417d37f13c5fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2による整数のShuffleとPermute",
+      "author" : "@fukushima1981",
+      "day" : 22,
+      "url" : "https://qiita.com/fukushima1981/items/6a462284769fe1ad62a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるunpackとpacksと型変換",
+      "author" : "@fukushima1981",
+      "day" : 23,
+      "url" : "https://qiita.com/fukushima1981/items/407dc2c635597ec26fd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AVX/AVX2によるblendとblendv",
+      "author" : "@fukushima1981",
+      "day" : 24,
+      "url" : "https://qiita.com/fukushima1981/items/d99a718f29cf4b004bb1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@fukushima1981"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "created_at" : "2021-12-24T04:32:52Z",
+  "calendar_meta_data" : {
+    "author" : "@WeAreMa",
+    "category" : "企業・学校・団体",
+    "lgtm" : 14,
+    "subscribers" : 5,
+    "title" : "MAヒーローズ・リーグ Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "heroesleague",
+    "url" : "https://qiita.com/advent-calendar/2021/heroesleague"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CIVICTECH賞決勝のために作ったオシャレで○○○○なシルクハット",
+      "author" : "@airpocket",
+      "day" : 3,
+      "url" : "https://protopedia.net/prototype/2807"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "緯度・経度からWeb APIを利用して様々な情報を取得する",
+      "author" : "@team_kuchibashi",
+      "day" : 4,
+      "url" : "https://qiita.com/team_kuchibashi/items/bd58ab800067ae8e9664"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヒーローズ・リーグ 2021 に参加した理由",
+      "author" : "@miraimeisatu",
+      "day" : 14,
+      "url" : "https://note.com/futureforecast/n/nf67e9365a9ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヒーローズ・リーグと仕事とその他の間で相乗効果が起きている話",
+      "author" : "@daiking1756",
+      "day" : 15,
+      "url" : "https://daiking1756.hatenablog.com/entry/2021/12/15/041234?_ga=2.259317955.872151421.1639485427-975954350.1639485427"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヒーローズリーグに登録した「開発中のソフト音源アプリ」について",
+      "author" : "@krohigewagma",
+      "day" : 18,
+      "url" : "https://qiita.com/krohigewagma/items/55f449de070f160da0ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "由来のわかる地名カルタ「言の場」を作った時のドメイン取得のお話",
+      "author" : "@blue_islands",
+      "day" : 19,
+      "url" : "https://qiita.com/blue_islands/items/9759406c7106070b33df"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@ogimotoki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@TetsujinTakahashi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【MAヒーローズ・リーグ 2021】 2021年の #ヒーローズリーグ との関わり",
+      "author" : "@youtoy",
+      "day" : 22,
+      "url" : "https://note.com/youtoy/n/n4ec7296e36d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@TakSan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヒーローズ・リーグ2021「カフェのサイズが覚えられない」",
+      "author" : "@macha1972",
+      "day" : 24,
+      "url" : "https://qiita.com/macha1972/items/4bf8c9f119bc2969a20e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@masaya3"
+    }
+  ]
+}

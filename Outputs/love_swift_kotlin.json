@@ -1,0 +1,161 @@
+{
+  "created_at" : "2021-12-24T10:58:29Z",
+  "calendar_meta_data" : {
+    "author" : "@jollyjoester",
+    "category" : "プログラミング言語",
+    "lgtm" : 48,
+    "subscribers" : 46,
+    "title" : "Swift/Kotlin愛好会 Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "love_swift_kotlin",
+    "url" : "https://qiita.com/advent-calendar/2021/love_swift_kotlin"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ゆる〜く学ぶSwiftのConcurrency ~前半~",
+      "author" : "@jollyjoester",
+      "day" : 1,
+      "url" : "https://zenn.dev/jollyjoester/articles/3ebc8c778d1806"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "launchWhen〇〇〇は止めてrepeatOnLifecycleを使おう！",
+      "author" : "@tarumzu",
+      "day" : 2,
+      "url" : "https://qiita.com/tarumzu/items/877f66f7b885b742c283"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Kotlin初心者向け】KotlinでvarとMutableListを使わなくする方法",
+      "author" : "@n_takehata",
+      "day" : 3,
+      "url" : "https://blog.takehata-engineer.com/entry/not-use-var-and-mutable-list"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クロージャでメモリリークする原因と解決策(Swift)",
+      "author" : "@uhooi",
+      "day" : 4,
+      "url" : "https://qiita.com/uhooi/items/4ab76593783d91bb85d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゆる〜く学ぶSwiftのConcurrency ~後半~",
+      "author" : "@jollyjoester",
+      "day" : 5,
+      "url" : "https://zenn.dev/jollyjoester/articles/81783f99c2684c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】前の○曜日の日付を出力する関数",
+      "author" : "@akatsuka_nogifa",
+      "day" : 6,
+      "url" : "https://qiita.com/akatsuka_nogifa/items/da12ff706b1b98a3e2df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクロールした分だけ、NavigationBarをせり上げる",
+      "author" : "@keisukeYamagishi",
+      "day" : 7,
+      "url" : "https://qiita.com/keisukeYamagishi/items/2fbdd03cd7823253843d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メモリリークテスト",
+      "author" : "@keisukeYamagishi",
+      "day" : 10,
+      "url" : "https://qiita.com/keisukeYamagishi/items/36ed2417e0af5e913de3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@jollyjoester"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NCMB Kotlin SDK（デベロッパープレビュー）で各種データを保存してみる",
+      "author" : "@goofmint",
+      "day" : 13,
+      "url" : "https://qiita.com/goofmint/items/76e07b9fd1dc97c32140"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidアプリでバックグラウンド再生機能を実現するためのヒントとiOSアプリとの見比べた際の特徴を簡単にまとめてみた",
+      "author" : "@fumiyasac@github",
+      "day" : 15,
+      "url" : "https://qiita.com/fumiyasac@github/items/2f698d6c330530338826"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Kotlin]Google Play Billing Library",
+      "author" : "@m_yukio",
+      "day" : 16,
+      "url" : "https://qiita.com/m_yukio/items/e6f6b8136980df2fbac1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@jollyjoester"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "classにfinalを付ける基準(Swift)",
+      "author" : "@uhooi",
+      "day" : 20,
+      "url" : "https://qiita.com/uhooi/items/92494b0e3c7c63d9e334"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swiftで学ぶソートアルゴリズム入門",
+      "author" : "@katopan",
+      "day" : 21,
+      "url" : "https://qiita.com/katopan/items/1b9d49acae91144d9997"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Socket.IOをSwiftで使う ",
+      "author" : "@minmin0530",
+      "day" : 22,
+      "url" : "https://continue-jump.co.jp/development/socket-io-swift/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@freddi_"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@jollyjoester"
+    }
+  ]
+}

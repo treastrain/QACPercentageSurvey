@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T01:33:00Z",
+  "calendar_meta_data" : {
+    "author" : "@kenjis",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "CodeIgniter Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "codeigniter",
+    "url" : "https://qiita.com/advent-calendar/2021/codeigniter"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter 3.1と4.1の違い",
+      "author" : "@kenjis",
+      "day" : 1,
+      "url" : "https://zenn.dev/kenjis/articles/cc1c76ebc2a15b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter 4.1のインストール方法【2021年最新版】",
+      "author" : "@kenjis",
+      "day" : 2,
+      "url" : "https://zenn.dev/kenjis/articles/9a68c7fdbd5aaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "koolを使いCodeIgniter4の開発環境を構築する",
+      "author" : "@kenjis",
+      "day" : 3,
+      "url" : "https://zenn.dev/kenjis/articles/c9aecb9d3fd004"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "koolで構築したCodeIgniter4開発環境にphpMyAdminを追加する",
+      "author" : "@kenjis",
+      "day" : 4,
+      "url" : "https://zenn.dev/kenjis/articles/1bd9ceecc76c25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4入門 公式チュートリアル (1)静的ページの表示",
+      "author" : "@kenjis",
+      "day" : 5,
+      "url" : "https://zenn.dev/kenjis/articles/3d5e42f872ff18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4入門 公式チュートリアル (2)DBデータの表示",
+      "author" : "@kenjis",
+      "day" : 6,
+      "url" : "https://zenn.dev/kenjis/articles/dbc73878fc4abe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4入門 公式チュートリアル (3)DBへのデータの追加",
+      "author" : "@kenjis",
+      "day" : 7,
+      "url" : "https://zenn.dev/kenjis/articles/6afeafc47af406"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter\\Modelを使わない場合",
+      "author" : "@kenjis",
+      "day" : 8,
+      "url" : "https://zenn.dev/kenjis/articles/31526cefe34f0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4の認証ライブラリMyth Authを使う",
+      "author" : "@kenjis",
+      "day" : 9,
+      "url" : "https://zenn.dev/kenjis/articles/95f38b7e447155"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4のルーティング",
+      "author" : "@kenjis",
+      "day" : 10,
+      "url" : "https://zenn.dev/kenjis/articles/139208ac5e38c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "本当は危ないCodeIgniter4の自動ルーティング",
+      "author" : "@kenjis",
+      "day" : 11,
+      "url" : "https://zenn.dev/kenjis/articles/5a1487b85a0ad9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4のCodeIgniter\\Model (1)CRUDメソッド",
+      "author" : "@kenjis",
+      "day" : 12,
+      "url" : "https://zenn.dev/kenjis/articles/6fa2af22ba4a5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4のCodeIgniter\\Model (2)Entityクラスの利用",
+      "author" : "@kenjis",
+      "day" : 13,
+      "url" : "https://zenn.dev/kenjis/articles/1ab6d981dd698a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4のCodeIgniter\\Model (3)モデル内でのバリデーション",
+      "author" : "@kenjis",
+      "day" : 14,
+      "url" : "https://zenn.dev/kenjis/articles/13267b1da227b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4のEntityを使う場合",
+      "author" : "@kenjis",
+      "day" : 15,
+      "url" : "https://zenn.dev/kenjis/articles/28b39f0bea50e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4のアプリケーションフローチャート",
+      "author" : "@kenjis",
+      "day" : 16,
+      "url" : "https://zenn.dev/kenjis/articles/c8a19f61d62f24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4で新しいCI_ENVIRONMENTを定義する",
+      "author" : "@kenjis",
+      "day" : 17,
+      "url" : "https://zenn.dev/kenjis/articles/24ff7332d32837"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4でdd()を使う",
+      "author" : "@kenjis",
+      "day" : 18,
+      "url" : "https://zenn.dev/kenjis/articles/8a3e763d518db0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4でChrome Loggerを使う",
+      "author" : "@kenjis",
+      "day" : 19,
+      "url" : "https://zenn.dev/kenjis/articles/66d29306dd91a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フレームワークへの依存度を下げるFLUDパターン (1)",
+      "author" : "@kenjis",
+      "day" : 20,
+      "url" : "https://zenn.dev/kenjis/articles/52b1ddf29152b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フレームワークへの依存度を下げるFLUDパターン (2)",
+      "author" : "@kenjis",
+      "day" : 21,
+      "url" : "https://zenn.dev/kenjis/articles/981f387568e865"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フレームワークへの依存度を下げるFLUDパターン (3)",
+      "author" : "@kenjis",
+      "day" : 22,
+      "url" : "https://zenn.dev/kenjis/articles/803a33edce11ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フレームワークへの依存度を下げるFLUDパターン (4)",
+      "author" : "@kenjis",
+      "day" : 23,
+      "url" : "https://zenn.dev/kenjis/articles/6d1029c877e953"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kenjis"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kenjis"
+    }
+  ]
+}

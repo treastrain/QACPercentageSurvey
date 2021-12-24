@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-22T13:15:32Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社クラウドワークス",
+    "category" : "企業・学校・団体",
+    "lgtm" : 315,
+    "subscribers" : 32,
+    "title" : "クラウドワークス Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "crowdworks",
+    "url" : "https://qiita.com/advent-calendar/2021/crowdworks"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "crowdworks.jp のフロントエンド活動を振り返る 2021",
+      "author" : "@yamanoku",
+      "day" : 1,
+      "url" : "https://qiita.com/yamanoku/items/29a74ebf3d74b3017581"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアにオンボーディングで伝えているチーム文化",
+      "author" : "@mikimhk",
+      "day" : 2,
+      "url" : "https://qiita.com/mikimhk/items/ee690cbe8e89a08a828a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験スクラムマスターがやったこと＋意識したこと",
+      "author" : "@saison",
+      "day" : 3,
+      "url" : "https://qiita.com/saison/items/1801f666a69b2b9186ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あるエンジニアの緩慢な死、あるいはエンジニア35歳定年説。のその後",
+      "author" : "@shinichinomura",
+      "day" : 4,
+      "url" : "https://qiita.com/shinichinomura/items/6841a1f9a8bda571af7c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウドワークスの会員登録画面が新しくなります",
+      "author" : "@yuka-h",
+      "day" : 5,
+      "url" : "https://note.com/yucca_wi/n/n9a4842ce6b5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tfmigrate + Atlantis でTerraformリファクタリング機能をCI/CDに組み込む",
+      "author" : "@minamijoyo",
+      "day" : 6,
+      "url" : "https://qiita.com/minamijoyo/items/36d89cab4cd9f26fc098"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SI開発を経験してよかったことをSaaSエンジニアが語る",
+      "author" : "@uchimon",
+      "day" : 7,
+      "url" : "https://qiita.com/uchimon/items/a790924ce608d133247b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規事業の不確実性に対してどう向き合ったか",
+      "author" : "@Katsukiniwa",
+      "day" : 8,
+      "url" : "https://engineer.crowdworks.jp/entry/2021/12/08/115155"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムチームでスプリントレビューを取り入れた話",
+      "author" : "@anmn0375",
+      "day" : 9,
+      "url" : "https://note.com/anmn0375/n/n8793c6fd3af4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒から8年間スタートアップにいた経営者が、上場企業の社員になってみて思ったこと5つ",
+      "author" : "@kiyoseshi",
+      "day" : 10,
+      "url" : "https://qiita.com/kiyoseshi/items/f463107d4f700bba6589"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のSREチーム活動を振り返る",
+      "author" : "@kangaechu",
+      "day" : 11,
+      "url" : "https://engineer.crowdworks.jp/entry/sre2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaでアンケート内容を自動で付箋化する仕組みを作ってUXリサーチをした話",
+      "author" : "@yuka-h",
+      "day" : 12,
+      "url" : "https://qiita.com/yuka-h/items/41d9fa414975413fb9f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clarityのすすめ",
+      "author" : "@cw-yamada",
+      "day" : 13,
+      "url" : "https://qiita.com/cw-yamada/items/68dc35b54bb9dbf100cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語力ゼロから始めるオフショア開発",
+      "author" : "@RyoN_innopm",
+      "day" : 14,
+      "url" : "https://qiita.com/RyoN_innopm/items/95ae858920a32e3b7746"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "採用未経験のPOが、2か月半で3名のエンジニアを採用するためにやってよかった3つのこと",
+      "author" : "@t_takenoya",
+      "day" : 15,
+      "url" : "https://note.com/tomokatakenoya/n/n749dae9ec55f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "半年間EMをやっての振り返り",
+      "author" : "@hisamura333",
+      "day" : 16,
+      "url" : "https://engineer.crowdworks.jp/entry/2021/12/16/131121"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あるエンジニアの成長、あるいは悩みや変化。",
+      "author" : "@t0yohei",
+      "day" : 17,
+      "url" : "https://qiita.com/t0yohei/items/26a1e54c5f916951d6d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "crowdworks.jpのCI事情とスローテスト調査内容の紹介",
+      "author" : "@ryogift",
+      "day" : 18,
+      "url" : "https://engineer.crowdworks.jp/entry/2021/12/18/084612"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(クラウドログにジョインした所) 失礼致しました、熱盛と出てしまいました",
+      "author" : "@eiji_osakabe",
+      "day" : 19,
+      "url" : "https://qiita.com/eiji_osakabe/items/bb1e5d7ef6a9b1b623ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザーインタビューよりも、低コストで持続的にユーザーの声を取り入れてプロダクト開発する仕組みをつくった話",
+      "author" : "@yuta-kosaka",
+      "day" : 20,
+      "url" : "https://note.com/yuta3594/n/na18a6e9fdd41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ドメイン駆動設計】ビジネスの理解を促進させるドメインモデルという考え方とそれを取り巻く概念について説明する",
+      "author" : "@d4te",
+      "day" : 21,
+      "url" : "https://qiita.com/d4te/items/80fb7d54390882a492df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "トップページリニューアルのために見直した4つのこと。",
+      "author" : "@M_Hara",
+      "day" : 22,
+      "url" : "https://note.com/haraharam/n/n59c14f76a76c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@t-okibayashi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@ooharabucyou"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yoshidaCW"
+    }
+  ]
+}

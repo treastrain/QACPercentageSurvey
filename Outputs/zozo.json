@@ -1,0 +1,880 @@
+{
+  "created_at" : "2021-12-24T12:22:08Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ZOZO",
+    "category" : "企業・学校・団体",
+    "lgtm" : 328,
+    "subscribers" : 62,
+    "title" : "ZOZO Advent Calendar 2021",
+    "participants" : 75,
+    "unique_name" : "zozo",
+    "url" : "https://qiita.com/advent-calendar/2021/zozo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "え！！1bitでCPUを！？できらぁ！！",
+      "author" : "@shiozaki",
+      "day" : 1,
+      "url" : "https://qiita.com/shiozaki/items/db9ee673f2e17ea2ca72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Trie木の純粋な実装とLOUDSのサイズ比較(Java)",
+      "author" : "@pakio",
+      "day" : 2,
+      "url" : "https://zenn.dev/pakio/articles/eb864b89416637fe43fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apple Watchのポートレート文字盤をパースする",
+      "author" : "@banjun",
+      "day" : 3,
+      "url" : "https://zenn.dev/banjun/articles/9b5327048b5146"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TechLead 1on1をやってみた振り返り",
+      "author" : "@Horie1024",
+      "day" : 4,
+      "url" : "https://qiita.com/Horie1024/items/407034fb9c7560113ee3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Kubernetes] PodのAZ分散を実現するPod Topology Spread ConstraintsとDescheduler",
+      "author" : "@tmrekk",
+      "day" : 5,
+      "url" : "https://zenn.dev/tmrekk/articles/07f30b09c26b50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticsearch公式のベンチマーキングツール : Rally",
+      "author" : "@pakio",
+      "day" : 6,
+      "url" : "https://zenn.dev/pakio/articles/esrally-tutorial"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ingress設定のみでメンテナンス用レスポンス応答に切り替える方法",
+      "author" : "@banatt",
+      "day" : 7,
+      "url" : "https://qiita.com/banatt/items/0ebf542f825f807891b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GithubのPullRequest作成時のコメントで気をつけていること",
+      "author" : "@matsumana07384",
+      "day" : 8,
+      "url" : "https://qiita.com/matsumana07384/items/5aecbcd228a98394b3fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jeprofでメモリリークを見つける",
+      "author" : "@calorie",
+      "day" : 9,
+      "url" : "https://qiita.com/calorie/items/3ed632003517429620dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GraalVM +  Quarkus で Cloud Run に API を立てる",
+      "author" : "@f6wbl6",
+      "day" : 10,
+      "url" : "https://qiita.com/f6wbl6/items/e3dd175fa2fbd06bb39e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shift JIS の Web サイト向けに JSX 静的サイト・ジェネレーターを作る",
+      "author" : "@takewell",
+      "day" : 11,
+      "url" : "https://zenn.dev/takewell/articles/e32a791a4f6779"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swagger UIのVALIDバッジを非表示にする方法",
+      "author" : "@jon20",
+      "day" : 12,
+      "url" : "https://jongz.hatenablog.com/entry/2021/12/12/032208"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudWatch Alarm欠落データの処理を確かめる",
+      "author" : "@TAKAyuki_atkwsk",
+      "day" : 13,
+      "url" : "https://www.blogaomu.com/entry/cloudwatch-alarm-missing-data"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUIでズームイン・アウトするスクロールトランジションの実装",
+      "author" : "@edm17",
+      "day" : 14,
+      "url" : "https://qiita.com/edm17/items/a7ff02ca68dd15a4ba6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EKSでPrivate IPアドレス枯渇したのでaws-nodeの設定を見直した",
+      "author" : "@hkame",
+      "day" : 15,
+      "url" : "https://qiita.com/hkame/items/1378f9176a26e39d93c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alexaスキル開発でGoogleカレンダーAPIと連携してみた",
+      "author" : "@satto_sann",
+      "day" : 16,
+      "url" : "https://qiita.com/satto_sann/items/34cdfa8231eb455849b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KubescapeでKubernetesクラスタの脆弱性スキャンをしてみよう",
+      "author" : "@akitok",
+      "day" : 17,
+      "url" : "https://qiita.com/akitok/items/da387b40ee0c66a72db7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WASM FilterによるIstio Proxy (Envoy) の拡張で押さえておきたい基礎知識",
+      "author" : "@yokawasa",
+      "day" : 18,
+      "url" : "https://qiita.com/yokawasa/items/7459c0c9f7e53c6c97ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goを学ぶときに参照した学習リソースまとめ",
+      "author" : "@y_takaya",
+      "day" : 19,
+      "url" : "https://zenn.dev/ytakaya/articles/ff6321bad0cbea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figma の SVG アイコンと GitHub リポジトリを自動同期する",
+      "author" : "@schktjm",
+      "day" : 20,
+      "url" : "https://tjmschk.hatenablog.com/entry/figma-svg-to-github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DataflowでKinesisを扱う際の注意点",
+      "author" : "@case-k",
+      "day" : 21,
+      "url" : "https://www.case-k.jp/entry/2021/12/21/095405"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KubernetesのHierarchical Namespacesによるpropagationを完全に理解した",
+      "author" : "@snagasawa_",
+      "day" : 22,
+      "url" : "https://zenn.dev/snagasawa/articles/8c7bba139bb17d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPadでアプリを作ってみる~Swift Playground 4.0~",
+      "author" : "@tosh_3",
+      "day" : 23,
+      "url" : "https://qiita.com/tosh_3/items/6cf0cd17fb83ace4460b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticsearch + Cloud Run で検索 API を作る",
+      "author" : "@f6wbl6",
+      "day" : 24,
+      "url" : "https://qiita.com/f6wbl6/items/1302be8d555d21c219c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@sonots"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BudouXでOGP画像のテキストを読みやすくしてみた",
+      "author" : "@hiro0218",
+      "day" : 1,
+      "url" : "https://b.0218.jp/202112010002.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BigQueryでどこかしらの列に含まれる文字列を見つける方法",
+      "author" : "@shiozaki",
+      "day" : 2,
+      "url" : "https://qiita.com/shiozaki/items/5b6418a3181ff6b8fecc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BigQueryの権限を与えているのにPowerBIからクエリを実行すると権限エラーになる",
+      "author" : "@shiozaki",
+      "day" : 3,
+      "url" : "https://qiita.com/shiozaki/items/fcae38760359b586b1ec"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "iPhoneからでもクロネコヤマトの配達状況をAPIで取得したいんじゃ！~SwiftでHTMLを解析~",
+      "author" : "@tosh_3",
+      "day" : 4,
+      "url" : "https://qiita.com/tosh_3/items/de6378e919b32ef53ff1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "スマホの加速度センサーを使ってWebでリアルタイム同期する歩数計を作る",
+      "author" : "@juginon",
+      "day" : 5,
+      "url" : "https://qiita.com/juginon/items/0ffe16e027d6024a93f8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AirflowでもYAMLでDAGを書きたい",
+      "author" : "@shiozaki",
+      "day" : 6,
+      "url" : "https://qiita.com/shiozaki/items/c3b5e1d4d789588482c0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BigQueryで特定のテーブルを参照しているクエリを見つけ出す方法",
+      "author" : "@shiozaki",
+      "day" : 7,
+      "url" : "https://qiita.com/shiozaki/items/f578808d4c7ddb682ded"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ArgoCDのコンソールにALB経由でアクセスする定義をkustomizeでさっと作る",
+      "author" : "@Ichi0124",
+      "day" : 8,
+      "url" : "https://qiita.com/Ichi0124/items/bc37ad6f4aad9c3b9360"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "gmail.comで会社のGCPを使っている人を炙り出す方法",
+      "author" : "@shiozaki",
+      "day" : 9,
+      "url" : "https://qiita.com/shiozaki/items/55f38bfecdf5063bb206"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GitHub PagesでSwaggerをホスティングするGitHub Actionsの書き方",
+      "author" : "@shiozaki",
+      "day" : 10,
+      "url" : "https://qiita.com/shiozaki/items/05c282a1f208b1f756ae"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "DataflowのストリーミングJOBをデプロイするときの無限ループの回避",
+      "author" : "@shiozaki",
+      "day" : 11,
+      "url" : "https://qiita.com/shiozaki/items/598498988b458638f171"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Cloud DLPで特定のBigQueryデータセットの中身を全部スキャンする",
+      "author" : "@shiozaki",
+      "day" : 12,
+      "url" : "https://qiita.com/shiozaki/items/c5dba17fba5f6576e46b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "bqコマンドに渡しているスキーマのJSONが間違っていてもクエリが実行されてしまう問題",
+      "author" : "@shiozaki",
+      "day" : 13,
+      "url" : "https://qiita.com/shiozaki/items/689610ca4cdf7954b3ea"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Goのソースコードのファイル名の末尾が_ios.goだとビルド対象にならない",
+      "author" : "@shiozaki",
+      "day" : 14,
+      "url" : "https://qiita.com/shiozaki/items/51e680d36a6ba8b488f4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "生産者の顔がわかるタイプのCapcha解析サービス",
+      "author" : "@shiozaki",
+      "day" : 15,
+      "url" : "https://qiita.com/shiozaki/items/aaa780f3aa862f81cce7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Workload Identityを使ってJSONキーなしでGitHubActionsからGCPにアクセスする",
+      "author" : "@shiozaki",
+      "day" : 16,
+      "url" : "https://qiita.com/shiozaki/items/9d50f28d38f027c6beb3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Workload Identityを使ってJSONキーなしでGitHubActionsからGCPにアクセスする(Terraform編)",
+      "author" : "@shiozaki",
+      "day" : 17,
+      "url" : "https://qiita.com/shiozaki/items/2f61489c09ff196213b4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Cloud IDSがGAになったので、導入してみる",
+      "author" : "@shiozaki",
+      "day" : 18,
+      "url" : "https://qiita.com/shiozaki/items/084bf0bee7056ee7e8a3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Datastreamを使ってCloud SQLのCDCデータをGCSに格納する",
+      "author" : "@shiozaki",
+      "day" : 19,
+      "url" : "https://qiita.com/shiozaki/items/ea0b94198a02f43d1a6d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Google Cloud Armorのセキュリティーポリシーの許可ルールにGithub ActionsのIPを一時的に追加する方法",
+      "author" : "@Kyou13",
+      "day" : 20,
+      "url" : "https://qiita.com/Kyou13/items/30b24b8726bebc4fcf97"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Datastreamを使ってCloud SQLのCDCデータをBigQueryに格納する",
+      "author" : "@shiozaki",
+      "day" : 21,
+      "url" : "https://qiita.com/shiozaki/items/ceb25f4b4e67f7012ec3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BigQueryのQUALIFY句をWHEREもGROUP BYもHAVINGもない時に使う方法",
+      "author" : "@shiozaki",
+      "day" : 22,
+      "url" : "https://qiita.com/shiozaki/items/125fe3bcad8dcc06ac70"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "JetpackComposeのViewModelにおける状態管理を試してみた",
+      "author" : "@ymd_aaa",
+      "day" : 23,
+      "url" : "https://qiita.com/ymd_aaa/items/7bb9e05460267c2499d7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Universal Linksを用いたiOSのDeep Link対応",
+      "author" : "@chichilam",
+      "day" : 24,
+      "url" : "https://qiita.com/chichilam/items/9b646cdf4409d287195b"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@tmasa517"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "JIGを使ってリファクタリングする",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 1,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/898528ce9feda5c7b447"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "バリデーションだけじゃ足りない時がある。契約について考察する。",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 2,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/3e2bd6671761bc6dcb5b"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "SchemaSpyでER図を自動生成",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 3,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/407fcf85aa15eae60508"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【リモート×モブプロ】IntelliJ IDEAのCode With Meを使ってみた話",
+      "author" : "@naoya_s",
+      "day" : 4,
+      "url" : "https://qiita.com/naoya_s/items/b12a69df5f9a53a0682e"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Apache Beam2.3.4(Python)で導入されたwith_exception_handlingを使ってみる",
+      "author" : "@jon20",
+      "day" : 5,
+      "url" : "https://jongz.hatenablog.com/entry/2021/12/05/082909"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "プロジェクト全編ほぼモブプロでやってみた",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 6,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/479b9e9c2ce094de9dd8"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "fluent bitのタグってなんだ？",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 7,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/03bcc43e36e7c02d09bc"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "LocalStackがあれば大体何でもローカルでAWS開発ができる",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 8,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/09896648e9f93af69d14"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "セキュリティから始まるドメイン駆動設計",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 9,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/e186306e5537b6090e97"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "小ネタ：IntelliJでCSVファイルをテーブル形式で参照する",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 10,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/5da6c1252fd4bc9f1eb5"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Python】GiNZA+SudachiPyを使ってテキスト内の品詞出現頻度を解析してみた",
+      "author" : "@satto_sann",
+      "day" : 11,
+      "url" : "https://qiita.com/satto_sann/items/1a31d911710a790c99cc"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Datadog】KubernetesのOOMKilledを監視するためのメトリクス",
+      "author" : "@tippy",
+      "day" : 12,
+      "url" : "https://qiita.com/tippy/items/2e957a4ba2da07a6de42"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "シングルサインオンはいいぞ。AWS SSOでEC2 Windows Serverにログインする。",
+      "author" : "@kotatsu360",
+      "day" : 13,
+      "url" : "https://qiita.com/kotatsu360/items/1dfe4153b4a507956db7"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "テスト書けと言われて書けるもんじゃぁないに対する一つの答え(テスト駆動開発再入門)",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 14,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/07167329e7dac6b4fcd5"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "ConstraintLayout FlowでViewを動的に追加してみる",
+      "author" : "@zzt-osamuhanzawa",
+      "day" : 15,
+      "url" : "https://qiita.com/zzt-osamuhanzawa/items/e2b67320000d0b7a9513"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "AWS SDK for Javaのバージョンごとのクライアントの設定",
+      "author" : "@TKazutaro",
+      "day" : 16,
+      "url" : "https://qiita.com/TKazutaro/items/dea56910c84507e78322"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "モジュラーモノリスに対する考察",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 17,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/1b1f8a7c004388d71388"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "レゴブロックから学ぶ創造性と組織開発",
+      "author" : "@sashihara",
+      "day" : 18,
+      "url" : "https://sashihara.jp/LEGO"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "BigQueryにサブクエリのエイリアスを優先されてorder byがエラーになった話",
+      "author" : "@Otofuke",
+      "day" : 19,
+      "url" : "https://qiita.com/Otofuke/items/48ae80c4393b697a37bd"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "DDDの文脈におけるドメインとサブドメインについて考察",
+      "author" : "@shoyaokayama",
+      "day" : 20,
+      "url" : "https://dino.hateblo.jp/entry/2021/12/05/111425"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "GitHubActionsでkubernetesマニフェストのバリデーションチェック",
+      "author" : "@akanenone",
+      "day" : 21,
+      "url" : "https://qiita.com/akanenone/items/11fcadbd857b75c00fc6"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Dataflowに送られてくるログサイズに制限をかける",
+      "author" : "@jon20",
+      "day" : 22,
+      "url" : "https://jongz.hatenablog.com/entry/2021/12/22/163554"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "[小ネタ]メールにQRコードを貼っつけたい",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 23,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/4481630c03e87de182f3"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Dockerfileベストプラクティス - Node.jsアプリケーション編",
+      "author" : "@taquaki-satwo",
+      "day" : 24,
+      "url" : "https://qiita.com/taquaki-satwo/items/f8fbe8b1efc4b2323ae7"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25,
+      "author" : "@t_shimokawa"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "竈門炭治郎をCSS Paint APIで再現する",
+      "author" : "@hiro0218",
+      "day" : 1,
+      "url" : "https://b.0218.jp/202112010004.html"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "SPAJAM2021で優勝しました",
+      "author" : "@NakaokaRei",
+      "day" : 2,
+      "url" : "https://note.com/rei_no_note/n/n15587f8e4535"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【Vertex AI】Workbench は革命児",
+      "author" : "@rayuron",
+      "day" : 3,
+      "url" : "https://qiita.com/rayuron/items/3e6495d510cf76128678"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "App Storeの年齢レーティングの影響を正しく理解する",
+      "author" : "@ahiru___",
+      "day" : 4,
+      "url" : "https://zenn.dev/natoring/articles/0383c198ab0db1"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Fargateだって25番ポートで外部メールサーバーに接続したい！",
+      "author" : "@mt-kage",
+      "day" : 5,
+      "url" : "https://qiita.com/mt-kage/items/823b68592e65bdfc9e40"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "DataSyncを利用したEFSからS3のデータ転送時の注意点",
+      "author" : "@_mass",
+      "day" : 6,
+      "url" : "https://qiita.com/_mass/items/5c391d78bafb7a80837b"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "SQL Server Management Studioから複数台のSQL Serverに同じクエリを実行する方法",
+      "author" : "@itito",
+      "day" : 7,
+      "url" : "https://qiita.com/itito/items/fec771e9879f5469e900"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Fluent Bit で Pub/Sub にログ転送する",
+      "author" : "@sasamuku",
+      "day" : 8,
+      "url" : "https://qiita.com/sasamuku/items/3aa4c6388b2fbe60c973"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "EKS on Fargateのバージョンアップをやってみた(v1.20→v1.21)",
+      "author" : "@wadason",
+      "day" : 9,
+      "url" : "https://qiita.com/wadason/items/b57443f2a4c81f6580a9"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Windowsの音声出力先を変えるショートカット作成",
+      "author" : "@itiB_S144",
+      "day" : 10,
+      "url" : "https://itib.hatenablog.com/entry/2021121001"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "SIerよりWeb系だ！と決意し転職したエンジニアの振り返り",
+      "author" : "@taqunium",
+      "day" : 11,
+      "url" : "https://qiita.com/taqunium/items/d53744386adf970e46ee"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "GiuHubのリリース機能を使ったCI/CDをGitHub Actionsで構築する",
+      "author" : "@mt-kage",
+      "day" : 12,
+      "url" : "https://qiita.com/mt-kage/items/3d1d4de0d9ad269e00fe"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "ドメイン駆動設計のリポジトリに対する考察",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 13,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/bae376ad47ed5f86ba05"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "データポータルとスプレッドシートで作るキャラクターデータベース",
+      "author" : "@JotarO_Oyanagi",
+      "day" : 14,
+      "url" : "https://qiita.com/JotarO_Oyanagi/items/d7bbd661ce8f0763bcc7"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "このオブジェクトはエンティティかバリューオブジェクトか",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 15,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/b0ed7b3204b515f741e0"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "CQRS/ESのコマンドAPIレスポンスについて考える",
+      "author" : "@YasuhiroKimesawa",
+      "day" : 16,
+      "url" : "https://qiita.com/YasuhiroKimesawa/items/44e4b4982c1e76f629a3"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "マイクロサービスをdatadogで分散トレースする",
+      "author" : "@daikon510",
+      "day" : 17,
+      "url" : "https://qiita.com/daikon510/items/732ab38cc4748ebe0358"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "ファイルの更新時間を使ってLivenessProbeを判定する",
+      "author" : "@EnKUMA",
+      "day" : 18,
+      "url" : "https://qiita.com/EnKUMA/items/991d14ed72b0200ba368"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "CloudFormationでAWS Personal Health Dashboardからの通知をSlackで受ける環境を（ほぼ）一発で準備する",
+      "author" : "@mt-kage",
+      "day" : 19,
+      "url" : "https://qiita.com/mt-kage/items/7b2464fc17d81d99f72b"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "POSTで呼ばれた場合のリクエスト情報の取得について（Spring Boot）",
+      "author" : "@tkani",
+      "day" : 20,
+      "url" : "https://qiita.com/tkani/items/382b70e581707bcd0070"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Androidでもシェーダーでモニョモニョしたい！",
+      "author" : "@tkhskt",
+      "day" : 21,
+      "url" : "https://qiita.com/tkhskt/items/3cf7e411d77c8b5a8812"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "nvim-dapを利用したGo言語デバッグ",
+      "author" : "@aratana_tamutomo",
+      "day" : 22,
+      "url" : "https://qiita.com/aratana_tamutomo/items/7397b037e912d84d33b7"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "ただの暗号羅列にしか見えない「正規表現」をちょっと理解して読めるようになる記事",
+      "author" : "@pocoochan",
+      "day" : 23,
+      "url" : "https://qiita.com/pocoochan/items/c4a1ae220052fda9daf2"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "はじめてのエンジニア就職？PR出し？Swift初学者が自分のコード晒す前にせめてここだけはチェックしておいたほうがよいよ集",
+      "author" : "@pocoochan",
+      "day" : 24,
+      "url" : "https://qiita.com/pocoochan/items/310c394e5e8f15946ac5"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 25,
+      "author" : "@yan_yan"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "CSSのborder-radiusではiOSのアイコンの角丸は表現できない",
+      "author" : "@hiro0218",
+      "day" : 1,
+      "url" : "https://b.0218.jp/202112010005.html"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "PostgreSQLのpgcrypto(encrypt関数)でAES暗号化したデータをBigQueryで復号化する",
+      "author" : "@katsuyan",
+      "day" : 2,
+      "url" : "https://qiita.com/katsuyan/items/0d10b63c2ce6ab4deab8"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "PostgreSQLの運用でよく使うクエリカンペ",
+      "author" : "@katsuyan",
+      "day" : 3,
+      "url" : "https://qiita.com/katsuyan/items/d8969830194362bc80bc"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "FCMのPythonSDKでの通知メッセージ・データメッセージ・APNsの利用",
+      "author" : "@katsuyan",
+      "day" : 4,
+      "url" : "https://qiita.com/katsuyan/items/87f1ba0af86fed50cdb1"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "GoogleCloudMonitoringのAlartingとPagerDutyの連携(PagerDuty Services)",
+      "author" : "@katsuyan",
+      "day" : 5,
+      "url" : "https://qiita.com/katsuyan/items/6cee1d5f91a0a483256c"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "平凡なフロントエンドエンジニアの Flutter 入門",
+      "author" : "@schktjm",
+      "day" : 6,
+      "url" : "https://tjmschk.hatenablog.com/entry/2021/12/06/224935"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "Slackワークフローを使って、未来の上司(内定者バイト)のために日報運用をちょっと便利にしてみた件",
+      "author" : "@gachi-muchi-engineer",
+      "day" : 7,
+      "url" : "https://qiita.com/gachi-muchi-engineer/items/4e064d70eb3deac04d35"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "あれ？ポチッとマージできちゃった？ガバガバGithubガバナンス",
+      "author" : "@gachi-muchi-engineer",
+      "day" : 8,
+      "url" : "https://qiita.com/gachi-muchi-engineer/items/0a0d2bd69424abbca710"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "5月から始めた内定者バイトを振り返る",
+      "author" : "@pine0619",
+      "day" : 9,
+      "url" : "https://pine619.hatenablog.com/entry/part-time-job"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "Kubernetesを使う上で知っておきたいツールやプラグイン",
+      "author" : "@tmrekk",
+      "day" : 10,
+      "url" : "https://zenn.dev/tmrekk/articles/580f2e2bb39d5f"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "Amazon Rekognition",
+      "author" : "@BrunoB",
+      "day" : 11,
+      "url" : "https://qiita.com/BrunoB/items/44300da761e868be15e3"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "【Flutter】使い勝手の良かったパッケージ5選",
+      "author" : "@naoya_s",
+      "day" : 12,
+      "url" : "https://qiita.com/naoya_s/items/f96d849be83e3d2c619f"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "【Go言語】自作した静的解析ツールをGitHub Actionsで実行する",
+      "author" : "@y_takaya",
+      "day" : 13,
+      "url" : "https://zenn.dev/ytakaya/articles/55a07808c2fd5e"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "【Splunk】１サーチで複数の時間範囲のサーチ結果を比較する",
+      "author" : "@yokochin0105",
+      "day" : 14,
+      "url" : "https://qiita.com/yokochin0105/items/b3e3cfa0f5391f73cee3"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "[Server-Side Swift] Vaporで定期実行してiOS向けの情報/記事をまとめる",
+      "author" : "@yyokii",
+      "day" : 15,
+      "url" : "https://zenn.dev/yyokii/articles/server-side-swift-vapor-queue"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : " 【Swift・iOS】 入門者必見!! 困らないAutoLayoutの\"考え方\" ",
+      "author" : "@shogunzozo",
+      "day" : 16,
+      "url" : "https://qiita.com/shogunzozo/items/dbd15710fb5ced63964f"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "ARKitのFaceTrackingを使ってゲームでよくみるあの入力を実装",
+      "author" : "@thenagain",
+      "day" : 17,
+      "url" : "https://qiita.com/thenagain/items/00bdef1da859983ff93c"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "リモート(lldb)でiPhone端末に接続してデバッグすることはできるか",
+      "author" : "@trywjs",
+      "day" : 18,
+      "url" : "https://qiita.com/trywjs/items/1844f50a057a33245265"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "XcodeのInterface Builderでハンバーガーメニューの配置の制約を簡単に設定する方法",
+      "author" : "@pkino",
+      "day" : 19,
+      "url" : "https://qiita.com/pkino/items/8bf8238f78e74498f478"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "Raspberry Pi 4から始めるNAS生活",
+      "author" : "@zz_takumi_ito",
+      "day" : 20,
+      "url" : "https://qiita.com/zz_takumi_ito/items/ea3f7c9fb26be33f3c7b"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "遊びから始めるハーフモーダル",
+      "author" : "@koiwai2020",
+      "day" : 21,
+      "url" : "https://qiita.com/koiwai2020/items/4f1a0b7f28be0006fa35"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "GitHubActionsを使って別リポジトリのYMLを自動更新する",
+      "author" : "@aidadada",
+      "day" : 22,
+      "url" : "https://qiita.com/aidadada/items/6dd8efab57fb4c923adf"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "Spring Bootアプリケーションのコンテナ化を試してみた",
+      "author" : "@saitoshi",
+      "day" : 23,
+      "url" : "https://qiita.com/saitoshi/items/a931399e81e63e8e4f1e"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "「コンピュータシステムの理論と実装」をSwiftで実装してみた",
+      "author" : "@yyokii",
+      "day" : 24,
+      "url" : "https://zenn.dev/yyokii/articles/nand2tetris-swift"
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 25,
+      "author" : "@OkaHiromasa"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T12:20:01Z",
+  "calendar_meta_data" : {
+    "author" : "@misoca12",
+    "category" : "企業・学校・団体",
+    "lgtm" : 95,
+    "subscribers" : 7,
+    "title" : "レコチョク Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "recochoku",
+    "url" : "https://qiita.com/advent-calendar/2021/recochoku"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterメディア再生のすすめ",
+      "author" : "@misoca12",
+      "day" : 1,
+      "url" : "https://qiita.com/misoca12/items/e35c0a9a741e6ed6176b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "murketでのSassの変数・@mixinのご紹介",
+      "author" : "@sudachi_jelly",
+      "day" : 2,
+      "url" : "https://qiita.com/sudachi_jelly/items/497b2bb4950639a98e10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "えを描こう",
+      "author" : "@m-nomura",
+      "day" : 3,
+      "url" : "https://qiita.com/m-nomura/items/0d67b2d3994ed42cbbc7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS re:Invent 今年はハイブリット開催",
+      "author" : "@s-yamaa",
+      "day" : 4,
+      "url" : "https://qiita.com/s-yamaa/items/042e28ab34af752a628f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSの負荷テストソリューション Distributed Load Testing on AWS を負荷テストで使ってみた",
+      "author" : "@b1013018",
+      "day" : 5,
+      "url" : "https://qiita.com/b1013018/items/5385b7c6db08e59030ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QuickSightの埋め込みダッシュボードを使ってサービス開発した話",
+      "author" : "@masamichi-tamura",
+      "day" : 6,
+      "url" : "https://qiita.com/masamichi-tamura/items/b6154b36e6a22d512cd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hiltを使ってみよう",
+      "author" : "@y_sugiyama46",
+      "day" : 7,
+      "url" : "https://qiita.com/y_sugiyama46/items/273f6043a0b1f403c64e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーとスクラム",
+      "author" : "@ping_penguin",
+      "day" : 8,
+      "url" : "https://qiita.com/ping_penguin/items/1ef4e1309c917ca2158e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年度上半期で感動した学びBest3",
+      "author" : "@monhiromu",
+      "day" : 9,
+      "url" : "https://qiita.com/monhiromu/items/37540ebdadc4291268f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React NativeでWallet風UIを実装する",
+      "author" : "@y-matsuki",
+      "day" : 10,
+      "url" : "https://qiita.com/y-matsuki/items/0f90d520fdccf00c9ba8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "家計簿のデータをNode.jsでスプレッドシート連携してみた",
+      "author" : "@hiroshidev",
+      "day" : 11,
+      "url" : "https://qiita.com/hiroshidev/items/5723dea6087332742212"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スライダーってこんな簡単に作れるの知らなかった",
+      "author" : "@sera-yamagishi",
+      "day" : 12,
+      "url" : "https://qiita.com/sera-yamagishi/items/d6b66f0b3c9cab1ec652"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "異常検知手法を用いたバズり検知",
+      "author" : "@togemaru8823",
+      "day" : 13,
+      "url" : "https://qiita.com/togemaru8823/items/5d8e2ed9e7d8ffa58edf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web3.0関連の情報収集に活用しているサイト5選",
+      "author" : "@AyanoSakamoto",
+      "day" : 14,
+      "url" : "https://qiita.com/AyanoSakamoto/items/74a73cf43901b3f6e883"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブロックチェーンとその関連技術のイメージを掴む",
+      "author" : "@NahoOgihara",
+      "day" : 15,
+      "url" : "https://qiita.com/NahoOgihara/items/81522ef45a733ce3b46c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NFTが世界中のビジネス市場を変えるかもしれない件",
+      "author" : "@HimenoAoki",
+      "day" : 16,
+      "url" : "https://qiita.com/HimenoAoki/items/a7a7bd3e19b27518a859"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ダミーデータを生成してBIダッシュボードを作ってみた",
+      "author" : "@48-shibata",
+      "day" : 17,
+      "url" : "https://qiita.com/48-shibata/items/2b2a73a3afb15874656e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】プロトコル(protocol)の使い方",
+      "author" : "@YukaFukayama",
+      "day" : 18,
+      "url" : "https://qiita.com/YukaFukayama/items/e1a1b34fdf20e33c911b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidアプリ開発2ヶ月弱の新卒が思う、初学者でも参考になったサイト8選",
+      "author" : "@kitaken",
+      "day" : 19,
+      "url" : "https://qiita.com/kitaken/items/df83c4efa84f6f90d530"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レコチョクの新卒エンジニア研修を4ヶ月受けた話",
+      "author" : "@s1250200",
+      "day" : 20,
+      "url" : "https://qiita.com/s1250200/items/ce39e0d2f73a1261f658"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】安全にアンラップするために 〜!（強制アンラップ）とif letとguard letと??（Nil coalescing operator）の使い分け〜",
+      "author" : "@otouto3",
+      "day" : 21,
+      "url" : "https://qiita.com/otouto3/items/a46cfb76fea90d1974b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MediaElement.jsでメディアプレイヤーのUIをサクッとつくる",
+      "author" : "@g-imai",
+      "day" : 22,
+      "url" : "https://qiita.com/g-imai/items/dcc61f360703ed61cca7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gherkin記法を使ったテスト設計",
+      "author" : "@y-kiyosaki",
+      "day" : 23,
+      "url" : "https://qiita.com/y-kiyosaki/items/800695c96892925a8758"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ分析未経験の新卒エンジニアがレコメンド機能を実装した話",
+      "author" : "@k-hayasaka",
+      "day" : 24,
+      "url" : "https://qiita.com/k-hayasaka/items/1602c178a7f0dc5bf558"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@mhackit"
+    }
+  ]
+}

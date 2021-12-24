@@ -1,0 +1,128 @@
+{
+  "created_at" : "2021-12-24T02:08:02Z",
+  "calendar_meta_data" : {
+    "author" : "@AbeTetsuya20",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 3,
+    "title" : "法政大学情報科学部 Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "cis_hosei",
+    "url" : "https://qiita.com/advent-calendar/2021/cis_hosei"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaの授業をIntelliJ IDEAで受ける!",
+      "author" : "@isso_719",
+      "day" : 20,
+      "url" : "https://qiita.com/isso_719/items/dada333f1428348a946d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "３DモデルをBlenderで.pmxから.fbx形式に変換しUnityで動かすまで",
+      "author" : "@HirokiLucky",
+      "day" : 21,
+      "url" : "https://qiita.com/HirokiLucky/items/633dac1215a4f783500f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlin で始める Minecraft Plugin 開発",
+      "author" : "@waigoma",
+      "day" : 22,
+      "url" : "https://qiita.com/waigoma/items/7ba8a462e35a7fabb181"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ユーザーのための Git 操作まとめ",
+      "author" : "@masahibi13",
+      "day" : 24,
+      "url" : "https://qiita.com/masahibi13/items/37abe786adcc00eb5abd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@AbeTetsuya20"
+    }
+  ]
+}

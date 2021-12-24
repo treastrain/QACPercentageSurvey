@@ -1,0 +1,137 @@
+{
+  "created_at" : "2021-12-22T13:46:05Z",
+  "calendar_meta_data" : {
+    "author" : "@Neri78",
+    "category" : "プレゼント",
+    "lgtm" : 11,
+    "subscribers" : 14,
+    "title" : "Twilioを使った面白いこと・Twilioの無駄遣いを共有しよう【PR】Twilio Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "twilio-build",
+    "url" : "https://qiita.com/advent-calendar/2021/twilio-build"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@familymusicwork"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "卒業した推しメンに電話して次の推しメン候補をSMSで教えてもらう",
+      "author" : "@kikutaro",
+      "day" : 2,
+      "url" : "https://qiita.com/kikutaro/items/d143a208d39c966a177d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンライン会議での発言率を表示する",
+      "author" : "@masibw",
+      "day" : 9,
+      "url" : "https://qiita.com/masibw/items/645a03a1cf53a7491cea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@KJ0513"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio番号でFAXの送受信を行う（Twilio SIP Registration ＋ VoIP アダプターを利用） ",
+      "author" : "@takeshifurusato",
+      "day" : 16,
+      "url" : "https://qiita.com/takeshifurusato/items/a8744101eb2d3870499b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おれの財宝か?欲しけりゃくれてやるぜ... さがしてみろお財布の全てをTwilioに置いてきた",
+      "author" : "@yuto-ktok",
+      "day" : 19,
+      "url" : "https://qiita.com/yuto-ktok/items/024c7ba8f7a93f1fab22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電話だけで遊んでみる",
+      "author" : "@masaya3",
+      "day" : 20,
+      "url" : "https://qiita.com/masaya3/items/c05cf87c1a711e30c6c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@newt0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@TakSan"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@kenjiwilkins"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@oic0310"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Pig"
+    }
+  ]
+}

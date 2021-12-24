@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-24T12:08:22Z",
+  "calendar_meta_data" : {
+    "author" : "@jeffi7",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 52,
+    "subscribers" : 74,
+    "title" : "GitLab Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "gitlab",
+    "url" : "https://qiita.com/advent-calendar/2021/gitlab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabコンテナーレジストリーからHarborへDockerイメージをレプリケーションする",
+      "author" : "@ynott",
+      "day" : 1,
+      "url" : "https://qiita.com/ynott/items/30604d57fe394bf2f4ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab 13.12.15からGitLab 14.4.2までアップグレード",
+      "author" : "@ynott",
+      "day" : 2,
+      "url" : "https://qiita.com/ynott/items/082e7355e4eec92acc03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabのEnvironmentを使いこなせ！(Environmentってなに？編) ",
+      "author" : "@ynott",
+      "day" : 3,
+      "url" : "https://qiita.com/ynott/items/79d567ecb0cfbce722a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "静的コード解析と軽量Code Quality",
+      "author" : "@masakura",
+      "day" : 4,
+      "url" : "https://www.gitlab.jp/blog/2021/12/04/lightweight-codequality/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabのEnvironmentを使いこなせ！(.gitlab-ci.ymlで使う編)",
+      "author" : "@ynott",
+      "day" : 5,
+      "url" : "https://qiita.com/ynott/items/d44c2f4552f1f32cdbed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " title: \" GitLabのアクセストークンの安全な選び方・使い方",
+      "author" : "@masakura",
+      "day" : 6,
+      "url" : "https://www.gitlab.jp/blog/2021/12/06/access-token/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Omnibus GitLabのexporterをプロキシでまとめて外部のPrometheusで監視する。",
+      "author" : "@tingtt",
+      "day" : 7,
+      "url" : "https://qiita.com/tingtt/items/86d7d75178a3f115418c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabでオンボーディングを可視化（バックオフィスでもGitLab活用できるよ）",
+      "author" : "@yasudatadahiro",
+      "day" : 8,
+      "url" : "https://www.creationline.com/blog/tadahiro-yasuda/47035"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitlabRunnerインストールしてGitlabCIを始める",
+      "author" : "@snamon",
+      "day" : 10,
+      "url" : "https://usage-automate.hatenablog.com/entry/2021/12/10/095746?_ga=2.248703495.1249324232.1639093529-106132283.1616725142"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab Runner の Kubernetes Executor",
+      "author" : "@yo_C_ta",
+      "day" : 11,
+      "url" : "https://qiita.com/yo_C_ta/items/db379b31d9011e875e6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabをポッドキャスト運営に使ってみた",
+      "author" : "@dada617",
+      "day" : 12,
+      "url" : "https://qiita.com/dada617/items/f78dbc1fc7c0ada3d58d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab-CI shared runner を用意してみんなに使ってもらおう！",
+      "author" : "@athagi",
+      "day" : 13,
+      "url" : "https://qiita.com/athagi/items/e212249c6f14f29db427"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "公開算譜は機敏だ。前史。",
+      "author" : "@kaizen_nagoya",
+      "day" : 14,
+      "url" : "https://qiita.com/kaizen_nagoya/items/2f6e436e73004b2b7c33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab CIとtextlintでアドベントカレンダーの校正を自動化してみた",
+      "author" : "@ytakahashi005",
+      "day" : 15,
+      "url" : "https://www.forcia.com/blog/002374.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gitlab CI on RaspberryPi4",
+      "author" : "@kakakikikeke",
+      "day" : 16,
+      "url" : "https://qiita.com/kakakikikeke/items/10596366b1e0d7176f2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabのCI/CDで超重要なrulesの全てを理解する",
+      "author" : "@hamadakoji",
+      "day" : 18,
+      "url" : "https://dev.classmethod.jp/articles/sample-to-understand-rules/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabを使って秒で始めるDevSecOps",
+      "author" : "@toshihue",
+      "day" : 19,
+      "url" : "https://qiita.com/toshihue/items/efd50a7d852b3def95ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab CIのキャッシュ圧縮展開をFF_USE_FASTZIPで爆速にする",
+      "author" : "@ynott",
+      "day" : 20,
+      "url" : "https://qiita.com/ynott/items/0a0183994b5723124c23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS上でGitLabを運用する際、マネージドサービスを利用することに関する考察",
+      "author" : "@k2-miyake",
+      "day" : 21,
+      "url" : "https://qiita.com/k2-miyake/items/9fea2e8b3e0ec65714cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Omnibus GitLab】アップグレード手順（Ver.11 ~ Ver.12.10.14まで）",
+      "author" : "@wadakatu",
+      "day" : 22,
+      "url" : "https://qiita.com/wadakatu/items/bc8e9a15bf9bbb0ce5a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Omnibus GitLab】アップグレード手順（Ver.13 ~ Ver.14.5.2まで）",
+      "author" : "@wadakatu",
+      "day" : 23,
+      "url" : "https://qiita.com/wadakatu/items/9c9b08874fb1372df382"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Omnibus GitLab】サーバーアップデートに関する注意点・エラー対処法",
+      "author" : "@wadakatu",
+      "day" : 24,
+      "url" : "https://qiita.com/wadakatu/items/b7b5ef486a67d6ec2455"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

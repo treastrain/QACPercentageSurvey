@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:40:33Z",
+  "calendar_meta_data" : {
+    "author" : "電通国際情報サービス（ISID）",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "電通国際情報サービス Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "isid",
+    "url" : "https://qiita.com/advent-calendar/2021/isid"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "テックブログ始めました。",
+      "author" : "@isid-techblog",
+      "day" : 1,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/01/%E3%83%86%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsとAWS App Runnerを利用してBlue/Greenデプロイメントを実現してみた",
+      "author" : "@isid-techblog",
+      "day" : 2,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/02/GitHub_Actions%E3%81%A8AWS_App_Runner%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6Blue/Green%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%97%E3%81%A6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " Geth(ゲス)はじめました",
+      "author" : "@isid-techblog",
+      "day" : 3,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/03/Geth%28%E3%82%B2%E3%82%B9%29%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リアルタイムレンダラーP3Dのご紹介",
+      "author" : "@isid-techblog",
+      "day" : 4,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/04/%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%80%E3%83%A9%E3%83%BCP3D%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Policy as Codeを実現する Open Policy Agent / Rego の紹介",
+      "author" : "@isid-techblog",
+      "day" : 5,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/05/Policy_as_Code%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B_Open_Policy_Agent_/_Rego_%E3%81%AE%E7%B4%B9%E4%BB%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年社内の技術書読書会で読んだ本！",
+      "author" : "@84zume",
+      "day" : 6,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/06/2021%E5%B9%B4%E3%81%AB%E7%A4%BE%E5%86%85%E3%81%AE%E6%8A%80%E8%A1%93%E6%9B%B8%E8%AA%AD%E6%9B%B8%E4%BC%9A%E3%81%A7%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC%EF%BC%81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ふりかえり入門した、ふりかえり",
+      "author" : "@isid-techblog",
+      "day" : 7,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/07/%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%88%E3%82%8A%E5%85%A5%E9%96%80%E3%81%97%E3%81%9F%E3%80%81%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%88%E3%82%8A"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めての案件でPoCをやって学んだこと3選",
+      "author" : "@isid-techblog",
+      "day" : 8,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/08/%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E6%A1%88%E4%BB%B6%E3%81%A7PoC%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%93%E3%81%A83%E9%81%B8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure データ分析基盤における DataOps の実践方法を考えてみる",
+      "author" : "@isid-techblog",
+      "day" : 9,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/09/azure_dataops"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WPFでC#を実行するエディターを作成する",
+      "author" : "@isid-techblog",
+      "day" : 10,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/10/WPF%E3%81%A7C%23%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Common LispでREST APIを作ってみよう",
+      "author" : "@isid-techblog",
+      "day" : 11,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/11/Common_Lisp%E3%81%A7REST_API%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "組織に失敗学でPostmortem文化の定着を試みた話",
+      "author" : "@isid-techblog",
+      "day" : 12,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/12/%E7%B5%84%E7%B9%94%E3%81%AB%E5%A4%B1%E6%95%97%E5%AD%A6%E3%81%A7Postmortem%E6%96%87%E5%8C%96%E3%81%AE%E5%AE%9A%E7%9D%80%E3%82%92%E8%A9%A6%E3%81%BF%E3%81%9F%E8%A9%B1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Hooks を理解しよう",
+      "author" : "@isid-techblog",
+      "day" : 13,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/13/React_Hooks_%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlinでデータベースアクセス「Komapper」",
+      "author" : "@isid-techblog",
+      "day" : 14,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/14/database_access_in_kotlin_using_komapper"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ISIDのデザイン組織とデザイナーの実態（リアル）",
+      "author" : "@isid-techblog",
+      "day" : 15,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/15/ISID%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%B5%84%E7%B9%94%E3%81%A8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E5%AE%9F%E6%85%8B%EF%BC%88%E3%83%AA%E3%82%A2%E3%83%AB%EF%BC%89"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon EKSのクラスター認証・認可を理解する",
+      "author" : "@isid-techblog",
+      "day" : 16,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/16/Amazon_EKS%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E8%AA%8D%E8%A8%BC%E3%83%BB%E8%AA%8D%E5%8F%AF%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "goでValueObject(値オブジェクト) を実装する",
+      "author" : "@isid-techblog",
+      "day" : 17,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/17/go%E3%81%A7ValueObject%28%E5%80%A4%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%29_%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Copilotでブログ記事書いてみた",
+      "author" : "@handa-kenta",
+      "day" : 18,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/18/github_copilot_for_writing_blog"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Web AppsでGUIでらくらく、OIDC認証、 Continuous Delivery、ブルーグリーンディプロイメント !!",
+      "author" : "@isid-techblog",
+      "day" : 19,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/19/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマートシティを実現するFIWAREとは",
+      "author" : "@ueba-yuki",
+      "day" : 20,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/20/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BFIWARE%E3%81%A8%E3%81%AF"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "\"脱スパゲッティコード\"してプロダクトコードを書くスタートに立つまで",
+      "author" : "@isid-techblog",
+      "day" : 21,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/21/%22%E8%84%B1%E3%82%B9%E3%83%91%E3%82%B2%E3%83%83%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%89%22%E3%81%97%E3%81%A6%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "部門横断型セキュリティレビューの20年を振り返ってみます",
+      "author" : "@isid-techblog",
+      "day" : 22,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/22/%E9%83%A8%E9%96%80%E6%A8%AA%E6%96%AD%E5%9E%8B%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE20%E5%B9%B4%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%81%A3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データクラウド”Snowflake” のおはなし",
+      "author" : "@isid-techblog",
+      "day" : 23,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/23/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E2%80%9DSnowflake%E2%80%9D_%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンド依存ライブラリのバージョンアップ",
+      "author" : "@isid-techblog",
+      "day" : 24,
+      "url" : "https://tech.isid.co.jp/entry/2021/12/24/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E4%BE%9D%E5%AD%98%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@isid-techblog"
+    }
+  ]
+}

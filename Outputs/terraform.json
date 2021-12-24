@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T13:47:07Z",
+  "calendar_meta_data" : {
+    "author" : "@raki",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 80,
+    "subscribers" : 85,
+    "title" : "terraform Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "terraform",
+    "url" : "https://qiita.com/advent-calendar/2021/terraform"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の terraform-jp 振り返り",
+      "author" : "@raki",
+      "day" : 1,
+      "url" : "https://qiita.com/raki/items/d6d59b18185cc8fb2064"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "github actions(w/z composite) + setup-terraform",
+      "author" : "@raki",
+      "day" : 2,
+      "url" : "https://qiita.com/raki/items/30124512f45d79ae02d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PipeCD で Terraform Apply する前に plan-preview で実行計画を確認する",
+      "author" : "@chaspy",
+      "day" : 3,
+      "url" : "https://blog.chaspy.me/entry/2021/12/07/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformとCopilotでFargateを使ったモダンなAWS環境をかんたん構築",
+      "author" : "@kon_yu",
+      "day" : 4,
+      "url" : "https://blog.uzumaki-inc.jp/da277bcedee4402fb0a12a4dbdb5b8d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform を自動実行したいなら Atlantis",
+      "author" : "@chroju",
+      "day" : 5,
+      "url" : "https://qiita.com/chroju/items/f77e8391d6ef7c7cb59a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでPagerDutyを管理しています",
+      "author" : "@Morihaya",
+      "day" : 6,
+      "url" : "https://creators.oisix.co.jp/entry/2021/12/06/104218"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubの機能を活用した Terraform CI/CD Template Repository",
+      "author" : "@dehio3",
+      "day" : 7,
+      "url" : "https://zenn.dev/dehio3/articles/27573afa180988"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformとCloud BuildでGCP向けのIaC環境を作成してみた",
+      "author" : "@koduki",
+      "day" : 8,
+      "url" : "https://zenn.dev/koduki/articles/78a36c07020638"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "terraform 運用失敗談",
+      "author" : "@ningenMe",
+      "day" : 9,
+      "url" : "https://qiita.com/ningenMe/items/a467fd0dcb5205157cf0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubの権限管理をTerraform化して幸せになろう",
+      "author" : "@moajo",
+      "day" : 10,
+      "url" : "https://qiita.com/moajo/items/a840ecf88607ff583c02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Terraform】list, map, objectの結合を整理したい",
+      "author" : "@c6tower",
+      "day" : 11,
+      "url" : "https://qiita.com/c6tower/items/7ac35451e0c9c3dce899"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel on Cloud Run created by Terraform Modules",
+      "author" : "@sogahisashi",
+      "day" : 12,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-12-2dda7e7314fc48"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform Workspaceを2年以上運用しての振り返り",
+      "author" : "@ksugahara08",
+      "day" : 13,
+      "url" : "https://zenn.dev/ksuga/articles/ee57f1005eb3bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraformでkeycloakの設定を色々投入する話",
+      "author" : "@gurany_tou",
+      "day" : 14,
+      "url" : "https://zenn.dev/guranytou/articles/e585836394ad4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraformで使った黒魔術2021",
+      "author" : "@kaedemalu",
+      "day" : 15,
+      "url" : "https://qiita.com/kaedemalu/items/ffe34ffea9decd108a18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YubiKeyで二要素認証しながらAWSリソースへ対しTerraformを実行する話",
+      "author" : "@nntsugu",
+      "day" : 16,
+      "url" : "https://zenn.dev/nntsugu/articles/45647e42702325"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CVE-2021-44228をブロックするAWS WAFをTerraformで作成する",
+      "author" : "@yktr_sre",
+      "day" : 17,
+      "url" : "https://qiita.com/yktr_sre/items/703090869fe154f32d51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 Terraform でやったことをまとめてみる",
+      "author" : "@kzkamago0721",
+      "day" : 18,
+      "url" : "https://k2ss.info/archives/3140/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでMackerel監視整備",
+      "author" : "@sogahisashi",
+      "day" : 19,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-19-fb58235a2fbb6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraformで構築したシステムの自動テスト",
+      "author" : "@KAndy",
+      "day" : 20,
+      "url" : "https://qiita.com/KAndy/items/0369d27abc54a4df01b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform CloudのRun Tasksを少し深掘りしてみた",
+      "author" : "@kuroseets",
+      "day" : 21,
+      "url" : "https://qiita.com/kuroseets/items/98493e59d2c159a6da09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Consul契機でTerraform動かしてネットワーク機器の設定を自動化する",
+      "author" : "@jacopen",
+      "day" : 22,
+      "url" : "https://jaco.udcp.info/entry/2021/12/22/013855"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraformに入門、AWS EC2でインスタンスを立てた",
+      "author" : "@mitomito",
+      "day" : 23,
+      "url" : "https://mitomito.hatenablog.jp/entry/2021/12/23/063000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS EC2環境でPull Request毎に開発環境構築するCI/CDパイプラインをJenkins+Terraformで実装した話",
+      "author" : "@Tocyuki",
+      "day" : 24,
+      "url" : "https://qiita.com/Tocyuki/items/723e8c51ff16bca6dd19"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ishii1648"
+    }
+  ]
+}

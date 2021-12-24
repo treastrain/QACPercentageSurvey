@@ -1,0 +1,185 @@
+{
+  "created_at" : "2021-12-24T05:02:14Z",
+  "calendar_meta_data" : {
+    "author" : "@yo_C_ta",
+    "category" : "企業・学校・団体",
+    "lgtm" : 37,
+    "subscribers" : 7,
+    "title" : "DENSO Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "denso",
+    "url" : "https://qiita.com/advent-calendar/2021/denso"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "docker desktop の代わりに windows10 wsl2 で podman をつかう",
+      "author" : "@yo_C_ta",
+      "day" : 1,
+      "url" : "https://qiita.com/yo_C_ta/items/df2a70de6a653226a173"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "generic な golang gRPC サーバをつくる",
+      "author" : "@hiroakiyoshii",
+      "day" : 2,
+      "url" : "https://qiita.com/hiroakiyoshii/items/5a0dec3125e88ec84a91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KeyCloakのIdPにOktaを設定する",
+      "author" : "@tonitoni415",
+      "day" : 3,
+      "url" : "https://qiita.com/tonitoni415/items/7c6a44421397b91b11c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform 及びTerragruntをDocker 上で実行する",
+      "author" : "@tonitoni415",
+      "day" : 4,
+      "url" : "https://qiita.com/tonitoni415/items/8a9e42b352380b3bb079"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonからSnowflakeを操作する際のケースインセンシティブな注意点",
+      "author" : "@watanabe781",
+      "day" : 5,
+      "url" : "https://qiita.com/watanabe781/items/bc1b4bd70574be3c6f17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOS アプリで使ってる OSS の情報をいい感じにとる",
+      "author" : "@shinyaishida",
+      "day" : 6,
+      "url" : "https://qiita.com/shinyaishida/items/c4dad9df975ba25022b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Android/iOSで他アプリに簡単な値を送る方法",
+      "author" : "@nashitake",
+      "day" : 7,
+      "url" : "https://qiita.com/nashitake/items/0940ef5cbbbe87b254ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HomeAutomationいろいろ",
+      "author" : "@nakamuloud",
+      "day" : 8,
+      "url" : "https://qiita.com/nakamuloud/items/db992c8459f192d6527b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kubernetesのetcd上のデータを読み解く",
+      "author" : "@kuro_1116",
+      "day" : 9,
+      "url" : "https://qiita.com/kuro_1116/items/358e82547e25c1c60820"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Go]Slackで古い投稿を一括削除する",
+      "author" : "@ktr03",
+      "day" : 10,
+      "url" : "https://qiita.com/ktr03/items/b926c674fe6cb3685686"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクラ鯖v1.18アプデの戦い",
+      "author" : "@hiroky_814",
+      "day" : 11,
+      "url" : "https://qiita.com/hiroky_814/items/d1972a3b9e5e4e86cc5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイルは魔法の杖ではないことを経営層や非IT部門にQCD+Sを図示して説明する",
+      "author" : "@senortake",
+      "day" : 12,
+      "url" : "https://blogs.itmedia.co.jp/narisako/2021/12/itqcds.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ServerlessFramework + AWS + Pythonで作るレイヤーと単体テスト",
+      "author" : "@nashitake",
+      "day" : 13,
+      "url" : "https://qiita.com/nashitake/items/e8255f8a5daa8df81990"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform Provider AWSのテストの書き方",
+      "author" : "@tonitoni415",
+      "day" : 14,
+      "url" : "https://qiita.com/tonitoni415/items/f4d1db3e175a5cde1a36"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仕様バグとアジャイル開発に関する考察",
+      "author" : "@senortake",
+      "day" : 15,
+      "url" : "https://blogs.itmedia.co.jp/narisako/2019/05/post_48.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービスのコンテナクラスター",
+      "author" : "@mash_kyam",
+      "day" : 16,
+      "url" : "https://qiita.com/mash_kyam/items/546cf64cc82ed3f0e31f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ジョークで学ぶ通信プロトコル",
+      "author" : "@shinyaishida",
+      "day" : 17,
+      "url" : "https://qiita.com/shinyaishida/items/4de20326d311b379a921"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Go]ローカル環境でのテスト自動実行スクリプトにより開発体験を向上する",
+      "author" : "@ktr03",
+      "day" : 18,
+      "url" : "https://qiita.com/ktr03/items/6b20cd1d401c88c4bfd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeのTerraform拡張でtflintが効いてなかったのでスクリプトで対処する",
+      "author" : "@ktr03",
+      "day" : 19,
+      "url" : "https://qiita.com/ktr03/items/dc19b607f27a7ca88a1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AppleHomeKitでデバイスを動作させるために、homebridge用のデバイスをtypescriptで書く",
+      "author" : "@hiroo_78",
+      "day" : 20,
+      "url" : "https://qiita.com/hiroo_78/items/cb9358f5e1b4c0911106"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフト開発未経験チームがオンボーディングでWebアプリ作ってみた",
+      "author" : "@sakuya_st",
+      "day" : 21,
+      "url" : "https://qiita.com/sakuya_st/items/4772bb11f8824de0713b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】マルチリージョンアーキテクチャーを検討する際に考えること",
+      "author" : "@shimazushi",
+      "day" : 22,
+      "url" : "https://qiita.com/shimazushi/items/535f429d2a4e1fb1d4dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IT現場で組織開発を試してみた (スパイト行動を考慮した心理的安全性の確保)",
+      "author" : "@Kanban",
+      "day" : 23,
+      "url" : "https://qiita.com/Kanban/items/13c713c7e5f0efe0bac8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@h-kurihara"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

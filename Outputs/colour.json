@@ -1,0 +1,144 @@
+{
+  "created_at" : "2021-12-24T08:25:18Z",
+  "calendar_meta_data" : {
+    "author" : "@kaizen_nagoya",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 8,
+    "subscribers" : 13,
+    "title" : " 「色　いろいろ」 Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "colour",
+    "url" : "https://qiita.com/advent-calendar/2021/colour"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "色を選ぶ基準と試行錯誤",
+      "author" : "@kaizen_nagoya",
+      "day" : 1,
+      "url" : "https://qiita.com/kaizen_nagoya/items/408dd78746f523ad17b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ナスは本当にナス色なのか調べてみた",
+      "author" : "@dem_kk",
+      "day" : 2,
+      "url" : "https://qiita.com/dem_kk/items/38c9e51b87441f24951e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@dem_kk 「ナスは本当にナス色なのか調べてみた」で学び始めたこと。",
+      "author" : "@kaizen_nagoya",
+      "day" : 3,
+      "url" : "https://qiita.com/kaizen_nagoya/items/880feffc1031f73ed4fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【きれい】RGB色空間の断面図アニメーションをPython+matplotlib+ffmpegで作成した",
+      "author" : "@yamasaki1ma",
+      "day" : 4,
+      "url" : "https://qiita.com/yamasaki1ma/items/d3a691d69260b7b96f46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「色　いろいろ」　Advent Calendar 2021 を満席にする5つの方法",
+      "author" : "@kaizen_nagoya",
+      "day" : 5,
+      "url" : "https://qiita.com/kaizen_nagoya/items/8294b80c5fb8499298a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@yamasaki1ma「【きれい】RGB色空間の断面図アニメーションをPython+matplotlib+ffmpegで作成した」をdockerで。",
+      "author" : "@kaizen_nagoya",
+      "day" : 6,
+      "url" : "https://qiita.com/kaizen_nagoya/items/b1703072d26335725a28"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@commdgranche"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@anonnon2sd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@juntakakada"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@anonnon2sd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JIS安全色",
+      "author" : "@kaizen_nagoya",
+      "day" : 13,
+      "url" : "https://qiita.com/kaizen_nagoya/items/45e546921c536ab4aba7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita Advent Calendar 2021の色が、私の今年の年賀状と似ていると話題になっている件",
+      "author" : "@kaizen_nagoya",
+      "day" : 20,
+      "url" : "https://qiita.com/kaizen_nagoya/items/da9b676730f2060c7cde"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tfukumori"
+    }
+  ]
+}

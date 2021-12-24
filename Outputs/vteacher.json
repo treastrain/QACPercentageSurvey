@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T08:40:05Z",
+  "calendar_meta_data" : {
+    "author" : "VTeacher",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 2,
+    "title" : "VTeacher (鈴木ソフトラボラトリー合同会社) Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "vteacher",
+    "url" : "https://qiita.com/advent-calendar/2021/vteacher"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 1日目 [Next.js 12]",
+      "author" : "@rgbkids",
+      "day" : 1,
+      "url" : "https://qiita.com/rgbkids/items/37600accf72fba504ea2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 2日目 [Setup]",
+      "author" : "@rgbkids",
+      "day" : 2,
+      "url" : "https://qiita.com/rgbkids/items/7246d2f3bddbb9eb07d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 3日目 [React Sever Components の種類]",
+      "author" : "@rgbkids",
+      "day" : 3,
+      "url" : "https://qiita.com/rgbkids/items/2d950e19df04ff23913c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 4日目 [App.server.js]",
+      "author" : "@rgbkids",
+      "day" : 4,
+      "url" : "https://qiita.com/rgbkids/items/154e839f1934395cc437"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 5日目 [React Sever Components のメリット]",
+      "author" : "@rgbkids",
+      "day" : 5,
+      "url" : "https://qiita.com/rgbkids/items/73311f153120e13bb33a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 6日目 [値の引き渡し]",
+      "author" : "@rgbkids",
+      "day" : 6,
+      "url" : "https://qiita.com/rgbkids/items/4aa830c86b45f7d798e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 7日目 [fetchによるREST API処理]",
+      "author" : "@rgbkids",
+      "day" : 7,
+      "url" : "https://qiita.com/rgbkids/items/0e1963a861a45af2940d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 8日目 [外部のDBを利用する]",
+      "author" : "@rgbkids",
+      "day" : 8,
+      "url" : "https://qiita.com/rgbkids/items/bf9915876534d9db1d8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 9日目 [スケールアウト]",
+      "author" : "@rgbkids",
+      "day" : 9,
+      "url" : "https://qiita.com/rgbkids/items/08e4d633534b826a767a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 10日目 [演習]",
+      "author" : "@rgbkids",
+      "day" : 10,
+      "url" : "https://qiita.com/rgbkids/items/e42270a6a2aea1eef838"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 11日目 [SSR経験者ならReact Server ComponentsでSPAが簡単に作れる話]",
+      "author" : "@rgbkids",
+      "day" : 11,
+      "url" : "https://qiita.com/rgbkids/items/faaa4c51428e5f3f877f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 12日目 [JavaScriptを巡る主導権争い]",
+      "author" : "@rgbkids",
+      "day" : 12,
+      "url" : "https://qiita.com/rgbkids/items/8817414df4723150f6b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 13日目 [今までのSPA]",
+      "author" : "@rgbkids",
+      "day" : 13,
+      "url" : "https://qiita.com/rgbkids/items/ec6c6aabd207c267304a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 14日目 [ウォーターフォール（Waterfall）問題]",
+      "author" : "@rgbkids",
+      "day" : 14,
+      "url" : "https://qiita.com/rgbkids/items/d6d4dc561b467cc1b108"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 15日目 [React Server Components の立ち位置]",
+      "author" : "@rgbkids",
+      "day" : 15,
+      "url" : "https://qiita.com/rgbkids/items/1dc08654d280d9e922d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 16日目 [React Server ComponentsのRFC]",
+      "author" : "@rgbkids",
+      "day" : 16,
+      "url" : "https://qiita.com/rgbkids/items/2c874f326f0cb5cc0eb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 17日目 [副産物的なメリット]",
+      "author" : "@rgbkids",
+      "day" : 17,
+      "url" : "https://qiita.com/rgbkids/items/dfb440b9d23b31440281"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 18日目 [重要なキーワードを整理]",
+      "author" : "@rgbkids",
+      "day" : 18,
+      "url" : "https://qiita.com/rgbkids/items/606f52bdf075b9eece4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 19日目 [基本はSSR（PHPやRails等）の考えでつくることができる]",
+      "author" : "@rgbkids",
+      "day" : 19,
+      "url" : "https://qiita.com/rgbkids/items/5bc9a6af095cfa8e4e33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 20日目 [React Server Components 作り方の基本]",
+      "author" : "@rgbkids",
+      "day" : 20,
+      "url" : "https://qiita.com/rgbkids/items/7483d18937804bc6721c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 21日目 [認証]",
+      "author" : "@rgbkids",
+      "day" : 21,
+      "url" : "https://qiita.com/rgbkids/items/b05082a05788a0a8c4a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Server Components 22日目 [多言語対応]",
+      "author" : "@rgbkids",
+      "day" : 22,
+      "url" : "https://qiita.com/rgbkids/items/c3fcbfe8fea25f4c523f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【兼】WebXR＋IoTでメタバース的なものを創る(ガリバートンネル的な世界)",
+      "author" : "@rgbkids",
+      "day" : 23,
+      "url" : "https://zenn.dev/rgbkids/articles/8c4e812eec8011"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@rgbkids"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@rgbkids"
+    }
+  ]
+}

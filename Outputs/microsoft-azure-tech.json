@@ -1,0 +1,291 @@
+{
+  "created_at" : "2021-12-24T04:56:55Z",
+  "calendar_meta_data" : {
+    "author" : "@watahani",
+    "category" : "企業・学校・団体",
+    "lgtm" : 58,
+    "subscribers" : 20,
+    "title" : "Microsoft Azure Tech Advent Calendar 2021",
+    "participants" : 26,
+    "unique_name" : "microsoft-azure-tech",
+    "url" : "https://qiita.com/advent-calendar/2021/microsoft-azure-tech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "条件付きアクセスの認証コンテキストを触ってみた",
+      "author" : "@watahani",
+      "day" : 1,
+      "url" : "https://jpazureid.github.io/blog/azure-active-directory/introducing-authentication-context/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "App Service にて Tomcat の設定ファイルを変更してカスタムエラーページを構成する方法",
+      "author" : "@hyatsu",
+      "day" : 2,
+      "url" : "https://qiita.com/hyatsu/items/61ae74d0c308f9ec9048"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Chaos Studio で始めるカオスエンジニアリング",
+      "author" : "@kk31108424",
+      "day" : 3,
+      "url" : "https://qiita.com/kk31108424/items/7ec1cdec5e179226643b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Storage のリージョンを跨いだサービスエンドポイント (プレビュー) を試す",
+      "author" : "@Isato-Hiyama",
+      "day" : 4,
+      "url" : "https://qiita.com/Isato-Hiyama/items/ceb08a4ec8f0cdd20433"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Functions の関数にタイムアウトを設定する(C#)",
+      "author" : "@yuna-s",
+      "day" : 5,
+      "url" : "https://qiita.com/yuna-s/items/cf5124f2ca815f45f177"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScript  と Node.js 用の Application Insights SDK で分散トレースを試してみる",
+      "author" : "@jun110",
+      "day" : 6,
+      "url" : "https://qiita.com/jun110/items/2f55bede72663479c212"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "条件付きアクセスにワークロード ID を対象とする機能がプレビューとして追加されました",
+      "author" : "@ryuya-M",
+      "day" : 7,
+      "url" : "https://jpazureid.github.io/blog/azure-active-directory/introducing-ca-for-workload-id/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bot Framework Composer を用いた Azure Bot 構築",
+      "author" : "@noishiza",
+      "day" : 8,
+      "url" : "https://jpdsi.github.io/blog/azure-bot-service/bot-merry-christmas/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Functions Linux 従量課金プランでファイルの実行パーミッションを維持する方法",
+      "author" : "@horihiro",
+      "day" : 9,
+      "url" : "https://uncaughtexception.hatenablog.com/entry/2021/12/09/190258?_ga=2.23357818.1908164843.1638943087-624214938.1611974015"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【図解】ストレージ アカウントにおける冗長性の種類について",
+      "author" : "@kikikekat",
+      "day" : 10,
+      "url" : "https://jpaztech.github.io/blog/storage/introduction-of-azure-storage-redundancy/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "App Service で発生した事象を 問題の診断と解決 で確認してみよう",
+      "author" : "@mym",
+      "day" : 11,
+      "url" : "https://qiita.com/mym/items/dcf1114d2ea8b60c6132"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Pipelines で Azure Load Testing Preview を使ってみる",
+      "author" : "@KoKeCross",
+      "day" : 12,
+      "url" : "https://qiita.com/KoKeCross/items/4325b40751efc71ade9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASP.NET アプリケーションの AAD 認証を v1 から v2 に変更する",
+      "author" : "@makotsur",
+      "day" : 13,
+      "url" : "https://jpazureid.github.io/blog/azure-active-directory/aspdotnet-from-v1-to-v2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ARMテンプレートでデフォルトのIP構成の名前、IPアドレスを指定の上、NICをデプロイする手順について",
+      "author" : "@soyounglee",
+      "day" : 14,
+      "url" : "https://jpaztech.github.io/blog/vm/how-to-deploy-nic-using-arm-template/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Functions (App Service) 上で X509Certificate2 クラスを作成するときには",
+      "author" : "@Atsushi_Omachi",
+      "day" : 15,
+      "url" : "https://qiita.com/Atsushi_Omachi/items/836ee41ea9fa2372e27b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Start/Stop VMs v2 -  VMの自動起動／停止でコスト削減",
+      "author" : "@MaikoShima",
+      "day" : 16,
+      "url" : "https://qiita.com/MaikoShima/items/1662962f2e7204a2714d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "割と雑な PC 用ブラウザの歴史",
+      "author" : "@so_nkbys",
+      "day" : 17,
+      "url" : "https://qiita.com/so_nkbys/items/e5f0a35541027553de16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AD FS サーバーのトークン署名証明書の有効期限が迫った時に気づけるイベント ログが記録されるか調べてみた",
+      "author" : "@Shinya-Yamaguchi",
+      "day" : 18,
+      "url" : "https://qiita.com/Shinya-Yamaguchi/items/5d3f0704b8364b8c474a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure ポータルの作成画面をカスタマイズしてみる",
+      "author" : "@tsubasaxZZZ",
+      "day" : 19,
+      "url" : "https://qiita.com/tsubasaxZZZ/items/e18d123a83ff2e0aa6f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Web PubSub サービスの利用",
+      "author" : "@MinoMinoMinoru",
+      "day" : 20,
+      "url" : "https://jpdsi.github.io/blog/azure-web-pubsub/AzureWebPubSub-for-beginner/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web Apps (java) への java コマンドラインオプションの指定方法",
+      "author" : "@YusukeTobo",
+      "day" : 21,
+      "url" : "https://qiita.com/YusukeTobo/items/e0519bbe2d5e84d742e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure File の診断設定を試す",
+      "author" : "@akinoshita",
+      "day" : 22,
+      "url" : "https://jpaztech.github.io/blog/storage/azureFilesMonitoring/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Web Apps でオンプレ IIS と同じような情報は取れるのか？",
+      "author" : "@nt-7",
+      "day" : 23,
+      "url" : "https://jpdsi.github.io/blog/web-apps/webapps-diagnostic-tools/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AKS コントロール プレーンとノード間の通信のはなし",
+      "author" : "@yukirii",
+      "day" : 24,
+      "url" : "https://jpaztech.github.io/blog/containers/aks-control-plane-node-communication/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Midoliy"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AKS 仮想ノード( ACI ) へ Pod を Horizontal Pod Autoscaler（ HPA ）する",
+      "author" : "@tbuchi888",
+      "day" : 17,
+      "url" : "https://qiita.com/tbuchi888/items/a8b3db564351f06c0a4a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

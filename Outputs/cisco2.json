@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T03:26:21Z",
+  "calendar_meta_data" : {
+    "author" : "@hanakamu",
+    "category" : "企業・学校・団体",
+    "lgtm" : 222,
+    "subscribers" : 7,
+    "title" : "Cisco Systems Japan Advent Calendar 2021 2nd Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "cisco2",
+    "url" : "https://qiita.com/advent-calendar/2021/cisco2"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "子育ての悩みを解決する「バルス・ボタン」を安価に作ってみた",
+      "author" : "@samasuda_sm4jan",
+      "day" : 1,
+      "url" : "https://qiita.com/samasuda_sm4jan/items/4678a473169c125ad9c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハンズオン付きオンラインイベントをブレイクアウトセッションとBotを使って開催",
+      "author" : "@maohno",
+      "day" : 2,
+      "url" : "https://qiita.com/maohno/items/57eef629633c5784488f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Zabbix API+Python3 で複数ホストのデータを一括取得！",
+      "author" : "@hiroactivity",
+      "day" : 3,
+      "url" : "https://qiita.com/hiroactivity/items/1b5091ecd64fa45e9a25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex Meetingsの仮想背景を自動的に切り替える",
+      "author" : "@ayamazak",
+      "day" : 4,
+      "url" : "https://qiita.com/ayamazak/items/ebaafcf6e71c77f4291f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットワーク自動化開発実践: NSO と PyATS を仲良く使う pyatstool",
+      "author" : "@radiantmarch",
+      "day" : 5,
+      "url" : "https://qiita.com/radiantmarch/items/eac416ae5ad735f48315"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElastiFlowでNetFlowを解析し、Thousand EyesでZoom可視化にチャレンジ",
+      "author" : "@hshimomu",
+      "day" : 6,
+      "url" : "https://qiita.com/hshimomu/items/4cf4d4e0dfb4b242ed55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intersight Cloud Orchestrator (ICO) で Cisco HyperFlex のシャットダウンを自動化",
+      "author" : "@eletoku",
+      "day" : 7,
+      "url" : "https://qiita.com/eletoku/items/33ba5fecd6116182da10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex Calling APIを始めてみよう-３種類のAPIについて概要を把握する-",
+      "author" : "@tatakaya",
+      "day" : 8,
+      "url" : "https://qiita.com/tatakaya/items/1d076ec4328d2033701e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OEAPで簡単に快適に在宅ワークをしよう！",
+      "author" : "@tkoe",
+      "day" : 9,
+      "url" : "https://qiita.com/tkoe/items/5ba45d76519f5a40887c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MX レコードの切り替えを監視して通知する",
+      "author" : "@urikura",
+      "day" : 10,
+      "url" : "https://qiita.com/urikura/items/fbbaa203096a5004a081"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR空間でWebexに参加してみる",
+      "author" : "@KomiKoh",
+      "day" : 11,
+      "url" : "https://qiita.com/KomiKoh/items/d5a362c5b31983ccdb2a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco Secure Cloud Insights で AWS 環境と Google Cloud 環境を一元監視してみる",
+      "author" : "@2-3",
+      "day" : 12,
+      "url" : "https://qiita.com/2-3/items/d25cd1ff0cd8682e2c23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco IOxの CPUユニットについて深堀りしてみた話",
+      "author" : "@tanupoo",
+      "day" : 13,
+      "url" : "https://qiita.com/tanupoo/items/73a88b1153d93553bbd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NSO を SNMP マネージャとして使う",
+      "author" : "@akiraiwamoto",
+      "day" : 14,
+      "url" : "https://qiita.com/akiraiwamoto/items/c02b5193047a46a5f013"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex インテグレーション どんなアプリと連携出来るの？ ～ Webex App Hub 編　～ ",
+      "author" : "@kazkaz_o3",
+      "day" : 15,
+      "url" : "https://qiita.com/kazkaz_o3/items/2c99ba721f5dd9818746"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Meraki MX64が自宅にやってきたのでNWを快適にしてみた",
+      "author" : "@ishishi",
+      "day" : 16,
+      "url" : "https://qiita.com/ishishi/items/0a36d3c509ba3af988e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DNA Centerの3D Wireless Mapで「ぺこーら」こと「兎田ぺこら」をピクセルアートしてみたぺこ！",
+      "author" : "@you_184",
+      "day" : 17,
+      "url" : "https://qiita.com/you_184/items/18a7a701279306c25836"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco IntersightにおけるInfrastructure as Code",
+      "author" : "@katohisa0824",
+      "day" : 18,
+      "url" : "https://qiita.com/katohisa0824/items/f21152fea7df33acbed5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "働きすぎ防止！ FDM管理のFTDで時間外業務の遮断",
+      "author" : "@TaisukiNakamura",
+      "day" : 19,
+      "url" : "https://qiita.com/TaisukiNakamura/items/4fb5bcf57206ca647b1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Meraki Dashboard APIのRate Limitを超えろ！",
+      "author" : "@Satoshi_Katayama",
+      "day" : 20,
+      "url" : "https://qiita.com/Satoshi_Katayama/items/6f6c35bb7de65ce020e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモート参加者と物理イベント会場をつなぐハイブリットイベントツール\"Cisco Webex Physical\"",
+      "author" : "@hiokazak",
+      "day" : 21,
+      "url" : "https://qiita.com/hiokazak/items/82564f805f1d50ecc1a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ThousandEyesを使って快適なAPEX Legendsライフを実現する",
+      "author" : "@dahirata",
+      "day" : 22,
+      "url" : "https://qiita.com/dahirata/items/5f9b174ad50fc38a4b60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vManage Alarm NotificationsのWebhook機能を試してみる",
+      "author" : "@ryshimiz",
+      "day" : 23,
+      "url" : "https://qiita.com/ryshimiz/items/5eee1eac82c3c1506ca7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@ketakash"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@282828"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "created_at" : "2021-12-24T11:31:12Z",
+  "calendar_meta_data" : {
+    "author" : "@seigot",
+    "category" : "その他",
+    "lgtm" : 41,
+    "subscribers" : 11,
+    "title" : "アドベントカレンダー初参加する人を応援したい、アドベントカレンダーに参加したきっかけアドベントカレンダー Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "sanka-kikkake",
+    "url" : "https://qiita.com/advent-calendar/2021/sanka-kikkake"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "私個人がアドベントカレンダーに参加したきっかけ",
+      "author" : "@seigot",
+      "day" : 1,
+      "url" : "https://qiita.com/seigot/items/23f1dfef8338ed604495"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アドベントカレンダーの参加を考えている人の背中を押したい",
+      "author" : "@hirorin",
+      "day" : 4,
+      "url" : "https://qiita.com/hirorin/items/3cbb9c6c0f6984a5a4d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初参加から初主催まで Advent Calendar",
+      "author" : "@kaizen_nagoya",
+      "day" : 5,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f41292c41c2b618101bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendarのやり方を覚えなくてもいいかも",
+      "author" : "@kaizen_nagoya",
+      "day" : 6,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f223b8d1e56bd4e31f4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendar 初参加からこれまでを振り返る",
+      "author" : "@kzkamago0721",
+      "day" : 13,
+      "url" : "https://k2ss.info/archives/3212/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アドベントカレンダーに初参加するためにとりあえず何かいろいろ書いた話",
+      "author" : "@obsidian_puyo",
+      "day" : 16,
+      "url" : "https://qiita.com/obsidian_puyo/items/9bde4ffcc9c050c11cdb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年、アドベントカレンダーに参加しました",
+      "author" : "@dem_kk",
+      "day" : 17,
+      "url" : "https://qiita.com/dem_kk/items/b8f3f12901fa774a1fdf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アドベントカレンダーに投稿し続けたことで巻き起こった出来事",
+      "author" : "@torifukukaiou",
+      "day" : 19,
+      "url" : "https://qiita.com/torifukukaiou/items/e8e65799011cc89a812c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021のアドカレを振り返ろう",
+      "author" : "@harehare211",
+      "day" : 23,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作プログラミング言語Lazeで超級積分を解いてみた話",
+      "author" : "@cp20",
+      "day" : 24,
+      "url" : "https://qiita.com/cp20/items/65d473ecc1318544300a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yshimizu125"
+    }
+  ]
+}

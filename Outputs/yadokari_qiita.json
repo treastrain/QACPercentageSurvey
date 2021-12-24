@@ -1,0 +1,174 @@
+{
+  "created_at" : "2021-12-24T03:52:49Z",
+  "calendar_meta_data" : {
+    "author" : "@kaino5454",
+    "category" : "企業・学校・団体",
+    "lgtm" : 60,
+    "subscribers" : 3,
+    "title" : "株式会社やどかり & 株式会社ネッコス Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "yadokari_qiita",
+    "url" : "https://qiita.com/advent-calendar/2021/yadokari_qiita"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelでポケモン図鑑をつくってAWSでデプロイまでしてみた",
+      "author" : "@kaino5454",
+      "day" : 1,
+      "url" : "https://qiita.com/kaino5454/items/97b0c60bb856bbb94cc0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ちょっとしたストレスを軽減するためのツール紹介",
+      "author" : "@k_www",
+      "day" : 2,
+      "url" : "https://qiita.com/k_www/items/58205a396798be5452ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swiftで画像認識のアプリを触ってみた（swiftわからんけど）",
+      "author" : "@KazuyukiChimoto",
+      "day" : 3,
+      "url" : "https://qiita.com/KazuyukiChimoto/items/640c40196f102334fab4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアの成長をRPGとして考えてみた",
+      "author" : "@matsuzawa3",
+      "day" : 4,
+      "url" : "https://qiita.com/matsuzawa3/items/0da8780eeada4bbb9746"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "本番環境でやらかしたことまとめ(昔)",
+      "author" : "@alivelime",
+      "day" : 5,
+      "url" : "https://qiita.com/alivelime/items/1806c360a1100783c188"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[swiftUI]せっかくなのでアドベントカレンダーが作りたい（前編）",
+      "author" : "@mame3",
+      "day" : 6,
+      "url" : "https://qiita.com/mame3/items/6187f393d3d64c9e3a95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Excelで作るSeederデータの作り方（Laravel)",
+      "author" : "@k_kng",
+      "day" : 7,
+      "url" : "https://qiita.com/k_kng/items/93f1d8c8dfd268b17127"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リアルとロマンの話",
+      "author" : "@yoshidanaoki2401",
+      "day" : 8,
+      "url" : "https://qiita.com/yoshidanaoki2401/items/2b84c689a970818fdc67"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel8.x テンプレートのcomposerライブラリについて調べてみた",
+      "author" : "@nishi248",
+      "day" : 9,
+      "url" : "https://qiita.com/nishi248/items/f5c6ece916c31872ac16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークってなんだろうなぁって話",
+      "author" : "@t_fukumori",
+      "day" : 10,
+      "url" : "https://qiita.com/t_fukumori/items/ab0b61745e643a97f13f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelでタスク管理のプログラムを作る",
+      "author" : "@oya_hide",
+      "day" : 11,
+      "url" : "https://qiita.com/oya_hide/items/1a6fdf3d19312e701c52"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@k_kng"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[swiftUI]せっかくなのでアドベントカレンダーが作りたい（後編）",
+      "author" : "@mame3",
+      "day" : 13,
+      "url" : "https://qiita.com/mame3/items/155b838ab65598a5c161"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】APIでサッカー選手検索してみた",
+      "author" : "@ShinShin0404",
+      "day" : 14,
+      "url" : "https://qiita.com/ShinShin0404/items/c7f152d24b9b4b701a17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作APIを使ってKotlinでポケモン図鑑を作成【Retrofit2】【RecyclerView】",
+      "author" : "@kaino5454",
+      "day" : 15,
+      "url" : "https://qiita.com/kaino5454/items/f0d5e73f32de739f6c8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学生時代に死にそうになった話",
+      "author" : "@su_iguchi",
+      "day" : 16,
+      "url" : "https://qiita.com/su_iguchi/items/9d90690ede3fdd8fb32e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IT企業で求められる女性リーダー像について",
+      "author" : "@minami-endo",
+      "day" : 17,
+      "url" : "https://qiita.com/minami-endo/items/81b808a784133bb3282f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@sh_araki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Minsoo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@kyr"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "間藤さん - ジャマおじ・ジャマおば",
+      "author" : "@alivelime",
+      "day" : 21,
+      "url" : "https://note.com/misuzu_neccos/n/ndfbe0233cc41"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@h_goshima"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@KazuyukiChimoto"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@ShinShin0404"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@orita-y"
+    }
+  ]
+}

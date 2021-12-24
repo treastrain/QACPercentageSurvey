@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T08:59:08Z",
+  "calendar_meta_data" : {
+    "author" : "@wataru-yamazaki",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 45,
+    "subscribers" : 11,
+    "title" : "enebular Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "enebular",
+    "url" : "https://qiita.com/advent-calendar/2021/enebular"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "LINE Beaconに近づいたらSESAMEを解錠する",
+      "author" : "@h-takauma",
+      "day" : 1,
+      "url" : "https://qiita.com/h-takauma/items/579409b19dd6c5bb762c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularでNode-RED,KNXを通してBACnet RoomControlSimulatorの値を取得してみた",
+      "author" : "@nakachon",
+      "day" : 2,
+      "url" : "https://smartlight.co.jp/2021/12/04/how-to-connect-bacnet-to-enebular/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularとobnizで鶏むね肉低温調理をしてみた",
+      "author" : "@wicket",
+      "day" : 3,
+      "url" : "https://qiita.com/wicket/items/c1e1050e17bc35f86669"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularのFreeプランに追加された機能(プライベートノード機能)を試してみた",
+      "author" : "@kitazaki",
+      "day" : 4,
+      "url" : "https://qiita.com/kitazaki/items/b3aac2d4a80a79b13fee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebular Node-RED で RDB",
+      "author" : "@Kakimoty_Field",
+      "day" : 5,
+      "url" : "https://qiita.com/Kakimoty_Field/items/b4470f213a9c28dd1682"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularからMQTTを使ってオンラインロボットワークショップをした",
+      "author" : "@_Ats",
+      "day" : 6,
+      "url" : "https://qiita.com/_Ats/items/af2f2dc9894aa40b0dd0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハッカソンで駐車場の空き状況をIoTで把握するプロトタイプを作ったよ（Raspberry Pi + enebular からkintone）",
+      "author" : "@tatsuya1970",
+      "day" : 7,
+      "url" : "https://qiita.com/tatsuya1970/items/3a977f7791bbef39801d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebular Node-REDのbert-tokenizerノードを使ってみた",
+      "author" : "@kawazu255",
+      "day" : 8,
+      "url" : "https://qiita.com/kawazu255/items/feac81d8e3d040287f3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@ukkz"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BCGゲームのAPIを利用して個人用ガチャを作って遊ぶ",
+      "author" : "@kmaepu",
+      "day" : 10,
+      "url" : "https://qiita.com/kmaepu/items/edd9c4e69062aa0b7456"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "node-redのUIノードを自作したい -調査編-",
+      "author" : "@tkyko13",
+      "day" : 11,
+      "url" : "https://qiita.com/tkyko13/items/128b52bf37cb0fffc34a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularを使った勉強会を主催したときの失敗談",
+      "author" : "@NearMugi",
+      "day" : 12,
+      "url" : "https://qiita.com/NearMugi/items/ce8adb247ad87f359b40"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【YouTube】enebularでLINE BOTに挑戦",
+      "author" : "@njn0te",
+      "day" : 13,
+      "url" : "https://youtu.be/kTH5AImhBDY"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularでarduino-iot-cloudノードを一通りためしてみる",
+      "author" : "@Inoue_Minoru",
+      "day" : 14,
+      "url" : "https://qiita.com/Inoue_Minoru/items/27152074f0321389dca4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜenebularを使うのか",
+      "author" : "@sksk_go",
+      "day" : 15,
+      "url" : "https://note.com/sksk_go/n/naaa3a3964248"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stack UnitV2 とFirebaseとenebularで、一定時間現れないとLINEにお知らせを作ってみた。",
+      "author" : "@MikH",
+      "day" : 16,
+      "url" : "https://qiita.com/MikH/items/d91358b9465e11fc686e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularで デスクを監視する",
+      "author" : "@tendots",
+      "day" : 17,
+      "url" : "https://qiita.com/tendots/items/ad3be70fa872cb028ba9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@s_diana_k"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BOCCO emo をNode-REDから入力したテキストで発話させてみる",
+      "author" : "@minwinmin",
+      "day" : 19,
+      "url" : "https://zenn.dev/takudooon/articles/fc2b8acc7f1bd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【enebular 2021】 enebular editor をMacで試してみる（2021年12月版）：ダッシュボードと WebSocket",
+      "author" : "@youtoy",
+      "day" : 20,
+      "url" : "https://qiita.com/youtoy/items/fa3b9d55cfd8fe6e6ef4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularとLINE Messaging APIを使用してGoogleカレンダーにスケジュール登録しようとしてみた",
+      "author" : "@shinfrom",
+      "day" : 21,
+      "url" : "https://qiita.com/shinfrom/items/f67544ccc7a49e3173d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularを使って熊手をIoT化してみた",
+      "author" : "@yskmjp",
+      "day" : 22,
+      "url" : "https://qiita.com/yskmjp/items/e63b86235c4d207a9ca9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularのwebsocketノードで対戦ゲームを作ってみる",
+      "author" : "@canonno",
+      "day" : 23,
+      "url" : "https://qiita.com/canonno/items/321eb4061b0f8c07ffe4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Safie APIとNode-REDを連携して会議室の空き状況を確認する",
+      "author" : "@kawazu255",
+      "day" : 24,
+      "url" : "https://engineers.safie.link/entry/2021/12/22/Safie_API%E3%81%A8Node-RED%E3%82%92%E9%80%A3%E6%90%BA%E3%81%97%E3%81%A6%E4%BC%9A%E8%AD%B0%E5%AE%A4%E3%81%AE%E7%A9%BA%E3%81%8D%E7%8A%B6%E6%B3%81%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@wataru-yamazaki"
+    }
+  ]
+}

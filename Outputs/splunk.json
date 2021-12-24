@@ -1,0 +1,122 @@
+{
+  "created_at" : "2021-12-24T06:29:53Z",
+  "calendar_meta_data" : {
+    "author" : "@YamadaNoel",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 6,
+    "title" : "Splunk Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "splunk",
+    "url" : "https://qiita.com/advent-calendar/2021/splunk"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 GOJAS活動報告",
+      "author" : "@YamadaNoel",
+      "day" : 1,
+      "url" : "https://qiita.com/YamadaNoel/items/bf4c5ebb837e0d1785a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SplunkのMissile Mapに文字表示できるようにした話",
+      "author" : "@Joh256",
+      "day" : 19,
+      "url" : "https://qiita.com/Joh256/items/571daf9dd37cc3414925"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@7GHz"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

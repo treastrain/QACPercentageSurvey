@@ -1,0 +1,149 @@
+{
+  "created_at" : "2021-12-24T10:30:49Z",
+  "calendar_meta_data" : {
+    "author" : "@zakky",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 5,
+    "title" : "Alibaba Cloud Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "alibabacloud",
+    "url" : "https://qiita.com/advent-calendar/2021/alibabacloud"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "阿里云 短信服务 (Alibaba Cloud SMS) を使おうとして詰んだ話。",
+      "author" : "@zakky",
+      "day" : 1,
+      "url" : "https://qiita.com/zakky/items/b09ff016deb1db920620"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alibaba独身の日キャンペーンの無料受験でACAを２つ取得した話",
+      "author" : "@Chika-S",
+      "day" : 2,
+      "url" : "https://qiita.com/Chika-S/items/cc879505158dec4a9ddf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSSにファイルをアップロードしてLogServiceで通知する",
+      "author" : "@Masaki_YK",
+      "day" : 3,
+      "url" : "https://qiita.com/Masaki_YK/items/964931fd6fd97e217a5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@kumiizoo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alibaba Cloudのサービス2022年版",
+      "author" : "@jkudo",
+      "day" : 5,
+      "url" : "https://level69.net/archives/28310"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "多機能なAI向けIDEのAlibaba Cloud PAIについて",
+      "author" : "@Chika-S",
+      "day" : 6,
+      "url" : "https://qiita.com/Chika-S/items/ac4747f27b4f304d007b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alibaba Cloud WAFのデプロイリージョンを確認する方法",
+      "author" : "@Masaki_YK",
+      "day" : 7,
+      "url" : "https://qiita.com/Masaki_YK/items/2393163d89c134b3c738"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "激安のAlibaba Cloud Simple Application ServerにてWebサイトを作る",
+      "author" : "@bigy",
+      "day" : 8,
+      "url" : "https://qiita.com/bigy/items/6876733470115ffd3f4e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "月あたり200円で利用できるVPS 、Simple Application Serverで踏み台サーバを作って見る",
+      "author" : "@eterao",
+      "day" : 11,
+      "url" : "https://qiita.com/eterao/items/ae15cadd6b70a8598c4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alibaba Cloud DevOps Pipeline(Flow)を試してみる vol.1",
+      "author" : "@cube8080",
+      "day" : 12,
+      "url" : "https://qiita.com/cube8080/items/b9681a4666343b98a045"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alibaba Cloud DevOps Pipeline(Flow)を試してみる vol.2",
+      "author" : "@cube8080",
+      "day" : 13,
+      "url" : "https://qiita.com/cube8080/items/f2c5cc6dd86ae16172fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alibaba CloudのハンズオントレーニングサイトLabExについて",
+      "author" : "@Chika-S",
+      "day" : 23,
+      "url" : "https://qiita.com/Chika-S/items/65e45b543aff584b31b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "created_at" : "2021-12-24T07:43:00Z",
+  "calendar_meta_data" : {
+    "author" : "@satoimooimo",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "高校生エンジニア集合 Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "highschool-student",
+    "url" : "https://qiita.com/advent-calendar/2021/highschool-student"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@manbababa",
+      "day" : 1,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラッチ外伝",
+      "author" : "@kamikiich",
+      "day" : 3,
+      "url" : "https://qiita.com/kamikiich/items/aaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Seleniumを使用したスクレイピング ",
+      "author" : "@anonnon2sd",
+      "day" : 5,
+      "url" : "https://enjoy-life-fullest.com/2020/10/18/post-960/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

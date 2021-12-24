@@ -1,0 +1,179 @@
+{
+  "created_at" : "2021-12-24T01:57:32Z",
+  "calendar_meta_data" : {
+    "author" : "エヌシーアイ総合システム",
+    "category" : "企業・学校・団体",
+    "lgtm" : 9,
+    "subscribers" : 3,
+    "title" : "エヌシーアイ総合システム Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "nci",
+    "url" : "https://qiita.com/advent-calendar/2021/nci"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "pipを実行するとNo such file or directoryとなる",
+      "author" : "@buto",
+      "day" : 1,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/05/175452"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "not authorized to perform: ses:SendEmailは寝かせて直る！",
+      "author" : "@buto",
+      "day" : 2,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/18/044557"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub マージ方法の違いを調べた",
+      "author" : "@buto",
+      "day" : 3,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/18/164005"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DDD（ドメイン駆動設計）を調べてみた",
+      "author" : "@buto",
+      "day" : 4,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/04/134746"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodePipelineでS3にソースをダウンロード",
+      "author" : "@buto",
+      "day" : 5,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/19/231758"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeDeployでEC2にデプロイしようとした話",
+      "author" : "@buto",
+      "day" : 6,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/20/011037"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python USBマイクから入力した音声をファイルにする",
+      "author" : "@buto",
+      "day" : 7,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/08/001725"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python 音声ファイルの周波数を取得する",
+      "author" : "@buto",
+      "day" : 8,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/08/225826"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのAurora化でMyISAMがなくなって苦戦した話",
+      "author" : "@ys2896",
+      "day" : 9,
+      "url" : "https://qiita.com/ys2896/items/a370d56a57df945aa3f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ量増大により発生したありえない事件TOP3",
+      "author" : "@ys2896",
+      "day" : 10,
+      "url" : "https://qiita.com/ys2896/items/543a2f793aee91d8110e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大量データ取得機能でのボトルネックが意外だった話",
+      "author" : "@ys2896",
+      "day" : 11,
+      "url" : "https://qiita.com/ys2896/items/fc9bad78cff3bc268edc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSソリューションアーキテクトアソシエイト(SAA)　合格（予定）体験記",
+      "author" : "@yugi0922",
+      "day" : 12,
+      "url" : "https://qiita.com/yugi0922/items/0f2960838325ea52e913"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "失敗経験を面談で言えない人",
+      "author" : "@ys2896",
+      "day" : 13,
+      "url" : "https://qiita.com/ys2896/items/fd43e0601bed63f31521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Step Functions勉強会予習",
+      "author" : "@buto",
+      "day" : 14,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/15/003212"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Step FunctionsでLambdaを連続実行してみる",
+      "author" : "@buto",
+      "day" : 15,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/18/115418"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goはじめた！！",
+      "author" : "@buto",
+      "day" : 16,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/21/000340"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "単純な処理で思わぬ性能問題が出た話",
+      "author" : "@ys2896",
+      "day" : 17,
+      "url" : "https://qiita.com/ys2896/items/5616c70a80da24a8dc46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "稼働中RDS同士のデータ同期を考える",
+      "author" : "@buto",
+      "day" : 18,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/18/040820"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレサーバ間のファイル共有方法",
+      "author" : "@buto",
+      "day" : 19,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/19/203138"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webhookってなんだっけ？？",
+      "author" : "@buto",
+      "day" : 20,
+      "url" : "https://buto-dev-null.hatenablog.com/entry/2021/12/21/004322"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報セキュリティマネジメント試験に合格した勉強方法",
+      "author" : "@abemi0507",
+      "day" : 21,
+      "url" : "https://qiita.com/abemi0507/items/163290dc582dcc75f9e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@sugiyama_yuta"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

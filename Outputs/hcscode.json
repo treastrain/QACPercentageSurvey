@@ -1,0 +1,143 @@
+{
+  "created_at" : "2021-12-24T03:17:53Z",
+  "calendar_meta_data" : {
+    "author" : "@Mr_K",
+    "category" : "企業・学校・団体",
+    "lgtm" : 23,
+    "subscribers" : 2,
+    "title" : "hcscode Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "hcscode",
+    "url" : "https://qiita.com/advent-calendar/2021/hcscode"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンワールド系のゲーム開発を経験したので色々話す#0",
+      "author" : "@hemmiyuya",
+      "day" : 5,
+      "url" : "https://qiita.com/hemmiyuya/items/3768f6ff18303a23a822"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【プランナーを】ステージ制作ツールを作った話【救いたい】",
+      "author" : "@YasudaMemo",
+      "day" : 6,
+      "url" : "https://qiita.com/YasudaMemo/items/7330940e008a6dd8e03f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "没入するゲームデザインを考える",
+      "author" : "@itoso1025",
+      "day" : 10,
+      "url" : "https://qiita.com/itoso1025/items/0c5d63c4235a18325fda"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityでGitのリビジョンを表示したい！",
+      "author" : "@sakudai",
+      "day" : 11,
+      "url" : "https://qiita.com/sakudai/items/ecbf8a273eb840178f8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シェーダー少しやった感想とその他（就活寄り）",
+      "author" : "@kasutorumogi",
+      "day" : 14,
+      "url" : "https://qiita.com/kasutorumogi/items/be103ee75d4f54a413c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "研修で色んなことやった",
+      "author" : "@KikuchiSeiya",
+      "day" : 15,
+      "url" : "https://qiita.com/KikuchiSeiya/items/a1cf771827fad1a06c61"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "就活作品としてのDirectX12について",
+      "author" : "@yuukihfutaguti",
+      "day" : 18,
+      "url" : "https://qiita.com/yuukihfutaguti/items/d76f418b16385c513e41"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "企業に刺さりそうな企画書を考える",
+      "author" : "@HeeeeeeeeeKun",
+      "day" : 20,
+      "url" : "https://qiita.com/HeeeeeeeeeKun/items/abc95a13fb2519bad43a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シェーダーを作るまでの基礎の基礎",
+      "author" : "@Goto-t",
+      "day" : 22,
+      "url" : "https://qiita.com/Goto-t/items/e8cd3266961b376477b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Mr_K"
+    }
+  ]
+}

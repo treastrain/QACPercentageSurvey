@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T11:25:56Z",
+  "calendar_meta_data" : {
+    "author" : "@hanakamu",
+    "category" : "企業・学校・団体",
+    "lgtm" : 269,
+    "subscribers" : 13,
+    "title" : "Cisco Systems Japan Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "cisco",
+    "url" : "https://qiita.com/advent-calendar/2021/cisco"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "チャットボットを使ったCisco DNA Centerの有効活用",
+      "author" : "@dmatsumu",
+      "day" : 1,
+      "url" : "https://qiita.com/dmatsumu/items/fa2cc6389a7ddeaa515e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AppDynamicsのCustom Metricでデータ収集してみたよ〜！",
+      "author" : "@mekawaba",
+      "day" : 2,
+      "url" : "https://qiita.com/mekawaba/items/2ab6779a8a52e681566c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare WorkersでCisco Webex Botを作る",
+      "author" : "@tetsusat",
+      "day" : 3,
+      "url" : "https://qiita.com/tetsusat/items/732f0e059af133465b34"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IOS-XRのTelemetryでWDMパラメータをどれくらい集められるか試してみた",
+      "author" : "@tkamata",
+      "day" : 4,
+      "url" : "https://qiita.com/tkamata/items/83ac291104ef862efe6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform cloud agent を Cisco L3 Switch にインストして社内インフラをIaC",
+      "author" : "@kikuta2055",
+      "day" : 5,
+      "url" : "https://qiita.com/kikuta2055/items/35c1fe39d277bb8c5101"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Config管理ツールどうしてるのよ？2021 Ver",
+      "author" : "@katu7414",
+      "day" : 6,
+      "url" : "https://zenn.dev/katshima/articles/a055f2185f4fe1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "すぐ使える！IoT機器のSD-WAN化とGeofencing機能",
+      "author" : "@wenjiewise",
+      "day" : 7,
+      "url" : "https://qiita.com/wenjiewise/items/7812df34ea8d4590c9fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco SecureX を使って簡易 REST API モジュールを作る",
+      "author" : "@sig666",
+      "day" : 8,
+      "url" : "https://qiita.com/sig666/items/ebe41f3850997d8a1303"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「標準的な」ソフトウエア・ベンチマークで「身近なもの」とCisco IOx を比較してみた話",
+      "author" : "@tanupoo",
+      "day" : 9,
+      "url" : "https://qiita.com/tanupoo/items/7fe126574598702f5e66"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 「あれ？ 家の鍵かけたっけ？」から安全に開放されるための技術",
+      "author" : "@matagawa",
+      "day" : 10,
+      "url" : "https://qiita.com/matagawa/items/1bbc4ae44122e4aee8fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今からでも遅くない pyATS でネットワーク自動化入門 2021版",
+      "author" : "@tahigash",
+      "day" : 11,
+      "url" : "https://qiita.com/tahigash/items/05a2cad4365ec1a47f55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco SD-WAN DHCP-PD/NAT66",
+      "author" : "@KoheiYamashita1",
+      "day" : 12,
+      "url" : "https://qiita.com/KoheiYamashita1/items/0d3adf53b36772ff6800"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "伝送=食事!? 伝送技術を食事に置き換えて考えてみた",
+      "author" : "@kesugiya",
+      "day" : 13,
+      "url" : "https://qiita.com/kesugiya/items/444cb051a370455ab8e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[初心者向け]0から学ぶCisco ACI",
+      "author" : "@yutsasak",
+      "day" : 14,
+      "url" : "https://qiita.com/yutsasak/items/3929663af48226aaa1da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco Global の社内ハッカソン (ASIC) に参加して ~ハッカソンの概要とデモ~",
+      "author" : "@dnozaki",
+      "day" : 15,
+      "url" : "https://qiita.com/dnozaki/items/aeef73a3d5929ca0e1fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハイブリッドワーク化でのメンタルヘルス！ラズパイとANT+無線通信を利用した心拍数センシング",
+      "author" : "@koshimi2468",
+      "day" : 16,
+      "url" : "https://qiita.com/koshimi2468/items/dc3af1e58704677a4292"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "戦略級の自動化 Cisco SD-Access",
+      "author" : "@ssjm123",
+      "day" : 17,
+      "url" : "https://qiita.com/ssjm123/items/4aff15e664645f3be19e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システム理論の続き - 量子コンピューティング・思考のフレームワークを拡張する ",
+      "author" : "@mkohno",
+      "day" : 18,
+      "url" : "https://qiita.com/mkohno/items/0e4b0c85ab9b9b75a79c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複雑で大規模な Kubernetes サービスメッシュを現実的に運用する",
+      "author" : "@dyoshiha",
+      "day" : 19,
+      "url" : "https://qiita.com/dyoshiha/items/657d347611bd07d9d959"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cisco ASA で CLI over HTTPS を使ってみる",
+      "author" : "@tatskoba27",
+      "day" : 20,
+      "url" : "https://qiita.com/tatskoba27/items/664d8aded46c96699aa1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "flightrader24フィードで最上位プランをゲット",
+      "author" : "@ktsutsum",
+      "day" : 21,
+      "url" : "https://qiita.com/ktsutsum/items/d9d0cfe1aa06e40d59d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-RED: API != Programing",
+      "author" : "@rwakinak",
+      "day" : 22,
+      "url" : "https://qiita.com/rwakinak/items/7efb55c3557429c0bf04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内ツール作成紀行 ~チケットシステム with Webex~",
+      "author" : "@hanakamu",
+      "day" : 23,
+      "url" : "https://qiita.com/hanakamu/items/e6f192b53767c2ba8d31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Freeで試せるCisco DNAC APIを使ってトラブルシューティングに役立つツールを作ってみよう",
+      "author" : "@eiuemura",
+      "day" : 24,
+      "url" : "https://qiita.com/eiuemura/items/0d49926fb54de5a9d484"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@naixia"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T11:36:33Z",
+  "calendar_meta_data" : {
+    "author" : "@koga1020",
+    "category" : "Webテクノロジー",
+    "lgtm" : 166,
+    "subscribers" : 15,
+    "title" : "fukuoka.ex Elixir／Phoenix Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "fukuokaex",
+    "url" : "https://qiita.com/advent-calendar/2021/fukuokaex"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ガイドを通してPhoenix v1.6のポイントをおさらいする",
+      "author" : "@koga1020",
+      "day" : 1,
+      "url" : "https://zenn.dev/koga1020/articles/940d3be7fd9a31294ac1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Elixir] ラベル付きinspectのラベルをマクロで端折る",
+      "author" : "@hisaway",
+      "day" : 2,
+      "url" : "https://qiita.com/hisaway/items/81208dbaa39af352866d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elixir】次の関数の第2引数なんだよな〜 2021年12月 (2021/12/03)",
+      "author" : "@torifukukaiou",
+      "day" : 3,
+      "url" : "https://qiita.com/torifukukaiou/items/5f4d1a76400fb72ba740"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "piyopiyo.ex#2：LiveViewで匿名SNSを作ろう",
+      "author" : "@t-yamanashi",
+      "day" : 4,
+      "url" : "https://qiita.com/t-yamanashi/items/89b63335d5a3d87efea6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixir女子部のオーガナイザーをやってみた話",
+      "author" : "@kn339264",
+      "day" : 5,
+      "url" : "https://qiita.com/kn339264/items/397a35386fddb4e60048"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 Mac への ElixirとErlang インストール2021年12月決定版",
+      "author" : "@zacky1972",
+      "day" : 6,
+      "url" : "https://qiita.com/zacky1972/items/c94baef2ee9379c21fa1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixir + SendGrid でメール送信してみる",
+      "author" : "@koyo-miyamura",
+      "day" : 7,
+      "url" : "https://qiita.com/koyo-miyamura/items/34e369200fe1aeafb0af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elixir】ElixirとOOP、プログラミングスタイルの違い",
+      "author" : "@Gsann",
+      "day" : 8,
+      "url" : "https://qiita.com/Gsann/items/f0a5b648b29a3db7e0f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixirのesbuildラッパーは何をしているのか",
+      "author" : "@koga1020",
+      "day" : 9,
+      "url" : "https://zenn.dev/koga1020/articles/f146688545cd93d110ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務でプログラムを始める入門者のために保守エンジニアの観点から読みやすいコードの構造を考えてみた",
+      "author" : "@tuchiro",
+      "day" : 10,
+      "url" : "https://qiita.com/tuchiro/private/3281426e51db4d7a5fa3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@kikuyuta"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LiveViewとNxで画像処理",
+      "author" : "@the_haigo",
+      "day" : 12,
+      "url" : "https://qiita.com/the_haigo/items/236e0e3c6cfbbd12799a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LiveViewでGoogleMapを操作する",
+      "author" : "@the_haigo",
+      "day" : 13,
+      "url" : "https://qiita.com/the_haigo/items/f2035a086f4753537237"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Railsエンジニアの比較用Phoenixコマンド集",
+      "author" : "@tomoaki-kimura",
+      "day" : 14,
+      "url" : "https://qiita.com/tomoaki-kimura/items/7f0f1732c3df0f69155e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "elixir-desktopを起動しようとして環境構築でハマっている話",
+      "author" : "@MzRyuKa",
+      "day" : 15,
+      "url" : "https://qiita.com/MzRyuKa/items/2a7f00fa56120f3ea54c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Enum.reduceのデバッグにEnum.scanが便利",
+      "author" : "@takamizawa46",
+      "day" : 16,
+      "url" : "https://qiita.com/takamizawa46/items/e171c1680238f4bedc80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixirから透けてみえたプログラミングにおける線形性（？）",
+      "author" : "@pojiro",
+      "day" : 17,
+      "url" : "https://qiita.com/pojiro/items/77d69d464ecab5f0cb62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LiveViewを使って簡単にステートフルなタイピングゲームアプリを作ろう！後編",
+      "author" : "@Yoosuke",
+      "day" : 18,
+      "url" : "https://qiita.com/Yoosuke/items/e6a211e12ee31f90ae24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apple Silicon Mac + Rosetta 2 + Dockerで arm64(aarch64)/x86_64 とmacOS/Linuxの組み合わせで自動テストする方法(Elixirだけじゃなく汎用の方法も紹介するよ)",
+      "author" : "@zacky1972",
+      "day" : 19,
+      "url" : "https://qiita.com/zacky1972/items/c8410e6cc3bb76b4b437"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@iyanayatudaze"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Liveviewでお手軽オンラインゲーム開発",
+      "author" : "@GKBR",
+      "day" : 21,
+      "url" : "https://qiita.com/GKBR/items/4f83cde368078572ad0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ActiveRecord::LogSubscriber#log_query_source（private）をElixir/Ectoに移植するぞ",
+      "author" : "@sotashiro",
+      "day" : 22,
+      "url" : "https://qiita.com/sotashiro/items/81b1ff443a1439bf08f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術コミュニティを2年間運営して主宰イベントを50回開催してきた上で意識や工夫してきたこと",
+      "author" : "@im_miolab",
+      "day" : 23,
+      "url" : "https://qiita.com/im_miolab/items/584b0adfa1921d88526b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pelemayをふりかえる",
+      "author" : "@zacky1972",
+      "day" : 24,
+      "url" : "https://qiita.com/zacky1972/items/fabfbc651ef21ad81ae4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@piacerex"
+    }
+  ]
+}

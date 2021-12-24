@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T04:00:12Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社野村総合研究所",
+    "category" : "Webテクノロジー",
+    "lgtm" : 290,
+    "subscribers" : 7,
+    "title" : "NRI OpenStandia Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "nri-openstandia",
+    "url" : "https://qiita.com/advent-calendar/2021/nri-openstandia"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "midPointとIGA",
+      "author" : "@daian183",
+      "day" : 1,
+      "url" : "https://qiita.com/daian183/items/4dfa47e2a061438350bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "aws-cli-oidcで一時的なAWSアクセスキーを使う",
+      "author" : "@wadahiro",
+      "day" : 2,
+      "url" : "https://qiita.com/wadahiro/items/79eaed9390391b0f40cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apacheをコンテナ化するコツ",
+      "author" : "@tksst",
+      "day" : 3,
+      "url" : "https://qiita.com/tksst/items/abd2eec3fc4d68a9c329"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "homebridge-cmd4 設定例",
+      "author" : "@n1330",
+      "day" : 4,
+      "url" : "https://qiita.com/n1330/items/f5ede320e9b5963bccd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Open Policy Agent (OPA) のユースケース4選",
+      "author" : "@yoshimi0227",
+      "day" : 5,
+      "url" : "https://qiita.com/yoshimi0227/items/84d809890c73727d734a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "楕円曲線暗号の鍵をJavaで読み込む",
+      "author" : "@rawr",
+      "day" : 6,
+      "url" : "https://qiita.com/rawr/items/e356f765122637df3dea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SigNozでサクッとメトリクスを取得＆可視化する",
+      "author" : "@okuura",
+      "day" : 7,
+      "url" : "https://qiita.com/okuura/items/27ad2f3bed12184994cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebAssemblyが気になるので調べてみた",
+      "author" : "@t_katsumura",
+      "day" : 8,
+      "url" : "https://qiita.com/t_katsumura/items/ff379aaaba6931aad1c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Krustletを使ってKubernetesでWebAssemblyアプリケーションを実行する",
+      "author" : "@t_katsumura",
+      "day" : 9,
+      "url" : "https://qiita.com/t_katsumura/items/68b0c612a621ca48102c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "midPoint 最新情報 - 2021 Winter",
+      "author" : "@wadahiro",
+      "day" : 10,
+      "url" : "https://qiita.com/wadahiro/items/ae7f8ccc8cfb4ac4e0fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceがオープンソースで公開した機械学習ライブラリー「TransmogrifAI」でAutoMLしてみる",
+      "author" : "@tamura__246",
+      "day" : 11,
+      "url" : "https://qiita.com/tamura__246/items/18e685b70ab0738eed01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tekton pipelineの概要と触ってみた感想！（プライベートリポジトリからのPullを題材に）",
+      "author" : "@k5-saito",
+      "day" : 12,
+      "url" : "https://qiita.com/k5-saito/items/623b3529b55f8675ce4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LocalStackを使ってローカル環境でS3を立ち上げ、Lambdaでファイルをアップロードしてみた",
+      "author" : "@yasomaru",
+      "day" : 13,
+      "url" : "https://qiita.com/yasomaru/items/fa708a1f21a79e637868"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DockerとPodman/Skopeo/Buildahは何が違うのか？",
+      "author" : "@caunu-s",
+      "day" : 14,
+      "url" : "https://qiita.com/caunu-s/items/4fa0e0465ea83fcc06e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュアで軽量なdistrolessコンテナを作成する",
+      "author" : "@t_katsumura",
+      "day" : 15,
+      "url" : "https://qiita.com/t_katsumura/items/462e2ae6321a9b5e473e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クイックスタート WildFly",
+      "author" : "@tama1",
+      "day" : 16,
+      "url" : "https://qiita.com/tama1/items/4b038a331e67390b94d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React hooks+axiosを使ったAPIからデータ取得方法",
+      "author" : "@yasomaru",
+      "day" : 17,
+      "url" : "https://qiita.com/yasomaru/items/b665836e7cb054bc526a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTTP(S)トラフィック検証用のAPIサーバを即座に提供するOSS - Hoverflyの紹介",
+      "author" : "@caunu-s",
+      "day" : 18,
+      "url" : "https://qiita.com/caunu-s/items/4b14029995ef55d65438"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンド/バックエンドを分離して開発するためにHoverflyを利用してみる",
+      "author" : "@caunu-s",
+      "day" : 19,
+      "url" : "https://qiita.com/caunu-s/items/f5d3ded321a6f98706e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@watsuwo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KubeScapeでKubernetesのセキュリティスキャンを行う",
+      "author" : "@t_katsumura",
+      "day" : 21,
+      "url" : "https://qiita.com/t_katsumura/items/ee83cbb98fefee064bbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Istio v1.12 が HTTP/3 をサポートしはじめていた件",
+      "author" : "@yoshimi0227",
+      "day" : 22,
+      "url" : "https://qiita.com/yoshimi0227/items/4166451296378e9131d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React hooksとKeycloakを連携してみた",
+      "author" : "@yasomaru",
+      "day" : 23,
+      "url" : "https://qiita.com/yasomaru/items/09e63295694d0115983b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "midPointでActive DirectoryのForeign Security Principalをいい感じに扱う",
+      "author" : "@wadahiro",
+      "day" : 24,
+      "url" : "https://qiita.com/wadahiro/items/42c35db33507f87f094f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@daian183"
+    }
+  ]
+}

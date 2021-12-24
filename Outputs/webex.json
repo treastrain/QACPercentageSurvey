@@ -1,0 +1,166 @@
+{
+  "created_at" : "2021-12-24T04:39:06Z",
+  "calendar_meta_data" : {
+    "author" : "@maohno",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 57,
+    "subscribers" : 2,
+    "title" : "Webex Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "webex",
+    "url" : "https://qiita.com/advent-calendar/2021/webex"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex インテグレーションのはじめの一歩 〜 Webex for Developers編 〜",
+      "author" : "@kazkaz_o3",
+      "day" : 1,
+      "url" : "https://qiita.com/kazkaz_o3/items/f0c1b7d1ffe755551f85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex Messasingのスペース管理をAPIで行う①",
+      "author" : "@maohno",
+      "day" : 2,
+      "url" : "https://qiita.com/maohno/items/86a1d1a2a3b1725979d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex Messasingのスペース管理をAPIで行う②",
+      "author" : "@maohno",
+      "day" : 3,
+      "url" : "https://qiita.com/maohno/items/da5e5d66a95a428e1376"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebexのBotでカードやボタン付きメッセージを投稿するときに、これはやっておこう！",
+      "author" : "@thrzn41",
+      "day" : 4,
+      "url" : "https://qiita.com/thrzn41/items/9507ba84576ae8b5c43a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bash シェルスクリプト+ cURL+ Python3 標準モジュールで作る Webex bot 用 Zabbix Alert Script",
+      "author" : "@hiroactivity",
+      "day" : 5,
+      "url" : "https://qiita.com/hiroactivity/items/c10f115b325cf0063417"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノーコードで実現するChatOps - Cisco DNAC から Webex messaging へのカード通知と連携",
+      "author" : "@kikuta2055",
+      "day" : 6,
+      "url" : "https://qiita.com/kikuta2055/items/31f4742c3feb2c519485"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "すぐに繋がる Web 会議【有償版が必要】",
+      "author" : "@juaita",
+      "day" : 7,
+      "url" : "https://qiita.com/juaita/items/2ee2e3c05cfd5a10ffc4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex Calling APIを始めてみよう-３種類のAPIを試してみた-",
+      "author" : "@tatakaya",
+      "day" : 8,
+      "url" : "https://qiita.com/tatakaya/items/5466a2fcf71d8b62a76e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex Messaging でMarkdown記法を利用しよう！",
+      "author" : "@hmyose",
+      "day" : 9,
+      "url" : "https://qiita.com/hmyose/items/b4da473e61b27a7f1511"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gmail の受信を Webex Messaging Bot で通知する",
+      "author" : "@maohno",
+      "day" : 10,
+      "url" : "https://qiita.com/maohno/items/042828c25cac7dcaa724"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webサイトにビデオ会議を組み込もう！【無償版で誰でも出来ます】",
+      "author" : "@thrzn41",
+      "day" : 14,
+      "url" : "https://qiita.com/thrzn41/items/e13a9eb48dc349e6a265"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPadをWebex Deviceのリモコンにしてみた",
+      "author" : "@kunqi",
+      "day" : 15,
+      "url" : "https://qiita.com/kunqi/items/090d1c59b9444832ea55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelで爆速WebexOAuth連携",
+      "author" : "@suganox",
+      "day" : 16,
+      "url" : "https://blog.sunl.jp/laravel-webexoauth/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超簡単版iPhoneをWebex Deviceのリモコンにする方法【ノーコード】",
+      "author" : "@YutaMatsuno",
+      "day" : 17,
+      "url" : "https://qiita.com/YutaMatsuno/items/22ee72bb9683f9425e31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Smartsheet と Webex Bot でプロマネ業務を自動化してみた【ノーコード】",
+      "author" : "@YasutakaTanabe",
+      "day" : 18,
+      "url" : "https://qiita.com/YasutakaTanabe/items/996186429546a4bf7aeb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webex Botの移管方法を聞いてみた",
+      "author" : "@a-shioya",
+      "day" : 21,
+      "url" : "https://qiita.com/a-shioya/items/ebaacb0c67fa0fc37ac7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JWTの仕組みを使って、ゲスト用のアクセストークンを発行する",
+      "author" : "@ostech-ma-okuda",
+      "day" : 23,
+      "url" : "https://qiita.com/ostech-ma-okuda/items/1c67e8e8296b9553bbcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

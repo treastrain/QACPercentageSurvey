@@ -1,0 +1,125 @@
+{
+  "created_at" : "2021-12-24T03:40:04Z",
+  "calendar_meta_data" : {
+    "author" : "@suzuki_shin",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 0,
+    "title" : "shint Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "shint",
+    "url" : "https://qiita.com/advent-calendar/2021/shint"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者向け環境構築手順",
+      "author" : "@manbababa",
+      "day" : 4,
+      "url" : "https://qiita.com/tags/%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最初に覚えたいチートシート",
+      "author" : "@indii00didi",
+      "day" : 5,
+      "url" : "https://saycon.co.jp/archives/neta/%E6%96%B0%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E6%9C%80%E5%88%9D%E3%81%AB%E8%A6%9A%E3%81%88%E3%81%9F%E3%81%84%E3%83%81%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%88%E3%80%80-2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLにHeidiSQLでアクセスする",
+      "author" : "@indii00didi",
+      "day" : 6,
+      "url" : "https://saycon.co.jp/archives/neta/mysql%e3%81%abheidisql%e3%81%a7%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%99%e3%82%8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kamikiich"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

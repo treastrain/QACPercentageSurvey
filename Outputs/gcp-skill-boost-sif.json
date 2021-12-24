@@ -1,0 +1,143 @@
+{
+  "created_at" : "2021-12-24T01:41:38Z",
+  "calendar_meta_data" : {
+    "author" : "@orange-tora",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 3,
+    "subscribers" : 0,
+    "title" : "GCP スキルバッジをもらおう！ Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "gcp-skill-boost-sif",
+    "url" : "https://qiita.com/advent-calendar/2021/gcp-skill-boost-sif"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう　1Google Cloud Skill Boostをはじめよう",
+      "author" : "@orange-tora",
+      "day" : 16,
+      "url" : "https://qiita.com/orange-tora/items/57d5fe3486f4c7e1a58a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう　2クエストをはじめよう　〜Security & Identity Fundamentals",
+      "author" : "@orange-tora",
+      "day" : 17,
+      "url" : "https://qiita.com/orange-tora/items/95d282a0c3fd38a67da5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう　３.Cloud IAM: Qwik Start〜Security & Identity Fundamentals",
+      "author" : "@orange-tora",
+      "day" : 18,
+      "url" : "https://qiita.com/orange-tora/items/8dbd3b981e3711c5d945"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう4.IAM のカスタムの役割〜Security & Identity Fundamentals",
+      "author" : "@orange-tora",
+      "day" : 19,
+      "url" : "https://qiita.com/orange-tora/items/8fa259fcc98f9eb86d24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう ~5.サービス アカウントと役割: 基礎〜Security & Identity Fundamentals",
+      "author" : "@orange-tora",
+      "day" : 20,
+      "url" : "https://qiita.com/orange-tora/items/f59ef01f9e3a9397a95a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう ~6. VPC ネットワーク ピアリング〜Security & Identity Fundamentals",
+      "author" : "@orange-tora",
+      "day" : 21,
+      "url" : "https://qiita.com/orange-tora/items/0985bc0781adcfba13b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう 〜７.ユーザー認証: Identity-Aware Proxy",
+      "author" : "@orange-tora",
+      "day" : 22,
+      "url" : "https://qiita.com/orange-tora/items/da3113c36cfd4156da6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう　〜８. Getting Started with Cloud KMS",
+      "author" : "@orange-tora",
+      "day" : 23,
+      "url" : "https://qiita.com/orange-tora/items/bd9d7eeaf0d54ad876fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP スキルバッジをもらおう　９~Google Cloud Packet Mirroring with OpenSource IDS",
+      "author" : "@orange-tora",
+      "day" : 24,
+      "url" : "https://qiita.com/orange-tora/items/789658aed58b98b30d56"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@orange-tora"
+    }
+  ]
+}

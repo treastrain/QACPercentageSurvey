@@ -1,0 +1,124 @@
+{
+  "created_at" : "2021-12-24T01:59:38Z",
+  "calendar_meta_data" : {
+    "author" : "@doikoji",
+    "category" : "Webテクノロジー",
+    "lgtm" : 1,
+    "subscribers" : 2,
+    "title" : "軽量マークアップ言語にまつわるあれこれ Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "markup",
+    "url" : "https://qiita.com/advent-calendar/2021/markup"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Markdown, wiki markup, html5そしてWINI: 簡易マークアップ言語書法の比較早見表（チートシート）",
+      "author" : "@doikoji",
+      "day" : 1,
+      "url" : "https://qiita.com/doikoji/items/a11b0c9b00e1f0107cf7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MDwiki：レイアウトを自由に変更する",
+      "author" : "@doikoji",
+      "day" : 2,
+      "url" : "https://qiita.com/doikoji/items/925989dbdbabb117637b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超複雑な表を超簡単に書く：マークアップ言語WINIの紹介（１）",
+      "author" : "@doikoji",
+      "day" : 3,
+      "url" : "https://qiita.com/doikoji/items/16c2e554980b61610ce8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

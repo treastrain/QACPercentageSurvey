@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:44:47Z",
+  "calendar_meta_data" : {
+    "author" : "@dhirooka",
+    "category" : "企業・学校・団体",
+    "lgtm" : 288,
+    "subscribers" : 13,
+    "title" : "BrainPad Advent Calendar Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "brainpad",
+    "url" : "https://qiita.com/advent-calendar/2021/brainpad"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習エンジニア1年生の自分へのおすすめ書籍",
+      "author" : "@dhirooka",
+      "day" : 1,
+      "url" : "https://zenn.dev/dhirooka/articles/f5b6e87674a9c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Matplotlibでマウス操作でAlphaZeroとオセロする",
+      "author" : "@bpzAkiyama",
+      "day" : 2,
+      "url" : "https://qiita.com/bpzAkiyama/items/7d50f0e1ef1e262df984"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustで競プロに挑戦",
+      "author" : "@ieiringoo",
+      "day" : 3,
+      "url" : "https://qiita.com/ieiringoo/items/d720313c0c202008635c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wigner 3nj記号の実装",
+      "author" : "@dshintani404",
+      "day" : 4,
+      "url" : "https://qiita.com/dshintani404/items/c94b38e0455d5a18b29f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発プロジェクトと読んだ本",
+      "author" : "@woody-kawagoe",
+      "day" : 5,
+      "url" : "https://qiita.com/woody-kawagoe/items/e66d6b39b6af49c9a882"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unzip .zip that cannot unzip with zipfile",
+      "author" : "@nissy0409240",
+      "day" : 6,
+      "url" : "https://qiita.com/nissy0409240/items/e0589cf5442ed27aa0b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "分散並行バグの傾向と分析 [論文メモ]",
+      "author" : "@zakuro",
+      "day" : 7,
+      "url" : "https://qiita.com/zakuro/items/77286d7803b4ccf293f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アイディアが止まらない!? - 新規事業を増産する夢のゲームを開発",
+      "author" : "@yagizo",
+      "day" : 8,
+      "url" : "https://qiita.com/yagizo/items/ccbda6844aa0650f8f0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "streamlitの使い方の細かいところ",
+      "author" : "@ohtaman",
+      "day" : 9,
+      "url" : "https://zenn.dev/ohtaman/articles/streamlit_tips"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "mlflowとluigiによるML実験管理例",
+      "author" : "@minamoto_user",
+      "day" : 10,
+      "url" : "https://qiita.com/minamoto_user/items/62611fe7756be4cbdebc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ディープラーニングショックから約10年(音声認識編)",
+      "author" : "@shu_O",
+      "day" : 11,
+      "url" : "https://qiita.com/shu_O/items/d6b0d9f1a7e58269d82e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "安定マッチングを使ってお仕事の割り当てをした話",
+      "author" : "@_jinta",
+      "day" : 12,
+      "url" : "https://qiita.com/_jinta/items/56878af5b309e7f4d555"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習モデルの局所的な説明手法を比較してみる",
+      "author" : "@takotatsu5141",
+      "day" : 13,
+      "url" : "https://qiita.com/takotatsu5141/items/eab63331aec5aea2c3f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【pandera】pandasでも型をしっかりつけたい！",
+      "author" : "@kamok0731",
+      "day" : 14,
+      "url" : "https://qiita.com/kamok0731/items/06f224d45e17e9c4aa85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "分析結果を現場で使ってもらう技術まとめ",
+      "author" : "@hidenari_uoi",
+      "day" : 15,
+      "url" : "https://qiita.com/hidenari_uoi/items/90c755dd8eff77b275b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "受託分析会社に中途入社してから約1年半の雑多な記録",
+      "author" : "@t-ymbys",
+      "day" : 16,
+      "url" : "https://qiita.com/t-ymbys/items/cd2e23950b606915952d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習を使ってコントラバスの運指を推定してみる",
+      "author" : "@kyo1M",
+      "day" : 17,
+      "url" : "https://qiita.com/kyo1M/items/d36837acda78b9933ef2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年版ワークフローエンジンの紹介",
+      "author" : "@ushi_198",
+      "day" : 18,
+      "url" : "https://qiita.com/ushi_198/items/20b400e2cf0fb03a5c7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "昔作ったダジャレ判定AIをpip installできるようにしたい",
+      "author" : "@fujit33",
+      "day" : 19,
+      "url" : "https://qiita.com/fujit33/items/b34b7ec30b08670023a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3-SAT問題の量子ウォークによる探索 ～NumPyで実装してみた～",
+      "author" : "@taichi_itoh",
+      "day" : 20,
+      "url" : "https://qiita.com/taichi_itoh/items/c0420451ec447ed71d54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[BigQuery] BigQueryのPython用APIの使い方 -テーブル操作編-",
+      "author" : "@Hyperion13fleet",
+      "day" : 21,
+      "url" : "https://qiita.com/Hyperion13fleet/items/22aceb5aa09fd6ce1685"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かきなおします",
+      "author" : "@seth_ger",
+      "day" : 22,
+      "url" : "https://qiita.com/seth_ger/items/b8b2928f66abd6951f09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dbtとBQMLを使った高速なMLモデル構築のパイプライン",
+      "author" : "@yasudakn",
+      "day" : 23,
+      "url" : "https://qiita.com/yasudakn/items/3e97d4adef3c103cb439"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TensorFlowでRankNetを実装して、競馬の着順予測モデルを作りました。",
+      "author" : "@_tamiya",
+      "day" : 24,
+      "url" : "https://qiita.com/_tamiya/items/3926684b6ba023ebf667"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@dev-waan"
+    }
+  ]
+}

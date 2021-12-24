@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T03:00:00Z",
+  "calendar_meta_data" : {
+    "author" : "@Cloud_and_Build_Inc",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "Cloud and Build, Inc Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "cloud-and-build-inc",
+    "url" : "https://qiita.com/advent-calendar/2021/cloud-and-build-inc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "アドベントカレンダーを始める",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 1,
+      "url" : "https://cloudandbuild.jp/blog/article-20211201"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "どんなWebアプリを作るか考える",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 2,
+      "url" : "https://cloudandbuild.jp/blog/article-20211202"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "どんなAdvent Calendarを作るか考える",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 3,
+      "url" : "https://cloudandbuild.jp/blog/article-20211203"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendarの設計を検討する",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 4,
+      "url" : "https://cloudandbuild.jp/blog/article-20211204"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Shellを使って開発環境を準備する",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 5,
+      "url" : "https://cloudandbuild.jp/blog/article-20211205"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HasuraGraphQLを使ってデータモデルを作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 6,
+      "url" : "https://cloudandbuild.jp/blog/article-20211206"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt3のプロジェクトを作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 7,
+      "url" : "https://cloudandbuild.jp/blog/article-20211207"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt3とHasuraGraphQLをつなげる",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 8,
+      "url" : "https://cloudandbuild.jp/blog/article-20211208"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudSQLでPostgreSQLデータベースをたてる",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 9,
+      "url" : "https://cloudandbuild.jp/blog/article-20211209"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HasuraGraphQLをCloud Runにデプロイする",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 10,
+      "url" : "https://cloudandbuild.jp/blog/article-20211210"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt3をCloud Runにデプロイする",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 11,
+      "url" : "https://cloudandbuild.jp/blog/article-20211211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebase Authenticationを利用してユーザ登録・削除機能を作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 12,
+      "url" : "https://cloudandbuild.jp/blog/article-20211212"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HasuraGraphQLの認可機能を使って権限を制御する",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 13,
+      "url" : "https://cloudandbuild.jp/blog/article-20211213"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カレンダー登録機能を作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 14,
+      "url" : "https://cloudandbuild.jp/blog/article-20211214"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カレンダー参加機能を作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 15,
+      "url" : "https://cloudandbuild.jp/blog/article-20211215"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カレンダー表示機能を作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 16,
+      "url" : "https://cloudandbuild.jp/blog/article-20211216"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユニットテストを作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 17,
+      "url" : "https://cloudandbuild.jp/blog/article-20211217"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "E2Eテストを作る",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 18,
+      "url" : "https://cloudandbuild.jp/blog/article-20211218"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改善リストアップと、CI構築",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 19,
+      "url" : "https://cloudandbuild.jp/blog/article-20211219"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDパイプラインを構築する",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 20,
+      "url" : "https://cloudandbuild.jp/blog/article-20211220"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カレンダーの更新削除を実装する（１）",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 21,
+      "url" : "https://cloudandbuild.jp/blog/article-20211221"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カレンダーの更新削除を実装する（２）",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 22,
+      "url" : "https://cloudandbuild.jp/blog/article-20211222"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カレンダーの更新削除を実装する（３）",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 23,
+      "url" : "https://cloudandbuild.jp/blog/article-20211223"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カレンダーの更新削除を実装する（４）",
+      "author" : "@Cloud_and_Build_Inc",
+      "day" : 24,
+      "url" : "https://cloudandbuild.jp/blog/article-20211224"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Cloud_and_Build_Inc"
+    }
+  ]
+}

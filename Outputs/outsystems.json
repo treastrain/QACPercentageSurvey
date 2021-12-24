@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T09:41:43Z",
+  "calendar_meta_data" : {
+    "author" : "@taiponrock",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 24,
+    "subscribers" : 6,
+    "title" : "OutSystems Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "outsystems",
+    "url" : "https://qiita.com/advent-calendar/2021/outsystems"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems User Groupについて",
+      "author" : "@taiponrock",
+      "day" : 1,
+      "url" : "https://medium.com/@taiponrock/outsystems%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Buser-community-7085569f6fde"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSDC 2021 Day1 Keynote 振り返り",
+      "author" : "@taiponrock",
+      "day" : 2,
+      "url" : "https://taiponrock.medium.com/outsystems-developer-conference-2021-day1-%E3%82%AD%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81-882dca4972a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSDC 2021 Day2 Keynote 振り返り",
+      "author" : "@taiponrock",
+      "day" : 3,
+      "url" : "https://taiponrock.medium.com/outsystems-developer-conference-2021-%E3%82%AD%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81-a8469b2806ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems DataGrid Reactive 虎の巻",
+      "author" : "@sayamaguchi",
+      "day" : 4,
+      "url" : "https://qiita.com/sayamaguchi/items/997bcd2b4c8d24636296"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "上申、稟議で必須 - OutSystemsからどのような効果が得られるのか",
+      "author" : "@yoshiaki_onishi",
+      "day" : 5,
+      "url" : "https://note.com/yoshiaki_onishi/n/n1cd1f97121ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems Aggregate で動的SQL",
+      "author" : "@TommySu",
+      "day" : 6,
+      "url" : "https://qiita.com/TommySu/items/a5a2b22c73e5276c4747"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems Champions Programとは？",
+      "author" : "@taiponrock",
+      "day" : 7,
+      "url" : "https://taiponrock.medium.com/outsystems-champions-program-6961a21f30ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems MVP Programとは？",
+      "author" : "@taiponrock",
+      "day" : 8,
+      "url" : "https://taiponrock.medium.com/outsystems-mvp%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0-3229fded03e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems Neo クラウドネイティブアーキテクチャが意味するもの",
+      "author" : "@TommySu",
+      "day" : 9,
+      "url" : "https://qiita.com/TommySu/items/9a7f48f0b5256abe4927"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なんと5分もかからずスマホアプリが作れる最近のノーコード開発",
+      "author" : "@osonoi",
+      "day" : 10,
+      "url" : "https://blogs.itmedia.co.jp/osonoi/2021/12/5.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems Neo のマイクロサービスアーキテクチャ",
+      "author" : "@TommySu",
+      "day" : 11,
+      "url" : "https://qiita.com/TommySu/items/6b9f4d91c2e4ce5012f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems でTwitter のデータをリアルタイムで表示するアプリをつくってみた",
+      "author" : "@jonathanh",
+      "day" : 12,
+      "url" : "https://qiita.com/jonathanh/items/3c5470968674ca4f6acf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems と Node-RED を HTTP GET でつないでみるメモ",
+      "author" : "@tseigo",
+      "day" : 13,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/13/outsystems-nodered-http-get-collaboration/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystemsなら10分でアプリが作れる！",
+      "author" : "@RyogaTakao",
+      "day" : 14,
+      "url" : "https://qiita.com/RyogaTakao/items/1d9e663a7218fca7e5ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[OutSystems]OutDocを使ってレビュー負荷を下げる試み",
+      "author" : "@jyunji_watanabe",
+      "day" : 15,
+      "url" : "https://qiita.com/jyunji_watanabe/items/d7824d57ab825816b86f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystemsを学ぶ前に用語と画面の位置を知っておこう",
+      "author" : "@kawau_so",
+      "day" : 16,
+      "url" : "https://qiita.com/kawau_so/items/6f24b55742e78be00e7c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems の Forge にある Elastic 連携モジュールのご紹介",
+      "author" : "@shosuz",
+      "day" : 17,
+      "url" : "https://qiita.com/shosuz/items/9b8e3472eaa3cb65bb3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@ssakaigawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems User Groupで思い出したこと",
+      "author" : "@ito-ko-ki_ch",
+      "day" : 19,
+      "url" : "https://qiita.com/ito-ko-ki_ch/items/f0565fc58800d48782f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【超高速で簡単】20分+αで発表するOutsySystemsPlatformのWeb/DBアプリ（デモパターンのご紹介）",
+      "author" : "@t_esaking",
+      "day" : 20,
+      "url" : "https://qiita.com/t_esaking/items/b10961b1b899252e1fd4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystemsでの帳票出力を考える（前編）",
+      "author" : "@REQWARE",
+      "day" : 21,
+      "url" : "https://qiita.com/REQWARE/items/67ed82d43c48c3779b5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystemsでの帳票出力を考える Stimulsoft EX（後編）",
+      "author" : "@REQWARE",
+      "day" : 22,
+      "url" : "https://qiita.com/REQWARE/items/c01a3e382629c85722ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems が誘う Null がない世界の罠",
+      "author" : "@kata_junn",
+      "day" : 23,
+      "url" : "https://qiita.com/kata_junn/items/5018b3b42c142d7e4997"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystemsからTwilio APIを呼び出してSMSを送信",
+      "author" : "@Neri78",
+      "day" : 24,
+      "url" : "https://zenn.dev/neri78/articles/e8aab46e36000f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@taiponrock"
+    }
+  ]
+}

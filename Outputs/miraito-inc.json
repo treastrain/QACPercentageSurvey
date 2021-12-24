@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T03:13:41Z",
+  "calendar_meta_data" : {
+    "author" : "@suzuki-hoge",
+    "category" : "企業・学校・団体",
+    "lgtm" : 106,
+    "subscribers" : 2,
+    "title" : "ミライトデザイン Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "miraito-inc",
+    "url" : "https://qiita.com/advent-calendar/2021/miraito-inc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "たくさん起動してる IntelliJ を一瞬で見分ける設定",
+      "author" : "@suzuki-hoge",
+      "day" : 1,
+      "url" : "https://zenn.dev/suzuki_hoge/articles/2021-12-intellij-background-image-35e11efe3b7ece"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Keycloak で Opent ID Connect 認可コードフローをやってみる",
+      "author" : "@tkek321",
+      "day" : 2,
+      "url" : "https://qiita.com/tkek321/items/55a1c3a3f78356045c03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのEXPLAIN ANALYZEの読み方を勉強したよ",
+      "author" : "@Nyokki",
+      "day" : 3,
+      "url" : "https://qiita.com/Nyokki/items/c2d95cb2a75d3c0acb64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "🐘XdebugでStep Debuggingしよう！",
+      "author" : "@polidog",
+      "day" : 4,
+      "url" : "https://qiita.com/polidog/items/4c591ab236281d59a446"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インフラ初心者が AWS の話がふわっと（本当にふわっと）わかるようになるまでにやったことまとめ",
+      "author" : "@tkek321",
+      "day" : 5,
+      "url" : "https://qiita.com/tkek321/items/fdad7fed53c557920efe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 Mac で Docker を動かすための知識とノウハウ",
+      "author" : "@suzuki-hoge",
+      "day" : 6,
+      "url" : "https://zenn.dev/suzuki_hoge/books/2021-12-m1-docker-5ac3fe0b1c05de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実務4年目で設計を知らない人が一年間勉強してみた",
+      "author" : "@bucchi0426",
+      "day" : 7,
+      "url" : "https://zenn.dev/t_kitamura/articles/e5f69fe078f3a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Notionの使い方実例紹介",
+      "author" : "@FrozenVoice",
+      "day" : 8,
+      "url" : "https://qiita.com/FrozenVoice/items/63786633721e4504d45d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "docker-laravel の Docker 構成をちゃんと理解する【docker-compose.yml 編】",
+      "author" : "@tkek321",
+      "day" : 9,
+      "url" : "https://qiita.com/tkek321/items/9c0c5cec1dc349c67f5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インデックスショットガンで書き込み性能はどれくらい劣化するのか",
+      "author" : "@Nyokki",
+      "day" : 10,
+      "url" : "https://qiita.com/Nyokki/items/07a3afab8671de522b03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コーディングについて思うこと垂れ流し",
+      "author" : "@suzuki-hoge",
+      "day" : 11,
+      "url" : "https://zenn.dev/suzuki_hoge/articles/2021-12-coding-tweets-4c220524ecf4c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Playwrightを使ってブラウザ操作を自動化してみよう",
+      "author" : "@bucchi0426",
+      "day" : 12,
+      "url" : "https://zenn.dev/t_kitamura/articles/4a92f28b450a1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@rabit_momo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競技プログラミングをしなくても知っておきたい計算量の話",
+      "author" : "@suzuki-hoge",
+      "day" : 14,
+      "url" : "https://zenn.dev/suzuki_hoge/articles/2021-12-order-71a11ef156126d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラムの計算量とは？オーダー記法など基本的なことまとめ",
+      "author" : "@yyykms123",
+      "day" : 15,
+      "url" : "https://yukimasablog.com/computational-complexity"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSSスプライトを使って画像読込を効率化したい",
+      "author" : "@ariaki",
+      "day" : 16,
+      "url" : "https://qiita.com/ariaki/items/4352e1253f77e8b75011"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SVGアイコンをGitHubで管理し、フォントを自動ビルドして使いたい",
+      "author" : "@ariaki",
+      "day" : 17,
+      "url" : "https://qiita.com/ariaki/items/10f4afa86a81d08c8d2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Ray 進化したDumpデバッグデスクトップアプリ",
+      "author" : "@ucan-lab",
+      "day" : 18,
+      "url" : "https://qiita.com/ucan-lab/items/a51393db3d421bf78a57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いまさら始めるフロントエンド　単語帳",
+      "author" : "@suzuki-hoge",
+      "day" : 19,
+      "url" : "https://zenn.dev/suzuki_hoge/books/2021-12-frontend-wordmap-4c56ee36d71aef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelの必須チェック系ルールオブジェクト",
+      "author" : "@rabit_momo",
+      "day" : 20,
+      "url" : "https://qiita.com/rabit_momo/items/d876614ebe5b9cc9a314"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ミライトデザインに転職したきっかけと一年を振り返る",
+      "author" : "@bucchi0426",
+      "day" : 21,
+      "url" : "https://zenn.dev/t_kitamura/articles/3b85d2c331f0ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "docker-laravel の Docker 構成をちゃんと理解する【Dockerfile 編 - PHP】",
+      "author" : "@tkek321",
+      "day" : 22,
+      "url" : "https://qiita.com/tkek321/items/5d7714d7170bbf379c11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@yyykms123"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RDB脳の自分がNoSQLを実務で使った所感等をつらつら書いてみる",
+      "author" : "@FrozenVoice",
+      "day" : 24,
+      "url" : "https://qiita.com/FrozenVoice/items/c3d223a62277150ca08e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hirodragon"
+    }
+  ]
+}

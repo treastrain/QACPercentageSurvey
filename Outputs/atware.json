@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-24T02:19:45Z",
+  "calendar_meta_data" : {
+    "author" : "@kazuhito_nakayama",
+    "category" : "企業・学校・団体",
+    "lgtm" : 59,
+    "subscribers" : 1,
+    "title" : "株式会社atWare（アットウェア Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "atware",
+    "url" : "https://qiita.com/advent-calendar/2021/atware"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS SAM Go】Go*SAM で環境変数を導入するには",
+      "author" : "@kazuhito_nakayama",
+      "day" : 1,
+      "url" : "https://qiita.com/kazuhito_nakayama/items/937fd2c1b684e7e551f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonでLINE Botのリッチメニュー を活用したアプリを開発したので学んだことを記す",
+      "author" : "@kazuhito_nakayama",
+      "day" : 2,
+      "url" : "https://qiita.com/kazuhito_nakayama/items/ea72862feb35eaf04df1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルを汚さずDockerでDBを復元する",
+      "author" : "@makky0620",
+      "day" : 3,
+      "url" : "https://makkyemmanuel.com/uncategorized/localwoyogosazudockerdedbwohukugensuru"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudfromationスタックに既存のリソースを紐付ける",
+      "author" : "@isso_w",
+      "day" : 4,
+      "url" : "https://qiita.com/isso_w/items/8ebcd62037333a28dedf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snowparkを試してみた⛄️",
+      "author" : "@ta9ma_0k",
+      "day" : 5,
+      "url" : "https://qiita.com/ta9ma_0k/items/ecef74f5e10b405124d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SnowparkでUDFを試してみた⛄️",
+      "author" : "@ta9ma_0k",
+      "day" : 6,
+      "url" : "https://qiita.com/ta9ma_0k/items/a806061a354324b98913"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コーチングサークルのご紹介",
+      "author" : "@kajihira-atw",
+      "day" : 7,
+      "url" : "https://qiita.com/kajihira-atw/items/966ea73fb65e49e4835e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのSELECT結果をヘッダー付きでCSV出力",
+      "author" : "@makky0620",
+      "day" : 8,
+      "url" : "https://makkyemmanuel.com/engineer/mysqlnoselectkekkawoheadertsukidecsvsyuturyoku/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PO向け】モダンオフショアでスクラム開発① チーム構成",
+      "author" : "@masami-atwvn",
+      "day" : 9,
+      "url" : "https://qiita.com/masami-atwvn/items/215b561598a0ada0461d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミング言語Flixに入門しようとしたけど敗北した",
+      "author" : "@Satoooooooooooo",
+      "day" : 10,
+      "url" : "https://satoooooooooooo.hatenablog.com/entry/2021/12/11/011104"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "脆弱性を生み出しかけた話",
+      "author" : "@i-itagaki",
+      "day" : 11,
+      "url" : "https://qiita.com/i-itagaki/items/af28149a94656541993e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DataSyncを使う際に知っておくとよさそうなこと（主にEFS関連）",
+      "author" : "@hapicky",
+      "day" : 12,
+      "url" : "https://qiita.com/hapicky/items/ba729e0271b31b17825f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[JNI] nativeからJavaのStreamの消費とパフォーマンス",
+      "author" : "@junky0102",
+      "day" : 13,
+      "url" : "https://qiita.com/junky0102/items/044aa7762ea379296181"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Prefect で簡単なワークフローを構築してみた",
+      "author" : "@oyama1",
+      "day" : 14,
+      "url" : "https://qiita.com/oyama1/items/558bd471c0bdba6a774a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bookmarkletで会社の勤怠登録を効率化する",
+      "author" : "@isso_w",
+      "day" : 15,
+      "url" : "https://qiita.com/isso_w/items/9b57087e1715f710688c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PO向け】モダンオフショアでスクラム開発② デザインファースト",
+      "author" : "@masami-atwvn",
+      "day" : 16,
+      "url" : "https://qiita.com/masami-atwvn/items/047b513959ea4b4793be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PO向け】モダンオフショアでスクラム開発③ 優先順位",
+      "author" : "@masami-atwvn",
+      "day" : 17,
+      "url" : "https://qiita.com/masami-atwvn/items/170d9b891fbd2bf59ea0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS資格(SAP,SOA,SAA,DVA)をUdemyとNotionだけを使って勉強してみた",
+      "author" : "@masami-atwvn",
+      "day" : 18,
+      "url" : "https://qiita.com/masami-atwvn/items/482fc7d8ba2dddd7003e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Coursier + ammonite + Scala3 で簡単なスクリプト作成",
+      "author" : "@oyama1",
+      "day" : 20,
+      "url" : "https://qiita.com/oyama1/items/031621be3705278d62a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PO向け】モダンオフショアでスクラム開発④プロダクトバックログの書き方で工夫していること",
+      "author" : "@masami-atwvn",
+      "day" : 21,
+      "url" : "https://qiita.com/masami-atwvn/items/1ec4f833493f1d9a16ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モダンオフショアでスクラム開発⑤オフショアで成功するための条件",
+      "author" : "@masami-atwvn",
+      "day" : 23,
+      "url" : "https://qiita.com/masami-atwvn/items/22f5737f3fe4fa05e4ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Satoooooooooooo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@t_ita"
+    }
+  ]
+}

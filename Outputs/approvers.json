@@ -1,0 +1,150 @@
+{
+  "created_at" : "2021-12-24T13:46:03Z",
+  "calendar_meta_data" : {
+    "author" : "†限界開発鯖†",
+    "category" : "企業・学校・団体",
+    "lgtm" : 49,
+    "subscribers" : 17,
+    "title" : "限界開発鯖 Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "approvers",
+    "url" : "https://qiita.com/advent-calendar/2021/approvers"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "季節の推しを判別させた",
+      "author" : "@isso0424",
+      "day" : 1,
+      "url" : "https://qiita.com/isso0424/items/4da3a9d6ee5b0d86ee12"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@mirror_kt"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Log4jの致命的なゼロデイ脆弱性で今わかっていることのまとめと何が起きているのか(Minecraft中心)",
+      "author" : "@merunno",
+      "day" : 11,
+      "url" : "https://qiita.com/merunno/items/827362383fcd2bc3aed1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チャンネル 2 つとノイズだけで歌唱合成",
+      "author" : "@MikuroXina",
+      "day" : 12,
+      "url" : "https://qiita.com/MikuroXina/items/944d182c423e7a218c4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust のコンパイルが妙に遅くなったので原因を調べた話",
+      "author" : "@kawaemon",
+      "day" : 13,
+      "url" : "https://qiita.com/kawaemon/items/709b8cd2f0462e5967ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(手を)動かして学ぶWebRTC入門",
+      "author" : "@shun-shobon",
+      "day" : 14,
+      "url" : "https://qiita.com/shun-shobon/items/59c3e646bdb7cd9c0047"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YOLOX+motpyで始めるMultiple Object Tracking(MOT)",
+      "author" : "@Saigyo_HBK",
+      "day" : 15,
+      "url" : "https://qiita.com/Saigyo_HBK/items/1116b87a1bb202d1d680"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "useReducer で華麗にステート管理する",
+      "author" : "@Flisan",
+      "day" : 16,
+      "url" : "https://zenn.dev/loxygenk/articles/react-usereducer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Discord APIに今後来る変更",
+      "author" : "@merunno",
+      "day" : 17,
+      "url" : "https://qiita.com/merunno/items/605317e13d2ba111f36d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスなので Clean Architecture 用の自動コード生成ツールを作りたくなった話",
+      "author" : "@Noobest",
+      "day" : 18,
+      "url" : "https://qiita.com/Noobest/private/858f13722f1e9cbe3e1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MLP-mixerが美味しい季節になってきました",
+      "author" : "@kosakae256",
+      "day" : 19,
+      "url" : "https://qiita.com/kosakae256/items/763751e48c56ef468452"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@Colk-tech"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@raiga0310"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@laminne"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@skytomo221"
+    }
+  ]
+}

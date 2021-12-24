@@ -1,0 +1,236 @@
+{
+  "created_at" : "2021-12-24T01:53:16Z",
+  "calendar_meta_data" : {
+    "author" : "@gonta",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 13,
+    "title" : "CTO Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "cto",
+    "url" : "https://qiita.com/advent-calendar/2021/cto"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップCTOが、創業時の自分にどうしても伝えたい5つのこと",
+      "author" : "@gonta",
+      "day" : 11,
+      "url" : "https://note.com/loglass_sakamoto/n/n8c57b0cbb1d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "事業内容によって必要なエンジニア組織は異なる",
+      "author" : "@doyaaaaaken",
+      "day" : 12,
+      "url" : "https://doyaaaaaken.hatenablog.com/entry/2021/12/12/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CTOとして技術視点でスタートアップの経営に向き合う",
+      "author" : "@tobb422",
+      "day" : 13,
+      "url" : "https://note.com/tobb422/n/n72138a71b339"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのCTO ~Web制作会社からシステム開発会社への転身を支えた一年間~",
+      "author" : "@shinoyu",
+      "day" : 16,
+      "url" : "https://note.com/shinoyu_note/n/n2a9e4100a2ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップ１年目でのエンジニア組織設計を振り返る",
+      "author" : "@niwa-takeru",
+      "day" : 17,
+      "url" : "https://note.com/niwa_takeru/n/n84faebf7ceff"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "内製化をはじめて、1年経った開発組織の振り返り",
+      "author" : "@tobb422",
+      "day" : 21,
+      "url" : "https://note.com/tobb422/n/n43c73dc8aa7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップの CTO に求められる役割",
+      "author" : "@yshnb",
+      "day" : 22,
+      "url" : "https://note.com/yshnb/n/na8bbf2f9d68a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

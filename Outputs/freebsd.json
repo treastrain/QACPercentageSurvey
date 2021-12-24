@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T13:06:44Z",
+  "calendar_meta_data" : {
+    "author" : "@s_mitu",
+    "category" : "OS",
+    "lgtm" : 62,
+    "subscribers" : 31,
+    "title" : "FreeBSD Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "freebsd",
+    "url" : "https://qiita.com/advent-calendar/2021/freebsd"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "データを活かしたままZFSプールサイズを拡張する",
+      "author" : "@belgianbeer",
+      "day" : 1,
+      "url" : "https://qiita.com/belgianbeer/items/22b8d7160d35f28c337e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LibXoが組み込まれたコマンドで出力をJSON/XML変換してみる",
+      "author" : "@furandon_pig",
+      "day" : 2,
+      "url" : "https://qiita.com/furandon_pig/items/28b4d83e24dfd4dda115"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ＣＣＡＣＨＥでＦｒｅｅＢＳＤをｂｕｉｌｄｗｏｒｌｄした場合の効率について",
+      "author" : "@nanorkyo",
+      "day" : 3,
+      "url" : "https://qiita.com/nanorkyo/items/db1374b5c821dfe5113c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BastilleBSDでローカルパッケージ",
+      "author" : "@yamori813",
+      "day" : 4,
+      "url" : "https://qiita.com/yamori813/items/c364ccf29c24413abdd6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeBSD 公式サイトめぐり(2021年版)",
+      "author" : "@s_mitu",
+      "day" : 5,
+      "url" : "https://qiita.com/s_mitu/items/ff0ddfcae59c2a448b6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LibXoを利用するメリットとJSONとjqによるペナルティ",
+      "author" : "@belgianbeer",
+      "day" : 6,
+      "url" : "https://qiita.com/belgianbeer/items/12a77bcc32e71d5a4c28"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSON/XMLを出力する簡単なサンプルでLibXoの使い方を調べてみる",
+      "author" : "@furandon_pig",
+      "day" : 7,
+      "url" : "https://qiita.com/furandon_pig/items/8ef2898c3867583d3be9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "current で mixer ライブラリが追加された",
+      "author" : "@s_mitu",
+      "day" : 8,
+      "url" : "https://qiita.com/s_mitu/items/fb4f7d1f90de4da8fde2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Xfce4/Gnome3 でLibreOffice の日本語入力が出来ない場合",
+      "author" : "@s_mitu",
+      "day" : 9,
+      "url" : "https://qiita.com/s_mitu/items/f099c20b1f7863623136"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハードウエアの故障",
+      "author" : "@yamori813",
+      "day" : 10,
+      "url" : "https://qiita.com/yamori813/items/33bf08ffb6fa952808f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ストレージインターフェースにおけるSATAとUSBの性能差",
+      "author" : "@belgianbeer",
+      "day" : 11,
+      "url" : "https://qiita.com/belgianbeer/items/9f963d6b33fd4124b45f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry PiのFreeBSDで遊ぶ",
+      "author" : "@motoka1t",
+      "day" : 12,
+      "url" : "https://qiita.com/motoka1t/items/7862c4978b9d1155697f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットワーク ReferenceとしてのBSD",
+      "author" : "@kaizen_nagoya",
+      "day" : 13,
+      "url" : "https://qiita.com/kaizen_nagoya/items/14fba711d42fd8b5db4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "wipe-out で HDD の内容を消去しよう！",
+      "author" : "@masatonasou",
+      "day" : 14,
+      "url" : "https://qiita.com/masatonasou/items/3616e512c1a232500021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年最新CPU(Intel 第12世代 Core i9 12900K)でFreeBSDを使ってみる",
+      "author" : "@yshdsnd",
+      "day" : 15,
+      "url" : "https://qiita.com/yshdsnd/items/e8ba8d417851ae56f2fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PlatformIO in BastilleBSD",
+      "author" : "@yamori813",
+      "day" : 16,
+      "url" : "https://qiita.com/yamori813/items/e157190517f700badcce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeBSDでpy-yubikey-managerを使う",
+      "author" : "@74137f14175377da",
+      "day" : 17,
+      "url" : "https://qiita.com/74137f14175377da/items/38dbadddcc853b7c1ad4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ubuntu + Xen 仮想マシン環境に FreeBSD をインストールする",
+      "author" : "@masatonasou",
+      "day" : 18,
+      "url" : "https://qiita.com/masatonasou/items/5c29252934a39663178f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ubuntu + Xen 仮想マシン環境上の FreeBSD のデスクトップ環境の設定",
+      "author" : "@masatonasou",
+      "day" : 19,
+      "url" : "https://qiita.com/masatonasou/items/df2cdb4fdc4c3cd21681"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeBSDでBluetooth SPP",
+      "author" : "@yamori813",
+      "day" : 20,
+      "url" : "https://qiita.com/yamori813/items/1e37236e55023f4c1ddb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeBSDでもflashrom",
+      "author" : "@yamori813",
+      "day" : 21,
+      "url" : "https://qiita.com/yamori813/items/63cd70adc947dc5929c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS シリアルコンソールをFreeBSDで使う。",
+      "author" : "@asakawaya",
+      "day" : 22,
+      "url" : "https://qiita.com/asakawaya/items/820a06856280413966c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeBSD Foundation への寄付のしかた",
+      "author" : "@bsdhrs",
+      "day" : 23,
+      "url" : "https://qiita.com/bsdhrs/items/de76081c8809170ad880"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@s_mitu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@s_mitu"
+    }
+  ]
+}

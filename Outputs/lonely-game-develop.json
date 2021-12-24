@@ -1,0 +1,142 @@
+{
+  "created_at" : "2021-12-24T08:21:04Z",
+  "calendar_meta_data" : {
+    "author" : "@4_mio_11",
+    "category" : "その他",
+    "lgtm" : 9,
+    "subscribers" : 6,
+    "title" : "一人アドベントカレンダー Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "lonely-game-develop",
+    "url" : "https://qiita.com/advent-calendar/2021/lonely-game-develop"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "最速テクニカルライティング＆スライド作成手法",
+      "author" : "@4_mio_11",
+      "day" : 1,
+      "url" : "https://qiita.com/4_mio_11/items/6e96466f4aa669517633"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@4_mio_11"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@4_mio_11"
+    }
+  ]
+}

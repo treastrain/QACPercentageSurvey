@@ -1,0 +1,142 @@
+{
+  "created_at" : "2021-12-24T11:12:10Z",
+  "calendar_meta_data" : {
+    "author" : "@furandon_pig",
+    "category" : "OS",
+    "lgtm" : 1,
+    "subscribers" : 13,
+    "title" : "NetBSD Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "netbsd",
+    "url" : "https://qiita.com/advent-calendar/2021/netbsd"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "QEMU+NetBSDではipv6addrctlで接続ポリシーを設定しよう",
+      "author" : "@furandon_pig",
+      "day" : 1,
+      "url" : "https://qiita.com/furandon_pig/items/f7e571145a74169c7351"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NetBSDでCreative BT-W3を使ってみる",
+      "author" : "@ryoon",
+      "day" : 2,
+      "url" : "https://blog.onodera.asia/2021/12/netbsdcreative-bt-w3.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NetBSDでもLibXo(JSON/XML出力ライブラリ)を試してみる",
+      "author" : "@furandon_pig",
+      "day" : 3,
+      "url" : "https://qiita.com/furandon_pig/items/c42f183d5f9d86e9261c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "procfsの実装からNetBSDとLinuxでのスタンスの違い(？)を読み解いてみる",
+      "author" : "@furandon_pig",
+      "day" : 4,
+      "url" : "https://qiita.com/furandon_pig/items/7a48c1e62f918face77b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "qemu上でNetBSD/amd64-currentを使ってみる (VirtIO Block Device)",
+      "author" : "@ryoon",
+      "day" : 5,
+      "url" : "https://blog.onodera.asia/2021/12/qemunetbsdamd64-current.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "filemonでファイルの変更イベントを監視する",
+      "author" : "@furandon_pig",
+      "day" : 6,
+      "url" : "https://qiita.com/furandon_pig/items/5d324b06a0456e3080c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "qemu上でNetBSD/amd64-currentを使ってみる (VirtIO SCSI)",
+      "author" : "@ryoon",
+      "day" : 7,
+      "url" : "https://blog.onodera.asia/2021/12/qemunetbsdamd64-current-virtio-scsi.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンソースカンファレンスNetBSDブースこの一年",
+      "author" : "@ebijun",
+      "day" : 17,
+      "url" : "https://github.com/ebijun/NetBSD/blob/master/Guide/OSC/OSC2021.rst"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RaspberryPIのNetBSDイメージ2021進捗どうですか",
+      "author" : "@ebijun",
+      "day" : 18,
+      "url" : "https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2021.rst"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

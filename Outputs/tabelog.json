@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T11:50:17Z",
+  "calendar_meta_data" : {
+    "author" : "食べログ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 426,
+    "subscribers" : 40,
+    "title" : "食べログ Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "tabelog",
+    "url" : "https://qiita.com/advent-calendar/2021/tabelog"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "カバレッジ10%のテスト自動化で7割以上のテスト工数を削減できる！？〜ゆもつよメソッドを使った要求分析〜",
+      "author" : "@shibu_shibu",
+      "day" : 1,
+      "url" : "https://qiita.com/shibu_shibu/items/b6a7e39ac5760e26b7cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログ スマートフォンページのCSSを最適化してLCP改善にトライ！",
+      "author" : "@mamiyan",
+      "day" : 2,
+      "url" : "https://qiita.com/mamiyan/items/a1e038ab65c1728c7f08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "作る人にも使う人にも嬉しいMVPをやってみた 〜実用最小限の見つけ方〜",
+      "author" : "@sudomeg",
+      "day" : 3,
+      "url" : "https://qiita.com/sudomeg/items/4869fce7061bea9e7d98"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@tkyowa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログの古いSSL/TLSを、113ドメイン・72箇所・29社 抜け漏れなく廃止した話",
+      "author" : "@ya_po",
+      "day" : 5,
+      "url" : "https://qiita.com/ya_po/items/596afbbcacb697e1fa93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログでFEチームブログを始めたら",
+      "author" : "@osunu-k",
+      "day" : 6,
+      "url" : "https://note.com/tabelog_frontend/n/naad568ee1e60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "要件通りになっていればそれでいい？実装後の画面確認で、もっと高みへ！",
+      "author" : "@tanuki___tk",
+      "day" : 7,
+      "url" : "https://qiita.com/tanuki___tk/items/6b451aa3552c6df1a083"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者向け】SEOの概要と必要性、考えることや行うべきこと",
+      "author" : "@otoyoda",
+      "day" : 8,
+      "url" : "https://qiita.com/otoyoda/items/bd079dfbba9e6f2dffa0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログのビッグデータ分析基盤をGCPで刷新",
+      "author" : "@yang_ming",
+      "day" : 9,
+      "url" : "https://qiita.com/yang_ming/items/26cf6e33f9d349586e42"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenAPIとMSWを組み合わせてAPIモックしている話",
+      "author" : "@_shar",
+      "day" : 10,
+      "url" : "https://note.com/tabelog_frontend/n/n5f8a11c2aa79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フィードバックループを高速に回すためのテスト自動化アーキテクチャを設計した話",
+      "author" : "@hagevvashi",
+      "day" : 11,
+      "url" : "https://qiita.com/hagevvashi/items/563943f67ce6e29fb934"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログでNewRelic導入した話",
+      "author" : "@yzusa",
+      "day" : 12,
+      "url" : "https://qiita.com/yzusa/items/4a300ec86fabc5a06cac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログのCloud NativeなCI/CDパイプラインのお話",
+      "author" : "@tsukasa_oishi",
+      "day" : 13,
+      "url" : "https://qiita.com/tsukasa_oishi/items/0cc584997f33eeacc5d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログのレストラン検索を支える Debezium と Apache Kafka",
+      "author" : "@weakboson",
+      "day" : 14,
+      "url" : "https://qiita.com/weakboson/items/534e243552731f1cd2f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログFEチームに新卒エンジニアが飛び込んでみた学び",
+      "author" : "@skido",
+      "day" : 15,
+      "url" : "https://note.com/tabelog_frontend/n/n7499d31eee37"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "振り返りによるチーム作りの実践",
+      "author" : "@k-sekido",
+      "day" : 16,
+      "url" : "https://qiita.com/k-sekido/items/86af861048bca642b0ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報処理安全確保支援士試験の問題を解いて、セキュリティインシデントの事例を他山の石として学ぼう",
+      "author" : "@e-ronny",
+      "day" : 17,
+      "url" : "https://qiita.com/e-ronny/items/59d0a31c4664d576d687"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Renovate の PR を 89% 自動マージして楽している話",
+      "author" : "@hagevvashi",
+      "day" : 18,
+      "url" : "https://note.com/tabelog_frontend/n/nc52a54472e00"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "amp容量削減の戦い",
+      "author" : "@nanzou",
+      "day" : 19,
+      "url" : "https://qiita.com/nanzou/items/095881d2f0cff9b5442f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Android】Jetpack Composeでよく使うプロパティをまとめてみた",
+      "author" : "@hokutonikukyu",
+      "day" : 20,
+      "url" : "https://qiita.com/hokutonikukyu/items/32a8539e36b6b36619a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログの内製Pub/Subメッセージング基盤をApache Kafkaにリプレイスした話",
+      "author" : "@SinceK13",
+      "day" : 21,
+      "url" : "https://qiita.com/SinceK13/items/902d2b439ef39a57883c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食べログアプリでの技術的負債との向き合い方",
+      "author" : "@sadashi",
+      "day" : 22,
+      "url" : "https://qiita.com/sadashi/items/49d90fc80a5466627249"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイル・DevOpsからDeveloper Productivityへ ~食べログのDeveloper Productivityチームが目指す姿~",
+      "author" : "@ogino",
+      "day" : 23,
+      "url" : "https://kokotatata.hatenablog.com/entry/2021/12/23/051947"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webデザイン畑だった人間がアプリUIに関わって気づいた5つのこと",
+      "author" : "@s_kohei",
+      "day" : 24,
+      "url" : "https://qiita.com/s_kohei/items/4e4760eadd4f86907339"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tkyowa"
+    }
+  ]
+}

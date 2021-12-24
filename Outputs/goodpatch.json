@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T10:03:00Z",
+  "calendar_meta_data" : {
+    "author" : "Goodpatch",
+    "category" : "企業・学校・団体",
+    "lgtm" : 42,
+    "subscribers" : 19,
+    "title" : "Goodpatch Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "goodpatch",
+    "url" : "https://qiita.com/advent-calendar/2021/goodpatch"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "バリューを体現する行動指針 Goodpatch Engineer Principles について",
+      "author" : "@cawpea",
+      "day" : 1,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/gpep"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒1年目が学んだエンジニアのコミュニケーション術",
+      "author" : "@touyoubuntu",
+      "day" : 2,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/engineer_communication_elementary"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "On-device Google Translate in Jetpack Compose using MLKit",
+      "author" : "@su____ji",
+      "day" : 3,
+      "url" : "https://surajsau.medium.com/on-device-google-translate-with-jetpack-compose-mlkit-7a48f5b11948"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "普段よく見るテック系サイトは？",
+      "author" : "@ikezzz",
+      "day" : 4,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/04/185339"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUIを実務で使ってわかったアレコレ",
+      "author" : "@touyoubuntu",
+      "day" : 5,
+      "url" : "https://qiita.com/touyoubuntu/items/003d35a46eb77ec28b1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Strapのチュートリアル開発のプロセス公開します",
+      "author" : "@myktsk",
+      "day" : 6,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/06/091343"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無限大ホワイトボードのチューニング - 画像編",
+      "author" : "@y_megane",
+      "day" : 7,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/strap-image-tuning"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Renovate でパッケージの依存関係を最新に保つ",
+      "author" : "@kjugk",
+      "day" : 8,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/how_to_use_renovate"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scrum with Designer",
+      "author" : "@ShinichiroKato",
+      "day" : 9,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/09/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノーコードサイト作成サービス STUDIO の実例ハック術",
+      "author" : "@chige",
+      "day" : 10,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/10/152146"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter2.0のデスクトップを試してみた",
+      "author" : "@GpAraki",
+      "day" : 11,
+      "url" : "https://qiita.com/GpAraki/items/e408d38e544f80bd6451"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " Figma Tokensの導入 デザイナーと協力して一貫性のあるUI実装を実現する",
+      "author" : "@zookeeper08",
+      "day" : 12,
+      "url" : "https://qiita.com/zookeeper08/items/face3f1d3b8830b28ef2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "B2B SaaS バックエンドにFirebaseを選定した理由",
+      "author" : "@yahharo",
+      "day" : 13,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/13/101720"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delegateを伴うUIKit実装のカスタムビューをSwiftUI上で使う",
+      "author" : "@ttgp",
+      "day" : 14,
+      "url" : "https://qiita.com/ttgp/items/0b88e8e719036c82e318"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@nsyee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "書籍「A Philosophy of Software Design」から得られた、ソフトウェアデザインの新しい視点",
+      "author" : "@mnkd",
+      "day" : 16,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/21/100739"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@enpipi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebaseを使った大量ドキュメントの処理実現について",
+      "author" : "@shichisan_gp",
+      "day" : 18,
+      "url" : "https://zenn.dev/shichisan/articles/05b4f590667e6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザベースのサービスをChrome機能拡張でカスタマイズする時の工夫ポイント",
+      "author" : "@ikezzz",
+      "day" : 19,
+      "url" : "https://qiita.com/ikezzz/items/211a93eed824a5b05a51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サイトのメタ情報を教えてくれる Safari Extension (機能拡張) の作り方",
+      "author" : "@oreo",
+      "day" : 20,
+      "url" : "https://qiita.com/oreo/items/c2c99c6fed7bec18c609"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザ理解を深めるためにデータ分析を学ぶこと",
+      "author" : "@nktnf",
+      "day" : 21,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/23/152942"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Animating Lists in React: features comparison and opinion",
+      "author" : "@irving_armenta",
+      "day" : 22,
+      "url" : "https://qiita.com/irving_armenta/items/79612d2c272303342227"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "タグ入力UIのパターンをまとめてみた",
+      "author" : "@kazu_death",
+      "day" : 23,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/tag-input-ui-patterns"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ARKitことはじめ：ドラッグ操作の意外な落とし穴と試行錯誤",
+      "author" : "@ttgp",
+      "day" : 24,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/ar-node-translation-on-plane"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@hsekiya"
+    }
+  ]
+}

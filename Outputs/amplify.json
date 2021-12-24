@@ -1,0 +1,318 @@
+{
+  "created_at" : "2021-12-24T10:01:57Z",
+  "calendar_meta_data" : {
+    "author" : "@kimyan",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 115,
+    "subscribers" : 79,
+    "title" : "AWS Amplify Advent Calendar 2021",
+    "participants" : 30,
+    "unique_name" : "amplify",
+    "url" : "https://qiita.com/advent-calendar/2021/amplify"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Amplifyが変えた世界",
+      "author" : "@seike460",
+      "day" : 1,
+      "url" : "https://tech.fusic.co.jp/posts/2021-12-01-how-amplify-changed-the-world/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チュートリアル「AWS Amplifyを使用してシンプルなiOSアプリケーションを構築する」をやる際に隣で開いておくとヒントになるかもしれないページ",
+      "author" : "@Tatsuya21",
+      "day" : 2,
+      "url" : "https://qiita.com/Tatsuya21/items/ec3b7b2a42ed7a9b59fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify APIのfunctionディレクティブでLambdaを呼び出す",
+      "author" : "@negi0205",
+      "day" : 3,
+      "url" : "https://qiita.com/negi0205/items/e84f00be8d3e3d56b21c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify で Slack アプリつくってみた",
+      "author" : "@HayatoW",
+      "day" : 4,
+      "url" : "https://qiita.com/HayatoW/items/e2ed24dcf54f352616ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS AmplifyのAmplify UIの中身を軽くみてみる",
+      "author" : "@motchi0214",
+      "day" : 5,
+      "url" : "https://wp-kyoto.net/undernstanding-amplify-ui-structure/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify GeoとAmazon Location Serviceの構築方法をまとめてみた",
+      "author" : "@dayjournal",
+      "day" : 6,
+      "url" : "https://qiita.com/dayjournal/items/3c6637779133bce44fdb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplifyを使って招待機能を実装してみた",
+      "author" : "@Kaiki-kk",
+      "day" : 7,
+      "url" : "https://qiita.com/Kaiki-kk/items/32fd1e94186015c4105f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ReactアプリにAmplifyでCognito認証追加してみた",
+      "author" : "@nomurabbit",
+      "day" : 8,
+      "url" : "https://nomurabbit.hatenablog.jp/entry/20211208/1638915201"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify で function の hotswap を実現する方法について書きます",
+      "author" : "@lambdasour",
+      "day" : 9,
+      "url" : "https://www.lambdasawa.me/blogs/amplify-hotswap"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS AmplifyでCloudWatchLogsにカジュアルにログを送りたい",
+      "author" : "@jacoyutorius",
+      "day" : 10,
+      "url" : "https://qiita.com/jacoyutorius/items/3cbed0075125905345a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify のビルド速度を効率化しましょう！",
+      "author" : "@coa00",
+      "day" : 11,
+      "url" : "https://qiita.com/coa00/items/7f4b1fbafd846969a6c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormationと「amplify add custom」を使ってAmplifyにカスタムリソースを追加",
+      "author" : "@hedgehog051",
+      "day" : 12,
+      "url" : "https://qiita.com/hedgehog051/items/d23d4a257f69ecbc36a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Amplify の新機能 custom を使って CDK を少し試してみる",
+      "author" : "@tacck",
+      "day" : 13,
+      "url" : "https://blog.tacck.net/archives/1315"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Amplify で OpenAPI 定義をインポートして REST API をデプロイする",
+      "author" : "@odenkun1124",
+      "day" : 14,
+      "url" : "https://qiita.com/odenkun1124/items/63bd2f419ffb59243bb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify Storageを使った、管理者から各ユーザへのファイル共有",
+      "author" : "@guevara-net",
+      "day" : 15,
+      "url" : "https://qiita.com/guevara-net/items/48db79606f8961a204b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AmplifyのSlack通知プラグインが便利すぎた件",
+      "author" : "@dyson-udonsin",
+      "day" : 16,
+      "url" : "https://qiita.com/dyson-udonsin/items/5d2b7105736bf8a742c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2年半Amplifyを使い続けてたどり着いた開発構成",
+      "author" : "@too",
+      "day" : 17,
+      "url" : "https://qiita.com/too/items/8a3c75d094bc9441f4bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify x CDK でカスタムリソースを作る& CDK v2 に移行する",
+      "author" : "@hkford",
+      "day" : 18,
+      "url" : "https://zenn.dev/hkdord/articles/amplify-cli-custom-resource"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify GraphQL Transformer v2 まとめ",
+      "author" : "@nagym",
+      "day" : 19,
+      "url" : "https://zenn.dev/jaga/articles/dc045c6918b11b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify CDK オーバーライドってどうなってるの？",
+      "author" : "@fossamagna",
+      "day" : 20,
+      "url" : "https://fossamagna.github.io/anatomy-of-amplify-override/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplifyと約一年半向き合ってみて",
+      "author" : "@touyoubuntu",
+      "day" : 21,
+      "url" : "https://qiita.com/touyoubuntu/items/bcb94ed396ae1dc73636"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[小ネタ]amplify initした時にできるファイルは何なのか",
+      "author" : "@togami2864",
+      "day" : 22,
+      "url" : "https://zenn.dev/togami2864/articles/ac0ac8421c1611"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "amplify studioを触ってみた",
+      "author" : "@defmementomori",
+      "day" : 23,
+      "url" : "https://cloud-aws-gcp.hateblo.jp/entry/2021/12/04/214930"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@yshd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@watilde"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "複数のAmplifyプロジェクトを使った開発方法",
+      "author" : "@yasutomog",
+      "day" : 1,
+      "url" : "https://yasutomo.hatenablog.com/entry/2021/12/01/011142"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AmplifyでNext.jsをSSRしたときのビルドログ出力先",
+      "author" : "@yasutomog",
+      "day" : 2,
+      "url" : "https://yasutomo.hatenablog.com/entry/2021/12/02/003022"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Next.js on Amplifyの503エラー",
+      "author" : "@yasutomog",
+      "day" : 3,
+      "url" : "https://yasutomo.hatenablog.com/entry/2021/12/03/010222"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4,
+      "author" : "@coa00"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS CDK+Serverless Next.js構成で、APIからAWSリソースにアクセスできるようにIAMロールを更新する",
+      "author" : "@motchi0214",
+      "day" : 9,
+      "url" : "https://wp-kyoto.net/put-iam-policy-to-the-next-js-app-using-aws-cdk/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Raspberry Pi を AWS Amplify から操作するために AppSync の Subscription を受け取りたい (Node.js)",
+      "author" : "@tacck",
+      "day" : 12,
+      "url" : "https://blog.tacck.net/archives/1313"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Next.jsをAmplifyで運用する場合に必ず設定すべき項目",
+      "author" : "@thim",
+      "day" : 15,
+      "url" : "https://zenn.dev/thim/articles/a35110091dc95e8da09b"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Next.js on Amplifyの503エラーの続き",
+      "author" : "@yasutomog",
+      "day" : 18,
+      "url" : "https://yasutomo.hatenablog.com/entry/2021/12/18/121908"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AmplifyプロジェクトでCognito送信者のLambdaトリガーを設定してみた",
+      "author" : "@yasutomog",
+      "day" : 19,
+      "url" : "https://yasutomo.hatenablog.com/entry/2021/12/18/150320"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "パスワードレス認証サービスMagicとAmplify(Cognito)を使った認証システム",
+      "author" : "@tomoima525",
+      "day" : 20,
+      "url" : "https://tomoima525.hatenablog.com/entry/2021/12/20/175306"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21,
+      "author" : "@TrkdKnt"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Amplify AuthのUser groupsによるマルチテナントS3アクセス制御",
+      "author" : "@ibaraki",
+      "day" : 22,
+      "url" : "https://zenn.dev/ibaraki/articles/0d8ae504acaa4f"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

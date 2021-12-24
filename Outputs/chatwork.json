@@ -1,0 +1,176 @@
+{
+  "created_at" : "2021-12-24T07:22:58Z",
+  "calendar_meta_data" : {
+    "author" : "@Guvalif",
+    "category" : "企業・学校・団体",
+    "lgtm" : 2,
+    "subscribers" : 16,
+    "title" : "Chatwork Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "chatwork",
+    "url" : "https://qiita.com/advent-calendar/2021/chatwork"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア採用広報をはじめてみて「実際どうだった？」という一年の振り返り",
+      "author" : "@Guvalif",
+      "day" : 1,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/02/150508"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムマスターって何をする人？",
+      "author" : "@daiksy",
+      "day" : 2,
+      "url" : "https://daiksy.hatenablog.jp/entry/2021/12/02/083000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "久々の Android アプリ開発、そして在宅勤務コンサルについて",
+      "author" : "@ryugoo",
+      "day" : 3,
+      "url" : "https://note.com/ryugoo/n/n5223c97fba7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@Guvalif"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@Guvalif"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトオーナーをやっている",
+      "author" : "@yoshiyoshifujii",
+      "day" : 6,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/06/083000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人事とエンジニアがワンチームなDevHRについての紹介",
+      "author" : "@tan_yuki",
+      "day" : 7,
+      "url" : "https://creators-note.chatwork.com/entry/what-is-devhr"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モバイルアプリケーション開発部で１泊２日の部署合宿をしたって話",
+      "author" : "@Guvalif",
+      "day" : 8,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/08/094428"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Akka Actors を便利につかう",
+      "author" : "@hayasshi",
+      "day" : 9,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/10/183503"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chatworkに入社してから３ヶ月の間に感じたこと",
+      "author" : "@yohei884",
+      "day" : 10,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/13/102242"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@Guvalif"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@Guvalif"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TreasureDataの大量データをSnowflakeへ取り込む",
+      "author" : "@kaz3284",
+      "day" : 13,
+      "url" : "https://qiita.com/kaz3284/items/9355de38f09080834738"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "漫画フラジャイルから見たプロダクトセキュリティ",
+      "author" : "@nishikawaakira",
+      "day" : 14,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/14/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイル開発におけるスケジュールを継続的に見直す",
+      "author" : "@louvre2489",
+      "day" : 15,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/15/085108"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モバイルアプリ開発チームをプラットフォーム横断で分割した話",
+      "author" : "@tinpay",
+      "day" : 16,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/16/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "脆弱性管理ツール「yamory」を導入しました！",
+      "author" : "@takachan",
+      "day" : 17,
+      "url" : "https://creators-note.chatwork.com/entry/Introduced-yamory"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swift Concurrencyのここがスゴイ",
+      "author" : "@m__ike_",
+      "day" : 18,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/18/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Guvalif"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オブジェクトとかモデル、ドメインについてのデザイナーの解釈",
+      "author" : "@emiemihuimei",
+      "day" : 20,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/20/103000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンド開発部の業務を紹介します",
+      "author" : "@yama9112",
+      "day" : 21,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/21/100049"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chatwork WebのUIに1つ1つ丁寧に名付けをしている話（ユビキタス言語検討会について）",
+      "author" : "@s12bt",
+      "day" : 22,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/22/153540"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンド開発部で LT ハッカソンを開催しました！",
+      "author" : "@SNis",
+      "day" : 23,
+      "url" : "https://creators-note.chatwork.com/entry/2021/12/23/115516"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Guvalif"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Guvalif"
+    }
+  ]
+}

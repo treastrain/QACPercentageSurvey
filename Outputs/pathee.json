@@ -1,0 +1,140 @@
+{
+  "created_at" : "2021-12-24T07:15:34Z",
+  "calendar_meta_data" : {
+    "author" : "@seri",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "Pathee Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "pathee",
+    "url" : "https://qiita.com/advent-calendar/2021/pathee"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Pathee is 何",
+      "author" : "@seri",
+      "day" : 1,
+      "url" : "https://pathee.hatenablog.com/entry/2021/12/01/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STORECASTの管理アプリケーションについて",
+      "author" : "@seri",
+      "day" : 2,
+      "url" : "https://pathee.hatenablog.com/entry/2021/12/02/132306"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フルスタックNext.jsアプリケーションのディレクトリ構成",
+      "author" : "@seri",
+      "day" : 3,
+      "url" : "https://pathee.hatenablog.com/entry/2021/12/03/171351"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークのスクラム開発で仕事をうまく切り上げたい！",
+      "author" : "@seri",
+      "day" : 4,
+      "url" : "https://pathee.hatenablog.com/entry/2021/12/04/201139"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Lambda（など）の失敗をうまく取り扱う",
+      "author" : "@keisei_1092",
+      "day" : 9,
+      "url" : "https://pathee.hatenablog.com/entry/2021/12/12/005139"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@seri"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@keisei_1092"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@keisei_1092"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

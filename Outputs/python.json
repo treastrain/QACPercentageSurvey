@@ -1,0 +1,635 @@
+{
+  "created_at" : "2021-12-24T13:49:14Z",
+  "calendar_meta_data" : {
+    "author" : "@Brutus",
+    "category" : "プログラミング言語",
+    "lgtm" : 576,
+    "subscribers" : 364,
+    "title" : "Python Advent Calendar 2021",
+    "participants" : 65,
+    "unique_name" : "python",
+    "url" : "https://qiita.com/advent-calendar/2021/python"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "日系大手企業のパワポエンジニア事情をPythonで無理やり改善する",
+      "author" : "@c60evaporator",
+      "day" : 1,
+      "url" : "https://qiita.com/c60evaporator/items/f92dff60a46317b7d967"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マインクラフト上に迷路をPythonから自動生成して遊ぶ",
+      "author" : "@Supu",
+      "day" : 2,
+      "url" : "https://qiita.com/Supu/items/d90175ddd72f0f3e9f11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "とあるゲームにてバトルが始まるときのフェードアウト表現（黒い線が画面を回りながら暗転する）を簡易実装してみた",
+      "author" : "@seigot",
+      "day" : 3,
+      "url" : "https://qiita.com/seigot/items/1e455e5b65284eddc4d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pythonでCSVレコードをモデルに変換",
+      "author" : "@hoshi_kouki",
+      "day" : 4,
+      "url" : "https://qiita.com/hoshi_kouki/items/b932710304df3e6cc65a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python clickの案外知られていない機能",
+      "author" : "@cvusk",
+      "day" : 5,
+      "url" : "https://qiita.com/cvusk/items/fcda5e77350f248d39e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SVGベースのPythonフロントエンドライブラリを作っているという話",
+      "author" : "@simonritchie",
+      "day" : 6,
+      "url" : "https://qiita.com/simonritchie/items/26f7da93ac85f60b2972"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Python]デフォルト値を持つ引数の前にはアスタリスクを設けておくと堅牢で良いかも、という話",
+      "author" : "@simonritchie",
+      "day" : 7,
+      "url" : "https://qiita.com/simonritchie/items/7d8382e821dd1e9bd98b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "python 3.10からの新機能 match - case を使ったIF文置き換えの紹介",
+      "author" : "@Intel0tw5727",
+      "day" : 8,
+      "url" : "https://qiita.com/Intel0tw5727/items/6988c62ce4aaa681b151"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザで動くリアルタイム画像/音声処理アプリをStreamlitでサクッと作る",
+      "author" : "@whitphx",
+      "day" : 9,
+      "url" : "https://zenn.dev/whitphx/articles/streamlit-realtime-cv-app"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pythonでcsvにある経度緯度から一気に距離を算出する(直線距離)",
+      "author" : "@okpingu109",
+      "day" : 10,
+      "url" : "https://qiita.com/okpingu109/items/64267842851ef3d40742"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Db2 (と Apache Derby) の pure python ドライバー",
+      "author" : "@nakagami",
+      "day" : 11,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3次元の弾塑性解析をPythonで実装する(６面体要素)",
+      "author" : "@Altaka4128",
+      "day" : 12,
+      "url" : "https://qiita.com/Altaka4128/items/eb4e9cb0bf46d450b03f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonでconnpassメッセージを予約投稿する",
+      "author" : "@abenben",
+      "day" : 13,
+      "url" : "https://qiita.com/abenben/items/fef721c9acbb2fe35f90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " DockerのJupyterLabでipywidgetsを使う",
+      "author" : "@saka212",
+      "day" : 14,
+      "url" : "https://qiita.com/saka212/items/a9a59dca40b34018910a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マンガの台詞をネガポジ判定してみた[Python]",
+      "author" : "@kuro_take",
+      "day" : 15,
+      "url" : "https://qiita.com/kuro_take/items/b753ff5daf03aed20682"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonだけどweb開発したい！ ～99%Pythonだけでwebアプリを作る～",
+      "author" : "@bluepost59",
+      "day" : 16,
+      "url" : "https://zenn.dev/bluepost/articles/22327195c09314"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "型ベースで気持ちよくCLIを書けるコマンドラインパーサoppapiを作っています",
+      "author" : "@yukinarit",
+      "day" : 17,
+      "url" : "https://zenn.dev/yukinarit/articles/3fbba1b5414b69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習における反実仮想説明（Counterfactual Explanations）を生成するライブラリ“DiCE”を活用したサービス開発についての考察",
+      "author" : "@daikikatsuragawa",
+      "day" : 18,
+      "url" : "https://daikikatsuragawa.hatenablog.com/entry/2021/12/18/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ディープラーニングの際に個人的によく使うpythonコードまとめ",
+      "author" : "@okateru",
+      "day" : 19,
+      "url" : "https://qiita.com/okateru/items/1b90eab9483eb4ed38e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dockerでpython",
+      "author" : "@kaizen_nagoya",
+      "day" : 20,
+      "url" : "https://qiita.com/kaizen_nagoya/items/290b10c701724f22be53"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今いちばんオススメしたいPython本 2022",
+      "author" : "@shinyorke",
+      "day" : 21,
+      "url" : "https://shinyorke.hatenablog.com/entry/python2022"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "連携先のシステムがgzip対応してなくてもやりくりする方法",
+      "author" : "@n_slender",
+      "day" : 22,
+      "url" : "https://qiita.com/n_slender/items/e621666b7ef85f563c86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで学ぶ文字コード",
+      "author" : "@ny7760",
+      "day" : 23,
+      "url" : "https://qiita.com/ny7760/items/d9c247781a790210936d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@InaLab"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Brutus"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Python の asyncio は超便利",
+      "author" : "@waterada",
+      "day" : 1,
+      "url" : "https://qiita.com/waterada/items/1c03a7c863faf9327595"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "DeepL API x PySimpleGUIで翻訳支援アプリを作成",
+      "author" : "@NSsystems_DX",
+      "day" : 2,
+      "url" : "https://qiita.com/NSsystems_DX/items/18a01f195c31f1d1db8c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【図解】8行で機械学習【Python】",
+      "author" : "@NekoAllergy",
+      "day" : 3,
+      "url" : "https://zenn.dev/nekoallergy/articles/sklearn-nn-mlpclf01"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SageMaker Studio Lab 使ってみた",
+      "author" : "@nakagami",
+      "day" : 4,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-04"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "PyQt6の基本の使い方からのまとめとPyQt5との違い",
+      "author" : "@phyblas",
+      "day" : 5,
+      "url" : "https://qiita.com/phyblas/items/d56003904c83938823f2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Google App Engine（GAE）のスタンダード環境でFFmpegを使う方法",
+      "author" : "@sikkim",
+      "day" : 6,
+      "url" : "https://zenn.dev/sikkim/articles/3be1841603a06619fa2c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "TLS1.3 のラッパー書いた",
+      "author" : "@nakagami",
+      "day" : 7,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-07"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "決定木、ランダムフォレストのアルゴリズムを徹底解説！",
+      "author" : "@hydrogen_0330",
+      "day" : 8,
+      "url" : "https://qiita.com/hydrogen_0330/items/59dfa37ceb3bb19b6372"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Jupyter Notebook上で画像分類用のアノテーションをする",
+      "author" : "@yasudadesu",
+      "day" : 9,
+      "url" : "https://qiita.com/yasudadesu/items/f7f8fc3af984bcc55a55"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【備忘録】youtube-dlの使い方（まとめ）",
+      "author" : "@glyzinieh",
+      "day" : 10,
+      "url" : "https://qiita.com/glyzinieh/items/d0343b43a7926b23929a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "seabornでヒートマップを作ってみる",
+      "author" : "@kanjam12",
+      "day" : 11,
+      "url" : "https://qiita.com/kanjam12/items/c120c41542460d7056b8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "TwitterからPythonを使って競馬の予想を集める",
+      "author" : "@ZakkyR",
+      "day" : 12,
+      "url" : "https://qiita.com/ZakkyR/items/b44afb3c19f090632f20"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Pythonチュートリアル on Jupyter Notebook",
+      "author" : "@DeepTama",
+      "day" : 13,
+      "url" : "https://qiita.com/DeepTama/items/4bf9e3139471918eb0fe"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "paramiko を使い git リポジトリに ssh 接続をする",
+      "author" : "@nakagami",
+      "day" : 14,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-14"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ビンゴゲームと信頼性のあるプログラムの書き方",
+      "author" : "@fujitanaoki",
+      "day" : 15,
+      "url" : "https://note.com/naoki_fujita/n/n12bb9588eee4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Symmetric API Testing を Python で試す",
+      "author" : "@chanyou0311",
+      "day" : 16,
+      "url" : "https://chanyou.hatenablog.jp/entry/symmetric-api-testing-python"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Pythonの\"==\"演算子と\"is\"演算子の違いについて",
+      "author" : "@miso_taku",
+      "day" : 17,
+      "url" : "https://qiita.com/miso_taku/items/8e3d5bd012c23bddc6a6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "TouchDesignerでPythonを使ってみたい",
+      "author" : "@guravity",
+      "day" : 18,
+      "url" : "https://qiita.com/guravity/items/e32046face541ca48d5e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【アンサンブル学習を丁寧に解説】バギングとアダブーストの仕組みも解説します！！",
+      "author" : "@hydrogen_0330",
+      "day" : 19,
+      "url" : "https://qiita.com/hydrogen_0330/items/b32ff007f19258951118"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Python]基本的な計算を自分で書いて復習する",
+      "author" : "@simonritchie",
+      "day" : 20,
+      "url" : "https://qiita.com/simonritchie/items/4c19b723f623a3b3df8f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Pythonで簡単にGUIを作ろう！【PySimpleGUIケーススタディ】",
+      "author" : "@ku_a_i",
+      "day" : 21,
+      "url" : "https://qiita.com/ku_a_i/items/e3fe06f24741bb7d6db7"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22,
+      "author" : "@yasuaki9973"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Python における統計量・統計図のまとめ",
+      "author" : "@hamakou108",
+      "day" : 23,
+      "url" : "https://zenn.dev/hamakou108/articles/5896bfc162ba65"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24,
+      "author" : "@koralle"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@NGOhiroshi"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【WSL】Python+VSCode環境構築",
+      "author" : "@satto_sann",
+      "day" : 1,
+      "url" : "https://qiita.com/satto_sann/items/4c754595cf9119330c45"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "スマートなPythonistaになりましょう。",
+      "author" : "@tasuren",
+      "day" : 2,
+      "url" : "https://qiita.com/tasuren/items/2999f5c662c846260b36"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "selenium小技 (プロキシ/ヘッドレス)",
+      "author" : "@ryuichi1208",
+      "day" : 3,
+      "url" : "https://ryuichi1208.hateblo.jp/entry/2021/12/01/234631"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Python Boot Camp テキストで始める Python",
+      "author" : "@24motz",
+      "day" : 4,
+      "url" : "https://d.nishimotz.com/archives/2405"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Flask + SQLAlchemy でよさそうなトランザクション管理",
+      "author" : "@ijufumi",
+      "day" : 5,
+      "url" : "https://qiita.com/ijufumi/items/52abed9ce4205fd0eff3"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Unix環境でもPythonランチャーを使いたい",
+      "author" : "@3w36zj6",
+      "day" : 6,
+      "url" : "https://qiita.com/3w36zj6/items/cf1bd929c538082d5db3"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "PythonでUnicodeDecodeErrorが発生した時の対応",
+      "author" : "@ijufumi",
+      "day" : 7,
+      "url" : "https://qiita.com/ijufumi/items/3609a983cd0673383f69"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "poetry install で setup command: use_2to3 is invalid が発生した時の対応",
+      "author" : "@ijufumi",
+      "day" : 8,
+      "url" : "https://qiita.com/ijufumi/items/d1149f3d4c0034235799"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 9,
+      "author" : "@rabirion"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【物体検出】YOLOシリーズ最新版のYOLOXを試してみる　〜デモから学習まで〜",
+      "author" : "@hkwsdgea_ttt2",
+      "day" : 10,
+      "url" : "https://qiita.com/hkwsdgea_ttt2/items/970f34e1aa59059f7c69"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【覚書】Pythonのバージョン管理について",
+      "author" : "@glyzinieh",
+      "day" : 11,
+      "url" : "https://qiita.com/glyzinieh/items/1ad567c2f2268cd1c185"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "FlaskでのMigrationって結局どう運用するのが正しいのか",
+      "author" : "@higebobo",
+      "day" : 12,
+      "url" : "https://qiita.com/higebobo/items/0df815a7b6378854e39d"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Qiitaの自分の全ての投稿情報をダウンロードするPythonスクリプト",
+      "author" : "@youichi_io",
+      "day" : 13,
+      "url" : "https://qiita.com/youichi_io/items/861bd760e6b496cf2f4a"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "FastAPI+SvelteでWebSocketを動かしてみた",
+      "author" : "@sandfish03",
+      "day" : 14,
+      "url" : "https://sandfishfactory.hatenablog.com/entry/2021/12/14/000000"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "数式操作で便利なSymPyの入門",
+      "author" : "@simonritchie",
+      "day" : 15,
+      "url" : "https://qiita.com/simonritchie/items/44242479f0df86fffff5"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Global変数をmodule間やmainとmoduleの間で共有する方法",
+      "author" : "@ponnhide",
+      "day" : 16,
+      "url" : "https://qiita.com/ponnhide/items/35dcf52ec98a2a39839f"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "pytestプラグインだってテストされたい",
+      "author" : "@utgwkk",
+      "day" : 17,
+      "url" : "https://blog.utgw.net/entry/2021/12/17/093604"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "大学の評定平均(GPA)を簡単に計算するサービスをリリースしてみた",
+      "author" : "@Hagian",
+      "day" : 18,
+      "url" : "https://qiita.com/Hagian/items/4de129b6b5d3744515dc"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 19,
+      "author" : "@KMiura95"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Python】NiziUの誰に似ているのかAIが教えてくれるWebアプリを作ってみた",
+      "author" : "@YottyPG",
+      "day" : 20,
+      "url" : "https://qiita.com/YottyPG/items/ed425fa28ad0e4eb1200"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【え、簡単すぎ...!?】pythonで簡単にスクレイピング をしてみたメモ",
+      "author" : "@yutoun",
+      "day" : 21,
+      "url" : "https://qiita.com/yutoun/items/5ba4697550c27dd2b8d1"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "集合の基礎部分を絡めたSymPy操作",
+      "author" : "@simonritchie",
+      "day" : 22,
+      "url" : "https://qiita.com/simonritchie/items/10d3be5e35fff8f3f368"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "スマホでGoogleColabが使用できる件",
+      "author" : "@hisakichi95",
+      "day" : 23,
+      "url" : "https://qiita.com/hisakichi95/items/778059dceccd08b1630c"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 24,
+      "author" : "@kenbu"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25,
+      "author" : "@okpingu109"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "PyTorch向けの深層強化学習ライブラリPFRLを試してみた",
+      "author" : "@HGS_Naofumi",
+      "day" : 1,
+      "url" : "https://qiita.com/HGS_Naofumi/items/9cac3f4eb08b79efd072"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "mysql -u root -pで「ERROR 1045 (28000): Access denied..」「The server quit without updating PID file ...」が表示された時の解決法",
+      "author" : "@yutoun",
+      "day" : 20,
+      "url" : "https://qiita.com/yutoun/items/2ea452bb4a76e156e6eb"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "「Python Advent Calendar 2021」集計(1/3)",
+      "author" : "@kaizen_nagoya",
+      "day" : 21,
+      "url" : "https://qiita.com/kaizen_nagoya/items/1b7281a69eed47805e4a"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Pyrightのpip経由でのインストールと利用を試してみる",
+      "author" : "@simonritchie",
+      "day" : 24,
+      "url" : "https://qiita.com/simonritchie/items/045fd2373565f3e49036"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 25,
+      "author" : "@bellvine"
+    }
+  ]
+}

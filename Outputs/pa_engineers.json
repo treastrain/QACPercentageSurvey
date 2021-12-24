@@ -1,0 +1,135 @@
+{
+  "created_at" : "2021-12-24T11:58:45Z",
+  "calendar_meta_data" : {
+    "author" : "@umaniel_",
+    "category" : "企業・学校・団体",
+    "lgtm" : 9,
+    "subscribers" : 3,
+    "title" : "Phone Appli Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "pa_engineers",
+    "url" : "https://qiita.com/advent-calendar/2021/pa_engineers"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "独自 例外ハンドリング (基本）",
+      "author" : "@Scopi_T",
+      "day" : 5,
+      "url" : "https://qiita.com/Scopi_T/items/1c15750574c75c8ac9aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue.js環境で実装するダークモードデザイン",
+      "author" : "@sabineko",
+      "day" : 7,
+      "url" : "https://qiita.com/sabineko/items/39cd9978bf40ff0b6298"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@Scopi_T"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@hk_gawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年を振り返る Reviewing the Year",
+      "author" : "@tdtk_hatamoto",
+      "day" : 15,
+      "url" : "https://qiita.com/tdtk_hatamoto/items/729975e553bf573cad80"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google WorkspaceのアドオンでDriveとSlackを繋げてみた",
+      "author" : "@op71_kaz",
+      "day" : 17,
+      "url" : "https://qiita.com/op71_kaz/items/653ce750fe75b80331c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フルリモートになってからのデスク環境",
+      "author" : "@umaniel_",
+      "day" : 20,
+      "url" : "https://note.com/umaniel_/n/nf48ed2dcbce2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "始めに読むCTFを勉強する際の抑えないといけない法律",
+      "author" : "@liuhan",
+      "day" : 22,
+      "url" : "https://qiita.com/liuhan/items/c7b1098788b63d2d63b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

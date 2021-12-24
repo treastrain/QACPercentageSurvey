@@ -1,0 +1,164 @@
+{
+  "created_at" : "2021-12-24T04:05:32Z",
+  "calendar_meta_data" : {
+    "author" : "@dz_",
+    "category" : "企業・学校・団体",
+    "lgtm" : 7,
+    "subscribers" : 2,
+    "title" : "Code Polaris 2021 Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "code-polaris",
+    "url" : "https://qiita.com/advent-calendar/2021/code-polaris"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文系出身＆独学Webエンジニアでもできた、駆け出しエンジニアとしての生存戦略4選",
+      "author" : "@77web@github",
+      "day" : 2,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/02/for-beginner-programmer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSONについて勘違いしていたこと",
+      "author" : "@maiamea",
+      "day" : 3,
+      "url" : "https://qiita.com/maiamea/items/7a0fab584ccddb13963c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メタバース観察日記【2021年12月】",
+      "author" : "@Tomasheep",
+      "day" : 4,
+      "url" : "https://bibinbaleo.hatenablog.com/entry/2021/12/03/181300"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RTAイベント向け簡易背景システムをつくったよ",
+      "author" : "@takanasun",
+      "day" : 5,
+      "url" : "https://qiita.com/takanasun/items/e87a9a4501ebdd3d54a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで学び直す数学【集合・確率編】～例題を解きながら集合とリストの使い方を理解しよう",
+      "author" : "@mikako0115",
+      "day" : 7,
+      "url" : "https://qiita.com/mikako0115/items/1963feee0650305ff21a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで学び直す数学【関数とグラフ／微分と積分編】～Matplotlibを使ってグラフを描画してみよう",
+      "author" : "@mikako0115",
+      "day" : 8,
+      "url" : "https://qiita.com/mikako0115/items/e6ac0d851454d7dc866d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで学び直す数学【統計編】～統計指標の求め方／度数分布表を描画してみよう",
+      "author" : "@mikako0115",
+      "day" : 9,
+      "url" : "https://qiita.com/mikako0115/items/320fe7e5f341eb7c420f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウド スキル チャレンジ Microsoft Ignite: Azure Developer Challenge  やってみた",
+      "author" : "@bookshelf222",
+      "day" : 12,
+      "url" : "https://qiita.com/bookshelf222/items/23d0a07a5d25dee8b34f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【zsh】ターミナルをかわいくしたい！【powerlevel10k】",
+      "author" : "@831kirimi",
+      "day" : 14,
+      "url" : "https://qiita.com/831kirimi/items/582e0abc26dbd7776d9b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Studio CodeでRemote WSL拡張機能を使うための初期設定手順",
+      "author" : "@mikako0115",
+      "day" : 15,
+      "url" : "https://qiita.com/mikako0115/items/8104046adf3aed237ff2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@ioio3110is"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "駆け出しエンジニアはぜひ Azure を勉強してくれ",
+      "author" : "@Olivia_0707",
+      "day" : 17,
+      "url" : "https://olivia.jp/wordpress/?p=204"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@chisaki0120"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【開発メモ】ML Kitのバーコード認識を試してみた",
+      "author" : "@yukkiplaza",
+      "day" : 19,
+      "url" : "https://kojinjigyou.org/29230/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sassの魅力を知った瞬間✨",
+      "author" : "@azu_nyan",
+      "day" : 20,
+      "url" : "https://zenn.dev/azunasu/articles/7cc591b9f4bc0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "在宅勤務になって作ってみたミニプログラムたち",
+      "author" : "@Kyon0810",
+      "day" : 21,
+      "url" : "https://qiita.com/Kyon0810/items/8674ba98fa2494a6aa2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@supino"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQL 便利機能メモ",
+      "author" : "@toyotoyo_",
+      "day" : 23,
+      "url" : "https://qiita.com/toyotoyo_/items/dfd4f9117a7bca3a03ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@dz_"
+    }
+  ]
+}

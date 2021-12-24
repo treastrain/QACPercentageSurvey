@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-24T06:16:04Z",
+  "calendar_meta_data" : {
+    "author" : "はてな",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 16,
+    "title" : "はてなエンジニア Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "hatena",
+    "url" : "https://qiita.com/advent-calendar/2021/hatena"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "HTMLのdialog要素とフォーム機能",
+      "author" : "@nanto_vi",
+      "day" : 1,
+      "url" : "https://developer.hatenastaff.com/entry/2021/12/01/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Colaboratory でデータフローのドキュメントを書く試み",
+      "author" : "@pokutuna",
+      "day" : 2,
+      "url" : "https://blog.pokutuna.com/entry/dataflow-doc-on-colab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WoTのMODを作りたい",
+      "author" : "@gurrium",
+      "day" : 3,
+      "url" : "https://giarrium.hatenablog.com/entry/2021/12/03/035201"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社してから書いていた分報の行数を眺めてみる",
+      "author" : "@AnaTofuZ",
+      "day" : 4,
+      "url" : "https://anatofuz.hatenablog.com/entry/2021/12/04/185408"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンド関連で何か",
+      "author" : "@mizdra",
+      "day" : 5,
+      "url" : "https://www.mizdra.net/entry/2021/12/05/174303"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Xcodeテーマを自作しませんか？ #はてなエンジニアアドベントカレンダー2021",
+      "author" : "@yutailang0119",
+      "day" : 6,
+      "url" : "https://yutailang0119.hatenablog.com/entry/xcode-themes-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CTFで出題した問題の解説です",
+      "author" : "@theoremoon",
+      "day" : 7,
+      "url" : "https://furutsuki.hatenablog.com/entry/2021/12/07/020611"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "管理画面からBigQueryを使ってサクセスする",
+      "author" : "@cockscomb",
+      "day" : 8,
+      "url" : "https://developer.hatenastaff.com/entry/admin-screen-using-bigquery"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS S3バッチオペレーションのちょっとしたtipsなどのご紹介",
+      "author" : "@tkzwtks",
+      "day" : 9,
+      "url" : "https://blog.tkzwtks.net/entry/2021/12/09/093000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はてな記法のシンタックスハイライトに対応したVS Code拡張を作った",
+      "author" : "@stefafafan",
+      "day" : 10,
+      "url" : "https://stefafafan.hatenablog.com/entry/vscode-hatena"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "distrolessのnonrootイメージを使おう",
+      "author" : "@cohalz",
+      "day" : 11,
+      "url" : "https://cohalz.co/draft/entry/N7KFRZDWcOJUXuNlF4c7E8N6ihE"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " Perlで @EXPORT を @EXPORT_OK に置き換える",
+      "author" : "@papix",
+      "day" : 12,
+      "url" : "https://papix.hatenablog.com/entry/2021/12/12/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeBSDのZFSファイルサーバ再インストールRTAはーじまーるよー",
+      "author" : "@windymelt",
+      "day" : 13,
+      "url" : "https://blog.3qe.us/entry/2021/12/14/023539"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "作ったOSSライブラリが使われつつあるときに思うこと",
+      "author" : "@utgwkk",
+      "day" : 14,
+      "url" : "https://blog.utgw.net/entry/2021/12/14/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はてなにおけるCloudNative推進会の活動について",
+      "author" : "@masayosu",
+      "day" : 15,
+      "url" : "https://masayosu.hatenablog.com/entry/2021/12/15/130747"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsで次のリリースにどんな変更が含まれるかを可視化する",
+      "author" : "@kouki_dan",
+      "day" : 16,
+      "url" : "https://kouki.hatenadiary.com/entry/hatena-advent-calendar-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bitcoinのfull nodeをAWSでなるべく安く運用してみる",
+      "author" : "@dekokun",
+      "day" : 17,
+      "url" : "https://dekotech.dekokun.info/entry/2021/12/17/114014"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@onk@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Homebrew Formula の CI を GitHub Actions で行う",
+      "author" : "@astj",
+      "day" : 19,
+      "url" : "https://blog.astj.space/entry/2021/12/19/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『はてなリモートインターン2021 フロントエンドブートキャンプ 講義資料』についての補足など",
+      "author" : "@pastak",
+      "day" : 20,
+      "url" : "https://blog.pastak.net/entry/2021/12/20/122938"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイル推進活動にここ1年で吉兆がみえてきた要因について",
+      "author" : "@shimobayashi",
+      "day" : 21,
+      "url" : "https://shimobayashi.hatenablog.com/entry/2021/12/21/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DevTools の Web 技術でできている部分を覗き見る",
+      "author" : "@polamjag",
+      "day" : 22,
+      "url" : "https://polamjag.hatenablog.jp/entry/2021/12/22/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@NanimonoDaemon"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hatena Developer Blog 編集部の活動の紹介",
+      "author" : "@nabeop",
+      "day" : 24,
+      "url" : "https://developer.hatenastaff.com/entry/2021/12/24/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@motemen"
+    }
+  ]
+}

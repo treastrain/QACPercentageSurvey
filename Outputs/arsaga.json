@@ -1,0 +1,286 @@
+{
+  "created_at" : "2021-12-24T13:56:38Z",
+  "calendar_meta_data" : {
+    "author" : "アルサーガパートナーズ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 121,
+    "subscribers" : 1,
+    "title" : "アルサーガパートナーズ Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "arsaga",
+    "url" : "https://qiita.com/advent-calendar/2021/arsaga"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験から実務に入って読んでよかった良書たち",
+      "author" : "@cryptobox",
+      "day" : 1,
+      "url" : "https://qiita.com/cryptobox/items/08bf4889826318b4a6f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Larastanで静的解析したエラーをreviewdogでプルリクにコメントさせるよ",
+      "author" : "@ryo-futebol",
+      "day" : 2,
+      "url" : "https://qiita.com/ryo-futebol/items/11c9c96a1115392619b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js】ExpressとFirebase Admin SDKで画像アップロードを実装する",
+      "author" : "@1zushun",
+      "day" : 3,
+      "url" : "https://qiita.com/1zushun/items/edf18708e63315740355"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年度】使って便利だったSaasたち",
+      "author" : "@koffee0522",
+      "day" : 4,
+      "url" : "https://qiita.com/koffee0522/items/e7930263b5a784ad1fa1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js】Puppeteerで発生したUnhandledPromiseRejectionWarningエラーを解決する",
+      "author" : "@1zushun",
+      "day" : 5,
+      "url" : "https://qiita.com/1zushun/items/da40fed0dbfa6f12535b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "compositionAPIでyupとvee-validateを使ったバリデーションをする",
+      "author" : "@cryptobox",
+      "day" : 6,
+      "url" : "https://qiita.com/cryptobox/items/006c62f8870a4d11e0ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Storage for Firebase とmavonEditorでQiitaのような画像アップロード機能つきマークダウンフォームを作成しよう!",
+      "author" : "@nozomi_nozomi",
+      "day" : 7,
+      "url" : "https://qiita.com/nozomi_nozomi/items/a7f9f6c3890782a36d24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue+compositionAPIでiframe内のスクロールを検知する",
+      "author" : "@cryptobox",
+      "day" : 8,
+      "url" : "https://qiita.com/cryptobox/items/6db66421b75520ff86a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue3 composition API ベストプラクティス【英語プレゼン抄訳】",
+      "author" : "@herishiro",
+      "day" : 9,
+      "url" : "https://qiita.com/herishiro/items/bacfc84af95a1819a794"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js】ExpressとPassport.jsで認証機能を実装する",
+      "author" : "@1zushun",
+      "day" : 10,
+      "url" : "https://qiita.com/1zushun/items/db06c6bcff7de572f50c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Prisma] チートシート",
+      "author" : "@koffee0522",
+      "day" : 11,
+      "url" : "https://qiita.com/koffee0522/items/92be1826f1a150bfe62e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js】Line Messaging APIでLine Botを作るまでに躓いた箇所をまとめる",
+      "author" : "@1zushun",
+      "day" : 12,
+      "url" : "https://qiita.com/1zushun/items/083d57b011409b6ee260"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js】Expressとexpress-validatorでサインアップ機能にバリデーションをかける",
+      "author" : "@1zushun",
+      "day" : 13,
+      "url" : "https://qiita.com/1zushun/items/8ca66b3e53928655d647"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vuexを使用する際にvuex-module-decoratorsを用いて補完を効かせる",
+      "author" : "@peach_branch",
+      "day" : 14,
+      "url" : "https://qiita.com/peach_branch/items/508c94396836c95bc6f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.jsの情報を検索したいのにNuxt.jsの情報が出てきてしまう",
+      "author" : "@cryptobox",
+      "day" : 15,
+      "url" : "https://qiita.com/cryptobox/items/df11179d5c3f2c30b5d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めての Storybook ~ 環境構築からプロジェクトで呼び出すまで ~",
+      "author" : "@tk-yamamoto1216",
+      "day" : 16,
+      "url" : "https://qiita.com/tk-yamamoto1216/items/130b48f2b056a058f2ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js】ExpressとFirebase Admin SDKとJWTを使ってログイン機能を実装する",
+      "author" : "@1zushun",
+      "day" : 17,
+      "url" : "https://qiita.com/1zushun/items/0d48fa680fc03f44ef11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Amplify] 多対多のリレーション作成後、queriesが正しく生成されない",
+      "author" : "@nozomi_nozomi",
+      "day" : 18,
+      "url" : "https://qiita.com/nozomi_nozomi/items/3ffda4f1fcc557544e62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSSでスクロールバーを常時表示する",
+      "author" : "@cryptobox",
+      "day" : 19,
+      "url" : "https://qiita.com/cryptobox/items/98f022180fbe92dda5ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@koffee0522"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptでdate-fnsのlocaleを使っても曜日を日本語化できない",
+      "author" : "@cryptobox",
+      "day" : 21,
+      "url" : "https://qiita.com/cryptobox/items/51abb608fe18a93c911e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TailwindCSS】ボタンをホバーしたとき中身の要素も連動させて変化させる",
+      "author" : "@cryptobox",
+      "day" : 22,
+      "url" : "https://qiita.com/cryptobox/items/0c47db5907cd27a3cf7c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Node.js】Expressからaxiosを使ってバックエンドサーバーの画像を取得する際はresponseTypeにarrayBufferを指定する",
+      "author" : "@1zushun",
+      "day" : 23,
+      "url" : "https://qiita.com/1zushun/items/1d7382ac35ace477c7de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポートフォリオを公開してたらサイバー攻撃された話 〜Laravelで多重送信対策をしよう〜",
+      "author" : "@nasuB7373",
+      "day" : 24,
+      "url" : "https://qiita.com/nasuB7373/items/e2c5e16a824b11610b7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@1zushun"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

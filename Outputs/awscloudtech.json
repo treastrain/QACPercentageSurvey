@@ -1,0 +1,151 @@
+{
+  "created_at" : "2021-12-24T09:34:11Z",
+  "calendar_meta_data" : {
+    "author" : "CloudTech",
+    "category" : "企業・学校・団体",
+    "lgtm" : 60,
+    "subscribers" : 27,
+    "title" : "CloudTechカレンダー Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "awscloudtech",
+    "url" : "https://qiita.com/advent-calendar/2021/awscloudtech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Terraformer】panic: interface conversion: interface {} is nil, not stringの回避策",
+      "author" : "@stakakey",
+      "day" : 1,
+      "url" : "https://qiita.com/stakakey/items/5d59ed7888012f32d85a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "世にも奇妙な物語@AWS「あなたが使っているAWSアベイラビリティゾーン(略称AZ)-Aと、私が使っているAZ-Aは、違う世界かもしれない」",
+      "author" : "@RubiconLink",
+      "day" : 8,
+      "url" : "https://qiita.com/RubiconLink/items/8bec010ccbd71a22c41e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry PiにAWS IoT Greengrass V2をインストールしてLEDの点滅をリモートモニタリングする",
+      "author" : "@dsonoda",
+      "day" : 14,
+      "url" : "https://qiita.com/dsonoda/items/1c29497e2c8088296e88"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@yukkie1114"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormationでDjango環境構築",
+      "author" : "@zeems",
+      "day" : 16,
+      "url" : "https://qiita.com/zeems/items/e3f0d5cf4a787b46c1ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dynamodb-localのローカル環境での利用方法",
+      "author" : "@dai_engineer",
+      "day" : 17,
+      "url" : "https://qiita.com/dai_engineer/items/bf7f829063b40ddb1ea1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "貴様の幸せ度合いを数えろ ～ハピネススカウターを実際に作ってみた～",
+      "author" : "@ymd65536",
+      "day" : 18,
+      "url" : "https://qiita.com/ymd65536/items/f1d50596cdd1d76d1c7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "貴様の幸せ度合いを数えろ ～ハピネススカウターを実際に使ってみた～",
+      "author" : "@yuki-tech",
+      "day" : 19,
+      "url" : "https://qiita.com/yuki-tech/items/f80c400422eeddf8dea1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TypeScript】AWS CDKv2でサクッとLambda関数を作る",
+      "author" : "@tokkun5552",
+      "day" : 20,
+      "url" : "https://qiita.com/tokkun5552/items/9e5cf5ebc817cbd4602e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS Shield】Automatic application layer DDoS mitigationのルールを削除しちゃったら",
+      "author" : "@stakakey",
+      "day" : 21,
+      "url" : "https://qiita.com/stakakey/items/98f46ab7c7e0c3d6289b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC2環境でのRails6.0/MySQL構築手順",
+      "author" : "@yokku21",
+      "day" : 22,
+      "url" : "https://qiita.com/yokku21/items/e7b324072c3963449423"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@siromiascode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC2の料金タイプについて",
+      "author" : "@mo_ri_regen",
+      "day" : 24,
+      "url" : "https://zenn.dev/mo_ri_regen/articles/aws-ec2-cost-types"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@KurokawaKouhei"
+    }
+  ]
+}

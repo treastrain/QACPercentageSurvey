@@ -1,0 +1,138 @@
+{
+  "created_at" : "2021-12-24T09:20:24Z",
+  "calendar_meta_data" : {
+    "author" : "@kubotak",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 4,
+    "subscribers" : 75,
+    "title" : "Nuxt.js Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "nuxt-js",
+    "url" : "https://qiita.com/advent-calendar/2021/nuxt-js"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt Bridgeとは",
+      "author" : "@kubotak",
+      "day" : 1,
+      "url" : "https://kubotak.page/articles/1zMAE0c01TIKpHl75E5w2P"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@amishiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nuxt generate + S3 + CloudFront でログインチェック・リダイレクトをする",
+      "author" : "@negi0205",
+      "day" : 3,
+      "url" : "https://qiita.com/negi0205/items/65cdd81ebdf2210d738c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt(Vue) 2 だけど script setup 使ったら、体験良かった",
+      "author" : "@zaki_zaki",
+      "day" : 5,
+      "url" : "https://kic-yuuki.hatenablog.com/entry/nuxtjs-2-script-setup"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt.js + TypeScript + Composition APIで作るSPA",
+      "author" : "@mmclsntr",
+      "day" : 10,
+      "url" : "https://qiita.com/mmclsntr/items/15acb44ab1746f097a89"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NuxtのコンポーネントをWeb Componentとして利用する",
+      "author" : "@Skmt3P",
+      "day" : 11,
+      "url" : "https://zenn.dev/skmt3p/articles/7530a90736834bb8cb54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt.jsを「正しく」終了する",
+      "author" : "@SatohJohn",
+      "day" : 12,
+      "url" : "https://zenn.dev/satohjohn/articles/fd876409209ed1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@bumptakayuki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt.jsにGA導入するときにつまづいた点を書きます",
+      "author" : "@sueshin",
+      "day" : 24,
+      "url" : "https://zenn.dev/sueshin/articles/d67b40126ed12b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "created_at" : "2021-12-24T02:27:07Z",
+  "calendar_meta_data" : {
+    "author" : "@IIJ_ITS",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 5,
+    "title" : "IIJ 2021 TECHアドベントカレンダー Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "iij_its",
+    "url" : "https://qiita.com/advent-calendar/2021/iij_its"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "IIJ 2021 TECHアドベントカレンダー開催！",
+      "author" : "@IIJ_ITS",
+      "day" : 1,
+      "url" : "https://eng-blog.iij.ad.jp/adventcalendar2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SEILでつくる、“最強”ご家庭用ルータ ～ひかり電話無しプラン～",
+      "author" : "@IIJ_ITS",
+      "day" : 2,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11253"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HDD を消去しかけて復活させた話",
+      "author" : "@IIJ_ITS",
+      "day" : 3,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11606"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Markdownでスライドを作る、Marpのすゝめ",
+      "author" : "@IIJ_ITS",
+      "day" : 4,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11432"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インフラ歩きのすゝめ",
+      "author" : "@IIJ_ITS",
+      "day" : 5,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11497"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自然言語処理でトラフィック変化検知",
+      "author" : "@IIJ_ITS",
+      "day" : 6,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11055"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[IIJ Bootcamp] ハンズオン研修2021 開催報告",
+      "author" : "@IIJ_ITS",
+      "day" : 7,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11853"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IIJ Bootcampでちょっとだけムキムキになった話（新人目線の受講感想）",
+      "author" : "@IIJ_ITS",
+      "day" : 8,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11384"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTTP/2を利用する際はCipher Suiteを正しく設定しよう",
+      "author" : "@IIJ_ITS",
+      "day" : 9,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11765"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Happy Hacking Keyboard 誕生の経緯",
+      "author" : "@IIJ_ITS",
+      "day" : 10,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11715"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インターネットとサービス品質",
+      "author" : "@IIJ_ITS",
+      "day" : 11,
+      "url" : "https://eng-blog.iij.ad.jp/archives/4197"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft Power Virtual AgentsでおみくじBotを作る",
+      "author" : "@IIJ_ITS",
+      "day" : 12,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11272"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Linux で Teams や Zoom 会議に爽やかな BGM を流す",
+      "author" : "@IIJ_ITS",
+      "day" : 13,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11842"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IoT米、ことしも作りました！",
+      "author" : "@IIJ_ITS",
+      "day" : 14,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11932"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テーマは\"IIJエンジニア図鑑\"。IIJ Technical WEEKを1月18日～ 21日にオンラインで開催！",
+      "author" : "@IIJ_ITS",
+      "day" : 15,
+      "url" : "https://eng-blog.iij.ad.jp/archives/12304"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "我が家のおうちKubernetesの成長記録",
+      "author" : "@IIJ_ITS",
+      "day" : 16,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11900"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コピペでOK！アメダスのデータをそれっぽく可視化してみよう",
+      "author" : "@IIJ_ITS",
+      "day" : 17,
+      "url" : "https://eng-blog.iij.ad.jp/archives/12200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubからJenkinsとTerraformを使って仮想マシンをデプロイしてみた",
+      "author" : "@IIJ_ITS",
+      "day" : 18,
+      "url" : "https://eng-blog.iij.ad.jp/archives/12096"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetesクラスタへのアクセス権限をブートストラップする",
+      "author" : "@IIJ_ITS",
+      "day" : 19,
+      "url" : "https://eng-blog.iij.ad.jp/archives/5104"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "迷惑メールの歩き方",
+      "author" : "@IIJ_ITS",
+      "day" : 20,
+      "url" : "https://eng-blog.iij.ad.jp/archives/12351"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムマスター１年生",
+      "author" : "@IIJ_ITS",
+      "day" : 21,
+      "url" : "https://eng-blog.iij.ad.jp/archives/12041"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システムコールを速く漏れなくフックする方法",
+      "author" : "@IIJ_ITS",
+      "day" : 22,
+      "url" : "https://eng-blog.iij.ad.jp/archives/11169"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate を使ってはんこプロセスを自動化する",
+      "author" : "@IIJ_ITS",
+      "day" : 23,
+      "url" : "https://eng-blog.iij.ad.jp/archives/12002"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Metaverseは誰のもの？",
+      "author" : "@IIJ_ITS",
+      "day" : 24,
+      "url" : "https://eng-blog.iij.ad.jp/archives/12401"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

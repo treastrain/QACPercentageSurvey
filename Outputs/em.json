@@ -1,0 +1,324 @@
+{
+  "created_at" : "2021-12-24T10:59:32Z",
+  "calendar_meta_data" : {
+    "author" : "@hidenorigoto",
+    "category" : "その他",
+    "lgtm" : 71,
+    "subscribers" : 101,
+    "title" : "Engineering Manager Advent Calendar 2021",
+    "participants" : 37,
+    "unique_name" : "em",
+    "url" : "https://qiita.com/advent-calendar/2021/em"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ミンツバーグのマネジメントプレーンを使った振り返り",
+      "author" : "@hidenorigoto",
+      "day" : 1,
+      "url" : "https://note.com/hidenorigoto/n/nf1ac9aaba7a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かつてEMをやりたくなかった俺たちへ",
+      "author" : "@naopr",
+      "day" : 2,
+      "url" : "https://naopr.hatenablog.com/entry/2021/12/02/000008"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2つの事例から見るエンジニアリングマネジメント業務の再現性",
+      "author" : "@boscoworks",
+      "day" : 3,
+      "url" : "https://note.com/boscoworks/n/n77bdb0975df8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "心理的安全性をもたらすには",
+      "author" : "@tunepolo",
+      "day" : 4,
+      "url" : "https://tune.hatenadiary.jp/entry/2021/12/04/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "駆け出したあと、EMとして走り続けている理由",
+      "author" : "@WdknWdkn",
+      "day" : 5,
+      "url" : "https://qiita.com/WdknWdkn/items/9218aa4bbcf63ffdbd1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜDiversity&Inclusionがプロダクト開発組織を強くするのか？",
+      "author" : "@yoichitgy",
+      "day" : 6,
+      "url" : "https://note.com/yoichitgy/n/na979b69cd223"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "四半期末ふりかえりでKPTをやめてみたらエモくなった話",
+      "author" : "@Peranikov",
+      "day" : 7,
+      "url" : "https://note.com/peranikov/n/n4a5475e7eabb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アウトプットする文化作りを1年間取り組んだ",
+      "author" : "@takedajs",
+      "day" : 8,
+      "url" : "https://takedajs.hatenablog.jp/entry/2021/12/08/083940"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャーはじめました(2周目)",
+      "author" : "@yo-iida",
+      "day" : 9,
+      "url" : "https://note.com/ysk_118/n/n85cb57ad2840"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "専任のEngineering Managerはいないけど、みんなで最高の組織を作ってるよ、という話",
+      "author" : "@satotoru",
+      "day" : 10,
+      "url" : "https://tech.speee.jp/entry/em-dx-history-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "安全性のヒント",
+      "author" : "@umerin",
+      "day" : 11,
+      "url" : "https://qiita.com/umerin/items/96571e46061f0719ec95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マネジメントの中心に何があるのか",
+      "author" : "@dskst",
+      "day" : 12,
+      "url" : "https://steam.place/entry/2021/12/12/083708"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリング・マネージャーとして大切にしている心構え",
+      "author" : "@mnmandahalf",
+      "day" : 13,
+      "url" : "https://qiita.com/mnmandahalf/items/cdb56656dbbbbdf2d048"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャーの権限委譲について思考と整理",
+      "author" : "@katsumata_ryo",
+      "day" : 14,
+      "url" : "https://note.katsumataryo.com/oshigoto/2021/12/2094.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人事チームでガチめにスクラム導入した話し",
+      "author" : "@tweeeety",
+      "day" : 15,
+      "url" : "https://note.com/tweeeety/n/nb2e62a6b6ad8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "成果を出し続けるチームを作るために",
+      "author" : "@r4-keisuke",
+      "day" : 16,
+      "url" : "https://note.com/r5keisuke/n/n3657da228db9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "平等について",
+      "author" : "@taka66",
+      "day" : 17,
+      "url" : "https://note.com/takahirofujii/n/n75d924537900"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャに捧ぐ、積ん読を切り崩すための読書法",
+      "author" : "@expajp",
+      "day" : 18,
+      "url" : "https://qiita.com/expajp/items/37d799d287c3fff66cf5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャーとして組織的課題に立ち向かい、チームに継続的デリバリーを導入した",
+      "author" : "@monisoi",
+      "day" : 19,
+      "url" : "https://qiita.com/monisoi/items/7f7b9babb761920579d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャーが等級制度を作るときの7つの注意点",
+      "author" : "@unlearned",
+      "day" : 20,
+      "url" : "https://note.com/unlearned/n/n4eb37c21f6a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術的負債は開発者体験を悪化させる",
+      "author" : "@mtx2s",
+      "day" : 21,
+      "url" : "https://mtx2s.hatenablog.com/entry/2021/12/21/084227"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "10年エンジニアリングマネージャーをやって気づいた4つの大事なポイント 【EMはもっと自由でいい】",
+      "author" : "@taipuka0",
+      "day" : 22,
+      "url" : "https://tech-blog.monotaro.com/entry/2021/12/22/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャのリーダーシップ",
+      "author" : "@newta",
+      "day" : 23,
+      "url" : "https://qiita.com/newta/items/fc44fc0a9e0c85a14756"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@hiraiva"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@itohiro73"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "リモートワーク下での開発チームのカルチャー・バリュー作り。 カミナシ開発チームが取り組んだ3つのこと",
+      "author" : "@dmiya",
+      "day" : 1,
+      "url" : "https://note.com/d_miyamoto/n/n96491d7edc64"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SRE チームで Engineering Manager になって二ヶ月経っての心境など",
+      "author" : "@chaspy",
+      "day" : 2,
+      "url" : "https://blog.chaspy.me/entry/becoming-engineering-manager"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニアリングマネージャーはMeetyでいろいろな方と話すと良いよという話",
+      "author" : "@hidenorigoto",
+      "day" : 5,
+      "url" : "https://note.com/hidenorigoto/n/ndf99e93b27f3"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニアリングマネージャー必読の翻訳書 7選",
+      "author" : "@yando",
+      "day" : 9,
+      "url" : "https://yandod.github.io/blog/2021/12/08/tech-company-manager-book/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "アプリエンジニアだった僕がEMやってる話。不得意と戦うための4つの「〇〇化」",
+      "author" : "@jumbOrNot",
+      "day" : 11,
+      "url" : "https://offers.jp/media/sidejob/workstyle/a_2115"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Engineering Managementを学びたいときに読みたい本一覧",
+      "author" : "@getty104",
+      "day" : 12,
+      "url" : "https://qiita.com/getty104/items/ca2d60750ec4887b2baa"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13,
+      "author" : "@s_harada"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "EMになりたての頃の自分へ伝えたいこと",
+      "author" : "@katsumata_ryo",
+      "day" : 15,
+      "url" : "https://tech.hey.jp/entry/2021/12/12/070000"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Notion おじさん Jr. が EM として意識しているお仕事",
+      "author" : "@bon0701",
+      "day" : 17,
+      "url" : "https://bon.super.site/blog-entry/em-advent-calendar-2021"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニアリングマネージャーが新規事業開発にチャレンジして得た気づきと学び",
+      "author" : "@decafe09",
+      "day" : 18,
+      "url" : "https://blog.techscore.com/entry/2021/12/18/080000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「いい感じにして欲しい」ミッションに基づいたオファー／曖昧ロール型雇用の難しさ",
+      "author" : "@makaibito",
+      "day" : 19,
+      "url" : "https://note.com/makaibito/n/ndbe7b7517519"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "EMが転職後の焦りと仲良く付き合っていくためにやったこと",
+      "author" : "@chomemaru3",
+      "day" : 20,
+      "url" : "https://chomelog.hatenablog.com/entry/20211218/1639818934"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "1on1を効果的に使い分ける",
+      "author" : "@shitake4",
+      "day" : 21,
+      "url" : "https://blog.shitake4.tech/entry/2021/12/21/1on1%E3%82%92%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AB%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@S-T"
+    }
+  ]
+}

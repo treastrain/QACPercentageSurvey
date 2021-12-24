@@ -1,0 +1,146 @@
+{
+  "created_at" : "2021-12-24T10:04:04Z",
+  "calendar_meta_data" : {
+    "author" : "@TECHCAFE_nagoya",
+    "category" : "企業・学校・団体",
+    "lgtm" : 4,
+    "subscribers" : 1,
+    "title" : "TECHCAFE×TAIR Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "techcafe_tair",
+    "url" : "https://qiita.com/advent-calendar/2021/techcafe_tair"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "現在の深層学習の基礎を築いた研究者たちについてまとめてみた",
+      "author" : "@akmsk",
+      "day" : 1,
+      "url" : "https://qiita.com/akmsk/items/b76a9e131eb9dbf8f968"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英文PDF の翻訳プログラムを作成！！ (DeepL + PyMuPDF)",
+      "author" : "@crinoid",
+      "day" : 2,
+      "url" : "https://ai-research-collection.com/translate_pdf/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker × socket.ioについて",
+      "author" : "@MitsuYashi",
+      "day" : 5,
+      "url" : "https://zenn.dev/mitsuhaya/articles/5eac66886f6496"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kaggle Activeコンペ まとめ (2021年12月現在)",
+      "author" : "@crinoid",
+      "day" : 7,
+      "url" : "https://ai-research-collection.com/kaggle-active-202112/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@yushimasu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習をゼロから学ぶための勉強法 | 1. 基礎知識を身につける",
+      "author" : "@crinoid",
+      "day" : 12,
+      "url" : "https://ai-research-collection.com/ml_tutorial1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ょゎょゎ学生によるAdversarial examplesの解説",
+      "author" : "@matsunono",
+      "day" : 14,
+      "url" : "https://qiita.com/matsunono/items/ab0c582b5461a6e14672"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習をゼロから学ぶための勉強法 | 2. ライブラリの使い方を理解",
+      "author" : "@crinoid",
+      "day" : 15,
+      "url" : "https://ai-research-collection.com/ml_tutorial2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1年で100記事を書いてみた！",
+      "author" : "@crinoid",
+      "day" : 16,
+      "url" : "https://ai-research-collection.com/2021_summary"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript と Replit で Discord Bot を作る",
+      "author" : "@novriold",
+      "day" : 20,
+      "url" : "https://zenn.dev/nov/articles/discord_bot_by_typescript"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pytorchの学習済みモデルをC++で使用する方法",
+      "author" : "@TatsuyaOkazaki",
+      "day" : 24,
+      "url" : "https://tatsuya-note.com/trained-model-created-in-pytorch-in-cpp/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

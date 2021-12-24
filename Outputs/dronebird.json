@@ -1,0 +1,286 @@
+{
+  "created_at" : "2021-12-24T05:19:05Z",
+  "calendar_meta_data" : {
+    "author" : "@mapconcierge",
+    "category" : "企業・学校・団体",
+    "lgtm" : 1,
+    "subscribers" : 4,
+    "title" : " 災害ドローン救援隊 DRONEBIRD Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "dronebird",
+    "url" : "https://qiita.com/advent-calendar/2021/dronebird"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "人道支援マッピングについて書きました！",
+      "author" : "@mapconcierge",
+      "day" : 1,
+      "url" : "https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%81%AB%E3%81%AA%E3%81%8410%E5%84%84%E3%81%AE%E4%BA%BA%E3%80%85-775d037a94eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Droneの使用済みバッテリーの処分方法についてまとめ",
+      "author" : "@zeee_plus",
+      "day" : 2,
+      "url" : "https://qiita.com/zeee_plus/items/03c1e04617a85a75b5b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドローンでマシュマロキャッチができるまで！",
+      "author" : "@taniplus1",
+      "day" : 3,
+      "url" : "https://qiita.com/taniplus1/items/3c427fac1213d20800fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "高田橋の紅葉を点群化（法面を点群化する方法）執筆中",
+      "author" : "@NashiTakahashi",
+      "day" : 4,
+      "url" : "https://qiita.com/NashiTakahashi/items/397990c86f6886f4da70"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自然エネルギーとドローンについて",
+      "author" : "@Nakazono-wolf",
+      "day" : 7,
+      "url" : "https://hubs.la/Q010p0qq0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デジタルマップを作る道具一覧",
+      "author" : "@NashiTakahashi",
+      "day" : 8,
+      "url" : "https://qiita.com/NashiTakahashi/items/e7c1678734cdf34ee2ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "固定翼機の離陸角度の失敗例についての考察",
+      "author" : "@zeee_plus",
+      "day" : 10,
+      "url" : "https://qiita.com/zeee_plus/items/543992308f0e7ee0074b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドローンについて",
+      "author" : "@masasaru",
+      "day" : 11,
+      "url" : "https://qiita.com/masasaru/items/4e3d72100196dbd972da"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@dragon55"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@haguregumo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "固定翼機の離発着場所の選定について2021",
+      "author" : "@zeee_plus",
+      "day" : 18,
+      "url" : "https://qiita.com/zeee_plus/items/256227cf5f7c74ccee2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自事業紹介と現場",
+      "author" : "@SkyoceanLLC",
+      "day" : 19,
+      "url" : "https://qiita.com/SkyoceanLLC/items/101e079a85d1dbf49731"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "測量会社がUAVに参入しない理由",
+      "author" : "@chitomi",
+      "day" : 20,
+      "url" : "https://note.com/chitomi/n/n65f9f2d02d44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "空の障害物について",
+      "author" : "@zeee_plus",
+      "day" : 21,
+      "url" : "https://qiita.com/zeee_plus/items/31167d3da5f674ed56b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@kmini32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Japan Flying Labsって何？",
+      "author" : "@wdolphin",
+      "day" : 23,
+      "url" : "https://qiita.com/wdolphin/items/ab8553a32d31a55df80d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@mapconcierge"
+    }
+  ]
+}

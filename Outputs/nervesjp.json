@@ -1,0 +1,345 @@
+{
+  "created_at" : "2021-12-24T11:42:52Z",
+  "calendar_meta_data" : {
+    "author" : "@takasehideki",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 246,
+    "subscribers" : 7,
+    "title" : "#NervesJP Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "nervesjp",
+    "url" : "https://qiita.com/advent-calendar/2021/nervesjp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Nerves電子ペーパーでHello world",
+      "author" : "@mnishiguchi",
+      "day" : 1,
+      "url" : "https://qiita.com/mnishiguchi/items/f709d6c211cf41078f2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hello Bob!! hexpm/elixirで(Rclexの)Docker環境を整備する",
+      "author" : "@takasehideki",
+      "day" : 2,
+      "url" : "https://qiita.com/takasehideki/items/6a6e342a41f4fd8248fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "elixir-desktop/desktop のandroidサンプルをイゴかす",
+      "author" : "@torifukukaiou",
+      "day" : 3,
+      "url" : "https://qiita.com/torifukukaiou/items/5458458e2ec1bcee5152"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@kikuyuta"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elixir】rclexから始めるROS 2 (2021/12/05)",
+      "author" : "@torifukukaiou",
+      "day" : 5,
+      "url" : "https://qiita.com/torifukukaiou/items/9802f2f26f15778679d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElixirでMODBUS（FX5U～PC間通信）",
+      "author" : "@myasu",
+      "day" : 6,
+      "url" : "https://qiita.com/myasu/items/6d342ea875ee71a723c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixir Circuits.I2CをMoxする",
+      "author" : "@mnishiguchi",
+      "day" : 7,
+      "url" : "https://qiita.com/mnishiguchi/items/7fda38e6becfd57d6d8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nerves meets SORACOM (Elixir)",
+      "author" : "@torifukukaiou",
+      "day" : 8,
+      "url" : "https://qiita.com/torifukukaiou/items/3a77efc82c48dc0ff61e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Erlang VMのprocess_flagのmessage_queue_dataのon_heapとoff_heapで軽く性能評価してみました",
+      "author" : "@zacky1972",
+      "day" : 9,
+      "url" : "https://qiita.com/zacky1972/items/fc10dc46f241ab94f50a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nerves で GPS Loggerを作ってみた",
+      "author" : "@the_haigo",
+      "day" : 10,
+      "url" : "https://qiita.com/the_haigo/items/a941f769ed1e60e382eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nervesにユーザ名／パスワードでSSHログインする",
+      "author" : "@nishiuchikazuma",
+      "day" : 11,
+      "url" : "https://qiita.com/nishiuchikazuma/items/80942febe11add1f405c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Third-party JS packages on Phoenix 1.6 (2021/12/12)",
+      "author" : "@torifukukaiou",
+      "day" : 12,
+      "url" : "https://qiita.com/torifukukaiou/items/c006fab0621630398d4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenix 1.6でSCSSを使いたい",
+      "author" : "@mnishiguchi",
+      "day" : 13,
+      "url" : "https://qiita.com/mnishiguchi/items/89ef66b7e3a9a07d9f49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nerves meets SORACOM Harvest ",
+      "author" : "@torifukukaiou",
+      "day" : 14,
+      "url" : "https://qiita.com/torifukukaiou/items/29f3ebd974edcde8abf3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "よげんの書 ── SORACOM UG x NervesJP #1 ~Hello, world!~ レポート",
+      "author" : "@torifukukaiou",
+      "day" : 15,
+      "url" : "https://qiita.com/torifukukaiou/items/bfb827fd97c70e89c427"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【毎日自動更新】マイクロソフト認定資格を取得する際の学習方法や経験談、おすすめ学習リソースなどを紹介しよう！(2021/11/11–2021/12/10) LGTMランキング！",
+      "author" : "@torifukukaiou",
+      "day" : 16,
+      "url" : "https://qiita.com/torifukukaiou/items/5105eed1aff115b8a4ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "毎日自動更新！　記事の舞台裏 -- Nerves on Raspberry Pi 2大活躍 🚀🚀🚀",
+      "author" : "@torifukukaiou",
+      "day" : 17,
+      "url" : "https://qiita.com/torifukukaiou/items/a58aa8162422f560ef64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビット操作関数 Bitwise を使ってみる",
+      "author" : "@kikuyuta",
+      "day" : 18,
+      "url" : "https://qiita.com/kikuyuta/items/7212ea7c190b303aa606"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "asdf でよく使うコマンド ── それは asdf",
+      "author" : "@torifukukaiou",
+      "day" : 19,
+      "url" : "https://qiita.com/torifukukaiou/items/9009191de6873664bb58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Livebookを楽しむ (Elixir)",
+      "author" : "@torifukukaiou",
+      "day" : 20,
+      "url" : "https://qiita.com/torifukukaiou/items/223ad0fe1aa67a9fb151"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "banditをイゴかしてみる",
+      "author" : "@torifukukaiou",
+      "day" : 21,
+      "url" : "https://qiita.com/torifukukaiou/items/d31efea6cd4320bfbc59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NervesでRustの関数をNIFとして呼び出す最小の手順（Rustlerを使用）",
+      "author" : "@tatsuya6502",
+      "day" : 22,
+      "url" : "https://qiita.com/tatsuya6502/items/04d2bb1fbb05735be18b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オレオレハード＋Nervesの設計モデルを考えて実装したよ！",
+      "author" : "@32hero",
+      "day" : 23,
+      "url" : "https://qiita.com/32hero/items/58c9d7d37786cb1fcd43"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nerves大好きな僕が2021年にしたこと",
+      "author" : "@pojiro",
+      "day" : 24,
+      "url" : "https://qiita.com/pojiro/items/30b6ef01c32882fc7c19"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@takasehideki"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "hello_nervesのNervesをupgradeする (Elixir)",
+      "author" : "@torifukukaiou",
+      "day" : 1,
+      "url" : "https://qiita.com/torifukukaiou/items/3113250e7920eee756cc"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2,
+      "author" : "@kikuyuta"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Nerves Livebook Firmwareを使って温度・湿度のグラフをかいてみる",
+      "author" : "@torifukukaiou",
+      "day" : 3,
+      "url" : "https://qiita.com/torifukukaiou/items/dfe1577004f36b8b77d7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Elixirでサーボ制御",
+      "author" : "@mnishiguchi",
+      "day" : 4,
+      "url" : "https://qiita.com/mnishiguchi/items/5b3aadb26850a36d58f2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "日本語で書かれた記事を海外のトモダチに英語で伝えたい",
+      "author" : "@torifukukaiou",
+      "day" : 5,
+      "url" : "https://qiita.com/torifukukaiou/items/86466a2e0b2e874f2fa3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "NervesのIExをElixirカラーにしたい",
+      "author" : "@mnishiguchi",
+      "day" : 6,
+      "url" : "https://qiita.com/mnishiguchi/items/27f08f13c99eeac0a96d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【続】SORACOM x Nerves できたとはいえるとぼくおもいます",
+      "author" : "@torifukukaiou",
+      "day" : 7,
+      "url" : "https://qiita.com/torifukukaiou/items/efe528f8dbd1012ba37e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Elixir・Nervesで複数のラズパイと通信したい",
+      "author" : "@mnishiguchi",
+      "day" : 8,
+      "url" : "https://qiita.com/mnishiguchi/items/42785af280b378187c19"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Customizing Your Own Nerves System の前半をまずやってみる (Elixir)",
+      "author" : "@torifukukaiou",
+      "day" : 9,
+      "url" : "https://qiita.com/torifukukaiou/items/71c3aaaee999ac1b7617"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ElixirでDYP-A01超音波距離センサー",
+      "author" : "@mnishiguchi",
+      "day" : 10,
+      "url" : "https://qiita.com/mnishiguchi/items/dd2fbf53a8b32b0984fb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ElixirでText to Speech REST API(Azure, ニューラル音声)を使ってみて、フレンドリーなヴォイスに驚く",
+      "author" : "@torifukukaiou",
+      "day" : 11,
+      "url" : "https://qiita.com/torifukukaiou/items/4ce31ea7f6041aae68be"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ElixirのAccess behaviourを完全に理解した",
+      "author" : "@mnishiguchi",
+      "day" : 12,
+      "url" : "https://qiita.com/mnishiguchi/items/3d894842aebd36f30c84"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ローカルにたてたFIWARE Orion Context BrokerにNervesで取得した温度・湿度データを送ってみました",
+      "author" : "@torifukukaiou",
+      "day" : 13,
+      "url" : "https://qiita.com/torifukukaiou/items/fad466eee261b619c781"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ElixirでPNGを画像をRGBA形式の行列に変換したい",
+      "author" : "@mnishiguchi",
+      "day" : 14,
+      "url" : "https://qiita.com/mnishiguchi/items/7be5b170a1a148b22039"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15,
+      "author" : "@kikuyuta"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "NervesのIExをカスタマイズしたい",
+      "author" : "@mnishiguchi",
+      "day" : 16,
+      "url" : "https://qiita.com/mnishiguchi/items/9e259b8836054bb5cb34"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17,
+      "author" : "@kikuyuta"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19,
+      "author" : "@kikuyuta"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Elixirでアスキーアートしたい",
+      "author" : "@mnishiguchi",
+      "day" : 20,
+      "url" : "https://qiita.com/mnishiguchi/items/f167978c690c358b49d1"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21,
+      "author" : "@kikuyuta"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "NervesでUTCでなくローカルタイムで時間を表示したい",
+      "author" : "@mnishiguchi",
+      "day" : 22,
+      "url" : "https://qiita.com/mnishiguchi/items/f2be3e393c2fb895fc94"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Nerves Livebook demo in e-ZUKA (Nerves LivebookでクリスマスLチカ ーー うまくイゴきますように)",
+      "author" : "@torifukukaiou",
+      "day" : 23,
+      "url" : "https://qiita.com/torifukukaiou/items/173a6d86d7a15649c5b5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "NervesとPhoenixでPonchoしたい",
+      "author" : "@mnishiguchi",
+      "day" : 24,
+      "url" : "https://qiita.com/mnishiguchi/items/99cb5dae38e4abcac326"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

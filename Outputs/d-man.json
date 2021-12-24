@@ -1,0 +1,148 @@
+{
+  "created_at" : "2021-12-24T11:09:00Z",
+  "calendar_meta_data" : {
+    "author" : "@lempiji",
+    "category" : "プログラミング言語",
+    "lgtm" : 4,
+    "subscribers" : 16,
+    "title" : "D言語くん Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "d-man",
+    "url" : "https://qiita.com/advent-calendar/2021/d-man"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語くん Update 2021",
+      "author" : "@simd_nyan",
+      "day" : 1,
+      "url" : "https://gist.github.com/simdnyan/fc703dbd3a3805ce537a77cbc7269c06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dかわ",
+      "author" : "@nuka000",
+      "day" : 2,
+      "url" : "https://twitter.com/nuka000/status/1466060812871602184"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ひたすらD言語くんをなでる一時期流行ったやつ",
+      "author" : "@lempiji",
+      "day" : 3,
+      "url" : "https://dman.wants.pet"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語くんと秘密のレポート3 （脆弱性対応作業の流れと記録）",
+      "author" : "@lempiji",
+      "day" : 4,
+      "url" : "https://qiita.com/lempiji/items/d9d3433e69413319d028"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dカー",
+      "author" : "@nuka000",
+      "day" : 7,
+      "url" : "https://twitter.com/nuka000/status/1468152593734332416"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@outlandkarasu@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EmacsでD言語くん",
+      "author" : "@kari_tech",
+      "day" : 12,
+      "url" : "https://karita.xyz/log/posts/emacs-dman/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語くんのアバター",
+      "author" : "@ray45422",
+      "day" : 14,
+      "url" : "https://twitter.com/ray45422/status/1470759570150944768"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サンタさんを待つD言語くん",
+      "author" : "@t-sin",
+      "day" : 15,
+      "url" : "https://twitter.com/sin_clav/status/1471140494222950405"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語くんとゆかいな仲間たち",
+      "author" : "@fifth_tea",
+      "day" : 22,
+      "url" : "https://twitter.com/igo_fifth/status/1473658653966499841?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "反転してもD言語くんなのは何故か考察",
+      "author" : "@nuka000",
+      "day" : 23,
+      "url" : "https://note.com/nuka000/n/n993bf5e4a858"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@nonanonno"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@simd_nyan"
+    }
+  ]
+}

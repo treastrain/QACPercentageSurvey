@@ -1,0 +1,127 @@
+{
+  "created_at" : "2021-12-24T04:07:37Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ユビレジ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "Ubiregi Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "ubiregi",
+    "url" : "https://qiita.com/advent-calendar/2021/ubiregi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "技術的負債としてのトマソン",
+      "author" : "@pomu0325",
+      "day" : 1,
+      "url" : "https://zenn.dev/pomu0325/articles/55f44cc17cd59d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜuseEffect内のsetIntervalでハマるのか",
+      "author" : "@koja1234",
+      "day" : 2,
+      "url" : "https://zenn.dev/kakaka/articles/41f22d2dcc9720"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人的炎上プロジェクト対応心得集",
+      "author" : "@rerenote",
+      "day" : 10,
+      "url" : "https://rerenote.hatenablog.com/entry/2021/12/10/230202"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ワーケーション",
+      "author" : "@kitaindia",
+      "day" : 18,
+      "url" : "https://note.com/kitaindia/n/n9297a6ecf99e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

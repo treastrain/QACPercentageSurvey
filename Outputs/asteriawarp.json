@@ -1,0 +1,160 @@
+{
+  "created_at" : "2021-12-24T06:43:43Z",
+  "calendar_meta_data" : {
+    "author" : "@Asteria_Community",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 62,
+    "subscribers" : 5,
+    "title" : "ASTERIA Warp Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "asteriawarp",
+    "url" : "https://qiita.com/advent-calendar/2021/asteriawarp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows 11でASTERIA Warpを試してみた",
+      "author" : "@zrock",
+      "day" : 1,
+      "url" : "https://qiita.com/zrock/items/88924e403b27d63f567f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA WARPでAzure CosmosDBにアップロードする",
+      "author" : "@gx_chan",
+      "day" : 2,
+      "url" : "https://qiita.com/gx_chan/items/ff35f1bc065197824273"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA Warpインストール時に選択すべきJavaについて",
+      "author" : "@kojimark",
+      "day" : 3,
+      "url" : "https://qiita.com/kojimark/items/21c4af716716a6921e4e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA WarpでDocuSign APIを使ってみた",
+      "author" : "@nagatasci",
+      "day" : 7,
+      "url" : "https://qiita.com/nagatasci/items/d987baadcf2f49b749b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KotlinでASTERIA Warpのカスタムコンポーネントを作成する",
+      "author" : "@f-miyu",
+      "day" : 9,
+      "url" : "https://qiita.com/f-miyu/items/433a29a111389b06fd74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのASTERIA でGoogle スプレッドシート連携！",
+      "author" : "@y-tsushima",
+      "day" : 10,
+      "url" : "https://qiita.com/y-tsushima/items/3ec463104efc46820baa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA WarpでPlatioとkintoneをつないでみた",
+      "author" : "@scha",
+      "day" : 13,
+      "url" : "https://qiita.com/scha/items/5d6d8bb7135a2e80f4a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA WarpからリモートのSQL ServerにHTTP経由でアクセス",
+      "author" : "@shintaro_ura",
+      "day" : 15,
+      "url" : "https://qiita.com/shintaro_ura/items/4b9bef85f7641a03843d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA warpで暗号化したファイルを復号化してみる",
+      "author" : "@manzo",
+      "day" : 16,
+      "url" : "https://qiita.com/manzo/items/2b758a21011da3411022"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザーからフローを実行したときのエラーページをカスタマイズしてみる",
+      "author" : "@rd10nao",
+      "day" : 17,
+      "url" : "https://qiita.com/rd10nao/items/201ba3008dcd6d03d431"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA WarpでZoom APIを使ってみる",
+      "author" : "@nagatasci",
+      "day" : 18,
+      "url" : "https://qiita.com/nagatasci/items/7b1ddef0bd70e7901227"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA Warpでワーママあるあるのお悩み解決してみた",
+      "author" : "@Asteria_Community",
+      "day" : 19,
+      "url" : "https://qiita.com/Asteria_Community/items/3e050031de6e85f8d0b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA WarpでGCSとkintoneをつないでみた",
+      "author" : "@scha",
+      "day" : 20,
+      "url" : "https://qiita.com/scha/items/6fd45f03ff0557289b81"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASTERIA Warpのフローデザイナーの表示を自分好みにカスタマイズする",
+      "author" : "@kkkmmm",
+      "day" : 22,
+      "url" : "https://qiita.com/kkkmmm/items/0c9d1bd51670bd058cdc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RESTコンポーネントで外部に送信したHTTPリクエストヘッダの内容を見る方法",
+      "author" : "@genmuex",
+      "day" : 23,
+      "url" : "https://qiita.com/genmuex/items/717bc430e4800ab59025"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

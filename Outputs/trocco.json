@@ -1,0 +1,143 @@
+{
+  "created_at" : "2021-12-24T02:49:26Z",
+  "calendar_meta_data" : {
+    "author" : "@hiro_koba_jp",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 3,
+    "subscribers" : 2,
+    "title" : "trocco Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "trocco",
+    "url" : "https://qiita.com/advent-calendar/2021/trocco"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【詳解trocco】ワークフローの「ループ機能」の使い方・活用ユースケース",
+      "author" : "@hiro_koba_jp",
+      "day" : 1,
+      "url" : "https://qiita.com/hiro_koba_jp/items/a650bf231b11d13ad64d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "troccoの設定を変更し、GitHubでPull Request投げてレビューしてみる",
+      "author" : "@hiro_koba_jp",
+      "day" : 2,
+      "url" : "https://qiita.com/hiro_koba_jp/items/7e12d67a49f59917fcae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレからtroccoエージェントを使ってBigQueryへデータを転送してみる",
+      "author" : "@u110",
+      "day" : 3,
+      "url" : "https://qiita.com/u110/items/f288ca9523d6d214fe4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "troccoのプログラミングETL機能でForward ETLとReverse ETLを同時に実現した話",
+      "author" : "@shintaro_ishikawa",
+      "day" : 5,
+      "url" : "https://qiita.com/shintaro_ishikawa/items/5897f97e7db0e15bbac0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@hiro_koba_jp"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データを取り巻く環境についての10年ポエム",
+      "author" : "@abe-masatoshi",
+      "day" : 10,
+      "url" : "https://note.com/abe_masatoshi/n/n14df68b44b81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "troccoってCSでも活用出来るって知ってた？〜Salesforceのデータ、サクッと抜いてみた〜",
+      "author" : "@Taramu-YN",
+      "day" : 11,
+      "url" : "https://qiita.com/Taramu-YN/items/3ac2480c0037906067f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@Shimo-san"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "転送元データの特徴に合わせたtrocco転送方式の設計TIPS 〜 転送先BigQueryの場合 〜",
+      "author" : "@u110",
+      "day" : 14,
+      "url" : "https://qiita.com/u110/items/16e2375a70c4a21c055e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "troccoで簡易MLOpsをまわしてみる",
+      "author" : "@TakumiIwata",
+      "day" : 17,
+      "url" : "https://qiita.com/TakumiIwata/items/efefa0fca4535e391be6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@hiro_koba_jp"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kunu-kana"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "created_at" : "2021-12-24T09:18:16Z",
+  "calendar_meta_data" : {
+    "author" : "@neutron63zf",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 6,
+    "title" : "VUTD（バーチャル東大Discord） Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "vutd",
+    "url" : "https://qiita.com/advent-calendar/2021/vutd"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "VUTDの発起",
+      "author" : "@_peace_vv",
+      "day" : 1,
+      "url" : "https://note.com/_peace_vv/n/nd8a06ce3f26b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Discord鯖の権限整備のノウハウとVUTDでの権限実装について",
+      "author" : "@cm-ayf",
+      "day" : 6,
+      "url" : "https://qiita.com/cm-ayf/items/3d287638defddd3e3c63"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AtWaker Contestのレーティング",
+      "author" : "@Polina_Balanyeva",
+      "day" : 12,
+      "url" : "https://qiita.com/Polina_Balanyeva/items/161762a40c7416a16851"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ut-craft",
+      "author" : "@neutron63zf",
+      "day" : 19,
+      "url" : "https://neutron63zf.hatenablog.com/entry/2021/12/19/210811"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VUTDのバーチャル入学式のために合唱とオケ伴奏を作った話",
+      "author" : "@musicminecraft1",
+      "day" : 20,
+      "url" : "https://qiita.com/musicminecraft1/items/162404904c2826372324"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@_peace_vv"
+    }
+  ]
+}

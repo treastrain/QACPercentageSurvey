@@ -1,0 +1,159 @@
+{
+  "created_at" : "2021-12-24T07:28:14Z",
+  "calendar_meta_data" : {
+    "author" : "@kzk-maeda",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 5,
+    "title" : "Progate Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "progate",
+    "url" : "https://qiita.com/advent-calendar/2021/progate"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi 2 と Jetson nano でHybridおうちKubernetes環境を作ったときの話",
+      "author" : "@kzk-maeda",
+      "day" : 1,
+      "url" : "https://tech.prog-8.com/entry/2021/12/01/115100"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おうちKubernetesに音楽ストリーミングサーバーを構築した話",
+      "author" : "@aaaanwz",
+      "day" : 2,
+      "url" : "https://tech.prog-8.com/entry/2021/12/02/advent2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "現実のコードでの計算量の「１」はどれくらいの大きさか - 計算量の「１」の再確認",
+      "author" : "@amiq11",
+      "day" : 3,
+      "url" : "https://tech.prog-8.com/entry/2021/12/03/advent3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "API クライアント・型生成スクリプトを高速化して DX 改善した話",
+      "author" : "@hrkw00",
+      "day" : 6,
+      "url" : "https://tech.prog-8.com/entry/2021/12/06/093156"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Progateにおけるユビキタス言語策定活動の紹介",
+      "author" : "@moritanzania",
+      "day" : 10,
+      "url" : "https://tech.prog-8.com/entry/2021/12/10/153056"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@oguchy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スキーマ駆動開発をしてみて",
+      "author" : "@satoshi0314",
+      "day" : 14,
+      "url" : "https://tech.prog-8.com/entry/2021/12/14/144615"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラーメンとともに振り返る2021年ProgateでのSREのお仕事",
+      "author" : "@devildogs",
+      "day" : 15,
+      "url" : "https://tech.prog-8.com/entry/2021/12/15/084319"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bingo ゲームと Rust と Iterator (Advent of Code #4)",
+      "author" : "@jlkiri",
+      "day" : 16,
+      "url" : "https://tech.prog-8.com/entry/2021/12/16/101102"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Customizing the MUI Palette Tones",
+      "author" : "@chandlerazling",
+      "day" : 17,
+      "url" : "https://tech.prog-8.com/entry/2021/12/17/112045"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Macの環境構築をAnsibleで自動化してみた 2021年版",
+      "author" : "@prg708",
+      "day" : 19,
+      "url" : "https://tech.prog-8.com/entry/2021/12/19/setup-mac-ansible"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@satetsu888"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Understanding Unicode with a Nyan translator",
+      "author" : "@d-wenhao",
+      "day" : 21,
+      "url" : "https://tech.prog-8.com/entry/2021/12/21/225904"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイントークンの運用自動化について考える",
+      "author" : "@makotot",
+      "day" : 22,
+      "url" : "https://tech.prog-8.com/entry/2021/12/22/215245"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS製ミニサービスによるトイル削減の取り組み事例の紹介と振り返り",
+      "author" : "@shotaogasawara",
+      "day" : 23,
+      "url" : "https://tech.prog-8.com/entry/2021/12/23/105115"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alexaスキル開発に入門してみた",
+      "author" : "@sy-tencho",
+      "day" : 24,
+      "url" : "https://tech.prog-8.com/entry/2021/12/24/092021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

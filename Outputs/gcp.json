@@ -1,0 +1,298 @@
+{
+  "created_at" : "2021-12-24T07:37:46Z",
+  "calendar_meta_data" : {
+    "author" : "@polar3130",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 9,
+    "subscribers" : 88,
+    "title" : "Google Cloud Platform Advent Calendar 2021",
+    "participants" : 29,
+    "unique_name" : "gcp",
+    "url" : "https://qiita.com/advent-calendar/2021/gcp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "あなたにぴったりな Anthos Service Mesh を見つけよう",
+      "author" : "@polar3130",
+      "day" : 1,
+      "url" : "https://polar3130.hatenablog.com/entry/2021/11/30/232356"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCPの情報を追う時に見ているものたち",
+      "author" : "@endwalker",
+      "day" : 2,
+      "url" : "https://qiita.com/endwalker/items/9be94e5a3969357458b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WafCharm for Google Cloudを試してみた",
+      "author" : "@pict3",
+      "day" : 3,
+      "url" : "https://qiita.com/pict3/items/6f408a95c04a80dadb6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Secret Manager のベストプラクティスはちゃんと読んだ方が良いという話",
+      "author" : "@retlat",
+      "day" : 4,
+      "url" : "https://blog.retlat.dev/posts/1638576000/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "使用頻度の低いGCEインスタンスを組織一括で検知する方法",
+      "author" : "@e__koma",
+      "day" : 5,
+      "url" : "https://zenn.dev/e_koma/articles/20211205-gcp-instances-recommender"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCPのWorkflowsで日付をフォーマットした値を生成する",
+      "author" : "@swfz",
+      "day" : 6,
+      "url" : "https://swfz.hatenablog.com/entry/2021/12/06/191258"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google App Engine（GAE）のスタンダード環境でFFmpegを使う方法",
+      "author" : "@sikkim",
+      "day" : 7,
+      "url" : "https://zenn.dev/sikkim/articles/3be1841603a06619fa2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elastic ＆ Google Cloud、強化されたデータ統合機能について (BigQuery, Firestore, DataFlow, GCS, PubSub)",
+      "author" : "@shosuz",
+      "day" : 8,
+      "url" : "https://qiita.com/shosuz/items/9e375fea6f5016e4fc8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GKE Autopilot の Spot Pod とプリエンプションの関係",
+      "author" : "@polar3130",
+      "day" : 9,
+      "url" : "https://polar3130.hatenablog.com/entry/2021/12/10/131735"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@Yasshi-cookie"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Workflows から外部 JSON データを読み込んでセットする方法",
+      "author" : "@sano307",
+      "day" : 11,
+      "url" : "https://zenn.dev/inseokim/articles/c5cb15431fdcb4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel on Cloud Run created by Terraform Modules",
+      "author" : "@sogahisashi",
+      "day" : 12,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-12-2dda7e7314fc48"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCPプロジェクトが削除されたら何が起こるのかメモ",
+      "author" : "@syossan27",
+      "day" : 13,
+      "url" : "https://syossan.hateblo.jp/entry/2021/10/25/221700"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@tao_s"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】flask + cloud run で Auth0 でログイン機能実装",
+      "author" : "@hujuu",
+      "day" : 16,
+      "url" : "https://qiita.com/hujuu/items/3c1757b1350ceab6afc4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いまさら聞けないサービスメッシュ入門とTraffic Director",
+      "author" : "@koizumittn",
+      "day" : 17,
+      "url" : "https://qiita.com/koizumittn/items/703206e112b55d11aa31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google WorksSpaceのAdmin SDKでの管理",
+      "author" : "@KAndy",
+      "day" : 18,
+      "url" : "https://qiita.com/KAndy/items/43a31a8f1a0ab2210d0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お家ラズパイk8sクラスタで動かしてたアプリをGCPに移行した話",
+      "author" : "@esaka",
+      "day" : 19,
+      "url" : "https://zenn.dev/esaka/articles/0e240428ac7596"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dataproc Serverless for Spark 触ってみた",
+      "author" : "@best_not_best",
+      "day" : 20,
+      "url" : "https://qiita.com/best_not_best/items/7a72b7bb586827a86e68"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gcloud alpha storage を試してみる(5ヶ月ぶり2回目)",
+      "author" : "@norikosama",
+      "day" : 21,
+      "url" : "https://zenn.dev/noriko3/articles/32c85e71abfd93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Cloud Data Fusion】性能チューニングについて",
+      "author" : "@hssh2_bin",
+      "day" : 22,
+      "url" : "https://zenn.dev/hssh2_bin/articles/a79b0d9841a025120f29"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GCP / Identity-Aware Proxy】社内からVM/GCEへRDP接続できない時に・・",
+      "author" : "@ku_a_i",
+      "day" : 24,
+      "url" : "https://qiita.com/ku_a_i/items/a3eeeb5cef0ddceffd13"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kyohei-ucks"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "DataprepでCloud StorageからBigQueryへデータをクレンジングして格納する",
+      "author" : "@kccs_api4",
+      "day" : 15,
+      "url" : "https://qiita.com/kccs_api4/items/ec47a2890400624f140c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Cloud Data Fusion】パイプライン失敗時のSlack通知方法",
+      "author" : "@hssh2_bin",
+      "day" : 16,
+      "url" : "https://zenn.dev/hssh2_bin/articles/30952be50d422c3807d7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Google Cloud AutoML Tables を使った太陽光発電量予測",
+      "author" : "@kccs_api1",
+      "day" : 17,
+      "url" : "https://qiita.com/kccs_api1/items/725befb59b5c8e1d0db9"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18,
+      "author" : "@island_jima"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "App Engine上にあるAPIの認証をCloud Endpoints + Firebaseでいい感じにしてみた",
+      "author" : "@shinyorke",
+      "day" : 19,
+      "url" : "https://shinyorke.hatenablog.com/entry/app-engine-auth"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Cloud Data Fusionの機能でつまづいた部分について",
+      "author" : "@ssabcire",
+      "day" : 22,
+      "url" : "https://ssabcire.hatenablog.com/entry/2021/12/22/224030"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コピペでできるプチ知識",
+      "author" : "@harehare211",
+      "day" : 23,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@sand_bash"
+    }
+  ]
+}

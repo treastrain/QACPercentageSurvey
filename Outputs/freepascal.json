@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T03:04:12Z",
+  "calendar_meta_data" : {
+    "author" : "@TakamiChie",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "Lazarus(FreePascal) Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "freepascal",
+    "url" : "https://qiita.com/advent-calendar/2021/freepascal"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusってなんぞや",
+      "author" : "@TakamiChie",
+      "day" : 1,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/01/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LazarusプロジェクトをGit管理する",
+      "author" : "@TakamiChie",
+      "day" : 2,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/02/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusでリソースを使う",
+      "author" : "@TakamiChie",
+      "day" : 3,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/03/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusで別のプロセスを呼び出す",
+      "author" : "@TakamiChie",
+      "day" : 4,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/04/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusでテストを書く",
+      "author" : "@TakamiChie",
+      "day" : 5,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/05/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusプログラムからショートカットを作る",
+      "author" : "@TakamiChie",
+      "day" : 6,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/06/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusでコモンダイアログを表示する",
+      "author" : "@TakamiChie",
+      "day" : 7,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/07/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusのfor文",
+      "author" : "@TakamiChie",
+      "day" : 8,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/08/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusアプリのバージョン情報を取得する",
+      "author" : "@TakamiChie",
+      "day" : 9,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/09/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LazarusのGUIデザイナーでコンポーネントをコピーすると…",
+      "author" : "@TakamiChie",
+      "day" : 10,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/10/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusで拡張メソッド？",
+      "author" : "@TakamiChie",
+      "day" : 11,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/11/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PascalPad作ってみた",
+      "author" : "@TakamiChie",
+      "day" : 12,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/12/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ClipboardMonitor作りました",
+      "author" : "@TakamiChie",
+      "day" : 13,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/13/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusプロジェクトのビルドをコマンドラインで行なう",
+      "author" : "@TakamiChie",
+      "day" : 14,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/14/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LazarusでHTMLをレンダリングする",
+      "author" : "@TakamiChie",
+      "day" : 15,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/15/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusにおけるドキュメントコメント",
+      "author" : "@TakamiChie",
+      "day" : 16,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/16/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusでコードの折りたたみ",
+      "author" : "@TakamiChie",
+      "day" : 17,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/17/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LazarusでDelphiのプロジェクトを読み込む",
+      "author" : "@TakamiChie",
+      "day" : 18,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/18/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LazarusのIDE構成を変更する",
+      "author" : "@TakamiChie",
+      "day" : 19,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/19/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusのパッケージマネージャ",
+      "author" : "@TakamiChie",
+      "day" : 20,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/20/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusアプリ終了時にメモリリークチェック用ダイアログが表示される件",
+      "author" : "@TakamiChie",
+      "day" : 21,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/21/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarusのユニットファイルの循環参照を避ける",
+      "author" : "@TakamiChie",
+      "day" : 22,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/22/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lazarus(というかPascal)のデータ型について",
+      "author" : "@TakamiChie",
+      "day" : 23,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/23/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "標準ライブラリのソースコード読解のススメ",
+      "author" : "@TakamiChie",
+      "day" : 24,
+      "url" : "https://devblog.onpu-tamago.net/entry/2021/12/24/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@TakamiChie"
+    }
+  ]
+}

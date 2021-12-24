@@ -1,0 +1,147 @@
+{
+  "created_at" : "2021-12-24T02:04:54Z",
+  "calendar_meta_data" : {
+    "author" : "@spyder1211",
+    "category" : "その他",
+    "lgtm" : 7,
+    "subscribers" : 6,
+    "title" : "今年のアウトプットおよび共有したいスキル Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "c-table",
+    "url" : "https://qiita.com/advent-calendar/2021/c-table"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Linux】大量のファイルを、サーバ負荷をあまりかけずに削除する方法",
+      "author" : "@spyder1211",
+      "day" : 1,
+      "url" : "https://qiita.com/spyder1211/items/14aa139f371d99b12222"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複雑にネストされたMapオブジェクトをJSONに変換",
+      "author" : "@bananacoffee",
+      "day" : 2,
+      "url" : "https://qiita.com/bananacoffee/items/1c8d42cf2bdf24fd5ea7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「＃みんなのLINEビジネス」で当社が開発した「まちマーケット」が特別賞を受賞しました。",
+      "author" : "@spyder1211",
+      "day" : 3,
+      "url" : "https://c-table.co.jp/2021/09/28/linebusinnes/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@rabirion"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@juntakakada",
+      "day" : 6,
+      "url" : "https://qiita.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ImageMinimizerWebpackPluginがSquooshに対応したのでらくらく画像一括置換",
+      "author" : "@bananacoffee",
+      "day" : 7,
+      "url" : "https://qiita.com/bananacoffee/items/8c610dc59d34a85ec010"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@bananacoffee"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@kamikiich"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@nyankichi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeIgniter4のコアクラスを拡張して、エラーログをSlackに通知する",
+      "author" : "@bananacoffee",
+      "day" : 16,
+      "url" : "https://qiita.com/bananacoffee/items/48e6838e230b39903cce"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@anonnon2sd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクト開発の学び2021",
+      "author" : "@harehare211",
+      "day" : 18,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mapオブジェクトはv-modelで扱えないので強引にリアクティブにする",
+      "author" : "@bananacoffee",
+      "day" : 23,
+      "url" : "https://qiita.com/bananacoffee/items/9ac714177b8cb7e6d8cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shin1988"
+    }
+  ]
+}

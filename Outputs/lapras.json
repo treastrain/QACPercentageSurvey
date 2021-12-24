@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T13:02:31Z",
+  "calendar_meta_data" : {
+    "author" : "@ryo2132",
+    "category" : "企業・学校・団体",
+    "lgtm" : 170,
+    "subscribers" : 10,
+    "title" : "LAPRAS Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "lapras",
+    "url" : "https://qiita.com/advent-calendar/2021/lapras"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ライブラリアップデートを継続的に行う文化をチームで作るための取り組み",
+      "author" : "@ryo2132",
+      "day" : 1,
+      "url" : "https://zenn.dev/ryo_kawamata/articles/6f878891cf0c51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでGitHub Actions OIDC with AWSを定義し、EKSに安全にアクセスする",
+      "author" : "@yktakaha4",
+      "day" : 2,
+      "url" : "https://zenn.dev/yktakaha4/articles/access_eks_with_github_actions_oidc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最近の Java がどんな雰囲気なのかみてみた",
+      "author" : "@Chanmoro",
+      "day" : 3,
+      "url" : "https://zenn.dev/chanmoro/articles/8368583c8bd61b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「今年読んで面白かった本はなんですか？」LAPRAS社員に聞いてみた",
+      "author" : "@yktakaha4",
+      "day" : 4,
+      "url" : "https://note-corp.lapras.com/n/ne99cf61496ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubActionsでクリップボードに対するテストを書く",
+      "author" : "@denzow",
+      "day" : 5,
+      "url" : "https://zenn.dev/denzow/articles/934cf44601628c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアと法務って、案外分かり合える職種だと思う",
+      "author" : "@iidasame",
+      "day" : 6,
+      "url" : "https://note.com/iidasame/n/n2e30c5d97730"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトの仮説検証のQCD、あるいは安物買いの銭失いについて",
+      "author" : "@nunukim",
+      "day" : 7,
+      "url" : "https://note.com/nunukim/n/n750eda0b23ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートチームの「関係の質」が一歩前進するためのオフサイトミーティング",
+      "author" : "@ryo-endo",
+      "day" : 8,
+      "url" : "https://note-corp.lapras.com/n/n887120133107"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【LAPRAS CAREER流】ITエンジニアの職務経歴書の書き方（目的編）",
+      "author" : "@lc_agent",
+      "day" : 9,
+      "url" : "https://note.com/lc_consultant/n/n13b1eb267869"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Supabase + Vue.js でチャットアプリを作ってみる",
+      "author" : "@minojiro",
+      "day" : 10,
+      "url" : "https://zenn.dev/minojiro/articles/07f318b5968869"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "労務を無理やりFFのジョブに当てはめてみたら光の戦士になれなかった話（前偏）",
+      "author" : "@iwawo",
+      "day" : 11,
+      "url" : "https://note.com/iwawoji/n/nf9da288b6360"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@denzow"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@digitalhimiko"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LAPRASにおける20%ルール的なものとその心",
+      "author" : "@rockymanobi",
+      "day" : 14,
+      "url" : "https://note.com/rocky_manobi/n/n619be588790b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトのフェーズによるCSMの役割の変化",
+      "author" : "@rollroll",
+      "day" : 15,
+      "url" : "https://buenasmakiko.medium.com/b8ca7bb234fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年、LAPRASの組織開発・制度設計でやったこと",
+      "author" : "@320KZCD",
+      "day" : 16,
+      "url" : "https://note.com/kc320/n/n19ea9ab5085c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Git はなぜ空のディレクトリを無視するのか？",
+      "author" : "@POPOPON",
+      "day" : 17,
+      "url" : "https://qiita.com/POPOPON/items/964d0904e32cb38c9303"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LAPRASのモブプロ生配信を支える長廻さん",
+      "author" : "@rockymanobi",
+      "day" : 18,
+      "url" : "https://note.com/rocky_manobi/n/n7f435b29460c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptの型データから自動でfactoryを作る",
+      "author" : "@Yuichi_Yogo",
+      "day" : 19,
+      "url" : "https://zenn.dev/yuichkun/articles/d2beba35b4340e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LAPRASをアベンジャーズで表現してみた",
+      "author" : "@haruki_onishi",
+      "day" : 20,
+      "url" : "https://note.com/onishilion_pr/n/ne237192ee7c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@tktcorporation"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LAPRASのPMMが2021年にしたこと・考えたことを振り返る",
+      "author" : "@nagasako",
+      "day" : 22,
+      "url" : "https://note-corp.lapras.com/n/neaaeafc97125"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あとから来る人に得をしてもらおう",
+      "author" : "@someken1025",
+      "day" : 23,
+      "url" : "https://note.com/sometaro/n/n0b61298ca247"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "出戻り狂騒曲",
+      "author" : "@naga3",
+      "day" : 24,
+      "url" : "https://note.com/naga_3/n/nd9805c9f2455"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@eijiyatagai"
+    }
+  ]
+}

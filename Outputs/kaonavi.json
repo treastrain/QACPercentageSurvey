@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T05:42:20Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社カオナビ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 342,
+    "subscribers" : 17,
+    "title" : "株式会社カオナビ Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "kaonavi",
+    "url" : "https://qiita.com/advent-calendar/2021/kaonavi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "開発組織にゆとり時間を導入した話",
+      "author" : "@matsukaz",
+      "day" : 1,
+      "url" : "https://zenn.dev/matsukaz/articles/e75ea18506f7cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PdMにおける Team & Collaboration skills をスクラムマスター視点で取り組んでみた",
+      "author" : "@eternalshining",
+      "day" : 2,
+      "url" : "https://note.com/eternalshining/n/n83f6f653ccb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトマネジメント入門してみた",
+      "author" : "@takumi_shihoya",
+      "day" : 3,
+      "url" : "https://note.com/takumi_shihoya/n/nc9447c39d3d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel8に上げるときにモデルファクトリのツライ修正をRectorを使って乗り越える",
+      "author" : "@naopusyu",
+      "day" : 4,
+      "url" : "https://zenn.dev/naopusyu/articles/cc68a0aa827bca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tour of Goのスライスの挙動で引っかかってたら、色々分かった話",
+      "author" : "@summer_shine",
+      "day" : 5,
+      "url" : "https://qiita.com/summer_shine/items/36aa30e087b63a547957"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WordCloud でコードレビューコメントの傾向を可視化して改善につなげる",
+      "author" : "@South_",
+      "day" : 6,
+      "url" : "https://qiita.com/South_/items/449a527e2fb70b0d6734"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAMLってなんですか？",
+      "author" : "@ryo_beppu",
+      "day" : 7,
+      "url" : "https://qiita.com/ryo_beppu/items/b274096c4cc16e595791"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bashの並列化",
+      "author" : "@harieshokunin",
+      "day" : 8,
+      "url" : "https://blog.harieshokunin.com/bash%e3%81%a7%e4%b8%a6%e5%88%97%e5%8c%96%e5%ae%9f%e8%a1%8c%e3%82%92%e6%af%94%e8%bc%83%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "求められる品質とは何なのか",
+      "author" : "@hooooooo",
+      "day" : 9,
+      "url" : "https://qiita.com/hooooooo/items/287bbc3601552743285a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Accelerate State of DevOps report を読む",
+      "author" : "@tanahashi_kei",
+      "day" : 10,
+      "url" : "https://qiita.com/tanahashi_kei/items/fc2f3743273fed26ac34"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "できれば新米スクラムマスターのときに理解しておきたかった大事なこと",
+      "author" : "@komassyi",
+      "day" : 11,
+      "url" : "https://qiita.com/komassyi/items/1458fae9b7379f38d25b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "wireを使ったプロジェクトでモックを用いたAPIのテストを書く",
+      "author" : "@masakurapa",
+      "day" : 12,
+      "url" : "https://qiita.com/masakurapa/items/88f401bb911da223be8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "認定スクラムデベロッパー（CSD）研修に行ってきました",
+      "author" : "@sanogemaru",
+      "day" : 13,
+      "url" : "https://qiita.com/sanogemaru/items/a3cdeb20328315cf32a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "組織内で分散しているカオナビのUIデザイナーが安心してデザインできる秘訣",
+      "author" : "@kmimre",
+      "day" : 14,
+      "url" : "https://note.com/kmimre/n/n5903a47207ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワーク中の雑談について思ったこと",
+      "author" : "@krkyn",
+      "day" : 15,
+      "url" : "https://note.com/krk85/n/n7ea71928348b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「FindingBugs」やってみた",
+      "author" : "@horiki",
+      "day" : 16,
+      "url" : "https://horikidesu.blogspot.com/2021/12/findingbugs.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Next.js x React18】SSR Streamingについてまとめてみた",
+      "author" : "@shinbey221",
+      "day" : 17,
+      "url" : "https://zenn.dev/shinbey/articles/8acce14b8b60e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAエンジニアの心理的安全性",
+      "author" : "@fenecrg1218",
+      "day" : 18,
+      "url" : "https://qiita.com/fenecrg1218/items/c9a275c01a0cde3220bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TestCafe で待ち処理",
+      "author" : "@iamapen",
+      "day" : 19,
+      "url" : "https://qiita.com/iamapen/items/04d865e743fd72e1e30c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "分からないをすぐ伝えるのは、とても良いという話",
+      "author" : "@hanhan1978",
+      "day" : 20,
+      "url" : "https://qiita.com/hanhan1978/items/6371b69f84d894b0a3c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenSearchのクラスター間検索を試してみる",
+      "author" : "@mettoboshi",
+      "day" : 21,
+      "url" : "https://zenn.dev/mettoboshi/articles/b56fff83632651"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カオナビのフロントエンド支援チームについて",
+      "author" : "@ma2222222222",
+      "day" : 22,
+      "url" : "https://zenn.dev/matu/articles/56988fdc7a217c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分流レイヤードアーキテクチャを意識したバックエンドアプリケーションのディレクトリ構造",
+      "author" : "@masaki_iwahara",
+      "day" : 23,
+      "url" : "https://qiita.com/masaki_iwahara/items/096b2f1903fb752aae1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いちごチームのデイリースクラムを紹介します！",
+      "author" : "@owrb",
+      "day" : 24,
+      "url" : "https://qiita.com/owrb/items/0737888caaabf662fe07"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tamayama"
+    }
+  ]
+}

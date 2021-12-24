@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-24T05:48:40Z",
+  "calendar_meta_data" : {
+    "author" : "@Sacky_0729",
+    "category" : "企業・学校・団体",
+    "lgtm" : 57,
+    "subscribers" : 4,
+    "title" : "大学生限定クリエイティブコミュニティGeekSalon Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "geeksalon",
+    "url" : "https://qiita.com/advent-calendar/2021/geeksalon"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【SlackAPI】ワークスペースに所属している全ユーザーを取得する",
+      "author" : "@Wadadada",
+      "day" : 1,
+      "url" : "https://qiita.com/Wadadada/items/76db91e5063c79284ba1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swift初心者のためのAIアプリ（画像認識編）",
+      "author" : "@babasatoru21",
+      "day" : 2,
+      "url" : "https://qiita.com/babasatoru21/items/4b2a5b8fc9321a16690d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本のWEBに革命をもたらす BudouX で自動文字組みを行う。しかも、Web Componentとして",
+      "author" : "@junseinagao",
+      "day" : 3,
+      "url" : "https://zenn.dev/junseinagao/articles/f4fd3bf790ef189f8c74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "簡易パスワード機能(削除制限)",
+      "author" : "@MandoNarin",
+      "day" : 4,
+      "url" : "https://qiita.com/MandoNarin/items/411f33c94eaa7cae7cc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YoutubeDataAPIで好きな情報を取得する",
+      "author" : "@tomochiiiii",
+      "day" : 5,
+      "url" : "https://qiita.com/tomochiiiii/items/90f9ec334b6234da8d93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rails6 LINEログインとプッシュ通知",
+      "author" : "@kaiyukun",
+      "day" : 6,
+      "url" : "https://qiita.com/kaiyukun/items/df8234634d2acc1be0f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "静的ページをGitHub Pages使って簡単に公開しよう！",
+      "author" : "@kakeru0520sou1",
+      "day" : 7,
+      "url" : "https://qiita.com/kakeru0520sou1/items/8479c1844ac8b9707ca3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Railsで「API を作る」を体験しよう",
+      "author" : "@ryosukemochizuki",
+      "day" : 8,
+      "url" : "https://zenn.dev/mochinozenn/articles/190e2e8b8f1edb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Mapを利用する  【Rails6】【Geocoder】【heroku】",
+      "author" : "@MandoNarin",
+      "day" : 9,
+      "url" : "https://qiita.com/MandoNarin/items/aa91ffae373a8cfc85d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rails】PDFをダウンロードできる状態で投稿する方法",
+      "author" : "@tohonozo",
+      "day" : 10,
+      "url" : "https://qiita.com/tohonozo/items/85f2c9362c7918bcce0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【タグ機能完全版】 ~ Rails ",
+      "author" : "@MandoNarin",
+      "day" : 11,
+      "url" : "https://qiita.com/MandoNarin/items/5a5610a40c66f77d6c10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "経過時間を計測してグラフを出力する①",
+      "author" : "@naoking21",
+      "day" : 12,
+      "url" : "https://qiita.com/naoking21/items/610fc9c1792a3aae3081"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アイデア発散　-９つの発想観点-",
+      "author" : "@serinazunazuna",
+      "day" : 13,
+      "url" : "https://qiita.com/serinazunazuna/items/15442df3c3ec76ba5c7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GAS×LineBot】応援してくれる子を作った",
+      "author" : "@Sacky_0729",
+      "day" : 14,
+      "url" : "https://qiita.com/Sacky_0729/items/ad1928d1f69a92c87ba6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングスクールで得られるものは何か",
+      "author" : "@Harada515",
+      "day" : 15,
+      "url" : "https://zenn.dev/harada515/articles/618f0f164a6fb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シンプル星評価機能 ~ Rails ",
+      "author" : "@MandoNarin",
+      "day" : 16,
+      "url" : "https://qiita.com/MandoNarin/items/abb9c956b238bceb4a6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "公式docに書かれていない、firebase v9の Cloud Functionsのロケーション指定方法",
+      "author" : "@Sacky_0729",
+      "day" : 17,
+      "url" : "https://zenn.dev/handojisan/articles/8b62f103e976b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】加速度センサーを使用した回転を実装",
+      "author" : "@Sena_0226",
+      "day" : 18,
+      "url" : "https://qiita.com/Sena_0226/items/7d320bb7da59065c4e61"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@junseinagao"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】初めて3日でもわかる値渡し🦖",
+      "author" : "@hasumi024",
+      "day" : 20,
+      "url" : "https://qiita.com/hasumi024/items/8f5f52c9a634b3c360aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "japan-map-jsを使って日本地図を表示させる",
+      "author" : "@iwasan06",
+      "day" : 21,
+      "url" : "https://qiita.com/iwasan06/items/d75d24d10f16965ea04d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kaggle入門〜Titanicに挑戦〜",
+      "author" : "@kento0242",
+      "day" : 22,
+      "url" : "https://qiita.com/kento0242/items/8cf2b38e58cb826b5786"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonを通してプログラミングの基礎を学ぶ",
+      "author" : "@MandoNarin",
+      "day" : 23,
+      "url" : "https://qiita.com/MandoNarin/items/dd5902acdff26492d74c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rails】ハッシュタグ機能の実装",
+      "author" : "@kou1115",
+      "day" : 24,
+      "url" : "https://qiita.com/kou1115/items/8bc794876e7fccffa214"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@MandoNarin"
+    }
+  ]
+}

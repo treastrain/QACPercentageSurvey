@@ -1,0 +1,297 @@
+{
+  "created_at" : "2021-12-24T09:40:39Z",
+  "calendar_meta_data" : {
+    "author" : "@jsakamoto",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 141,
+    "subscribers" : 53,
+    "title" : "Blazor Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "blazor",
+    "url" : "https://qiita.com/advent-calendar/2021/blazor"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazorプロジェクトのテンプレートについて",
+      "author" : "@kimuradesu",
+      "day" : 1,
+      "url" : "https://qiita.com/kimuradesu/items/84535ffdc376dcae862c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Native DependenciesのサポートでBlazor WebAssemblyはどうなるか",
+      "author" : "@yamachu",
+      "day" : 2,
+      "url" : "https://qiita.com/yamachu/items/5596169ff19cca7a21ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ONNX Runtime Webを使ってBlazor WebAssemblyで手書き数字認識",
+      "author" : "@kaorumori",
+      "day" : 3,
+      "url" : "https://qiita.com/kaorumori/items/0fd59d6765bac2bc87f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor with Zeu.js",
+      "author" : "@kimuradesu",
+      "day" : 4,
+      "url" : "https://qiita.com/kimuradesu/items/f7ccb87bc9889b0b9c98"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor最速デプロイ Firebase Hosting編",
+      "author" : "@kimuradesu",
+      "day" : 5,
+      "url" : "https://qiita.com/kimuradesu/items/3d70d5f4f1370764aa39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssemblyを使った簡単なレイトレーシング",
+      "author" : "@hiroaqi",
+      "day" : 6,
+      "url" : "https://qiita.com/hiroaqi/items/eb3c5af8c5fcdd43720c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssemblyのAOTコンパイルで処理が遅くなることもある",
+      "author" : "@kaorumori",
+      "day" : 7,
+      "url" : "https://qiita.com/kaorumori/items/552a2acfddcbec254159"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor with LeaderLine",
+      "author" : "@kimuradesu",
+      "day" : 8,
+      "url" : "https://qiita.com/kimuradesu/items/b7e1c501cbe3cdc22a7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor with Intro.js",
+      "author" : "@kimuradesu",
+      "day" : 9,
+      "url" : "https://qiita.com/kimuradesu/items/e37a75c01a95b69d0a0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor でファイルのドラッグ & ドロップを受け付ける",
+      "author" : "@jsakamoto",
+      "day" : 10,
+      "url" : "https://qiita.com/jsakamoto/items/23c0a9f5c7a0b22077c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "static-web-apps-cliでBlazor WebAssembly + Azure Static Web Apps + Azure FunctionsのHello World",
+      "author" : "@kaorumori",
+      "day" : 11,
+      "url" : "https://qiita.com/kaorumori/items/0689ca7bed4d6b47d3a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASP.NET Core Blazor WebAssembly と Web API と Entity Framework Core で SQL Server のデータを取得したり追加したり更新したり削除したりする [.NET 6 版]",
+      "author" : "@tamtamyarn",
+      "day" : 12,
+      "url" : "https://qiita.com/tamtamyarn/items/876a5cd4b9ec9cdc1044"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『Blazor 入門』のサンプル DB を Docker で構築する",
+      "author" : "@t_ngmn",
+      "day" : 13,
+      "url" : "https://qiita.com/t_ngmn/items/e04d984c9a8e5ce4a6ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(※内容薄いです...) 昨年 Blazor WebAssembly on .NET5 で作った \"snow catch\" ゲームを .NET6 に更新してみた",
+      "author" : "@jsakamoto",
+      "day" : 14,
+      "url" : "https://qiita.com/jsakamoto/items/7a500d8413b142b8f597"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssemblyで2GBの壁を超え4GBへ",
+      "author" : "@yamachu",
+      "day" : 15,
+      "url" : "https://qiita.com/yamachu/items/a357ab72f76afa2802b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazorアプリでテキスト翻訳する仕組みを実装する",
+      "author" : "@kimuradesu",
+      "day" : 16,
+      "url" : "https://qiita.com/kimuradesu/items/8dba2298f455750c6cd3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssembly(.NET Core3.1)で作ったポートフォリオサイトを.NET6にバージョンアップした話",
+      "author" : "@nobu17",
+      "day" : 17,
+      "url" : "https://qiita.com/nobu17/items/03dd08916212ac090a70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssembly (AOT) vs. .NET MAUI Blazor （ライフゲームの処理速度を比較）",
+      "author" : "@kaorumori",
+      "day" : 18,
+      "url" : "https://qiita.com/kaorumori/items/7375d278b6e5cd6851eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor With NES.css",
+      "author" : "@kimuradesu",
+      "day" : 19,
+      "url" : "https://qiita.com/kimuradesu/items/a1f97f45a7768b30e915"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssembly で作った Web アプリ \"snow catch\" ゲームを、🎮 ゲームパッド (ジョイスティック) で操作できるようにする",
+      "author" : "@jsakamoto",
+      "day" : 20,
+      "url" : "https://qiita.com/jsakamoto/items/4705be2e5c6c7f1fccc8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor PWAテンプレートを使って、以前作成した電卓アプリを再作成する",
+      "author" : "@kimuradesu",
+      "day" : 21,
+      "url" : "https://qiita.com/kimuradesu/items/1c045f1e6e385540c2d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor serverをラズパイに入れてFAしたい",
+      "author" : "@yamaccu",
+      "day" : 22,
+      "url" : "https://qiita.com/yamaccu/items/9e86db8d8fa44f43dcc1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssemblyでユーザ認証関連のローディング画面をカスタマイズ",
+      "author" : "@kaorumori",
+      "day" : 23,
+      "url" : "https://qiita.com/kaorumori/items/51e7082d0eddff433002"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オライリーの特約書店をBlazorでマップ化したウェブサイトを作成した話",
+      "author" : "@nobu17",
+      "day" : 24,
+      "url" : "https://qiita.com/nobu17/items/79f74b9ed53ebace0e59"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Tak1wa"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Blazor WebAssembly on .NET6 の wasm-tools によるランタイム再リンクで、コンテンツサイズがどれくらい小さくなるか?",
+      "author" : "@jsakamoto",
+      "day" : 22,
+      "url" : "https://qiita.com/jsakamoto/items/8155773a7dbcbfa6d38f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Blazor Server でサーバーとの接続障害からの復旧後、「再読込」をユーザに押させることなく自動でページ再読み込みする",
+      "author" : "@jsakamoto",
+      "day" : 23,
+      "url" : "https://qiita.com/jsakamoto/items/2cdbe0764df262e9fd23"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Blazor Sever のプロセス実行時、待ち受けアドレス/ポートを指定する 4 つの方法",
+      "author" : "@jsakamoto",
+      "day" : 24,
+      "url" : "https://qiita.com/jsakamoto/items/2c1a79a81e573885732e"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-24T06:42:40Z",
+  "calendar_meta_data" : {
+    "author" : "アルサーガパートナーズ株式会社",
+    "category" : "プログラミング言語",
+    "lgtm" : 74,
+    "subscribers" : 1,
+    "title" : "Arsaga App Division 2021🎅🏻 Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "arsaga-app-division",
+    "url" : "https://qiita.com/advent-calendar/2021/arsaga-app-division"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】APIから取得した日付の文字列を整形した文字列にする",
+      "author" : "@antk",
+      "day" : 1,
+      "url" : "https://qiita.com/antk/items/74ebd6110f94b6843f6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetpackComposeのEffect系関数一覧",
+      "author" : "@sw20na6se3p",
+      "day" : 2,
+      "url" : "https://qiita.com/sw20na6se3p/items/0f3a843b39d7070f88d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetpackComposeでFelica読み込みアプリを作った。",
+      "author" : "@takaking216",
+      "day" : 3,
+      "url" : "https://zenn.dev/apple_nktn/articles/3c3ad749d65b98"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【エラー】unable to load standard library for target 'x86_64-apple-macosx11.0'",
+      "author" : "@antk",
+      "day" : 4,
+      "url" : "https://qiita.com/antk/items/e845b5ae67c466cffa63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swiftlint】一部だけルールを適用したくない、あるいはしたいとき",
+      "author" : "@antk",
+      "day" : 5,
+      "url" : "https://qiita.com/antk/items/9bffabb1658afd3feb51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[SwiftUI]クラス・構造体とSwiftUIのコンポーネントの命名が被ってしまった場合",
+      "author" : "@naoKyo",
+      "day" : 6,
+      "url" : "https://qiita.com/naoKyo/items/94d9953c6c7d067c5dd4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetpackCompose TextFieldについて色々",
+      "author" : "@takaking216",
+      "day" : 7,
+      "url" : "https://zenn.dev/apple_nktn/articles/1f5a5d5052cc14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】iOS12でSHA-256変換する",
+      "author" : "@antk",
+      "day" : 8,
+      "url" : "https://qiita.com/antk/items/cb7557221d5b3f552c7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[SwiftUI] iOS13では、SwiftUIは使わないべきだと思った理由７選",
+      "author" : "@naoKyo",
+      "day" : 9,
+      "url" : "https://qiita.com/naoKyo/items/98a75a6635f03671051e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetpackCompose DatePickerを使う方法",
+      "author" : "@takaking216",
+      "day" : 10,
+      "url" : "https://zenn.dev/apple_nktn/articles/306277064e7ada"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Vim】【エラー】E325: ATTENTION Found a swap file by the name",
+      "author" : "@antk",
+      "day" : 11,
+      "url" : "https://qiita.com/antk/items/c7a87692df88575ed6d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetpackCompose レスポンスの返り値でAlertDialog出したいけど各画面に何個も作りたくない場合の対処法",
+      "author" : "@takaking216",
+      "day" : 12,
+      "url" : "https://zenn.dev/apple_nktn/articles/d00fed524bddf9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetpackCompose よくあるSMS入力フォームを作ってみた",
+      "author" : "@takaking216",
+      "day" : 13,
+      "url" : "https://zenn.dev/apple_nktn/articles/8e8ceadead4949"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " [iOS] 無料でCI/CDのパイプラインを構築したい",
+      "author" : "@naoKyo",
+      "day" : 14,
+      "url" : "https://qiita.com/naoKyo/items/2f48d71c8c7c6d90a226"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】【エラー】Binary operator '<' cannot be applied to two 'Int?' operands",
+      "author" : "@antk",
+      "day" : 15,
+      "url" : "https://qiita.com/antk/items/bfa3e9107d63168303d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EditTextを使うときは必ずimeOptionsを指定しよう",
+      "author" : "@sw20na6se3p",
+      "day" : 16,
+      "url" : "https://qiita.com/sw20na6se3p/items/948cd59111aaa9d10656"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【SwiftUI】AlamofireをMoyaっぽく使う",
+      "author" : "@yokirin",
+      "day" : 17,
+      "url" : "https://qiita.com/yokirin/items/c5b72d9b6f8d1794de7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Xcode】【エラー】Cannot find 'Analytics' in scope",
+      "author" : "@antk",
+      "day" : 18,
+      "url" : "https://qiita.com/antk/items/5f7f005d29a7fcaeff3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【watchOS 8】コンプリケーションのアイコン設定方法",
+      "author" : "@antk",
+      "day" : 19,
+      "url" : "https://qiita.com/antk/items/6b11e381f067a99cc37d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AppLinksのサポート先を複数登録した場合の挙動",
+      "author" : "@ryuji-oda",
+      "day" : 20,
+      "url" : "https://qiita.com/ryuji-oda/items/3834b134d26933d7c0c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[SwiftUI] 意図せず外部ブラウザを開いてしまう問題。",
+      "author" : "@naoKyo",
+      "day" : 21,
+      "url" : "https://qiita.com/naoKyo/items/2ade40e49d5d3d5f2d01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【SpriteKit】チワワがB'zからのXmasプレゼントを貰うだけのクソゲーRPGを作ってみよう！",
+      "author" : "@Takamasa_Fukase",
+      "day" : 22,
+      "url" : "https://qiita.com/Takamasa_Fukase/items/225958ee910581bdffaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Android】公開タイミングの管理ボタンがない",
+      "author" : "@ryuji-oda",
+      "day" : 23,
+      "url" : "https://qiita.com/ryuji-oda/items/8882536f841d43cd2a1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ゆく年くる年】2021年末からiOSアプリをリリースするためApple Developer Programにジョインしましょう",
+      "author" : "@antk",
+      "day" : 24,
+      "url" : "https://qiita.com/antk/items/5dfb94eced21342b462b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ryuji-oda"
+    }
+  ]
+}

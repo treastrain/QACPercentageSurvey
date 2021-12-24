@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-24T02:45:10Z",
+  "calendar_meta_data" : {
+    "author" : "さくらインターネット株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 18,
+    "subscribers" : 9,
+    "title" : "さくらインターネット Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "sakura",
+    "url" : "https://qiita.com/advent-calendar/2021/sakura"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : " Docker CLIで「コマンド置換」を活用した一括操作",
+      "author" : "@zembutsu",
+      "day" : 1,
+      "url" : "https://qiita.com/zembutsu/items/a48ab3e0ec7f5b6a9c30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "結局ハードウェアエンコードってどうなの？(H265篇)",
+      "author" : "@yamakenjp",
+      "day" : 2,
+      "url" : "https://qiita.com/yamakenjp/items/6a37afef25b1e4254669"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "連携できるアプリは3000個以上！さくらのクラウド+iPaaS(Zapier)で広がる世界",
+      "author" : "@yamamoto-febc",
+      "day" : 3,
+      "url" : "https://febc-yamamoto.hatenablog.jp/entry/sacloud_and_zapier"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker を使うと何がうれしいのか自分なりに考えてみた",
+      "author" : "@zinrai",
+      "day" : 4,
+      "url" : "https://d.zinrai.net/public/posts/benefits-of-using-docker/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker でのアプリケーション実行環境を提供した状況を想像してみる",
+      "author" : "@zinrai",
+      "day" : 5,
+      "url" : "https://d.zinrai.net/public/posts/imagine-situation-using-docker/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナオーケストレーションを使うモチベーションを自分なりに考えてみた",
+      "author" : "@zinrai",
+      "day" : 6,
+      "url" : "https://d.zinrai.net/public/posts/motivation-using-container-orchestration/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "さくらのクラウド DNSアプライアンスで HTTPS RR を試してみた",
+      "author" : "@kazeburo",
+      "day" : 7,
+      "url" : "https://kazeburo.hatenablog.com/entry/2021/12/07/125747"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナオーケストレーションにて必要になってくるもの",
+      "author" : "@zinrai",
+      "day" : 8,
+      "url" : "https://d.zinrai.net/public/posts/technologies-required-for-container-orchestration/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Prometheus 以前のモニタリングの仕組みを考察してみる",
+      "author" : "@zinrai",
+      "day" : 9,
+      "url" : "https://d.zinrai.net/public/posts/monitoring-mechanism-before-prometheus/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HAProxyにコントリビュートした話",
+      "author" : "@kazeburo",
+      "day" : 10,
+      "url" : "https://kazeburo.hatenablog.com/entry/2021/12/10/112926"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Prometheus を使うと何がうれしいのか自分なりに考えてみた",
+      "author" : "@zinrai",
+      "day" : 11,
+      "url" : "https://d.zinrai.net/public/posts/motivation-use-prometheus/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Prometheus の Exporter を自分なりに分類してみる",
+      "author" : "@zinrai",
+      "day" : 12,
+      "url" : "https://d.zinrai.net/public/posts/classify-prometheus-exporter/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VictoriaMetrics を使ったメトリクス管理基盤",
+      "author" : "@zinrai",
+      "day" : 13,
+      "url" : "https://d.zinrai.net/public/posts/victoriametrics-monitoring/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "syslog を使ったログ管理について考察してみる",
+      "author" : "@zinrai",
+      "day" : 14,
+      "url" : "https://d.zinrai.net/public/posts/log-management-in-syslog/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@yamakenjp"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ansible InventoryPluginのススメ",
+      "author" : "@pitan",
+      "day" : 16,
+      "url" : "https://qiita.com/pitan/items/00539606f7733db1602c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Graylog を使ったログ管理基盤",
+      "author" : "@zinrai",
+      "day" : 17,
+      "url" : "https://d.zinrai.net/public/posts/log-management-in-graylog/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Graylog でのログ監視を考えてみる",
+      "author" : "@zinrai",
+      "day" : 18,
+      "url" : "https://d.zinrai.net/public/posts/log-monitoring-using-graylog/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Grafana Loki を使ったログ管理基盤",
+      "author" : "@zinrai",
+      "day" : 19,
+      "url" : "https://d.zinrai.net/public/posts/log-management-using-grafana-loki/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バックオフィスメンバーと業務自動化をやっている話",
+      "author" : "@dumixnet",
+      "day" : 20,
+      "url" : "https://qiita.com/dumixnet/items/dc40fa184a56a1eab7d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "有償コンテンツのHLS配信に、さくらのクラウド ウェブアクセラレータ（CDN）＋オブジェクトストレージ を組み合わせて使う",
+      "author" : "@nozomi1773",
+      "day" : 21,
+      "url" : "https://nozomi1773.hatenablog.com/entry/2021/12/21/120749"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イベント関連ツイートの裏側をちらっとご紹介",
+      "author" : "@kumikumitm",
+      "day" : 22,
+      "url" : "https://qiita.com/kumikumitm/items/af317031d99730c4efa4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@chibiegg"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@zinrai"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@zinrai"
+    }
+  ]
+}
