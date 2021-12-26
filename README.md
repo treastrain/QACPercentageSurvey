@@ -1,6 +1,6 @@
 # QACPercentageSurvey
 
-![![](README_image.png)](https://docs.google.com/spreadsheets/d/1N7fR77n8m5CxkabtnPQnvgqi3zLyqqtL4yZ0rHvd8i4/edit?usp=sharing)
+[![](README_image.png)](https://docs.google.com/spreadsheets/d/1N7fR77n8m5CxkabtnPQnvgqi3zLyqqtL4yZ0rHvd8i4/edit?usp=sharing)
 
 [Qiita Advent Calendar 2021 に登録された記事は Qiita公開 と Zenn公開 のどちらが多かったか？【Swift でスクレイピング】 https://qiita.com/treastrain/items/b9ca9503cc4c2dee42af](https://qiita.com/treastrain/items/b9ca9503cc4c2dee42af)
 
