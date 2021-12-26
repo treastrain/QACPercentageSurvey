@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:54:52Z",
+  "calendar_meta_data" : {
+    "author" : "@tomoya_looker",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 21,
+    "subscribers" : 7,
+    "title" : "Looker Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "looker",
+    "url" : "https://qiita.com/advent-calendar/2021/looker"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "System Activityエクスプローラを使ってLooker活用のPDCAを回す",
+      "author" : "@tomoya_looker",
+      "day" : 1,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/system-activity%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6looker%E6%B4%BB%E7%94%A8%E3%81%AEpdca%E3%82%92%E5%9B%9E%E3%81%99-28644"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Extension Frameworkを利用してPDTの依存関係を表示させる",
+      "author" : "@Looker-kawakami",
+      "day" : 2,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/extension-framework%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6pdt%E3%81%AE%E4%BE%9D%E5%AD%98%E9%96%A2%E4%BF%82%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-28653"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lookerでの分析に開発環境を構築してデプロイも自動化した話",
+      "author" : "@shintaro_ishikawa",
+      "day" : 3,
+      "url" : "https://qiita.com/shintaro_ishikawa/items/e4f4bf05d86c5619b509"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lookerで日付フィルタを複数条件指定する方法",
+      "author" : "@ymto",
+      "day" : 4,
+      "url" : "https://qiita.com/ymto/items/3fe6a91f4e47a779e2c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネイティブ派生テーブルについて",
+      "author" : "@myoshibe",
+      "day" : 5,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E6%B4%BE%E7%94%9F%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB-ndt-%E3%81%AE%E6%B4%BB%E7%94%A8%E6%96%B9%E6%B3%95-28664"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "週の始まりをフィルターの値を見て動的に変更する",
+      "author" : "@ilovebeer",
+      "day" : 6,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/%E9%80%B1%E3%81%AE%E5%A7%8B%E3%81%BE%E3%82%8A%E3%82%92%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%81%A7%E9%81%B8%E6%8A%9E%E3%81%95%E3%82%8C%E3%81%9F%E6%97%A5%E4%BB%98%E3%82%92%E8%A6%8B%E3%81%A6%E5%8B%95%E7%9A%84%E3%81%AB%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-28674"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Custom ActionでCSV(ZIP)ファイルをSJISで送信",
+      "author" : "@Looker-kawakami",
+      "day" : 7,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/custom-action%E3%81%A7csv-zip-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92sjis%E3%81%A7%E9%80%81%E4%BF%A1-28675"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lookerでサービス活用カルテを作成した話",
+      "author" : "@glassmonkey",
+      "day" : 8,
+      "url" : "https://devblog.thebase.in/entry/looker-debut"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラーニングアセット「Looker Connect」のご紹介",
+      "author" : "@ken_looker",
+      "day" : 9,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88-looker-connect-%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B-viewer-explore-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%91%E3%81%91-28697"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「1時間で学ぶ」Lookerによるデータ探索",
+      "author" : "@tab_443",
+      "day" : 10,
+      "url" : "https://qiita.com/tab_443/items/89011d30656beab10564"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LookerのCIツールであるSpectaclesを導入した話",
+      "author" : "@skryoooo",
+      "day" : 11,
+      "url" : "https://zenn.dev/skryo/articles/4f060327da2bf6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "目標値やストップワードを、Googleスプレッドシート連携でお手軽管理",
+      "author" : "@abe-masatoshi",
+      "day" : 12,
+      "url" : "https://tech.yappli.io/entry/2021/12/12/Sexy_Tech_for_You_9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LookML 開発で使っているディレクトリ構造を紹介する",
+      "author" : "@masutaka",
+      "day" : 13,
+      "url" : "https://developer.feedforce.jp/entry/2021/12/13/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【世界2位】Lookerハッカソン Hack@Home2021 参加報告",
+      "author" : "@m77so",
+      "day" : 14,
+      "url" : "https://qiita.com/m77so/items/06c0e76ba085423b7167"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "我流LookMLテクニック集  (coolな方法求む)",
+      "author" : "@kamyu1201@github",
+      "day" : 15,
+      "url" : "https://qiita.com/kamyu1201@github/items/42776e3119daba6a1d6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Looker×BigQuery パーティションテーブルの対応",
+      "author" : "@uma_hana",
+      "day" : 16,
+      "url" : "https://qiita.com/uma_hana/items/eb83c8115c144fc41b83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LookerのGoogle認証を有効化してみた",
+      "author" : "@suzu_a",
+      "day" : 17,
+      "url" : "https://www.niandc.co.jp/sol/tech/date20211207_2115.php"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "System ActivityデータをBigQueryにエクスポートするサンプルコード",
+      "author" : "@lantran25",
+      "day" : 18,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/cloud-functions%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6looker%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%97%E3%81%9F%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%AE%E7%B5%90%E6%9E%9C%E3%82%92bigquery%E3%81%AB%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B-28761"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Looker】Googleフォームからデータ登録することでデータ民主化を加速してみた",
+      "author" : "@hssh2_bin",
+      "day" : 19,
+      "url" : "https://zenn.dev/hssh2_bin/articles/c40685f15de4d6fd3097"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Looker でヒストグラムを作る３つの手法",
+      "author" : "@kyoji_k",
+      "day" : 20,
+      "url" : "https://cloud-ace.jp/column/detail225/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Looker の派生テーブルと事前集計について",
+      "author" : "@nkomiya",
+      "day" : 21,
+      "url" : "https://cloud-ace.jp/column/detail226/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BQML blocksを使ってLookerでBQMLしましょう",
+      "author" : "@ilovebeer",
+      "day" : 22,
+      "url" : "https://community.looker.com/lookml-5/bqml-blocks%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6looker%E3%81%A7bqml%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86-28802"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chrome Extension をつかったAPI連携を書きます。",
+      "author" : "@tsutomuueno",
+      "day" : 23,
+      "url" : "https://community.looker.com/%E3%82%B3%E3%83%A9%E3%83%A0-103/chrome-extension-%E3%81%8B%E3%82%89-looker-api%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A0%E9%9A%9B%E3%81%AB%E8%89%B2%E3%80%85%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-28808"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "liquid変数を使って、ダッシュボードのフィルタとmeasureを連動して切り替える",
+      "author" : "@shoheihosaka",
+      "day" : 24,
+      "url" : "https://qiita.com/shoheihosaka/items/19bcf48f8282385e75aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内でLookerのコーディング&レビューのゆるふわガイドラインをまとめてみた(一部抜粋)",
+      "author" : "@takasho0415",
+      "day" : 25,
+      "url" : "https://qiita.com/takasho0415/items/293f3c5312c9fe9f61db"
+    }
+  ]
+}

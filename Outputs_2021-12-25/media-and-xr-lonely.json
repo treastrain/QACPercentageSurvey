@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T17:59:23Z",
+  "calendar_meta_data" : {
+    "author" : "@os1ma",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 5,
+    "title" : "画像・動画・音声処理および XR ひとりアドベントカレンダー Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "media-and-xr-lonely",
+    "url" : "https://qiita.com/advent-calendar/2021/media-and-xr-lonely"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "「画像・動画・音声処理および XR ひとりアドベントカレンダー」について",
+      "author" : "@os1ma",
+      "day" : 1,
+      "url" : "https://www.kanzennirikaisita.com/posts/media-and-xr-lonely-advent-calendar"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像ファイルフォーマットの基本",
+      "author" : "@os1ma",
+      "day" : 2,
+      "url" : "https://www.kanzennirikaisita.com/posts/image-file-format-basics"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像編集ソフト比較の観点と定番の選択肢",
+      "author" : "@os1ma",
+      "day" : 3,
+      "url" : "https://www.kanzennirikaisita.com/posts/Image-processing-software"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像処理ライブラリのざっくりまとめ",
+      "author" : "@os1ma",
+      "day" : 4,
+      "url" : "https://www.kanzennirikaisita.com/posts/computer-vision-libraries"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音声・動画・ストリーミングのデータの基本",
+      "author" : "@os1ma",
+      "day" : 5,
+      "url" : "https://www.kanzennirikaisita.com/posts/audio-video-streaming-data-basics"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動画編集ソフトやライブラリ、関連ツールのまとめ",
+      "author" : "@os1ma",
+      "day" : 6,
+      "url" : "https://www.kanzennirikaisita.com/posts/movie-processing-software"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音声データにおける言語の取り扱い",
+      "author" : "@os1ma",
+      "day" : 7,
+      "url" : "https://www.kanzennirikaisita.com/posts/language-in-audio-data"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CG (コンピュータグラフィックス) に興味を持って最初に調べたこと",
+      "author" : "@os1ma",
+      "day" : 8,
+      "url" : "https://www.kanzennirikaisita.com/posts/computer-graphics-first-step"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oculus Quest 2 を開封した",
+      "author" : "@os1ma",
+      "day" : 9,
+      "url" : "https://www.kanzennirikaisita.com/posts/hello-oculus-quest-2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR を活動の中心とする日本の団体まとめ",
+      "author" : "@os1ma",
+      "day" : 10,
+      "url" : "https://www.kanzennirikaisita.com/posts/japanese-organizations-about-vr"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR を満喫するために調べた定番サービス・ゲーム・イベント",
+      "author" : "@os1ma",
+      "day" : 11,
+      "url" : "https://www.kanzennirikaisita.com/posts/vr-services-games-events"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR 何も知らない状態で VRChat やってみた",
+      "author" : "@os1ma",
+      "day" : 12,
+      "url" : "https://www.kanzennirikaisita.com/posts/hello-vrchat"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「VR 酔い」の対策",
+      "author" : "@os1ma",
+      "day" : 13,
+      "url" : "https://www.kanzennirikaisita.com/posts/measures-against-virtual-reality-sickness"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3D アバターデータの種類",
+      "author" : "@os1ma",
+      "day" : 14,
+      "url" : "https://www.kanzennirikaisita.com/posts/3d-avatar-data-formats"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XR 開発のためのゲームエンジン・ライブラリ・クラウドサービス",
+      "author" : "@os1ma",
+      "day" : 15,
+      "url" : "https://www.kanzennirikaisita.com/posts/game-engines-libraries-cloud-services-for-xr-development"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XR について学ぶための情報源",
+      "author" : "@os1ma",
+      "day" : 16,
+      "url" : "https://www.kanzennirikaisita.com/posts/xr-information-source"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ずっとやってみたかった NeosVR をついにやってみた",
+      "author" : "@os1ma",
+      "day" : 17,
+      "url" : "https://www.kanzennirikaisita.com/posts/hello-neosvr"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ずっと気になっていた NeosVR の LogiX をついにやってみた",
+      "author" : "@os1ma",
+      "day" : 18,
+      "url" : "https://www.kanzennirikaisita.com/posts/hello-neosvr-logix"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NeosVR の通貨・トークンについて調べたこと",
+      "author" : "@os1ma",
+      "day" : 19,
+      "url" : "https://www.kanzennirikaisita.com/posts/neosvr-currencies-and-tokens"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PC ゲームのプラットフォームとクラウドゲーミングについて",
+      "author" : "@os1ma",
+      "day" : 20,
+      "url" : "https://www.kanzennirikaisita.com/posts/pc-gaming-platform-and-cloud-gaming"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【感想】『GPUを支える技術』を読みました",
+      "author" : "@os1ma",
+      "day" : 21,
+      "url" : "https://www.kanzennirikaisita.com/posts/4297119544"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GAN とディープフェイクについて調べたこと",
+      "author" : "@os1ma",
+      "day" : 22,
+      "url" : "https://www.kanzennirikaisita.com/posts/gan-and-deepfake-first-step"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メディアアート・デジタルアートの概要と、利用できるソフトウェア・ライブラリ",
+      "author" : "@os1ma",
+      "day" : 23,
+      "url" : "https://www.kanzennirikaisita.com/posts/media-art-and-digital-art-overview"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NFT のメリットのよくある誤解と、結局なぜ価値があるのか",
+      "author" : "@os1ma",
+      "day" : 24,
+      "url" : "https://www.kanzennirikaisita.com/posts/nft-misunderstandings-and-the-worth"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「画像・動画・音声処理および XR ひとりアドベントカレンダー」まとめ",
+      "author" : "@os1ma",
+      "day" : 25,
+      "url" : "https://www.kanzennirikaisita.com/posts/last-day-of-media-and-xr-lonely-advent-calendar"
+    }
+  ]
+}

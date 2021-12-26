@@ -1,0 +1,329 @@
+{
+  "created_at" : "2021-12-26T02:03:30Z",
+  "calendar_meta_data" : {
+    "author" : "@RyotaMurohoshi",
+    "category" : "プログラミング言語",
+    "lgtm" : 542,
+    "subscribers" : 191,
+    "title" : "C# Advent Calendar 2021",
+    "participants" : 36,
+    "unique_name" : "csharplang",
+    "url" : "https://qiita.com/advent-calendar/2021/csharplang"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET 6でLINQに追加されたメソッド",
+      "author" : "@RyotaMurohoshi",
+      "day" : 1,
+      "url" : "https://qiita.com/RyotaMurohoshi/items/14efd4492ac14ee635cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "xunit.netで、テストに対して独自の属性を付ける(Trait)",
+      "author" : "@skitoy4321",
+      "day" : 2,
+      "url" : "https://qiita.com/skitoy4321/items/69d1444a1e30826ce4a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET 6 で動的にJsonパースする標準クラス JsonNode",
+      "author" : "@hqf00342",
+      "day" : 3,
+      "url" : "https://qiita.com/hqf00342/items/6dd97a99c5c46c14e0e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET 6とAngleSharpによるC#でのスクレイピング技法",
+      "author" : "@neuecc",
+      "day" : 4,
+      "url" : "https://neue.cc/2021/12/04.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(C#) async/await を理解する",
+      "author" : "@ikorin24",
+      "day" : 5,
+      "url" : "https://ikorin2.hatenablog.jp/entry/2021/12/05/072126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Roslyn APIを使って、構文ツリー解析を行う方法",
+      "author" : "@shun-shun123",
+      "day" : 6,
+      "url" : "https://www.mum-meblog.com/entry/research-detail/roslyn-api/syntax-tree-analysis"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dotnet format を CI で行って継続的にコードフォーマットしていく",
+      "author" : "@guitarrapc_tech",
+      "day" : 7,
+      "url" : "https://tech.guitarrapc.com/entry/2021/12/07/232921"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET+VS Codeでもデザイン時 T4 テキスト テンプレートを使いたかった",
+      "author" : "@nogic1008",
+      "day" : 8,
+      "url" : "https://qiita.com/nogic1008/items/95d86dd39b58aadbf298"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C#】知られざる比較の高速化戦略",
+      "author" : "@Kujiro",
+      "day" : 9,
+      "url" : "https://qiita.com/Kujiro/items/e687b089a0348d989f1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EventCounterについて",
+      "author" : "@skitoy4321",
+      "day" : 10,
+      "url" : "https://qiita.com/skitoy4321/items/0b68e03f82ae214bf572"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[WPF] 簡単なインベーダー的ゲームを作ってみる",
+      "author" : "@tera1707",
+      "day" : 11,
+      "url" : "https://qiita.com/tera1707/items/f70b3b707a780a8f44d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "await using を Unity の自作ダイアログ表示に利用してみる",
+      "author" : "@monry",
+      "day" : 12,
+      "url" : "https://zenn.dev/monry/articles/20211212-await-using-in-unity"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Material Design In XAML Toolkit v4.3 の紹介",
+      "author" : "@soi",
+      "day" : 13,
+      "url" : "https://qiita.com/soi/items/a0555cf745c3791ed8ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「C#？Visual Studio要るんでしょ？」からの脱却",
+      "author" : "@ikuosaito1989",
+      "day" : 14,
+      "url" : "https://qiita.com/ikuosaito1989/items/407b7f966efb1c2c3097"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#プログラムを自動ビルドするやつをC#(半分嘘)で作る",
+      "author" : "@C2_now",
+      "day" : 15,
+      "url" : "https://qiita.com/C2_now/items/769d0d1c2b7c151213b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASP.NET Web API2 Owin ・ ASP.NET Core でミドルウェアを作成する",
+      "author" : "@wasimaru",
+      "day" : 16,
+      "url" : "https://qiita.com/wasimaru/items/f20b9af62e8c351f8aa0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数のIEnumerable<T>型をまとめて廻す【Zip】",
+      "author" : "@tkhshiq",
+      "day" : 17,
+      "url" : "https://qiita.com/tkhshiq/items/3664eb26bae4e2038204"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VS2022デザイン時C#プログラミング(WinForms)",
+      "author" : "@arimoo",
+      "day" : 18,
+      "url" : "https://qiita.com/arimoo/items/a25e19bd1c9dd76cf2fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "脱初心者C#er? - System.Collections.Generic入門",
+      "author" : "@Kosei-Yoshida",
+      "day" : 19,
+      "url" : "https://qiita.com/Kosei-Yoshida/items/f68923481e3ee210e674"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#のアプデでめちゃくちゃ便利になったswitch文（パターンマッチング）の紹介",
+      "author" : "@toRisouP",
+      "day" : 20,
+      "url" : "https://qiita.com/toRisouP/items/18b31b024b117009137a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作UIフレームワークExprazorの紹介と仮想DOMの実装方法",
+      "author" : "@WiZLite",
+      "day" : 21,
+      "url" : "https://qiita.com/WiZLite/items/6448185e5156efa348e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET6にはいったPriorityQueueと、それ使ったダイクストラ法の実装について",
+      "author" : "@yucchiy",
+      "day" : 22,
+      "url" : "https://blog.yucchiy.com/2021/12/priority-queue-dotnet6/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C#】マルチスレッド関連操作の詳説。",
+      "author" : "@nenoNaninu",
+      "day" : 23,
+      "url" : "https://blog.neno.dev/entry/2021/12/23/124215"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#による投資検証ライブラリMagicalNuts",
+      "author" : "@yooce",
+      "day" : 24,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/24/055826"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C#】（値型と参照型の）値渡しと参照渡し -引数を渡す",
+      "author" : "@YuMo_tea",
+      "day" : 25,
+      "url" : "https://qiita.com/YuMo_tea/items/63e76cefa5acf38d30cf"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "オブジェクト指向って何だよ！",
+      "author" : "@rarafy",
+      "day" : 13,
+      "url" : "https://qiita.com/rarafy/items/640907de6ea232abca4b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "C#アプリケーション開発に、NoSQLドキュメント指向組み込みデータベースCouchbase Liteを使ってみる",
+      "author" : "@yoshiyuki_kono",
+      "day" : 14,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/a0a9e319aa43e615e5aa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【ASP.NET Core】【EntityFramework Core】【C#】 .NET 5 から .NET 6 に更新する",
+      "author" : "@masanori_msl",
+      "day" : 15,
+      "url" : "https://mslgt.hatenablog.com/entry/2021/12/16/000023"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UnitGeneratorを使う",
+      "author" : "@spacekey",
+      "day" : 16,
+      "url" : "https://spacekey.dev/unit-generator"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "WPF CheckBoxのサイズ変更（スタイルで）",
+      "author" : "@hiro_t",
+      "day" : 17,
+      "url" : "https://qiita.com/hiro_t/items/fa457510ef878399b7f3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ダメなコードの書き方 (ex. ASP.NET Core ミドルウェアの非同期初期化）",
+      "author" : "@aetos",
+      "day" : 18,
+      "url" : "https://tech.blog.aerie.jp/entry/2021/12/18/042955"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Razer ChromaとNZXT CAMを繋げてクロスプラットフォームゲーミングPCを実現した話（ちょっとCorsairも）",
+      "author" : "@TechNinja",
+      "day" : 19,
+      "url" : "https://qiita.com/TechNinja/items/0fe8e38e54cd5c6d4344"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "async/awaitとTask.Runの動作を実際に確認してみる",
+      "author" : "@ColloidGel",
+      "day" : 20,
+      "url" : "https://colloidgel.hatenablog.com/entry/20211220_advent"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "C#でも名前付きキャプチャを使う Named Group",
+      "author" : "@baku2san",
+      "day" : 21,
+      "url" : "https://qiita.com/baku2san/items/b4e14bf97a195ef57757"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "C#のプロパティによるパターンマッチングを使おう",
+      "author" : "@emoacht",
+      "day" : 22,
+      "url" : "https://qiita.com/emoacht/items/dc1c40769dc6cdc1ef44"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "C# パターンマッチングのデコンパイルコードを確認する",
+      "author" : "@sh1ch",
+      "day" : 23,
+      "url" : "https://qiita.com/sh1ch/items/cd8a418ec2bf7f3eafb2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "WPF DatePickerで、IMEをオフにする。",
+      "author" : "@hiro_t",
+      "day" : 24,
+      "url" : "https://qiita.com/hiro_t/items/ddc393d20ab09b14d835"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : ".NET 6からのC# Incremental Source Generatorの開発入門",
+      "author" : "@pCYSl5EDgo",
+      "day" : 25,
+      "url" : "https://zenn.dev/pcysl5edgo/articles/6d9be0dd99c008"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "created_at" : "2021-12-25T23:08:08Z",
+  "calendar_meta_data" : {
+    "author" : "@satoimooimo",
+    "category" : "エディタ",
+    "lgtm" : 3,
+    "subscribers" : 10,
+    "title" : "Atom Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "atom",
+    "url" : "https://qiita.com/advent-calendar/2021/atom"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のAtom Editor",
+      "author" : "@access3151fq",
+      "day" : 1,
+      "url" : "https://qiita.com/access3151fq/items/a5370a3ef5d31268590d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@beetomega"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Atom使い方ガイド",
+      "author" : "@harehare211",
+      "day" : 10,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Atom Python実行方法",
+      "author" : "@harehare211",
+      "day" : 22,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Atomのショートカット紹介",
+      "author" : "@harehare211",
+      "day" : 23,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Atom日本語化設定方法",
+      "author" : "@harehare211",
+      "day" : 24,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "autocomplete-paths",
+      "author" : "@harehare211",
+      "day" : 25,
+      "url" : "https://note.com/"
+    }
+  ]
+}

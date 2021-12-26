@@ -1,0 +1,159 @@
+{
+  "created_at" : "2021-12-26T00:36:26Z",
+  "calendar_meta_data" : {
+    "author" : "@taikis",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 24,
+    "subscribers" : 63,
+    "title" : "Google Apps Script Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "google-apps-script",
+    "url" : "https://qiita.com/advent-calendar/2021/google-apps-script"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【GAS小ネタ】メール送信APIを最大限しゃぶり尽くす、3つの小技",
+      "author" : "@taikis",
+      "day" : 1,
+      "url" : "https://qiita.com/taikis/items/7e093af1b78c9b6d245c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps ScriptでDataportalのレポートを毎日Slackに配信する",
+      "author" : "@swfz",
+      "day" : 2,
+      "url" : "https://swfz.hatenablog.com/entry/2021/12/02/202500"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps Script の入門テキストを書いた話",
+      "author" : "@hitsumabushi845",
+      "day" : 3,
+      "url" : "https://qiita.com/hitsumabushi845/items/7e5d7c27cd8b8e1fbc8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps Scriptで気象庁の天気予報JSONデータをお手軽に使えちゃうライブラリー",
+      "author" : "@takatama",
+      "day" : 4,
+      "url" : "https://qiita.com/takatama/items/21f0afd911d7d6f04862"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[GAS] カスタム関数を開発するときの3つの注意点",
+      "author" : "@uramotot",
+      "day" : 5,
+      "url" : "https://qiita.com/uramotot/items/19b8baa2fb9c4f4109c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GAS】Googleフォームの回答を任意のスプレッドシートに振り分ける",
+      "author" : "@Ajarimochi",
+      "day" : 6,
+      "url" : "https://qiita.com/Ajarimochi/items/73b01362a664b0a84f91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "共有リソース（会議室など）を、一覧表（スプレッドシート）に基づいて一括作成する",
+      "author" : "@tsuchm",
+      "day" : 7,
+      "url" : "https://github.com/tsuchm/gas-manage-resource-calendar"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleAppsScript からSSHサーバー経由でオンプレMySQLにつないでみた：CData APIServer",
+      "author" : "@miyamotok",
+      "day" : 8,
+      "url" : "https://qiita.com/miyamotok/items/5567d18cd20e9cb4d04c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASで作るシフト管理表",
+      "author" : "@rabirion",
+      "day" : 10,
+      "url" : "https://qiita.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Clasp] Google Apps Script で npm install した package を利用する",
+      "author" : "@suzukenz",
+      "day" : 11,
+      "url" : "https://qiita.com/suzukenz/items/dbe13d5f8884752a37f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apps Script の LinearOptimizationService で数独を解く",
+      "author" : "@ttk1",
+      "day" : 13,
+      "url" : "https://blog.ttk1.net/2021/12/12/Apps_Script_%E3%81%AE_LinearOptimizationService_%E3%81%A7%E6%95%B0%E7%8B%AC%E3%82%92%E8%A7%A3%E3%81%8F"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps Scriptを使って最新Kindle OSでも引用をtweetできるようにした",
+      "author" : "@bigwheel",
+      "day" : 14,
+      "url" : "https://qiita.com/bigwheel/items/9cbc6edec3ccc6100a67"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASでプログラミング入門 ～応用編 Vol.3 リンクチェッカーを作ってみる～",
+      "author" : "@YoshinagaYuta",
+      "day" : 15,
+      "url" : "https://qiita.com/YoshinagaYuta/items/4506b46c7c5e21f47757"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@taptappun"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASで推しのYouTubeチャンネルの更新をDiscordに通知する",
+      "author" : "@tkgtamagohan",
+      "day" : 21,
+      "url" : "https://qiita.com/tkgtamagohan/items/74d011b9fe0599d8279c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@merutin"
+    }
+  ]
+}

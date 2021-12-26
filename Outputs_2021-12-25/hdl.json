@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-26T02:43:48Z",
+  "calendar_meta_data" : {
+    "author" : "@taichi-ishitani",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 72,
+    "subscribers" : 22,
+    "title" : "HDL (SystemVerilog/Verilog/VHDL/Chisel/etc.) Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "hdl",
+    "url" : "https://qiita.com/advent-calendar/2021/hdl"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "[SystemVerilog] interface と function を組み合わせると便利ですよ、という話",
+      "author" : "@taichi-ishitani",
+      "day" : 1,
+      "url" : "https://qiita.com/taichi-ishitani/items/ec351cc5d793a4382da0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VivadoのIntelligent Design Runタイミングクロージャ",
+      "author" : "@tethys_seesaa",
+      "day" : 2,
+      "url" : "https://qiita.com/tethys_seesaa/items/bee676f45eee49d67669"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めてのChisel - インストール編",
+      "author" : "@hogehogepoo",
+      "day" : 3,
+      "url" : "https://qiita.com/hogehogepoo/items/80a853ef1319846b7059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めてのChisel - コンパイル編",
+      "author" : "@hogehogepoo",
+      "day" : 4,
+      "url" : "https://qiita.com/hogehogepoo/items/76fe661de228d8a2abba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chiselで始める爆速LSI設計",
+      "author" : "@Cra2yPierr0t",
+      "day" : 5,
+      "url" : "https://cra2ypierr0t.hatenablog.jp/entry/2021/12/05/000457"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これからは Python HLS (Polyphony)でしょ",
+      "author" : "@ryos36",
+      "day" : 6,
+      "url" : "https://qiita.com/ryos36/items/5a7b49603037b7d0b80c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めてのChisel - テスト、制約、エラー",
+      "author" : "@hogehogepoo",
+      "day" : 7,
+      "url" : "https://qiita.com/hogehogepoo/items/06c73f4b889a53dbc780"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASIC開発におけるChiselの課題",
+      "author" : "@dalance",
+      "day" : 8,
+      "url" : "https://qiita.com/dalance/items/43175bfd61c0754ecb1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SystemVerilog フォーマッタ verible のオプションの解説",
+      "author" : "@Ag48",
+      "day" : 9,
+      "url" : "https://ag-48.hatenablog.com/entry/2021/12/07/223018"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Verilator と Visual Studio で検証したい",
+      "author" : "@pgate1",
+      "day" : 10,
+      "url" : "https://pgate1.at-ninja.jp/memo/VerilatorMSVC/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VHDLで作る AXI Bus Function Model 「Dummy_Plug」 の紹介",
+      "author" : "@ikwzm",
+      "day" : 11,
+      "url" : "https://qiita.com/ikwzm/items/a1b301d8ed8cb59483e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python をテストベンチにして検証する",
+      "author" : "@tom01h",
+      "day" : 12,
+      "url" : "https://github.com/tom01h/DPI-Python"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python をテストベンチにして検証する (Verilator 編)",
+      "author" : "@tom01h",
+      "day" : 13,
+      "url" : "https://github.com/tom01h/Verilator-Python"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonでVerilogもSPICEも同時に生成しLSIの設計・テストを効率化した",
+      "author" : "@toriten1024",
+      "day" : 14,
+      "url" : "https://toriten1024.hatenablog.com/entry/2021/12/14/233404?_ga=2.217559007.816274035.1639460877-57908627.1637303326"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "windowsでiverilog その124",
+      "author" : "@ohisama@github",
+      "day" : 15,
+      "url" : "https://qiita.com/ohisama@github/items/53a1fb1fda7734ccd470"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "windowsでiverilog その125",
+      "author" : "@ohisama@github",
+      "day" : 16,
+      "url" : "https://qiita.com/ohisama@github/items/416d41cfc2ba95d0ce9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "windowsでiverilog その126",
+      "author" : "@ohisama@github",
+      "day" : 17,
+      "url" : "https://qiita.com/ohisama@github/items/6342963019fca2e0e5d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FPGAで回路設計する際に生じる配線遅延を調査してみた話",
+      "author" : "@sttn",
+      "day" : 18,
+      "url" : "https://qiita.com/sttn/items/1c5385516e22a829c218"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dockerでchisel。２通りでbuildしてみた。最後は「RISC-VとChiselで学ぶCPU自作」。",
+      "author" : "@kaizen_nagoya",
+      "day" : 19,
+      "url" : "https://qiita.com/kaizen_nagoya/items/6925755897f7d83bfe42"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iotestersからChiselTestへの移行を考える",
+      "author" : "@diningyo",
+      "day" : 20,
+      "url" : "https://www.tech-diningyo.info/entry/2021/12/20/0630"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VHDL-2008のforce/releaseとexternal name",
+      "author" : "@windy",
+      "day" : 21,
+      "url" : "https://qiita.com/windy/items/ffe556b8d6840f496d92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのSFL+",
+      "author" : "@pgate1",
+      "day" : 22,
+      "url" : "https://pgate1.at-ninja.jp/memo/SFLP/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SystemVerilog 使い始め演習：同じ回路のカスケード接続に implicit port connection (.*) または struct を使ってみた",
+      "author" : "@rtl_modeler",
+      "day" : 23,
+      "url" : "https://qiita.com/rtl_modeler/items/eb66db2bba6e36366c05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VHDL で記述する多ビット CRC 生成回路(簡易版)",
+      "author" : "@ikwzm",
+      "day" : 24,
+      "url" : "https://qiita.com/ikwzm/items/70fec3e68c80e7db8118"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@heppoko_yuki"
+    }
+  ]
+}

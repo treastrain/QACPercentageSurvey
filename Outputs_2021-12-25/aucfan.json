@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:36:35Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社オークファン",
+    "category" : "企業・学校・団体",
+    "lgtm" : 154,
+    "subscribers" : 2,
+    "title" : "オークファングループ Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "aucfan",
+    "url" : "https://qiita.com/advent-calendar/2021/aucfan"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "オークファンのご紹介2021",
+      "author" : "@aucfan-nodake",
+      "day" : 1,
+      "url" : "https://qiita.com/aucfan-nodake/items/b4c804fab684ec20a253"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "優しい忘却～知識紛失アンチパターンと戦う",
+      "author" : "@s_satoh",
+      "day" : 2,
+      "url" : "https://qiita.com/s_satoh/items/90edca7b5754d563bba0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "領域展開「Gradle」で Node.js を制する",
+      "author" : "@aucfan-engineer",
+      "day" : 3,
+      "url" : "https://qiita.com/aucfan-engineer/items/fc84490d9fef48e3f136"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これで私もKotlinエンジニア",
+      "author" : "@aucfan-engineer",
+      "day" : 4,
+      "url" : "https://qiita.com/aucfan-engineer/items/53adb6a2feecf275bd0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "独自KVSデータベースを作ってみた",
+      "author" : "@isoda",
+      "day" : 5,
+      "url" : "https://qiita.com/isoda/items/638ce0654bd7e73cdce7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数サイトのWordPressを統合する手順まとめ",
+      "author" : "@s_satoh",
+      "day" : 6,
+      "url" : "https://qiita.com/s_satoh/items/6ea24981e18a10b044da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そのScriptクエリは本当に避けるべきなのか",
+      "author" : "@tmot",
+      "day" : 7,
+      "url" : "https://qiita.com/tmot/items/40dec6f70f6b4c28d8c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elasticsearch】N-gram tokenizer が単語に含める文字種はUnicodeの一般カテゴリから判断できる",
+      "author" : "@af_ty",
+      "day" : 8,
+      "url" : "https://qiita.com/af_ty/items/47460f11e4617f1a9847"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウェブアクセシビリティ達成基準の覚書",
+      "author" : "@af_eto",
+      "day" : 9,
+      "url" : "https://qiita.com/af_eto/items/5bb7d9f143877abd733f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大量の時系列データはパーティションテーブルで取り込もう【PostgreSQL】 ",
+      "author" : "@ngok",
+      "day" : 10,
+      "url" : "https://qiita.com/ngok/items/f7a0e43b6d4c99b92288"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "製造業からIT業界へ転職して感じたギャップ",
+      "author" : "@Soogle_1729",
+      "day" : 11,
+      "url" : "https://qiita.com/Soogle_1729/items/74c2d8c1a9f163946f76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goの乱数生成について調べてみた（ベンチマーク）",
+      "author" : "@isoda",
+      "day" : 12,
+      "url" : "https://qiita.com/isoda/items/faaeaddfc6f3aeaa566b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go Fyneで遊んでみた",
+      "author" : "@af-2784",
+      "day" : 13,
+      "url" : "https://qiita.com/af-2784/items/962bc6b4f7f69380be82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XDとPhotoshopのアセット連携",
+      "author" : "@af_take",
+      "day" : 14,
+      "url" : "https://qiita.com/af_take/items/676d48a02ca1b14e740a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Elasticsearch】メモリ32GBの境界を越えてゆけ",
+      "author" : "@iwatake255",
+      "day" : 15,
+      "url" : "https://qiita.com/iwatake255/items/1651f4409d9bb481bdec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『オブジェクトの再配色』を使って一瞬でカラフルなイラレ猫大集合",
+      "author" : "@af_ns",
+      "day" : 16,
+      "url" : "https://qiita.com/af_ns/items/493021ef1b81b5907481"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無料・商用利用可なイラストサイト",
+      "author" : "@aucfan-tanabe",
+      "day" : 17,
+      "url" : "https://qiita.com/aucfan-tanabe/items/0ff0b4cd47b4ad18eeb3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自宅VPNの遍歴を語る",
+      "author" : "@kei75",
+      "day" : 18,
+      "url" : "https://qiita.com/kei75/items/20058678b33780848ae8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL-5.5へのMySQL-8.0(Aurora3.0)のレプリケーション",
+      "author" : "@aucfan-yotsuya",
+      "day" : 19,
+      "url" : "https://qiita.com/aucfan-yotsuya/items/3884d2793f4358a9f80d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無限にホメてくれる VSCode Power Mode で自己肯定感を爆上げする",
+      "author" : "@aucfan-0540",
+      "day" : 20,
+      "url" : "https://qiita.com/aucfan-0540/items/01e33583fe76318fb3b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AdobeFontsで使えるおすすめフォント",
+      "author" : "@KK_Arashi",
+      "day" : 21,
+      "url" : "https://qiita.com/KK_Arashi/items/f0a36afbf2db47a1644e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sublime Text 3からVisual Studio Codeへ…目に優しいTheme探しをしました",
+      "author" : "@azne",
+      "day" : 22,
+      "url" : "https://qiita.com/azne/items/cf84935ba3912b6db095"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WEBデザインの配色のコツとおすすめサービスご紹介",
+      "author" : "@aucfan_hasebe",
+      "day" : 23,
+      "url" : "https://qiita.com/aucfan_hasebe/items/dd413c0cda776f84c6e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormationを使うならルールを決めておきましょう",
+      "author" : "@kaqua",
+      "day" : 24,
+      "url" : "https://qiita.com/kaqua/items/959e729daddbd3b20dab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "転職後１年を振り返り｜苦労しながら学んだ「仕事をうまく回す」ためのコツ",
+      "author" : "@nakamurak_aucfan",
+      "day" : 25,
+      "url" : "https://qiita.com/nakamurak_aucfan/items/4d40a0375b373eb962dd"
+    }
+  ]
+}

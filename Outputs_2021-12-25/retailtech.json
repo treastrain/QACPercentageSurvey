@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-26T00:40:40Z",
+  "calendar_meta_data" : {
+    "author" : "@watanabe-tsubasa",
+    "category" : "その他",
+    "lgtm" : 67,
+    "subscribers" : 7,
+    "title" : "リテールテック Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "retailtech",
+    "url" : "https://qiita.com/advent-calendar/2021/retailtech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "世界における #リテールテック の潮流",
+      "author" : "@watanabe-tsubasa",
+      "day" : 1,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/cf56f57832267ba6d902"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "継続作成記事：POP Analyzer①",
+      "author" : "@watanabe-tsubasa",
+      "day" : 2,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/ba64b0734110de4d709e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HACCPが制度化されたので、温度を定期的に取得して記録するデバイスを作成",
+      "author" : "@watanabe-tsubasa",
+      "day" : 3,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/0962d95fb569485119f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "客注リマインドシステムでお客さまに御迷惑をおかけしない",
+      "author" : "@watanabe-tsubasa",
+      "day" : 4,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/d5532466a72d1b63fba4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "国内における #リテールテック の潮流",
+      "author" : "@watanabe-tsubasa",
+      "day" : 5,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/085ba006384059400853"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "認知症フレンドリーなリテールテックについて考える",
+      "author" : "@naokiuc",
+      "day" : 6,
+      "url" : "https://qiita.com/naokiuc/items/2e41cd42f5f8b8e99b1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "客注リマインドシステム②入力部分の作成",
+      "author" : "@watanabe-tsubasa",
+      "day" : 7,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/068534c8d51ab31a5bdc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASで最終行を取得するメモ",
+      "author" : "@n0bisuke",
+      "day" : 8,
+      "url" : "https://qiita.com/n0bisuke/items/95f9044f98cf3691c748"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "継続記事② Customer Analyzer：ダミーデータを生成し、分析デモを見せる",
+      "author" : "@watanabe-tsubasa",
+      "day" : 9,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/b7104196276c5aadc089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "まいばすけっとのレシートをtesseract.jsでOCR読み込みしてみる #リテールテック",
+      "author" : "@n0bisuke",
+      "day" : 10,
+      "url" : "https://qiita.com/n0bisuke/items/6aa2b7a3cadfa08a22aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@watanabe-tsubasa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@watanabe-tsubasa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "web会議が終わったら お礼メール自動作成　PADで業務をスリムに !",
+      "author" : "@okinakamasayoshi",
+      "day" : 13,
+      "url" : "https://qiita.com/okinakamasayoshi/items/90c9b2d9b2a9d7568117"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "位置情報 + ARで、スマホカメラを向けた方にあるお店の情報が見えるアプリ（プロト）",
+      "author" : "@sayakaitooo",
+      "day" : 14,
+      "url" : "https://qiita.com/sayakaitooo/items/e212976938d5a07b93db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "医療介護現場に笑顔を増やすプロダクトを実装したい-スマイルレポート2",
+      "author" : "@naokiuc",
+      "day" : 15,
+      "url" : "https://qiita.com/naokiuc/items/dc4cb35fbdeba7c7a7a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@watanabe-tsubasa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitterで発信した告知に対して、お客さまの反応をいち早くキャッチアップしたい！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 17,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/9f3bb1fb3edf176ff5ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@watanabe-tsubasa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「絶好調」「好調」「普通」「不調」「絶不調」を顔判定！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 19,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/96084830002a8376d0a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3タップで完了するLINEフォトアルバム #LINE #GAS #GoogleSpreadSheet",
+      "author" : "@okinakamasayoshi",
+      "day" : 20,
+      "url" : "https://qiita.com/okinakamasayoshi/items/1b30f3b8533a61bd2f12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地域のSMについて書きます！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 21,
+      "url" : "https://qiita.com/dsvvpxgcseldie"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外SMについて書きます！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 22,
+      "url" : "https://qiita.com/dsvvpxgcseldie"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【企画段階】イベントごとのお得な情報をLINEで管理したい",
+      "author" : "@tanaka_LV5",
+      "day" : 23,
+      "url" : "https://qiita.com/tanaka_LV5/items/55873c61f32157df048b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IFTTTで業務改善　移動車両の発着時間を自動記録する",
+      "author" : "@okinakamasayoshi",
+      "day" : 24,
+      "url" : "https://qiita.com/okinakamasayoshi/items/f424d1b4f824b956d4db"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@watanabe-tsubasa"
+    }
+  ]
+}

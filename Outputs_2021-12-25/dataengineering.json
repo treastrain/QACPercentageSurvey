@@ -1,0 +1,260 @@
+{
+  "created_at" : "2021-12-26T02:41:41Z",
+  "calendar_meta_data" : {
+    "author" : "@simonritchie",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 2,
+    "subscribers" : 71,
+    "title" : "データ基盤・BIツール・データエンジニアリング Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "dataengineering",
+    "url" : "https://qiita.com/advent-calendar/2021/dataengineering"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験から実案件やったら見事に苦労した件〜実務案件体験記〜",
+      "author" : "@mokio",
+      "day" : 1,
+      "url" : "https://qiita.com/mokio/items/e19f90b126a1027cfec0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "主要BIツールの特徴とおすすめな使い方まとめを書く@BIツール研究所",
+      "author" : "@willanalysts",
+      "day" : 2,
+      "url" : "https://note.com/willanalysts/n/nb00c7ba838a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AirflowのDAG単体テストの事始め",
+      "author" : "@takemikami",
+      "day" : 5,
+      "url" : "https://takemikami.com/2021/12/05/AirflowDAG.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Airbyte + dbt クイックハンズオン on GCP",
+      "author" : "@ken637",
+      "day" : 6,
+      "url" : "https://kwknkk.hatenablog.com/entry/2021/12/06/171912"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Prefect Orionについて何か書いた",
+      "author" : "@notrogue",
+      "day" : 11,
+      "url" : "https://not-rogue.hatenablog.com/entry/2021/12/11/093851"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年11月公開の記事 「Firebaseイベント、Bigquery、DataStudioを利用したABテストの可視化」",
+      "author" : "@ito1002jp",
+      "day" : 12,
+      "url" : "https://tech.asken.inc/entry/2021/12/14/190000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データエンジニアの1年のお仕事の振り返り",
+      "author" : "@simonritchie",
+      "day" : 13,
+      "url" : "https://qiita.com/simonritchie/items/6e67c9dc1e015ea3b6a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2025年の崖から落ちそうなレガシー企業でデータ利活用を推進している話",
+      "author" : "@FP92754991",
+      "day" : 15,
+      "url" : "https://note.com/datamanagement/n/n9945ad1b5da4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒データアナリストがデータ分析基盤構築をした話",
+      "author" : "@D_eng",
+      "day" : 16,
+      "url" : "https://note.com/d_eng/n/nc05809501a8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアがいない組織で1からデータ基盤を構築した話",
+      "author" : "@kanazawag",
+      "day" : 17,
+      "url" : "https://gktechblog.com/blg027"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SaaSが公開してるAPIをいくつかのインタフェースに変えてアクセスしてみる",
+      "author" : "@miyamotok",
+      "day" : 18,
+      "url" : "https://qiita.com/miyamotok/items/18c3ea9f2f573530c8b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルにあるspreadsheetのデータをDigdagとEmbulkでBigQueryに連携した話",
+      "author" : "@asteriam",
+      "day" : 22,
+      "url" : "https://masatakashiwagi.github.io/portfolio/post/integrate-spreadsheets-to-bigquery-with-digdag/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Quicksightで文字オブジェクトを作成する",
+      "author" : "@wonohe",
+      "day" : 24,
+      "url" : "https://qiita.com/wonohe/items/e5c59cea66c33aabd80b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Airflow Deferrable Operators Editついてなにか書いた",
+      "author" : "@notrogue",
+      "day" : 25,
+      "url" : "https://zenn.dev/notrogue/articles/b2d88d4d1c734b"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Airbyteコネクタ作成方法に関するドキュメントの一部翻訳 - Python CDK: Creating a HTTP API Source",
+      "author" : "@ken637",
+      "day" : 25,
+      "url" : "https://kwknkk.hatenablog.com/entry/2021/12/25/013703"
+    }
+  ]
+}

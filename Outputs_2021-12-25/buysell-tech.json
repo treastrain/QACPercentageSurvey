@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T20:37:39Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社BuySell Technologies",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "バイセルテクノロジーズ Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "buysell-tech",
+    "url" : "https://qiita.com/advent-calendar/2021/buysell-tech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Apollo Clientを採用した際のフロントエンドの構成について考えてみた",
+      "author" : "@kazuki-engineer",
+      "day" : 1,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoでRubyみたいに単体テストを書きたくてやったこと",
+      "author" : "@fujisawa33",
+      "day" : 2,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BtoBオークションのプロダクト紹介",
+      "author" : "@tksmts",
+      "day" : 3,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムを始める時にやっていること",
+      "author" : "@naoto_pq",
+      "day" : 4,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCIで構築されたCI/CD環境をGitHub Actionsに移行した際のポイント",
+      "author" : "@Ryota-Onuma",
+      "day" : 5,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムに慣れてきたら考えるべきこと",
+      "author" : "@naoto_pq",
+      "day" : 6,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "elasticsearchを導入するにあたって考えたこと",
+      "author" : "@taihei618",
+      "day" : 7,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-07"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規プロジェクトにインフラ監視ツールを導入した話",
+      "author" : "@kazizi55",
+      "day" : 8,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hasura でプロダクト開発をしてみて感じた良かったところ・辛かったところ",
+      "author" : "@kmtym1998",
+      "day" : 9,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SlackボットとGASで癒しを提供する話",
+      "author" : "@ShoyaSuzuki-bst",
+      "day" : 10,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Redis Pub/Sub でお手軽にお知らせ配信機能を実装する",
+      "author" : "@hi_im_peng",
+      "day" : 11,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンラインイベントで役立つアンケート作成のスキル",
+      "author" : "@naoto_pq",
+      "day" : 12,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バイセルの買取現場を支えるシステムと今後の方針",
+      "author" : "@kalonew",
+      "day" : 13,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "部署異動して感じたディレクターの魅力",
+      "author" : "@bst_asano",
+      "day" : 14,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ディレクターが要件定義で気を付けていること",
+      "author" : "@yuihicroose",
+      "day" : 15,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Smart Proxy Managerを用いたクローラー実行時のアクセス遮断への対策",
+      "author" : "@akgw",
+      "day" : 16,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お店の空き時間をビット演算の論理和で算出する",
+      "author" : "@rfjmt",
+      "day" : 17,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React + TypeScript環境にGA4(Google Analytics)を導入してみた",
+      "author" : "@sakai_9029",
+      "day" : 18,
+      "url" : "https://tech.buysell-technologies.com/draft/entry/QKPXhS8lAN6htxG78eYlpV3pAXA"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gqlgen と Auth0 を利用した認証機能の話",
+      "author" : "@bst-imai",
+      "day" : 19,
+      "url" : "https://tech.buysell-technologies.com/draft/entry/Qj0db6ao8oggJcBQApiOI_-HwRc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 内定者インターンが行った社内サービスのデザイン刷新",
+      "author" : "@Tamarihiroto",
+      "day" : 20,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SentryでGoのcustom errorをstack trace付きで表示する",
+      "author" : "@kazizi55",
+      "day" : 21,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP でセキュアなサービスを構築するうえで考えたこと",
+      "author" : "@bst-imai",
+      "day" : 22,
+      "url" : "https://blog.hatena.ne.jp/bst-t-matsue/bst-tech.hatenablog.com/edit?entry=13574176438044256819"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "過去一やらかしにやらかしを重ねた話を供養する",
+      "author" : "@bst-n-sugita",
+      "day" : 23,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1000人規模の会社でSlackを導入・運用してみた",
+      "author" : "@bst_amano",
+      "day" : 24,
+      "url" : "https://tech.buysell-technologies.com/entry/adventcalendar2021-12-24"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kyuns"
+    }
+  ]
+}

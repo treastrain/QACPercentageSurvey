@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T01:00:51Z",
+  "calendar_meta_data" : {
+    "author" : "and factory株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 281,
+    "subscribers" : 6,
+    "title" : "and factory.inc Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "andfactory",
+    "url" : "https://qiita.com/advent-calendar/2021/andfactory"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlin coroutines 1.6.0-RCでリワークされたkotlinx-coroutines-testを見てみる",
+      "author" : "@myoshita",
+      "day" : 1,
+      "url" : "https://qiita.com/myoshita/items/ddf32d1629abeaa8442c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【エンジニアリング】ソフトウェア開発に携わる人間が、ポケモン対戦から学ぶべき3つのこと【ポエム】",
+      "author" : "@KKusumi",
+      "day" : 2,
+      "url" : "https://qiita.com/KKusumi/items/b6fc68d4dbb6cdfb342d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Jetpack Compose】Stateと再Composeの仕組みを検証してみた",
+      "author" : "@yasukotelin",
+      "day" : 3,
+      "url" : "https://qiita.com/yasukotelin/items/fe1a36b3e8d9d21f9126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データの暗号化・復号とSwiftでの実装の仕方について改めて調べてみた",
+      "author" : "@y-okudera",
+      "day" : 4,
+      "url" : "https://qiita.com/y-okudera/items/d52d3c1b3fb82176c78a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Android】 Jetpack Composeでドラッグ＆ドロップの並び替えを実現する 〜ライブラリに頼って〜",
+      "author" : "@tsumuchan",
+      "day" : 5,
+      "url" : "https://qiita.com/tsumuchan/items/d0fc2a4bd4af6802f9fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterエンジニア採用面談で聞きそうなこと",
+      "author" : "@nabetaro_jp",
+      "day" : 6,
+      "url" : "https://qiita.com/nabetaro_jp/items/ab8d4d69f170ec9e4ed1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AirDropでポケモンカードをシェアしてみた",
+      "author" : "@y-okudera",
+      "day" : 7,
+      "url" : "https://qiita.com/y-okudera/items/0601a59712455a53b8b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSチームレビュー体制(ルール/目的/観点/よくある質問) まとめ (2021/12)",
+      "author" : "@rd0501",
+      "day" : 8,
+      "url" : "https://zenn.dev/domonr/articles/b926de7960f2fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】iOS課金処理の、PurchaseStatus.pendingの挙動について",
+      "author" : "@hagmon",
+      "day" : 9,
+      "url" : "https://qiita.com/hagmon/items/d994830669270646c92b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実機デバッグしたときにクラッシュログを端末から取得する",
+      "author" : "@ichikawa7ss",
+      "day" : 10,
+      "url" : "https://qiita.com/ichikawa7ss/items/9d53301c67449831a94e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "docker-compose v2.2.1でlinksオプションが効かず躓いた話",
+      "author" : "@ta_nuki",
+      "day" : 11,
+      "url" : "https://qiita.com/ta_nuki/items/7830c6ab6d8b3c4327cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterでアクティブなBottomNavigationBarItemがタップされたらトップまでスクロールさせてみる",
+      "author" : "@y-okudera",
+      "day" : 12,
+      "url" : "https://qiita.com/y-okudera/items/fcb9ed97a8e351e86e6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発アプリに Xcode Cloud を導入してみた",
+      "author" : "@arusu0629",
+      "day" : 13,
+      "url" : "https://qiita.com/arusu0629/items/fdd05f36c94662023cec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】アプリ起動時に未処理トランザクションを処理する方法",
+      "author" : "@hagmon",
+      "day" : 14,
+      "url" : "https://qiita.com/hagmon/items/18fa26307123de793d41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoでAtCoderをやる話",
+      "author" : "@go_sagawa",
+      "day" : 15,
+      "url" : "https://qiita.com/go_sagawa/items/bc83c9c781be29b5bd88"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LiveDataをFlowにリプレースしてみて得た知見（StateFlow、SharedFlow、Channel）",
+      "author" : "@yasukotelin",
+      "day" : 16,
+      "url" : "https://qiita.com/yasukotelin/items/3a6afe861cc9345118d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリ・Webサービス開発者に必要なUIデザインの知識 - UIデザインの教科書をまとめた - ",
+      "author" : "@ichikawa7ss",
+      "day" : 17,
+      "url" : "https://qiita.com/ichikawa7ss/items/5eb4d465aa550b346e0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【iOS】ストレージの空き容量を取得する方法 & 容量不足のデバッグ",
+      "author" : "@ykkd",
+      "day" : 18,
+      "url" : "https://qiita.com/ykkd/items/a75a1a97cd72b3bbc469"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Android】画面分割やカットアウトに負けない画面サイズの測り方",
+      "author" : "@k_shinn",
+      "day" : 19,
+      "url" : "https://qiita.com/k_shinn/items/e6c12d459bec5af36fae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Jetpack Compose】お気に入りボタンのタップアニメーションの作り方",
+      "author" : "@ticktakclock",
+      "day" : 20,
+      "url" : "https://qiita.com/ticktakclock/items/e671733d1c5daac10ac7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【android】折りたたみ式端末対応",
+      "author" : "@MatsuNaoPen",
+      "day" : 21,
+      "url" : "https://qiita.com/MatsuNaoPen/items/d383ab3a6fe83118b4a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Template Repository使ってみた",
+      "author" : "@doihei",
+      "day" : 22,
+      "url" : "https://qiita.com/doihei/items/223c273a1aef467fc3fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Android】今日からできるSplashアイコンアニメーション【Splash】",
+      "author" : "@KKusumi",
+      "day" : 23,
+      "url" : "https://qiita.com/KKusumi/items/b29eaec03649fea8f7bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリのUIを考えるためにやったこと",
+      "author" : "@yst_i",
+      "day" : 24,
+      "url" : "https://qiita.com/yst_i/items/e27996525222bb857dfa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter未経験のチーム。3ヶ月でリリースまで漕ぎ着けました。",
+      "author" : "@nabetaro_jp",
+      "day" : 25,
+      "url" : "https://qiita.com/nabetaro_jp/items/518830b2e7f7b9cc9702"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-25T21:20:06Z",
+  "calendar_meta_data" : {
+    "author" : "@inokappa",
+    "category" : "企業・学校・団体",
+    "lgtm" : 11,
+    "subscribers" : 1,
+    "title" : "YAMAP エンジニア Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "yamap-engginers",
+    "url" : "https://qiita.com/advent-calendar/2021/yamap-engginers"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CodeArtifact を使ってみた",
+      "author" : "@inokappa",
+      "day" : 1,
+      "url" : "https://inokara.hateblo.jp/entry/2021/11/28/234308"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「まとめる」ための最強の方法、質的統合法(KJ法)思考を身につける",
+      "author" : "@tokita93",
+      "day" : 2,
+      "url" : "https://note.com/toki_takumi/n/nf1489b254cad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロジェクトリーダーをやってみて学んだ6つの事",
+      "author" : "@yykaoruko",
+      "day" : 3,
+      "url" : "https://rukolog.netlify.app/posts/learning-six-things-about-pl"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CodeArtifact を使ってみた (2) 〜 特定のパッケージだけ CodeArtifact 経由でパッケージをインストールしたい 〜",
+      "author" : "@inokappa",
+      "day" : 4,
+      "url" : "https://inokara.hateblo.jp/entry/2021/12/04/115551"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apollo Client で始める GraphQL",
+      "author" : "@sotszk",
+      "day" : 5,
+      "url" : "https://qiita.com/sotszk/items/b3c63c2bf08aca61805e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vertex Pipelines で BigQuery からデータをエクスポートするためにシェルスクリプトを使う",
+      "author" : "@ryutaro_mizokami",
+      "day" : 6,
+      "url" : "https://qiita.com/ryutaro_mizokami/items/76fd32e74d62ed6a653e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンポーネントの入力と出力を意識してユニットテストを書いてみよう",
+      "author" : "@t-yng",
+      "day" : 7,
+      "url" : "https://t-yng.jp/post/component-test-input-output"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Re:Earth をローカル環境で動かしてみた ",
+      "author" : "@higuhey",
+      "day" : 8,
+      "url" : "https://qiita.com/higuhey/items/63e6b5e4ffbb3162df5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入門ユーザーアンケート",
+      "author" : "@morygonzalez",
+      "day" : 9,
+      "url" : "https://portalshit.net/2021/12/09/how-to-recognize-users-pain-points"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "僕がフロントエンドのコードレビューをする時に意識していること",
+      "author" : "@t-yng",
+      "day" : 10,
+      "url" : "https://t-yng.jp/post/code-review-mind"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CircleCI でワークフロージョブの処理時間を可視化する試み",
+      "author" : "@inokappa",
+      "day" : 11,
+      "url" : "https://inokara.hateblo.jp/entry/2021/12/09/234926"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "急いで CloudFront コンテンツキャッシュの挙動について確認する 〜 最小 TTL の設定には気をつけたい 〜",
+      "author" : "@inokappa",
+      "day" : 12,
+      "url" : "https://inokara.hateblo.jp/entry/2021/12/15/002018"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Github API で仕事が捗ったのでメモ 〜 Nヶ月後の自分の為に 〜",
+      "author" : "@inokappa",
+      "day" : 13,
+      "url" : "https://inokara.hateblo.jp/entry/2021/12/23/193617"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CIでスペルチェックを自動化してみたけど最終的にやめた話",
+      "author" : "@t-yng",
+      "day" : 14,
+      "url" : "https://t-yng.jp/post/spell-check-ci"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GAS のトリガーでエラー検知を工夫してみた",
+      "author" : "@issyxissy",
+      "day" : 15,
+      "url" : "https://zenn.dev/issyxissy/articles/30d1690093ed05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECS デプロイが失敗した際の挙動を確認 〜 Nヶ月後の自分の為に 〜",
+      "author" : "@inokappa",
+      "day" : 16,
+      "url" : "https://inokara.hateblo.jp/entry/2021/12/23/213942"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "俺は月末の振り返りを Slack と Ruby でやっている",
+      "author" : "@inokappa",
+      "day" : 17,
+      "url" : "https://inokara.hateblo.jp/entry/2020/02/09/145507"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "僕が欲しい革新的サービス2選",
+      "author" : "@hidetaka-f-matsumoto",
+      "day" : 18,
+      "url" : "https://fisherman.hatenablog.com/entry/2021/12/18/205617"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@yykaoruko"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@maxmaxastea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@t-yng"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バグ修正から始めるフロントエンドのTDD入門",
+      "author" : "@t-yng",
+      "day" : 22,
+      "url" : "https://t-yng.jp/post/frontend-tdd-by-bugfix"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@t-yng"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@sotszk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@higuhey"
+    }
+  ]
+}

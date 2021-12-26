@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-25T18:28:00Z",
+  "calendar_meta_data" : {
+    "author" : "@tabimoba",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 3,
+    "subscribers" : 2,
+    "title" : "Workato Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "workato",
+    "url" : "https://qiita.com/advent-calendar/2021/workato"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：Workato REST APIとSlackを組み合わせてアクティブレシピの管理を効率化する",
+      "author" : "@tabimoba",
+      "day" : 1,
+      "url" : "https://qiita.com/tabimoba/items/5d30125efacd98ef839e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：ローコード系コネクターでHello Worldしてみる",
+      "author" : "@tabimoba",
+      "day" : 2,
+      "url" : "https://qiita.com/tabimoba/items/35abf19b4f9c8d2d5e8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：ローコード系コネクターでHTTPリクエストしてみる",
+      "author" : "@tabimoba",
+      "day" : 3,
+      "url" : "https://qiita.com/tabimoba/items/8b0d971751ca212d0f17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：Lookup tableで列を飛ばして定義するのは避けるべき",
+      "author" : "@tabimoba",
+      "day" : 4,
+      "url" : "https://qiita.com/tabimoba/items/9e421823e06cf825ae62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：for i = 1 to 10 ～ next のようなループをするには",
+      "author" : "@tabimoba",
+      "day" : 5,
+      "url" : "https://qiita.com/tabimoba/items/1a775bc977d13bda7b16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：MySQL 8.0 のデータベースのテーブルに対してSELECTすると、濁点・半濁点が区別されない問題とその対応",
+      "author" : "@tabimoba",
+      "day" : 6,
+      "url" : "https://qiita.com/tabimoba/items/20a5c7f433ec4097a123"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：レシピのエクスポートとインポート手順",
+      "author" : "@tabimoba",
+      "day" : 7,
+      "url" : "https://qiita.com/tabimoba/items/d696b3937a56c1b5142d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：レシピや関連するアセットをGitでバージョン管理するには",
+      "author" : "@tabimoba",
+      "day" : 8,
+      "url" : "https://qiita.com/tabimoba/items/522979ba5c62b50f74ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：Google WorkspaceのGoogleグループを作成する",
+      "author" : "@tabimoba",
+      "day" : 9,
+      "url" : "https://qiita.com/tabimoba/items/c6c2f4b704ded6226032"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato オプションについて書きます(セキュリティ)",
+      "author" : "@shunsuke_CN",
+      "day" : 10,
+      "url" : "https://blog.cloudnative.co.jp/5884/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：新たに追加されたRecipe functions by Workatoコネクターについて",
+      "author" : "@tabimoba",
+      "day" : 11,
+      "url" : "https://qiita.com/tabimoba/items/794da83bc1bee72c46e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【無料で使える】Workatoのレシピ開発に便利なSaaS フリープラン、開発プラン、評価プランのリンク（2021年12月版）",
+      "author" : "@tabimoba",
+      "day" : 12,
+      "url" : "https://qiita.com/tabimoba/items/abeb9a985cd5ba0b19db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：月末の定期連絡について自動化を考えてみる",
+      "author" : "@cherryblossom",
+      "day" : 13,
+      "url" : "https://qiita.com/cherryblossom/items/63e9a0f9bcc19bc85da2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workatoを活用し、最も自動化を実現させたビジネスプロセスとは？",
+      "author" : "@oh_te",
+      "day" : 14,
+      "url" : "https://qiita.com/oh_te/items/c47499bd182b99907e92"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@rkawaishi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@shunsuke_CN"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：Webhookの先は無限大な夢がひろがりんぐ",
+      "author" : "@barusu-cn",
+      "day" : 17,
+      "url" : "https://blog.cloudnative.co.jp/9512/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ifで評価するときは型をそろえよう",
+      "author" : "@barusu-cn",
+      "day" : 18,
+      "url" : "https://zenn.dev/barusu/articles/981a5ee620c908"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：トークンを平文で使いたくないときはアカウントプロパティを使おう",
+      "author" : "@barusu-cn",
+      "day" : 19,
+      "url" : "https://zenn.dev/barusu/articles/1f157edae38456"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：Pythonアクションでズンドコキヨシ",
+      "author" : "@barusu-cn",
+      "day" : 20,
+      "url" : "https://zenn.dev/barusu/articles/1c5f3d94616f3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Workato：BoxのファイルをZip化してGoogleドライブにUpしたら通知",
+      "author" : "@barusu-cn",
+      "day" : 21,
+      "url" : "https://zenn.dev/barusu/articles/a286ee69ee7a32"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@barusu-cn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@barusu-cn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@barusu-cn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@barusu-cn"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "created_at" : "2021-12-25T18:09:56Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ミツモア",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "株式会社ミツモア Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "meetsmore",
+    "url" : "https://qiita.com/advent-calendar/2021/meetsmore"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "自前画像変換サーバからimgixへの移行",
+      "author" : "@fmy",
+      "day" : 1,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/01/172323"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "slackの検索を使いこなそう！",
+      "author" : "@ryusaka",
+      "day" : 2,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/02/163645"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jscodeshift で Moment.js を Day.js に一括置換した話",
+      "author" : "@yanaemon",
+      "day" : 3,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/03/135001"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@fmy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@fmy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "npm/yarnの不足点とpnpmの解決法",
+      "author" : "@keidarcy",
+      "day" : 6,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/06/112931"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マッチングアルゴリズムに機械学習を導入した話(1/3) モデル作成編",
+      "author" : "@crazysrot",
+      "day" : 7,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/07/143017"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マッチングML展望",
+      "author" : "@yuki_meetsmore_87910",
+      "day" : 8,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/08/104039"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マッチングアルゴリズムに機械学習を導入した話 アプリ導入編 (3/3)",
+      "author" : "@yumit414",
+      "day" : 9,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/09/142649"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発フローを○○しただけでプロジェクトのヒット率が3倍になった話",
+      "author" : "@kokis621",
+      "day" : 10,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/10/114428"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@fmy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@fmy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Type Guardをきちんと使ってoptionalを使うのをやめよう",
+      "author" : "@ryusaka",
+      "day" : 13,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/13/170722"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアの朝会について",
+      "author" : "@Saka_A",
+      "day" : 14,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/14/220139"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next Image - What I wish I knew",
+      "author" : "@jammes",
+      "day" : 15,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/15/203545"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ターミナル改善（zinit, peco, iterm2）",
+      "author" : "@takumawatanabe-0920",
+      "day" : 16,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/16/190753"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@exhaze"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@fmy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@fmy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ミツモアを支えるデータ分析基盤あるいはStitchとdbtを用いたELTについて",
+      "author" : "@fmy",
+      "day" : 20,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/20/141912"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleChromeの右クリックメニューに「Googleで画像を検索」を復活させる方法",
+      "author" : "@noko_mm",
+      "day" : 21,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/21/093407"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "E2Eテストはインドに学ぼう",
+      "author" : "@yurinzflet",
+      "day" : 22,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/22/103324"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JsonLogicで複雑な条件分岐をシンプルに実装する",
+      "author" : "@myrsn0104",
+      "day" : 23,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "webpack5で作るマイクロフロントエンド入門",
+      "author" : "@teradonburi",
+      "day" : 24,
+      "url" : "https://engineering.meetsmore.com/entry/2021/12/07/180110"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@fmy"
+    }
+  ]
+}

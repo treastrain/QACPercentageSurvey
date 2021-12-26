@@ -1,0 +1,455 @@
+{
+  "created_at" : "2021-12-26T05:15:36Z",
+  "calendar_meta_data" : {
+    "author" : "@kabik",
+    "category" : "プレゼント",
+    "lgtm" : 468,
+    "subscribers" : 56,
+    "title" : "身の回りの困りごとを楽しく解決！【PR】Works Human Intelligence Advent Calendar 2021",
+    "participants" : 45,
+    "unique_name" : "works-hi",
+    "url" : "https://qiita.com/advent-calendar/2021/works-hi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "我が家のスーパーIoTハウス化が完了したので紹介します",
+      "author" : "@c60evaporator",
+      "day" : 1,
+      "url" : "https://qiita.com/c60evaporator/items/7d3785b16319e39297a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsでmakeの結果をキャッシュする",
+      "author" : "@flat35hd99",
+      "day" : 2,
+      "url" : "https://qiita.com/flat35hd99/items/b0b8931f8dfcb00891cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINE Botを作ろう！AWS SAMで実現するサーバーレスコンピューティング",
+      "author" : "@roki18d",
+      "day" : 3,
+      "url" : "https://zenn.dev/yamagishihrd/articles/9196a8147e0a99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【IoT】お風呂の換気扇を自動停止する環境を作ってみた",
+      "author" : "@mokio",
+      "day" : 4,
+      "url" : "https://qiita.com/mokio/items/d5f0f68a503bf99ddf74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASでやたらめったら長いアンケートを自動で作成し30分早く帰宅した #雑務Ops",
+      "author" : "@kanta_yamaoka",
+      "day" : 5,
+      "url" : "https://qiita.com/kanta_yamaoka/items/50b667b222115e839aad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IR情報の収集をiPaaSとLINE Botで効率化する",
+      "author" : "@watanabe-tsubasa",
+      "day" : 6,
+      "url" : "https://qiita.com/watanabe-tsubasa/items/0a49226a843aa2f79d24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "その日の申し送りをきっちり行うために　#LINE #Googleスプレッドシート #iPaaS",
+      "author" : "@naokiuc",
+      "day" : 7,
+      "url" : "https://qiita.com/naokiuc/items/6d000d573fa0dc70097d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【挑戦者求ム】ダイエットを自動化してみた",
+      "author" : "@okinakamasayoshi",
+      "day" : 8,
+      "url" : "https://qiita.com/okinakamasayoshi/items/5adb8ed8efcf73da442b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPaaSとLINEBot 行動履歴を記録する手間を省きたい！！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 9,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/380a20fe59bb6ae30dd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "市販品に真似できない「静音性」にこだわった自動開閉カーテン作ってみた（obniz-ステッピングモーター-Alexa連携で）",
+      "author" : "@gadgewota",
+      "day" : 10,
+      "url" : "https://gadgewota.com/automatic-curtain"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate: メールアドレスの表示名を取得する方法",
+      "author" : "@baku2san",
+      "day" : 11,
+      "url" : "https://qiita.com/baku2san/items/7e8f0b5a47b4fe3451fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仕事帰り➡買い物を忘れていないか？を通知➡買いたい物リストを教えてくれる！【LINE Bot＆IFTTT&GAS】",
+      "author" : "@Izumi0711",
+      "day" : 12,
+      "url" : "https://qiita.com/Izumi0711/items/1d9797c9368b322833cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「失念しておりました」をゼロへ！LINE BotとGoogleカレンダーをつなげてタスク管理を楽に！",
+      "author" : "@tanakahiroki",
+      "day" : 13,
+      "url" : "https://qiita.com/tanakahiroki/items/533e8d29cdeb20671a31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【IoT】冬でも水分を摂ろう！",
+      "author" : "@mikiko_bridge",
+      "day" : 14,
+      "url" : "https://qiita.com/mikiko_bridge/items/0ff9a9117d8984c5cf2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アルバイトのシフト自動作成 by PuLP",
+      "author" : "@syoh-yoshi",
+      "day" : 15,
+      "url" : "https://qiita.com/syoh-yoshi/items/675638e19ccb53b11ec9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セブイレの新作が知りたい！！！",
+      "author" : "@enomotoakira",
+      "day" : 16,
+      "url" : "https://qiita.com/enomotoakira/items/29767bd4ad001c7af0a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@mitsuoka0423"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像ベタ貼りの「全文公開」記事はPDFで読もう",
+      "author" : "@Hirosaji",
+      "day" : 18,
+      "url" : "https://hirosaji.hatenablog.com/entry/2021/12/18/220819"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人造先生はチョークを投げるか",
+      "author" : "@ume-boshi",
+      "day" : 19,
+      "url" : "https://ume-boshi.hatenablog.jp/entry/2021/12/19/060911"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "年末に忘れがちな医療費控除の計算用に！ 医療費の記録をする自分用LINE Botを作った話",
+      "author" : "@n0bisuke",
+      "day" : 20,
+      "url" : "https://qiita.com/n0bisuke/items/477329e80fc85cb8088d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@newt0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "居酒屋シフト提出の紙をいい感じにするWebサイトを作る",
+      "author" : "@n0bisuke",
+      "day" : 22,
+      "url" : "https://qiita.com/n0bisuke/items/5b670c208eadf4ef9273"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サザエさんに出てくる”御用聞き”サブちゃんをLINEBotで再現して買い忘れを防ぐ！",
+      "author" : "@tanaka_LV5",
+      "day" : 23,
+      "url" : "https://qiita.com/tanaka_LV5/items/8fcdd3aa281f9406c338"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@asmg07"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pythonとArduinoで始めるIoT開発<部屋が寒いと思う皆さん！部屋の温度可視化してみませんか？>",
+      "author" : "@asmg07",
+      "day" : 25,
+      "url" : "https://qiita.com/asmg07/items/f999577c7459deaa9065"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1,
+      "author" : "@rh_taro"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "フリーランスエンジニア向けの稼働管理ツールを作ってみた【GAS】",
+      "author" : "@umi_mori",
+      "day" : 2,
+      "url" : "https://qiita.com/umi_mori/items/4a9cc9e291d92101fe4a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ドローンを手作りした話",
+      "author" : "@YSSkywalker",
+      "day" : 3,
+      "url" : "https://youtu.be/pGbRdNIa4mE"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "過去に自分のちょっと困ったを解決した話",
+      "author" : "@krohigewagma",
+      "day" : 4,
+      "url" : "https://qiita.com/krohigewagma/items/e61b36a6955642e10134"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "特定のサイトの更新情報をLINEに通知してくれるスクレイピングアプリを作ってみた！",
+      "author" : "@Ooooooomin_365",
+      "day" : 5,
+      "url" : "https://qiita.com/Ooooooomin_365/items/6214e726076423e9706b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "住宅設備家電(エアコン、電動シャッター、玄関電気錠)をHome Assistantでスマート化したい",
+      "author" : "@banban525",
+      "day" : 6,
+      "url" : "https://qiita.com/banban525/items/bfebb371d6061294bc77"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【GAS】初心者必見 LINEBot×IFTTT×スプシで『家計簿システム』作った話",
+      "author" : "@okinakamasayoshi",
+      "day" : 7,
+      "url" : "https://qiita.com/okinakamasayoshi/items/3830fa42b0d522b9990b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "無いなら作ってしまえ、グループ会社全体の技術連携Team",
+      "author" : "@baku2san",
+      "day" : 8,
+      "url" : "https://qiita.com/baku2san/items/1ac3f2a459253c3e4fa1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "3Dプリンターを自作した話",
+      "author" : "@YSSkywalker",
+      "day" : 9,
+      "url" : "https://www.youtube.com/watch?v=KzjsY0QX_j8"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10,
+      "author" : "@yoshikyoto"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11,
+      "author" : "@kannkyo"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MacのショートカットメニューからOCRを使えるようにした話",
+      "author" : "@sys_zero",
+      "day" : 12,
+      "url" : "https://qiita.com/sys_zero/items/383940c425a02cb6fa2e"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13,
+      "author" : "@s207035"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GAS＋LINE NotifyのよるConnpassの新着・更新情報の通知",
+      "author" : "@imacochin",
+      "day" : 14,
+      "url" : "https://qiita.com/imacochin/items/89d31eafd4d6ea9ee7e3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "選択したTeamメンバーの一覧をAutomateで作る with SharePoint Rest API",
+      "author" : "@baku2san",
+      "day" : 15,
+      "url" : "https://qiita.com/baku2san/items/c5b56ce21c5a880a9d3f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "TODOコメントを埋もれさせない",
+      "author" : "@masibw",
+      "day" : 16,
+      "url" : "https://qiita.com/masibw/items/39d81c64b871bb836027"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "LINE BotとGASで年毎に家族写真を貯める",
+      "author" : "@meowmeowcats",
+      "day" : 17,
+      "url" : "https://qiita.com/meowmeowcats/items/fb152398d97836ed6c8b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【ゴロツク】語呂合わせ自動生成器を作ってみた",
+      "author" : "@takumiyoshiko",
+      "day" : 18,
+      "url" : "https://qiita.com/takumiyoshiko/items/23dc508b2ca71bae947c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自動車の車内灯の消し忘れを、IFTTTを使って防止する ",
+      "author" : "@AmaiSaeta",
+      "day" : 19,
+      "url" : "http://amaisaeta.seesaa.net/article/484878111.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "絶対に起きられるようライトとエアコンとスピーカーをラズパイで制御した話",
+      "author" : "@Tommyyyyyyy",
+      "day" : 20,
+      "url" : "https://qiita.com/Tommyyyyyyy/items/d260de556b2b59019cdb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "面倒なレスポンシブモックアップ画像を秒で生成するサービスを作った",
+      "author" : "@marty_ojiya",
+      "day" : 21,
+      "url" : "https://qiita.com/marty_ojiya/items/b163301b2e2db5544587"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "M5stackでお薬のんだ記録をつける",
+      "author" : "@s51517765",
+      "day" : 22,
+      "url" : "https://s51517765.hatenadiary.jp/entry/2021/05/10/073000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "オンライン○○会用のビンゴゲームツールを作った話",
+      "author" : "@tetsuro1919",
+      "day" : 23,
+      "url" : "https://note.com/sima__tetteke/n/n03f2710cde40"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ツンデレ「けんこちゃん」が僕を健康管理してくれる話(組み込み)",
+      "author" : "@YSSkywalker",
+      "day" : 24,
+      "url" : "https://qiita.com/YSSkywalker/items/3489e0185cb649b8cb88"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@Pig"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "子どもの夜ふかし対策に照明が点いてたら消し続けるIoT装置を作った",
+      "author" : "@miso_develop",
+      "day" : 1,
+      "url" : "https://qiita.com/miso_develop/items/a5c85d15ba8036ec1972"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "運動不足を解消！筋トレガチャアプリを作りました",
+      "author" : "@matt-note",
+      "day" : 25,
+      "url" : "https://qiita.com/matt-note/items/6109fd1e270e1657b244"
+    }
+  ]
+}

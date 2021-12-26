@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T01:50:47Z",
+  "calendar_meta_data" : {
+    "author" : "@dd_yayoi",
+    "category" : "企業・学校・団体",
+    "lgtm" : 14,
+    "subscribers" : 6,
+    "title" : "弥生 Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "yayoi",
+    "url" : "https://qiita.com/advent-calendar/2021/yayoi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "QuickSightでかんたんに視覚化",
+      "author" : "@garu",
+      "day" : 1,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/01/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テクニカルリーダーになってシステムの解像度が上がった話",
+      "author" : "@yayoi_shirai",
+      "day" : 2,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/02/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeceptJSでシナリオテストを自動化してみた話",
+      "author" : "@agscsaberaltoria",
+      "day" : 3,
+      "url" : "https://qiita.com/agscsaberaltoria/items/97d1dc7bd0011ef21034"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自然とコンフォートゾーンを抜け出す仕組み作り",
+      "author" : "@Shiro003",
+      "day" : 4,
+      "url" : "https://qiita.com/Shiro003/items/f1f8d1099011eff0262e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システム横断プロジェクトの品質計画",
+      "author" : "@kato_az",
+      "day" : 5,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/05/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MisocaのインフラをAWS EC2からECSに移行した話",
+      "author" : "@mizukmb",
+      "day" : 6,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/06/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQL の WITH で再帰させる",
+      "author" : "@kosappi",
+      "day" : 7,
+      "url" : "https://blog.kosappi.net/entry/pgsql-with-recursive"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " エンジニア組織で学んだ「学びと成長を加速するアウトプットのススメ」",
+      "author" : "@Tooka_91",
+      "day" : 8,
+      "url" : "https://tooka-91.hatenablog.com/entry/2021/12/07/120313"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術勉強会の企画を立てよう！（初心者編）",
+      "author" : "@tomoe_aizawa",
+      "day" : 9,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/09/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "買い物業務をおうちDXで改善した",
+      "author" : "@yuukieiu",
+      "day" : 10,
+      "url" : "https://qiita.com/yuukieiu/items/90656eaeda1edf584449"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TailwindCSSで90年代Webデザインのお勉強",
+      "author" : "@dy36",
+      "day" : 11,
+      "url" : "https://qiita.com/dy36/items/97968a964897d9827029"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reactのコンポーネントライブラリの開発では、ライブラリの依存関係の指定に気を付けなければいけないという話",
+      "author" : "@daichihasegawa0923",
+      "day" : 12,
+      "url" : "https://qiita.com/daichihasegawa0923/items/8105cad1af5d6da3eae5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jetpack Navigationを使った画面遷移でFragmentとステータスバーのThemeを制御する話し",
+      "author" : "@tijins",
+      "day" : 13,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/13/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お客様サポートの裏側の話",
+      "author" : "@mai_goto",
+      "day" : 14,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/14/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "確定申告時期の苦労と、その時期にやっていること",
+      "author" : "@hiroaki_takeyama",
+      "day" : 15,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/15/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人作業好きなエンジニアもハマるチーム開発手法",
+      "author" : "@shinji_tanabe",
+      "day" : 16,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/16/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内のタスク管理ツールを移行した話",
+      "author" : "@takuya_kawamoto",
+      "day" : 17,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/17/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "字句解析器生成系の話",
+      "author" : "@ryotaro_kawakami",
+      "day" : 18,
+      "url" : "https://ryotaway.hatenablog.com/archive/2021/12/18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DexAx::achademyを全社でやってみた",
+      "author" : "@atsushi_sasaki_yayoi",
+      "day" : 19,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/19/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CodeBuild上でTrivyを実行して結果をhtml出力する",
+      "author" : "@daisuke_kaiho",
+      "day" : 20,
+      "url" : "https://tukunen13.hatenablog.jp/entry/2021/12/20/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音声系システム担当のカスタマーセンター移転で得た学びの話",
+      "author" : "@taku_ishihara",
+      "day" : 21,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/21/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コロナ禍入社のエンジニアが技術イベントを頑張る話",
+      "author" : "@shiontkkg",
+      "day" : 22,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/22/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービスのAPIをRESTからGraphQLへ段階的に移行した話",
+      "author" : "@ucho",
+      "day" : 23,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/entry/2021/12/23/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソースコード検索エンジン・OpenGrokを構築しよう",
+      "author" : "@nanatake",
+      "day" : 24,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/24/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "12/16もくテク開催報告と2021年もくテクおさらい",
+      "author" : "@dd_yayoi",
+      "day" : 25,
+      "url" : "https://tech-blog.yayoi-kk.co.jp/entry/2021/12/25/000000"
+    }
+  ]
+}

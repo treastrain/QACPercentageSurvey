@@ -1,0 +1,163 @@
+{
+  "created_at" : "2021-12-26T01:40:12Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社LCL",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 1,
+    "title" : "LCL Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "lcl",
+    "url" : "https://qiita.com/advent-calendar/2021/lcl"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "LCLのRailsバッチジョブ実行基盤 on AWS 21年秋冬版",
+      "author" : "@hosht",
+      "day" : 1,
+      "url" : "https://techblog.lclco.com/entry/2021/12/01/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタムイメージでCodeBuildをバッチジョブ実行基盤として使う",
+      "author" : "@hosht",
+      "day" : 2,
+      "url" : "https://techblog.lclco.com/entry/2021/12/02/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby on Rails on Container on Lambda with Step Functions Express Workflow",
+      "author" : "@hosht",
+      "day" : 3,
+      "url" : "https://techblog.lclco.com/entry/2021/12/03/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "aws-sdk-railsでSQSをActive Jobのアダプターとして使う",
+      "author" : "@hosht",
+      "day" : 4,
+      "url" : "https://techblog.lclco.com/entry/2021/12/04/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドチーム振り返り2021",
+      "author" : "@kamemonz",
+      "day" : 9,
+      "url" : "https://techblog.lclco.com/entry/2021/12/09/111307"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Macのスリープ時にGoogleから自動でログアウトする方法",
+      "author" : "@yamshta",
+      "day" : 10,
+      "url" : "https://techblog.lclco.com/entry/2021/12/10/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker+nginxで作るAWSで動くwordprss本番環境と運用",
+      "author" : "@kasei-san",
+      "day" : 11,
+      "url" : "https://techblog.lclco.com/entry/2021/12/11/234750"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQS(FIFO) + Lambdaの並列実行時のポイント",
+      "author" : "@Takara1356",
+      "day" : 15,
+      "url" : "https://techblog.lclco.com/entry/2021/12/15/111254"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "使えるかもしれない AWK & sed & コマンド 集 19 (MAC用)",
+      "author" : "@migaruna_debu",
+      "day" : 16,
+      "url" : "https://qiita.com/migaruna_debu/items/9cd61b3cf8f84c89277e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESLintのバージョンをv6.8.0からv8.4.1に上げる",
+      "author" : "@satoshio",
+      "day" : 17,
+      "url" : "https://techblog.lclco.com/entry/2021/12/17/100022"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最近の情報収集方法",
+      "author" : "@kasei-san",
+      "day" : 18,
+      "url" : "https://blog.kasei-san.com/entry/2021/12/18/200450"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLとPostgreSQLで観光情報を可視化してみる。",
+      "author" : "@RDBMS",
+      "day" : 20,
+      "url" : "https://techblog.lclco.com/entry/2021/12/20/064937"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発環境をM1 Mac対応した話",
+      "author" : "@kavis777",
+      "day" : 21,
+      "url" : "https://techblog.lclco.com/entry/2021/12/21/180018"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習分野で頻出のTeX記法チートシート（ほぼ自分用）",
+      "author" : "@takkota",
+      "day" : 23,
+      "url" : "https://techblog.lclco.com/entry/2021/12/23/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザにデータを保存する際に検討すること",
+      "author" : "@ytkr0813",
+      "day" : 24,
+      "url" : "https://qiita.com/ytkr0813/items/c800db52c090bc293946"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バス便データチームの2021年振り返り",
+      "author" : "@lcl-takahashi",
+      "day" : 25,
+      "url" : "https://techblog.lclco.com/draft/entry/GZTIp7rLCNpQOrq4mAxOnic7RSA"
+    }
+  ]
+}

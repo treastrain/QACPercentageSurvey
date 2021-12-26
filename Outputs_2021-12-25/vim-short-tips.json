@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-26T04:35:06Z",
+  "calendar_meta_data" : {
+    "author" : "@thinca",
+    "category" : "エディタ",
+    "lgtm" : 0,
+    "subscribers" : 104,
+    "title" : "Vim Short Tips Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "vim-short-tips",
+    "url" : "https://qiita.com/advent-calendar/2021/vim-short-tips"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : ":colder / :cnewer / :chistory",
+      "author" : "@thinca",
+      "day" : 1,
+      "url" : "https://twitter.com/thinca/status/1465697127288295440"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "楽にprintデバッグする方法",
+      "author" : "@kuuote",
+      "day" : 2,
+      "url" : "https://twitter.com/kuuote/status/1466059515107758081"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "has()",
+      "author" : "@rbtnn",
+      "day" : 3,
+      "url" : "https://twitter.com/rbtnn/status/1466528815581044739"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大文字小文字を簡単にトグル",
+      "author" : "@kawarimidoll",
+      "day" : 4,
+      "url" : "https://twitter.com/KawarimiDoll/status/1466874889160171522"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "辞書のシンタックス",
+      "author" : "@kg8m",
+      "day" : 5,
+      "url" : "https://twitter.com/kg8m_/status/1467167562551025670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gF",
+      "author" : "@monaqa",
+      "day" : 6,
+      "url" : "https://twitter.com/mo_naqa/status/1467626946293284865?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "!",
+      "author" : "@mira010",
+      "day" : 7,
+      "url" : "https://twitter.com/Oya_M1/status/1467871450631712772?t=VUnaX7gWcYmZOk-FVqvnhg&s=19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@q",
+      "author" : "@take_3",
+      "day" : 8,
+      "url" : "https://twitter.com/take_3/status/1468233850077650946"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ":cd",
+      "author" : "@Bakudankun",
+      "day" : 9,
+      "url" : "https://twitter.com/Bakudankun/status/1468701927978455045"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "helpgrep",
+      "author" : "@gorilla0513",
+      "day" : 10,
+      "url" : "https://twitter.com/gorilla0513/status/1468961659985489921?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "help tips",
+      "author" : "@tsuyoshi_cho",
+      "day" : 11,
+      "url" : "https://twitter.com/tsuyoshi_cho/status/1469323518747693059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "map-table",
+      "author" : "@yuki_ycino",
+      "day" : 12,
+      "url" : "https://twitter.com/yuki_ycino/status/1469876650183516162"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "more :cd",
+      "author" : "@tsuyoshi_cho",
+      "day" : 13,
+      "url" : "https://twitter.com/tsuyoshi_cho/status/1470048294457860101"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ":Man",
+      "author" : "@a5ob7r",
+      "day" : 14,
+      "url" : "https://twitter.com/a5ob7r/status/1470463713803399168"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "noequalalways",
+      "author" : "@rapan931",
+      "day" : 15,
+      "url" : "https://twitter.com/rapan931/status/1470770805906706432?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Neovim0.6で不要なマッピング Y y$",
+      "author" : "@kawarimidoll",
+      "day" : 16,
+      "url" : "https://twitter.com/KawarimiDoll/status/1471223542746271746"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "g&",
+      "author" : "@gorilla0513",
+      "day" : 17,
+      "url" : "https://twitter.com/gorilla0513/status/1472155603871350788?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CTR-w_CTRL-^",
+      "author" : "@gorilla0513",
+      "day" : 18,
+      "url" : "https://twitter.com/gorilla0513/status/1472156071498510336?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CTRL-R_*",
+      "author" : "@gorilla0513",
+      "day" : 19,
+      "url" : "https://twitter.com/gorilla0513/status/1472220110442012678?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ":w !bash",
+      "author" : "@gorilla0513",
+      "day" : 20,
+      "url" : "https://twitter.com/gorilla0513/status/1472718409196785664?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nnoremap <CR> G やめた",
+      "author" : "@hokorobi",
+      "day" : 21,
+      "url" : "https://twitter.com/h0k0r0bi/status/1472945133209497614"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "insertでもペーストしたい！",
+      "author" : "@gorilla0513",
+      "day" : 22,
+      "url" : "https://twitter.com/gorilla0513/status/1473662835222003714?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ファイルを開いたときにカーソルを戻すのやめた",
+      "author" : "@hokorobi",
+      "day" : 23,
+      "url" : "https://twitter.com/h0k0r0bi/statuses/1473669908445601792"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

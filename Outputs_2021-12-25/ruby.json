@@ -1,0 +1,353 @@
+{
+  "created_at" : "2021-12-26T04:53:09Z",
+  "calendar_meta_data" : {
+    "author" : "@pink_bangbi",
+    "category" : "プログラミング言語",
+    "lgtm" : 76,
+    "subscribers" : 95,
+    "title" : "Ruby Advent Calendar 2021",
+    "participants" : 42,
+    "unique_name" : "ruby",
+    "url" : "https://qiita.com/advent-calendar/2021/ruby"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby の TracePoint を使ってメソッド呼び出しをトレースしよう",
+      "author" : "@pink_bangbi",
+      "day" : 1,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/01/000855"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点字メーカープログラムを書いてみる",
+      "author" : "@takkii",
+      "day" : 2,
+      "url" : "https://qiita.com/takkii/items/4f66c6b345de5144971d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PicoRubyあるいはRuby言語のコンパイラについて",
+      "author" : "@hasumikin",
+      "day" : 3,
+      "url" : "https://shimane.monstar-lab.com/hasumin/how-to-make-picoruby-compiler"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@motoka1t"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyだけで文字コード変換を実装する",
+      "author" : "@ima1zumi",
+      "day" : 5,
+      "url" : "https://imaizumimr.hatenablog.com/entry/2021/12/05/142742"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RubyにはオブジェクトのIDがあるのにJavaScriptにはないのはなぜか？",
+      "author" : "@shibukk",
+      "day" : 6,
+      "url" : "https://medium.com/@shibukk/object-id-ruby-and-js-7bb1b6114042"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『研鑽Rubyプログラミング』β版以降の進捗報告と、若干名のレビュー追加募集のお知らせ",
+      "author" : "@kakutani",
+      "day" : 7,
+      "url" : "https://scrapbox.io/kensan-ruby/%E3%80%8E%E7%A0%94%E9%91%BDRuby%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%80%8F%CE%B2%E7%89%88%E4%BB%A5%E9%99%8D%E3%81%AE%E9%80%B2%E6%8D%97%E5%A0%B1%E5%91%8A%E3%81%A8%E3%80%81%E8%8B%A5%E5%B9%B2%E5%90%8D%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E8%BF%BD%E5%8A%A0%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sushi.newしてみました（小ネタで申し訳ない…",
+      "author" : "@becolomochi",
+      "day" : 8,
+      "url" : "https://becolomochi.hatenablog.com/entry/ruby-sushi-object-san"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby についてカジュアルに議論できる場が欲しい",
+      "author" : "@jinroq",
+      "day" : 9,
+      "url" : "https://jinroq.hatenablog.jp/entry/2021/12/09/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fiddle.gem 入門",
+      "author" : "@udzura",
+      "day" : 10,
+      "url" : "https://udzura.hatenablog.jp/entry/2021/12/10/003516"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【コードリーディング】Rails 1.0 ActiveRecordのソースコードを読んでみた",
+      "author" : "@mokio",
+      "day" : 11,
+      "url" : "https://qiita.com/mokio/items/d4adaeeba5419e92041d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ruby-mysql",
+      "author" : "@tmtms",
+      "day" : 12,
+      "url" : "https://blog.tmtms.net/entry/202112/ruby-mysql"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyにてyield_self/thenを使って普通の戻り値をメソッドチェインのように使う",
+      "author" : "@shinkuFencer",
+      "day" : 13,
+      "url" : "https://shinkufencer.hateblo.jp/entry/2021/12/13/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年書いたRubyのコードについて。素朴なものから壮大(？)なものまで。",
+      "author" : "@asonas",
+      "day" : 14,
+      "url" : "https://www.ason.as/articles/2021-12-14-ruby"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RubyやRubyのOSSの脆弱性を見つけた話_4",
+      "author" : "@ooooooo_q",
+      "day" : 15,
+      "url" : "https://ooooooo.hatenablog.com/entry/ruby_bug_hunting_4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@okuramasafumi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パケットキャプチャ入門 with dRuby",
+      "author" : "@coe401_",
+      "day" : 17,
+      "url" : "https://coe401.hatenablog.com/entry/2021/12/17/080312?_ga=2.95977048.575628774.1639665777-1697356687.1634998682"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@yancya"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tips: ruby -runはオプションじゃない",
+      "author" : "@getty104",
+      "day" : 19,
+      "url" : "https://qiita.com/getty104/items/7cc84b7de363c6bfaf04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hashの値の省略記法",
+      "author" : "@shugo",
+      "day" : 20,
+      "url" : "https://nacl-ltd.github.io/2021/12/20/hash-value-omission.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Ruby」に一番近い単語はなにか",
+      "author" : "@rhiroe",
+      "day" : 21,
+      "url" : "https://gitpress.io/@rhiroe/ruby_morphological_analysis"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パターンマッチでデフォルト値を設定したかった話",
+      "author" : "@sanfrecce-osaka",
+      "day" : 22,
+      "url" : "https://qiita.com/sanfrecce-osaka/items/5024a86313c866d7952b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "mrubyでプログラミングの楽しさを再認識した話",
+      "author" : "@tascript",
+      "day" : 23,
+      "url" : "https://scrapbox.io/tascript/mruby%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%95%E3%82%92%E5%86%8D%E8%AA%8D%E8%AD%98%E3%81%97%E3%81%9F%E8%A9%B1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "来年リリースする bigdecimal 3.2 はどうしようかな",
+      "author" : "@mrkn",
+      "day" : 24,
+      "url" : "https://mrkn.hatenablog.com/entry/2021/12/24/181003"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@igaiga555"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RubyでTwitter API v2を叩けるgemをつくりました",
+      "author" : "@yhara",
+      "day" : 1,
+      "url" : "https://zenn.dev/yhara/articles/21e496263108ae"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RubyKaigi takeoutでRuby to BPF compilerの話をした話",
+      "author" : "@udzura",
+      "day" : 2,
+      "url" : "https://udzura.hatenablog.jp/entry/2021/12/02/124654"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "勝手に「点字メーカープログラム」を作ってみる",
+      "author" : "@Reichardt",
+      "day" : 3,
+      "url" : "https://qiita.com/Reichardt/items/57c805989ffecc3e6d55"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "今年作ったものRubyのライブラリたち（mruby含む）を紹介します",
+      "author" : "@okuramasafumi",
+      "day" : 4,
+      "url" : "https://okuramasafumi.hatenablog.jp/entry/2021/12/05/235139"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Rubyで楽しむソケットプログラミング入門",
+      "author" : "@kure",
+      "day" : 5,
+      "url" : "https://zenn.dev/kuredev/articles/aa26f88cd643de"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "rstdという趣味ライブラリを作っています",
+      "author" : "@S_H_",
+      "day" : 6,
+      "url" : "https://gamelinks007.hatenablog.com/entry/2021/12/06/000958"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Ruby用テスティングフレームワーク「Oktest.rb」の紹介",
+      "author" : "@kwatch",
+      "day" : 7,
+      "url" : "https://qiita.com/kwatch/items/f3a2f042915fd7e0b27a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Ruby】グローバル変数を使わずにメソッドの外のスコープにあるローカル変数を使う方法",
+      "author" : "@TomoProg",
+      "day" : 8,
+      "url" : "https://qiita.com/TomoProg/items/914202fa1c9318872582"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "eRuby（erb）の HTML エスケープ",
+      "author" : "@scivola",
+      "day" : 9,
+      "url" : "https://qiita.com/scivola/items/fb349e1c5c2aa93f36e5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RuboCop のエラーを全て todo に放り込んで安寧を得る",
+      "author" : "@t0yohei",
+      "day" : 10,
+      "url" : "https://qiita.com/t0yohei/items/8cdd5e7188e55eb68014"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Ruby で YAML のエイリアスが使えなくなった？",
+      "author" : "@scivola",
+      "day" : 11,
+      "url" : "https://qiita.com/scivola/items/da2e4687726fb20953c0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "glimmer-dsl-libui の話",
+      "author" : "@kojix2",
+      "day" : 12,
+      "url" : "https://qiita.com/kojix2/items/47011057d3e9c730d6da"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Rubyのメモリフットプリント肥大化の歴史",
+      "author" : "@kwatch",
+      "day" : 13,
+      "url" : "https://qiita.com/kwatch/items/1c590df6a1c5345e2d68"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Rubyの技術書を輪読する”りんどく.rb”を立ち上げます",
+      "author" : "@FUGA0618",
+      "day" : 14,
+      "url" : "https://fuga-ch85.hatenablog.com/entry/2021/12/14/002128"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15,
+      "author" : "@hasimoto1009"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "mruby-esp32-app-mirbをESP32で動かしてみた - panicの原因を見つけるまでの過程",
+      "author" : "@Y_uuu",
+      "day" : 16,
+      "url" : "https://tech.fusic.co.jp/posts/2021-12-15-mruby-esp32-app-mirb/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Ruby3.0キーワード引数仕様変更に伴う書き換えをしたので調べたことのまとめ",
+      "author" : "@igaiga555",
+      "day" : 17,
+      "url" : "https://igarashikuniaki.net/diary/20211217.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【初級者向け】RubyのStringとHashのeach系メソッドを体系的に整理",
+      "author" : "@universato",
+      "day" : 18,
+      "url" : "https://qiita.com/universato/items/3ff93d50c74f0e52f40b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【初心者向け】Ruby の Hash#each はブロックに何を渡す？",
+      "author" : "@scivola",
+      "day" : 19,
+      "url" : "https://qiita.com/scivola/items/7767c31b6fa968eb440d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "mruby で特殊変数 `$!` を使えるようにするには？ (脳内妄想・アイディア段階)",
+      "author" : "@dearblue",
+      "day" : 20,
+      "url" : "https://qiita.com/dearblue/items/b9c8823e098b960d8ec2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "続・勝手に「点字メーカープログラム」を作ってみる～「辛口バージョン」編",
+      "author" : "@Reichardt",
+      "day" : 21,
+      "url" : "https://qiita.com/Reichardt/items/7d51eb02a4968a92e1c8"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22,
+      "author" : "@stonesaw"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "関数のまとめ",
+      "author" : "@tommy-ish",
+      "day" : 23,
+      "url" : "https://qiita.com/tommy-ish/items/2e359a0d2d973b820309"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "mruby でもリファインメントを使いたい！！！",
+      "author" : "@dearblue",
+      "day" : 24,
+      "url" : "https://qiita.com/dearblue/items/d6a210b6861d74ee5071"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サンプルコードでわかる！Ruby 3.1の主な新機能と変更点",
+      "author" : "@jnchito",
+      "day" : 25,
+      "url" : "https://qiita.com/jnchito/items/bcd9b7f59bf4b30ea5b3"
+    }
+  ]
+}

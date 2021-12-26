@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-26T01:09:19Z",
+  "calendar_meta_data" : {
+    "author" : "@TakedaHiromasa",
+    "category" : "企業・学校・団体",
+    "lgtm" : 13,
+    "subscribers" : 6,
+    "title" : "岩手県立大学とか、岩手の人たち Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "ipu",
+    "url" : "https://qiita.com/advent-calendar/2021/ipu"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Solaris10で見つけた、一風変わったコマンドの話を書こうと思います。",
+      "author" : "@furandon_pig",
+      "day" : 1,
+      "url" : "https://furandon-pig.hatenablog.com/entry/2021/12/01/000752"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity画像のFilter Modeについて",
+      "author" : "@S-Kaito",
+      "day" : 2,
+      "url" : "https://qiita.com/S-Kaito/items/d346413b11e64289fcfe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シニアプログラミングもくもく会で点字翻訳アプリのサンプルを作った話を書こうと思います。",
+      "author" : "@furandon_pig",
+      "day" : 3,
+      "url" : "https://furandon-pig.hatenablog.com/entry/2021/12/04/060932"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マッチングAIの特性を考慮したチューリングマシン構築によるマッチングアプリの作業効率化",
+      "author" : "@sweater",
+      "day" : 4,
+      "url" : "https://resweater.hatenablog.com/entry/2021/12/04/162239"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の岩手県立大学ソフトウェア情報学部",
+      "author" : "@isseium",
+      "day" : 5,
+      "url" : "https://note.com/isseium/n/n915e5e4b5feb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンビニコミックの発売日をWebスクレイピングで取得してみる",
+      "author" : "@furandon_pig",
+      "day" : 6,
+      "url" : "https://qiita.com/furandon_pig/items/4287d51493741a69c88a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsでGemをリリースする",
+      "author" : "@ohakutsu",
+      "day" : 7,
+      "url" : "https://qiita.com/ohakutsu/items/14c76b0ab3ec626e842d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsを使ってGitHub Discussionsの通知をSlackで受け取る",
+      "author" : "@ohakutsu",
+      "day" : 8,
+      "url" : "https://qiita.com/ohakutsu/items/388c5c7d444ddeae489f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@ohakutsu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi OS をこれから新規インストールする人はBullseyeに気をつけよう",
+      "author" : "@TakedaHiromasa",
+      "day" : 10,
+      "url" : "https://t-takeda.hatenablog.com/entry/2021/12/25/232853"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ROS対応のインホイールモーターを作る",
+      "author" : "@h_tajiri",
+      "day" : 11,
+      "url" : "https://takizawa-robotics.com/2021/12/11/ros-vesc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleアナリティクスのAPIをNode.jsから触る",
+      "author" : "@n0bisuke",
+      "day" : 12,
+      "url" : "https://qiita.com/n0bisuke/items/fde53bab3f3b5bfbdfc9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "相手のトレーナーのポケモン俺のより格好良くね！？",
+      "author" : "@S-Kaito",
+      "day" : 13,
+      "url" : "https://qiita.com/S-Kaito/items/2ad014ae10d5b5f76eeb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "岩手で株式会社が立ちあがるまで【事前準備 編】",
+      "author" : "@TakedaHiromasa",
+      "day" : 14,
+      "url" : "https://t-takeda.hatenablog.com/entry/2021/12/25/193022"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "岩手で株式会社が立ちあがるまで【無限手続き 編】",
+      "author" : "@TakedaHiromasa",
+      "day" : 15,
+      "url" : "https://t-takeda.hatenablog.com/entry/2021/12/25/212218"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "15年ぶりに大学に戻ってみたオジサンが何か書きます。",
+      "author" : "@takehiro_sasaki",
+      "day" : 16,
+      "url" : "https://note.com/takehiro_sasaki/n/n4882874550b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Selenium webdriverの仕様&仕様変更でちょっとつまづいた話",
+      "author" : "@tsunaobou",
+      "day" : 17,
+      "url" : "https://qiita.com/tsunaobou/items/9a062af6a555350ed551"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェア演習D：NetBeans12.5でjsonを使えるようにする",
+      "author" : "@hangakuseeru",
+      "day" : 18,
+      "url" : "https://qiita.com/hangakuseeru/items/745f136a858fe0b9f963"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Toya-Onodera"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大学図書館アプリを引き継いでくれる方を募集しています",
+      "author" : "@EndoMotoki",
+      "day" : 20,
+      "url" : "https://qiita.com/EndoMotoki/items/6c30f6f83e232aa41fb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "構造化マークアップ完全に理解した",
+      "author" : "@nyankichi",
+      "day" : 21,
+      "url" : "https://qiita.com/nyankichi/items/e0122em2332p1234"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おうちKubernetes上にnsdとunboundを建てておうちDNSする",
+      "author" : "@chatagiri",
+      "day" : 22,
+      "url" : "https://blog.chatagiriii.com/?p=224"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@nyankichi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "岩手でのんびり開催している「わんこそばIoTLT盛岡」今年のまとめ【主催者が気分で開催している】",
+      "author" : "@TakedaHiromasa",
+      "day" : 24,
+      "url" : "https://t-takeda.hatenablog.com/entry/2021/12/25/162735"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2020年 岩手県立大学 Advent Calendarを〆る",
+      "author" : "@TakedaHiromasa",
+      "day" : 25,
+      "url" : "https://t-takeda.hatenablog.com/entry/2021/12/25/235836"
+    }
+  ]
+}

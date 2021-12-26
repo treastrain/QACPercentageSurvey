@@ -1,0 +1,271 @@
+{
+  "created_at" : "2021-12-25T18:00:28Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ジィファム",
+    "category" : "企業・学校・団体",
+    "lgtm" : 14,
+    "subscribers" : 1,
+    "title" : "gfam2021 Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "gfam",
+    "url" : "https://qiita.com/advent-calendar/2021/gfam"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSってなんだっけ？",
+      "author" : "@nobkovskii",
+      "day" : 1,
+      "url" : "https://qiita.com/nobkovskii/items/60d7ccf217f2a31e7289"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSのアカウント周りを整理する（ルートユーザ、IAM、ロール、ポリシー・・・）",
+      "author" : "@nobkovskii",
+      "day" : 2,
+      "url" : "https://qiita.com/nobkovskii/items/e1a078c017cfe2a9b179"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSのVPC周りを整理する（VPC、Subnet、InternetGateway、RouteTable、SecurityGroup・・・）",
+      "author" : "@nobkovskii",
+      "day" : 3,
+      "url" : "https://qiita.com/nobkovskii/items/6b91dd13c80e401d0c41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSのEC2周りを整理して、EC2 Auto Scalingを設定してみる。",
+      "author" : "@nobkovskii",
+      "day" : 4,
+      "url" : "https://qiita.com/nobkovskii/items/56d811c47952e06112e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】DynamoDBをコンソール上から使ってみる",
+      "author" : "@nobkovskii",
+      "day" : 5,
+      "url" : "https://qiita.com/nobkovskii/items/8597158fff943bd76508"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】S3の使い方をおさらい",
+      "author" : "@nobkovskii",
+      "day" : 6,
+      "url" : "https://qiita.com/nobkovskii/items/ab4df1a64cff773f2626"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】S3で静的ウェブサイトをホスティングする",
+      "author" : "@nobkovskii",
+      "day" : 7,
+      "url" : "https://qiita.com/nobkovskii/items/7e2ff4e1faf7d470d7de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】CloudFormation（CFn）を使ってみる：概要編",
+      "author" : "@nobkovskii",
+      "day" : 8,
+      "url" : "https://qiita.com/nobkovskii/items/fddc0969c9913b50eb14"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@nobkovskii"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@nobkovskii"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@nobkovskii"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】SQSの使い方を知る",
+      "author" : "@nobkovskii",
+      "day" : 18,
+      "url" : "https://qiita.com/nobkovskii/items/7cac96ec261fb8dc50d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】VPCのまとめ",
+      "author" : "@gackky",
+      "day" : 10,
+      "url" : "https://qiita.com/gackky/items/c1961eeaa566476255ab"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】セキュリティグループ、ネットワークACLのまとめ",
+      "author" : "@gackky",
+      "day" : 11,
+      "url" : "https://qiita.com/gackky/items/86ad3b4ce77850d21e49"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】EC2のまとめ",
+      "author" : "@gackky",
+      "day" : 12,
+      "url" : "https://qiita.com/gackky/items/0b596d0d8d98faa18f12"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】IAMのまとめ",
+      "author" : "@gackky",
+      "day" : 13,
+      "url" : "https://qiita.com/gackky/items/32dc216af463cd7499f3"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】RDSのまとめ",
+      "author" : "@gackky",
+      "day" : 15,
+      "url" : "https://qiita.com/gackky/items/9aaaeee3dc7c76d66823"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】CloudWatchのまとめ",
+      "author" : "@gackky",
+      "day" : 16,
+      "url" : "https://qiita.com/gackky/items/608878632800ead8953c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】S3のまとめ",
+      "author" : "@gackky",
+      "day" : 17,
+      "url" : "https://qiita.com/gackky/items/b7346df52aac30e813e4"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18,
+      "author" : "@gackky"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19,
+      "author" : "@gackky"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20,
+      "author" : "@gackky"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21,
+      "author" : "@gackky"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22,
+      "author" : "@gackky"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

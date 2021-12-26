@@ -1,0 +1,146 @@
+{
+  "created_at" : "2021-12-25T19:32:53Z",
+  "calendar_meta_data" : {
+    "author" : "@mats16",
+    "category" : "その他",
+    "lgtm" : 4,
+    "subscribers" : 8,
+    "title" : "AWS Startup Community Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "startups-on-aws",
+    "url" : "https://qiita.com/advent-calendar/2021/startups-on-aws"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSを楽しく学ぼう",
+      "author" : "@sumi-startup-IT",
+      "day" : 1,
+      "url" : "https://o-kun.com/archives/2944/aws-learning/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BtoBのプロダクトづくりにおけるドメインエキスパートの重要性とは",
+      "author" : "@shibukk",
+      "day" : 2,
+      "url" : "https://techblog.tebiki.co.jp/domain-expert-a27d17292a5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学生でAIスタートアップの創業CTOになるまで&なってからを振り返る",
+      "author" : "@tik26",
+      "day" : 5,
+      "url" : "https://qiita.com/tik26/items/e4abdf7170658d32bcb3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップとコミュニティの話",
+      "author" : "@mats16",
+      "day" : 10,
+      "url" : "https://note.com/mats16/n/nf10883b82ad0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハッカソンについての記事を書きます",
+      "author" : "@shs-media",
+      "day" : 11,
+      "url" : "https://note.com/satoyamakaigi/n/n3a3b29e6d15e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップのエンジニアのパフォーマンスをマネージメントについて考えてみた",
+      "author" : "@coa00",
+      "day" : 12,
+      "url" : "https://note.com/coa00/n/n92414d6c52bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Sandbox環境の運用について",
+      "author" : "@sumi-startup-IT",
+      "day" : 13,
+      "url" : "https://dev.to/aws-builders/awsdesandboxhuan-jing-woyong-yi-sitezu-zhi-quan-ti-nosukiruatupuwosiyou-efk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@kzk-maeda"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップでどのようにControl Towerを導入したのか",
+      "author" : "@kazu_wsx",
+      "day" : 19,
+      "url" : "https://zenn.dev/k_ogura/articles/3dbf46a150e95c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップにジョインしてからの半年を振り返るよ！",
+      "author" : "@Keisuke69",
+      "day" : 20,
+      "url" : "https://www.keisuke69.net/entry/2021/12/20/232645"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタートアップのサービスではインフラコストはかけられない",
+      "author" : "@mogrange",
+      "day" : 24,
+      "url" : "https://note.com/shunsuke_endo/n/nd296372e0a3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

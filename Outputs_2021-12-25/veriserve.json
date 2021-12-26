@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-25T22:27:42Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ベリサーブ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 43,
+    "subscribers" : 10,
+    "title" : "ベリサーブ Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "veriserve",
+    "url" : "https://qiita.com/advent-calendar/2021/veriserve"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "会社でテスト自動化の教育を整備・普及させた／ている話",
+      "author" : "@YoshikiIto",
+      "day" : 1,
+      "url" : "https://qiita.com/YoshikiIto/items/ab4daee2b17dffcbb066"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「コードカバレッジ100%の達成」だけを目指してはならないと聞くけどそれはなぜ？",
+      "author" : "@s-tanoue",
+      "day" : 2,
+      "url" : "https://qiita.com/s-tanoue/items/0ae90aca84245439b900"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト設計に連動してテストコードを動的に変更する",
+      "author" : "@snsk",
+      "day" : 3,
+      "url" : "https://snsk.hateblo.jp/entry/2021/12/03/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト実行進捗報告について",
+      "author" : "@teamomusoba",
+      "day" : 4,
+      "url" : "https://qiita.com/teamomusoba/items/4dc104b4341a04cd8e0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WACATE2021冬の予習に役立ちそうなものを調べてみた",
+      "author" : "@Toru-ymgc",
+      "day" : 5,
+      "url" : "https://qiita.com/Toru-ymgc/items/ebe660f0dcaff42a6538"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Selenium/Playwrightで要素が取得できなかった時はJavaScriptを実行するとうまくいく時がある",
+      "author" : "@yaboxi_",
+      "day" : 6,
+      "url" : "https://qiita.com/yaboxi_/items/9257ec23012657acbe6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UI Automation PowerShell ExtensionsとPesterを使って、電卓アプリのテストを自動化してみた",
+      "author" : "@Toru-ymgc",
+      "day" : 7,
+      "url" : "https://qiita.com/Toru-ymgc/items/701b734a5e53831a1a5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AutifyのJSステップを書いてみる",
+      "author" : "@YamaAri",
+      "day" : 8,
+      "url" : "https://qiita.com/YamaAri/items/7c2e2987198c701d837c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト自動化ツール8種のサポートブラウザまとめ",
+      "author" : "@vZke",
+      "day" : 10,
+      "url" : "https://qiita.com/vZke/items/b31f5d9db9118c612d1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Playwrightを使ったE2E_GUIテスト自動化（環境構築）",
+      "author" : "@Y_MAGARI000",
+      "day" : 11,
+      "url" : "https://qiita.com/Y_MAGARI000/items/665985da6fffbf2d45c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WACATE2021冬の1日目に行ってきました。",
+      "author" : "@Toru-ymgc",
+      "day" : 12,
+      "url" : "https://qiita.com/Toru-ymgc/items/9f8f04798b745b078649"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社外イベントに初めて登壇して思ったこと",
+      "author" : "@Y_MAGARI000",
+      "day" : 13,
+      "url" : "https://qiita.com/Y_MAGARI000/items/17b52be104ec51ce3f2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト実施者の次にどの道に進むか　～私は一体、何に興味があるのだろうか？～",
+      "author" : "@yasuaki_hiruta",
+      "day" : 14,
+      "url" : "https://qiita.com/yasuaki_hiruta/items/0406df1f03933d6d7c38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【デバッグ追体験】Selenium 4のSafari DriverでiOS Safariを動かそうとしたときのデバッグログ",
+      "author" : "@yaboxi_",
+      "day" : 15,
+      "url" : "https://qiita.com/yaboxi_/items/c549d8584686d09a1fc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GIHOZ開発チームにおけるAutifyを用いたE2Eテストの自動化",
+      "author" : "@ktanizaki",
+      "day" : 16,
+      "url" : "https://qiita.com/ktanizaki/items/1e81f85eea089bddba8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニューロンカバレッジをとってみた",
+      "author" : "@vHidetoshiSuhara",
+      "day" : 17,
+      "url" : "https://qiita.com/vHidetoshiSuhara/items/e007f0b478bd8ec3df79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TPI NEXT🄬ってアレに似てるね",
+      "author" : "@mktk",
+      "day" : 18,
+      "url" : "https://qiita.com/mktk/items/a172ad89c838ff9d0e13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JaSSTの資料で自己研鑽してます！の話をしようとしたらテスト実装の話に辿り着いた",
+      "author" : "@blue_fang_ur320",
+      "day" : 19,
+      "url" : "https://qiita.com/blue_fang_ur320/items/5470b6f6ecfa1243973f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リスクベースドテストの正体",
+      "author" : "@HOLLY69",
+      "day" : 20,
+      "url" : "https://el.jibun.atmarkit.co.jp/holly/2021/12/post_15.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ISO/IEC/IEEE 29119-2～4の改訂で新しくでてきたテストモデルについて少し調べてみた",
+      "author" : "@yamasaki696",
+      "day" : 21,
+      "url" : "https://qiita.com/yamasaki696/items/954d6d5655d544698238"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AutifyのJSステップ間で値の引き渡しをする",
+      "author" : "@YamaAri",
+      "day" : 22,
+      "url" : "https://qiita.com/YamaAri/items/4e86a8346fc0d78ccb67"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストケースを束ねしもの -とあるテスト管理ツール開発者の気づき-",
+      "author" : "@vKinjiAkemine",
+      "day" : 24,
+      "url" : "https://qiita.com/vKinjiAkemine/items/51c01b6fe8daa2aac0ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

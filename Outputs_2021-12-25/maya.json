@@ -1,0 +1,154 @@
+{
+  "created_at" : "2021-12-26T03:11:21Z",
+  "calendar_meta_data" : {
+    "author" : "@amanatsu-knit",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 7,
+    "subscribers" : 12,
+    "title" : "Maya Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "maya",
+    "url" : "https://qiita.com/advent-calendar/2021/maya"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Maya OpenMayaUI ToolBoxに PySide のWidgetを追加してみよう",
+      "author" : "@UnPySide",
+      "day" : 1,
+      "url" : "https://unpyside.com/2021/12/01/mayapythonadventcalender2021day1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "draggerContext　を使ってみた",
+      "author" : "@9boz",
+      "day" : 2,
+      "url" : "https://qiita.com/9boz/items/e81947e473319991e1b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "maya pythonで4つの書き方（pymel, maya.cmds, API 1.0, API 2.0）で頂点処理の比較",
+      "author" : "@phyblas",
+      "day" : 3,
+      "url" : "https://qiita.com/phyblas/items/4b32118498631c1c0e4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mayaで角度が違うモデルの法線方向の合わせ方",
+      "author" : "@cr_coyote",
+      "day" : 7,
+      "url" : "https://tech-coyote.com/archives/1740"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『mmdpaimaya』 MMDとmayaの間でモデルを変換するpythonスクリプト",
+      "author" : "@phyblas",
+      "day" : 8,
+      "url" : "https://qiita.com/phyblas/items/e5fe203c955e273b26a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネームスペース取得する方法色々",
+      "author" : "@9boz",
+      "day" : 9,
+      "url" : "https://qiita.com/9boz/items/bd458d6f59527a9718e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenMaya 選択中のオブジェクトのComponent IDsやPoly Countを取得する",
+      "author" : "@UnPySide",
+      "day" : 10,
+      "url" : "https://unpyside.com/2021/12/10/openmaya_tips/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HumanIKで複数ターゲットからリグに一括でベイクする",
+      "author" : "@amanatsu-knit",
+      "day" : 12,
+      "url" : "https://qiita.com/amanatsu-knit/items/a9174e420edcfac5589f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Maya】2022から使える新しい2D Overlaysをしらべる",
+      "author" : "@tm8r",
+      "day" : 16,
+      "url" : "https://tm8r.hateblo.jp/entry/maya_advent_calendar_2021_01"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お手軽スクショ Maya SSSS(super screen shot system)",
+      "author" : "@mono-g",
+      "day" : 18,
+      "url" : "https://qiita.com/mono-g/items/4d212a3f67a90b5062c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Maya】UnityにFBXとして送信するをボタンひとつで行えるツール",
+      "author" : "@t-matsunaga",
+      "day" : 19,
+      "url" : "https://qiita.com/t-matsunaga/items/46f1128bc3294871914b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mayaのリファレンス機能、 ちゃんと理解して使えば怖くない！ -前編-",
+      "author" : "@cr_coyote",
+      "day" : 21,
+      "url" : "https://tech-coyote.com/archives/1846"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクリプト練習に最適！カスタムファイルブラウザで仕事効率化！",
+      "author" : "@cr_coyote",
+      "day" : 24,
+      "url" : "https://tech-coyote.com/archives/1461"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

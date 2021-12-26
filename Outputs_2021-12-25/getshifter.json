@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T03:49:31Z",
+  "calendar_meta_data" : {
+    "author" : "@digitalcube2006@github",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 1,
+    "subscribers" : 5,
+    "title" : "Shifter Advent Calendar 2021 #JP_GetShifter Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "getshifter",
+    "url" : "https://qiita.com/advent-calendar/2021/getshifter"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter をはじめよう！2021年版",
+      "author" : "@seijiakatsuka",
+      "day" : 1,
+      "url" : "https://www.getshifter.io/ja/lets-begin-shifter-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "有効化してますか？「サイト削除保護」",
+      "author" : "@motchi0214",
+      "day" : 2,
+      "url" : "https://remoneko.life/shifter-delete-protection/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "検索機能でShifter Dashboardを手軽に操作",
+      "author" : "@motchi0214",
+      "day" : 3,
+      "url" : "https://remoneko.life/search-in-shifter-dashboard/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年版】これから始める Shifter シリーズ 無料トライアルのはじめ方",
+      "author" : "@marushu",
+      "day" : 4,
+      "url" : "https://www.getshifter.io/ja/how-to-start-free-trial/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kinsta から Shifter ヘのデータマグレーションをやってみるテスト。",
+      "author" : "@plasticdreams",
+      "day" : 5,
+      "url" : "https://blog.plasticdreams.org/2021/12/04/migrating-from-kinsta-to-shifter/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter の利用料金のお支払いについて",
+      "author" : "@marushu",
+      "day" : 6,
+      "url" : "https://www.getshifter.io/ja/about-payment-usage/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これから始める Shifter シリーズ 疑問や課題をスッキリ解決！Shifter オンライン個別相談会を活用しよう〜",
+      "author" : "@seijiakatsuka",
+      "day" : 7,
+      "url" : "https://www.getshifter.io/ja/introducing-indivisual-consulting/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もしものときに泣かないよう，設定をお勧めする Shifter ダッシュボードの項目",
+      "author" : "@plasticdreams",
+      "day" : 8,
+      "url" : "https://blog.plasticdreams.org/2021/12/08/some-shifter-setting-to-prevent-worng-operations/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サイトの譲渡で広がったチームコラボレーションパターン",
+      "author" : "@haruharuharuby",
+      "day" : 9,
+      "url" : "https://hugtech.io/2021/11/18/shifter-site-transfer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter でらくらくドメイン設定！",
+      "author" : "@yotigory",
+      "day" : 10,
+      "url" : "https://beginners.shifter.community/459/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter Meetup 振り返り",
+      "author" : "@marushu",
+      "day" : 11,
+      "url" : "https://www.getshifter.io/ja/shifter-meetup-2021-12-10/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter Staticのサイトに通販機能を積んだ話",
+      "author" : "@motchi0214",
+      "day" : 12,
+      "url" : "https://remoneko.life/shifter-static-and-shopify-lite/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "52週かけてShifterでブログを作った話とメディア立ち上げのあれこれ",
+      "author" : "@JunkoOn",
+      "day" : 13,
+      "url" : "https://mamelogy.com/archives/229/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1500記事の雑記ブログをShifterに移行した話し",
+      "author" : "@mukuhx",
+      "day" : 14,
+      "url" : "https://69bird.jp/archives/24037/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Exploring the Shifter CLI",
+      "author" : "@digitalcube2006@github",
+      "day" : 15,
+      "url" : "https://www.getshifter.io/exploring-the-shifter-cli/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Why We Redesigned the Shifter Dashboard.",
+      "author" : "@digitalcube2006@github",
+      "day" : 16,
+      "url" : "https://www.getshifter.io/why-we-redesigned-the-shifter-dashboard/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter Expands to LinkedIn",
+      "author" : "@digitalcube2006@github",
+      "day" : 17,
+      "url" : "https://www.getshifter.io/shifter-expands-to-linkedin/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WordPress (Shifter) + HubSpot の活用法",
+      "author" : "@gatespace",
+      "day" : 18,
+      "url" : "https://labworks.digitalcube.jp/blog/technology_20211218_shifter-hubspot-usecase/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WordPressが改竄された時の復旧方法と絶対に改竄されない対策",
+      "author" : "@kurudrive",
+      "day" : 19,
+      "url" : "https://www.vektor-inc.co.jp/post/wordpress-hacked-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter Github Plugin/Theme Installerを使ってGitHubで管理しているWordPressテーマファイルをインストール＆アップデートしよう",
+      "author" : "@yshimizu125",
+      "day" : 20,
+      "url" : "https://qiita.com/yshimizu125/items/3907ce0b8bfc916de86a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 Shifter x Snow Monkey ミートアップの振り返り",
+      "author" : "@inc2734",
+      "day" : 21,
+      "url" : "https://snow-monkey.2inc.org/2021/12/21/2021-shifter-x-snow-monkey-meetup/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter Beginners Club2021活動報告書",
+      "author" : "@marikoneeesan",
+      "day" : 22,
+      "url" : "https://sourire-web-studio.com/blog/shifter-things/shifter-beginners-club2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "便利になったShifterからShifterへのサイト移設をやってみた！",
+      "author" : "@biatunky",
+      "day" : 23,
+      "url" : "https://hikko-shifter.help/%e4%be%bf%e5%88%a9%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9fshifter%e3%81%8b%e3%82%89shifter%e3%81%b8%e3%81%ae%e7%a7%bb%e8%a8%ad%e3%82%92%e3%82%84%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%ef%bc%81/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shifter Headless から Shifter Headless へ。Faust.js にも載せ替えてJamstackサイトでプレビューできる自社サイトにする。",
+      "author" : "@necco",
+      "day" : 24,
+      "url" : "https://necco.co/note/7952"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The State of Shifter 2021",
+      "author" : "@seijiakatsuka",
+      "day" : 25,
+      "url" : "https://www.getshifter.io/ja/the-state-of-shifter-2021/"
+    }
+  ]
+}

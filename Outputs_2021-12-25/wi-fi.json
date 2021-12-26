@@ -1,0 +1,128 @@
+{
+  "created_at" : "2021-12-25T23:51:50Z",
+  "calendar_meta_data" : {
+    "author" : "@kaizen_nagoya",
+    "category" : "モバイル",
+    "lgtm" : 1,
+    "subscribers" : 8,
+    "title" : "Wi-Fi Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "wi-fi",
+    "url" : "https://qiita.com/advent-calendar/2021/wi-fi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Wi-Fi勉強会企画",
+      "author" : "@kaizen_nagoya",
+      "day" : 1,
+      "url" : "https://qiita.com/kaizen_nagoya/items/5ca6e3bf355f70bd6f81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wi-Fi (IEEE 802.11) Advent Calendar 2021 を満席にする6つの方法。無線網（Wi-Fi）空中線(antenna)(209)",
+      "author" : "@kaizen_nagoya",
+      "day" : 2,
+      "url" : "https://qiita.com/kaizen_nagoya/items/26646e66f5160ac9301e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@harehare211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IEEE 802.11を読む",
+      "author" : "@kaizen_nagoya",
+      "day" : 4,
+      "url" : "https://qiita.com/kaizen_nagoya/items/5e193ed47a09182295e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Intellectual Ventures I LLC et al v. Toyota Motor Corp. et al 仮訳中",
+      "author" : "@kaizen_nagoya",
+      "day" : 16,
+      "url" : "https://qiita.com/kaizen_nagoya/items/891c5da5879146fec02d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

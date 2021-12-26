@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T02:37:26Z",
+  "calendar_meta_data" : {
+    "author" : "@kizawa2020",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 107,
+    "subscribers" : 32,
+    "title" : "SORACOM Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "soracom",
+    "url" : "https://qiita.com/advent-calendar/2021/soracom"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "イベント会場に最適！SORACOM　Lagoonの新機能・スナップショットの自動更新機能を使う。",
+      "author" : "@anysonica",
+      "day" : 1,
+      "url" : "https://anysonica.wixsite.com/website/post/soracom-lagoon%E3%81%AE%E6%96%B0%E6%A9%9F%E8%83%BD%E3%83%BB%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%81%AE%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%BC%9A%E5%A0%B4%E5%90%91%E3%81%91%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%E3%80%82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイ起動時にSORACOMへ自動接続、リモートで黒電話ユニットを起動",
+      "author" : "@yama_moto250R",
+      "day" : 2,
+      "url" : "https://qiita.com/yama_moto250R/items/57479188178119d5de2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SOSした同僚を確実にお助けするためのIoTパトランプを作った",
+      "author" : "@Y_uuu",
+      "day" : 3,
+      "url" : "https://zenn.dev/y_uuu/articles/aac958991e8cb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スイッチサイエンスSARA-R410M LTEモジュールピッチ変換基板をSORACOM IoT SIMで使う",
+      "author" : "@takipone",
+      "day" : 4,
+      "url" : "https://zenn.dev/takipone/articles/8c40f0561fe38f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM IoT SIM planX1がHuawei MS2372h-607でも使えるようになっていた",
+      "author" : "@takipone",
+      "day" : 5,
+      "url" : "https://zenn.dev/takipone/articles/3dc390025412d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixir meets SORACOM (2021/12/06)",
+      "author" : "@torifukukaiou",
+      "day" : 6,
+      "url" : "https://qiita.com/torifukukaiou/items/117cc23963b55ae3fc5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WireGuard for ESP32の実装的なところ",
+      "author" : "@ciniml",
+      "day" : 7,
+      "url" : "https://zenn.dev/ciniml/articles/wireguard-esp32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lambda から SORACOM 経由で Raspberry Pi の LED を操作する 3 つのパターン",
+      "author" : "@n_mikuni",
+      "day" : 8,
+      "url" : "https://qiita.com/n_mikuni/items/fd1c8497ca5ddb9e90a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Seeed reTerminal の光センサーの状態を Node-RED で取得して SORACOM Inventory と SORACOM Harvest で可視化するメモ",
+      "author" : "@tseigo",
+      "day" : 9,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/09/reterminal-connect-soracom-service-and-visualization/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sigfox デバイス Sens'it をセットアップしてみた",
+      "author" : "@takeshifurusato",
+      "day" : 10,
+      "url" : "https://qiita.com/takeshifurusato/items/8fdde2a4f0a44918d87a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM LTE-M Button Powerd by AWSを使ってSwitchBotを動かしてみた",
+      "author" : "@KMiura95",
+      "day" : 11,
+      "url" : "https://zenn.dev/kmiura55/articles/soracom-beam-switch-bot"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidスマホで簡易監視カメラをつくる",
+      "author" : "@ozk009",
+      "day" : 12,
+      "url" : "https://qiita.com/ozk009/items/dc8a88b672df3c44d898"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM Arcを特権なしで使えるツールを開発してみた",
+      "author" : "@1stship",
+      "day" : 13,
+      "url" : "https://qiita.com/1stship/items/6885e6d1dd42defbb448"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM Button を使って施錠通知をやってみた",
+      "author" : "@tacck",
+      "day" : 14,
+      "url" : "https://blog.tacck.net/archives/1271"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IoT 体験キットの距離測定センサーで遊んでみた",
+      "author" : "@nomurabbit",
+      "day" : 15,
+      "url" : "https://nomurabbit.hatenablog.jp/entry/20211215/1639505367"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM版 Raspberry Pi と光センサーで夫の帰宅時間を記録・通知してみた",
+      "author" : "@jasbulilit",
+      "day" : 16,
+      "url" : "https://qiita.com/jasbulilit/items/ebfeb1c2456f9bc49348"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM UGと私のあま〜い関係",
+      "author" : "@Na27tsu",
+      "day" : 17,
+      "url" : "https://note.com/na27tsu/n/n5e501197e491"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LTE-M CO2センサー RS-LTECO2 スターターキットをセットアップして各種アラートを飛ばしてみる",
+      "author" : "@keni_w",
+      "day" : 18,
+      "url" : "https://qiita.com/keni_w/items/33c9c132545aee386894"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SIM City 2021",
+      "author" : "@c9katayama",
+      "day" : 19,
+      "url" : "https://c9katayama.hatenablog.com/entry/2021/12/19/193640"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM Arc on ESP32でSORACOM Kryptonを使ってブートストラップする",
+      "author" : "@kkimura",
+      "day" : 20,
+      "url" : "https://zenn.dev/showm001/articles/2021-12-20-01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM で試してみたいテクノロジー・トレンド 2021年12月版",
+      "author" : "@ko2a",
+      "day" : 21,
+      "url" : "https://ko2a.hatenablog.com/entry/2021/12/21/232256"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テレワーク中の”家電話”問題をクラウドとIoTボタンで解決する",
+      "author" : "@kizawa2020",
+      "day" : 22,
+      "url" : "https://kizawa.info/telework-homephone"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wio LTE Cat.1とデバッグアダプタプローブ",
+      "author" : "@matsujirushi",
+      "day" : 23,
+      "url" : "https://qiita.com/matsujirushi/items/967b4db731d6b0c593a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM IoT DIYレシピで始める工作。\"画面に近づきすぎると警告してくれるロボット\"を作ってみた ",
+      "author" : "@yoyoda",
+      "day" : 24,
+      "url" : "https://qiita.com/yoyoda/items/b7246a8d120626cf4ba6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3年間223件の登壇タイトルから振り返る、IoTの移り変わりとこれから",
+      "author" : "@ma2shita",
+      "day" : 25,
+      "url" : "https://qiita.com/ma2shita/items/0b6c2fb8c99d7712c645"
+    }
+  ]
+}

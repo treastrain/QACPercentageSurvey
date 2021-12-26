@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-26T01:11:35Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社 ドワンゴ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 137,
+    "subscribers" : 47,
+    "title" : "ドワンゴ Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "dwango",
+    "url" : "https://qiita.com/advent-calendar/2021/dwango"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "N予備校でのプログラミングの教え方",
+      "author" : "@hakoeda",
+      "day" : 1,
+      "url" : "https://qiita.com/hakoeda/items/8758926634acf63588b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptの型定義で麻雀の役判定をする",
+      "author" : "@manaten",
+      "day" : 2,
+      "url" : "https://blog.manaten.net/entry/2021/12/03/030217"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web フロントエンドのレガシーコードを置き換えるためのテストの考え方",
+      "author" : "@berlysia",
+      "day" : 3,
+      "url" : "https://blog.nnn.dev/entry/2021/12/03/123000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "7帖の室内で球速を測ってみる話",
+      "author" : "@sgymtic",
+      "day" : 4,
+      "url" : "https://sgymtic.hatenablog.com/entry/2021/12/04/174500"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOS 15で実現するPiP動画のコメント表示",
+      "author" : "@ogukei",
+      "day" : 5,
+      "url" : "https://qiita.com/ogukei/items/4575b48474341f9364ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動画関連技術 超ざっくりまとめ (動画コーデック編)",
+      "author" : "@yue82",
+      "day" : 6,
+      "url" : "https://yuelab82.hatenablog.com/entry/video_codec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "動画サービスの部署から課金システムに来て学んだこと",
+      "author" : "@yoshikyoto",
+      "day" : 7,
+      "url" : "https://qiita.com/yoshikyoto/items/9b83e8625451378bdc9e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3年間のコーディング規約の変遷に見る Kotlin の変化",
+      "author" : "@hmiyado",
+      "day" : 8,
+      "url" : "https://qiita.com/hmiyado/items/28e3e379ec0be90107eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FirestoreのデータをReduxに反映するシンプルなライブラリの紹介",
+      "author" : "@macinjoke",
+      "day" : 9,
+      "url" : "https://qiita.com/macinjoke/items/0720a4416b1b19ffc0a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RubyでSlackのbotをつくる2021：Socket Mode編",
+      "author" : "@rutan",
+      "day" : 10,
+      "url" : "https://qiita.com/rutan/items/3bd89cc8d133887c3922"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUI で幅が不揃いなセルのリストを実装する",
+      "author" : "@tasuwo",
+      "day" : 11,
+      "url" : "https://qiita.com/tasuwo/items/0eb15e678f8b11878089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本語入力時だけDvorakJPにする設定を使い始めて約4年になるので紹介",
+      "author" : "@saka1_p",
+      "day" : 12,
+      "url" : "https://qiita.com/saka1_p/items/979414f6e6b05cd9d311"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニコニコで13年運用された決済システムが移行されてからのその後の改善",
+      "author" : "@ingen084",
+      "day" : 13,
+      "url" : "https://qiita.com/ingen084/items/17cc2be96727271061a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Akashic Engine の g.Trigger で遊ぶ",
+      "author" : "@lambdataro",
+      "day" : 14,
+      "url" : "https://qiita.com/lambdataro/items/74e340e4b6c852c8604f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jetpack Compose を少しずつアプリに導入する方法と得られた知見について",
+      "author" : "@hiraike32",
+      "day" : 15,
+      "url" : "https://blog.nnn.dev/entry/2021/12/15/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NicoBoxのVIPER実践録",
+      "author" : "@blackyamoto",
+      "day" : 16,
+      "url" : "https://qiita.com/blackyamoto/items/bac6ab4c0c90f370ba58"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@berlysia"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年ニコニコ生放送のWEBフロントエンドを継続的に支えている技術の紹介",
+      "author" : "@Himenon",
+      "day" : 18,
+      "url" : "https://himenon.github.io/blog/2021/12/18/advent-calendar/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WEBカメラで動くニコ生ゲームを作るためのAkashic Engine用拡張プラグインを作ってみた話",
+      "author" : "@dera_",
+      "day" : 19,
+      "url" : "https://qiita.com/dera_/items/47c521401db5afbaffd9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作フォントの回転、パディングを機械学習で自動調整する",
+      "author" : "@irimo",
+      "day" : 20,
+      "url" : "https://qiita.com/irimo/items/ceb189fa2f3eba62afe1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニコニコ生放送のフロントエンドを改善するためにやってきたこと",
+      "author" : "@thiry",
+      "day" : 21,
+      "url" : "https://thiry.hatenablog.com/entry/dwango-advent-calendar-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSS の :active 並みの書き味でクリックアニメーションを汎用化した",
+      "author" : "@misuken",
+      "day" : 22,
+      "url" : "https://qiita.com/misuken/items/0579ba8f71e8ba4f816e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "N予備校の改善についての記事（代理投稿）",
+      "author" : "@hmiyado",
+      "day" : 23,
+      "url" : "https://blog.nnn.dev/entry/2021/12/23/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Macの日本語入力ソースのライブ変換でDvorakJP的な配列を使う",
+      "author" : "@kadoyau",
+      "day" : 24,
+      "url" : "https://scrapbox.io/kadoyau/Mac%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E5%A4%89%E6%8F%9B%E3%81%A7DovorakJP%E7%9A%84%E3%81%AA%E9%85%8D%E5%88%97%E3%82%92%E4%BD%BF%E3%81%86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VOICEVOXの音声合成エンジンの紹介",
+      "author" : "@Hiroshiba",
+      "day" : 25,
+      "url" : "https://blog.hiroshiba.jp/voicevox-engine-introduction/"
+    }
+  ]
+}

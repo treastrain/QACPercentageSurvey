@@ -1,0 +1,142 @@
+{
+  "created_at" : "2021-12-26T02:21:30Z",
+  "calendar_meta_data" : {
+    "author" : "@w2-yamaguchi",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 6,
+    "subscribers" : 70,
+    "title" : "Firebase Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "firebase",
+    "url" : "https://qiita.com/advent-calendar/2021/firebase"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のFirebaseをまとめてみた",
+      "author" : "@w2-yamaguchi",
+      "day" : 1,
+      "url" : "https://blog.ymcloud.jp/entry/firebase-2021-summary/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更だけどFlutter×Firebase事始め",
+      "author" : "@repepe2en",
+      "day" : 3,
+      "url" : "https://qiita.com/repepe2en/items/93b91c26d2a3f7a58ef8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "firestoreでのランキング設計を考える",
+      "author" : "@mogmet",
+      "day" : 5,
+      "url" : "https://qiita.com/mogmet/items/1c58ffbaa1fb698a3ec8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebaseをチーム開発で利用する際のIAM設計の考え方",
+      "author" : "@w2-yamaguchi",
+      "day" : 8,
+      "url" : "https://blog.ymcloud.jp/entry/firebase-iam-team-development/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@taptappun"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@commdgranche"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザのデータを他のユーザに共有できるようにする Firestore のルールを書く",
+      "author" : "@mml",
+      "day" : 12,
+      "url" : "https://qiita.com/mml/items/88d3c90beb95b3293d04"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@w2-yamaguchi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebaseエミュレータを使う",
+      "author" : "@ak2ie",
+      "day" : 18,
+      "url" : "https://qiita.com/ak2ie/items/a50ea4e3da37f904bd1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "simulatorを使ったCloudFunctionsのunit testを安定化・爆速化させる",
+      "author" : "@mogmet",
+      "day" : 23,
+      "url" : "https://qiita.com/mogmet/items/664360be06f0f33e78d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Electron + nuxt.js + Firebase v9 でFirebase Authenticationのログイン状態をVuexに保存したい。",
+      "author" : "@Cyber_Hacnosuke",
+      "day" : 24,
+      "url" : "https://qiita.com/Cyber_Hacnosuke/items/5c81b4f7cb6f1994e0bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

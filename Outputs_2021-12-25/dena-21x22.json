@@ -1,0 +1,172 @@
+{
+  "created_at" : "2021-12-26T05:23:00Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ディー・エヌ・エー",
+    "category" : "企業・学校・団体",
+    "lgtm" : 97,
+    "subscribers" : 25,
+    "title" : "DeNA 21新卒×22新卒内定者 Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "dena-21x22",
+    "url" : "https://qiita.com/advent-calendar/2021/dena-21x22"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "二項演算子のASTを参考にした動的なフィルターのデータ構造",
+      "author" : "@p1ass",
+      "day" : 1,
+      "url" : "https://blog.p1ass.com/posts/filter-data-structure/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Out-of-the-box VMIでチートをした話",
+      "author" : "@morimolymoly",
+      "day" : 2,
+      "url" : "https://morimolymoly.hateblo.jp/entry/2021/12/02/000005"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BLE(Bluetooth Low Energy)を人力で解析する",
+      "author" : "@nagataaaas",
+      "day" : 4,
+      "url" : "https://qiita.com/nagataaaas/items/16d87ae30a62ed3f4523"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vimにもノッチがほしい",
+      "author" : "@higashi000",
+      "day" : 6,
+      "url" : "https://qiita.com/higashi000/items/359d9c02ad9b33612e90"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CS:GOのナイフが奪われた話",
+      "author" : "@morimolymoly",
+      "day" : 8,
+      "url" : "https://morimolymoly.hateblo.jp/entry/2021/12/08/000408"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift 5.5】詳解 Result",
+      "author" : "@treastrain",
+      "day" : 9,
+      "url" : "https://zenn.dev/treastrain/articles/eb89f97beecd38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DiffableDataSouceとCompositionalLayoutについて ",
+      "author" : "@Moriya-Taichi",
+      "day" : 10,
+      "url" : "https://qiita.com/Moriya-Taichi/items/161878b73f8b6eb4624c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hugoでビルド時にデータ処理した話",
+      "author" : "@SakumaTakuya",
+      "day" : 12,
+      "url" : "https://engineering.dena.com/blog/2021/12/hugo-data-process/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "曲率から見るUIデザインの印象と\"美しい\"曲線",
+      "author" : "@yamaso",
+      "day" : 14,
+      "url" : "https://qiita.com/yamaso/items/b5eccfcb391ac85d0cbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BurpSuiteとFridaの橋渡し「Brida」の紹介",
+      "author" : "@fiord",
+      "day" : 15,
+      "url" : "https://zenn.dev/fiord/articles/5627ec252945d8c6df11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DZ60で自作キーボードデビューした話",
+      "author" : "@yudegaki",
+      "day" : 16,
+      "url" : "https://qiita.com/yudegaki/items/62d0aa02ade0abd73e92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL のインデックスの仕組み調べてみた",
+      "author" : "@7riatsu",
+      "day" : 17,
+      "url" : "https://qiita.com/7riatsu/items/2931f0f45676c4a34845"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "正二十面体に魚眼画像を投影して物体検出やりたい話(正二十面体メッシュ編)",
+      "author" : "@John_bardera",
+      "day" : 18,
+      "url" : "https://qiita.com/John_bardera/items/452fb2e2c64d292ab4f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人流データでみる東京",
+      "author" : "@daishin0413",
+      "day" : 20,
+      "url" : "https://qiita.com/daishin0413/items/5368124f937d445520b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "正規表現をフリーズさせないために",
+      "author" : "@Tatamo",
+      "day" : 21,
+      "url" : "https://qiita.com/Tatamo/items/68a10c6274953e695354"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "駆け出し文系エンジニアのデータサイエンス初歩",
+      "author" : "@tomusong7",
+      "day" : 22,
+      "url" : "https://qiita.com/tomusong7/items/d61888fb8813793c8354"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon EC2 Auto Scaling のライフサイクルフックを完了させる時の lifecycle-action-result とは",
+      "author" : "@odmishien",
+      "day" : 23,
+      "url" : "https://tech.odmishien.fun/entry/2021/12/23/Amazon_EC2_Auto_Scaling_%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%95%E3%83%83%E3%82%AF%E3%82%92%E5%AE%8C%E4%BA%86%E3%81%95%E3%81%9B%E3%82%8B%E6%99%82%E3%81%AE_lifecycle"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust で API を作成して Rails の便利さを改めて実感した話",
+      "author" : "@takaya787",
+      "day" : 24,
+      "url" : "https://qiita.com/takaya787/items/21d2cf35f05600ea32cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒1年目のエンジニアが使っている Slack キーボードショートカット",
+      "author" : "@treastrain",
+      "day" : 25,
+      "url" : "https://qiita.com/treastrain/items/d2475b08cad945997112"
+    }
+  ]
+}

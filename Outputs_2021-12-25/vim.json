@@ -1,0 +1,468 @@
+{
+  "created_at" : "2021-12-26T04:43:38Z",
+  "calendar_meta_data" : {
+    "author" : "@gorilla0513",
+    "category" : "エディタ",
+    "lgtm" : 86,
+    "subscribers" : 197,
+    "title" : "Vim Advent Calendar 2021",
+    "participants" : 36,
+    "unique_name" : "vim",
+    "url" : "https://qiita.com/advent-calendar/2021/vim"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ddc.vim入門",
+      "author" : "@ujihisa",
+      "day" : 1,
+      "url" : "https://gist.github.com/ujihisa/ae9785bb37c0a93c9abc3e73318a0479"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Markdownでサクッと選択した文字列にリンクを追加する方法",
+      "author" : "@gorilla0513",
+      "day" : 2,
+      "url" : "https://zenn.dev/skanehira/articles/2021-11-29-vim-paste-clipboard-link"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustでvim/neovim用finderプラグインをつくり軽快になっている話",
+      "author" : "@octaltree",
+      "day" : 3,
+      "url" : "https://zenn.dev/octaltree/articles/bc5653e53b7732"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VimでMarkdownファイル中の`_`がエラーハイライトされてしまう問題の対処",
+      "author" : "@kawarimidoll",
+      "day" : 4,
+      "url" : "https://zenn.dev/kawarimidoll/articles/5490567f8194a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vimで作るTUIアプリケーション",
+      "author" : "@nil2",
+      "day" : 5,
+      "url" : "https://zenn.dev/nil2/articles/cb2ad429888db4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドエンジニアがメインのエディターをVSCodeからVimに変えた話",
+      "author" : "@powdersugar828828",
+      "day" : 6,
+      "url" : "https://qiita.com/powdersugar828828/items/279ca9a791b0b901f0de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vim-themisでパラメタライズドテストをする",
+      "author" : "@getmepower",
+      "day" : 7,
+      "url" : "https://qiita.com/getmepower/items/cac651254b07838ad2ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "10行のVim scriptで実現する快適?Conventional Commits",
+      "author" : "@uochan",
+      "day" : 8,
+      "url" : "https://zenn.dev/uochan/articles/2021-12-08-vim-conventional-commits"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vimのterminalでパイプを使う",
+      "author" : "@daisuzu",
+      "day" : 9,
+      "url" : "https://daisuzu.hatenablog.com/entry/2021/12/09/091959"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VimでSpotifyを操作しよう",
+      "author" : "@higashi000",
+      "day" : 10,
+      "url" : "https://zenn.dev/higashi000/articles/63cd861b97dea2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プラグインの棚卸しをしたのでそのまとめを書きます",
+      "author" : "@vraisamis",
+      "day" : 11,
+      "url" : "https://vraisamis.hatenadiary.jp/entry/2021/12/11/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vital-Neon で Vim のテキストをピカピカと光らせよう!",
+      "author" : "@obcat",
+      "day" : 12,
+      "url" : "https://zenn.dev/obcat/articles/2020-12-vital-neon"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改良型縦方向f移動",
+      "author" : "@upnt",
+      "day" : 13,
+      "url" : "https://qiita.com/upnt/items/4e9e29d9e77188127d54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FloatingWindowの変態的な見せ方",
+      "author" : "@Rasukarusan",
+      "day" : 14,
+      "url" : "https://www.rasukarusan.com/entry/2021/12/14/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TUIツールとの連携について書きます",
+      "author" : "@iberianpig",
+      "day" : 15,
+      "url" : "https://zenn.dev/iberianpig/articles/seamless_switching_between_vim_and_tui"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "denops.vimを使ってdein.vimでインストールしているプラグインのリポジトリにstarをつける",
+      "author" : "@isobe_mochi",
+      "day" : 16,
+      "url" : "https://qiita.com/isobe_mochi/items/5f1aa6e6c314198c16d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LunarVimのすゝめ",
+      "author" : "@OhaTak",
+      "day" : 17,
+      "url" : "https://qiita.com/OhaTak/items/350482c1c3c815a1d92b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vim の増減操作をより快適にする dps-dial.vim",
+      "author" : "@monaqa",
+      "day" : 18,
+      "url" : "https://zenn.dev/monaqa/articles/2021-12-18-vim-dps-dial"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vim Meme",
+      "author" : "@uyo",
+      "day" : 19,
+      "url" : "https://qiita.com/uyo/items/01cf952e545634428192"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ":global と :normal コマンドを組み合わせてマクロの代替として使う",
+      "author" : "@mityu",
+      "day" : 20,
+      "url" : "https://qiita.com/mityu/items/c4495712296c2d40e463"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vim初心者のQuickfixによる検索・置換入門",
+      "author" : "@tmrekk",
+      "day" : 21,
+      "url" : "https://zenn.dev/tmrekk/articles/4380961a754287"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "denops.vimでNon-tree-viewなファイラを作った",
+      "author" : "@7321hasu",
+      "day" : 22,
+      "url" : "https://zenn.dev/hasu_83/articles/made-new-filer-plugin-with-denops"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VimからGitHub Copilotを使う",
+      "author" : "@Bakudankun",
+      "day" : 23,
+      "url" : "https://qiita.com/Bakudankun/items/7ddf995eedc7031d30e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新しい日本語入力プラグインを作った",
+      "author" : "@kuuote",
+      "day" : 24,
+      "url" : "https://zenn.dev/kuu/articles/vac2021-skkeleton"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "書いちゃうぞ～",
+      "author" : "@mattn",
+      "day" : 25,
+      "url" : "https://zenn.dev/mattn/articles/b83f9d94202914"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Vimでコードを画像化するプラグインを作った",
+      "author" : "@gorilla0513",
+      "day" : 1,
+      "url" : "https://zenn.dev/skanehira/articles/2021-12-04-vim-generate-image"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Vim/Neovimでハイライトグループ設定をマージするコマンドを作った",
+      "author" : "@kawarimidoll",
+      "day" : 2,
+      "url" : "https://zenn.dev/kawarimidoll/articles/cf6caaa7602239"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "VimでGitHubの草を表示するコマンドを作った",
+      "author" : "@kawarimidoll",
+      "day" : 3,
+      "url" : "https://zenn.dev/kawarimidoll/articles/b6928e7f4c1dc7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Vimにコントリビューションした過程のログ",
+      "author" : "@kuuote",
+      "day" : 4,
+      "url" : "https://scrapbox.io/kuuote/Vim%E3%81%AB%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%97%E3%81%9F%E9%81%8E%E7%A8%8B%E3%81%AE%E3%83%AD%E3%82%B0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "えっ、まだvim以外のアプリでメモ書いてるの？",
+      "author" : "@eiji03aero",
+      "day" : 5,
+      "url" : "https://qiita.com/eiji03aero/items/fa16e69d209fda0a30a2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Markdownの<details>を折りたたむ方法",
+      "author" : "@gorilla0513",
+      "day" : 6,
+      "url" : "https://zenn.dev/skanehira/articles/2021-12-04-vim-markdown-fold-details"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "vim-readme-viewer作ったのでその紹介",
+      "author" : "@4513echo",
+      "day" : 7,
+      "url" : "https://zenn.dev/4513echo/articles/2021-12-04-vim-readme-viewer"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "vim-readme-viewerの対象をfzfで選択するコマンドを作った",
+      "author" : "@kawarimidoll",
+      "day" : 8,
+      "url" : "https://zenn.dev/kawarimidoll/articles/316023e5b61d00"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Vimのプラグインを活用しようと思った話",
+      "author" : "@tio-iis",
+      "day" : 9,
+      "url" : "https://iis-tio.hatenablog.com/entry/adcal2021"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RRethy/nvim-base16 から必要なカラースキームだけを読み込んで Neovim の起動を速くする",
+      "author" : "@Hexium310",
+      "day" : 10,
+      "url" : "https://zenn.dev/hexium310/articles/speedup-loading-nvim-base16"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ターミナルエミュレータkittyの出力結果をVimで開く方法",
+      "author" : "@kawarimidoll",
+      "day" : 11,
+      "url" : "https://zenn.dev/kawarimidoll/articles/992fd4d6afc706"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "vim-duzzle Any%RTA 1:32.02",
+      "author" : "@nil2",
+      "day" : 12,
+      "url" : "https://zenn.dev/nil2/articles/4c4842bd110978"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "coc.nvimでウィンドウ分割して定義ジャンプしたいでごじゃる",
+      "author" : "@gorilla0513",
+      "day" : 13,
+      "url" : "https://zenn.dev/skanehira/articles/2021-12-12-vim-coc-nvim-jump-split"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Vimを使い始めた理由とカスタマイズの大筋について",
+      "author" : "@yasunori-kirin0418",
+      "day" : 14,
+      "url" : "https://qiita.com/yasunori-kirin0418/items/32af601fb53285e06317"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自己流! Vimの設定方針とディレクトリ構造の解説",
+      "author" : "@yasunori-kirin0418",
+      "day" : 15,
+      "url" : "https://qiita.com/yasunori-kirin0418/items/62a1b555fdc02914bcb7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自作ファイラの紹介",
+      "author" : "@tamago324",
+      "day" : 16,
+      "url" : "https://zenn.dev/tamago324/articles/2021-12-16-lir-nvim-introduction"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Neovimでのフロントエンド開発環境 2021",
+      "author" : "@yuki_ycino",
+      "day" : 17,
+      "url" : "https://zenn.dev/yano/articles/vim_frontend_development_2021"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Vimで電源管理",
+      "author" : "@slin",
+      "day" : 18,
+      "url" : "https://qiita.com/slin/items/5613dcba4480ceb0d116"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "vimでファイルを開いたときにカーソルを戻す+α",
+      "author" : "@4513echo",
+      "day" : 19,
+      "url" : "https://zenn.dev/4513echo/articles/2021-12-11-vim-restore-cursor-ext"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CtrlPで選択したパスを挿入",
+      "author" : "@hokorobi",
+      "day" : 20,
+      "url" : "https://zenn.dev/hokorobi/articles/1008ade061e63b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GitHubのissueを編集するときの補完機能を実装した話",
+      "author" : "@gorilla0513",
+      "day" : 21,
+      "url" : "https://zenn.dev/skanehira/articles/2021-12-21-vim-autocomplements-github-issue"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "日常に彩りを加える nvim-treesitter の設定術",
+      "author" : "@monaqa",
+      "day" : 22,
+      "url" : "https://zenn.dev/monaqa/articles/2021-12-22-vim-nvim-treesitter-highlight"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "超軽量。その名は hairline（statusline と tabline の設定プラグイン）",
+      "author" : "@seroqn",
+      "day" : 23,
+      "url" : "https://qiita.com/seroqn/items/31cb24cea3f8a00f3ee7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Markdown文書にTeX2imgのコードを埋め込んでVimから呼び出せるようにした",
+      "author" : "@eqs",
+      "day" : 24,
+      "url" : "https://blog.eqseqs.work/2021/12/24/000000/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "メリークリスマス",
+      "author" : "@gorilla0513",
+      "day" : 25,
+      "url" : "https://zenn.dev/skanehira/articles/2021-12-24-vim-merry-christmas"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "自分がNeovimでフロントエンド開発を行っている理由とVSCode",
+      "author" : "@yuki_ycino",
+      "day" : 25,
+      "url" : "https://zenn.dev/yano/articles/why_use_neovim_instead_of_vscode_for_development"
+    }
+  ]
+}

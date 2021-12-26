@@ -1,0 +1,140 @@
+{
+  "created_at" : "2021-12-25T20:06:51Z",
+  "calendar_meta_data" : {
+    "author" : "@nukopy",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 7,
+    "title" : "一人ネットワーク、システムプログラミングを勉強する Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "nukopy-study-network-syspro",
+    "url" : "https://qiita.com/advent-calendar/2021/nukopy-study-network-syspro"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@nukopy"
+    }
+  ]
+}

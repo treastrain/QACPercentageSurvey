@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-26T01:49:45Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ピー・アール・オー",
+    "category" : "企業・学校・団体",
+    "lgtm" : 103,
+    "subscribers" : 1,
+    "title" : "株式会社ピーアールオー（あったらいいな！を作ります） Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "pro-japan1",
+    "url" : "https://qiita.com/advent-calendar/2021/pro-japan1"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "周回遅れで試すNotion API",
+      "author" : "@pro_matuzaki",
+      "day" : 1,
+      "url" : "https://qiita.com/pro_matuzaki/items/43d492f6491410e68e5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go の image/color パッケージの color.RGBA に透明度を正しく指定する＆過ちの共有",
+      "author" : "@k1350_1023",
+      "day" : 2,
+      "url" : "https://qiita.com/k1350_1023/items/7b4fe395170c495df92c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CocoapodsにPrivateのフレームワークを作ってみる",
+      "author" : "@pro_rei",
+      "day" : 3,
+      "url" : "https://qiita.com/pro_rei/items/00283f4e0fa1716456fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Backlog GitのWebフックを利用して自動デプロイの真似事をしてみる",
+      "author" : "@ogawa_pro",
+      "day" : 4,
+      "url" : "https://qiita.com/ogawa_pro/items/1f9ef2ff55a2814b3f8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubのmavenにAndroidのライブラリをリリースしてみる",
+      "author" : "@pro_rei",
+      "day" : 5,
+      "url" : "https://qiita.com/pro_rei/items/99f89dcd9fd3a42367df"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@koinori"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更だけど、Objective-CアプリにSwiftライブラリLottieを導入してみた",
+      "author" : "@mharadazz",
+      "day" : 7,
+      "url" : "https://qiita.com/mharadazz/items/fe432a4807396a62c50e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Notion API と GoogleAppsScript でweb拍手みたいな物を作る",
+      "author" : "@k1350_1023",
+      "day" : 8,
+      "url" : "https://qiita.com/k1350_1023/items/09ab2634f3af0bffa919"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormationを使ってみる",
+      "author" : "@tajima_haru",
+      "day" : 9,
+      "url" : "https://qiita.com/tajima_haru/items/f143e0806b0621bb50a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームの期限切れタスクを運んでくるサンタクロース🎅🎁",
+      "author" : "@sasamamo",
+      "day" : 10,
+      "url" : "https://qiita.com/sasamamo/items/476e994c6a3dbb56da99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jenkinsの通知機能を試してみる",
+      "author" : "@pro_asano",
+      "day" : 11,
+      "url" : "https://qiita.com/pro_asano/items/d2d0e8169426ccabc594"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTMLフォームにjQuery Validation Engineでバリデーションを走らせたり連打対策してみる",
+      "author" : "@mrd-takahashi",
+      "day" : 12,
+      "url" : "https://qiita.com/mrd-takahashi/items/524b11440c5763fbef52"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "脆弱性のあるサーバーを簡単に立ててサイバー攻撃を体験したい",
+      "author" : "@s_arakawa626",
+      "day" : 13,
+      "url" : "https://qiita.com/s_arakawa626/items/dc9f6d64760187a8bd23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "URLの最大文字数って結局いくつなのさ～IE亡き後の新常識を探る",
+      "author" : "@pro_matuzaki",
+      "day" : 14,
+      "url" : "https://qiita.com/pro_matuzaki/items/70fb639f7ed7463f9943"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angular公式チュートリアルのローカル環境構築",
+      "author" : "@PRONakahira",
+      "day" : 15,
+      "url" : "https://qiita.com/PRONakahira/items/4450ef90bafdf37cead5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DockerでAngularの環境構築をしてみた",
+      "author" : "@PRONakahira",
+      "day" : 16,
+      "url" : "https://qiita.com/PRONakahira/items/f507d0f912974d1b8c58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "検索ワードを英訳する手間を減らすChrome拡張機能（自分用）を作りたい",
+      "author" : "@prononami",
+      "day" : 17,
+      "url" : "https://qiita.com/prononami/items/9e60bebde27223d896e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@koinori"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Hiroyasu_Sato"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "よくあるEC2サーバにLet's EncryptでSSLを使う方法 2021",
+      "author" : "@rikosu",
+      "day" : 20,
+      "url" : "https://qiita.com/rikosu/items/a3fc988bc6caa7918b2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDK（Python）を使ってEC2作成してみた",
+      "author" : "@blue-yokoyama",
+      "day" : 21,
+      "url" : "https://qiita.com/blue-yokoyama/items/bf57d93cc0a38dea0db3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@koinori"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bitを使って郵便受けに届いたことを知らせたい",
+      "author" : "@m_ryusei",
+      "day" : 23,
+      "url" : "https://qiita.com/m_ryusei/items/e6d0e10aa6d3a81668ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@pro_hiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XcodeのiOSシミュレータ、古めのやつが劇遅な件",
+      "author" : "@mharadazz",
+      "day" : 25,
+      "url" : "https://qiita.com/mharadazz/items/f4cab48b10f4ac56263e"
+    }
+  ]
+}

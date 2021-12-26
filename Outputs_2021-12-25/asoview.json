@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:05:48Z",
+  "calendar_meta_data" : {
+    "author" : "@ashimon83_",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 4,
+    "title" : "アソビュー！ Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "asoview",
+    "url" : "https://qiita.com/advent-calendar/2021/asoview"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークと介護について書きます",
+      "author" : "@alpha_pz",
+      "day" : 1,
+      "url" : "https://alpha-pz.medium.com/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%E8%87%AA%E5%AE%85%E4%BB%8B%E8%AD%B7-8406ca44df49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SVGのIconコンポーネントを自動生成してStorybookも出力したい",
+      "author" : "@ashimon83_",
+      "day" : 2,
+      "url" : "https://medium.com/asoview-engineering/generate-svg-icon-react-component-with-storybook-3baed2b39656"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "従業員の誕生日をお祝い通知してくれる slack bot を作った話",
+      "author" : "@yusukenamiki",
+      "day" : 3,
+      "url" : "https://medium.com/@yusuke.namiki/%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%AE%E8%AA%95%E7%94%9F%E6%97%A5%E3%82%92%E3%81%8A%E7%A5%9D%E3%81%84%E9%80%9A%E7%9F%A5%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B-slack-bot-%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1-c968d4d6cf4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Figmaデータの見かた｜エンジニアさん向け",
+      "author" : "@toshinori",
+      "day" : 4,
+      "url" : "https://medium.com/asoview-engineering/figma-note-4a88f3d51194"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービスによって起こったサイロ化に対する取り組み",
+      "author" : "@disc99",
+      "day" : 5,
+      "url" : "https://link.medium.com/CnnJnSUFKlb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPaaSでこぼれ落ちるタスクをキャッチして打ち返したい話",
+      "author" : "@mkasv",
+      "day" : 6,
+      "url" : "https://medium.com/asoview-engineering/ipaas%E3%81%A7%E3%81%93%E3%81%BC%E3%82%8C%E8%90%BD%E3%81%A1%E3%82%8B%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%81%97%E3%81%A6%E6%89%93%E3%81%A1%E8%BF%94%E3%81%97%E3%81%9F%E3%81%84%E8%A9%B1-8182dfa1a46c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "next-pwaでオフライン対応してみる",
+      "author" : "@Akinori_JP",
+      "day" : 7,
+      "url" : "https://medium.com/asoview-engineering/try-next-pwa-offline-ac8e7c0ddfc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "購入フローでセキュアにファイルアップロードしたい",
+      "author" : "@kntmr",
+      "day" : 8,
+      "url" : "https://medium.com/asoview-engineering/secure-file-uploading-in-purchases-9a53bf088ec9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Securityをカスタマイズしたソーシャルログイン",
+      "author" : "@yamabico",
+      "day" : 9,
+      "url" : "https://medium.com/asoview-engineering/spring-security-customize-8494f3ca5fe1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "elasticsearchの複製を自動化した話",
+      "author" : "@zurausa",
+      "day" : 10,
+      "url" : "https://medium.com/asoview-engineering/elasticsearch%E3%81%AE%E8%A4%87%E8%A3%BD%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%9F%E8%A9%B1-e1ca464bb305"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Basic tutorial から一歩進むPythonでのgRPC",
+      "author" : "@kiri-maru",
+      "day" : 11,
+      "url" : "https://medium.com/asoview-engineering/grpc-with-python-d2cff43f3f29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "組織の規模が大きくなったときにマネージャーは何を考えるべきなのか",
+      "author" : "@taka-hattori",
+      "day" : 12,
+      "url" : "https://medium.com/asoview-engineering/%E7%B5%84%E7%B9%94%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%AF%E4%BD%95%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%AA%E3%81%AE%E3%81%8B-902306fc2a7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "タスク依頼時に「Background（背景・経緯）」を伝えるとチームの生産性が上がった話",
+      "author" : "@kassshi",
+      "day" : 13,
+      "url" : "https://medium.com/asoview-engineering/the-importance-of-communicating-the-background-f6b7f609e75d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "負荷テストを進めるためのワタシ的重要なポイント",
+      "author" : "@mauchi0106",
+      "day" : 14,
+      "url" : "https://medium.com/@mauchi0106/d4fbddb558c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLのスロークエリログを出してみた話",
+      "author" : "@Mitsu5004",
+      "day" : 15,
+      "url" : "https://medium.com/asoview-engineering/postgresql-slowquery-log-eaf2fd582e91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スパゲッティ化して改修困難になったプロダクトをフルスクラッチでリニューアルした話",
+      "author" : "@tatsuki_yokomine",
+      "day" : 16,
+      "url" : "https://medium.com/asoview-engineering/urakata-renewal-c3b8778009b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "10年間のSEOの経験から考えるスペシャリストのキャリア",
+      "author" : "@m_nishimoto",
+      "day" : 17,
+      "url" : "https://medium.com/asoview-engineering/seo-specialist-career-dea375ba5135"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptのジェネリクスに入門してみた",
+      "author" : "@empereur7",
+      "day" : 18,
+      "url" : "https://medium.com/asoview-engineering/typescript%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AA%E3%82%AF%E3%82%B9%E3%81%AB%E5%85%A5%E9%96%80%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-790ba87a8740"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大手グローバル企業からIPO前ベンチャーのCIOへ",
+      "author" : "@Rocky_tan",
+      "day" : 19,
+      "url" : "https://medium.com/asoview-engineering/%E3%81%93%E3%81%A1%E3%82%89%E3%81%AF-%E3%82%A2%E3%82%BD%E3%83%93%E3%83%A5%E3%83%BC-advent-calendar-2021%E3%81%AE19%E6%97%A5%E7%9B%AE%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%A7%E3%81%99-76649cd671a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyでリリースチェックを自動化した話",
+      "author" : "@msyaoyagi",
+      "day" : 20,
+      "url" : "https://medium.com/asoview-engineering/autify%E3%81%A7%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%9F%E8%A9%B1-f51a6f9dfc32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopify APIで注文のフルフィルメントを行う",
+      "author" : "@seit",
+      "day" : 21,
+      "url" : "https://medium.com/asoview-engineering/shopify-api%E3%81%A7%E6%B3%A8%E6%96%87%E3%81%AE%E3%83%95%E3%83%AB%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%A1%8C%E3%81%86-4ae5053a1e47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.jsのgetStaticPropsをつかってSSG入門してみた",
+      "author" : "@Ryoto0314",
+      "day" : 22,
+      "url" : "https://medium.com/asoview-engineering/%E4%BB%8A%E6%9B%B4%E3%81%A7%E3%81%99%E3%81%8C-next-js%E3%81%AEgetstaticprops%E3%82%92%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%A6ssg%E5%85%A5%E9%96%80%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-typescript%E3%82%92%E6%B7%BB%E3%81%88%E3%81%A6-29ed9496491"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IntelliJのクエリフォーマットをちょこっと改善",
+      "author" : "@sato-desu",
+      "day" : 23,
+      "url" : "https://medium.com/asoview-engineering/intellij%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%82%92%E3%81%A1%E3%82%87%E3%81%93%E3%81%A3%E3%81%A8%E6%94%B9%E5%96%84-870f6b317bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モデルベースで要件定義をやってみた登壇のその後の記録",
+      "author" : "@daicham",
+      "day" : 24,
+      "url" : "https://medium.com/asoview-engineering/after-rdra-meetup-7fa5073f673e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アソビュー 2021年の振り返りと今後の挑戦",
+      "author" : "@jjebejj",
+      "day" : 25,
+      "url" : "https://medium.com/asoview-engineering/%E3%82%A2%E3%82%BD%E3%83%93%E3%83%A5%E3%83%BC-2021%E5%B9%B4%E3%81%AE%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A-159a092bf174"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "created_at" : "2021-12-25T19:47:44Z",
+  "calendar_meta_data" : {
+    "author" : "@halka9000stg",
+    "category" : "プログラミング言語",
+    "lgtm" : 5,
+    "subscribers" : 18,
+    "title" : "Dart Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "dart",
+    "url" : "https://qiita.com/advent-calendar/2021/dart"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ARM Linux 用に Dart 実行環境を作る",
+      "author" : "@kyorohiro",
+      "day" : 7,
+      "url" : "https://qiita.com/kyorohiro/items/139aa54d96a04684af05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dart で プログラマブルなメールサービスを作ろう (1) Network Byte Order",
+      "author" : "@kyorohiro",
+      "day" : 8,
+      "url" : "https://qiita.com/kyorohiro/items/545372fc919f18d4ce0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@kyorohiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@halka9000stg"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@halka9000stg"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dartアプリケーション開発にNoSQLドキュメント指向 組み込みデータベース Couchbase Liteを使うには？",
+      "author" : "@yoshiyuki_kono",
+      "day" : 22,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/a64c274e3abc24e3464b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dartで作っているライブラリの紹介 : 易しいアセンブリ",
+      "author" : "@askua",
+      "day" : 25,
+      "url" : "https://zenn.dev/askua/articles/8844a11e31bc79"
+    }
+  ]
+}

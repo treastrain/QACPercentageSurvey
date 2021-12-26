@@ -1,0 +1,168 @@
+{
+  "created_at" : "2021-12-25T21:00:59Z",
+  "calendar_meta_data" : {
+    "author" : "@guchoku_maehe",
+    "category" : "企業・学校・団体",
+    "lgtm" : 9,
+    "subscribers" : 7,
+    "title" : "MENTAについて語ろう！ Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "menta",
+    "url" : "https://qiita.com/advent-calendar/2021/menta"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "副業として位置づけるMENTAのデメリット",
+      "author" : "@tetsunosukeito",
+      "day" : 1,
+      "url" : "https://menta.work/post/detail/24564/V2c5ioJtUDLdAnzn56yI"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MENTAへの想いを1メンバーが語ります",
+      "author" : "@guchoku_maehe",
+      "day" : 2,
+      "url" : "https://qiita.com/guchoku_maehe/items/5b79ddc57314b6548e5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MENTA LT会【いいポートフォリオの作り方】補足",
+      "author" : "@Toshihide_Murata",
+      "day" : 4,
+      "url" : "https://note.com/inofthefor/n/n1d4e11ebaf68"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@juntakakada"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【自分の経験に「価値」がある？】メンターの経験は自分にプラスでしかなかった！ ",
+      "author" : "@Design_to2",
+      "day" : 7,
+      "url" : "https://menta.work/post/detail/27437/i07MeHWiS6ydZR2YPCFi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードフォーマッタを適用して一歩上の開発体験、成果物に仕上げよう",
+      "author" : "@kaibadash@github",
+      "day" : 9,
+      "url" : "https://qiita.com/kaibadash@github/items/2123d2a2ba6b414c0f37"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "完全独学の私がMENTAで救われた話",
+      "author" : "@rabirion",
+      "day" : 11,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メンタリングという新たな可能性",
+      "author" : "@BlackSniper",
+      "day" : 12,
+      "url" : "https://note.com/herakures/n/nba129bea2f89"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メンターと先生とコーチとコンサルタントの違いを考えてみた",
+      "author" : "@maztak",
+      "day" : 15,
+      "url" : "https://note.com/maztak/n/ndece96b6ae21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "すべてはたったひとつのMacBookからはじまった。",
+      "author" : "@plus_i",
+      "day" : 16,
+      "url" : "https://note.com/iritec/n/n811a432e3aef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人が採れないのなら人が育つ環境をつくろう",
+      "author" : "@bon10",
+      "day" : 17,
+      "url" : "https://www.bon10.dev/post/lets-raise-up-people.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@j_kitayama_hoge000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メンターとして登録して最初の案件を受けた時の話",
+      "author" : "@tyuma",
+      "day" : 19,
+      "url" : "https://menta.work/post/detail/31456/AQwGwqGNg9LEIvQITHx4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "わからないことに直面したときの２つのTips",
+      "author" : "@mikaka360",
+      "day" : 20,
+      "url" : "https://menta.work/post/detail/14811/o6Nez0w9jfuLsKuOzl2g"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仕事のためのコードレビューと教育のためのコードレビュー",
+      "author" : "@makomori26",
+      "day" : 21,
+      "url" : "https://zenn.dev/monado/articles/e62a32b587c0f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "100人メンターしてわかったプログラミング学習のスケジューリングについて",
+      "author" : "@version1",
+      "day" : 22,
+      "url" : "https://ver-1-0.net/2021/12/21/scheduling-for-programming"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MENTAで累計200人の駆け出しエンジニアをフォローしたお話",
+      "author" : "@adachin0817",
+      "day" : 23,
+      "url" : "https://blog.adachin.me/archives/48712"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【メンティー主催】コミュニティ内でQiita投稿チャレンジをやってみたら想像以上に盛り上がった話",
+      "author" : "@humiyan02",
+      "day" : 24,
+      "url" : "https://menta.work/post/detail/10335/AzrUKmBF2wbxB1OlkcSs"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MENTAでメンターやってみた【独学はひとりでやるもんじゃありません】",
+      "author" : "@tomohanano",
+      "day" : 25,
+      "url" : "https://meganelog.site/menta-de-menter/"
+    }
+  ]
+}

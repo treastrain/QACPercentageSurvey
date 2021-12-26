@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:54:40Z",
+  "calendar_meta_data" : {
+    "author" : "ARアドバンストテクノロジ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 323,
+    "subscribers" : 6,
+    "title" : "ＡＲアドバンストテクノロジ株式会社（ＡＲＩ） Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "ari-group",
+    "url" : "https://qiita.com/advent-calendar/2021/ari-group"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "DX時代を勝ち抜くITエンジニアキャリアを考える人に是非見て欲しい動画を紹介したい",
+      "author" : "@yasuoyasuo",
+      "day" : 1,
+      "url" : "https://qiita.com/yasuoyasuo/items/4fa95ec78ff3f7eb962c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSサービス上限緩和の状況を一覧で取得したい",
+      "author" : "@yoshinori-takeuchi",
+      "day" : 2,
+      "url" : "https://qiita.com/yoshinori-takeuchi/items/65b59fde353bec5e970c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LSM（Licensed Scrum Master）の研修と資格取得できたので紹介する",
+      "author" : "@nogu-rin",
+      "day" : 3,
+      "url" : "https://qiita.com/nogu-rin/items/cac27c3442a87da920ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア歴約10年を振り返って大事に思ったこと",
+      "author" : "@siberiannhasuki_iijima",
+      "day" : 4,
+      "url" : "https://qiita.com/siberiannhasuki_iijima/items/267dbc5afb72de3a9868"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azureの検証環境コストを削減したい#4 契約形態と運用を考える",
+      "author" : "@hikaru_motomiya",
+      "day" : 5,
+      "url" : "https://qiita.com/hikaru_motomiya/items/cc6516ba4c978d777e9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubActions OIDCを使ったTerraformワークフローを作成してみた",
+      "author" : "@yuki_doi",
+      "day" : 6,
+      "url" : "https://qiita.com/yuki_doi/items/42ef6be9efe626efb2b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Azure】Private LinkとマネージドIDを使用したIoT Hubの構築",
+      "author" : "@takaki-imura",
+      "day" : 7,
+      "url" : "https://qiita.com/takaki-imura/items/d865b5cf7bf968cb4d30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows10でAWS CLIからMFAをする方法",
+      "author" : "@Aichi_Lover",
+      "day" : 8,
+      "url" : "https://qiita.com/Aichi_Lover/items/5d02a88905cbef07fc48"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "現場でよく聞く認識齟齬を考察！大学入試問題集で「ミス」と向かい合ってみた",
+      "author" : "@aki_number16",
+      "day" : 9,
+      "url" : "https://qiita.com/aki_number16/items/ac810f58e45e2ae67dc1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【k8s,EKS】EC2とEKSで構築するKubernetes",
+      "author" : "@kokohei39",
+      "day" : 10,
+      "url" : "https://qiita.com/kokohei39/items/89a975564a513a5025a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスにちなんだブラウザゲームを作ってみた",
+      "author" : "@noji505",
+      "day" : 11,
+      "url" : "https://qiita.com/noji505/items/6af1f143e2246e4cbbd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Azure】 Azure でカオスエンジニアリングする💥",
+      "author" : "@hikaru_motomiya",
+      "day" : 12,
+      "url" : "https://qiita.com/hikaru_motomiya/items/ee24c0ab5c01b824b347"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルでLINEチャットbotテスト環境を構築する(python, ngrok)",
+      "author" : "@__jay",
+      "day" : 13,
+      "url" : "https://qiita.com/__jay/items/1e79f105e26e68507f51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【kintone】アプリ同士のデータを連結してCSV出力する",
+      "author" : "@nacho0707",
+      "day" : 14,
+      "url" : "https://qiita.com/nacho0707/items/f8e84efef994c3b5c37b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GAS】Googleフォームで参加者を募集し、Googleカレンダーに招待する方法",
+      "author" : "@tuubo",
+      "day" : 15,
+      "url" : "https://qiita.com/tuubo/items/909ad91400b105e8129a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒2年目がANGELDojoに参加して学んだことをお話します",
+      "author" : "@YutoTada",
+      "day" : 16,
+      "url" : "https://qiita.com/YutoTada/items/3dcec42f2245fe0810a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "G検定2021#3合格までの道のりとTIPS",
+      "author" : "@HidetoYoshida",
+      "day" : 17,
+      "url" : "https://qiita.com/HidetoYoshida/items/97cbbf3d14fc8df60c29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "openBDを使用して本の情報を表示させてみる",
+      "author" : "@sekkenn1102",
+      "day" : 18,
+      "url" : "https://qiita.com/sekkenn1102/items/ae66b3aad3245344f46a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Azure】サービスプリンシパルを整理しよう",
+      "author" : "@hikaru_motomiya",
+      "day" : 19,
+      "url" : "https://qiita.com/hikaru_motomiya/items/a5210ed567a02a2720f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ワンコインで買った教材で 2ヶ月間 CakePHP を勉強したので紹介する",
+      "author" : "@Kohei_2424",
+      "day" : 20,
+      "url" : "https://qiita.com/Kohei_2424/items/bea6144c0e0f9183a600"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LocalStackで、ローカル環境にS3とLambdaデプロイしてみた",
+      "author" : "@yu_to_15",
+      "day" : 21,
+      "url" : "https://qiita.com/yu_to_15/items/32f2dc715796012714d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon cognito カスタム属性を利用したユーザー登録　～CSVファイルから登録～",
+      "author" : "@aki_number16",
+      "day" : 22,
+      "url" : "https://qiita.com/aki_number16/items/0f49ce3af636dba35974"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rekognition, Jenkins】「この人、名前何だっけ？」に応えるAmazon Rekognition+Jenkins",
+      "author" : "@kokohei39",
+      "day" : 23,
+      "url" : "https://qiita.com/kokohei39/items/69d7c13e39836550d930"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【テンプレート付き】Notionで備忘録をはじめよう",
+      "author" : "@yuki_doi",
+      "day" : 24,
+      "url" : "https://qiita.com/yuki_doi/items/022cec7bddb1d281843e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】東京リージョンにMacインスタンスをたてる方法と注意点",
+      "author" : "@kodai_ari",
+      "day" : 25,
+      "url" : "https://qiita.com/kodai_ari/items/c7bfa235768f525bf8cd"
+    }
+  ]
+}

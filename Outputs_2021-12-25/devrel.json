@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:21:09Z",
+  "calendar_meta_data" : {
+    "author" : "@goofmint",
+    "category" : "企業・学校・団体",
+    "lgtm" : 7,
+    "subscribers" : 10,
+    "title" : "DevRel Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "devrel",
+    "url" : "https://qiita.com/advent-calendar/2021/devrel"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "DevRel/Japan CONFERENCE 2021を開催しました",
+      "author" : "@goofmint",
+      "day" : 1,
+      "url" : "https://devrel.tokyo/devrel-japan-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DevRelにおけるコミュニティ",
+      "author" : "@taiponrock",
+      "day" : 2,
+      "url" : "https://medium.com/@taiponrock/devrel%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3-e3a8d63a26e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年最後のDevRel Meetup in Tokyoを開催しました",
+      "author" : "@goofmint",
+      "day" : 3,
+      "url" : "https://blog.moongift.co.jp/entry/2021/12/03/111909"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マーケティングから考えるDevRel戦略（発信編）",
+      "author" : "@goofmint",
+      "day" : 4,
+      "url" : "https://devrel.jp/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/2021/12/04/devrel-publishing.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンライン登壇とオフライン登壇の違いで学んだこと（英語圏 & ヨーロッパ編）",
+      "author" : "@arisa_dev",
+      "day" : 5,
+      "url" : "https://qiita.com/arisa_dev/items/258e189c91d2f0b27698"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DevRel/Japanカンファレンス「中の人」セッションふりかえり",
+      "author" : "@beajourneyman",
+      "day" : 6,
+      "url" : "https://note.com/beajourneyman/n/n67d64aaf6f69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DevRel としての活動を振り返る",
+      "author" : "@hcrane",
+      "day" : 7,
+      "url" : "https://note.com/hcrane/n/nd827c970ccf3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2020-2021年で経験したバーチャルプラットフォームの話",
+      "author" : "@jun1982",
+      "day" : 8,
+      "url" : "https://note.com/jun_vr/n/n50664ef61dd6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハッカソンリーグ2021 ルーキーリーグ Vol.01 Microsoft Azureをひたすら使い倒す 2日間で技術メンターをしてきました",
+      "author" : "@tseigo",
+      "day" : 9,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/09/summary-ms-azure-hackathon-league-2021-vol1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハッカソンについて書くよー",
+      "author" : "@taiponrock",
+      "day" : 10,
+      "url" : "https://medium.com/@taiponrock/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E3%81%AFdevrel%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-eda1a7ec18e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新しい時代のDevRel - 市民開発者に向けて",
+      "author" : "@wataru-yamazaki",
+      "day" : 11,
+      "url" : "https://note.com/wyamazak/n/nad5f5ee3ad71"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「やって良かった!」のプレゼン･登壇のために",
+      "author" : "@wataru-yamazaki",
+      "day" : 12,
+      "url" : "https://note.com/wyamazak/n/n73a732de5952"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年にTwilioのDevRel担当者として取り組んだことのおさらい",
+      "author" : "@Neri78",
+      "day" : 13,
+      "url" : "https://www.pondfield.com/entry/2021/12/13/170847"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の Dev Rel 活動（登壇、執筆、等）振り返り",
+      "author" : "@shosuz",
+      "day" : 14,
+      "url" : "https://qiita.com/shosuz/items/dd54e0ea54c2879b1d5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "この冬、新しいスキルを身に付けてみませんか？？(´Д` )♪",
+      "author" : "@odasho0618",
+      "day" : 15,
+      "url" : "https://shoheioda.medium.com/%E3%81%93%E3%81%AE%E5%86%AC-%E6%96%B0%E3%81%97%E3%81%84%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%BA%AB%E3%81%AB%E7%9D%80%E3%81%91%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-%D0%B4-15b8c4e3dee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地方で開発者コミュニティイベントやるときにサテライト拠点の設置を受け持つと新しい価値があった話",
+      "author" : "@jun1982",
+      "day" : 16,
+      "url" : "https://note.com/jun_vr/n/nef2f3b878561"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人と一緒にコンテンツを磨く、パネルディスカッションの段取り",
+      "author" : "@uma16",
+      "day" : 17,
+      "url" : "https://note.com/beppu01/n/n37a4cc319ef6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【活動報告】DevRel/Japan CONFERENCE 2021にパネリスト登壇してきたよ #DevRelJP #jawsug #jawsdays2021",
+      "author" : "@coosuke",
+      "day" : 18,
+      "url" : "https://note.com/coosuke/n/na5698b8a34e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エラーメッセージから考えるよりよいDX（開発体験）とは",
+      "author" : "@goofmint",
+      "day" : 19,
+      "url" : "http://devrel.jp/dx/2021/12/19/error-with-dx.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DeveloperからDeveloper Advocateにキャリアチェンジして３週間経った話",
+      "author" : "@motchi0214",
+      "day" : 20,
+      "url" : "https://zenn.dev/hideokamoto/articles/52a6e4280cced5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "#DevRelJP 「ソーシャル（中の人）」セッションのモデレーターを担当した感想あれこれ",
+      "author" : "@kaoritter",
+      "day" : 21,
+      "url" : "https://www.kaoritter.com/archives/2021/1219_164744.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自宅PC環境を快適に！！+ おすすめ配信ツールのご紹介(ハードウェア編)",
+      "author" : "@odasho0618",
+      "day" : 22,
+      "url" : "https://shoheioda.medium.com/%E8%87%AA%E5%AE%85pc%E7%92%B0%E5%A2%83%E3%82%92%E5%B0%91%E3%81%97%E3%81%A7%E3%82%82%E5%BF%AB%E9%81%A9%E3%81%AB-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E9%85%8D%E4%BF%A1%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B-%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%B7%A8-7706d357c6e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタマーサクセスにおけるDevRelについて考えてみる",
+      "author" : "@ayatokura",
+      "day" : 23,
+      "url" : "https://note.com/ayatokura/n/n2c322fd14d4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お手軽に始める動画プロモーション",
+      "author" : "@kizawa2020",
+      "day" : 24,
+      "url" : "https://kizawa.info/movie-promotion"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のDevRel Meetup in Tokyo振り返り",
+      "author" : "@goofmint",
+      "day" : 25,
+      "url" : "https://devrel.tokyo/2021-activities/"
+    }
+  ]
+}

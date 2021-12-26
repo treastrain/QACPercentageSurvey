@@ -1,0 +1,301 @@
+{
+  "created_at" : "2021-12-26T03:51:38Z",
+  "calendar_meta_data" : {
+    "author" : "日鉄ソリューションズ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 298,
+    "subscribers" : 18,
+    "title" : "NSSOL Advent Calendar 2021",
+    "participants" : 27,
+    "unique_name" : "nssol",
+    "url" : "https://qiita.com/advent-calendar/2021/nssol"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "「サンタさんの配達ルート」問題",
+      "author" : "@cocoakamen",
+      "day" : 1,
+      "url" : "https://qiita.com/cocoakamen/items/bb0f5669f99105fb2e55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ディープラーニングの先端技術、マルチモーダルの日本語モデルを作ってみた【日本語VL-T5】",
+      "author" : "@sonoisa",
+      "day" : 2,
+      "url" : "https://qiita.com/sonoisa/items/618ebcc3db1558c13038"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UXデザイナーとして4ヶ月で学んだこと",
+      "author" : "@hamazon_com",
+      "day" : 3,
+      "url" : "https://qiita.com/hamazon_com/items/5fa8f517b1b17110dbb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "数量・時間表現抽出ツールをPythonでゼロから実装してみた【NormalizeNumexp】",
+      "author" : "@tkscode",
+      "day" : 4,
+      "url" : "https://qiita.com/tkscode/items/394f0d53abeed034e659"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリで使える日本国内の地形/建物の3Dモデルをつくる",
+      "author" : "@ksasao",
+      "day" : 5,
+      "url" : "https://qiita.com/ksasao/items/7718234c9cbc19abd3bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Storybookで始めるVisual Regression Test",
+      "author" : "@shimopino",
+      "day" : 6,
+      "url" : "https://qiita.com/shimopino/items/e143b3d1a942e577dc31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JINS MEMEでいい姿勢をキープしたい",
+      "author" : "@hayato1226",
+      "day" : 7,
+      "url" : "https://zenn.dev/hayato1226/articles/jins-meme-part1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "three.js を使って簡単な 3D ルーレットアプリを作った",
+      "author" : "@ychNext9",
+      "day" : 8,
+      "url" : "https://qiita.com/ychNext9/items/799dfe399c138230bd7c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visioの作図テクニック",
+      "author" : "@nw_admin",
+      "day" : 9,
+      "url" : "https://qiita.com/nw_admin/items/a88969adab168d962b15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2チームのスクラムマスターとして意識したこと",
+      "author" : "@zacapa",
+      "day" : 10,
+      "url" : "https://note.com/zacapa/n/n02cb35f91aba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "深層学習で名寄せ（Entity Matching）を行う「DeepMatcher」を試してみた",
+      "author" : "@yasuhillo",
+      "day" : 11,
+      "url" : "https://qiita.com/yasuhillo/items/407c771e4ecf6a982f8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リリース前日にGitリポジトリを吹っ飛ばした話",
+      "author" : "@Arthas1987",
+      "day" : 12,
+      "url" : "https://qiita.com/Arthas1987/items/13438d007ea1e3a5376f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レインボーテーブルでパスワードを復元してみる",
+      "author" : "@thtitech",
+      "day" : 13,
+      "url" : "https://qiita.com/thtitech/items/c2fba7cd3495eefffcf0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Team Topologyで色々なものを読み解いてみる",
+      "author" : "@yamamorisoba",
+      "day" : 14,
+      "url" : "https://qiita.com/yamamorisoba/items/be5f55701aef6dcc2be2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Observability（可観測性）の創り方",
+      "author" : "@nobuking",
+      "day" : 15,
+      "url" : "https://qiita.com/nobuking/items/8eaff1cf5c633d99d399"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ボタンから学ぶコンポーネントのデザインと実装の考え方",
+      "author" : "@kinakome",
+      "day" : 16,
+      "url" : "https://qiita.com/kinakome/items/5ab96b45880ce69a4c5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーでなくても知ってほしいUXデザインに関する3つのこと",
+      "author" : "@trois_acorn",
+      "day" : 17,
+      "url" : "https://note.com/trois_acorn/n/nf27a32700179"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "深層学習モデル軽量化技術まとめ",
+      "author" : "@Nurkic",
+      "day" : 18,
+      "url" : "https://qiita.com/Nurkic/items/a382fc84a34fd0ae9400"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AIのべりすと】とうとうAIが面白い小説を書けるようになってきた！！　～AIによる小説の自動生成の最前線～　",
+      "author" : "@mfuji3326",
+      "day" : 19,
+      "url" : "https://qiita.com/mfuji3326/items/f86aca1df4ddc85c4a50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "言葉で定義した問題を解いてくれるAIを作ろう：OpenPromptを試してみた",
+      "author" : "@wwwcojp",
+      "day" : 20,
+      "url" : "https://qiita.com/wwwcojp/items/b35eed3ebe699b730232"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "spaCyはどうやって係り受け解析しているのか調べてみた",
+      "author" : "@toyoce",
+      "day" : 21,
+      "url" : "https://qiita.com/toyoce/items/71871ba6382717d8ef4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "研修を運営してみた思ったこと",
+      "author" : "@beginnergk",
+      "day" : 22,
+      "url" : "https://note.com/kofsd_52329/n/nd702c3a5d76b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "\"気の利いた\"擬似データを生成したい",
+      "author" : "@gg_hatano",
+      "day" : 23,
+      "url" : "https://qiita.com/gg_hatano/items/cf87fe5e1166a2ba80b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.js+Goでクイズアプリを作ってみる",
+      "author" : "@kmnky",
+      "day" : 24,
+      "url" : "https://qiita.com/kmnky/items/614a22d6724a85dee0da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "さあ、「スクラム広報」をはじめよう ー社員一体型の広報を目指してー",
+      "author" : "@smrmn331",
+      "day" : 25,
+      "url" : "https://note.com/smrmn331/n/n14b7944d612c"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Udemyの強化学習講座を受けてみた",
+      "author" : "@Atsushi_2207",
+      "day" : 4,
+      "url" : "https://qiita.com/Atsushi_2207/items/cfb32b98174f67b4b977"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "雑なアルゴリズムと最新のCPUはどちらが速いのか？",
+      "author" : "@t_nakayama0714",
+      "day" : 12,
+      "url" : "https://qiita.com/t_nakayama0714/items/eca885a1b99022a81703"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【受講レポ】Google UX Design認定を受けている話",
+      "author" : "@trois_acorn",
+      "day" : 17,
+      "url" : "https://note.com/trois_acorn/n/n73834701bb03"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18,
+      "author" : "@zacapa"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20,
+      "author" : "@shimopino"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

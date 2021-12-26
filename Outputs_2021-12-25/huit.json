@@ -1,0 +1,175 @@
+{
+  "created_at" : "2021-12-25T19:45:37Z",
+  "calendar_meta_data" : {
+    "author" : "@shoumoji",
+    "category" : "企業・学校・団体",
+    "lgtm" : 46,
+    "subscribers" : 3,
+    "title" : "2021年HUITアドベントカレンダー Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "huit",
+    "url" : "https://qiita.com/advent-calendar/2021/huit"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AIは新入生になりきれるか?",
+      "author" : "@gojiteji",
+      "day" : 1,
+      "url" : "https://blog.gojiteji.com/2021/12/01/7816825e-f7e4-0e24-6448-9ec513e5e027/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒一年目だけど自由に暮らしてます。",
+      "author" : "@pnd1117",
+      "day" : 2,
+      "url" : "https://note.com/rinaohmura/n/n0adc5b2858f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "冬割クーポンどうしてもほしい！",
+      "author" : "@takapiro_99",
+      "day" : 3,
+      "url" : "https://takapiro99.github.io/2021/rurubu-fuyuwari-coupon"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HUITに入ってみたお話",
+      "author" : "@Harukoke",
+      "day" : 4,
+      "url" : "https://usk314.github.io/blog_static/2021/12/04/HUIT%E3%81%AB%E5%85%A5%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%8A%E8%A9%B1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C#】FFmpeg APIで動画プレーヤーを１からつくってみる(前編)",
+      "author" : "@Kujiro",
+      "day" : 5,
+      "url" : "https://qiita.com/Kujiro/items/78956f5906538b718ffb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【C#】awaitの裏側",
+      "author" : "@Kujiro",
+      "day" : 6,
+      "url" : "https://qiita.com/Kujiro/items/c66feb67aadedb18e51f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JPHacks2021に参加しました！",
+      "author" : "@Harukoke",
+      "day" : 7,
+      "url" : "https://usk314.github.io/blog_static/2021/12/07/JPHacks2021%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HuggingFaceで実装されたモデルの論文、上から読むか?下から読むか?",
+      "author" : "@gojiteji",
+      "day" : 8,
+      "url" : "https://hackmd.io/@gojiteji/r1Byx3Dtt"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "getとstreamって何が違う？",
+      "author" : "@Harukoke",
+      "day" : 10,
+      "url" : "https://usk314.github.io/blog_static/2021/12/11/get%E3%81%A8stream%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%8C%E9%81%95%E3%81%86%EF%BC%9F/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学校祭の案内サイトを高校公式にするために職員室に乗り込んだ話【高校の情報技術に対する対応の現状】",
+      "author" : "@hexan0",
+      "day" : 12,
+      "url" : "https://qiita.com/hexan0/items/d24fb7ea32d3c2e503e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜNumbaを使うと高速になるのか調べてみた",
+      "author" : "@karintou8710",
+      "day" : 13,
+      "url" : "https://qiita.com/karintou8710/items/f2f131db92ba7bb0896c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NewRelicで始めるクラウド監視入門",
+      "author" : "@shoumoji",
+      "day" : 14,
+      "url" : "https://shoumoji.hatenablog.jp/entry/2021/12/15/024234"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブロックチェーンのパワー💪",
+      "author" : "@eeekondo",
+      "day" : 15,
+      "url" : "https://scrapbox.io/kjmpmj032-89855034/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AE%E3%83%91%E3%83%AF%E3%83%BC%F0%9F%92%AA"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JPHacks感想",
+      "author" : "@usatyo",
+      "day" : 16,
+      "url" : "https://usatyo.hatenablog.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[[][+[]]+[]][+[]][++[[]][+[]]]",
+      "author" : "@monkukui2",
+      "day" : 17,
+      "url" : "https://qiita.com/monkukui2/items/5ca89a4821e114eaf223"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@takapiro_99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#10でおまじないから脱却し一行でコードを書く",
+      "author" : "@Kujiro",
+      "day" : 19,
+      "url" : "https://qiita.com/Kujiro/items/6ba4f468b4e7d221fab3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "webページ作ってみた！",
+      "author" : "@Al-Mikan",
+      "day" : 20,
+      "url" : "https://al-mikan.github.io/entry.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@Resoshi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GAS 入門して請求書自動作成 Slack Bot 作りました",
+      "author" : "@manattan",
+      "day" : 23,
+      "url" : "https://hackmd.io/@manattan/H1aIziGsK"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "✨キラキラPC✨を作ろう（主要部品の選定編）",
+      "author" : "@IMD555",
+      "day" : 24,
+      "url" : "https://qiita.com/IMD555/items/d0432649caea3cd589a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shoumoji"
+    }
+  ]
+}

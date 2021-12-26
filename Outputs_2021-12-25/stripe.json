@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:39:04Z",
+  "calendar_meta_data" : {
+    "author" : "@motchi0214",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 6,
+    "subscribers" : 22,
+    "title" : "Stripe Advent Calendar Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "stripe",
+    "url" : "https://qiita.com/advent-calendar/2021/stripe"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "コミュニティ活動がきっかけでStripeに入社できた話",
+      "author" : "@motchi0214",
+      "day" : 1,
+      "url" : "https://zenn.dev/hideokamoto/articles/943d10256df4b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年のJP_Stripes 活動を振り返ります！",
+      "author" : "@hide69oz",
+      "day" : 2,
+      "url" : "https://stilldayone.hatenablog.jp/entry/JP_Stripes_2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めてのStripe: 完全にサーバーレスのチケット販売",
+      "author" : "@falken",
+      "day" : 3,
+      "url" : "https://dev.to/aws-builders/chu-metenostripe-wan-quan-nisabaresunotiketutofan-mai-2780"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "壺サブスクのアフターフォロー（カスタマーポータル）",
+      "author" : "@gtijp",
+      "day" : 4,
+      "url" : "https://blog.gti.jp/post-73672/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StripeElementsのエラーをReactHookFormでvalidationしたい",
+      "author" : "@thim",
+      "day" : 5,
+      "url" : "https://blog.owlcode.net/posts/20211205-stripe-elements"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Express Connectについて動画で紹介します。",
+      "author" : "@tomozilla",
+      "day" : 6,
+      "url" : "https://youtu.be/-uRT7cxQu90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripeでクーポンを活用してみた",
+      "author" : "@kira_puka",
+      "day" : 7,
+      "url" : "https://www.memory-lovers.blog/entry/2021/12/07/001936"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本の住所を登録するときのプロパティ分け",
+      "author" : "@toruf-stripe",
+      "day" : 8,
+      "url" : "https://gist.github.com/toruf-stripe/60293ec99a333a7af1daaca31b562741"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[AWS][Stripe] AWS Single Sign-On での Stripe への SAML 認証によるログイン設定",
+      "author" : "@wokamoto",
+      "day" : 9,
+      "url" : "https://qiita.com/wokamoto/items/166712fa44da6ebcf247"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サブスクリプションに関する何かをかきます。",
+      "author" : "@haruharuharuby",
+      "day" : 10,
+      "url" : "https://hugtech.io/2021/12/06/stripe-subscription-transfer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "\"開発者による開発者のための Stripe ガイド\"で書けそうなトピックをいろいろと考えてみた",
+      "author" : "@hideokamoto",
+      "day" : 11,
+      "url" : "https://qiita.com/hideokamoto/items/9a4a410268b0484900f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripe Checkout / Payment Linksで定期課金プランの上位プラン提案（アップセル）をノーコードで実装する",
+      "author" : "@hideokamoto",
+      "day" : 12,
+      "url" : "https://qiita.com/hideokamoto/items/669d8b02195ac148dd3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StripeのInvoiceが変わったのをご存知ですか？",
+      "author" : "@neeton_iwasaki",
+      "day" : 13,
+      "url" : "https://note.com/iwasakiyoshiteru/n/na4770474d528"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripe Tax 入門 - 数行のコードでグローバルな税務処理を自動化する",
+      "author" : "@hideokamoto",
+      "day" : 14,
+      "url" : "https://qiita.com/hideokamoto/items/e92b6ae22065b0d134cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripe Taxがあれば、SaaSの海外展開が実現できる",
+      "author" : "@tomodian",
+      "day" : 15,
+      "url" : "https://qiita.com/tomodian/items/3d6e07d121af4188c0fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripe Connectを利用したレベニューシェアシステム",
+      "author" : "@sugo",
+      "day" : 16,
+      "url" : "https://qiita.com/sugo/items/721c15a04e908d57b16b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Automatic Payment Methodについて動画で紹介します！",
+      "author" : "@tomozilla",
+      "day" : 17,
+      "url" : "https://youtu.be/tBnSFiRN2_g"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripe Connect 決済以外に考える事",
+      "author" : "@ding3178",
+      "day" : 18,
+      "url" : "https://qiita.com/ding3178/items/f39e94280bfa0e36587f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripe Payment Elementを試してみる",
+      "author" : "@gorou178",
+      "day" : 19,
+      "url" : "https://www.gorou.style/articles/2021/12/stripe-payment-element/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Stripe Updates] Customer PortalでInvoicing(請求書)の履歴の確認や領収書ダウンロードができるようになりました",
+      "author" : "@hideokamoto",
+      "day" : 20,
+      "url" : "https://qiita.com/hideokamoto/items/c3f8b2b99d34c46cbcb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "connectを利用して決済機能をリリースした話",
+      "author" : "@hktt",
+      "day" : 21,
+      "url" : "https://note.com/hakutoitoi/n/nc333eb958729"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年12月現在のStripeのコンソールを端から見て、とにかく私のStripeコンソール愛を書いてみた #Stripe Advent Calendar 22日目",
+      "author" : "@knuna_t",
+      "day" : 22,
+      "url" : "https://dev.classmethod.jp/articles/mylovepoint_stripe_console_20211222/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STRIPE PAYMENT LINKS + SHIFTER で 「WORDPRESS」も「決済」も安全に運用する",
+      "author" : "@marushu",
+      "day" : 23,
+      "url" : "https://private.hibou-web.com/archives/8955/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripe Billigについて動画で紹介します！",
+      "author" : "@tomozilla",
+      "day" : 24,
+      "url" : "https://youtu.be/4AcyBVOmbbM"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電子帳簿保存法に備えて、Stripeで領収書・請求書を発行する方法をおさらいする",
+      "author" : "@hideokamoto",
+      "day" : 25,
+      "url" : "https://qiita.com/hideokamoto/items/566869ed7b9a21d90678"
+    }
+  ]
+}

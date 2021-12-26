@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:14:49Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エウレカ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 3,
+    "subscribers" : 10,
+    "title" : "Eureka Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "eureka",
+    "url" : "https://qiita.com/advent-calendar/2021/eureka"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "エウレカはPairs(ペアーズ)のiOSアプリをどのように作っているのか",
+      "author" : "@muukii",
+      "day" : 1,
+      "url" : "https://medium.com/eureka-engineering/pairs-overview-of-engineering-development-f3a39cc413c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "You don't need SwiftUI to enjoy its layout syntax",
+      "author" : "@JohnEstropia",
+      "day" : 2,
+      "url" : "https://medium.com/eureka-engineering/you-dont-need-swiftui-to-enjoy-its-layout-syntax-7752fc45caef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pairsのネイティブアプリにおける開発効率向上のための取り組み",
+      "author" : "@yuyakaido",
+      "day" : 3,
+      "url" : "https://medium.com/eureka-engineering/efforts-to-improve-android-development-efficiency-in-pairs-fd3dc4e1a94"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクション運用に必要な項目の定義とドキュメント化の実践",
+      "author" : "@marnie-eure",
+      "day" : 4,
+      "url" : "https://medium.com/p/b3c976146b4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社1年でVR勢を巻き込んでVRチームを構成した話",
+      "author" : "@nakashun",
+      "day" : 5,
+      "url" : "https://zenn.dev/namoo_san/articles/f980c5e6573760"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Evolve Unidirectional Data Flow a.k.a MVI into MVVM + Jetpack Compose",
+      "author" : "@davidsantos",
+      "day" : 6,
+      "url" : "https://medium.com/eureka-engineering/evolve-unidirectional-data-flow-a-k-a-mvi-into-mvvm-jetpack-compose-e6858a767290"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Transition from an iOS engineer to a backend Engineer",
+      "author" : "@Aymenworks",
+      "day" : 7,
+      "url" : "https://medium.com/eureka-engineering/from-an-ios-engineer-to-a-backend-engineer-bc52d2c79af1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ORMをアップグレードするために行った大改修",
+      "author" : "@daisuzu",
+      "day" : 8,
+      "url" : "https://medium.com/eureka-engineering/orm%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%9F%E5%A4%A7%E6%94%B9%E4%BF%AE-3bd589d4f35d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Image Processing in WebGL",
+      "author" : "@jonmulligan",
+      "day" : 9,
+      "url" : "https://medium.com/eureka-engineering/image-processing-with-webgl-c2af552e8df0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Some Common ARIA Properties for Accessible Web UI Components",
+      "author" : "@Yuxiao_He",
+      "day" : 10,
+      "url" : "https://medium.com/eureka-engineering/some-common-aria-properties-for-accessible-web-ui-components-8db634b3f618"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021-eureka Backend Team振り返り",
+      "author" : "@kentokento",
+      "day" : 11,
+      "url" : "https://medium.com/eureka-engineering/2021-eureka-backend-team-3b070bbdcb91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メタバース内からメタバースへ向けたアプリケーション開発 — Neos & LogiX",
+      "author" : "@If_I_were_boxp",
+      "day" : 12,
+      "url" : "https://medium.com/eureka-engineering/development-for-metaverse-from-metaverse-2737e5af2e52"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS IAM セキュア化の取り組み",
+      "author" : "@dharada1",
+      "day" : 13,
+      "url" : "https://medium.com/eureka-engineering/securing-aws-iam-3064e9587703"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "redashの断捨離を実施したので、方法を共有します",
+      "author" : "@Kazuya_Araki_Tokyo",
+      "day" : 14,
+      "url" : "https://medium.com/@kazuya.araki/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WorkdayとOktaを連携してアカウント管理運用を省力化した話",
+      "author" : "@takuya599",
+      "day" : 15,
+      "url" : "https://medium.com/eureka-engineering/workday%E3%81%A8okta%E3%82%92%E9%80%A3%E6%90%BA%E3%81%97%E3%81%A6%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E7%AE%A1%E7%90%86%E9%81%8B%E7%94%A8%E3%82%92%E7%9C%81%E5%8A%9B%E5%8C%96%E3%81%97%E3%81%9F%E8%A9%B1-2b77f77d758d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンライン機械学習サービスとしてGCP Vertex AIのMLOpsを導入した話",
+      "author" : "@sugiki",
+      "day" : 16,
+      "url" : "https://medium.com/eureka-engineering/vertex-ai-mlops-b74cdff19681"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidの多機能Fragmentを再利用可能にした話",
+      "author" : "@blonde_namazu",
+      "day" : 17,
+      "url" : "https://qiita.com/blonde_namazu/items/5b6b0ac4843c3fc3dce3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ケーススタディで改めて学ぶ、S3をセキュアに運用するために気をつけるべきこと",
+      "author" : "@ogady",
+      "day" : 18,
+      "url" : "https://medium.com/eureka-engineering/s3-security-case-study-6c143ae8ba11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Evolution of Eureka's Data Platform",
+      "author" : "@stereowind",
+      "day" : 19,
+      "url" : "https://medium.com/@stereowind/evolution-of-eurekas-data-platform-918ee7f787dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EKS/Kubernetesで画像カテゴリ分類のGPU推論環境をProduction Readyにするまで",
+      "author" : "@fukubaka0825",
+      "day" : 20,
+      "url" : "https://fukubaka0825.hatenablog.com/entry/2021/12/20/020908"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロジェクトを前に進めるために  2021",
+      "author" : "@emahiro",
+      "day" : 21,
+      "url" : "https://medium.com/eureka-engineering/project-execution-management-2021-55e2df001fe1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pairsのコミュニティチャットを支えるBackend周りのはなし",
+      "author" : "@rennnosuke",
+      "day" : 22,
+      "url" : "https://medium.com/eureka-engineering/pairs%E3%81%AE%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%92%E6%94%AF%E3%81%88%E3%82%8Bbackend%E5%91%A8%E3%82%8A%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%97-f39ff997e9e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Building a real-time serverless chat application on AWS with Go and Vue 3: Part 1",
+      "author" : "@jimeux",
+      "day" : 23,
+      "url" : "https://medium.com/eureka-engineering/building-a-real-time-serverless-chat-application-on-aws-with-go-and-vue-3-part-1-3ceeb195bd2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年エウレカエンジニア組織の振り返り",
+      "author" : "@kaneshin",
+      "day" : 24,
+      "url" : "https://medium.com/eureka-engineering/eureka-engineering-org-2021-recap-4721039b0cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エウレカのデータ組織運営の2年目",
+      "author" : "@pacocat",
+      "day" : 25,
+      "url" : "https://medium.com/eureka-engineering/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E7%B5%84%E7%B9%94%E9%81%8B%E5%96%B6%E3%81%AE2%E5%B9%B4%E7%9B%AE-b4b3e43d103d"
+    }
+  ]
+}

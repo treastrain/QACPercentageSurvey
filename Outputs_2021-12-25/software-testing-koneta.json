@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T23:58:08Z",
+  "calendar_meta_data" : {
+    "author" : "@YoshikiIto",
+    "category" : "その他",
+    "lgtm" : 9,
+    "subscribers" : 55,
+    "title" : "ソフトウェアテストの小ネタ Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "software-testing-koneta",
+    "url" : "https://qiita.com/advent-calendar/2021/software-testing-koneta"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【超小ネタ】Windows 11 でUAC(User Account Control)のプロンプトを画面キャプチャーする方法",
+      "author" : "@hirofumitouhei",
+      "day" : 1,
+      "url" : "https://qiita.com/hirofumitouhei/items/8ef24e3e976f478fff75"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソシャゲQA体操第一",
+      "author" : "@tonono2587",
+      "day" : 2,
+      "url" : "https://tonono.hatenablog.com/entry/20211202_konetaAC"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアテストの品質を測るためのメトリクス ",
+      "author" : "@momotar47279337",
+      "day" : 3,
+      "url" : "https://qiita.com/momotar47279337/items/e608f80d0faf862c64e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QA大喜利",
+      "author" : "@teamomusoba",
+      "day" : 4,
+      "url" : "https://teamomusoba.hatenablog.com/entry/2021/12/04/191054"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラックボックステストは内部構造を想定する",
+      "author" : "@ToshiManaPlus1",
+      "day" : 5,
+      "url" : "https://qiita.com/ToshiManaPlus1/items/e012e8bafd2e5cc4b9b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もしも寿限無の和尚さんがテスターだったら",
+      "author" : "@TaoBabubb",
+      "day" : 6,
+      "url" : "https://note.com/mjtns/n/n77c271333750"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストの世界地図",
+      "author" : "@HOLLY69",
+      "day" : 7,
+      "url" : "https://el.jibun.atmarkit.co.jp/holly/2021/12/post_14.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonで始めるテストツール製作",
+      "author" : "@pbjpkas",
+      "day" : 8,
+      "url" : "https://qiita.com/pbjpkas/items/0b8a32e2b0e126fab8bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JestカバレッジレポートをGithub ActionsでPRに自動コメント",
+      "author" : "@_rena_h",
+      "day" : 9,
+      "url" : "https://zenn.dev/rena_h/articles/29b8203db2299f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "tracking eventの検証をするときのちょっとしたコツについて",
+      "author" : "@hide_ramen_san",
+      "day" : 10,
+      "url" : "https://note.com/ramen_san/n/ne7e3c828104a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pictmaster味わい紀行",
+      "author" : "@KazuhiroYoshino",
+      "day" : 11,
+      "url" : "https://qiita.com/KazuhiroYoshino/items/a14ed7f437b21afb6e27"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バグにあったらどうするか",
+      "author" : "@miwa719",
+      "day" : 12,
+      "url" : "https://miwa719.hatenablog.com/entry/bears_and_bugs"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト分析は素因数分解と 合同・MOD (余り) のグループ化という考え方",
+      "author" : "@bakachou",
+      "day" : 13,
+      "url" : "https://qiita.com/bakachou/items/1cc161304cf7950b4792"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストケースを秒で書く話",
+      "author" : "@EgaSaQA",
+      "day" : 14,
+      "url" : "http://yawarakatester.blogspot.com/2021/12/blog-post.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストで問題になるけど、その前から兆候があるよ！3選",
+      "author" : "@hiroyuki3gou",
+      "day" : 15,
+      "url" : "https://devtest.hatenablog.com/entry/2021/12/15/124810"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアテスト技術文書の英語読み書き・付け焼き刃勉強法",
+      "author" : "@goyoki",
+      "day" : 16,
+      "url" : "https://goyoki.hatenablog.com/entry/2021/12/15/214056"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "突発的なPrj.でやってみたこと",
+      "author" : "@eiko_takemura",
+      "day" : 17,
+      "url" : "https://qiita.com/eiko_takemura/items/db1a32af18f5959eb034"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "修正内容に応じたリグレッションテストの実施範囲",
+      "author" : "@kawabeaver",
+      "day" : 18,
+      "url" : "https://kawabeaver.hatenablog.com/entry/2021/12/18/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストカバレッジって何なの？",
+      "author" : "@YoshikiIto",
+      "day" : 19,
+      "url" : "https://yoshikiito.net/blog/archives/what-is-test-coverage/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "探索的テストの「オポチュニティ」を意識する",
+      "author" : "@nemorine",
+      "day" : 20,
+      "url" : "https://nemorine.hateblo.jp/entry/2021/12/20/235900"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バグ・ストーリーは突然に",
+      "author" : "@HOLLY69",
+      "day" : 21,
+      "url" : "https://qiita.com/HOLLY69/items/101f2c31b78dabfaba5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IVEC LV2を受験してみた話",
+      "author" : "@mt3_set",
+      "day" : 22,
+      "url" : "https://note.com/mt3_set/n/n85d8b95d5e27"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発が進んでいるプロダクトに単体テストを導入するはじめの一歩",
+      "author" : "@chano2",
+      "day" : 23,
+      "url" : "https://qiita.com/chano2/items/4f1b33c60b915a5c06e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QA（テスター）が開発工程の上流に参加して実際に行うこと",
+      "author" : "@nihonbuson",
+      "day" : 24,
+      "url" : "https://nihonbuson.hatenadiary.jp/entry/2021/12/25/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GIHOZのPictmaster味",
+      "author" : "@KazuhiroYoshino",
+      "day" : 25,
+      "url" : "https://qiita.com/KazuhiroYoshino/items/1028ebfb10f3a73da7a2"
+    }
+  ]
+}

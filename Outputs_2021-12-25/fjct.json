@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:47:08Z",
+  "calendar_meta_data" : {
+    "author" : "富士通クラウドテクノロジーズ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 33,
+    "subscribers" : 12,
+    "title" : "富士通クラウドテクノロジーズ Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "fjct",
+    "url" : "https://qiita.com/advent-calendar/2021/fjct"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "TwilioとWindows PowerShellを使って連続で電話を掛けたい",
+      "author" : "@ktakaaki",
+      "day" : 1,
+      "url" : "https://qiita.com/ktakaaki/items/a6a3154c3600388f39ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gitlab-triageでプロジェクトの棚卸しを自動化する",
+      "author" : "@heriet",
+      "day" : 2,
+      "url" : "https://zenn.dev/heriet/articles/gitlab-triage"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack botをRTMからBolt(WebSocket)に書き直しました",
+      "author" : "@hasunuma",
+      "day" : 3,
+      "url" : "https://tech.fjct.fujitsu.com/entry/2021/12/03/160240"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年はまったレシピとその試行錯誤",
+      "author" : "@o108minmin",
+      "day" : 4,
+      "url" : "https://o108minmin.hatenablog.com/entry/2021/12/04/000047"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Helm Chartでマイクロサービスのマニフェストをお手軽管理",
+      "author" : "@Syuparn",
+      "day" : 5,
+      "url" : "https://qiita.com/Syuparn/items/d79a3d945a18f6c34319"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内CTFを開催しました",
+      "author" : "@ntoofu",
+      "day" : 6,
+      "url" : "https://tech.fjct.fujitsu.com/entry/2021/12/06/094339"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Postfix, Dovecot, Zabbixを入れてサーバーを監視してみる",
+      "author" : "@HanchA",
+      "day" : 7,
+      "url" : "https://qiita.com/HanchA/items/d921ac84fa63fe1d2af1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetes クラスターを自力で組んでトラブルシューティングしてみる【The Hard Way】【ニフクラ】",
+      "author" : "@SogoK",
+      "day" : 8,
+      "url" : "https://qiita.com/SogoK/items/192d475c20e07dd38984"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderでそれなりにフォトリアルな画像を生成する",
+      "author" : "@ablengawa",
+      "day" : 9,
+      "url" : "https://ablengawa.hatenablog.com/entry/2021/12/09/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APIを叩いて家電の遠隔操作をしてみる[SwitchBot]",
+      "author" : "@Tortoiseshell",
+      "day" : 10,
+      "url" : "https://qiita.com/Tortoiseshell/items/25eaa442fb7118a3d752"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Conftest】YAMLを目でレビューするのはもうヤメル【Policy as Code】",
+      "author" : "@tanopanta",
+      "day" : 11,
+      "url" : "https://qiita.com/tanopanta/items/75c32fe1e6fecf47b710"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "daprのActorをつかってみる",
+      "author" : "@kzmake",
+      "day" : 12,
+      "url" : "https://qiita.com/kzmake/items/ca0791350d941ce9d29a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDK for Terraform をニフクラ provider で試してみた",
+      "author" : "@tunakyonn",
+      "day" : 13,
+      "url" : "https://qiita.com/tunakyonn/items/03c360185039132e3fb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SmithyでAPIリファレンス作成してみよう",
+      "author" : "@fuku2014",
+      "day" : 14,
+      "url" : "https://zenn.dev/seumo/articles/d33581c111a6d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内GitLabの大型マイグレーションをした話",
+      "author" : "@aokuma",
+      "day" : 15,
+      "url" : "https://qiita.com/aokuma/items/1797a233b50a0379aed2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "zabbixでサーバの死活監視設定を行った話",
+      "author" : "@digfield",
+      "day" : 16,
+      "url" : "https://qiita.com/digfield/items/ea721ef3a36abd69fa56"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナ間でlogrotateしたいpart1",
+      "author" : "@toyo_mura",
+      "day" : 17,
+      "url" : "https://qiita.com/toyo_mura/items/4e8b0849df2cb8208f8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニフクラのTerraform Providerでメタ引数を使ってみる",
+      "author" : "@miyuush",
+      "day" : 18,
+      "url" : "https://zenn.dev/miyuush/articles/c685054a955461"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニフクラ上の Docker ホストへ VMware Tanzu Community Edition(TCE) のマネージドクラスタを構築してみた（V0.9.1）",
+      "author" : "@ysaotome",
+      "day" : 19,
+      "url" : "https://sotm.jp/2021/12/18/vmware-tanzu-community-edition-v091-managed-clusters-on-docker-on-nifcloud/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニフクラmobile backendの新Kotlin SDKについて",
+      "author" : "@thuydg@github",
+      "day" : 20,
+      "url" : "https://qiita.com/thuydg@github/items/08e6690a62a9cde96497"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "教師なし学習で周期表(金属)を分析してみる【主成分分析・R・Python】",
+      "author" : "@kodakku",
+      "day" : 21,
+      "url" : "https://qiita.com/kodakku/items/e082965d2792bc51e2f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gopacketでパケットをキャプチャしたり生成したりしてみる",
+      "author" : "@ksw",
+      "day" : 22,
+      "url" : "https://qiita.com/ksw/items/0849d9c02d26266b03b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache BenchとVegetaを使ってLiteSpeed／Nginx／Apacheを性能比較",
+      "author" : "@s_ave",
+      "day" : 23,
+      "url" : "https://qiita.com/s_ave/items/e2d5d0a740c01d92ff05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SSHを駆使して数々の試練（プロキシ、踏み台）を乗り越える話",
+      "author" : "@u-koji",
+      "day" : 24,
+      "url" : "https://qiita.com/u-koji/items/c23c06ef594e34655666"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FJCT エンジニアタスクフォース 2021 レポート ",
+      "author" : "@ConHumi",
+      "day" : 25,
+      "url" : "https://tech.fjct.fujitsu.com/entry/etf-report-2021"
+    }
+  ]
+}

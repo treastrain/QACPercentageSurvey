@@ -1,0 +1,296 @@
+{
+  "created_at" : "2021-12-25T18:23:48Z",
+  "calendar_meta_data" : {
+    "author" : "@nakmura",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 73,
+    "subscribers" : 8,
+    "title" : "spresense Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "spresense",
+    "url" : "https://qiita.com/advent-calendar/2021/spresense"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "みちびき災危通報をデコードしてみる",
+      "author" : "@baggio",
+      "day" : 1,
+      "url" : "https://qiita.com/baggio/items/497b654cd4ec1bfd74fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "郷ひろみとリッキーマーチンの競演",
+      "author" : "@Interested_in_Spresense",
+      "day" : 2,
+      "url" : "http://spresense.livedoor.blog/archives/26461195.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sensirionのco2センサーSCD41をSpresenseで試してみた",
+      "author" : "@kaz19610303",
+      "day" : 3,
+      "url" : "https://qiita.com/kaz19610303/items/2a56f30f68e2a464ce41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WSL2でSpresense開発環境を構築する",
+      "author" : "@baggio",
+      "day" : 4,
+      "url" : "https://qiita.com/baggio/items/56bea3eb2b231364d7cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP-WROOM-02のSpresense WifiモジュールのTIPS",
+      "author" : "@nakmura",
+      "day" : 5,
+      "url" : "https://qiita.com/nakmura/items/13d5ddfe376e903e86e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SubCoreでGPIOを制御する@SDK",
+      "author" : "@Interested_in_Spresense",
+      "day" : 6,
+      "url" : "https://qiita.com/Interested_in_Spresense/items/4fbe5b09d7ec09955c1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPRESENSE をはじめよう！",
+      "author" : "@TaroYoshino",
+      "day" : 7,
+      "url" : "https://qiita.com/TaroYoshino/items/e9ec0c6dabacb6074fbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SIMCOM社の SIM7090G を使ったSpresense用のAddon Board を作ってみた",
+      "author" : "@kaz19610303",
+      "day" : 8,
+      "url" : "https://qiita.com/kaz19610303/items/cebea26460873812c47c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spresense経由でToioを動かす",
+      "author" : "@nakmura",
+      "day" : 9,
+      "url" : "https://qiita.com/nakmura/items/1ad2fd5bf8454bcc5807"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サンプラーっぽいものを作ってみよう！",
+      "author" : "@Interested_in_Spresense",
+      "day" : 10,
+      "url" : "https://qiita.com/Interested_in_Spresense/items/7e362dcdf4b225b41520"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPRESENSEで動画をサポートする（Arduino対応ライブラリ）",
+      "author" : "@TaroYoshino",
+      "day" : 11,
+      "url" : "https://qiita.com/TaroYoshino/items/350a813b3bb1a4f79cef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マルチコアプログラミングの初めでつまづいた話",
+      "author" : "@nakmura",
+      "day" : 12,
+      "url" : "https://qiita.com/nakmura/items/d969e9fc513d58e16077"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spresenseカメラからのキャプチャ画像をリアルタイムにProcessingに転送してライブストリーミング再生する",
+      "author" : "@baggio",
+      "day" : 13,
+      "url" : "https://qiita.com/baggio/items/da2c5f01fac6ea57514f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spresenseの開発環境をRaspberryPiで作ってみる",
+      "author" : "@cmm614",
+      "day" : 14,
+      "url" : "https://qiita.com/cmm614/items/c96788d48c0b9148c335"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPRESENSE Wi-Fi Add-onボード iS110BでUDP通信",
+      "author" : "@nakmura",
+      "day" : 15,
+      "url" : "https://qiita.com/nakmura/items/c522e76a5f95225867b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spresenseを使ったシンプルなAudio Playerをつくってみた",
+      "author" : "@baggio",
+      "day" : 16,
+      "url" : "https://qiita.com/baggio/items/d2f2b1e7089e5f3e103c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "東京から大阪にあるSpresenseを制御しよう! by MQTT via LTE ",
+      "author" : "@Interested_in_Spresense",
+      "day" : 17,
+      "url" : "https://qiita.com/Interested_in_Spresense/items/2b1a5afb766454ddad44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPRESENSE Wi-Fi Add-onボードiS110BのLチカ",
+      "author" : "@nakmura",
+      "day" : 18,
+      "url" : "https://qiita.com/nakmura/items/d20559fe175d1919b7dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPRESENSE で音響通信(FSK)を試してみる",
+      "author" : "@TaroYoshino",
+      "day" : 19,
+      "url" : "https://qiita.com/TaroYoshino/items/eb46591877623c5997bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SprsenseでMM-S50MVを使ってみた話",
+      "author" : "@nakmura",
+      "day" : 20,
+      "url" : "https://qiita.com/nakmura/items/ff3077614e0a59b5f5ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SpresenseでBLE-UART変換基板を使ってスマホから入力",
+      "author" : "@nakmura",
+      "day" : 21,
+      "url" : "https://qiita.com/nakmura/items/7a96f429a152b3fce782"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPRESENSE Wi-Fi Add-onボード iS110BでNTP時刻取得する",
+      "author" : "@nakmura",
+      "day" : 22,
+      "url" : "https://qiita.com/nakmura/items/84f6691c9e2e7df0aff1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spresenseで電波時計を作る",
+      "author" : "@nakmura",
+      "day" : 23,
+      "url" : "https://qiita.com/nakmura/items/d90399272b02aad24d86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SpresenseとDualSenseをつなぐ",
+      "author" : "@nakmura",
+      "day" : 24,
+      "url" : "https://qiita.com/nakmura/items/add99d330debfef9af25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPRESENSEを使ってジェスチャーで音楽を操作する「MusicGripper」",
+      "author" : "@TaroYoshino",
+      "day" : 25,
+      "url" : "https://qiita.com/TaroYoshino/items/83e8ff01e984b9088b98"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS IoTの設定方法 with Spresense LTE",
+      "author" : "@shinkage",
+      "day" : 24,
+      "url" : "https://qiita.com/shinkage/items/8ca0ab74d9e937316094"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SpresenseでSSD1351のOLEDを動かした話",
+      "author" : "@nakmura",
+      "day" : 25,
+      "url" : "https://qiita.com/nakmura/items/9e3efc50d73c50bed3f4"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "created_at" : "2021-12-26T05:36:53Z",
+  "calendar_meta_data" : {
+    "author" : "@hirokidaichi",
+    "category" : "Qiita主催",
+    "lgtm" : 106,
+    "subscribers" : 168,
+    "title" : "開発者体験:DXをめちゃくちゃ改善した話 Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "dx-improvement",
+    "url" : "https://qiita.com/advent-calendar/2021/dx-improvement"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "n8n.cloudを社内の定型業務を全自動化する基盤にした",
+      "author" : "@umireon",
+      "day" : 1,
+      "url" : "https://qiita.com/umireon/items/fa4030c86039355d93b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlin で DX がめちゃくちゃ改善されました",
+      "author" : "@MxShun",
+      "day" : 2,
+      "url" : "https://tech.askul.co.jp/entry/2021/12/02/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YourLifeReportを使用するために",
+      "author" : "@babasatoru21",
+      "day" : 3,
+      "url" : "https://qiita.com/babasatoru21/items/4c13dc6d92035b2e65f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプレッドシートのそれ、Slackに通知させようぜ！",
+      "author" : "@marty_ojiya",
+      "day" : 4,
+      "url" : "https://qiita.com/marty_ojiya/items/42816779c0ef41bd7faa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PlantUML のテキストで書ける Git Flow と PlantUML で描いた Git Epic Flow",
+      "author" : "@ogomr",
+      "day" : 7,
+      "url" : "https://qiita.com/ogomr/items/36350d515434d6674caa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@masaokamatsuhiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分が関係しているPull Requestを一覧表示するGitHub CLI extensionを作りました",
+      "author" : "@kentaro_m",
+      "day" : 12,
+      "url" : "https://blog.kentarom.com/create-new-github-cli-extension"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IntelliJ IDEAの共有インデックスでコーヒータイムを短縮する",
+      "author" : "@tasshi",
+      "day" : 13,
+      "url" : "https://qiita.com/tasshi/items/1389be4731640b59ff9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務システムの画面仕様をコードベースで書けるようにして開発者体験を爆上げした話",
+      "author" : "@digdagdag",
+      "day" : 15,
+      "url" : "https://qiita.com/digdagdag/items/45af0812814e165b1134"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人的にスクラムマスターの資格勉強したときが他人（開発者）との関わり方が明確に変わったのでおすすめしたい",
+      "author" : "@ykhirao",
+      "day" : 16,
+      "url" : "https://qiita.com/ykhirao/items/d86d99a46a997443bf52"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DXによるDXのDXのためのDX",
+      "author" : "@kaizen_nagoya",
+      "day" : 19,
+      "url" : "https://qiita.com/kaizen_nagoya/items/5b55e9ad6bbbfd92c845"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マニュアルレボリューション〜楽しく書ける製品マニュアルを目指して〜",
+      "author" : "@autotaker1984",
+      "day" : 20,
+      "url" : "https://qiita.com/autotaker1984/items/cfde031f6ae80830499c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分の学びをチームの学びに変えるPRレビュー活用術",
+      "author" : "@stnamco",
+      "day" : 21,
+      "url" : "https://qiita.com/stnamco/items/bc70fa22c13efbdb8634"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AppStoreConnectAPIを使ってProvisioningProfileのダウンロードを自動化する",
+      "author" : "@AzuQiita",
+      "day" : 22,
+      "url" : "https://qiita.com/AzuQiita/items/cc94f14a69215d15262c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@shibukk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@newt0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術的負債",
+      "author" : "@sudokzt",
+      "day" : 25,
+      "url" : "https://techblog.gaudiy.com/entry/2021/12/24/133453"
+    }
+  ]
+}

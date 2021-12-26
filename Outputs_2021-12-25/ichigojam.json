@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T22:28:45Z",
+  "calendar_meta_data" : {
+    "author" : "@taisukef@github",
+    "category" : "プログラミング言語",
+    "lgtm" : 15,
+    "subscribers" : 2,
+    "title" : "IchigoJam Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "ichigojam",
+    "url" : "https://qiita.com/advent-calendar/2021/ichigojam"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "UNOカードゲーム",
+      "author" : "@shiro0922",
+      "day" : 1,
+      "url" : "https://www.ichigojaman.jp/entry/uno"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "立形クリスマスツリー基板",
+      "author" : "@shiro0922",
+      "day" : 2,
+      "url" : "https://www.ichigojaman.jp/entry/xmastree"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IchigoJam R でハードウェアCRC計算を試す",
+      "author" : "@mikecat_mixc",
+      "day" : 3,
+      "url" : "https://qiita.com/mikecat_mixc/items/b948b13b98f2c781d071"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WS.LEDでナイトライダー",
+      "author" : "@mikecat_mixc",
+      "day" : 4,
+      "url" : "https://qiita.com/mikecat_mixc/items/d0c3d447ea41adce65d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "17色、SDGsカラー on IchigoJam",
+      "author" : "@taisukef@github",
+      "day" : 5,
+      "url" : "https://fukuno.jig.jp/3418"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PanCakeを挿してもIchigoJamがPCからのシリアル通信を受信できるようにする",
+      "author" : "@mikecat_mixc",
+      "day" : 6,
+      "url" : "https://qiita.com/mikecat_mixc/items/a75b4cfb56d03b560ff3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "西條和スロット",
+      "author" : "@mikecat_mixc",
+      "day" : 7,
+      "url" : "https://qiita.com/mikecat_mixc/items/3cdcda451480e0259eb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「点対称の日」探し",
+      "author" : "@shiro0922",
+      "day" : 8,
+      "url" : "https://www.ichigojaman.jp/entry/pointsymday"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "aitendoの不良パーツに引っかかった",
+      "author" : "@mikecat_mixc",
+      "day" : 9,
+      "url" : "https://qiita.com/mikecat_mixc/items/ac920de2f9fb5aa065f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IchigoJamからISPで自分のファームウェアを書き込む",
+      "author" : "@mikecat_mixc",
+      "day" : 10,
+      "url" : "https://qiita.com/mikecat_mixc/items/1b502e976a30db4ad32e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【悪用厳禁】MixJuice経由でIchigoJamのシステムを破壊する",
+      "author" : "@mikecat_mixc",
+      "day" : 11,
+      "url" : "https://qiita.com/mikecat_mixc/items/eeb44f79d4c57ee581e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "タイピング10",
+      "author" : "@shiro0922",
+      "day" : 12,
+      "url" : "https://www.ichigojaman.jp/entry/type10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スロットマシン",
+      "author" : "@shiro0922",
+      "day" : 13,
+      "url" : "https://www.ichigojaman.jp/entry/slot"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MixJuiceで現在の日時を取得する",
+      "author" : "@mikecat_mixc",
+      "day" : 14,
+      "url" : "https://qiita.com/mikecat_mixc/items/2504f4575d995e8c564c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日・今月・今年の残り時間を表示する",
+      "author" : "@mikecat_mixc",
+      "day" : 15,
+      "url" : "https://qiita.com/mikecat_mixc/items/3dd1e1e03b44edf99a13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "休日表示付きカレンダー",
+      "author" : "@mikecat_mixc",
+      "day" : 16,
+      "url" : "https://qiita.com/mikecat_mixc/items/8356ad3b6f14d21529e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ループの前に行が大量にあると実行速度が落ちるか？",
+      "author" : "@mikecat_mixc",
+      "day" : 17,
+      "url" : "https://qiita.com/mikecat_mixc/items/e5482e05ac11c827deca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ichigo Jam を買って配ったこと",
+      "author" : "@kaizen_nagoya",
+      "day" : 18,
+      "url" : "https://qiita.com/kaizen_nagoya/items/6b9c583b4b2ce28c6d0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IchigoJam R でオシロスコープ",
+      "author" : "@mikecat_mixc",
+      "day" : 19,
+      "url" : "https://qiita.com/mikecat_mixc/items/f2c1ed05f55ae06b198c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IchigoJamで階乗を求める",
+      "author" : "@mikecat_mixc",
+      "day" : 20,
+      "url" : "https://qiita.com/mikecat_mixc/items/7601d78303d95e3a2a49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IchigoJam(Rではない)の除算は遅いか？",
+      "author" : "@mikecat_mixc",
+      "day" : 21,
+      "url" : "https://qiita.com/mikecat_mixc/items/757caf30b62cd8fff225"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LEDマトリックスペンダント",
+      "author" : "@shiro0922",
+      "day" : 22,
+      "url" : "https://www.ichigojaman.jp/entry/ledmatpendant"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IchigoJamでBefungeインタプリタ",
+      "author" : "@mikecat_mixc",
+      "day" : 23,
+      "url" : "https://qiita.com/mikecat_mixc/items/20ac7250b7d9ce66b62a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "22/7 (ナナブンノニジュウニ)",
+      "author" : "@mikecat_mixc",
+      "day" : 24,
+      "url" : "https://qiita.com/mikecat_mixc/items/4b484929cd73048589f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GIGA IchigoDake発売！",
+      "author" : "@shiro0922",
+      "day" : 25,
+      "url" : "https://www.ichigojaman.jp/entry/gigaichigodake"
+    }
+  ]
+}

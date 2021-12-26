@@ -1,0 +1,142 @@
+{
+  "created_at" : "2021-12-25T17:31:47Z",
+  "calendar_meta_data" : {
+    "author" : "@abcde_kind",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 1,
+    "subscribers" : 2,
+    "title" : "Unity Particle System Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "particle_system",
+    "url" : "https://qiita.com/advent-calendar/2021/particle_system"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説  ～Main Module編～",
+      "author" : "@abcde_kind",
+      "day" : 1,
+      "url" : "https://qiita.com/abcde_kind/items/82cddca8be2917c0bded"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～Emission Module編～",
+      "author" : "@abcde_kind",
+      "day" : 2,
+      "url" : "https://qiita.com/abcde_kind/items/63e8c262df7774f12a41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～Shape Module編～",
+      "author" : "@abcde_kind",
+      "day" : 3,
+      "url" : "https://qiita.com/abcde_kind/items/e47a8f0c0f1077b314e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～Velocity over Lifetime Module編～",
+      "author" : "@abcde_kind",
+      "day" : 4,
+      "url" : "https://qiita.com/abcde_kind/items/22d8d266302b08b852e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～Force over Lifetime, Color over Lifetime, Color over Speed Module編～",
+      "author" : "@abcde_kind",
+      "day" : 5,
+      "url" : "https://qiita.com/abcde_kind/items/e502ab41ae26341545b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～Force over Lifetime, Color/Size/Rotation over Lifetime, by Speed Module編～",
+      "author" : "@abcde_kind",
+      "day" : 6,
+      "url" : "https://qiita.com/abcde_kind/items/96710d4e401ca88abbb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～External Forces, Noise Module編～",
+      "author" : "@abcde_kind",
+      "day" : 7,
+      "url" : "https://qiita.com/abcde_kind/items/f9702c960b3d25db7d35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～Collision Module編～",
+      "author" : "@abcde_kind",
+      "day" : 8,
+      "url" : "https://qiita.com/abcde_kind/items/38c2dd357145b14a686e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatプレイヤーによるParticle System解説 ～Triggers, Sub Emitters Module編～",
+      "author" : "@abcde_kind",
+      "day" : 9,
+      "url" : "https://qiita.com/abcde_kind/items/114842bfda2de4d2f649"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

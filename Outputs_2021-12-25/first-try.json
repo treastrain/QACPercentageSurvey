@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-26T00:56:38Z",
+  "calendar_meta_data" : {
+    "author" : "@KunishiLeon",
+    "category" : "その他",
+    "lgtm" : 91,
+    "subscribers" : 11,
+    "title" : "初めてのアドベントカレンダー Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "first-try",
+    "url" : "https://qiita.com/advent-calendar/2021/first-try"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめての GitHub Actions 🔰",
+      "author" : "@y-yana",
+      "day" : 1,
+      "url" : "https://qiita.com/y-yana/items/73dbdceeb05b4500a82f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[React]Chakra Uiのすすめ",
+      "author" : "@seitamuro",
+      "day" : 2,
+      "url" : "https://qiita.com/seitamuro/items/c880708cf9b345335022"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学生間のチーム開発のコツ",
+      "author" : "@inazawaKeisuke",
+      "day" : 3,
+      "url" : "https://qiita.com/inazawaKeisuke/items/62e8da7c6eae1f9698f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Exifから画像がGPS情報を含むか判定【Vue.js】",
+      "author" : "@pola5pola5",
+      "day" : 4,
+      "url" : "https://qiita.com/pola5pola5/items/33ffc93a1929a8b9b9e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【OpenCV + MoviePy】画像から動画を自動生成してみた！",
+      "author" : "@s_2010_119",
+      "day" : 5,
+      "url" : "https://qiita.com/s_2010_119/items/46f6cfd65c7c881f1491"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フリーソフトの不都合を踏んだのでGDBとGhidraで解析してみた",
+      "author" : "@mikecat_mixc",
+      "day" : 7,
+      "url" : "https://qiita.com/mikecat_mixc/items/e0aedfe578e92fe078e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Youtube_v3を使ってプレイリストに動画を自動追加",
+      "author" : "@haruya3",
+      "day" : 8,
+      "url" : "https://qiita.com/haruya3/items/c4605e827e140557d08a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ExcelVBAの開発環境に絶望したので2021年のモダンな環境を構築する",
+      "author" : "@psbss",
+      "day" : 9,
+      "url" : "https://blog.ue-y.me/vba2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows11アップグレード後の動作を高速化(軽量化)する方法｜エンジニア目線",
+      "author" : "@infobox82",
+      "day" : 10,
+      "url" : "https://info-boxes.net/2021/11/02/windows11_performance/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web フロントエンド開発について超ざっくり知る",
+      "author" : "@sugar_king777",
+      "day" : 11,
+      "url" : "https://qiita.com/sugar_king777/items/33bb5a253cdd92d8284c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポインタについてざっくりまとめてみた",
+      "author" : "@namekosiru",
+      "day" : 12,
+      "url" : "https://qiita.com/namekosiru/items/86f1f2c1d8480bb78149"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flask+gunicornでHerokuにデプロイ",
+      "author" : "@KunishiLeon",
+      "day" : 13,
+      "url" : "https://qiita.com/KunishiLeon/items/7f8b4f0101811f3d525d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初学者向け】最初にやるべきシェル設定",
+      "author" : "@sakaik333",
+      "day" : 14,
+      "url" : "https://qiita.com/sakaik333/items/aa9ec3ef8e6d015b9110"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【脱 create-react-app】React(+ Redux Toolkit) + Tailwind + TypeScript + webpack + Babel + ESLint + JEST の環境構築 ",
+      "author" : "@hironomiu",
+      "day" : 15,
+      "url" : "https://qiita.com/hironomiu/items/eac89ca4801534862fed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Enter vs command-Enter vs Shift-Enter vs control-Enterで送信」について調べてみた",
+      "author" : "@y_a_m_a",
+      "day" : 16,
+      "url" : "https://qiita.com/y_a_m_a/items/48b89a7869d873a31115"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WordをGit管理して GitHub + TextLint で迫りくる卒業論文を快適にする",
+      "author" : "@psbss",
+      "day" : 17,
+      "url" : "https://blog.ue-y.me/word-git-textlint/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基本情報技術者試験,応用情報技術者試験を同時受験してみて",
+      "author" : "@Rei1729",
+      "day" : 18,
+      "url" : "https://qiita.com/Rei1729/items/354369808584581f244e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@ToaruEngineer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firestore基本知識とDB設計技法",
+      "author" : "@takasshii",
+      "day" : 20,
+      "url" : "https://qiita.com/takasshii/items/7267a0dd886f29b6db60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "脱初心者！知ってるとちょっと便利なGitコマンド4選",
+      "author" : "@ky_1198",
+      "day" : 21,
+      "url" : "https://zenn.dev/knknk98/articles/e8845991763e9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【OpenCV + Pretty_midi】画像をMIDI出力してみた！",
+      "author" : "@Yu_yukk_Y",
+      "day" : 22,
+      "url" : "https://qiita.com/Yu_yukk_Y/items/ad59c76ea498d2510f2a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@kawazap"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "数式なしでメタ学習を説明したい🎄",
+      "author" : "@citrus1998",
+      "day" : 24,
+      "url" : "https://qiita.com/citrus1998/items/bf37c8ce5f128897e9e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRで炎の大佐になろう",
+      "author" : "@KunishiLeon",
+      "day" : 25,
+      "url" : "https://qiita.com/KunishiLeon/items/b3a780c21734f18531fa"
+    }
+  ]
+}

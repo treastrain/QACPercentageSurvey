@@ -1,0 +1,347 @@
+{
+  "created_at" : "2021-12-26T02:48:00Z",
+  "calendar_meta_data" : {
+    "author" : "@takumma",
+    "category" : "企業・学校・団体",
+    "lgtm" : 184,
+    "subscribers" : 14,
+    "title" : "鈴鹿高専 Advent Calendar 2021",
+    "participants" : 28,
+    "unique_name" : "snct",
+    "url" : "https://qiita.com/advent-calendar/2021/snct"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "デジット液晶で遊ぶ",
+      "author" : "@Xi80",
+      "day" : 1,
+      "url" : "https://qiita.com/Xi80/items/19a5dd045a37a5827ad4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像処理やめとけフローチャート",
+      "author" : "@_orikage",
+      "day" : 2,
+      "url" : "https://qiita.com/_orikage/items/b98556dd81a6780c616e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チーム開発をはじめから",
+      "author" : "@sakuranomiyu",
+      "day" : 3,
+      "url" : "https://qiita.com/sakuranomiyu/items/d3bc1efbab17bfa9e4c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3Dプリンタの魅力",
+      "author" : "@zaurusu_aya",
+      "day" : 4,
+      "url" : "https://qiita.com/zaurusu_aya/items/b518a30bf0e309825a55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おすすめ技術系ポッドキャストとおすすめ回の紹介(2021年度)",
+      "author" : "@ktkryatta415",
+      "day" : 5,
+      "url" : "https://qiita.com/ktkryatta415/items/9a77539b8e197d75f6f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OBリモート訪問記",
+      "author" : "@gojiteji",
+      "day" : 6,
+      "url" : "https://hackmd.io/@gojiteji/ryXFyXrFF"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Speech-to-TextのAPIキーが取得できなかったときに試したこと",
+      "author" : "@sakuranomiyu",
+      "day" : 7,
+      "url" : "https://qiita.com/sakuranomiyu/items/97d5d611b06b8f8dfe0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NucleoのHALのプログラムについて（素人目線で）いろいろ考えるだけ",
+      "author" : "@nekoshark02",
+      "day" : 8,
+      "url" : "https://qiita.com/nekoshark02/items/dec1c9559b220522557a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python 1本うどんコード",
+      "author" : "@ugis_prog",
+      "day" : 9,
+      "url" : "https://qiita.com/ugis_prog/items/ec33a98bd2b5aa1b0f3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "感情の昂りを表現したいのに冷静さが求められる矛盾を解決するためのWebアプリを作った",
+      "author" : "@Ichikawa_wtjj",
+      "day" : 10,
+      "url" : "https://qiita.com/Ichikawa_wtjj/items/bea059364c62efbcff76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アイディアだしの方法",
+      "author" : "@arrow_operater",
+      "day" : 11,
+      "url" : "https://zenn.dev/oonya/articles/c53908c7bdb727"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python 1本うどんコードトランスパイラ (Rust nomの使い方)",
+      "author" : "@niuez",
+      "day" : 12,
+      "url" : "https://qiita.com/niuez/items/36f3bcc585b68a2243b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "弊学校舎3Dモデルを作って",
+      "author" : "@maru_snct",
+      "day" : 13,
+      "url" : "https://qiita.com/maru_snct/items/0f220cd54a167adbd33d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElectronとNode.jsの制約に苦しめられた話",
+      "author" : "@tuxsnct",
+      "day" : 14,
+      "url" : "https://qiita.com/tuxsnct/items/7b4651efffbeb40d407b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Flutter] GoogleMapで複数の Widget をマーカーとして表示する",
+      "author" : "@takumma",
+      "day" : 15,
+      "url" : "https://blog.takumma.net/flutter-google-map-widget-marker"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "たのしいたのしいBlender",
+      "author" : "@m_arcy",
+      "day" : 16,
+      "url" : "https://qiita.com/m_arcy/items/16f6cda42c606fd17ef2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "firebase with react-native",
+      "author" : "@snct-ukai",
+      "day" : 17,
+      "url" : "https://qiita.com/snct-ukai/items/c0362cca1e402c341dba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR鈴鹿高専に行ってみたら地獄だった話。",
+      "author" : "@shiishii",
+      "day" : 18,
+      "url" : "https://qiita.com/shiishii/items/29ccd6ee1b9fc2a641e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMM.comインターンで情報セキュリティ教育に携わった話",
+      "author" : "@rinruren",
+      "day" : 19,
+      "url" : "https://qiita.com/rinruren/items/a949118a69b7fb26453c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ぼくのかんがえた、さいきょうのReact Nativeテンプレート",
+      "author" : "@Re-taro",
+      "day" : 20,
+      "url" : "https://zenn.dev/re_taro/articles/my-rntemplate"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CUI Portfolioを作ったはなし",
+      "author" : "@addtobasic",
+      "day" : 21,
+      "url" : "https://zenn.dev/addtobasic/articles/7d699907fc3c4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「初心者向け！」全自動ロボットの作り方　自己位置推定編",
+      "author" : "@tommy-pcm",
+      "day" : 22,
+      "url" : "https://qiita.com/tommy-pcm/items/8aa099c5cc64e6ffa546"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュリティエンジニアになろう",
+      "author" : "@UED_DEU",
+      "day" : 23,
+      "url" : "https://hackmd.io/@ueddeu/SyOw_A-9t"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ExpressじゃなくてNest.jsでLINEBotを書きませんか？",
+      "author" : "@shoma3571",
+      "day" : 24,
+      "url" : "https://qiita.com/shoma3571/items/541589f20e8f9f7ae7da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロコンのLTで話した内容を記事にする",
+      "author" : "@Bayathy",
+      "day" : 25,
+      "url" : "https://zenn.dev/bayathy/articles/fc173641246004"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自作液晶コントローラでMIDI音源のディスプレイを作る",
+      "author" : "@Xi80",
+      "day" : 2,
+      "url" : "https://qiita.com/Xi80/items/2bccea57a361aa2ec902"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自作液晶コントローラで動画再生(階調表示編)",
+      "author" : "@Xi80",
+      "day" : 3,
+      "url" : "https://qiita.com/Xi80/items/8165a86f30127217ca48"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Z80でリングバッファの実装",
+      "author" : "@Xi80",
+      "day" : 4,
+      "url" : "https://qiita.com/Xi80/items/3c2908fc7a08a1b8bed2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自作液晶コントローラで動画再生(改善編)",
+      "author" : "@Xi80",
+      "day" : 5,
+      "url" : "https://qiita.com/Xi80/items/b0f48526136c331cbe5a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "脱外部サービス依存プログラミングしたい",
+      "author" : "@tuxsnct",
+      "day" : 7,
+      "url" : "https://qiita.com/tuxsnct/items/350251dbfc4a26c3c7bd"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "超超個人的、効率の良いスキルの習得方法",
+      "author" : "@snct-ukai",
+      "day" : 8,
+      "url" : "https://qiita.com/snct-ukai/items/4deb5f29f954b9e17416"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "学生エンジニアが病まないために",
+      "author" : "@takumma",
+      "day" : 9,
+      "url" : "https://zenn.dev/takumma/articles/prevent-from-getting-mentally-ill"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Google Docs API & Google Drive APIで文字認識",
+      "author" : "@ugis_prog",
+      "day" : 10,
+      "url" : "https://qiita.com/ugis_prog/items/e75d40f3328e1d4ff820"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "学内LANのTips (学内専用公開)",
+      "author" : "@orikaito",
+      "day" : 13,
+      "url" : "https://cms2.suzuka-ct.ac.jp/cc/course/mod/forum/discuss.php?d=7853"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Githubで豊かな草を生やし、地球環境に貢献したい",
+      "author" : "@nekoshark02",
+      "day" : 15,
+      "url" : "https://qiita.com/nekoshark02/items/c28a482d74f3215a7683"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "転科したよということ",
+      "author" : "@uchi_105",
+      "day" : 17,
+      "url" : "https://note.com/wa_chan88cdepa/n/n24cbda651b4f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UE4のC++でWidgetを弄ってガバガバ電卓を作る",
+      "author" : "@nakimikan",
+      "day" : 18,
+      "url" : "https://qiita.com/nakimikan/items/6779491f0d4ba58e1a88"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ESP32とjoyconのBluetooth通信がうまくいかんだ話",
+      "author" : "@nakimikan",
+      "day" : 19,
+      "url" : "https://qiita.com/nakimikan/items/4fbb4ea804a2f3be9dfb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "スイッチを自動化してポケモンの乱数消費させたい",
+      "author" : "@Inoue_890",
+      "day" : 20,
+      "url" : "https://qiita.com/Inoue_890/items/899e2de51919de45ce2a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "強くなるには",
+      "author" : "@Re-taro",
+      "day" : 21,
+      "url" : "https://zenn.dev/re_taro/articles/to-be-strong"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[学内向け] UI/UXデザインについて知ってもらいたいという話",
+      "author" : "@shoma3571",
+      "day" : 22,
+      "url" : "https://zenn.dev/shochan/articles/7f2c1b2bf9a480"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "散財 ~2021年買って良かったもの~",
+      "author" : "@addtobasic",
+      "day" : 23,
+      "url" : "https://genshi.hatenablog.com/entry/2021/12/23/204029"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「エモ」×「デジタル」が最高って話",
+      "author" : "@takumma",
+      "day" : 24,
+      "url" : "https://zenn.dev/takumma/articles/emo-and-digital"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "HackU KOSEN 2021 参加記",
+      "author" : "@shoma3571",
+      "day" : 25,
+      "url" : "https://zenn.dev/shochan/articles/cee6824bf09f9c"
+    }
+  ]
+}

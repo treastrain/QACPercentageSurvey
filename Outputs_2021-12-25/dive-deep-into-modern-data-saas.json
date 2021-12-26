@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:35:32Z",
+  "calendar_meta_data" : {
+    "author" : "@TakumiHaruta",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 7,
+    "title" : "激熱！1日1製品！最強のデータ系SaaSはどれだ決定戦 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "dive-deep-into-modern-data-saas",
+    "url" : "https://qiita.com/advent-calendar/2021/dive-deep-into-modern-data-saas"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "激熱！1日1製品！最強のデータ系SaaSはどれだ決定戦 アドベントカレンダー2021",
+      "author" : "@TakumiHaruta",
+      "day" : 1,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-advent-calendar/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データカタログのユニコーン企業「Collibra」のデモ環境を試してみた",
+      "author" : "@TakumiHaruta",
+      "day" : 2,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-collibra/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最先端のデータガバナンスを提供するSaaS「Satori」を通してRedshiftにアクセスしてみた",
+      "author" : "@TakumiHaruta",
+      "day" : 3,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-satori/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "気軽にData Observabilityを導入できる「Soda」のチュートリアルをやってみた",
+      "author" : "@TakumiHaruta",
+      "day" : 4,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-soda/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベクトル特化型データベースサービス「Pinecone」でセマンティック・キーワード検索をやってみた",
+      "author" : "@TakumiHaruta",
+      "day" : 5,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-pinecone/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンなコミュニティ志向のデータカタログ「data.world」を試してみた",
+      "author" : "@TakumiHaruta",
+      "day" : 6,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-data-world"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュアなデータメッシュを実現するSaaS「Cyral」を試してみた",
+      "author" : "@TakumiHaruta",
+      "day" : 7,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-cyral"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Dataprepの本家「Trifacta」がめっちゃ良い感じのETLツールだった",
+      "author" : "@TakumiHaruta",
+      "day" : 8,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-trifacta/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "安くマネージドなデータカタログを導入できる「Tree Schema」を触ってみた",
+      "author" : "@TakumiHaruta",
+      "day" : 9,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-tree-schema/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データレイク上にETLパイプラインを構築するSaaS「Upsolver」を触ってみた",
+      "author" : "@TakumiHaruta",
+      "day" : 10,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-upsolver/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "とにかくシンプルなデータカタログが欲しい人におすすめな「Select Star」のご紹介",
+      "author" : "@TakumiHaruta",
+      "day" : 11,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-select-star/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自前でデータパイプラインをサクッと構築できる「Airbyte」を試してみた",
+      "author" : "@TakumiHaruta",
+      "day" : 12,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-airbyte/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あらゆるリソースへのアクセスを一元管理するゲートウェイSaaS「strongDM」を触ってみた",
+      "author" : "@TakumiHaruta",
+      "day" : 13,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-strongdm/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UI/UX重視のユーザーフレンドリーなデータカタログ「Secoda」を試してみた",
+      "author" : "@TakumiHaruta",
+      "day" : 14,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-secoda/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "豊富なメタデータを表ベースで整理するデータカタログ「OvalEdge」を触ってみた",
+      "author" : "@TakumiHaruta",
+      "day" : 15,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-ovaledge/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clouderaが買収したETLパイプラインの「Datacoral」でデータロードしてみた",
+      "author" : "@TakumiHaruta",
+      "day" : 16,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-datacoral/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "紙のポスター感覚でダッシュボードが作れるBIツール「ClicData」で遊んでみた",
+      "author" : "@TakumiHaruta",
+      "day" : 17,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-clickdata/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "多次元配列に特化したユニバーサル・データエンジン「tileDB」でLiDARデータを3Dグラフ化してみた",
+      "author" : "@TakumiHaruta",
+      "day" : 18,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-tiledb/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データの信頼性を向上させるためのプラットフォーム「Datafold」を触ってみた",
+      "author" : "@TakumiHaruta",
+      "day" : 19,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-datafold"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービスの海外展開に重宝するレギュレーションプラットフォーム「Ketch」の紹介",
+      "author" : "@TakumiHaruta",
+      "day" : 20,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-ketch/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本発のデータ分析基盤SaaS「trocco」の機能を試してみた",
+      "author" : "@TakumiHaruta",
+      "day" : 21,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-about-trocco/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データマネジメント・ガバナンスの観点から見るAWS Glue Data Catalog",
+      "author" : "@TakumiHaruta",
+      "day" : 22,
+      "url" : "https://dev.classmethod.jp/articles/data-management-and-governance-with-aws-glue-data-catalog/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データマネジメント・ガバナンスの観点から見るGoogle Data Catalog",
+      "author" : "@TakumiHaruta",
+      "day" : 23,
+      "url" : "https://dev.classmethod.jp/articles/data-management-and-governance-with-google-data-catalog/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSSデータカタログの決定版！？OpenMetadataがかなりイケてるので紹介したい",
+      "author" : "@TakumiHaruta",
+      "day" : 24,
+      "url" : "https://dev.classmethod.jp/articles/introduction-of-open-metadata/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【まとめ】絶対にチェックしてほしい激熱なデータ系SaaSのBEST5",
+      "author" : "@TakumiHaruta",
+      "day" : 25,
+      "url" : "https://dev.classmethod.jp/articles/dive-deep-into-modern-data-saas-advent-calendar-final/"
+    }
+  ]
+}

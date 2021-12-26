@@ -1,0 +1,155 @@
+{
+  "created_at" : "2021-12-25T23:23:01Z",
+  "calendar_meta_data" : {
+    "author" : "@amegane3231",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 2,
+    "title" : "NCC Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "ncc",
+    "url" : "https://qiita.com/advent-calendar/2021/ncc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlin1.6.0で標準入力",
+      "author" : "@amegane3231",
+      "day" : 1,
+      "url" : "https://my-pon.hatenablog.com/entry/2021/12/01/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "printfを使わずに標準入出力",
+      "author" : "@jabelic",
+      "day" : 2,
+      "url" : "https://jabelic.netlify.app/posts/2021/read-write.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dotfilesを作った",
+      "author" : "@elecdeer",
+      "day" : 3,
+      "url" : "https://scrapbox.io/elecdeer-pub/dotfiles%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "卒業研究を支える技術 - 閉曲線データを Svelte で生成",
+      "author" : "@jabelic",
+      "day" : 4,
+      "url" : "https://jabelic.netlify.app/posts/2021/painting-board.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お料理.cs",
+      "author" : "@nagisakuya",
+      "day" : 7,
+      "url" : "https://qiita.com/nagisakuya/items/95f8e6dc07df39c996fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP8266とTM8211で音楽プレイヤーを作る",
+      "author" : "@onpat",
+      "day" : 8,
+      "url" : "https://qiita.com/onpat/items/96c25bf2774dd182cbbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@elecdeer"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity（WebGL）で、BGMのテンポと音程を違和感なく上げていく",
+      "author" : "@Fiz",
+      "day" : 12,
+      "url" : "https://qiita.com/Fiz/items/12bac3f2973f84fc6cf3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdiniならプログラミングでモデリングができる話",
+      "author" : "@yasu_8341",
+      "day" : 13,
+      "url" : "https://yasu-fms.hatenablog.com/entry/2021/12/13/002811?_ga=2.24281466.1383612846.1639306192-894420792.1634917159"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@nagisakuya"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@hayara0525"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者】プログラミングを大学で初めて学んでぶち当たった壁",
+      "author" : "@KY1-00",
+      "day" : 19,
+      "url" : "https://qiita.com/KY1-00/items/c8428685d8ff348fc85e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "わたくしのおすすめ3DCG素材サイトを紹介しますわ！",
+      "author" : "@ichiineki",
+      "day" : 22,
+      "url" : "https://qiita.com/ichiineki/items/9ec9c5d822ddb21332b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミング初心者がプログラミングを嫌いにならないために…。",
+      "author" : "@KazuyaIida",
+      "day" : 23,
+      "url" : "https://qiita.com/KazuyaIida/items/ed934cda6f7557716276"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR技術者認定試験を受けた話",
+      "author" : "@laincreativity",
+      "day" : 24,
+      "url" : "https://note.com/lain_note/n/n9b6fc951666a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@anchi"
+    }
+  ]
+}

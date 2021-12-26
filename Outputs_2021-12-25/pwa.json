@@ -1,0 +1,153 @@
+{
+  "created_at" : "2021-12-25T21:47:34Z",
+  "calendar_meta_data" : {
+    "author" : "@goofmint",
+    "category" : "Webテクノロジー",
+    "lgtm" : 15,
+    "subscribers" : 45,
+    "title" : "PWA（Progressive Web Apps） Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "pwa",
+    "url" : "https://qiita.com/advent-calendar/2021/pwa"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Chromebookをしばらく運用しての所感",
+      "author" : "@goofmint",
+      "day" : 1,
+      "url" : "https://blog.moongift.co.jp/entry/2021/12/01/113848"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "next-pwa が動かないよー ｳﾜｧｧｧﾝ",
+      "author" : "@take_3",
+      "day" : 2,
+      "url" : "https://qiita.com/take_3/items/fe178568498d4589453b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人向けタスク管理ツール Rydeen の紹介",
+      "author" : "@sakihet",
+      "day" : 3,
+      "url" : "https://tech.sakih.net/posts/introduction-to-rydeen.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[PWA ( React + TypeScript )] 死んだ金魚を追悼するためのサイトを作った備忘録",
+      "author" : "@cigalecigales",
+      "day" : 12,
+      "url" : "https://zenn.dev/manycicadas/articles/2cd702ab45164d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web Share APIでPWAに共有機能を実装する",
+      "author" : "@Yuhei_FUJITA",
+      "day" : 13,
+      "url" : "https://zenn.dev/yuhei_fujita/articles/adventcalendar-web-share-target"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年最後の PWA Night",
+      "author" : "@jiyuujin",
+      "day" : 15,
+      "url" : "https://note.com/uraneko/n/n96897f4966bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PWA（Progressive Web Apps）がOculus Storeに配信できるようになる件をレポート",
+      "author" : "@sumiyansu",
+      "day" : 17,
+      "url" : "https://note.com/tamdesigntech/n/n6fe0cde04692"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@kan_dai"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PWAをもっと前進させませんか？【2021年末版】",
+      "author" : "@sudokzt",
+      "day" : 19,
+      "url" : "https://zenn.dev/kaa_a_zu/articles/701efdbb4a7a49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSのPWA対応時に気をつけるべきこと",
+      "author" : "@zprodev",
+      "day" : 20,
+      "url" : "https://qiita.com/zprodev/items/e5db743727c5722874cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@m34github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーが爆速コーディングするためCSS周りをどうするか問題",
+      "author" : "@favorita_biz",
+      "day" : 22,
+      "url" : "https://qiita.com/favorita_biz/items/7df7fb112a4615b486df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PWA】スプラッシュ画面の設定で気をつけること",
+      "author" : "@kinshist",
+      "day" : 23,
+      "url" : "https://qiita.com/kinshist/items/4ed40627282ed1c233e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebXR、メタバースに行く前に知っておこう３Ｄの基本",
+      "author" : "@MonacaSommelierOsaka",
+      "day" : 24,
+      "url" : "https://www.valtes-mt.co.jp/vmt-tech-blog/20211224/1355/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

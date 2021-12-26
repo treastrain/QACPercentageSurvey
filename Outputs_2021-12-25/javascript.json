@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:43:49Z",
+  "calendar_meta_data" : {
+    "author" : "@fyui001",
+    "category" : "プログラミング言語",
+    "lgtm" : 32,
+    "subscribers" : 138,
+    "title" : "JavaScript Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "javascript",
+    "url" : "https://qiita.com/advent-calendar/2021/javascript"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "callback処理をawait化",
+      "author" : "@bluepost59",
+      "day" : 1,
+      "url" : "https://zenn.dev/bluepost/articles/6fc8d4760a40b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.js ではイベントから非同期イテレータを生成できる",
+      "author" : "@nanto_vi",
+      "day" : 2,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/02/9445038"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルで管理する自分だけのサイト管理アプリ『リンクリスト』作りました",
+      "author" : "@suo-takefumi",
+      "day" : 3,
+      "url" : "https://qiita.com/suo-takefumi/items/81734ddca67065aaaf8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScript の正規表現で複数文字からなる絵文字を扱えるようにする提案",
+      "author" : "@nanto_vi",
+      "day" : 4,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/04/9445521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptのビット演算は危険がいっぱい",
+      "author" : "@yaskitie",
+      "day" : 5,
+      "url" : "https://qiita.com/yaskitie/items/dabcc40386e20dc743c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptの数値型",
+      "author" : "@fyui001",
+      "day" : 6,
+      "url" : "https://qiita.com/fyui001/items/c6ee29fdaed45870f12d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【JavaScript 2021】 Googleスプレッドシート を簡単に API化してくれる SSSAPI を JavaScript で扱う",
+      "author" : "@youtoy",
+      "day" : 7,
+      "url" : "https://qiita.com/youtoy/items/3a0accba1f0ca5cbfd33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SVGのパスについて詳しく調べてみる（SVG.js）",
+      "author" : "@simonritchie",
+      "day" : 8,
+      "url" : "https://qiita.com/simonritchie/items/99ec968ef82901fef883"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "関数型プログラミングが『銀の弾丸』である という非常識な常識 2022",
+      "author" : "@stken2050",
+      "day" : 9,
+      "url" : "https://kentutorialbook.github.io/functionalprogramming2022/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML 要素の innerText プロパティで要素が生成されうる",
+      "author" : "@nanto_vi",
+      "day" : 10,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/10/9446902"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Array.prototype.reduce()とかのprototypeってなに？",
+      "author" : "@HajimexxxNakagawa",
+      "day" : 11,
+      "url" : "https://zenn.dev/ikenohi/articles/b714e47b174ed9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vscode-jest について",
+      "author" : "@mizdra",
+      "day" : 12,
+      "url" : "https://www.mizdra.net/entry/2021/12/13/011842"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【JavaScript 2021（2つ目）】Web Bluetooth API で PLAYBULB candle を扱う（2021年12月版、async/await での実装）",
+      "author" : "@youtoy",
+      "day" : 13,
+      "url" : "https://qiita.com/youtoy/items/5916c98f935ecfac4cba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SVG.jsのテキストについて詳しく調べてみる",
+      "author" : "@simonritchie",
+      "day" : 14,
+      "url" : "https://qiita.com/simonritchie/items/61c66091b7a6613a6ca9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロトタイプって何ですか？（初めて学ぶJavaScriptのprototype）",
+      "author" : "@saka212",
+      "day" : 15,
+      "url" : "https://qiita.com/saka212/items/e897af630a135981fbc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォーム送信に使われたボタンを判別する",
+      "author" : "@nanto_vi",
+      "day" : 16,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/16/9448521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Promiseとasync/await　使い方と注意したいこと",
+      "author" : "@hinako_n",
+      "day" : 17,
+      "url" : "https://qiita.com/hinako_n/items/e2cf6fd9dc6e9d069901"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォーム送信データを書き換える",
+      "author" : "@nanto_vi",
+      "day" : 18,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/18/9448985"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECMAScript 仕様の連鎖生成規則",
+      "author" : "@nanto_vi",
+      "day" : 19,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/19/9449333"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の img 要素と image タグ",
+      "author" : "@nanto_vi",
+      "day" : 20,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/20/9449587"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScript の Array 処理はどれが速いのか？ (2021 年 12 月)",
+      "author" : "@sg0hsmt",
+      "day" : 21,
+      "url" : "https://qiita.com/sg0hsmt/items/85dc1857b259ce7f2b25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web Platform Tests での HTML 標準のテストに触れる",
+      "author" : "@nanto_vi",
+      "day" : 22,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/22/9450085"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のテキスト入力欄の入力値の一部を置換する",
+      "author" : "@nanto_vi",
+      "day" : 23,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/23/9450331"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML のフォームコントロール要素と label 要素の紐づけ",
+      "author" : "@nanto_vi",
+      "day" : 24,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/24/9450536"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ES2022を使ってCustom Elementを書く",
+      "author" : "@access3151fq",
+      "day" : 25,
+      "url" : "https://qiita.com/access3151fq/items/135155c33f847fad6f9a"
+    }
+  ]
+}

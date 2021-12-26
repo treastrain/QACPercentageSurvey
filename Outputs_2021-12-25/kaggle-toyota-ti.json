@@ -1,0 +1,157 @@
+{
+  "created_at" : "2021-12-25T20:29:04Z",
+  "calendar_meta_data" : {
+    "author" : "@Kofuku",
+    "category" : "企業・学校・団体",
+    "lgtm" : 121,
+    "subscribers" : 5,
+    "title" : "豊田工業大学Kaggleサークル Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "kaggle-toyota-ti",
+    "url" : "https://qiita.com/advent-calendar/2021/kaggle-toyota-ti"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Numpy入門",
+      "author" : "@yukia531",
+      "day" : 1,
+      "url" : "https://qiita.com/yukia531/items/7da73bab642ae8801a83"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pandas入門",
+      "author" : "@seado_",
+      "day" : 3,
+      "url" : "https://qiita.com/seado_/items/0c0918b71d55fa8ef712"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Matplotlib入門",
+      "author" : "@sahu_land",
+      "day" : 7,
+      "url" : "https://qiita.com/sahu_land/items/d0e71d4fc50def336c03"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sympyによるシンボリック変数での微分積分",
+      "author" : "@Koo132",
+      "day" : 9,
+      "url" : "https://qiita.com/Koo132/items/4941ef164d0e66c65e0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Colaboratoryでローカルランタイムを使用してみた",
+      "author" : "@volsiq",
+      "day" : 12,
+      "url" : "https://qiita.com/volsiq/items/bfb749e1720bda1b6216"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Colaboratory で動画をダウンロード＆ちょっと編集する",
+      "author" : "@mukashiotokoarikeri",
+      "day" : 14,
+      "url" : "https://qiita.com/mukashiotokoarikeri/items/598f16f94cea12cdbb30"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "scikit-learnを使った基本となる機械学習手法",
+      "author" : "@goto_kaggle",
+      "day" : 18,
+      "url" : "https://qiita.com/goto_kaggle/items/9767f2b606f5920f949a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonを用いた数値積分",
+      "author" : "@nuo_t",
+      "day" : 19,
+      "url" : "https://qiita.com/nuo_t/items/d3f61f55ef5ba689dab4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "計算力がなければPythonを使えばいいじゃない",
+      "author" : "@Kofuku",
+      "day" : 20,
+      "url" : "https://qiita.com/Kofuku/items/bff96c1945aa94139ceb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CNNを使って0から9の数字を分類する",
+      "author" : "@umeboshia_0w",
+      "day" : 21,
+      "url" : "https://qiita.com/umeboshia_0w/items/20eea40ec0dd9faf9bd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TabNetを使ってKaggleに挑戦！House Prices - Advanced Regression Techniques",
+      "author" : "@Hkato57",
+      "day" : 22,
+      "url" : "https://qiita.com/Hkato57/items/fd05fe7359a381cb7ce5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Taitanicやってみた",
+      "author" : "@CurieWeiss",
+      "day" : 23,
+      "url" : "https://qiita.com/CurieWeiss/items/ae616a65d97d8d1842da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニューラルネットワークにおけるOptunaを用いたハイパーパラメータチューニング",
+      "author" : "@__retriever__",
+      "day" : 24,
+      "url" : "https://qiita.com/__retriever__/items/1f6d0c301455195424b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テイラー展開",
+      "author" : "@JinnoYuhi21048",
+      "day" : 25,
+      "url" : "https://qiita.com/JinnoYuhi21048/items/78d9fc06cecf1e7638d3"
+    }
+  ]
+}

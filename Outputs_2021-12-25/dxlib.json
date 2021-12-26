@@ -1,0 +1,129 @@
+{
+  "created_at" : "2021-12-25T20:12:06Z",
+  "calendar_meta_data" : {
+    "author" : "@legohasiri",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 0,
+    "subscribers" : 11,
+    "title" : "DXライブラリ Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "dxlib",
+    "url" : "https://qiita.com/advent-calendar/2021/dxlib"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "dxlibでjoyconを使う　その１",
+      "author" : "@takuro7021",
+      "day" : 1,
+      "url" : "https://qiita.com/takuro7021/items/2a84762e2642828e1644"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dxlibでjoyconを使う　その2",
+      "author" : "@takuro7021",
+      "day" : 2,
+      "url" : "https://qiita.com/takuro7021/items/fb870b06cf12afe51013"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "android版dxlibの使いかた（2021年12月）",
+      "author" : "@takuro7021",
+      "day" : 3,
+      "url" : "https://qiita.com/takuro7021/items/3fe10d9a4bbda45596d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@dragoon2014"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テクスチャ管理クラスVersion2[DXライブラリ]",
+      "author" : "@legohasiri",
+      "day" : 24,
+      "url" : "https://qiita.com/legohasiri/items/0c6ded273033c7d0d3ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@legohasiri"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "created_at" : "2021-12-26T01:26:29Z",
+  "calendar_meta_data" : {
+    "author" : "@syou6162@github",
+    "category" : "その他",
+    "lgtm" : 11,
+    "subscribers" : 18,
+    "title" : "datatech-jp Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "datatech-jp",
+    "url" : "https://qiita.com/advent-calendar/2021/datatech-jp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "datatech-jpについて書きます",
+      "author" : "@syou6162@github",
+      "day" : 1,
+      "url" : "https://www.yasuhisay.info/entry/2021/12/01/083000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビジネスサイドの人間が、DMBOKを読み始めて３０秒で首がもげるほど頷いた話",
+      "author" : "@henachocolate1",
+      "day" : 2,
+      "url" : "https://note.com/henachocolate/n/n59636c6298a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMBOKを横断組織で活用した話",
+      "author" : "@tsuda7@github",
+      "day" : 3,
+      "url" : "https://bynatures.hatenadiary.jp/entry/2021/12/03/171935"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dbt Cloudを初めて触るときに知りたかったことまとめてみた",
+      "author" : "@k_0120",
+      "day" : 4,
+      "url" : "https://qiita.com/k_0120/items/f8378cedf08dd789967e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データマネジメント成熟度アセスメント、データ利活用機運アセスメントを行った話",
+      "author" : "@FP92754991",
+      "day" : 5,
+      "url" : "https://note.com/datamanagement/n/na4b15956270c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作のデータリネージツールでテーブルの依存関係をグラフ化する",
+      "author" : "@tosh2230",
+      "day" : 6,
+      "url" : "https://ts223.hatenablog.com/entry/stairlight-app"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The Self-Service Data Roadmap について",
+      "author" : "@nii_yan",
+      "day" : 7,
+      "url" : "https://nii-yan.hatenablog.com/entry/2021/12/07/The_Self-Service_Data_Roadmap_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "つよつよエンジニアがめんどくせーと言いながらも、データ分析チームにGitHubを導入してくれた話。",
+      "author" : "@nana7data",
+      "day" : 8,
+      "url" : "https://yurufuwa-dataanalyst.com/2021/12/08/introduce-github-to-dataanalysisteam/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@Yasshi-cookie"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペパボにおけるデータサイエンティストの職種要件をまとめました",
+      "author" : "@HirokaZaitsu",
+      "day" : 10,
+      "url" : "https://tech.pepabo.com/2021/12/10/data-scientist-job-description/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペパボのデータ基盤『Bigfoot』におけるAirbyteの本番運用",
+      "author" : "@koji_mats",
+      "day" : 11,
+      "url" : "https://tech.pepabo.com/2021/12/11/airbyte-in-bigfoot/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryとデータポータルを使いデータ活用が進んだ話",
+      "author" : "@nyangaoka",
+      "day" : 12,
+      "url" : "https://qiita.com/nyangaoka/items/87537a3ffb12069b0f2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データエンジニアリングを始めるときに1ヶ月学習した内容",
+      "author" : "@mashimo_",
+      "day" : 13,
+      "url" : "https://qiita.com/mashimo_/items/679d15f4948d879b197b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ活用組織を進める振り返り",
+      "author" : "@na0",
+      "day" : 14,
+      "url" : "https://queuery.com/blog/2021/12/15/designing-with-analytics"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ここ1,2年のデータ整備の話",
+      "author" : "@showyou2",
+      "day" : 15,
+      "url" : "https://qiita.com/showyou2/items/236f84208f503fd27b17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年のデータ基盤活動振り返り",
+      "author" : "@y-wat",
+      "day" : 16,
+      "url" : "https://qiita.com/y-wat/items/9dd5035fa176fa0a6f3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Athenaってデータ基盤として活用するのはどんな感じ？",
+      "author" : "@yujikawa",
+      "day" : 17,
+      "url" : "https://qiita.com/yujikawa/items/29df92d7868adcf3e266"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ整備とどう付き合うか",
+      "author" : "@shinu",
+      "day" : 18,
+      "url" : "https://speakerdeck.com/shinu/detazheng-bei-todoufu-kihe-uka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMBOKとデジタル庁を参考にデータ品質について調査、考察してみた",
+      "author" : "@ttccddtoki",
+      "day" : 19,
+      "url" : "https://qiita.com/ttccddtoki/items/6a8a6131908fd34435f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データチームの立ち上げ1年間で行ったこと",
+      "author" : "@udzura",
+      "day" : 20,
+      "url" : "https://tech.pepabo.com/2021/12/20/teaming-in-data-team-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@chie8842"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】BIツール\"Tableau\"ってどんなことができるの？",
+      "author" : "@t_misaki1029",
+      "day" : 22,
+      "url" : "https://qiita.com/t_misaki1029/items/063b3b67712a0e25eba5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "輪読会を通じて「なにもわかっていなかったこと」がわかった",
+      "author" : "@nao_yoshi",
+      "day" : 23,
+      "url" : "https://medium.com/@namusic/%E8%BC%AA%E8%AA%AD%E4%BC%9A%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6-%E3%81%AA%E3%81%AB%E3%82%82%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-%E3%81%8C%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F-dfa683e51d54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「帰ってきた前向きデータ整備人が語る！コロナ禍におけるデータ整備の姿」まとめ",
+      "author" : "@Shumpei_Kubo",
+      "day" : 24,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/c1320a6efa8c2f5aad0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "待望の新サービス Redshift Serverless に触ってみた。",
+      "author" : "@kujira6803",
+      "day" : 25,
+      "url" : "https://qiita.com/kujira6803/items/ae8247c21875d518a716"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

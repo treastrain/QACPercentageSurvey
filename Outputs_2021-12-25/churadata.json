@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T03:24:03Z",
+  "calendar_meta_data" : {
+    "author" : "ちゅらデータ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 59,
+    "subscribers" : 9,
+    "title" : "ちゅらデータ Advent Calender 2021 Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "churadata",
+    "url" : "https://qiita.com/advent-calendar/2021/churadata"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Snowflakeを使って高速に差分更新するようなデータ基盤を作る",
+      "author" : "@Intel0tw5727",
+      "day" : 1,
+      "url" : "https://qiita.com/Intel0tw5727/items/1ab1cb144564d3b516bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データマネジメント入門",
+      "author" : "@foursue",
+      "day" : 2,
+      "url" : "https://qiita.com/foursue/items/939802a5b17f8d0ceb8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これまで触れてきた技術とこれから触れていきたい技術",
+      "author" : "@shuhei-yamada",
+      "day" : 3,
+      "url" : "https://note.com/shuheiyamada/n/nb06deba0763b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Mac 作業効率化】みんな大好きショートカット （と便利な設定とツール紹介）",
+      "author" : "@shoheihagiwara",
+      "day" : 4,
+      "url" : "https://qiita.com/shoheihagiwara/items/7c0d3f9083fcd696edae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ちゅらデータで推奨してるフィードバックとラップアップの紹介",
+      "author" : "@foursue",
+      "day" : 5,
+      "url" : "https://qiita.com/foursue/items/13adecfe69880695cb5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Cloud AutoML Vision Edgeでお手軽エッジモデル構築",
+      "author" : "@amacbee",
+      "day" : 6,
+      "url" : "https://qiita.com/amacbee/items/95dda3ac784b843cb2aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベイズ線形回帰",
+      "author" : "@jaguar2801",
+      "day" : 7,
+      "url" : "https://qiita.com/jaguar2801/items/420776ff46f7493d4d87"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "有限離散分布が指数型分布族に属することの証明",
+      "author" : "@kueda_cs",
+      "day" : 8,
+      "url" : "https://qiita.com/kueda_cs/items/605eb56b0a7ad2703759"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google DataPortalを使ってみた感想",
+      "author" : "@shuhei-yamada",
+      "day" : 9,
+      "url" : "https://note.com/shuheiyamada/n/n425b865b9c1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelte + TypeScriptで軽量のJavaScriptアプリを！",
+      "author" : "@tronicboy",
+      "day" : 10,
+      "url" : "https://qiita.com/tronicboy/items/923fef6122ed3cf7031f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "会社の自分のデスクの話",
+      "author" : "@shuhei-yamada",
+      "day" : 11,
+      "url" : "https://note.com/shuheiyamada/n/n2657a78a7960"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "車のデータで遊ぶ - ① 車と接続する",
+      "author" : "@hoto17296",
+      "day" : 12,
+      "url" : "https://qiita.com/hoto17296/items/85f052ff643b927f974e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQuery MLを利用した予測モデル構築〜パラメータチューニングから評価まで〜",
+      "author" : "@amacbee",
+      "day" : 13,
+      "url" : "https://datumstudio.jp/blog/20211213-introduction-bigqueryml/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GPT-2で友達を再現して対話してみた",
+      "author" : "@Yokohide",
+      "day" : 14,
+      "url" : "https://qiita.com/Yokohide/items/e74254f334e1335cd502"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Label Studioという素敵ツールに出会ったので紹介する（しない）",
+      "author" : "@aipacommander",
+      "day" : 15,
+      "url" : "https://qiita.com/aipacommander/items/c95f8c6c1261d533db3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "誰にも求められていないモノを作る技術",
+      "author" : "@aipacommander",
+      "day" : 16,
+      "url" : "https://zenn.dev/aipacommander/articles/b391a6f2d72edd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XAIにチャレンジする。",
+      "author" : "@shopi",
+      "day" : 17,
+      "url" : "https://qiita.com/shopi/items/87c70f362bd2fefe5b50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ基盤の保守・運用はデータに怯えることから始まる(戦記①）",
+      "author" : "@c-irei",
+      "day" : 18,
+      "url" : "https://qiita.com/c-irei/items/447fa2a70d8554005f44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "令和の時代に平成の魔術を昭和の技術で実装する",
+      "author" : "@k-akiyama",
+      "day" : 19,
+      "url" : "https://qiita.com/k-akiyama/items/96f97ededba7b4ad19d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript + Reactアプリで円滑にFirebaseを組み入れる方法",
+      "author" : "@tronicboy",
+      "day" : 20,
+      "url" : "https://qiita.com/tronicboy/items/d6c8fef28825bfe7e175"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AppEngineフレキシブル環境でのDjango実行チュートリアルでつまづいたのでその備忘録",
+      "author" : "@Intel0tw5727",
+      "day" : 21,
+      "url" : "https://qiita.com/Intel0tw5727/items/f8f66986e59412d29977"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲーム論的確率論の導入",
+      "author" : "@kueda_cs",
+      "day" : 22,
+      "url" : "https://qiita.com/kueda_cs/items/d41fd7839b07ac8d41bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python でモデル検査",
+      "author" : "@kueda_cs",
+      "day" : 23,
+      "url" : "https://qiita.com/kueda_cs/items/58d82a5a9fce976985ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TableauをWebに埋め込む技術 続",
+      "author" : "@thanyu",
+      "day" : 24,
+      "url" : "https://qiita.com/thanyu/items/a91d7aef8ca5ee474508"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cypressを使ったE2EテストをGithubActionsで回して結果をHTMLレポートでまとめる",
+      "author" : "@dai_zamurai",
+      "day" : 25,
+      "url" : "https://qiita.com/dai_zamurai/items/c034c7644b74b2c61107"
+    }
+  ]
+}

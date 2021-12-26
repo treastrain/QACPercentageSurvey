@@ -1,0 +1,305 @@
+{
+  "created_at" : "2021-12-26T00:17:12Z",
+  "calendar_meta_data" : {
+    "author" : "@can_can_dev",
+    "category" : "企業・学校・団体",
+    "lgtm" : 152,
+    "subscribers" : 7,
+    "title" : "ビットスター Advent Calendar 2021",
+    "participants" : 29,
+    "unique_name" : "bitstar-inc",
+    "url" : "https://qiita.com/advent-calendar/2021/bitstar-inc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel BreezeでVue2を使うまでの話",
+      "author" : "@can_can_dev",
+      "day" : 1,
+      "url" : "https://qiita.com/can_can_dev/items/9cb9cff8bf1871d3942e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "さくらのクラウドで出来るだけ安価にバックアップサーバを運用する工夫",
+      "author" : "@kansaizine",
+      "day" : 2,
+      "url" : "https://qiita.com/kansaizine/items/1ceeae0d17bb22d7da05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "import thisで親父の小言を表示する",
+      "author" : "@pyjackal",
+      "day" : 3,
+      "url" : "https://qiita.com/pyjackal/items/cfdb55051b1d3307eca1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VPNに繋いだままZoom接続した人にSlackを飛ばそう",
+      "author" : "@map_corn",
+      "day" : 4,
+      "url" : "https://qiita.com/map_corn/items/c91f102ed37acc25cfd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DjangoのORMでいろいろ試してみた",
+      "author" : "@genchan94",
+      "day" : 5,
+      "url" : "https://qiita.com/genchan94/items/a61026183cfa4bcf23e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "中規模のシステム開発案件（5人月～20人月）における要件定義③",
+      "author" : "@noshiromit",
+      "day" : 6,
+      "url" : "https://qiita.com/noshiromit/items/5cbe23b0de15f7e9749b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Movable Type のテーマ構築時に確認したいこと",
+      "author" : "@kkbit",
+      "day" : 7,
+      "url" : "https://qiita.com/kkbit/items/a9d99dd808d33f4c3e06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フリーランスの確定申告心得",
+      "author" : "@shamoji9",
+      "day" : 8,
+      "url" : "https://qiita.com/shamoji9/items/cdc6f70a6cf8dbabfd77"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仮想ルータ (SEIL/x86)の回線冗長と自動経路切替",
+      "author" : "@tackt_3",
+      "day" : 9,
+      "url" : "https://qiita.com/tackt_3/items/b614d85e42eb5a0c4f37"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonのlambdaを使う",
+      "author" : "@nescal",
+      "day" : 10,
+      "url" : "https://qiita.com/nescal/items/299e4581a18a59b4c555"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Marp for VS Code に頑張って CSS をあててみた",
+      "author" : "@tel-bitstar",
+      "day" : 11,
+      "url" : "https://qiita.com/tel-bitstar/items/5e376479d3e63dc75d83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "lxd＋zerotierで自宅サーバ上にPHPの開発環境用のimageを作る",
+      "author" : "@sakakinox",
+      "day" : 12,
+      "url" : "https://qiita.com/sakakinox/items/6334238ee857f6fb8364"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue3で○×ゲームを実装する",
+      "author" : "@mupun-bs",
+      "day" : 13,
+      "url" : "https://qiita.com/mupun-bs/items/8b083ece17c6fe42f8fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音ゲー周回を少しでも楽にしたいのでbot作った(JavaScript編)",
+      "author" : "@taiko634",
+      "day" : 14,
+      "url" : "https://qiita.com/taiko634/items/6fa25363f62440034262"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Deep Discovery Inspector] 仮想アナライザのインポートのコツ",
+      "author" : "@itochun",
+      "day" : 15,
+      "url" : "https://qiita.com/itochun/items/fe355acac1fb67f12ec0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ngrokでlocalhost(127.0.0.1)をHTTPS化する",
+      "author" : "@tsuzuqiita",
+      "day" : 16,
+      "url" : "https://qiita.com/tsuzuqiita/items/35e4f56e7cea0f554d13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドットコムマスターアドバンス ダブルスター取得への情報まとめ",
+      "author" : "@ktpd14",
+      "day" : 17,
+      "url" : "https://qiita.com/ktpd14/items/4ddced0eafa2f6daf4ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Xdebugを入れたDocker上のPHP LaravelのWebアプリをVSCodeでステップ実行させるサンプル (WSL2)",
+      "author" : "@murakami77",
+      "day" : 18,
+      "url" : "https://qiita.com/murakami77/items/59a04b46509acae39738"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Pages に個人ブログを移行してみた",
+      "author" : "@byo",
+      "day" : 19,
+      "url" : "https://qiita.com/byo/items/42073946a01e6d0663c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VPNに繋いだままZoom接続してもVPNルータに負荷をかけないお手軽な方法",
+      "author" : "@working_wear",
+      "day" : 20,
+      "url" : "https://qiita.com/working_wear/items/8baa0e3ca1fae3a89002"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアがこんなIT企業に就職してはいけない７つのルール",
+      "author" : "@akihiromae",
+      "day" : 21,
+      "url" : "https://qiita.com/akihiromae/items/7853badc52ff8b6ccde8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FSx for Windowsをきちんと運用にのせる",
+      "author" : "@k0iwa",
+      "day" : 22,
+      "url" : "https://qiita.com/k0iwa/items/70c03b36b892432a17c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "apache+laravelで素のindex.phpが表示されるんだが",
+      "author" : "@mao110210",
+      "day" : 23,
+      "url" : "https://qiita.com/mao110210/items/e52a3f0d8c7b93fcce70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webブラウザから簡単にDNSサーバの接続確認（digテスト）をしてみよう",
+      "author" : "@yamauchiyota",
+      "day" : 24,
+      "url" : "https://qiita.com/yamauchiyota/items/6b68c35024b23735c517"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パスワード管理ツールpassについて",
+      "author" : "@bs_y_cho",
+      "day" : 25,
+      "url" : "https://qiita.com/bs_y_cho/items/3b985002f8d3927a91f0"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "httpでpostしたデータをmqttでpublishする(aws編その1)",
+      "author" : "@pyjackal",
+      "day" : 10,
+      "url" : "https://qiita.com/pyjackal/items/0d5e3ccd81309c33594e"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Laravel で DB のデータを CSV ダウンロードする方法をいろいろと試してみたり速度を計測してみたり",
+      "author" : "@YoshiK159753",
+      "day" : 12,
+      "url" : "https://zenn.dev/yoshik159753/articles/26faefa6b906b2"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デベロッパーツールで目的のjsファイルを探せるようになった話",
+      "author" : "@ssss1252",
+      "day" : 19,
+      "url" : "https://qiita.com/ssss1252/items/856c33c559c180f8e6d6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "プロコンの作品アップロード用サーバをさくらのVPSとNextcloudで構築した",
+      "author" : "@t-matsuda1783",
+      "day" : 20,
+      "url" : "https://qiita.com/t-matsuda1783/items/7095b5003bfd9e97505e"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "TODOリストを作っておいてTODAY関数を知らなかった件",
+      "author" : "@sk-internet",
+      "day" : 25,
+      "url" : "https://qiita.com/sk-internet/items/9b815f969e800006c90d"
+    }
+  ]
+}

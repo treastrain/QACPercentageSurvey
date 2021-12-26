@@ -1,0 +1,636 @@
+{
+  "created_at" : "2021-12-26T03:55:51Z",
+  "calendar_meta_data" : {
+    "author" : "@ampersand",
+    "category" : "その他",
+    "lgtm" : 3273,
+    "subscribers" : 406,
+    "title" : "クソアプリ Advent Calendar 2021",
+    "participants" : 79,
+    "unique_name" : "kuso-app",
+    "url" : "https://qiita.com/advent-calendar/2021/kuso-app"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "電卓の成長を体験できるクソアプリ",
+      "author" : "@de_teiu_tkg",
+      "day" : 1,
+      "url" : "https://qiita.com/de_teiu_tkg/items/5d878f01207f408ee919"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitterに誰でもドット絵を投下できるサービスを作ったよ",
+      "author" : "@nabettu",
+      "day" : 2,
+      "url" : "https://qiita.com/nabettu/items/fa79c73aca3c504ec016"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレで動くHeroku互換システムと、最新のNuxt3で『はにゃーん』を作ったった",
+      "author" : "@alclimb",
+      "day" : 3,
+      "url" : "https://qiita.com/alclimb/items/7cd50f716cecef753ec3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KusoGame",
+      "author" : "@pik",
+      "day" : 4,
+      "url" : "https://qiita.com/pik/items/185b89e805239a979408"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本語しか読みたくない人ためのGitHubランキング",
+      "author" : "@zzzmisa",
+      "day" : 5,
+      "url" : "https://blog.zzzmisa.com/japan-github-ranking/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マリトッツォゲームを作ったよ",
+      "author" : "@SanjiMonica",
+      "day" : 6,
+      "url" : "https://qiita.com/SanjiMonica/items/7538b59e27492cf19cbe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "目をでかくして誰でもアイドルみたいになれるアプリを作った",
+      "author" : "@yuikoito",
+      "day" : 7,
+      "url" : "https://qiita.com/yuikoito/items/28b47788f9c1590b7903"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フリート芸術を後世に残すべくWebアプリを作った【Fleets Forever!!】",
+      "author" : "@okumura_daiki",
+      "day" : 8,
+      "url" : "https://qiita.com/okumura_daiki/items/22d74d3d3c4c2b0001a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CO2センサーを使ったポモドーロタイマーを作って二酸化炭素濃度と生産性の相関を調べてみよう！",
+      "author" : "@kon_yu",
+      "day" : 9,
+      "url" : "https://konyu.hatenablog.com/entry/2021/12/08/223245"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "勝手にSHUZO化してくれるメモ帳",
+      "author" : "@hoku",
+      "day" : 10,
+      "url" : "https://qiita.com/hoku/items/2e929e319e3d2bb28a28"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ただただ所持金を上げていくFlutterアプリを作った",
+      "author" : "@Frappuccino001",
+      "day" : 11,
+      "url" : "https://qiita.com/Frappuccino001/items/4d62a1c019160a7c53b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "思い出のイルミネーション(？)",
+      "author" : "@makipen_39",
+      "day" : 12,
+      "url" : "https://qiita.com/makipen_39/items/1d18124f28dd57e51aed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もしも美術館に自分の作品があったらを体験するクソアプリ",
+      "author" : "@umiremix",
+      "day" : 13,
+      "url" : "https://qiita.com/umiremix/items/54c8e0d753ceb9d3e0fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "映像から中指🖕を検出して先っちょにモザイク処理を施すクソアプリをつくった",
+      "author" : "@kokushin",
+      "day" : 14,
+      "url" : "https://qiita.com/kokushin/items/a2b00a8ecf1edccb8199"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "思いついてしまったので作る",
+      "author" : "@bannzai",
+      "day" : 15,
+      "url" : "https://zenn.dev/bannzai/articles/ff46afe77002a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音割れメーカー",
+      "author" : "@namosuke",
+      "day" : 16,
+      "url" : "https://qiita.com/namosuke/items/c7b3dbb2fe0683a2a04c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AutoMLを使って文章年齢判定アプリを作ろうとしたけど、費用が思いのほか高かったのでリリース辞めた話",
+      "author" : "@mejileben",
+      "day" : 17,
+      "url" : "https://zenn.dev/meijin/articles/automl-kusoapp-was-failed-due-to-high-price"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一日の空き時間を増やしてくれる最適化サービス",
+      "author" : "@dala00",
+      "day" : 18,
+      "url" : "https://qiita.com/dala00/items/ce1e38c32e3084491278"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "君がエッチなことを考えるとみんなのブラウザに流れ星が降るChrome拡張",
+      "author" : "@ampersand",
+      "day" : 19,
+      "url" : "https://qiita.com/ampersand/items/c396e3bbb8592f135771"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@burakon"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@keng0o"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "迷路メーカーつくった",
+      "author" : "@irukiti",
+      "day" : 22,
+      "url" : "https://qiita.com/irukiti/items/a5b7221749b80163bbde"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@kai0310"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ジョブカン】残業したくないから、後何時間働けばいいか計算するブックマークレット作った",
+      "author" : "@rorensu2236",
+      "day" : 24,
+      "url" : "https://qiita.com/rorensu2236/items/1b89deabaa704a01e9a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マッチした人の年収を知れるマッチングアプリを作った",
+      "author" : "@sadnessOjisan",
+      "day" : 25,
+      "url" : "https://qiita.com/sadnessOjisan/items/8399f41b475fe3f61618"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "文字列をゲームのエリア名風に表示するクソアプリ",
+      "author" : "@awrznc",
+      "day" : 1,
+      "url" : "https://zenn.dev/awrznc/articles/0d85576275f360"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "動画からスライドを自動生成するアプリを作りました",
+      "author" : "@shu223",
+      "day" : 2,
+      "url" : "https://qiita.com/shu223/items/9bf0f24058665ec2fc6e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "五百円貨幣潜像Androidアプリ",
+      "author" : "@wakwak",
+      "day" : 3,
+      "url" : "https://qiita.com/wakwak/items/9d62c5a32714b3fe61cd"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "体重を入力すると適正「身長」を教えてくれるアプリを作った",
+      "author" : "@fujit33",
+      "day" : 4,
+      "url" : "https://qiita.com/fujit33/items/fa40a79b905d31e8449c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "リアルタイムの会話も倍速で聞きたい",
+      "author" : "@shu223",
+      "day" : 5,
+      "url" : "https://qiita.com/shu223/items/e895ab1134297ba28bcb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ジョイマン生成器つくってみた",
+      "author" : "@shoku-pan",
+      "day" : 6,
+      "url" : "https://qiita.com/shoku-pan/items/ca8040fb633426f9f6c2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SSSAPI を利用して、Kuso API をつくった + remix（おまけ） ",
+      "author" : "@yahsan2",
+      "day" : 7,
+      "url" : "https://qiita.com/yahsan2/items/46576ba6fbab3848d1e3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「はし」「スプーン」「フォーク」に濁点を付けると「バシ！」「ズブ！」「ブォグ！」という事実【ゲームアプリ】",
+      "author" : "@ichiban_kunio",
+      "day" : 8,
+      "url" : "https://qiita.com/ichiban_kunio/items/9be28bbf19c77db826d6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "OpenCVの顔検出機能で退屈なZoom会議をもっと楽しく！",
+      "author" : "@OPamp0530",
+      "day" : 9,
+      "url" : "https://zenn.dev/opamp/articles/e0c2f8acbfd504"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【クソアプリ】Amplifyで作る CGI風アクセスカウンター",
+      "author" : "@goosys",
+      "day" : 10,
+      "url" : "https://qiita.com/goosys/items/3f7daee47d728592c3eb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "フードコートで必ず見る”アレ”を再現するWebアプリを作りました",
+      "author" : "@ichii731",
+      "day" : 11,
+      "url" : "https://qiita.com/ichii731/items/6842e413b5371aaf90fa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "canvasで取得した画像のピクセルデータをWebGLで扱ってみた",
+      "author" : "@tenugui_taro",
+      "day" : 12,
+      "url" : "https://qiita.com/tenugui_taro/items/5355297aa790785a7079"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "😡webのスクロールでふわっと出てくるやつ絶対粉砕するマン【クソアプリ】",
+      "author" : "@yuneco",
+      "day" : 13,
+      "url" : "https://qiita.com/yuneco/items/24a209cb14661b8a7a20"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「いつどこで誰が何をした」を英語翻訳するサービス作った",
+      "author" : "@kim_kou",
+      "day" : 14,
+      "url" : "https://zenn.dev/kouichirou/articles/696583d967d225"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【クリぼっちだと宣言するだけのものを作りました】 #クリぼっちーず #クソアプリアドベントカレンダー #クリぼっち #アドベントカレンダー",
+      "author" : "@sho_heyhey",
+      "day" : 15,
+      "url" : "https://qiita.com/sho_heyhey/items/3cd36080dbfa03fbbf6c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "プライベートリポジトリも見れる GitHub Warp ",
+      "author" : "@matsubara0507",
+      "day" : 16,
+      "url" : "https://zenn.dev/matsubara0507/articles/9e7f570f3a3310"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Discordの通知をすべてDiscordで通知するBOT",
+      "author" : "@Zect",
+      "day" : 17,
+      "url" : "https://qiita.com/Zect/items/4dbc0754588528156b57"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18,
+      "author" : "@tsugu_maru_san"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ユーザーのかわりに連打してくれる拡張機能を作った",
+      "author" : "@hayato07",
+      "day" : 19,
+      "url" : "https://qiita.com/hayato07/items/cc329b45e65a511a8ac7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "新言語『TypoScript』を作った",
+      "author" : "@kurehajime",
+      "day" : 20,
+      "url" : "https://qiita.com/kurehajime/items/e9a90c1d3705fbc8197a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "FFmpegを用いて音入り動画を作成できる無料アプリ",
+      "author" : "@danjiro",
+      "day" : 21,
+      "url" : "https://qiita.com/danjiro/items/58f6dc27f9ec844f8346"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "シンプルなタイピングゲームを作りました⌨",
+      "author" : "@HaruhikoTaketori",
+      "day" : 22,
+      "url" : "https://qiita.com/HaruhikoTaketori/items/289c4acde51ed9532aa2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ヴォイニッチ計算記という選択肢",
+      "author" : "@NekoCan",
+      "day" : 23,
+      "url" : "https://qiita.com/NekoCan/items/c95c85504387198ec807"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24,
+      "author" : "@sada_lp1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自然数の足し算と引き算だけの関数型言語を作った",
+      "author" : "@unsigned-wrong-wrong-int",
+      "day" : 25,
+      "url" : "https://qiita.com/unsigned-wrong-wrong-int/items/05373cc0598b093bcb1f"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "認知機能低下のための4x4ルービックキューブの話を書きます。",
+      "author" : "@NorioFujii",
+      "day" : 2,
+      "url" : "https://mori1-hakua.tokyo/%E3%83%AB%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%964x4%E3%82%82%E3%81%AE%E3%81%90%E3%81%95%E6%B3%95.html"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "今みてるwebページをクリスマス仕様にするクソアプリを作りました",
+      "author" : "@yamamoto_hiroya",
+      "day" : 3,
+      "url" : "https://qiita.com/yamamoto_hiroya/items/5881fc2396e27120454c"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "オランダ在住者が、オランダと聞いて思い浮かぶスマホアプリを作りました ",
+      "author" : "@dancingpandor",
+      "day" : 4,
+      "url" : "https://note.com/dancingpandor/n/n31979423d351"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "マスク下の表情を当てるアプリを作った",
+      "author" : "@shintarou-akao",
+      "day" : 6,
+      "url" : "https://qiita.com/shintarou-akao/items/a8ebe2241d5271ce0ca4"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "5秒で告白",
+      "author" : "@megumu-u",
+      "day" : 8,
+      "url" : "https://qiita.com/megumu-u/items/8af9d45a84cd31895758"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 10,
+      "author" : "@yokinist"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 11,
+      "author" : "@hcl"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "スマホの充電を騙くらかすアプリを作ったらAppleに怒られた話",
+      "author" : "@Umigishi-Aoi",
+      "day" : 13,
+      "url" : "https://qiita.com/Umigishi-Aoi/items/c9e8ca69616201f9491e"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14,
+      "author" : "@xd_kiyo"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "モールス信号でツイートしたかった",
+      "author" : "@kira_puka",
+      "day" : 15,
+      "url" : "https://qiita.com/kira_puka/items/2c04a1bab14884147c21"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16,
+      "author" : "@harehare211"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 17,
+      "author" : "@teppei22"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "PC使用時の猫背を矯正するクソアプリ",
+      "author" : "@takuminmin0718",
+      "day" : 18,
+      "url" : "https://qiita.com/takuminmin0718/items/52d0ad59726c1a2cda4a"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "てきとうにテトリスを作ったら長棒の幅が少し太かった。ついカッとなってやった、反省しています",
+      "author" : "@youwht",
+      "day" : 19,
+      "url" : "https://qiita.com/youwht/items/ab960d33e0e281b269a6"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Webページ内の文章にキャラ語尾を追加するChrome拡張機能を作った",
+      "author" : "@3w36zj6",
+      "day" : 20,
+      "url" : "https://qiita.com/3w36zj6/items/dba8de39623ae7adbd67"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21,
+      "author" : "@ntenten_Q"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "こんなフォームは嫌だ",
+      "author" : "@tanakaKSK",
+      "day" : 22,
+      "url" : "https://qiita.com/tanakaKSK/items/109a4d57559f29889626"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 23,
+      "author" : "@gomi_ningen"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "\"みんなで\"解くモンティ・ホール問題",
+      "author" : "@chikurin66",
+      "day" : 24,
+      "url" : "https://qiita.com/chikurin66/items/74e36a8be41c114401a0"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "😸ニッチすぎていつ役に立つか分からない、特定のネコの種類だけを判定するアプリの記事を投稿しますぞ！😸",
+      "author" : "@mochan_tk",
+      "day" : 25,
+      "url" : "https://zenn.dev/mochan_tk/articles/9a25dd3e0863d2"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 1,
+      "author" : "@STARGAZER"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "カフェでプログラミングしてる風（でも何もやってない）Python（クソ）コード",
+      "author" : "@YottyPG",
+      "day" : 8,
+      "url" : "https://qiita.com/YottyPG/items/e988ebacab94a8f4645f"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "11月末にリリースされたばかりのReactベースの最新フルスタックフレームワーク「Remix」を使って、小規模アプリを作ってみたかった",
+      "author" : "@Itamaster",
+      "day" : 9,
+      "url" : "https://qiita.com/Itamaster/items/d004e6220f2c95a6623e"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【TypeScript/Phaser.js】記号だけで戦うタイピングゲーム作った",
+      "author" : "@umaxyon",
+      "day" : 10,
+      "url" : "https://qiita.com/umaxyon/items/0826ab5eb5b369e1f5e3"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【ゆく年2021】SDカード変換アダプタが余っていたのでM5全機種で使えるように半田付けした話",
+      "author" : "@chrmlinux",
+      "day" : 15,
+      "url" : "https://qiita.com/chrmlinux/items/d2e49cb9ac339664a3b1"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【Next.js】Hunter×Hunterの休載期間をリアルタイム表示するWebアプリ【Vercel】",
+      "author" : "@nishiurahiroki",
+      "day" : 18,
+      "url" : "https://qiita.com/nishiurahiroki/items/e4a7c8f85ab362f5abfd"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "推しに貢ぎたいChrome拡張",
+      "author" : "@rs_tukki",
+      "day" : 19,
+      "url" : "https://qiita.com/rs_tukki/items/9de350e6276c40f54fc4"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "今年も全力で間違えていくアプリ開発 ～シェフの気まぐれクソアプリGCP添え～",
+      "author" : "@endo_hizumi",
+      "day" : 20,
+      "url" : "https://qiita.com/endo_hizumi/items/67821080edbafb611edd"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "画像でつぶやくクソアプリを作った💩",
+      "author" : "@emono",
+      "day" : 21,
+      "url" : "https://zenn.dev/emono/articles/aeee073c4609f2"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "みんなが今年やり残したことを実現するアプリを作りました ",
+      "author" : "@dancingpandor",
+      "day" : 22,
+      "url" : "https://note.com/dancingpandor/n/nbc6d8a59f0fb"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 23,
+      "author" : "@EndoMotoki"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【2日で作る二足歩行ロボット】-ハード編-",
+      "author" : "@chrmlinux",
+      "day" : 24,
+      "url" : "https://qiita.com/chrmlinux/items/806bccfcbbd03b6d0df8"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【2日で作る二足歩行ロボット】-ソフト編-",
+      "author" : "@chrmlinux",
+      "day" : 25,
+      "url" : "https://qiita.com/chrmlinux/items/3a0adc73477d302ec293"
+    }
+  ]
+}

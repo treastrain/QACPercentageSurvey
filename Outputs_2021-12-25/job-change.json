@@ -1,0 +1,144 @@
+{
+  "created_at" : "2021-12-25T23:15:38Z",
+  "calendar_meta_data" : {
+    "author" : "@satoimooimo",
+    "category" : "その他",
+    "lgtm" : 3,
+    "subscribers" : 5,
+    "title" : "転職 Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "job-change",
+    "url" : "https://qiita.com/advent-calendar/2021/job-change"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアのエンジニアリング以外の仕事",
+      "author" : "@cvusk",
+      "day" : 1,
+      "url" : "https://qiita.com/cvusk/items/2f69c91c7e3360129a29"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングスクールからの転職体験記",
+      "author" : "@gitloveme",
+      "day" : 7,
+      "url" : "https://dkssksk.com/techacademy-over30-age/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@25sktwowilc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "何か書きます。",
+      "author" : "@highstake",
+      "day" : 15,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "転職：会社を辞めて違う会社に入ることだけじゃなくて",
+      "author" : "@kaizen_nagoya",
+      "day" : 20,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f0f72d5bb31df710f0d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "todo",
+      "author" : "@highstake",
+      "day" : 21,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "todo",
+      "author" : "@highstake",
+      "day" : 22,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "todo",
+      "author" : "@highstake",
+      "day" : 23,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "todo",
+      "author" : "@highstake",
+      "day" : 24,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "todo",
+      "author" : "@highstake",
+      "day" : 25,
+      "url" : "https://note.com/"
+    }
+  ]
+}

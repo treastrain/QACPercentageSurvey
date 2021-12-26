@@ -1,0 +1,162 @@
+{
+  "created_at" : "2021-12-26T02:14:03Z",
+  "calendar_meta_data" : {
+    "author" : "@hgsgtk",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 0,
+    "subscribers" : 3,
+    "title" : "hgsgtk engineering advent calendar Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "hgsgtk",
+    "url" : "https://qiita.com/advent-calendar/2021/hgsgtk"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Deep dive into Go 1.18 minor changes in testing package",
+      "author" : "@hgsgtk",
+      "day" : 1,
+      "url" : "https://dev.to/hgsgtk/deep-dive-into-go-118-minor-changes-in-testing-package-26jp"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BDD is not just a test automation practice, but a collaborative practice",
+      "author" : "@hgsgtk",
+      "day" : 7,
+      "url" : "https://medium.com/@hgsgtk/bdd-is-not-just-a-test-automation-practice-but-a-collaborative-practice-book-review-the-bdd-ec24b1976487"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "How decided a value set in Sec-WebSocket-Key/Accept header",
+      "author" : "@hgsgtk",
+      "day" : 8,
+      "url" : "https://dev.to/hgsgtk/how-decided-a-value-set-in-sec-websocket-keyaccept-header-l79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Learn WebSocket handshake protocol with gorilla/websocket server",
+      "author" : "@hgsgtk",
+      "day" : 9,
+      "url" : "https://dev.to/hgsgtk/learn-websocket-handshake-protocol-with-gorillawebsocket-server-10k9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Deep dive into WebSocket opening handshake protocol with Go",
+      "author" : "@hgsgtk",
+      "day" : 11,
+      "url" : "https://dev.to/hgsgtk/websocket-client-3gni"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "How WebSocket protocol designs bidirectional messaging and implements in Go",
+      "author" : "@hgsgtk",
+      "day" : 13,
+      "url" : "https://dev.to/hgsgtk/how-websocket-protocol-designs-bidirectional-messaging-and-implements-in-go-260f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reverse HTTP proxy over WebSocket in Go (Part 1)",
+      "author" : "@hgsgtk",
+      "day" : 14,
+      "url" : "https://dev.to/hgsgtk/reverse-http-proxy-over-websocket-in-go-part-1-13n4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reverse HTTP proxy over WebSocket in Go (Part 2)",
+      "author" : "@hgsgtk",
+      "day" : 15,
+      "url" : "https://dev.to/hgsgtk/reverse-http-proxy-over-websocket-in-go-part-2-o4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reverse HTTP proxy over WebSocket in Go (Part 3)",
+      "author" : "@hgsgtk",
+      "day" : 16,
+      "url" : "https://dev.to/hgsgtk/reverse-http-proxy-over-websocket-in-go-part-3-2ggd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@hgsgtk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "I’m joining Autify, a no-code AI-powered software testing automation platform",
+      "author" : "@hgsgtk",
+      "day" : 24,
+      "url" : "https://medium.com/@hgsgtk/im-joining-autify-a-no-code-ai-powered-software-testing-automation-platform-2a6285b38fb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The concept map that gives a bird’ eye view of Autify for Web (2021 version)",
+      "author" : "@hgsgtk",
+      "day" : 25,
+      "url" : "https://medium.com/@hgsgtk/the-concept-map-that-gives-a-bird-eye-view-of-autify-for-web-2021-version-948d3e77c409"
+    }
+  ]
+}

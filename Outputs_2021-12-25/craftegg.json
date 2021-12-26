@@ -1,0 +1,183 @@
+{
+  "created_at" : "2021-12-25T21:22:16Z",
+  "calendar_meta_data" : {
+    "author" : "@Tomy_0331",
+    "category" : "企業・学校・団体",
+    "lgtm" : 188,
+    "subscribers" : 11,
+    "title" : "Craft Egg Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "craftegg",
+    "url" : "https://qiita.com/advent-calendar/2021/craftegg"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Aurora(MySQL)のALTER文のLockを調べてみた",
+      "author" : "@shirai_suguru",
+      "day" : 1,
+      "url" : "https://qiita.com/shirai_suguru/items/0be2293f7cfe4fe7bb76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity] UniversalRenderPipelineについて調べた覚え書き",
+      "author" : "@ishiguro_takuya",
+      "day" : 2,
+      "url" : "https://qiita.com/ishiguro_takuya/items/310f97446c299a3380e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒2年目までに学んだ、コーディングで意識すること",
+      "author" : "@Tomy_0331",
+      "day" : 3,
+      "url" : "https://qiita.com/Tomy_0331/items/d580aa4537edcda29c4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Beta版のUnity Gaming Servicesを導入して軽く触ってみる",
+      "author" : "@kai_yamamoto",
+      "day" : 4,
+      "url" : "https://qiita.com/kai_yamamoto/items/fc9352aec8847bba0854"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spread SheetとGoogle App Scriptで抽選システムを作った話",
+      "author" : "@ce_suzuki_ryohei",
+      "day" : 5,
+      "url" : "https://qiita.com/ce_suzuki_ryohei/items/1bd1f9dc4f1f3942c2f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Toggl Trackを使ってみた",
+      "author" : "@Tomy_0331",
+      "day" : 6,
+      "url" : "https://qiita.com/Tomy_0331/items/967ec008e7703be5bdc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "国内タイトルを海外向けに開発運用した経験を振り返る",
+      "author" : "@bikitaro",
+      "day" : 8,
+      "url" : "https://qiita.com/bikitaro/items/2cd9e8c5d27f25a6e9e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "瓶の中に入っている液体の簡易表現を実装してみる@Unity",
+      "author" : "@aluminum1981",
+      "day" : 9,
+      "url" : "https://qiita.com/aluminum1981/items/968f523f3cbc13345f4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FactoryMethodパターンでボタン生成をしてみる@Unity",
+      "author" : "@Tomy_0331",
+      "day" : 10,
+      "url" : "https://qiita.com/Tomy_0331/items/5d8904da291533cc925c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムっぽいことをやって感じたこと",
+      "author" : "@kawase_ikuta",
+      "day" : 11,
+      "url" : "https://qiita.com/kawase_ikuta/items/503837c99c17ab5609ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "go doc コマンドを知る",
+      "author" : "@kanata2",
+      "day" : 12,
+      "url" : "https://qiita.com/kanata2/items/04f05af45ad0d908e610"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エディターのショートカットとデバッグ機能を全く使ってこなかったのでエンジニアになって痛い目を見た話",
+      "author" : "@reo_chocsar",
+      "day" : 13,
+      "url" : "https://qiita.com/reo_chocsar/items/c613fbbd8a934ff130f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲーム業界を志望してなかったサーバエンジニアが知った、ゲームならではの驚きポイント",
+      "author" : "@YuheiTakagawa",
+      "day" : 14,
+      "url" : "https://qiita.com/YuheiTakagawa/items/ed67482f60e22c244778"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒エンジニアが業務を行う上で意識したこと",
+      "author" : "@ce_gassy",
+      "day" : 15,
+      "url" : "https://qiita.com/ce_gassy/private/3c4b4bb4f460ae89d8da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity] SRP Batcher を検証してみました",
+      "author" : "@ishiguro_takuya",
+      "day" : 16,
+      "url" : "https://qiita.com/ishiguro_takuya/items/1f631e45532e071368cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プルリクを出した際のコード規約自動チェッカーをRoslynで試作してみる",
+      "author" : "@Tomy_0331",
+      "day" : 17,
+      "url" : "https://qiita.com/Tomy_0331/items/ccbbfe1a18616d510559"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPhoneで3D空間に入って撮影できる『Unity Virtual Camera』",
+      "author" : "@arumani",
+      "day" : 18,
+      "url" : "https://qiita.com/arumani/items/4b8c3058425031aa4d2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@ce_suzuki_ryohei"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@bikitaro"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最近のFreeBSDコンテナ事情",
+      "author" : "@YuheiTakagawa",
+      "day" : 21,
+      "url" : "https://qiita.com/YuheiTakagawa/items/9a13912330fcb3de8ab8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity で音声通話を簡単に導入してみる",
+      "author" : "@kai_yamamoto",
+      "day" : 22,
+      "url" : "https://qiita.com/kai_yamamoto/items/ad433ffc074f5957d7e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity] Adaptive Performanceを試してみた",
+      "author" : "@mrtm30",
+      "day" : 23,
+      "url" : "https://qiita.com/mrtm30/items/a33b31bb5d3e85f282dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "青春時代を機械学習で懐かしむ",
+      "author" : "@tsune_ce",
+      "day" : 24,
+      "url" : "https://qiita.com/tsune_ce/items/d8342448c8d32e9df857"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Craft Egg初のアドベントカレンダーを実施してみて",
+      "author" : "@Tomy_0331",
+      "day" : 25,
+      "url" : "https://qiita.com/Tomy_0331/items/1b20f3a1dde6e942310b"
+    }
+  ]
+}

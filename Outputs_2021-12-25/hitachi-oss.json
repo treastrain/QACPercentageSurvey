@@ -1,0 +1,299 @@
+{
+  "created_at" : "2021-12-26T05:28:21Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社 日立製作所　OSSソリューションセンタ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 215,
+    "subscribers" : 18,
+    "title" : "日立グループ OSS Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "hitachi-oss",
+    "url" : "https://qiita.com/advent-calendar/2021/hitachi-oss"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレ環境で甘くなりがちなリバプロと開発サーバー間の通信も保護してみる",
+      "author" : "@hi-naoya",
+      "day" : 1,
+      "url" : "https://qiita.com/hi-naoya/items/1f9cf156050ba3ea5be6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Anaconda/Minicondaのインストール/アンインストール自動化(Windows)",
+      "author" : "@t-takahisa",
+      "day" : 2,
+      "url" : "https://qiita.com/t-takahisa/items/bc4cc72687e72edd047c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Anaconda/Minicondaのインストール/アンインストール自動化(Linux)",
+      "author" : "@t-takahisa",
+      "day" : 3,
+      "url" : "https://qiita.com/t-takahisa/items/64920fe3bebb34d46384"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Keycloakでpairwiseを実現してみる",
+      "author" : "@yo-tabata",
+      "day" : 4,
+      "url" : "https://qiita.com/yo-tabata/items/a3caea180fa7cad078a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "トークンイントロスペクションでクライアント証明書も検証させてみる",
+      "author" : "@yo-tabata",
+      "day" : 5,
+      "url" : "https://qiita.com/yo-tabata/items/5096eeb6db171ebc3e02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Camel OpenAPI Javaでリクエストパラメータの設定",
+      "author" : "@y-sha",
+      "day" : 6,
+      "url" : "https://qiita.com/y-sha/items/8e9cfc4a9c131a51d453"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-RED 2.1の新機能: HTTP Requestノードのログ機能強化",
+      "author" : "@k-toumura",
+      "day" : 7,
+      "url" : "https://qiita.com/k-toumura/items/294aa189c59333e2dd18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSでストリームデータを扱うためのメッセージングサービス",
+      "author" : "@sigmalist",
+      "day" : 8,
+      "url" : "https://qiita.com/sigmalist/items/73d3feeb6e0f5905ed64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSのストリーム処理向けメッセージングサービスKDS(Kinesis)・MSK(Kafka)・SQSの特徴",
+      "author" : "@sigmalist",
+      "day" : 9,
+      "url" : "https://qiita.com/sigmalist/items/1a65b0b0456516e2056b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticの機械学習機能で教師なし機械学習の異常検知と予測をやってみた",
+      "author" : "@to-fujii",
+      "day" : 10,
+      "url" : "https://qiita.com/to-fujii/items/fc7cec1e5ce9be8def2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticの機械学習機能で教師あり機械学習のデータフレーム分析(分類)を試してみた",
+      "author" : "@to-fujii",
+      "day" : 11,
+      "url" : "https://qiita.com/to-fujii/items/167d522714fc5ee94e22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービスメッシュ Kuma の サンプルを Docker Compose で動かす",
+      "author" : "@t-mogi",
+      "day" : 12,
+      "url" : "https://qiita.com/t-mogi/items/954e529a037c4e283954"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービスメッシュ Kuma の Transparent Proxy を既存 DNS と共存させる",
+      "author" : "@t-ide",
+      "day" : 13,
+      "url" : "https://qiita.com/t-ide/items/50cfe2af1e206ee9fbd9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービスメッシュ Kuma で iptables と resolv.conf の設定を取得する方法",
+      "author" : "@enori",
+      "day" : 14,
+      "url" : "https://qiita.com/enori/items/3dbd1153b9d6e7e8bc70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-RED2.1の新機能: フローおよびグループに対する環境変数の定義",
+      "author" : "@HiroyasuNishiyama",
+      "day" : 15,
+      "url" : "https://qiita.com/HiroyasuNishiyama/items/ca6a255760e40b247187"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hyperledger Fabric Private Chaincodeを動かしてみる #3 Hyperledger Explorerで確認",
+      "author" : "@ikegawa-koshi",
+      "day" : 16,
+      "url" : "https://qiita.com/ikegawa-koshi/items/3aad1600cff15c2b376f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KeycloakのRoleを使ってHasuraのRBACを行ってみた。",
+      "author" : "@yu_kato",
+      "day" : 17,
+      "url" : "https://qiita.com/yu_kato/items/fbbf711947af36c17f7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pandas.DataFrameの作り方あれこれ",
+      "author" : "@sotasato",
+      "day" : 18,
+      "url" : "https://qiita.com/sotasato/items/a402a827e5ca4f5039d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Open Policy Agentの再帰処理を代替するgraph関数の使い方",
+      "author" : "@Hiroyuki_OSAKI",
+      "day" : 19,
+      "url" : "https://qiita.com/Hiroyuki_OSAKI/items/a67028f959866a064f93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TruffleフレームワークとOpenZeppelinライブラリでERC20準拠の独自トークンを実装してみる",
+      "author" : "@watanabe_kentaro",
+      "day" : 20,
+      "url" : "https://qiita.com/watanabe_kentaro/items/4709874c6ac18d605609"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エッジデバイスでAIを現場に！　～Jupyter NotebookでDocker上のOpenVINOを試す～",
+      "author" : "@hitachi_okazu",
+      "day" : 21,
+      "url" : "https://qiita.com/hitachi_okazu/items/692d6cab45d96530463f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Immutable Storageのご紹介",
+      "author" : "@eiichiroO",
+      "day" : 22,
+      "url" : "https://qiita.com/eiichiroO/items/884a7ad950daf857035d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElasticのHeartbeatで外部監視をはじめよう",
+      "author" : "@k-hirooka",
+      "day" : 23,
+      "url" : "https://qiita.com/k-hirooka/items/571467ba8e6d73b83490"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDからJDBCドライバを用いてデータベースに接続する方法",
+      "author" : "@kazuhitoyokoi",
+      "day" : 24,
+      "url" : "https://qiita.com/kazuhitoyokoi/items/e0441d883c2c970bae5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-RED 2.1の新機能: ツアー機能",
+      "author" : "@kazuhitoyokoi",
+      "day" : 25,
+      "url" : "https://qiita.com/kazuhitoyokoi/items/cbb01abeedc353423d94"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWSのKinesis Data Analytics、EMR Spark Streaming、Lambdaによるストリーム処理の特徴",
+      "author" : "@sigmalist",
+      "day" : 10,
+      "url" : "https://qiita.com/sigmalist/items/6080df50091bfefa7cd5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "KeycloakのServer Metadataの変遷 again",
+      "author" : "@tnorimat",
+      "day" : 11,
+      "url" : "https://qiita.com/tnorimat/items/05a85ae9da1215e6bcde"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Docker DesktopなしのDocker環境をWSL2とcloud-initで構築する",
+      "author" : "@yo-yamada",
+      "day" : 25,
+      "url" : "https://qiita.com/yo-yamada/items/ed44bc72260ad5787d84"
+    }
+  ]
+}

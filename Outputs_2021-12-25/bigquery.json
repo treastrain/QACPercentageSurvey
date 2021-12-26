@@ -1,0 +1,284 @@
+{
+  "created_at" : "2021-12-26T01:52:54Z",
+  "calendar_meta_data" : {
+    "author" : "@na0",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 24,
+    "subscribers" : 60,
+    "title" : "BigQuery Advent Calendar 2021",
+    "participants" : 26,
+    "unique_name" : "bigquery",
+    "url" : "https://qiita.com/advent-calendar/2021/bigquery"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "JSON列とMaterialized View",
+      "author" : "@jack_ama",
+      "day" : 1,
+      "url" : "https://lab.mo-t.com/blog/bigquery-json-column"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryとdbt Cloudで始めるデータパイプライン入門",
+      "author" : "@takimo@github",
+      "day" : 2,
+      "url" : "https://zenn.dev/dbt_tokyo/books/537de43829f3a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryのデータセットにアクセス出来るアカウント一覧の取得方法",
+      "author" : "@nii_yan",
+      "day" : 3,
+      "url" : "https://qiita.com/nii_yan/items/648954e0f12ce1c9151f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryにストリーミングインサートしたときに発見した小ネタ",
+      "author" : "@miyamotok",
+      "day" : 4,
+      "url" : "https://qiita.com/miyamotok/items/7036758013893b94aceb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SnowflakeからBigQueryにデータを移動する",
+      "author" : "@foursue",
+      "day" : 5,
+      "url" : "https://qiita.com/foursue/items/0ed9b309e3fcd3344b2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GA4のRECORD型カラムを扱う時のポイント",
+      "author" : "@k_0120",
+      "day" : 6,
+      "url" : "https://qiita.com/k_0120/items/4e22de1fa1899a002932"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQuery Youtuber 体験記",
+      "author" : "@abe-masatoshi",
+      "day" : 7,
+      "url" : "https://tech.yappli.io/entry/2021/12/07/bigquery_youtuber"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ基盤構築におけるBigQueryの活用",
+      "author" : "@Yasshi-cookie",
+      "day" : 8,
+      "url" : "https://qiita.com/Yasshi-cookie/items/c0896655c4c954d9a924"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryで行単位でチェックしながら集計する方法",
+      "author" : "@glassmonkey",
+      "day" : 9,
+      "url" : "https://zenn.dev/glassmonkey/articles/1b3d176dae6f47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "🏄 BigQuery Standard SQL をローカルで実行してみた",
+      "author" : "@sh19910711",
+      "day" : 10,
+      "url" : "https://github.com/sh19910711/test/issues/4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年もBigQueryの2021年アップデートを（だいたい）全部振り返る",
+      "author" : "@yuta_h3",
+      "day" : 11,
+      "url" : "https://medium.com/google-cloud-jp/bigquery-whats-new-2021-cc9866f90d5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryスロット利用量の見積り",
+      "author" : "@tofumabo",
+      "day" : 12,
+      "url" : "https://www.gixo.jp/blog/18034/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQuery MLを利用した予測モデル構築〜パラメータチューニングから評価まで〜",
+      "author" : "@amacbee",
+      "day" : 13,
+      "url" : "https://datumstudio.jp/blog/20211213-introduction-bigqueryml/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryの未実行クエリは復活できる",
+      "author" : "@wtnVenga",
+      "day" : 14,
+      "url" : "https://zenn.dev/wtnvenga/articles/684f3af3cd603f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryにシンクしたデータアクセス監査ログでよく使うクエリ5選",
+      "author" : "@ota2000",
+      "day" : 15,
+      "url" : "https://zenn.dev/y2000/articles/8451e2015792fd16c904"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryMLで太陽光発電量を予測して、DataPortalに表示する",
+      "author" : "@kccs_api4",
+      "day" : 16,
+      "url" : "https://qiita.com/kccs_api4/items/e3a1ca7d7e8364c2d451"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@yt1n4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "時系列データ分析で役立つBigQuery Materialized View スニペット集",
+      "author" : "@str_kunimasa",
+      "day" : 18,
+      "url" : "https://qiita.com/str_kunimasa/items/522cf80739c8b279c1b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQuery日本語カラム自動変換ツールのアップデート ",
+      "author" : "@yasudakn",
+      "day" : 19,
+      "url" : "https://qiita.com/yasudakn/items/85fd006d792e1808535d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQuery備忘録 : GA4から取得したデータをBigQueryで扱う時に使う2つの関数(unnest, _table_suffix)",
+      "author" : "@masamasa6666661",
+      "day" : 20,
+      "url" : "https://qiita.com/masamasa6666661/items/1a7859697c0fdf254698"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@y_sng"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@kenya-sk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@syou6162@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@KUrushi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@na0"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "メタデータ × スケジュールクエリについて書きます",
+      "author" : "@syou6162@github",
+      "day" : 8,
+      "url" : "https://www.yasuhisay.info/entry/2021/12/08/213000"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "BigQueryを軸にした大規模データ分析基盤の設計をする前に知っておきたいこと",
+      "author" : "@ubansi",
+      "day" : 18,
+      "url" : "https://ubansi.com/bigquery-as-a-big-data-infrastructure/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

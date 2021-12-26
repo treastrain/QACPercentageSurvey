@@ -1,0 +1,173 @@
+{
+  "created_at" : "2021-12-26T01:34:56Z",
+  "calendar_meta_data" : {
+    "author" : "@ykmori",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 37,
+    "subscribers" : 40,
+    "title" : "Datadog Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "datadog",
+    "url" : "https://qiita.com/advent-calendar/2021/datadog"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadog Dash 2021で発表された新機能について（その１）",
+      "author" : "@ykmori",
+      "day" : 1,
+      "url" : "https://qiita.com/ykmori/items/4c071d5371cf021e67c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadogで始めるセキュリティモニタリング",
+      "author" : "@kissyy",
+      "day" : 2,
+      "url" : "https://qiita.com/kissyy/items/93a2492c073c4c8c81d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadog Dash 2021で発表された新機能について（その２）",
+      "author" : "@ykmori",
+      "day" : 3,
+      "url" : "https://qiita.com/ykmori/items/2fece3761202a3d1a50c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadog上でレイテンシをCumlative Sumで見るのは良いアイデアなのかもしれない",
+      "author" : "@sters9",
+      "day" : 4,
+      "url" : "https://gomiba.co/archives/2021/12/datadog-cumlative-sum/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DatadogでCIを可視化する",
+      "author" : "@TAKA_0411",
+      "day" : 5,
+      "url" : "https://zenn.dev/tkaga/articles/08c90e2287cd47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadog Forwarder(AWS) についてのメモ",
+      "author" : "@DatadogJ",
+      "day" : 6,
+      "url" : "https://htnosm.hatenablog.com/entry/2021/12/06/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RHEL7環境でDatadogAgentの構成ファイルを別ディレクトリで管理する。",
+      "author" : "@GoogIeSensei",
+      "day" : 7,
+      "url" : "https://qiita.com/GoogIeSensei/items/617c0b10da0f1993d8b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Datadog] 小粒なTips集・ダッシュボード編",
+      "author" : "@stanabe",
+      "day" : 8,
+      "url" : "https://qiita.com/stanabe/items/e4d9bfcd113294cf57da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "みんな！DatadogのNotebookを活用してくれ！",
+      "author" : "@sters9",
+      "day" : 9,
+      "url" : "https://gomiba.co/archives/2021/12/datadog-notebook/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadogのカスタムメトリクスによる予期せぬコスト増加を回避する",
+      "author" : "@TAKA_0411",
+      "day" : 10,
+      "url" : "https://zenn.dev/tkaga/articles/291af41d8e43b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Datadog] 本番サイトに手を入れずにRUMを試す方法",
+      "author" : "@stanabe",
+      "day" : 11,
+      "url" : "https://qiita.com/stanabe/items/4ec82c6a91c34de11e99"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DatadogがLog4j Log4Shellの脆弱性から得られたもの",
+      "author" : "@ykmori",
+      "day" : 13,
+      "url" : "https://qiita.com/ykmori/items/315015f4df092e7609d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nginxをDatadogで監視し尽くす方法",
+      "author" : "@stanabe",
+      "day" : 14,
+      "url" : "https://qiita.com/stanabe/items/a208377100a4ba2ea907"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CAMPFIREとDatadogとオブザーバビリティの1年",
+      "author" : "@TAKA_0411",
+      "day" : 15,
+      "url" : "https://note.com/campfire_dev/n/nff283b7e7a40"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadog Log Rehydrationの紹介",
+      "author" : "@shin1988",
+      "day" : 16,
+      "url" : "https://qiita.com/shin1988/items/2399d8324e3844f65a20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadogのタグのお話",
+      "author" : "@GoogIeSensei",
+      "day" : 17,
+      "url" : "https://qiita.com/GoogIeSensei/items/b50bec2cc6d5e8ac8e50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Datadog] 小粒なTips集・API編",
+      "author" : "@stanabe",
+      "day" : 18,
+      "url" : "https://qiita.com/stanabe/items/9955ea9a0887f08dcf00"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@jamgodtree"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "監視漏れがないかをチェックするツールを作った",
+      "author" : "@terakoya76",
+      "day" : 21,
+      "url" : "https://medium.com/@terako.studio/monitor-of-datadog-monitor-9103280e3792"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vector by Datadogって知ってる？",
+      "author" : "@itakafu",
+      "day" : 22,
+      "url" : "https://qiita.com/itakafu/items/b7abbef03cbc2c2ecc82"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

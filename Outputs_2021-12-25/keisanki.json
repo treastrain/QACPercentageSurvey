@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:17:21Z",
+  "calendar_meta_data" : {
+    "author" : "@houmei",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 0,
+    "subscribers" : 4,
+    "title" : "ぼくのかんがえたさいきょうCPU Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "keisanki",
+    "url" : "https://qiita.com/advent-calendar/2021/keisanki"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "整理開始",
+      "author" : "@houmei",
+      "day" : 1,
+      "url" : "https://keisanki.at.webry.info/202112/article_1.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "命令セットのフォーマットとアドレス空間",
+      "author" : "@houmei",
+      "day" : 2,
+      "url" : "https://keisanki.at.webry.info/202112/article_2.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンディアン、境界アクセス",
+      "author" : "@houmei",
+      "day" : 3,
+      "url" : "https://keisanki.at.webry.info/202112/article_3.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キャッシュ",
+      "author" : "@houmei",
+      "day" : 4,
+      "url" : "https://keisanki.at.webry.info/202112/article_4.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メモリオーダリング",
+      "author" : "@houmei",
+      "day" : 5,
+      "url" : "https://keisanki.at.webry.info/202112/article_5.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コア内部　演算命令とフラグ",
+      "author" : "@houmei",
+      "day" : 6,
+      "url" : "https://keisanki.at.webry.info/202112/article_6.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アドレッシングモード",
+      "author" : "@houmei",
+      "day" : 7,
+      "url" : "https://keisanki.at.webry.info/202112/article_7.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "論理演算",
+      "author" : "@houmei",
+      "day" : 8,
+      "url" : "https://keisanki.at.webry.info/202112/article_8.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビット操作",
+      "author" : "@houmei",
+      "day" : 9,
+      "url" : "https://keisanki.at.webry.info/202112/article_9.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "算術演算　整数",
+      "author" : "@houmei",
+      "day" : 10,
+      "url" : "https://keisanki.at.webry.info/202112/article_10.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "算術演算　浮動小数点",
+      "author" : "@houmei",
+      "day" : 11,
+      "url" : "https://keisanki.at.webry.info/202112/article_11.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レジスタの仕組み",
+      "author" : "@houmei",
+      "day" : 12,
+      "url" : "https://keisanki.at.webry.info/202112/article_12.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "分岐命令",
+      "author" : "@houmei",
+      "day" : 13,
+      "url" : "https://keisanki.at.webry.info/202112/article_13.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "その他の命令",
+      "author" : "@houmei",
+      "day" : 14,
+      "url" : "https://keisanki.at.webry.info/202112/article_14.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モード",
+      "author" : "@houmei",
+      "day" : 15,
+      "url" : "https://keisanki.at.webry.info/202112/article_15.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC 基本方針　汎用レジスタ",
+      "author" : "@houmei",
+      "day" : 16,
+      "url" : "https://keisanki.at.webry.info/202112/article_16.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC 命令の分類",
+      "author" : "@houmei",
+      "day" : 17,
+      "url" : "https://keisanki.at.webry.info/202112/article_17.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC 論理演算命令",
+      "author" : "@houmei",
+      "day" : 18,
+      "url" : "https://keisanki.at.webry.info/202112/article_18.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC 算術演算命令",
+      "author" : "@houmei",
+      "day" : 19,
+      "url" : "https://keisanki.at.webry.info/202112/article_19.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC 分岐命令",
+      "author" : "@houmei",
+      "day" : 20,
+      "url" : "https://keisanki.at.webry.info/202112/article_20.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC ビット操作命令",
+      "author" : "@houmei",
+      "day" : 21,
+      "url" : "https://keisanki.at.webry.info/202112/article_21.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC ロードストア命令",
+      "author" : "@houmei",
+      "day" : 22,
+      "url" : "https://keisanki.at.webry.info/202112/article_22.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC オペランド、その他の命令",
+      "author" : "@houmei",
+      "day" : 23,
+      "url" : "https://keisanki.at.webry.info/202112/article_23.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC  割り込みやモード",
+      "author" : "@houmei",
+      "day" : 24,
+      "url" : "https://keisanki.at.webry.info/202112/article_24.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BKSC 特徴",
+      "author" : "@houmei",
+      "day" : 25,
+      "url" : "https://keisanki.at.webry.info/202112/article_25.html"
+    }
+  ]
+}

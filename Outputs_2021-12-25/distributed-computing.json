@@ -1,0 +1,144 @@
+{
+  "created_at" : "2021-12-25T20:53:37Z",
+  "calendar_meta_data" : {
+    "author" : "@yassan168",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 22,
+    "subscribers" : 14,
+    "title" : "Distributed computing (Apache Spark, Hadoop, Kafka, ...) Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "distributed-computing",
+    "url" : "https://qiita.com/advent-calendar/2021/distributed-computing"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache Kafka - カフカはデータベースの夢をみるか (前編)",
+      "author" : "@ShinHashitani",
+      "day" : 1,
+      "url" : "https://qiita.com/ShinHashitani/items/8b8403c391bd64ece54d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "よりセキュアなHadoopの作り方 〜 ApacheCon Asia 2021登壇報告",
+      "author" : "@2k0ri",
+      "day" : 2,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021120230233757/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache Kafka - カフカはデータベースの夢をみるか (後編)",
+      "author" : "@ShinHashitani",
+      "day" : 8,
+      "url" : "https://qiita.com/ShinHashitani/items/39f646333fc10ac5f42e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache NiFi 2021年の最新動向とヤフーでの活用スタイル",
+      "author" : "@kotarot",
+      "day" : 12,
+      "url" : "https://techblog.yahoo.co.jp/entry/2021121230233787/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のApache Hadoop振り返り",
+      "author" : "@aajisaka",
+      "day" : 13,
+      "url" : "https://aajisaka.hatenablog.com/entry/2021/12/13/235741"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@islandshinji"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@aajisaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@yassan168"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@kotarot"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Native Kafka - ZookeeperのいらないKafka",
+      "author" : "@ShinHashitani",
+      "day" : 22,
+      "url" : "https://qiita.com/ShinHashitani/items/f8f131748f4649926017"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Impala 4.0 とPresto 350によるSQLレシピ本の検証（１）",
+      "author" : "@kernel023",
+      "day" : 23,
+      "url" : "https://linux.wwing.net/WordPress/2021/12/23/sql_recipe_book_1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@aajisaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delta LakeのACIDトランザクションについて",
+      "author" : "@toshimitsuk",
+      "day" : 25,
+      "url" : "https://qiita.com/toshimitsuk/items/5dac76dddfe921cb8a47"
+    }
+  ]
+}

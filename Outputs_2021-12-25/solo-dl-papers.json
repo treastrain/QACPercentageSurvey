@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:22:11Z",
+  "calendar_meta_data" : {
+    "author" : "@koshian2",
+    "category" : "学術",
+    "lgtm" : 462,
+    "subscribers" : 98,
+    "title" : "2021年のディープラーニング論文を1人で読むAdvent Calendar Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "solo-dl-papers",
+    "url" : "https://qiita.com/advent-calendar/2021/solo-dl-papers"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "たった数クリックでセグメンテーションのマスクを作る！？　Edge Flowの紹介",
+      "author" : "@koshian2",
+      "day" : 1,
+      "url" : "https://qiita.com/koshian2/items/8beab322ff20228658d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【p値計算可能】TransformerでCTスキャンからCOVID-19を検出する論文の紹介",
+      "author" : "@koshian2",
+      "day" : 2,
+      "url" : "https://qiita.com/koshian2/items/6b2d10dde6a4b933d413"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "使うのは訓練済みStyleGANだけ！？　追加訓練なしで複数の画像合成タスクを実現する",
+      "author" : "@koshian2",
+      "day" : 3,
+      "url" : "https://qiita.com/koshian2/items/c69cd51a2087d9fa898a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "物体検出の回転は要注意！　回転は楕円で考えよう",
+      "author" : "@koshian2",
+      "day" : 4,
+      "url" : "https://qiita.com/koshian2/items/d672cc502edd64d9d91f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AnT：Transformerを使ったアニメーションの線画着色の自動化の論文紹介",
+      "author" : "@koshian2",
+      "day" : 5,
+      "url" : "https://qiita.com/koshian2/items/980f5d7fa55c08e2de6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【512pxで110FPS】ラプラシアンピラミッドを使った高速なスタイル変換LapStyleの紹介",
+      "author" : "@koshian2",
+      "day" : 6,
+      "url" : "https://qiita.com/koshian2/items/18b2201c15c603e02a01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【計算量削減】3DCNNで適応的に時間特徴を圧縮するSGS（Similarity Guided Sampling）の紹介",
+      "author" : "@koshian2",
+      "day" : 7,
+      "url" : "https://qiita.com/koshian2/items/5d782b92bbc0b3f3cce2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『CNNで生成された画像は驚くほど簡単に発見できる...今のところ』の再現実装の論文を読む",
+      "author" : "@koshian2",
+      "day" : 8,
+      "url" : "https://qiita.com/koshian2/items/456304104f391f02cbfc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AIで海洋ゴミを検出するためのデータセットの構築の論文",
+      "author" : "@koshian2",
+      "day" : 9,
+      "url" : "https://qiita.com/koshian2/items/7bbbdc993ade9067143c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ACGANの逆襲】新たな損失関数を導入してBigGAN超え！？",
+      "author" : "@koshian2",
+      "day" : 10,
+      "url" : "https://qiita.com/koshian2/items/f8800701cda9d993dca7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GANをカスタマイズ】数枚～数十枚のスケッチから特定構図が生成できる派生モデルを作る",
+      "author" : "@koshian2",
+      "day" : 11,
+      "url" : "https://qiita.com/koshian2/items/676828477cc07a4d8f78"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GANの訓練はGとD同時にできる！　訓練を33％以上高速化するOne Stage GAN（OSGAN）の紹介",
+      "author" : "@koshian2",
+      "day" : 12,
+      "url" : "https://qiita.com/koshian2/items/da19a8baaad419ebcf78"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GAN応用】Deformable Convを使ったフォント生成についての論文紹介【DG-Font】",
+      "author" : "@koshian2",
+      "day" : 13,
+      "url" : "https://qiita.com/koshian2/items/cfc5a73eb992a79ed274"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【フーリエ変換×畳み込み】低解像度で訓練しフルHDでも推論しても性能劣化がしにくいInpainting「LaMa」の紹介",
+      "author" : "@koshian2",
+      "day" : 14,
+      "url" : "https://qiita.com/koshian2/items/7184cfa790e1713842f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "X線による持ち込み禁止品の検査を、AIで自動化するための大規模データセットの構築",
+      "author" : "@koshian2",
+      "day" : 15,
+      "url" : "https://qiita.com/koshian2/items/981e9e728f9dd83effed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "勾配停止が最も重要！　Siamese Networkを限りなくシンプルにした表現学習SimSiamの紹介【教師なしCIFAR-10 91.8％】",
+      "author" : "@koshian2",
+      "day" : 16,
+      "url" : "https://qiita.com/koshian2/items/a31b85121c99af0eb050"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音声分類の前処理はメルスペクトログラムでOK？　従来のMFCCより高精度な画像分類ベースの論文の紹介",
+      "author" : "@koshian2",
+      "day" : 17,
+      "url" : "https://qiita.com/koshian2/items/ca99b4a489d164e9cec6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "不均衡データ対策は決定境界が大事！　ロスを変えてファインチューニングするだけで精度が上がる「Influence-Balanced Loss」の紹介",
+      "author" : "@koshian2",
+      "day" : 18,
+      "url" : "https://qiita.com/koshian2/items/52e4bdc682fc152fe05e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ResNet50/4K 33.2FPS】高解像度の動画をリアルタイムで人物切り抜き（Matting）できる論文の紹介【CVPR2021受賞】",
+      "author" : "@koshian2",
+      "day" : 19,
+      "url" : "https://qiita.com/koshian2/items/e08d1c0866b305288d2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PFN】株式のポートフォリオの最適化を深層学習ベースで行う研究",
+      "author" : "@koshian2",
+      "day" : 20,
+      "url" : "https://qiita.com/koshian2/items/4c5bd1c31bb157822671"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【De-Rendering】画像内のテキストを再編集する研究の紹介",
+      "author" : "@koshian2",
+      "day" : 21,
+      "url" : "https://qiita.com/koshian2/items/671dd28f204ca7b9ba3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【CutMix×オーバーサンプリング】単純明快！不均衡データ対策のデータレベルのアプローチ「Context-rich Minority Oversampling」【CMO】",
+      "author" : "@koshian2",
+      "day" : 22,
+      "url" : "https://qiita.com/koshian2/items/de898bd43afc7618520d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CVPR2021 Best Paperの『GIRAFFE』を徹底解説！　オブジェクト単位で変形でき、静止画から教師なしでDisentangleできる3Dレンダリングベースの生成モデルとは？",
+      "author" : "@koshian2",
+      "day" : 23,
+      "url" : "https://qiita.com/koshian2/items/0847b0f29655a6ec2e8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "前処理の改良でここまで伸びる！　実世界での画像劣化とのギャップに注目した超解像モデル「Real-ESRGAN」紹介",
+      "author" : "@koshian2",
+      "day" : 24,
+      "url" : "https://qiita.com/koshian2/items/bb1ceed4edd3753b9bad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実装から見るYOLOX：2021年のYOLOシリーズを超えて",
+      "author" : "@koshian2",
+      "day" : 25,
+      "url" : "https://qiita.com/koshian2/items/af032cb102f48e789e66"
+    }
+  ]
+}

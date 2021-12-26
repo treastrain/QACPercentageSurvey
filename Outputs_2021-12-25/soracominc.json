@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T22:24:32Z",
+  "calendar_meta_data" : {
+    "author" : "@naocom",
+    "category" : "企業・学校・団体",
+    "lgtm" : 87,
+    "subscribers" : 14,
+    "title" : "株式会社ソラコム Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "soracominc",
+    "url" : "https://qiita.com/advent-calendar/2021/soracominc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021 年版】IoT、始めるなら何から？SORACOM 性格診断",
+      "author" : "@n_mikuni",
+      "day" : 1,
+      "url" : "https://zenn.dev/n_mikuni/articles/03aed57cd5903b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algoliaで日本語サイトを全文検索させるときに確認する設定を説明しよう",
+      "author" : "@makoto-soracom",
+      "day" : 2,
+      "url" : "https://qiita.com/makoto-soracom/items/5b1b80d9cd6ea262b8aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソラコムで新規注文したSIMをグループに追加する作業をGoogle Spread sheet とGoogle Apps Scriptで処理する",
+      "author" : "@TakashiKOYANAGAWA",
+      "day" : 3,
+      "url" : "https://qiita.com/TakashiKOYANAGAWA/items/f4b5a8eff9272205d294"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "soracom-cli のちょっと便利な Tips",
+      "author" : "@bearmini",
+      "day" : 4,
+      "url" : "https://bearmini.hatenablog.com/entry/2021/12/03/231803"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM の最新情報が公開されている場所のまとめ",
+      "author" : "@ma2shita",
+      "day" : 5,
+      "url" : "https://qiita.com/ma2shita/items/0515c887e5c4f218f83c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM LTE-M Button を使ってノーコードで WFH の環境を改善した話 2021",
+      "author" : "@mash0321",
+      "day" : 6,
+      "url" : "https://qiita.com/mash0321/items/de7fa165c337801001d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Toit×Soracomでマイコンを使ったIoTをより簡単に！",
+      "author" : "@thekentiest",
+      "day" : 7,
+      "url" : "https://zenn.dev/kentiest/articles/1e59c293c357e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wio LTEと超音波センサーとLINEで作る「ただいまセンサー」",
+      "author" : "@makoto-soracom",
+      "day" : 8,
+      "url" : "https://qiita.com/makoto-soracom/items/ecabc42d74c994eaa77c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IoT ポスト with ひげボタン",
+      "author" : "@j3tm0t0",
+      "day" : 9,
+      "url" : "https://zenn.dev/j3tm0t0/articles/2c5fe090ac80b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IoT + AI/MLを考えた時にエッジ or クラウドどっちでAI/MLするのか",
+      "author" : "@okeee0315",
+      "day" : 10,
+      "url" : "https://zenn.dev/okeee/articles/12a0e2eef3759e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LTE-M Shield for Arduinoの初期設定・接続診断スケッチにまつわるあれこれ",
+      "author" : "@Plemling138",
+      "day" : 11,
+      "url" : "https://qiita.com/Plemling138/items/eb735aa97c849223c21e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プルアップとかUARTがちょっとわかるようになるお話",
+      "author" : "@y0k0ta19",
+      "day" : 12,
+      "url" : "https://qiita.com/y0k0ta19/items/d5554a0592e022b75f58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[動画付き] S+ Camera と SORACOM Lagoon で会議室の滞在人数を可視化する",
+      "author" : "@kanuu0504",
+      "day" : 13,
+      "url" : "https://qiita.com/kanuu0504/items/b17eabc471fb4b11c556"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fzf を使って SORACOM CLI をもっといい感じに補完する",
+      "author" : "@akirakono",
+      "day" : 14,
+      "url" : "https://qiita.com/akirakono/items/2ccc379a8ef1240f98d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM サービス更新情報の裏側をご紹介します",
+      "author" : "@pachirel",
+      "day" : 15,
+      "url" : "https://qiita.com/pachirel/items/9e3bf593b0908eb4a0d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "soratun を改造して AWS Lambda から簡単に SORACOM Arc を使ってみました",
+      "author" : "@0x6b",
+      "day" : 16,
+      "url" : "https://0x6b.github.io/soracom-arc-and-aws-lambda-extension/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM ArcをESP32のArduinoで動かすsoracom-arc-esp32-arduinoのご紹介",
+      "author" : "@moznion",
+      "day" : 17,
+      "url" : "https://moznion.hatenadiary.com/entry/2021/12/17/095957"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "S+ Camera Design 設置時のTips",
+      "author" : "@sachiki",
+      "day" : 18,
+      "url" : "https://qiita.com/sachiki/items/ec9f4099518e9d037eaf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOMで構成できるネットワークとNAT越えのさまざま",
+      "author" : "@imaifactory",
+      "day" : 19,
+      "url" : "https://imai-factory.hatenablog.com/entry/2021/12/19/164311"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GPS マルチユニット SORACOM Edition を使った見守りシステム",
+      "author" : "@kazntree",
+      "day" : 20,
+      "url" : "https://qiita.com/kazntree/items/fa8a9a7e7627f706f3c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BPFでSCTPの監視ツールを作ってみている話",
+      "author" : "@kengon",
+      "day" : 21,
+      "url" : "https://qiita.com/kengon/items/c1483d445b22dedfc683"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOM Lagoon で自宅の間取り図上に温湿度を表示する",
+      "author" : "@hara",
+      "day" : 22,
+      "url" : "https://zenn.dev/harry0sh/articles/soracom-lagoon-floormap"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セルラー接続の監視のはなし",
+      "author" : "@2matzzz",
+      "day" : 23,
+      "url" : "https://zenn.dev/2matzzz/articles/5dc6627104d9fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソラコムサンタより愛をこめて 2021",
+      "author" : "@NoriyukiEgi",
+      "day" : 24,
+      "url" : "https://blog.soracom.com/ja-jp/2021/12/24/soracom-santa-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソラコムサンタの振り返り",
+      "author" : "@c9katayama",
+      "day" : 25,
+      "url" : "https://c9katayama.hatenablog.com/entry/2021/12/25/130725"
+    }
+  ]
+}

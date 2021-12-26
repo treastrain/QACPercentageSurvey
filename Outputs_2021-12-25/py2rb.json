@@ -1,0 +1,350 @@
+{
+  "created_at" : "2021-12-25T17:40:16Z",
+  "calendar_meta_data" : {
+    "author" : "@superrino130",
+    "category" : "その他",
+    "lgtm" : 3,
+    "subscribers" : 1,
+    "title" : "Python to Ruby Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "py2rb",
+    "url" : "https://qiita.com/advent-calendar/2021/py2rb"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] set の差異",
+      "author" : "@superrino130",
+      "day" : 1,
+      "url" : "https://qiita.com/superrino130/items/5bd5832b1b9a1b8d677f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] basestring",
+      "author" : "@superrino130",
+      "day" : 2,
+      "url" : "https://qiita.com/superrino130/items/287ce7769f05bcb17f2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] not",
+      "author" : "@superrino130",
+      "day" : 3,
+      "url" : "https://qiita.com/superrino130/items/1dc0598e66a672026d22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] hasattr",
+      "author" : "@superrino130",
+      "day" : 4,
+      "url" : "https://qiita.com/superrino130/items/e48404e48995014c6c1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] repr() str()",
+      "author" : "@superrino130",
+      "day" : 5,
+      "url" : "https://qiita.com/superrino130/items/98f44dbac3b0d4c588ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] __slots__",
+      "author" : "@superrino130",
+      "day" : 6,
+      "url" : "https://qiita.com/superrino130/items/15d51f8b0726b379539e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] getattr",
+      "author" : "@superrino130",
+      "day" : 7,
+      "url" : "https://qiita.com/superrino130/items/7361cbc8c5e8945144a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] math.factorial",
+      "author" : "@superrino130",
+      "day" : 8,
+      "url" : "https://qiita.com/superrino130/items/e99b31945fc600dc74df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] __init__",
+      "author" : "@superrino130",
+      "day" : 9,
+      "url" : "https://qiita.com/superrino130/items/04a49e30474985453388"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] sys.exc_info",
+      "author" : "@superrino130",
+      "day" : 10,
+      "url" : "https://qiita.com/superrino130/items/a29159697ef73cc382f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] 多重継承",
+      "author" : "@superrino130",
+      "day" : 11,
+      "url" : "https://qiita.com/superrino130/items/364d856e08cff0e501d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] @property",
+      "author" : "@superrino130",
+      "day" : 12,
+      "url" : "https://qiita.com/superrino130/items/e0da3b44cb1f01f19a2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] for のスコープ",
+      "author" : "@superrino130",
+      "day" : 13,
+      "url" : "https://qiita.com/superrino130/items/dcb545456c1304c24a79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] sliceクラス",
+      "author" : "@superrino130",
+      "day" : 14,
+      "url" : "https://qiita.com/superrino130/items/81eac378b519a3c06782"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] 可変長引数",
+      "author" : "@superrino130",
+      "day" : 15,
+      "url" : "https://qiita.com/superrino130/items/8e2eb8b4472f1eb8222f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] namedtuple",
+      "author" : "@superrino130",
+      "day" : 16,
+      "url" : "https://qiita.com/superrino130/items/7f528b0b9b597a284779"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] re.findall",
+      "author" : "@superrino130",
+      "day" : 17,
+      "url" : "https://qiita.com/superrino130/items/760ca2c3b3cc74dc51fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] insert",
+      "author" : "@superrino130",
+      "day" : 18,
+      "url" : "https://qiita.com/superrino130/items/a6fbcfcae8bbe7f1cc9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] issubset",
+      "author" : "@superrino130",
+      "day" : 19,
+      "url" : "https://qiita.com/superrino130/items/198327f5ba61f74c67f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] extend",
+      "author" : "@superrino130",
+      "day" : 20,
+      "url" : "https://qiita.com/superrino130/items/28ae620e4d00ee838a4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] import",
+      "author" : "@superrino130",
+      "day" : 21,
+      "url" : "https://qiita.com/superrino130/items/bcbbb97d4c0ca3d9ade6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] slice の None",
+      "author" : "@superrino130",
+      "day" : 22,
+      "url" : "https://qiita.com/superrino130/items/a90d9793b7b385c068a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] set pop",
+      "author" : "@superrino130",
+      "day" : 23,
+      "url" : "https://qiita.com/superrino130/items/ce9c0cf517d46550576d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] dict の for",
+      "author" : "@superrino130",
+      "day" : 24,
+      "url" : "https://qiita.com/superrino130/items/8bbcc0137e0cc7becdb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[py2rb] merry christmas",
+      "author" : "@superrino130",
+      "day" : 25,
+      "url" : "https://qiita.com/superrino130/items/6c2908fa43f888643a47"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Ruby の module のインスタンス...",
+      "author" : "@superrino130",
+      "day" : 1,
+      "url" : "https://qiita.com/superrino130/items/2e96ff55d78fbcdb1414"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] __getitem__",
+      "author" : "@superrino130",
+      "day" : 2,
+      "url" : "https://qiita.com/superrino130/items/6ee29baf7f2bb668ff77"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] @staticmethod",
+      "author" : "@superrino130",
+      "day" : 3,
+      "url" : "https://qiita.com/superrino130/items/88db7a259f03153a4ef9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] 多重継承の２",
+      "author" : "@superrino130",
+      "day" : 4,
+      "url" : "https://qiita.com/superrino130/items/41f18544f92857ed0228"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] cls",
+      "author" : "@superrino130",
+      "day" : 5,
+      "url" : "https://qiita.com/superrino130/items/72676f66ce0f197f4cbd"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] setattr",
+      "author" : "@superrino130",
+      "day" : 6,
+      "url" : "https://qiita.com/superrino130/items/bc0345797bfd20609ede"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] __getstate__",
+      "author" : "@superrino130",
+      "day" : 7,
+      "url" : "https://qiita.com/superrino130/items/13746a5309c3e602034b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] re.compile",
+      "author" : "@superrino130",
+      "day" : 8,
+      "url" : "https://qiita.com/superrino130/items/40dd26a2b9d1a0722c32"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] yield",
+      "author" : "@superrino130",
+      "day" : 9,
+      "url" : "https://qiita.com/superrino130/items/88b7ec0da91615ab17fe"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] os.path.splitext",
+      "author" : "@superrino130",
+      "day" : 10,
+      "url" : "https://qiita.com/superrino130/items/0252856d704e367007f3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] デコレーター",
+      "author" : "@superrino130",
+      "day" : 11,
+      "url" : "https://qiita.com/superrino130/items/fdc50ee019be5da8bfdf"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] wraps",
+      "author" : "@superrino130",
+      "day" : 12,
+      "url" : "https://qiita.com/superrino130/items/6e745547d398de82187c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "VSCode で学ぶ define_method",
+      "author" : "@superrino130",
+      "day" : 13,
+      "url" : "https://qiita.com/superrino130/items/e7c7bad1d2f045a66c8e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] deque",
+      "author" : "@superrino130",
+      "day" : 14,
+      "url" : "https://qiita.com/superrino130/items/9ce2dce12c64776fe625"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] re.finditer",
+      "author" : "@superrino130",
+      "day" : 15,
+      "url" : "https://qiita.com/superrino130/items/c69516f51c52b2474562"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] itertools.chain",
+      "author" : "@superrino130",
+      "day" : 16,
+      "url" : "https://qiita.com/superrino130/items/6397b93a840854146755"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] self.extend",
+      "author" : "@superrino130",
+      "day" : 17,
+      "url" : "https://qiita.com/superrino130/items/ce795259e443b07a41ee"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] re.finditer 2",
+      "author" : "@superrino130",
+      "day" : 18,
+      "url" : "https://qiita.com/superrino130/items/09f89dbb90b2056b7541"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] isupper isalpha",
+      "author" : "@superrino130",
+      "day" : 19,
+      "url" : "https://qiita.com/superrino130/items/b211843914528fcf83c9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[py2rb] Iterable",
+      "author" : "@superrino130",
+      "day" : 20,
+      "url" : "https://qiita.com/superrino130/items/cf1249b97bd15ccdd366"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

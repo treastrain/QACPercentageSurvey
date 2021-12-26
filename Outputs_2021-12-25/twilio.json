@@ -1,0 +1,280 @@
+{
+  "created_at" : "2021-12-26T05:32:39Z",
+  "calendar_meta_data" : {
+    "author" : "@Neri78",
+    "category" : "プレゼント",
+    "lgtm" : 35,
+    "subscribers" : 15,
+    "title" : "Twilioを使うためのコツ、TIPSなど、Twilioのことなら何でも共有しよう！【PR】Twilio Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "twilio",
+    "url" : "https://qiita.com/advent-calendar/2021/twilio"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "SIGNALで発表されたTwilioQuest 3.2を使って自分だけのエクステンションを作成するには",
+      "author" : "@Neri78",
+      "day" : 1,
+      "url" : "https://www.twilio.com/blog/signal-twilioquest-extension-jp"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Segmentで様々なデータを集める",
+      "author" : "@kikutaro",
+      "day" : 2,
+      "url" : "https://qiita.com/kikutaro/items/f210cd4b2cf6be9b79bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "在宅勤務のため会社の代表電話をTwilio Studioで作成した自動応答にして１年半運用している話",
+      "author" : "@kuwazzy",
+      "day" : 3,
+      "url" : "https://qiita.com/kuwazzy/items/600a6d6beca4378d0b3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "視覚障害者向けのコンタクトセンターを作ってみた",
+      "author" : "@yagi_",
+      "day" : 4,
+      "url" : "https://qiita.com/yagi_/items/bfc54808d3c97dc32f29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Super SIMを買ってみた",
+      "author" : "@kikutaro",
+      "day" : 5,
+      "url" : "https://qiita.com/kikutaro/items/8e72305f0c9b5eb48538"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "問い合わせ電話を受けつつ、顧客データを検索したい",
+      "author" : "@kyart_tokyo",
+      "day" : 6,
+      "url" : "https://qiita.com/kyart_tokyo/items/9d8ae861e125fb393aca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そのビデオ通話，そろそろ終わりません？",
+      "author" : "@masibw",
+      "day" : 7,
+      "url" : "https://qiita.com/masibw/items/14a09b3c03da05be8a3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilioで受け取ったSMSをTeamsに投稿する",
+      "author" : "@gx_chan",
+      "day" : 8,
+      "url" : "https://qiita.com/gx_chan/items/0709d198f04f4de94531"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「はじめてのTwilio」読書会を開催しました。",
+      "author" : "@takeshifurusato",
+      "day" : 9,
+      "url" : "https://takeshi.furusato.blog/reading_event_twilio_101.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio SMS で脱PPAP",
+      "author" : "@AnaKutsu",
+      "day" : 10,
+      "url" : "https://qiita.com/AnaKutsu/items/f3c3a1080dee1fc5e232"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Programmable Videoでボイスチェンジャーやバーチャル背景を実装する",
+      "author" : "@yagi_",
+      "day" : 11,
+      "url" : "https://qiita.com/yagi_/items/bd84946ed4672842f57b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Tips:Twilio Studioを利用し、電話周りの実装をシンプルにする",
+      "author" : "@oic0310",
+      "day" : 12,
+      "url" : "https://qiita.com/oic0310/items/a3c73b58dd0dc54a6a59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio Studio stepsを使用して複数Flow内で同期をとる方法と注意点",
+      "author" : "@TaichiN1117",
+      "day" : 13,
+      "url" : "https://qiita.com/TaichiN1117/items/5ac13c3f64b9b9f5dc1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@rhykw"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Railsで相手が応答しなかった場合にリコールする機能を作ってみた",
+      "author" : "@N04h",
+      "day" : 15,
+      "url" : "https://zenn.dev/n04h/articles/twilio_recall_with_rails"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "極度の電話嫌いが、電話にチャットで返信できるサービスを作ってみた",
+      "author" : "@cilto",
+      "day" : 16,
+      "url" : "https://qiita.com/cilto/items/9f8f3c886799e593c75d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@yuto-ktok"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TwilioとGolangで理解してサクッと作る発着信Webアプリ",
+      "author" : "@PlanetMeron",
+      "day" : 18,
+      "url" : "https://qiita.com/PlanetMeron/items/f1ba3e468cc4ae9c6f2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Twilio】ノーコードでお手軽に顧客からの電話をSalesforce上の担当者へSlack通知してみた",
+      "author" : "@yuki0101",
+      "day" : 19,
+      "url" : "https://qiita.com/yuki0101/items/2f77c0ea5c1393990c57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音声のCSS！Text to Speechを活用しよう",
+      "author" : "@masaya3",
+      "day" : 20,
+      "url" : "https://qiita.com/masaya3/items/90e5e143be2ea3e4f965"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@yoshikyoto"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@taptappun"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio 録音セキュリティの考察と実装",
+      "author" : "@kimihom",
+      "day" : 23,
+      "url" : "https://www.bokukoko.info/entry/2021/12/23/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystemsからTwilio APIを呼び出してSMSを送信",
+      "author" : "@Neri78",
+      "day" : 24,
+      "url" : "https://zenn.dev/neri78/articles/e8aab46e36000f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Pig"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

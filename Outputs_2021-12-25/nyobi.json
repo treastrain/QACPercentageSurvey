@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T03:23:00Z",
+  "calendar_meta_data" : {
+    "author" : "@hakoeda",
+    "category" : "企業・学校・団体",
+    "lgtm" : 163,
+    "subscribers" : 5,
+    "title" : "N予備校プログラミングコース Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "nyobi",
+    "url" : "https://qiita.com/advent-calendar/2021/nyobi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜",
+      "author" : "@HelloRusk",
+      "day" : 1,
+      "url" : "https://qiita.com/HelloRusk/items/073b58c1605de224e67e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "N予備校のプログラミングコースの受講を続けています（感想）",
+      "author" : "@nrt0",
+      "day" : 2,
+      "url" : "https://walkdd2.blogspot.com/2021/12/n.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チーム開発のハードルを下げる",
+      "author" : "@satsukizzz",
+      "day" : 3,
+      "url" : "https://qiita.com/satsukizzz/items/c2cec68c25b979731efa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアじゃなくても、プログラミングは便利だ！",
+      "author" : "@moesuke",
+      "day" : 4,
+      "url" : "https://qiita.com/moesuke/items/c3d6a11df2f548b8f7a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入門コースに挑戦する人にアドバイス",
+      "author" : "@penpen_dev",
+      "day" : 5,
+      "url" : "https://penpen-dev.com/blog/nyobikou-puroguraminngu-2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学生がSEになるためにやってよかったこと",
+      "author" : "@Qohey",
+      "day" : 6,
+      "url" : "https://qiita.com/Qohey/items/e5eee4682af61762fdfe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「先生もわかんないや、誰か教えて？」",
+      "author" : "@yuhkitakada",
+      "day" : 7,
+      "url" : "https://note.com/balicpapan/n/n15e93aa5b76e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人は世界とネットでつながっているのだ-インターネットが世界という概念に起こしたパラダイムシフト-",
+      "author" : "@oosakiken1",
+      "day" : 8,
+      "url" : "https://qiita.com/oosakiken1/items/23014c70480f0dede951"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "就職・転職に有利！「コミュニケーション能力」「礼儀・マナースキル」を高めるには○○力をきたえよう！",
+      "author" : "@chikako2020",
+      "day" : 9,
+      "url" : "https://note.com/chikako_minimini/n/ndd8b1e5d5a4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "N予備校のプログラミング座談会で1年間話したこと",
+      "author" : "@hakoeda",
+      "day" : 10,
+      "url" : "https://qiita.com/hakoeda/items/e4c76fec2b8f629864b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Chromeのデベロッパーツールはとても便利",
+      "author" : "@rabeneko",
+      "day" : 11,
+      "url" : "https://qiita.com/rabeneko/items/9c4db1a95b8bfe770b6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "micro:bitと戯れる",
+      "author" : "@s-hayase",
+      "day" : 12,
+      "url" : "https://note.com/s_hayase/n/n2f8977b1e719"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "💪まいにちN予備写経体操💪 〜前腕反射筋は裏切らない〜",
+      "author" : "@n_oga",
+      "day" : 13,
+      "url" : "https://qiita.com/n_oga/items/c1e17bc4f0321110d508"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "N予備校プログラミングコースの感想（9ヶ月目）",
+      "author" : "@kenton116",
+      "day" : 14,
+      "url" : "https://qiita.com/kenton116/items/5920e205b5567bba6640"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「私がプログラマーを目指すまで」",
+      "author" : "@ihwka",
+      "day" : 15,
+      "url" : "https://gist.github.com/ihwka/f06cfd5f685b9c08e9c4330545b04dd6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "できる！アプリケーションコンテストの審査員",
+      "author" : "@D_drAAgon",
+      "day" : 16,
+      "url" : "https://qiita.com/D_drAAgon/items/fde85cb53bb990467daa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "N予備校で講師をして約1年になります",
+      "author" : "@rabeneko",
+      "day" : 17,
+      "url" : "https://qiita.com/rabeneko/items/4a5d8195d65389ec44d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あらためて JavaScript の配列用関数の戻り値を調べてみた",
+      "author" : "@yu-rie",
+      "day" : 18,
+      "url" : "https://qiita.com/yu-rie/items/00134c90f4d87c6c9141"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSとC言語を比べてみる",
+      "author" : "@s-hayase",
+      "day" : 19,
+      "url" : "https://note.com/s_hayase/n/n7adb326ff4d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " IoT技術によってより確実に起床する",
+      "author" : "@BlueZhiaar",
+      "day" : 20,
+      "url" : "https://yellowerable.kagome-kagome.com/zakki/%E7%A7%81%E3%81%8C%E6%9C%9D%E8%B5%B7%E3%81%8D%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "slackのエモティコンについて",
+      "author" : "@fuuchin",
+      "day" : 21,
+      "url" : "https://qiita.com/fuuchin/items/2d29d51160da9f297c95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeの便利機能について",
+      "author" : "@kenton116",
+      "day" : 22,
+      "url" : "https://qiita.com/kenton116/items/6ba6bef0ec6983093ea2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "数式が書けるチャットアプリを作りました【TS/NextJS】",
+      "author" : "@taigaozawa",
+      "day" : 23,
+      "url" : "https://qiita.com/taigaozawa/items/b3bfc5a333fa9c706386"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "突貫！CSS！",
+      "author" : "@asazuke",
+      "day" : 24,
+      "url" : "https://qiita.com/asazuke/items/600b023b1f064d47760b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nintendo Switch の「スマートフォンへ送る」を支える技術",
+      "author" : "@HelloRusk",
+      "day" : 25,
+      "url" : "https://qiita.com/HelloRusk/items/6f4bae28d5389dea1dc1"
+    }
+  ]
+}

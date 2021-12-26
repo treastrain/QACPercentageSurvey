@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-25T22:34:03Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社アプトポッド",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 0,
+    "title" : "aptpod Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "aptpod",
+    "url" : "https://qiita.com/advent-calendar/2021/aptpod"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "数字でみてみるアプトポッド",
+      "author" : "@aptpod-dev",
+      "day" : 1,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/01/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインガイドライン制作で意識するポイント7つ",
+      "author" : "@aptpod-dev",
+      "day" : 2,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/02/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust+uinputでキー入力カスタマイズ ついでにdebパッケージ化する",
+      "author" : "@aptpod-dev",
+      "day" : 3,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/03/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon API Gateway での相互 TLS 認証をちゃんとやる",
+      "author" : "@aptpod-dev",
+      "day" : 6,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/06/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプトポッドに入社してみた２",
+      "author" : "@aptpod-dev",
+      "day" : 7,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/07/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Adobe XDを使ってフリートマップのプロトタイプを作る方法",
+      "author" : "@aptpod-dev",
+      "day" : 8,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/08/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " Linuxでアナログデータ扱うためにEDGEPLANT ANALOG-USB Interfaceを利用する",
+      "author" : "@aptpod-dev",
+      "day" : 9,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/09/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " iOSとOBD-IIで車両データを取得する",
+      "author" : "@aptpod-dev",
+      "day" : 10,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/10/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバサイド開発で使用している技術を紹介",
+      "author" : "@aptpod-dev",
+      "day" : 13,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/13/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EDGEPLANT T1でVPI使ってリアルタイム画像処理をやってみた",
+      "author" : "@aptpod-dev",
+      "day" : 14,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/14/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "え？そうなの！？ アプトポッドQAのお仕事",
+      "author" : "@aptpod-dev",
+      "day" : 15,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/15/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bluetooth Low EnergyのclientアプリをBlueZとpythonで作ってみた",
+      "author" : "@aptpod-dev",
+      "day" : 16,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/16/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "intdash_ros2bridgeの伝送遅延をrosbridge_serverと比較する",
+      "author" : "@aptpod-dev",
+      "day" : 17,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/17/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ひとりドキュメント担当」の仕事",
+      "author" : "@aptpod-dev",
+      "day" : 20,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/20/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Backup へのバックアップシステムの移行",
+      "author" : "@aptpod-dev",
+      "day" : 21,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/21/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IoTボタンによる回数記録基盤をAWSとRaspberry Piで構築する",
+      "author" : "@aptpod-dev",
+      "day" : 22,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/22/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Yup と i18next を使ったスキーマの単体テストを作ってみた",
+      "author" : "@aptpod-dev",
+      "day" : 23,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/23/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "またまた激動過ぎた2021年を振り返る",
+      "author" : "@aptpod-dev",
+      "day" : 24,
+      "url" : "https://tech.aptpod.co.jp/entry/2021/12/24/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "created_at" : "2021-12-25T23:41:07Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社TORICO",
+    "category" : "企業・学校・団体",
+    "lgtm" : 60,
+    "subscribers" : 6,
+    "title" : "株式会社TORICO Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "torico",
+    "url" : "https://qiita.com/advent-calendar/2021/torico"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleDriveに格納しているファイルを一括ダウンロードするPythonスクリプト",
+      "author" : "@T0000N",
+      "day" : 1,
+      "url" : "https://qiita.com/T0000N/items/4526debeb4116dfd7905"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "このコード、臭う……場末なWebアプリ開発現場に漂うコードスメル 12選",
+      "author" : "@ytyng",
+      "day" : 2,
+      "url" : "https://qiita.com/ytyng/items/c5a11fe0def2855f446f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@T0000N"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@T0000N"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者エンジニアが多用したGitコマンド",
+      "author" : "@kaito-2021",
+      "day" : 6,
+      "url" : "https://qiita.com/kaito-2021/items/aaba229a29e6d23307f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新入社員が入社後数ヶ月でコミックリーダーアプリのレビュースコアを 1.4 → 4.7 に改善した話",
+      "author" : "@KosukeSaigusa",
+      "day" : 7,
+      "url" : "https://tech.torico-corp.com/blog/improve-mz-reader-app-review-score/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタムユーザー使っている時のAdminの継承先はUserAdminにするといいよ？",
+      "author" : "@stbtkhr",
+      "day" : 8,
+      "url" : "https://qiita.com/stbtkhr/items/82b4901a4cf4afc09a85"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@rkiyose"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "約3年間Flutter で開発してきてのあれやこれや",
+      "author" : "@0maru",
+      "day" : 10,
+      "url" : "https://zenn.dev/0maru/articles/262c0f8ad52a0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@T0000N"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@T0000N"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テキストを行ごとにキー,値,キー,値という辞書(連想配列)にするコードをチームみんなで書いた",
+      "author" : "@ytyng",
+      "day" : 13,
+      "url" : "https://qiita.com/ytyng/items/71b6e60f5c5d0a6fef3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@KosukeSaigusa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@namtok"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@stbtkhr"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter でECアプリを新規開発してみて",
+      "author" : "@0maru",
+      "day" : 17,
+      "url" : "https://zenn.dev/0maru/articles/d8362fa9b95167"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@T0000N"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@T0000N"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@rkiyose"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@namtok"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@ytyng"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「漫画全巻ドットコム」の人事が2021年に社販したマンガ【ゆく年くる年】",
+      "author" : "@toricoPRHR",
+      "day" : 23,
+      "url" : "https://note.com/toricoprhr/n/n148fc597879b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@kaito-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@T0000N"
+    }
+  ]
+}

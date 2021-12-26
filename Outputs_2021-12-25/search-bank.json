@@ -1,0 +1,134 @@
+{
+  "created_at" : "2021-12-25T18:18:28Z",
+  "calendar_meta_data" : {
+    "author" : "@mountlong",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "SearchBank Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "search-bank",
+    "url" : "https://qiita.com/advent-calendar/2021/search-bank"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Hyper-VとDocker for Windowsは共存できるのか？",
+      "author" : "@mountlong",
+      "day" : 1,
+      "url" : "https://search-bank.net/article.php?id=624"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@mountlong"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【失敗①】M1 MacでWindowsを動かすParallelsで",
+      "author" : "@sekizo_searchbank",
+      "day" : 11,
+      "url" : "https://search-bank.net/article.php?id=628"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【失敗②】M1 MacでWindowsを動かすParallelsで",
+      "author" : "@sekizo_searchbank",
+      "day" : 12,
+      "url" : "https://search-bank.net/article.php?id=629"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【成功！】M1 MacでWindowsを動かすParallelsで",
+      "author" : "@sekizo_searchbank",
+      "day" : 13,
+      "url" : "https://search-bank.net/article.php?id=630"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【注意点あり】Parallels Desktopの購入手順・方法",
+      "author" : "@sekizo_searchbank",
+      "day" : 14,
+      "url" : "https://search-bank.net/article.php?id=632"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【全ユーザー対象】Twitterスペースの録音方法について",
+      "author" : "@sekizo_searchbank",
+      "day" : 15,
+      "url" : "https://search-bank.net/article.php?id=634"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

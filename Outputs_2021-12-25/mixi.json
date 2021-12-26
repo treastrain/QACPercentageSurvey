@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T01:10:31Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ミクシィ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 56,
+    "subscribers" : 20,
+    "title" : "ミクシィグループ Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "mixi",
+    "url" : "https://qiita.com/advent-calendar/2021/mixi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ゼロトラストプロキシで部署異動を監視する",
+      "author" : "@matsubara0507",
+      "day" : 1,
+      "url" : "https://mixi-developers.mixi.co.jp/ztp-with-departments-b630eeb63a4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゼロトラストプロキシでブラウザのバージョンを制限する",
+      "author" : "@matsubara0507",
+      "day" : 2,
+      "url" : "https://medium.com/mixi-developers/ztp-with-browser-version-57e5a6ec064e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ITU-R BT.709をよく読まずに変換してハマった話",
+      "author" : "@junpei_y",
+      "day" : 3,
+      "url" : "https://mixi-developers.mixi.co.jp/rgba-8bit%E3%81%A8ycbcr-422-10bit%E3%81%AE%E5%A4%89%E6%8F%9B%E3%81%A8itu-r-bt-709%E3%81%AE%E8%A9%B1-3d4ff6702d00"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Astro を使って Lit を SSG する",
+      "author" : "@YutaroYoshikawa",
+      "day" : 4,
+      "url" : "https://qiita.com/YutaroYoshikawa/items/9e6f1891ad222c5c71b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windowsで(Yubikeyを使って)GPGでSSHする",
+      "author" : "@mecaota",
+      "day" : 5,
+      "url" : "https://qiita.com/mecaota/items/3fde684c205fb44bec6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lambda + Go + terraformでAWSの料金をSlack通知してみた",
+      "author" : "@shota-sa-ito",
+      "day" : 6,
+      "url" : "https://qiita.com/shota-sa-ito/items/d10a4499d5f82f6cd0eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Cognitoの構築・アプリケーションとの連携",
+      "author" : "@kbdlve",
+      "day" : 7,
+      "url" : "https://qiita.com/kbdlve/items/f3a80b6e99650bfab294"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gRPC + Locust +  boomerで負荷試験をしてみた",
+      "author" : "@shka0909",
+      "day" : 8,
+      "url" : "https://qiita.com/shka0909/items/ea0ec3ddaecb3dfa8239"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "harファイルくれっていわれるとハァ？って言いたくなる話",
+      "author" : "@naoki_kameyama",
+      "day" : 9,
+      "url" : "https://qiita.com/naoki_kameyama/items/45f560fa0ee0bf898ec6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロジェクト・マネジメントと聞いて蕁麻疹がでそうになるあなたへ 〜 ありがちな誤解 〜",
+      "author" : "@esugita",
+      "day" : 10,
+      "url" : "https://mixi-developers.mixi.co.jp/resolving-common-misconceptions-about-project-management-with-pmbok7th-a33378df190"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform のバージョンをアップグレードしようとしたら謎の差分に悩まされた話",
+      "author" : "@bbq-all-stars",
+      "day" : 11,
+      "url" : "https://qiita.com/bbq-all-stars/items/25a2266032bc8aef90e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GithubActionsを使ってGithubプロジェクトを使いやすくする",
+      "author" : "@cgetc",
+      "day" : 12,
+      "url" : "https://qiita.com/cgetc/items/a417e6108ec7973f7ec7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音楽プレイヤーMopidyをGoogle Cloud上に設置した話",
+      "author" : "@m77so",
+      "day" : 13,
+      "url" : "https://qiita.com/m77so/items/3a42c2f01be036cb0ba0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "k8s the hard wayやってみた",
+      "author" : "@soiya1919",
+      "day" : 14,
+      "url" : "https://mixi-developers.mixi.co.jp/kubernetes-the-hard-way-7be395e44b49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kubeconformで楽にKubernetes Manifestをチェックする",
+      "author" : "@riddle",
+      "day" : 15,
+      "url" : "https://mixi-developers.mixi.co.jp/kubeconform-2bb477371e06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "途切れにくい輪読会スタイルの提案",
+      "author" : "@arrowKato",
+      "day" : 16,
+      "url" : "https://qiita.com/arrowKato/items/9e0baf2c96973cc7b154"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内で書いたデザインドキュメントを(ほぼ)そのまま公開します",
+      "author" : "@genkami",
+      "day" : 17,
+      "url" : "https://mixi-developers.mixi.co.jp/design-doc-a6cd1c015ff3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SECCON CTF 2021 スコアサーバー writeup",
+      "author" : "@atpons",
+      "day" : 18,
+      "url" : "https://atpons.hateblo.jp/entry/20211218/1639758084"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASを使ってGoogleSlideを画像化してDiscordのWebhookで投稿する",
+      "author" : "@orange634nty",
+      "day" : 19,
+      "url" : "https://zenn.dev/orange634nty/articles/2e3bed40f1e4ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私がUnityプロジェクトを作成したら必ず入れるアセット４選！",
+      "author" : "@manntera_studio",
+      "day" : 20,
+      "url" : "https://qiita.com/manntera_studio/items/3ce686865823865f40fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モバイルアプリにおける読み込み処理周りのUIパターンとSwiftUIによる実装例",
+      "author" : "@rockname",
+      "day" : 21,
+      "url" : "https://zenn.dev/rockname/articles/0a0e8e603455ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「開発環境の使用状況分かるくん」を作って冗長コミュニケーションを無くした話",
+      "author" : "@syossan27",
+      "day" : 22,
+      "url" : "https://syossan.hateblo.jp/entry/2021/12/22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GradleのVersion catalogでAndroidアプリのライブラリを管理する",
+      "author" : "@oidy",
+      "day" : 23,
+      "url" : "https://mixi-developers.mixi.co.jp/version-catalog-3c76d3a3e089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deepmap/oapi-codegen のカスタムテンプレートで required array が null で返ってしまうのを防ぐ",
+      "author" : "@neglect_yp",
+      "day" : 24,
+      "url" : "https://qiita.com/neglect_yp/items/901ac8547b0a0c3f1e22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustのAPIサーバーでCloud Loggingにいい感じにログを出す旅",
+      "author" : "@Taillook",
+      "day" : 25,
+      "url" : "https://qiita.com/Taillook/items/3a3c7c3052ad1966bd6c"
+    }
+  ]
+}

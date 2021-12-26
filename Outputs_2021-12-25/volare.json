@@ -1,0 +1,176 @@
+{
+  "created_at" : "2021-12-26T03:17:43Z",
+  "calendar_meta_data" : {
+    "author" : "@riita10069",
+    "category" : "企業・学校・団体",
+    "lgtm" : 233,
+    "subscribers" : 3,
+    "title" : "Volare Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "volare",
+    "url" : "https://qiita.com/advent-calendar/2021/volare"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウドが好きな大学生が読んで良さげだった本を紹介する",
+      "author" : "@riita10069",
+      "day" : 1,
+      "url" : "https://qiita.com/riita10069/items/6a6e4aaa273ef3ddc257"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QUICパケットの観察",
+      "author" : "@tomokon",
+      "day" : 2,
+      "url" : "https://qiita.com/tomokon/items/e1c6d62d12a323908b54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大学の講義資料のダウンロードをPythonで自動化してしまった話",
+      "author" : "@riita10069",
+      "day" : 3,
+      "url" : "https://qiita.com/riita10069/items/0f20920603db696d6998"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NoSQLのテーブル設計手法",
+      "author" : "@waddy",
+      "day" : 4,
+      "url" : "https://www.ais.cmc.osaka-u.ac.jp/technology/nosql%e3%81%ae%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab%e8%a8%ad%e8%a8%88%e6%89%8b%e6%b3%95/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPでよく使う定数、関数、変数からMVCモデル,Object指向について考えた",
+      "author" : "@ooitanojohn",
+      "day" : 5,
+      "url" : "https://qiita.com/ooitanojohn/items/dbcf45dbb691052ce0c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AsyncValueを使用したAPI通信の実装【Flutter】",
+      "author" : "@yuchiro22",
+      "day" : 6,
+      "url" : "https://qiita.com/yuchiro22/items/209a007d35b6c98d4376"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECS Blue/GreenデプロイメントのCI/CDパイプライン構築 by Terraform",
+      "author" : "@tomokon",
+      "day" : 7,
+      "url" : "https://qiita.com/tomokon/items/eea60082e3210a2cf6b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mac初心者がアプリ入れて使いやすくなったことを言いたい記事",
+      "author" : "@sleepy_cat",
+      "day" : 8,
+      "url" : "https://qiita.com/sleepy_cat/items/ca73a36cf5b889144420"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby サーバーレスフレームワーク \"SOULs\"",
+      "author" : "@sohey",
+      "day" : 9,
+      "url" : "https://qiita.com/sohey/items/fd5127b931bfd1f2f4ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@Tommy0904"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "42Tokyo9月Piscine",
+      "author" : "@acccco",
+      "day" : 11,
+      "url" : "https://qiita.com/acccco/items/dd71ea93dd79681f942a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウミガメのスープ式発想法を考えたので実施してみた。",
+      "author" : "@reerishun",
+      "day" : 12,
+      "url" : "https://note.com/reerishun/n/nfa4e987605d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非同期に使われるPub/SubモデルのPush方式とPull方式ってどう違うの？",
+      "author" : "@riita10069",
+      "day" : 13,
+      "url" : "https://qiita.com/riita10069/items/40b1bcc36c25b197077c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードレビューの大切さを知ろう",
+      "author" : "@hihumikan",
+      "day" : 14,
+      "url" : "https://qiita.com/hihumikan/items/fe47b08f822587cfb477"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@mikiko_bridge"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@ishishow"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@Noshinn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@Ryuya_KusozkoImomusi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@tsurumi000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【DRF】Django Rest Framework で入力を受け付けられる SerializerMethodField を使いたい",
+      "author" : "@yusk_1860",
+      "day" : 20,
+      "url" : "https://qiita.com/yusk_1860/items/cddd0025fef3fe53a395"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Android] Roomの@RawQueryの使いどころ",
+      "author" : "@shiita0903",
+      "day" : 21,
+      "url" : "https://qiita.com/shiita0903/items/a4feb0e7c56bc6c6bf09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSなんもわからん人におすすめ！！！",
+      "author" : "@mikiko_bridge",
+      "day" : 22,
+      "url" : "https://qiita.com/mikiko_bridge/items/b0213ad5993165321aa1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@hourglasshoro"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenTelemetryをざっくりと知る",
+      "author" : "@ffjlabo",
+      "day" : 24,
+      "url" : "https://qiita.com/ffjlabo/items/187f22791195f568b4c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "トラックパッドを極力触りたくないので、キーボードだけで解決する",
+      "author" : "@hihumikan",
+      "day" : 25,
+      "url" : "https://qiita.com/hihumikan/items/0e3f0406798ab83a0769"
+    }
+  ]
+}

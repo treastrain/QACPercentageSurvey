@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T04:05:25Z",
+  "calendar_meta_data" : {
+    "author" : "エムスリー株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 42,
+    "title" : "エムスリー Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "m3",
+    "url" : "https://qiita.com/advent-calendar/2021/m3"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "検索エンジンのABテストで発生するユーザー内相関を突破する",
+      "author" : "@po3rin",
+      "day" : 1,
+      "url" : "https://www.m3tech.blog/entry/search-ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社用PCで使うために完全オフラインで軽量なマークダウンエディタを自作した",
+      "author" : "@asmsuechan",
+      "day" : 2,
+      "url" : "https://www.m3tech.blog/entry/2021/12/02/150052"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WireMock と Locust を使った、手軽で再現性の高い *リバースプロキシの* 性能試験",
+      "author" : "@no_clock",
+      "day" : 3,
+      "url" : "https://www.m3tech.blog/entry/performance-test-with-wiremock-and-locust"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GKEでOOMなどの異常eventをslack通知する",
+      "author" : "@yokomotod",
+      "day" : 4,
+      "url" : "https://www.m3tech.blog/entry/gke-events-log-monitoring"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QA 組織の開発組織との関わり方",
+      "author" : "@kubota_junshi",
+      "day" : 5,
+      "url" : "https://www.m3tech.blog/entry/2021/12/05/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaのutilメソッドがKotlin拡張関数のなかまになりたそうにこちらをみている！",
+      "author" : "@oboenikui",
+      "day" : 6,
+      "url" : "https://www.m3tech.blog/entry/2021-12-06-kotlin-like-java"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そのEFSって自動バックアップでいいんでしたっけ?",
+      "author" : "@AkiraGoto",
+      "day" : 7,
+      "url" : "https://www.m3tech.blog/entry/2021/12/07/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "k8s上でCronJobの終了を検知してJobを実行する",
+      "author" : "@kitagry",
+      "day" : 8,
+      "url" : "https://www.m3tech.blog/entry/k8s-eventjob"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LookerによるダッシュボードのアーキテクチャとTerraform providerの実装と運用",
+      "author" : "@SassaHero@github",
+      "day" : 9,
+      "url" : "https://www.m3tech.blog/entry/looker-dashboard-architecture"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウド電子カルテに頑張らないデザインシステムを導入する",
+      "author" : "@abouch",
+      "day" : 10,
+      "url" : "https://www.m3tech.blog/entry/2021/12/10/180000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習で逆ストリートビューを作り、写真から港区らしさを判定する",
+      "author" : "@Hi-king",
+      "day" : 11,
+      "url" : "https://www.m3tech.blog/entry/photo2geo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェアテスト自動化カンファレンス2021に登壇しました",
+      "author" : "@yuki_shiro_823",
+      "day" : 12,
+      "url" : "https://www.m3tech.blog/entry/2021/12/12/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS FargateのARM(Graviton2)は使うべき? (2021年12月時点)",
+      "author" : "@fukubaya",
+      "day" : 13,
+      "url" : "https://www.m3tech.blog/entry/2021/12/13/110318"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エムスリーの IaC 3年史（と、インフラのこれから）",
+      "author" : "@utrhira",
+      "day" : 14,
+      "url" : "https://www.m3tech.blog/entry/m3infra-3-years-history"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elastic Cloudのインフラのスペックを忘れずに元に戻す",
+      "author" : "@snowhork",
+      "day" : 15,
+      "url" : "https://www.m3tech.blog/entry/2021/12/15/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "数量を機械学習で当てる　モデル作成時の工夫と性能説明手法",
+      "author" : "@mski_iksm",
+      "day" : 16,
+      "url" : "https://www.m3tech.blog/entry/predicting-quantity-ml"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1つのキーだけのキーボードを作る",
+      "author" : "@jirokun",
+      "day" : 17,
+      "url" : "https://www.m3tech.blog/entry/2021/12/17/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M1 Mac に古い ruby をインストールしてみたけど業務利用を諦めた話",
+      "author" : "@sonodar",
+      "day" : 18,
+      "url" : "https://www.m3tech.blog/entry/m1-mac-old-ruby"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Springで快適なDB疎通ユニットテストライフを送りたい",
+      "author" : "@kuwavar",
+      "day" : 19,
+      "url" : "https://www.m3tech.blog/entry/2021/12/19/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spannerのノード数を時刻ごとに変更する",
+      "author" : "@en-ken",
+      "day" : 20,
+      "url" : "https://www.m3tech.blog/entry/scaling-spanner"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リスクを愉しむプロダクトマネジメント",
+      "author" : "@akihiro-iwata",
+      "day" : 21,
+      "url" : "https://www.m3tech.blog/entry/product-management-that-enjoys-risk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab上でよしなに自動実行してくれるTerraformのCIを目指して",
+      "author" : "@to-lz1",
+      "day" : 22,
+      "url" : "https://www.m3tech.blog/entry/terraform-ci-on-gitlab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キーフレーズ抽出で遊ぶ",
+      "author" : "@ujiuji1259",
+      "day" : 23,
+      "url" : "https://www.m3tech.blog/entry/2021/12/23/110000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "15年間続いているサービスをクラウドに移行しています",
+      "author" : "@ma2ge",
+      "day" : 24,
+      "url" : "https://www.m3tech.blog/entry/migrate-an-askdoctors-application-to-cloud"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エムスリー執行役員VPoE兼PdMの山崎が、エンジニア、QA、デザイナー、プロダクトマネージャーにお薦めする良書7選",
+      "author" : "@yamamuteki",
+      "day" : 25,
+      "url" : "https://www.m3tech.blog/entry/vpoe-book-review-2021"
+    }
+  ]
+}

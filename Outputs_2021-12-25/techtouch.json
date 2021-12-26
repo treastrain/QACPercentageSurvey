@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T22:32:59Z",
+  "calendar_meta_data" : {
+    "author" : "テックタッチ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 4,
+    "title" : "テックタッチ Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "techtouch",
+    "url" : "https://qiita.com/advent-calendar/2021/techtouch"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "やってよかった開発プラクティス",
+      "author" : "@92thunder",
+      "day" : 1,
+      "url" : "https://tech.techtouch.jp/entry/2021-developer-practices"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートチームのコミュニケーションをレベルアップ！ Tandem の紹介 〜ごきげんに働こう編〜",
+      "author" : "@ikazo_y",
+      "day" : 2,
+      "url" : "https://tech.techtouch.jp/entry/why-we-love-tandem-1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "円滑なリモートワークを支えるツール Tandem への愛を語る 〜効率よく働こう編〜",
+      "author" : "@ikazo_y",
+      "day" : 3,
+      "url" : "https://tech.techtouch.jp/entry/why-we-love-tandem-2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートでペアプログラミングしてみた話",
+      "author" : "@smith-30",
+      "day" : 4,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/04/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトマネジメントツールを使って、「顧客要望を見える化」した話",
+      "author" : "@Kenichi55",
+      "day" : 5,
+      "url" : "https://tech.techtouch.jp/entry/voc_management"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Native Messaging を使い、ブラウザ拡張でプロセス間通信を行う方法",
+      "author" : "@ihiroky",
+      "day" : 6,
+      "url" : "https://tech.techtouch.jp/entry/browser-extension-interprocess-communication-using-native-messaging"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "みんなで大喜利ができる SlackBot を作ったよ",
+      "author" : "@tocomi",
+      "day" : 7,
+      "url" : "https://tech.techtouch.jp/entry/slack-oogiri-bot"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザ拡張のE2Eテストを検討してみた",
+      "author" : "@takakobem",
+      "day" : 8,
+      "url" : "https://tech.techtouch.jp/entry/e2e-testing-tool"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンサルタントからエンジニアになったマン、最近感じた働き方の違いを書いてみたらしいよ！",
+      "author" : "@canalun",
+      "day" : 9,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/09/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアがデザインから関わって機能を作り上げた話",
+      "author" : "@kosy",
+      "day" : 10,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/10/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チケットモデリングをしてレビュー会してみた話",
+      "author" : "@smith-30",
+      "day" : 11,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/11/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1人目QA奮闘記",
+      "author" : "@cobalt_catal",
+      "day" : 12,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/12/155259"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go で IaC してみる / AWS CDK・CDK for Terraform・Pulumi",
+      "author" : "@taisa831",
+      "day" : 13,
+      "url" : "https://tech.techtouch.jp/entry/go-iac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Query のレンダリング最適化を目指した話",
+      "author" : "@macchiitaka",
+      "day" : 14,
+      "url" : "https://tech.techtouch.jp/entry/react-query-optimization"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エッジ上の Cloudflare Workers で RDB からデータを取得してみる",
+      "author" : "@mxxxxkxxxx",
+      "day" : 15,
+      "url" : "https://tech.techtouch.jp/entry/cloudflare-workers-with-postgresql"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@mochibuta"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "俺たちには、ガイドラインが必要だ",
+      "author" : "@oyoshikeita",
+      "day" : 17,
+      "url" : "https://tech.techtouch.jp/entry/we-need-guidelines"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chart.jsをReactにProviderを使用して組み込んだシンプルなサンプル",
+      "author" : "@yassan-2021",
+      "day" : 18,
+      "url" : "https://tech.techtouch.jp/entry/chartjs-react-provider"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザ拡張の JavaScript を開発者ツール DevTools で効率良く調査する",
+      "author" : "@terunuma",
+      "day" : 19,
+      "url" : "https://tech.techtouch.jp/entry/inspect-chrome-extension-by-devtools"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テックタッチに入社後１ヶ月でSRE部隊を作った話",
+      "author" : "@kobaan",
+      "day" : 20,
+      "url" : "https://tech.techtouch.jp/entry/why_sre_start"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSE って何だ？。Techtouch の Customer Success Engineer 職を紹介してみる",
+      "author" : "@kirai_tt",
+      "day" : 21,
+      "url" : "https://tech.techtouch.jp/entry/whatiscse"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複雑な条件のクエリを集計関数と集合演算を使って短く表現する",
+      "author" : "@bibi-kaneda",
+      "day" : 22,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/23/152823"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RedashとTableauを比較してみた",
+      "author" : "@takemu825",
+      "day" : 23,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/23/130556"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リリーストレインでGO！",
+      "author" : "@kobaan",
+      "day" : 24,
+      "url" : "https://tech.techtouch.jp/entry/ReleaseTrain_de_go"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発体制の変更で考えたこと",
+      "author" : "@mosimosi",
+      "day" : 25,
+      "url" : "https://tech.techtouch.jp/entry/2021/12/25/211333"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:08:46Z",
+  "calendar_meta_data" : {
+    "author" : "@y-tsushima",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 66,
+    "subscribers" : 5,
+    "title" : "CData Software Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "cdatasoftware",
+    "url" : "https://qiita.com/advent-calendar/2021/cdatasoftware"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウド時代のデータアクセス仮想化とは？　SaaS API を活用するための古くて新しいアプローチ",
+      "author" : "@sugimomoto",
+      "day" : 1,
+      "url" : "https://www.cdatablog.jp/entry/dataaccessvirtualization"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新コネクタ「CData Drivers for Yahoo! JAPAN DATA SOLUTION」を触ってみた",
+      "author" : "@y-tsushima",
+      "day" : 2,
+      "url" : "https://qiita.com/y-tsushima/items/0b91b5681610194469d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArcESB で作った連携フローを外部から起動する方法",
+      "author" : "@irokawah",
+      "day" : 3,
+      "url" : "https://www.cdatablog.jp/entry/arcesb-adminapi-webhook-form"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDataSync最新の導入事例に見る利用パターン",
+      "author" : "@KNarizuka",
+      "day" : 4,
+      "url" : "https://qiita.com/KNarizuka/items/b0d18441c9a3f622a9c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードも書けない人がはじめてドライバーを作る笑いと涙の物語",
+      "author" : "@jonathanh",
+      "day" : 5,
+      "url" : "https://www.cdatablog.jp/entry/making-profile"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystems(ローコード)上でCData使ってスマレジ連携",
+      "author" : "@sayamaguchi",
+      "day" : 6,
+      "url" : "https://qiita.com/sayamaguchi/items/1f2abacb7397719200c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CData Connectを活用してデータを全社員に利用してもらうための取り組み",
+      "author" : "@cloudace",
+      "day" : 7,
+      "url" : "https://qiita.com/cloudace/items/93da7ef065891acc1bfd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM i にCData API Serverをインストールして30分でREST-APIを作成",
+      "author" : "@demu",
+      "day" : 8,
+      "url" : "https://qiita.com/demu/items/6f6265ada5f84d6e731f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HULFT DataCatalog を使ってkintone のメタデータを見える化する",
+      "author" : "@irokawah",
+      "day" : 9,
+      "url" : "https://www.cdatablog.jp/entry/hulftdatacatalog-kintone-jdbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CData API Driverを使ってboardのデータをTableauで分析する",
+      "author" : "@velc291",
+      "day" : 10,
+      "url" : "https://the-board.jp/solutions/analysis_with_board_x_tableau"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コネクタ・アダプタ・ドライバ その違いについて今更ながら調べてみた",
+      "author" : "@kuwazzy",
+      "day" : 11,
+      "url" : "https://www.cdatablog.jp/entry/connector_adapter_driver"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack やTrello など、お気に入りのサービスとPower BI を連携して自分だけのダッシュボードを作る",
+      "author" : "@katot",
+      "day" : 12,
+      "url" : "https://www.cdatablog.jp/entry/powerbi_slack_trello"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非エンジニアから見たCData製品とは",
+      "author" : "@Mar_Cyyy",
+      "day" : 13,
+      "url" : "https://note.com/marcyyy/n/nf16039487ee3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDataさんの Excel add-in for kintone試してみた",
+      "author" : "@mniizuma",
+      "day" : 14,
+      "url" : "https://note.com/mniizuma/n/n1d1677afbff4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Yahoo! JAPAN のビッグデータとCData Drivers とDataSpider とSQL Server をつなげてみた",
+      "author" : "@y-tsushima",
+      "day" : 15,
+      "url" : "https://qiita.com/y-tsushima/items/38ba8b67f1b352f606e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "API Server : SQL Serverでインデックス化されたカラムのフィルタリングを高速化する",
+      "author" : "@shintaro_ura",
+      "day" : 16,
+      "url" : "https://www.cdatablog.jp/entry/spiservermssqlnotuserunicode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Web Apps で CData API Server V21 をホスティングしてみる",
+      "author" : "@miyamotok",
+      "day" : 17,
+      "url" : "https://www.cdatablog.jp/entry/apiserver_webapps"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TALON(ローコード)でSAP S/4 HANAとPostgreSQLを連携して業務システムをサクッと作ってみた",
+      "author" : "@y-koseki",
+      "day" : 18,
+      "url" : "https://qiita.com/y-koseki/items/2f558824c60752679318"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのArcESBで悩んだところ",
+      "author" : "@hiroyoshi_wakino",
+      "day" : 19,
+      "url" : "https://qiita.com/hiroyoshi_wakino/items/79c9b58f52aab6ada38c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CData ConnectとTwilioを接続し、コールログを取得してみた",
+      "author" : "@Neri78",
+      "day" : 20,
+      "url" : "https://qiita.com/Neri78/items/1e83afe169df10c60c17"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Yahoo! JAPAN DATA SOLUTIONのデータをMotionBoardで可視化する",
+      "author" : "@Keeeei",
+      "day" : 21,
+      "url" : "https://qiita.com/Keeeei/items/83c1ef7b11582746d986"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DBとGoogleスプレッドシートの簡単連携",
+      "author" : "@genmuex",
+      "day" : 22,
+      "url" : "https://qiita.com/genmuex/items/61e6a41e3a2a2d1f1ce2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "embulkでCData Driversを使ってMySQLとつなぐ",
+      "author" : "@minaduking",
+      "day" : 23,
+      "url" : "https://zenn.dev/minaduking/articles/38c6f71954a5ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マルチセレクトオプション（旧CDataオプション）のご紹介",
+      "author" : "@scha",
+      "day" : 24,
+      "url" : "https://qiita.com/scha/items/47258924bf77802d73de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仙台人の心をワシ掴みにしている仙台セリ鍋に学ぶCData Sync の話",
+      "author" : "@jonathanh",
+      "day" : 25,
+      "url" : "https://www.cdatablog.jp/entry/serinabe-sync"
+    }
+  ]
+}

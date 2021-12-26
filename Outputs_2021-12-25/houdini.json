@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T02:52:16Z",
+  "calendar_meta_data" : {
+    "author" : "@jyouryuusui",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 74,
+    "subscribers" : 20,
+    "title" : "Houdini Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "houdini",
+    "url" : "https://qiita.com/advent-calendar/2021/houdini"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "フェイシャルキャプチャ― in Houdini",
+      "author" : "@jyouryuusui",
+      "day" : 1,
+      "url" : "https://qiita.com/jyouryuusui/items/271501cbeea78ee705ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SOP~TOPまでのワークフロー的なやつをかきます",
+      "author" : "@shop_0761",
+      "day" : 2,
+      "url" : "https://shop-0761.hatenablog.com/entry/2021/12/02/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年のカード",
+      "author" : "@PontaYamazato",
+      "day" : 3,
+      "url" : "https://note.com/pontayamazato/n/n9a01614259b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実践 Houdini Engine for Unity",
+      "author" : "@core_aoi",
+      "day" : 4,
+      "url" : "https://note.com/aoi/n/n8fbfd54c349f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdini19 Karma 初見所感・備忘録・Tips",
+      "author" : "@sasaki_0222",
+      "day" : 5,
+      "url" : "https://qiita.com/sasaki_0222/items/3c8fc415c4349d9f2c43"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数入力に対しPackするツールを作った話",
+      "author" : "@kickbase",
+      "day" : 6,
+      "url" : "https://www.kickbase.net/entry/multi_packer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdini Engine for Unreal Engine ことはじめ",
+      "author" : "@kurosawa",
+      "day" : 7,
+      "url" : "https://note.com/thesaurus/n/ne761f1c02fb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チュートリアルの履修が楽になるフォルダ構成",
+      "author" : "@70_cg_art",
+      "day" : 8,
+      "url" : "https://qiita.com/70_cg_art/items/9248033d1e542499d297"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rig PoseノードからHDAへの大量のパラメータ追加を楽に行う",
+      "author" : "@daisea3e1203",
+      "day" : 9,
+      "url" : "https://qiita.com/daisea3e1203/items/1537bb436987b5fd55eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoudiniでPythonの静的型検査をやってみる",
+      "author" : "@tanitta",
+      "day" : 10,
+      "url" : "https://tanitta.hatenablog.com/entry/2021/12/10/191729?_ga=2.210698640.442893257.1639126137-730120998.1564028130"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年Houdini関係で登壇して公開した資料まとめ",
+      "author" : "@sasaki_0222",
+      "day" : 11,
+      "url" : "https://qiita.com/sasaki_0222/items/1b7284c61ad4b2b461f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ComponentBuilderで遊ぼう",
+      "author" : "@fereria",
+      "day" : 12,
+      "url" : "https://fereria.github.io/reincarnation_tech/10_Houdini/11_SOLARIS/16_component_builder/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mixamo to Cascadeur to Houdini（KineFX）モーション",
+      "author" : "@55hertz",
+      "day" : 13,
+      "url" : "https://qiita.com/55hertz/items/167628f6e4df2683f07f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoudiniのVEXを用いた雪の結晶の生成シミュレーションの一例 | An example of snowflake growth simulation using VEX in Houdini",
+      "author" : "@talkyren",
+      "day" : 14,
+      "url" : "https://qiita.com/talkyren/items/1b806c8d28fa8cbd2ebe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[UE4]Houdini EngineにEUWを組み合わせてちょっと使いやすくしてみる",
+      "author" : "@YuriSerizawa",
+      "day" : 15,
+      "url" : "https://qiita.com/YuriSerizawa/items/726395ad0968f22a99ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "水に濡れて張り付いて透ける布",
+      "author" : "@TF_siri",
+      "day" : 16,
+      "url" : "https://qiita.com/TF_siri/items/e203ecfbcb0a772786a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "特定の方向からオイラー角を求める",
+      "author" : "@kit2cuz",
+      "day" : 17,
+      "url" : "https://qiita.com/kit2cuz/items/55be3f432783fc979b16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Geometry ShaderをSOPで再現してみる",
+      "author" : "@yohanashima",
+      "day" : 18,
+      "url" : "https://heyyocg.com/geometry-shader-kind-houdini-sop/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoudiniでWireにディテールを与える",
+      "author" : "@TrsNium",
+      "day" : 19,
+      "url" : "https://qiita.com/TrsNium/items/729f57764007e7360e68"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ぶっ刺しオブジェクトをブレンドする",
+      "author" : "@sugiggy",
+      "day" : 20,
+      "url" : "https://sugi-iggy.blogspot.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TextureSheetsの解説と検証していきます",
+      "author" : "@yu_nnnnnnnn",
+      "day" : 21,
+      "url" : "https://wakumoku.com/2021/12/19/texture-sheets%e3%82%92%e6%a4%9c%e8%a8%bc%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pixel Wrangleを発見しました",
+      "author" : "@Satsuki-Sensei",
+      "day" : 22,
+      "url" : "https://qiita.com/Satsuki-Sensei/items/29fc51b364e7deee546a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python State Info Panel について初歩的な確認",
+      "author" : "@taichi-i",
+      "day" : 23,
+      "url" : "https://support.borndigital.co.jp/hc/ja/articles/4411665478041"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vegetation modeling&tree_rigの紹介",
+      "author" : "@ts_bros",
+      "day" : 24,
+      "url" : "https://msjbinc.blogspot.com/2021/12/startup-vegetation-modeling-tree-rig.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Procedural Hard Surface ModelingのためのWorley noiseの実装",
+      "author" : "@procedural_design",
+      "day" : 25,
+      "url" : "https://qiita.com/procedural_design/items/d7689f0074c4a9cb5927"
+    }
+  ]
+}

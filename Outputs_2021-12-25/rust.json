@@ -1,0 +1,530 @@
+{
+  "created_at" : "2021-12-26T04:37:12Z",
+  "calendar_meta_data" : {
+    "author" : "@abenben",
+    "category" : "プログラミング言語",
+    "lgtm" : 619,
+    "subscribers" : 328,
+    "title" : "Rust Advent Calendar 2021",
+    "participants" : 69,
+    "unique_name" : "rust",
+    "url" : "https://qiita.com/advent-calendar/2021/rust"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustでサーバレスアプリケーション開発 in Cloudflare Workers",
+      "author" : "@kyamamoto9120",
+      "day" : 1,
+      "url" : "https://qiita.com/kyamamoto9120/items/9dda9cb0f9a47d8b3a4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "sentry::init() in async main()",
+      "author" : "@kenoss",
+      "day" : 2,
+      "url" : "https://kenoss.github.io/blog/2021-12-02-sentry-init-in-async-main/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Crafting InterpretersをRustで進めている話",
+      "author" : "@udzura",
+      "day" : 3,
+      "url" : "https://udzura.hatenablog.jp/entry/2021/12/03/131720"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドエンジニアがWASM(Rust)でWebアプリを作ってみた",
+      "author" : "@gagagaga_dev",
+      "day" : 4,
+      "url" : "https://zenn.dev/gagaga/articles/rust-web-frontend"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustのActix-webでWebSocketなチャットサーバーを立ててみた時に思ったこと",
+      "author" : "@tbangase",
+      "day" : 5,
+      "url" : "https://qiita.com/tbangase/items/a891c112fd5587b00f20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "k8s上でRustで作ったgRPCサービスのメトリクスを可視化する",
+      "author" : "@yukinarit",
+      "day" : 6,
+      "url" : "https://zenn.dev/yukinarit/articles/0bfa0a31aa6577"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustのResult<T, E>のEって何にする？",
+      "author" : "@hayao0727",
+      "day" : 7,
+      "url" : "https://qiita.com/hayao0727/items/7b3560c8958585ae361e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust + wasmでJS向けの形態素解析ライブラリを作ってnpmで公開する",
+      "author" : "@higumachan725",
+      "day" : 8,
+      "url" : "https://zenn.dev/higumachan/articles/a42f1ee50bbb8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "世を忍ぶ仮の姿が1つとは限らないよね: 表示形式が複数あるときどうするか",
+      "author" : "@lo48576",
+      "day" : 9,
+      "url" : "https://qiita.com/lo48576/items/9ec087ef6e4c803c71dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nannouで3Dプログラミングとレイマーチング",
+      "author" : "@hosodamath9696",
+      "day" : 10,
+      "url" : "https://qiita.com/hosodamath9696/items/127a374af559399d9df4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustでeBPFを操れるAyaを触ってみた",
+      "author" : "@moriai",
+      "day" : 11,
+      "url" : "https://qiita.com/moriai/items/c96636d35ae39809b45e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rust Rocketで`Hello world`",
+      "author" : "@keisukeYamagishi",
+      "day" : 12,
+      "url" : "https://qiita.com/keisukeYamagishi/items/08ec3b16d9b769fca7d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@kan_dai"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "rust-gpuではじめるVulkan Raytracing",
+      "author" : "@hatoo@github",
+      "day" : 14,
+      "url" : "https://zenn.dev/hatoo/books/52bcb9e9f7c87d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustで速習ゲーム木探索",
+      "author" : "@matsu7874",
+      "day" : 15,
+      "url" : "https://matsu7874.hatenablog.com/entry/2021/06/06/003215"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@TaKO8Ki"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SeedでRust-onlyなポートフォリオサイトを作ってみた",
+      "author" : "@EtoAl",
+      "day" : 17,
+      "url" : "https://zenn.dev/etoal83/articles/6eb6031865f3de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustでicedを試してみた",
+      "author" : "@yellow",
+      "day" : 18,
+      "url" : "https://yanomy.hatenablog.com/entry/2021/12/18/191129"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@abenben"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Godot + Rust + wasmによる3Dブラウザゲームの作り方またはRustはゲーム制作向き言語なのかの考察的な何か",
+      "author" : "@namn1125",
+      "day" : 20,
+      "url" : "https://qiita.com/namn1125/items/9ef8f147317114545b51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustでかんたんなスクレイピングをやってみよう！",
+      "author" : "@fast_gorilla",
+      "day" : 21,
+      "url" : "https://zenn.dev/nackan/articles/5e41796116d958"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Rust] マーカトレイトから見る言語仕様",
+      "author" : "@SenK",
+      "day" : 22,
+      "url" : "https://zenn.dev/senk/articles/0e57e6da138e77"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustで安全にスレッド間共有変数を利用できることのありがたみと実装例",
+      "author" : "@muumu",
+      "day" : 23,
+      "url" : "https://qiita.com/muumu/items/f264ad781486d3dd037b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dockerでRUST",
+      "author" : "@kaizen_nagoya",
+      "day" : 24,
+      "url" : "https://qiita.com/kaizen_nagoya/items/c07350f6ab6ec656c42c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Axum をフルに活用してサーバーサイドアプリケーション開発をしてみる",
+      "author" : "@helloyuki",
+      "day" : 25,
+      "url" : "https://blog-dry.com/entry/2021/12/26/002649"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RustでJSONパーサーをフルスクラッチで実装する",
+      "author" : "@togatoga",
+      "day" : 1,
+      "url" : "https://qiita.com/togatoga/items/9d600e20325775f09547"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Rustの標準ライブラリは小さいのか？",
+      "author" : "@dalance",
+      "day" : 2,
+      "url" : "https://qiita.com/dalance/items/5816618a308e0058136b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Zero2Productionを読んでいる話",
+      "author" : "@shishi",
+      "day" : 3,
+      "url" : "https://shishi.hatenablog.jp/entry/2021/12/03/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RustでGraphQLサーバの実装をしてみる",
+      "author" : "@_mkazutaka",
+      "day" : 4,
+      "url" : "https://zenn.dev/mkazutaka/articles/9b9228da5a741a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS SDK for Rust (Developer Preview) を触ってみた",
+      "author" : "@hkford",
+      "day" : 5,
+      "url" : "https://zenn.dev/hkdord/articles/try-aws-sdk-rust"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RustをMacで公式ドキュメントにしたがって始める",
+      "author" : "@nnhiguchi",
+      "day" : 6,
+      "url" : "https://qiita.com/nnhiguchi/items/fb5f7ba7d6ead5de70ee"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "union: RubyでRustがunsafeになった話",
+      "author" : "@sisshiki1969",
+      "day" : 7,
+      "url" : "https://qiita.com/sisshiki1969/items/ab893eea13d2d2e3acf6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Rustで真に安全なプログラムを書く方法",
+      "author" : "@j5ik2o",
+      "day" : 8,
+      "url" : "https://blog.j5ik2o.me/entry/2021/12/08/000000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "sqlxでPoolとTransactionのどちらも受け取れるようにする",
+      "author" : "@FuJino",
+      "day" : 9,
+      "url" : "https://qiita.com/FuJino/items/08b4c3298918191eab65"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "erased_serdeで学ぶobject safeじゃないtraitをtrait objectで使う方法",
+      "author" : "@aobat",
+      "day" : 10,
+      "url" : "https://qiita.com/aobat/items/f8499e29d0c38cfe32c8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RustでMODBUS（FX5U～PC間通信）",
+      "author" : "@myasu",
+      "day" : 11,
+      "url" : "https://qiita.com/myasu/items/935d46644a37420bd75c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RustでOSを書く話を擦る",
+      "author" : "@garasubo",
+      "day" : 12,
+      "url" : "https://zenn.dev/garasubo/articles/dcfc888668a739"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "バグ報告ではじめるRustコントリビューション",
+      "author" : "@Kumassy",
+      "day" : 13,
+      "url" : "https://zenn.dev/kumassy/articles/60232844d33243"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RustのtokioでオレオレTCP relay serverを作ってみる",
+      "author" : "@higumachan725",
+      "day" : 14,
+      "url" : "https://zenn.dev/higumachan/articles/dbb01734d5a5c2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "続・Rustを使ってRubyスクリプトをパックしてみる",
+      "author" : "@ahogappa",
+      "day" : 15,
+      "url" : "https://zenn.dev/ahogappa/articles/4be34946fd8b65"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16,
+      "author" : "@selpo"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Rustのasync、awaitを利用し、非同期プログラミングに入門する",
+      "author" : "@hika7719",
+      "day" : 17,
+      "url" : "https://miyahara.hikaru.dev/posts/20211217/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RustでJSONから値をゆるりと取り出すマクロを書いた話",
+      "author" : "@jiftechnify",
+      "day" : 18,
+      "url" : "https://zenn.dev/jiftechnify/articles/rust-macro-for-query-json"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS Lambdaを1バイナリのcontainer imageで複数Function用に扱えるのか、というのをやったのですがうまくいきませんでした",
+      "author" : "@vraisamis",
+      "day" : 19,
+      "url" : "https://vraisamis.hatenadiary.jp/entry/2021/12/19/234321"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "2021年でconst文脈でできるようになったこと",
+      "author" : "@block",
+      "day" : 20,
+      "url" : "https://qiita.com/block/items/3833dc8d33313d2b1fdd"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21,
+      "author" : "@takahashik0422"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ECS (ゲーム開発) 実装！",
+      "author" : "@toyboot4e",
+      "day" : 22,
+      "url" : "https://zenn.dev/toyboot4e/books/making-toy-ecs"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "無料でRustのJupyterLab機械学習環境を作る in AWS",
+      "author" : "@hinastory",
+      "day" : 23,
+      "url" : "https://zenn.dev/hinastory/articles/475095df067f1f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Rustを使ってスケーラブルなプログラムを書く方法",
+      "author" : "@j5ik2o",
+      "day" : 24,
+      "url" : "https://blog.j5ik2o.me/entry/2021/12/24/104956"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "『並行プログラミング入門』執筆しました",
+      "author" : "@ytakano",
+      "day" : 25,
+      "url" : "https://ytakano.hatenablog.com/entry/2021/12/25/000622"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rustのテストは2種類のオプションがある | κeenのHappy Hacκing Blog",
+      "author" : "@blackenedgold",
+      "day" : 1,
+      "url" : "https://keens.github.io/blog/2021/12/20/rustnotesutoha2shuruinoopushongaaru/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "moldを使うとRustのビルドが速くなる | κeenのHappy Hacκing Blog",
+      "author" : "@blackenedgold",
+      "day" : 2,
+      "url" : "https://keens.github.io/blog/2021/12/20/moldwotsukautorustnobirudogahayakunaru/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rust のビルドを rust-lld で速くしてみる",
+      "author" : "@benki",
+      "day" : 3,
+      "url" : "https://qiita.com/benki/items/decada107802657336d0"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "RustでつくるVST3プラグイン",
+      "author" : "@t-sin",
+      "day" : 4,
+      "url" : "https://t-sin.github.io/techblog/2021-12-04_vst3-plugin-in-rust.html"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "M5Stamp-C3 Mate で始める組込み「std」Rust プログラミング",
+      "author" : "@tomoyuki-nakabayashi",
+      "day" : 5,
+      "url" : "https://tomo-wait-for-it-yuki.hatenablog.com/entry/embedded-std-rust-on-m5stamp-c3-mate"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "簡易x86エミュレータを再実装してRustを学ぶ",
+      "author" : "@Kenta11",
+      "day" : 6,
+      "url" : "https://qiita.com/Kenta11/items/ba8f687f2c5190db2f4d"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rust AST 入門",
+      "author" : "@giraffate",
+      "day" : 7,
+      "url" : "https://mitaka.club/20211207/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rustで始める自作シェル その1",
+      "author" : "@buty4649",
+      "day" : 8,
+      "url" : "https://tech.buty4649.net/entry/2021/12/19/235124"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "RustでDockerの--passwordで入力したパスワードを盗む | κeenのHappy Hacκing Blog",
+      "author" : "@blackenedgold",
+      "day" : 9,
+      "url" : "https://keens.github.io/blog/2021/12/20/rustdedockerno__passworddenyuuryokushitapasuwa_dowonusumu/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rustを使ってWindowsで動くシェルコードを作る",
+      "author" : "@uruchan",
+      "day" : 10,
+      "url" : "https://qiita.com/uruchan/items/df3250dc45fb416a5e65"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "moldとcargo watchを併用してより快適な開発環境を作る",
+      "author" : "@kyamamoto9120",
+      "day" : 11,
+      "url" : "https://qiita.com/kyamamoto9120/items/2081bc44c6c987b9ec29"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Linux用キーリマッパーxremapをRustで書き直した",
+      "author" : "@k0kubun",
+      "day" : 12,
+      "url" : "https://k0kubun.hatenablog.com/entry/xremap"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "書き捨てるためのRust",
+      "author" : "@dalance",
+      "day" : 13,
+      "url" : "https://qiita.com/dalance/items/6f0da880501511237d61"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "OSや低レイヤ周りについて",
+      "author" : "@tokuchan3515",
+      "day" : 14,
+      "url" : "https://tokuchan3515.hatenablog.com/entry/2021/12/14/213815"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Linux kernelに入ってきそうなRustをさらに読む",
+      "author" : "@n01e0",
+      "day" : 15,
+      "url" : "https://feneshi.co/Rust_In_Linux_Kernel_2/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Excvrとrust-analyzerでJupyterでRust",
+      "author" : "@illumination-k",
+      "day" : 16,
+      "url" : "https://illumination-k.dev/posts/rust/excvr_rust_analyzer"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "YewでChart.jsのグラフを表示する",
+      "author" : "@hibi221b",
+      "day" : 17,
+      "url" : "https://hibi221b.dev/yew-chartjs-4/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rustアプリケーション開発にNoSQLドキュメント指向データベースCouchbase Serverを使うには？",
+      "author" : "@yoshiyuki_kono",
+      "day" : 18,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/c6ed59746a59fdedb812"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "TensorFlow bindingのこと書きます。",
+      "author" : "@Dsuke-K",
+      "day" : 19,
+      "url" : "https://zenn.dev/dskkato/articles/tf2-rust-binding"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rustのメーラーライブラリlettreの使い方",
+      "author" : "@granddaifuku",
+      "day" : 20,
+      "url" : "https://www.granddaifuku.com/jp/posts/development/rust-lettre-sakura-mailbox/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "tokio-console: topみたいなRustのコマンドラインツール",
+      "author" : "@tfutada",
+      "day" : 21,
+      "url" : "https://zenn.dev/tfutada/articles/4dbb9659bb8102"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "axum v0.4の主な変更点",
+      "author" : "@tkzwhr",
+      "day" : 22,
+      "url" : "https://tkzwhr.hatenablog.com/entry/2021/12/22/002503"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "並行キャッシュライブラリー「Moka」を作ったのでWebサービスを高速化するサンプルを使って説明します",
+      "author" : "@tatsuya6502",
+      "day" : 23,
+      "url" : "https://qiita.com/tatsuya6502/items/350ad1029dc39611fff4"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rustでの外部コマンドの実行について調べたら、所有権についての理解が深まった件",
+      "author" : "@clearstory",
+      "day" : 24,
+      "url" : "https://qiita.com/clearstory/items/dec9fda7c46f0c289dfb"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Rust x Raspberry Pi Picoで電子工作―実装例集",
+      "author" : "@doraneko94",
+      "day" : 25,
+      "url" : "https://ushitora.net/archives/2617"
+    }
+  ]
+}

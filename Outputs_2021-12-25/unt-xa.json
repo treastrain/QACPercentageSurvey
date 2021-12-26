@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T23:39:00Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社アンティー・ファクトリー",
+    "category" : "企業・学校・団体",
+    "lgtm" : 409,
+    "subscribers" : 3,
+    "title" : "un-T factory! XA Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "unt-xa",
+    "url" : "https://qiita.com/advent-calendar/2021/unt-xa"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "React から Vue への出戻りを検討する 3 つの理由",
+      "author" : "@yuzuru_xa",
+      "day" : 1,
+      "url" : "https://qiita.com/yuzuru_xa/items/481c9790610dd8382679"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マトリックスしながらPixiJSを勉強する",
+      "author" : "@heeroo_ymsw",
+      "day" : 2,
+      "url" : "https://qiita.com/heeroo_ymsw/items/fe881aec444f5bd73c3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCode+Vim バインディングでフロントエンド開発",
+      "author" : "@cyamy",
+      "day" : 3,
+      "url" : "https://qiita.com/cyamy/items/12742afe6f61bce76698"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Vue.js 3】書籍等にはあまり載ってなかった（と思う）こと5つ",
+      "author" : "@shuhosaka",
+      "day" : 4,
+      "url" : "https://qiita.com/shuhosaka/items/19b3dbbc154019b70330"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EJS de Storybook入門",
+      "author" : "@nokonokojr",
+      "day" : 5,
+      "url" : "https://qiita.com/nokonokojr/items/1fd879a392c165651bf6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "孤独な独学から救ってくれたアウトプット法3選",
+      "author" : "@natsumi_kato",
+      "day" : 6,
+      "url" : "https://qiita.com/natsumi_kato/items/24412956ad144ab45e7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LitではじめるWeb Components開発",
+      "author" : "@y___k",
+      "day" : 7,
+      "url" : "https://qiita.com/y___k/items/df4b71b3436548071818"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSSanimationの@keyframesを表現ごとに分割し、汎用性を持たせる",
+      "author" : "@s-kato",
+      "day" : 8,
+      "url" : "https://qiita.com/s-kato/items/beded4c3d2d7d72aa6ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IE11サポート終了に伴い、使用解放が期待されるCSSプロパティをおさらい",
+      "author" : "@un-t-Morris",
+      "day" : 9,
+      "url" : "https://qiita.com/un-t-Morris/items/3dbc70d2c7ce3ad7227c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "boolean型のif判定：処理の状態をフラグで管理する",
+      "author" : "@zumi_ys",
+      "day" : 10,
+      "url" : "https://qiita.com/zumi_ys/items/cdb5fdf348bb7adc4452"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Git初心者がSourcetreeに頼らずコマンドラインを叩いてみる",
+      "author" : "@n_yuto",
+      "day" : 11,
+      "url" : "https://qiita.com/n_yuto/items/8dabe9e7165b4ff6d908"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dart Sassへの移行でつまづいたこととか",
+      "author" : "@ymbn",
+      "day" : 12,
+      "url" : "https://qiita.com/ymbn/items/bb4250dc9789148f18ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スライダー（カルーセル）実装するならslickかSwiperか",
+      "author" : "@shigematsu_k",
+      "day" : 13,
+      "url" : "https://qiita.com/shigematsu_k/items/a7c778fe03de58d5f79d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ShopifyにオリジナルSass設計を導入する",
+      "author" : "@t_yosuke",
+      "day" : 14,
+      "url" : "https://qiita.com/t_yosuke/items/34bfa39fb9e27149c7d1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "１年間で学んだSCSSの色々まとめ",
+      "author" : "@riezo______",
+      "day" : 15,
+      "url" : "https://qiita.com/riezo______/items/0e0f4f2d097dc74700a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "盲信的にquerySelectorAllを使用するのを卒業する。~getElementsBy~と比べてみた~",
+      "author" : "@ari-chel",
+      "day" : 16,
+      "url" : "https://qiita.com/ari-chel/items/b06c68aec8849d0409dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フルスクリーンでsvgマスクアニメーションをしたい",
+      "author" : "@______________________________ki",
+      "day" : 17,
+      "url" : "https://qiita.com/______________________________ki/items/a284171369cd60f56c1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PCにのみhoverを設定したい場合のSCSSのmixin",
+      "author" : "@k__watanabe",
+      "day" : 18,
+      "url" : "https://qiita.com/k__watanabe/items/e431a5e12a300f5ba4cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ダークモードって本当に良いの？",
+      "author" : "@pon_uchi_pon",
+      "day" : 19,
+      "url" : "https://qiita.com/pon_uchi_pon/items/d5222201c87f1706ea5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスの飾りつけを。",
+      "author" : "@96usa_koi",
+      "day" : 20,
+      "url" : "https://qiita.com/96usa_koi/items/cff5a5ef63c3322094e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "毎日10分の勉強で人間は成長できるのかという話",
+      "author" : "@a_Iwahashi",
+      "day" : 21,
+      "url" : "https://qiita.com/a_Iwahashi/items/3c58b0492cae9900bce1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インラインSVGを触ってみた",
+      "author" : "@mikoshiba_35",
+      "day" : 22,
+      "url" : "https://qiita.com/mikoshiba_35/items/7600a1c2d3fb8447807c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【作業効率化】超簡単！たった 5 分でターミナルを見やすくカスタマイズする方法",
+      "author" : "@Ciao_",
+      "day" : 23,
+      "url" : "https://qiita.com/Ciao_/items/927cf168c488bde9f2fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「コミットメッセージ」をわかりやすく書く方法",
+      "author" : "@zukkis",
+      "day" : 24,
+      "url" : "https://qiita.com/zukkis/items/d628b588acfc6b74b6c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像の最適化について",
+      "author" : "@takeuchi_tsuyoshi",
+      "day" : 25,
+      "url" : "https://qiita.com/takeuchi_tsuyoshi/items/3335594543c2fb8fe507"
+    }
+  ]
+}

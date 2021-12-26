@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T22:23:30Z",
+  "calendar_meta_data" : {
+    "author" : "@takuji-komine",
+    "category" : "企業・学校・団体",
+    "lgtm" : 762,
+    "subscribers" : 24,
+    "title" : "DMM WEBCAMP Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "infratop",
+    "url" : "https://qiita.com/advent-calendar/2021/infratop"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Railsである程度実装ができるようになったら【スキルアップ】",
+      "author" : "@SawaShuya",
+      "day" : 1,
+      "url" : "https://qiita.com/SawaShuya/items/1afc2c2c38835e54f666"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最強になるための最強の質問方法",
+      "author" : "@nabekikiki",
+      "day" : 2,
+      "url" : "https://qiita.com/nabekikiki/items/0612eaa09587ef9cb65d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GAS × OCR × LINE API】やる気がどんどん無くなるダイエット管理Bot（汎用性ゼロ）",
+      "author" : "@ayumu-1212",
+      "day" : 3,
+      "url" : "https://qiita.com/ayumu-1212/items/eafbd0c50ec292ee4f39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【テーブル？】railsのモデルやデータベースが何をしているのか分からない人へ【migration？】",
+      "author" : "@kuna",
+      "day" : 4,
+      "url" : "https://qiita.com/kuna/items/40b1b993820f4c112fa7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そうだセキュリティ、しよう",
+      "author" : "@ta-iga",
+      "day" : 5,
+      "url" : "https://qiita.com/ta-iga/items/16e0108940766fcd9216"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Gitでやらかした!!」でも、大丈夫です",
+      "author" : "@junyanjan1208",
+      "day" : 6,
+      "url" : "https://qiita.com/junyanjan1208/items/6f2b8920c77eaac8280c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DB破壊日記 ~間違えてmigrationファイル消しちゃった編~",
+      "author" : "@tamakiharuNN",
+      "day" : 7,
+      "url" : "https://qiita.com/tamakiharuNN/items/36e1b0d3feec6758e1ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "rails devise サインアウトのリダイレクト先設定時のエラー",
+      "author" : "@Hbk__17",
+      "day" : 8,
+      "url" : "https://qiita.com/Hbk__17/items/8784d3bdadeb9c6fc5b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "公式ドキュメントを活用してみよう！",
+      "author" : "@yoshikikoiso",
+      "day" : 9,
+      "url" : "https://qiita.com/yoshikikoiso/items/3bd34be11d592b53f97b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜrails sでサーバーが動くのか〜MacでRails + puma + Nginxでサーバー構築〜",
+      "author" : "@devkenji",
+      "day" : 10,
+      "url" : "https://qiita.com/devkenji/items/2ef21d9ab75fc9a437e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Rails] param is missing or the value is empty error と向き合う",
+      "author" : "@keijitsumori",
+      "day" : 11,
+      "url" : "https://qiita.com/keijitsumori/items/f17a56a583a3c24a88a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraformを使用してWordPressを構築するハンズオン",
+      "author" : "@koseiinfratop",
+      "day" : 12,
+      "url" : "https://qiita.com/koseiinfratop/items/a307393ed74dca01ab86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "営業出身20代女性の未経験エンジニア転職記",
+      "author" : "@p_chm_",
+      "day" : 13,
+      "url" : "https://qiita.com/p_chm_/items/adaaa552b26c3979125f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "laravel5.5 jTinderを使ってスワイプ機能 (マッチングアプリ)",
+      "author" : "@yuuka_____gf",
+      "day" : 14,
+      "url" : "https://qiita.com/yuuka_____gf/items/a8c676d1d10f55181e21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "うそはうそであると見抜ける人でないと（未経験からエンジニアになるのは）難しい",
+      "author" : "@yuki82511988",
+      "day" : 15,
+      "url" : "https://qiita.com/yuki82511988/items/88df01351620020e7859"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Ruby on Rails] rails初学者がつまずきがちなポイントをレベル別に紹介！",
+      "author" : "@naoyuki0920",
+      "day" : 16,
+      "url" : "https://qiita.com/naoyuki0920/items/5f697ee7bbbc819fcbc2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel8をDocker環境で構築し、ログインまで",
+      "author" : "@yuttana1223",
+      "day" : 17,
+      "url" : "https://qiita.com/yuttana1223/items/54536cad0f7eeb3c0383"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テキストコミュニケーションをハックする",
+      "author" : "@hidemitsuaoki",
+      "day" : 18,
+      "url" : "https://qiita.com/hidemitsuaoki/items/5dc595ab6d6e6fbcb0e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そうだ、Batch処理を使おう！【Rails】【タグ機能】【Whenever】【cron】",
+      "author" : "@smasa1112",
+      "day" : 19,
+      "url" : "https://qiita.com/smasa1112/items/9bbd164544f6ac9f259c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Arduinoで水やりを自動化してみる(電子工作)",
+      "author" : "@harika",
+      "day" : 20,
+      "url" : "https://qiita.com/harika/items/6f45341fc3438b2e1771"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キャリア形成に必要な要素について考えてみた",
+      "author" : "@Nishimurasyota",
+      "day" : 21,
+      "url" : "https://qiita.com/Nishimurasyota/items/606dd040ac0acf8e89e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者向け】Bootstrapのグリッドシステムで思い通りのレイアウトを作るコツ",
+      "author" : "@tone0623",
+      "day" : 22,
+      "url" : "https://qiita.com/tone0623/items/c152c5e5bf361a5a9d38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングを勉強してる？ならNotionなんてどうですか？",
+      "author" : "@matchan1201",
+      "day" : 23,
+      "url" : "https://qiita.com/matchan1201/items/778bccbefad20beb2f97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今度こそ Redux を完全に理解する（初心者向け） ",
+      "author" : "@FarStep131",
+      "day" : 24,
+      "url" : "https://qiita.com/FarStep131/items/ad834facc57a443a9dc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RailsでWeb APIを作成する方法とメリット🤔💭",
+      "author" : "@digitter",
+      "day" : 25,
+      "url" : "https://qiita.com/digitter/items/53f83ce50036b2773d55"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "created_at" : "2021-12-25T18:19:35Z",
+  "calendar_meta_data" : {
+    "author" : "@the_haigo",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 38,
+    "subscribers" : 2,
+    "title" : "一人LiveView Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "liveview_alone",
+    "url" : "https://qiita.com/advent-calendar/2021/liveview_alone"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 1 プロジェクト作成",
+      "author" : "@the_haigo",
+      "day" : 1,
+      "url" : "https://qiita.com/the_haigo/items/fef17c31a24fc76d37df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 2 CRUDの中身 part1",
+      "author" : "@the_haigo",
+      "day" : 2,
+      "url" : "https://qiita.com/the_haigo/items/828ea57bb02817170d29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 3 CRUDの中身 part2",
+      "author" : "@the_haigo",
+      "day" : 3,
+      "url" : "https://qiita.com/the_haigo/items/74a2089031f2c40017b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 4 APIの実装",
+      "author" : "@the_haigo",
+      "day" : 4,
+      "url" : "https://qiita.com/the_haigo/items/5d4d96a3e4c7a068dce3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 5 APIの認証",
+      "author" : "@the_haigo",
+      "day" : 5,
+      "url" : "https://qiita.com/the_haigo/items/dadb65466fd213509a41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 6 APIの認証2",
+      "author" : "@the_haigo",
+      "day" : 6,
+      "url" : "https://qiita.com/the_haigo/items/aa26ffe177bb5e36c356"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 7 GoogleMapの表示",
+      "author" : "@the_haigo",
+      "day" : 7,
+      "url" : "https://qiita.com/the_haigo/items/165662b0fc788602a1fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 8 Bulmaでスタイリング",
+      "author" : "@the_haigo",
+      "day" : 8,
+      "url" : "https://qiita.com/the_haigo/items/671987cb7374c6b9da6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenixで作るGPS Logging System 9 Expo setup",
+      "author" : "@the_haigo",
+      "day" : 9,
+      "url" : "https://qiita.com/the_haigo/items/07e693b1bcc756118f27"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

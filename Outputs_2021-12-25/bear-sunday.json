@@ -1,0 +1,129 @@
+{
+  "created_at" : "2021-12-25T17:38:07Z",
+  "calendar_meta_data" : {
+    "author" : "@koriym",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 18,
+    "subscribers" : 4,
+    "title" : "BEAR.Sunday Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "bear-sunday",
+    "url" : "https://qiita.com/advent-calendar/2021/bear-sunday"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ray.Di",
+      "author" : "@koriym",
+      "day" : 10,
+      "url" : "https://qiita.com/koriym/items/55101291b72cda899871"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ray.DIとRay.Aopを使ってみる",
+      "author" : "@77web@github",
+      "day" : 14,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/14/ray-aop/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ray.MediaQuery",
+      "author" : "@koriym",
+      "day" : 17,
+      "url" : "https://qiita.com/koriym/items/32a4ad10f0601345767c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@kumamidori"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BEAR.Sunday分散キャッシングフレームワーク",
+      "author" : "@koriym",
+      "day" : 24,
+      "url" : "https://qiita.com/koriym/items/922959f3c9f299156fba"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@NaokiTsuchiya"
+    }
+  ]
+}

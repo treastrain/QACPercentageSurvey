@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T23:45:30Z",
+  "calendar_meta_data" : {
+    "author" : "@masaya82",
+    "category" : "企業・学校・団体",
+    "lgtm" : 55,
+    "subscribers" : 7,
+    "title" : "フラー株式会社 Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "fuller-inc",
+    "url" : "https://qiita.com/advent-calendar/2021/fuller-inc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "今年のJリーグのBar Chart Raceをつくった",
+      "author" : "@chooblarin",
+      "day" : 1,
+      "url" : "https://chooblarin.github.io/post/jleague-bar-chart-race-with-svelte"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "US配列HHKBライクなカーソル操作のショートカットをmacで自作する",
+      "author" : "@kanterbury",
+      "day" : 2,
+      "url" : "https://kanterbury.hatenablog.com/entry/2021/12/02/094700"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクリーンリーダー対応の備忘録",
+      "author" : "@masaya82",
+      "day" : 3,
+      "url" : "https://qiita.com/masaya82/items/b55a86f9fc7175231d0b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "依存関係逆転の原則",
+      "author" : "@okuzawats",
+      "day" : 4,
+      "url" : "https://okuzawats.com/posts/dip/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DroidKaigi2021に登壇した話",
+      "author" : "@m-coder",
+      "day" : 5,
+      "url" : "https://note.com/m_coder/n/n74901d195d83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyやってた人間がGo始めて思ったこと",
+      "author" : "@zzzaaawwwaaa",
+      "day" : 6,
+      "url" : "https://qiita.com/zzzaaawwwaaa/items/9bc95826556beb4bb9c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fastlane で AppStoreConnect にアップロードするまで ",
+      "author" : "@jfurudo",
+      "day" : 7,
+      "url" : "https://qiita.com/jfurudo/items/2f18cf392d307d770f65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "きらめく星（の力で憧れの私）描くよ",
+      "author" : "@inoriko711",
+      "day" : 8,
+      "url" : "https://qiita.com/inoriko711/items/289766bd1088faa406d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PokéAPI を使ってポケモン図鑑の Android を作ってみた",
+      "author" : "@Daiji256",
+      "day" : 9,
+      "url" : "https://qiita.com/Daiji256/items/45461e08f5924ff36c4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "再読：リファクタリング・ウェットウェア",
+      "author" : "@nobux42",
+      "day" : 10,
+      "url" : "https://qiita.com/nobux42/items/ae679f00dc11bbf0b640"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS ClockBound で遊んでみた",
+      "author" : "@shogo82148",
+      "day" : 11,
+      "url" : "https://shogo82148.github.io/blog/2021/12/11/aws-cloud-bound/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術選定を疎かにしたツケを払ったお話し",
+      "author" : "@seto_inugami",
+      "day" : 12,
+      "url" : "https://qiita.com/seto_inugami/items/776f79f0b4f153d17bd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フラーで採用しているWebアプリケーションフレームワーク Goa の紹介",
+      "author" : "@furusax",
+      "day" : 13,
+      "url" : "https://furusax0621.hatenablog.com/entry/2021/12/13/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesignerとpythonに触れる",
+      "author" : "@SaturnR7",
+      "day" : 14,
+      "url" : "https://qiita.com/SaturnR7/items/1b8dc55ff8e2d5839eb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reactで教習所Lifeをちょっと助けてくれるかもしれないアプリをつくってみた",
+      "author" : "@aikosogabe",
+      "day" : 15,
+      "url" : "https://qiita.com/aikosogabe/items/4d01d3be294a9611fe2a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iBeaconについてとその使い道を考えてみる🥓",
+      "author" : "@yudai_watanabe",
+      "day" : 16,
+      "url" : "https://qiita.com/yudai_watanabe/items/2b94334fc6e76aff2a0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CoreMLとCreateMLを使って犬の分類器を作ってみた！",
+      "author" : "@kousuke_sumiyasu",
+      "day" : 17,
+      "url" : "https://qiita.com/kousuke_sumiyasu/items/7b9d8a09b38627f7d562"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハードコードを許されない変数をどうしても Xcode プロジェクトの Info.plist に差し込みたい🔑",
+      "author" : "@nnsnodnb",
+      "day" : 18,
+      "url" : "https://nnsnodnb.hatenablog.jp/entry/use-env-val-info-plist-from-machine"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「コーディングしない」という不安に対してマネージャーはどう向き合うか",
+      "author" : "@ujikawa1026",
+      "day" : 19,
+      "url" : "https://namaninotiteti1026.hatenadiary.jp/entry/2021/12/19/000815"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUI + CombineでMVVMサンプルアプリを作ってみた！",
+      "author" : "@maezawa1234",
+      "day" : 20,
+      "url" : "https://qiita.com/maezawa1234/items/1025fd5d0a105cc2bdb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Zoom Video SDK を使ってみる①",
+      "author" : "@Yoshiatsu_Irei",
+      "day" : 21,
+      "url" : "https://qiita.com/Yoshiatsu_Irei/items/f890a5a963aa3a60349d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormationのパラメータ管理をjsonにした話",
+      "author" : "@gaku07jp",
+      "day" : 22,
+      "url" : "https://blog.zitaku.net/2021/12/22/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Chromebookでも使えるアプリ」にする",
+      "author" : "@m-coder",
+      "day" : 23,
+      "url" : "https://zenn.dev/m_coder/articles/article-zenn-chromebook-app"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナ遠洋航海 ~そこらへんの草でも食わせておけ プロセス分離の旅路 ~",
+      "author" : "@su8",
+      "day" : 24,
+      "url" : "https://qiita.com/su8/items/517b5a2de22973dc4513"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsでAndroid Room / Realmの自動テスト",
+      "author" : "@okuzawats",
+      "day" : 25,
+      "url" : "https://okuzawats.com/posts/room-or-realm-test-on-github-actions/"
+    }
+  ]
+}

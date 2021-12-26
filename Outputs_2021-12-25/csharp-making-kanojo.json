@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:13:05Z",
+  "calendar_meta_data" : {
+    "author" : "@jacoloves",
+    "category" : "プログラミング言語",
+    "lgtm" : 53,
+    "subscribers" : 17,
+    "title" : "クリスマスなのでC#でカノジョ（デスクトップアプリ）を作る Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "csharp-making-kanojo",
+    "url" : "https://qiita.com/advent-calendar/2021/csharp-making-kanojo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（1日目）",
+      "author" : "@jacoloves",
+      "day" : 1,
+      "url" : "https://qiita.com/jacoloves/items/0510c6f20f69280c2759"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（2日目）",
+      "author" : "@jacoloves",
+      "day" : 2,
+      "url" : "https://qiita.com/jacoloves/items/2a8c284fef6db7245cf7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（3日目）",
+      "author" : "@jacoloves",
+      "day" : 3,
+      "url" : "https://qiita.com/jacoloves/items/329e6eedf56fa36cd18c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（4日目）",
+      "author" : "@jacoloves",
+      "day" : 4,
+      "url" : "https://qiita.com/jacoloves/items/661ae5508eb3cf01972f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（5日目）",
+      "author" : "@jacoloves",
+      "day" : 5,
+      "url" : "https://qiita.com/jacoloves/items/030031a63bf786619cd4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（6日目）",
+      "author" : "@jacoloves",
+      "day" : 6,
+      "url" : "https://qiita.com/jacoloves/items/79a5cf4bb81030e2114d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（7日目）",
+      "author" : "@jacoloves",
+      "day" : 7,
+      "url" : "https://qiita.com/jacoloves/items/e6aab1f6f72b414e7c7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（8日目）",
+      "author" : "@jacoloves",
+      "day" : 8,
+      "url" : "https://qiita.com/jacoloves/items/11848d1f207076c95e28"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（9日目）",
+      "author" : "@jacoloves",
+      "day" : 9,
+      "url" : "https://qiita.com/jacoloves/items/9d8b9b8c3069fb15d117"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（10日目）",
+      "author" : "@jacoloves",
+      "day" : 10,
+      "url" : "https://qiita.com/jacoloves/items/ce9af1ff9ba53e254cb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（11日目）",
+      "author" : "@jacoloves",
+      "day" : 11,
+      "url" : "https://qiita.com/jacoloves/items/7b27c1084538a2390713"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（12日目）",
+      "author" : "@jacoloves",
+      "day" : 12,
+      "url" : "https://qiita.com/jacoloves/items/8d23f86b3039567eee69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（13日目）",
+      "author" : "@jacoloves",
+      "day" : 13,
+      "url" : "https://qiita.com/jacoloves/items/742b1194afc37179fa83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（14日目）",
+      "author" : "@jacoloves",
+      "day" : 14,
+      "url" : "https://qiita.com/jacoloves/items/45183f92362f6a8c134f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（15日目）",
+      "author" : "@jacoloves",
+      "day" : 15,
+      "url" : "https://qiita.com/jacoloves/items/ca06420bd425e7ad00a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（16日目）",
+      "author" : "@jacoloves",
+      "day" : 16,
+      "url" : "https://qiita.com/jacoloves/items/60210610f5db4df661e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（17日目）",
+      "author" : "@jacoloves",
+      "day" : 17,
+      "url" : "https://qiita.com/jacoloves/items/7dcc58f85aec26a27681"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（18日目）",
+      "author" : "@jacoloves",
+      "day" : 18,
+      "url" : "https://qiita.com/jacoloves/items/d30803f96200e12c0390"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（19日目）",
+      "author" : "@jacoloves",
+      "day" : 19,
+      "url" : "https://qiita.com/jacoloves/items/76042813264f68dad536"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（20日目）",
+      "author" : "@jacoloves",
+      "day" : 20,
+      "url" : "https://qiita.com/jacoloves/items/f6fadd335d8f81a725b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（21日目）",
+      "author" : "@jacoloves",
+      "day" : 21,
+      "url" : "https://qiita.com/jacoloves/items/29d2172d8802f2628dd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（22日目）",
+      "author" : "@jacoloves",
+      "day" : 22,
+      "url" : "https://qiita.com/jacoloves/items/32075f9955623358afa9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（23日目）",
+      "author" : "@jacoloves",
+      "day" : 23,
+      "url" : "https://qiita.com/jacoloves/items/9217d9153fef0cc02124"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（24日目）",
+      "author" : "@jacoloves",
+      "day" : 24,
+      "url" : "https://qiita.com/jacoloves/items/d4317e50ac0dc4000e9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#でカノジョをつくる（25日目）",
+      "author" : "@jacoloves",
+      "day" : 25,
+      "url" : "https://qiita.com/jacoloves/items/8d39be35c6a23e23e663"
+    }
+  ]
+}

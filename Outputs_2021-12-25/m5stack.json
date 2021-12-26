@@ -1,0 +1,187 @@
+{
+  "created_at" : "2021-12-25T21:40:07Z",
+  "calendar_meta_data" : {
+    "author" : "@ciniml",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 45,
+    "subscribers" : 55,
+    "title" : "M5Stack Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "m5stack",
+    "url" : "https://qiita.com/advent-calendar/2021/m5stack"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ATOM Displayの内部処理概要",
+      "author" : "@ciniml",
+      "day" : 1,
+      "url" : "https://qiita.com/ciniml/items/30759f0083df5e07865f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【M5Stack 2021】 #M5Stack Core2 ＋ #UIFlow で音を鳴らすのに手間が少なそうな方法（＋ ffmpeg での音声ファイルの処理の話）",
+      "author" : "@youtoy",
+      "day" : 2,
+      "url" : "https://qiita.com/youtoy/items/57fce216e2f74dff2452"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP32(ATOM Lite)で使ってみた、おすすめしたい arduino-esp32 Library",
+      "author" : "@riraosan",
+      "day" : 3,
+      "url" : "https://qiita.com/riraosan/items/e9bb01715497777da011"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stackで部屋の震度を時系列に計測した",
+      "author" : "@foka22ok",
+      "day" : 4,
+      "url" : "https://qiita.com/foka22ok/items/e5485d33d306d72098ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " M5ATOMでインターホンを別室から応答できるようにする",
+      "author" : "@siroitori0413",
+      "day" : 5,
+      "url" : "https://elchika.com/article/3cd68008-9717-4bc1-a269-8f839959906b/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stack用超音波測距ユニットのひみつ",
+      "author" : "@takeru@github",
+      "day" : 6,
+      "url" : "https://qiita.com/takeru@github/items/4f408e9edaf915f168d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stackでxeyesしてみたら意外に便利",
+      "author" : "@Lathe",
+      "day" : 7,
+      "url" : "https://qiita.com/Lathe/items/4a55f53fdbcec89368f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5UNIT V　画像で硬貨の合計金額を算出",
+      "author" : "@Lathe",
+      "day" : 8,
+      "url" : "https://qiita.com/Lathe/items/07625e4759eac5eb0280"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebMTG中なのを家族に自動で示すIoTシステムを作ったらリモートワークが快適になったよ",
+      "author" : "@Kta-M",
+      "day" : 9,
+      "url" : "https://tech.fusic.co.jp/posts/2021-12-07-webmtg-iot/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kintoneでIot！M5StickCをノーコードで設定［CO2濃度編］",
+      "author" : "@yama_moto250R",
+      "day" : 10,
+      "url" : "https://qiita.com/yama_moto250R/items/a8756ba8a57e02b9d5ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年12月版】Arduino CLIを使ったM5Stack系デバイスへのスケッチアップロード方法【シリアルモニタもあるよ！】",
+      "author" : "@miso_develop",
+      "day" : 11,
+      "url" : "https://qiita.com/miso_develop/items/a02734d21c8363b6fd1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5AtomからI2Sでステレオ音を出力する",
+      "author" : "@kn1cht",
+      "day" : 12,
+      "url" : "https://zenn.dev/kn1cht/articles/m5atom-stereoi2s-uda1334a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP32の書き込み",
+      "author" : "@yamori813",
+      "day" : 14,
+      "url" : "https://qiita.com/yamori813/items/1fcd299700b604f80d19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stackでイチゴの自動水やり装置を作る",
+      "author" : "@ma38su",
+      "day" : 15,
+      "url" : "https://qiita.com/ma38su/items/9f47d100e95b6991ab21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stack CAT-M UNIT をSORACOMで使う",
+      "author" : "@m_take",
+      "day" : 16,
+      "url" : "https://qiita.com/m_take/items/e2d946cbaf5b4131116d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stackと超音波センサとJavaScriptでテルミン作ってみた",
+      "author" : "@meganetaaan",
+      "day" : 17,
+      "url" : "https://meganetaaan.jp/articles/m5-supersonic-theremin"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ｽﾀｯｸﾁｬﾝ をArduinoFrameworkでスムーズに動かす[PWMサーボ版]",
+      "author" : "@mongonta0716",
+      "day" : 18,
+      "url" : "https://raspberrypi.mongonta.com/how-to-move-with-sg90-arduinoframework/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "100均グッズｽﾀｯｸﾁｬﾝ くつした整理カップS",
+      "author" : "@36kyo",
+      "day" : 19,
+      "url" : "https://fluorite36.hatenablog.com/entry/2021/12/20/013813"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BagCをUIFlowでPuiPuiモルカー",
+      "author" : "@yama_moto250R",
+      "day" : 20,
+      "url" : "https://qiita.com/yama_moto250R/items/da58a6637c10eefdeda0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超初心者がM5Stackを使っておうちイベントを作った話",
+      "author" : "@nas0623",
+      "day" : 21,
+      "url" : "https://nas-tech.hatenadiary.com/entry/2021/12/21/013521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5stamp picoでプレゼンテーションリモコンを作ったら見事に敗北した件",
+      "author" : "@koushiro",
+      "day" : 22,
+      "url" : "https://qiita.com/koushiro/items/7cfa3895461171dfc541"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5stackを利用してさくらのモノプラットフォームとhacobuneを使ってみました",
+      "author" : "@shinfrom",
+      "day" : 23,
+      "url" : "https://qiita.com/shinfrom/items/964ea29f7a2dd3d8b042"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5Stackでロボットっぽいものを作った",
+      "author" : "@tomorrow56",
+      "day" : 24,
+      "url" : "https://qiita.com/tomorrow56/items/643a18fd3004c1121e11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おしゃれ家庭菜園egglingの水やりを自動化したい",
+      "author" : "@ume-boshi",
+      "day" : 25,
+      "url" : "https://ume-boshi.hatenablog.jp/entry/2021/12/25/161912"
+    }
+  ]
+}

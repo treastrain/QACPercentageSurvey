@@ -1,0 +1,139 @@
+{
+  "created_at" : "2021-12-25T17:54:01Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社Diverse",
+    "category" : "企業・学校・団体",
+    "lgtm" : 25,
+    "subscribers" : 0,
+    "title" : "株式会社Diverse Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "diverse",
+    "url" : "https://qiita.com/advent-calendar/2021/diverse"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタイルの適用方法で混乱したのでMUIとChakra UIを例にまとめてみた",
+      "author" : "@mu-suke08",
+      "day" : 3,
+      "url" : "https://qiita.com/mu-suke08/items/112a460723299f2a85a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "git resetを使ってコミットログをきれいに保つ",
+      "author" : "@mu-suke08",
+      "day" : 10,
+      "url" : "https://qiita.com/mu-suke08/items/83671af47661c9293a99"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QiitaのLGTM率をGASとQiita APIで計算してみた",
+      "author" : "@mu-suke08",
+      "day" : 17,
+      "url" : "https://qiita.com/mu-suke08/items/f5bad8f4a149ddc7fdc2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firestoreで集計したい",
+      "author" : "@giiiita",
+      "day" : 20,
+      "url" : "https://qiita.com/giiiita/items/72fa04313717ea1fc2d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内の複数のiOSアプリの証明書をどう管理するのか",
+      "author" : "@Masataka-n",
+      "day" : 22,
+      "url" : "https://qiita.com/Masataka-n/items/9c84d19e54952f02407b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Redashで最新の情報をSQLで取得してSlackに通知したい",
+      "author" : "@ao41",
+      "day" : 23,
+      "url" : "https://qiita.com/ao41/items/82195affb91d62a20324"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【コピペでok】よく使うGASのtips",
+      "author" : "@mu-suke08",
+      "day" : 24,
+      "url" : "https://qiita.com/mu-suke08/items/b50f7c0ed06c26bb0745"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1Passwordの整理をした話",
+      "author" : "@nagae11",
+      "day" : 25,
+      "url" : "https://qiita.com/nagae11/items/1faa90709920f1740ace"
+    }
+  ]
+}

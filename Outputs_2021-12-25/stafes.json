@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-26T03:20:53Z",
+  "calendar_meta_data" : {
+    "author" : "@yoshifujiT",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 5,
+    "title" : "スターフェスティバル Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "stafes",
+    "url" : "https://qiita.com/advent-calendar/2021/stafes"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "スタフェスエンジニアブログ開会宣言",
+      "author" : "@kajiken",
+      "day" : 1,
+      "url" : "https://zenn.dev/stafes/articles/stafes-first-article"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "顔見知りが居ないチームにJOINする時に意識した事",
+      "author" : "@ikkitang",
+      "day" : 2,
+      "url" : "https://www.ikkitang1211.site/entry/stafes2021-2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内で輪読会をしている話",
+      "author" : "@yoshifujiT",
+      "day" : 3,
+      "url" : "https://zenn.dev/stafes/articles/round-reading-session"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ExpoのHermesでビルドしてみた",
+      "author" : "@shota1995m",
+      "day" : 4,
+      "url" : "https://zenn.dev/shota1995m/articles/beec8572c7314a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1ヶ月間良い姿勢で仕事した結果",
+      "author" : "@YAhiru",
+      "day" : 5,
+      "url" : "https://y-ahiru.hatenadiary.jp/entry/2021/12/05/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WeWorkたのしいの話",
+      "author" : "@sori_ja",
+      "day" : 7,
+      "url" : "https://lanieve.jp/archives/865"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてReact Nativeでネイティブアプリをリリースした話",
+      "author" : "@yoshifujiT",
+      "day" : 8,
+      "url" : "https://zenn.dev/stafes/articles/react-native-beginner"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "育休を取らせてもらった話",
+      "author" : "@ikkitang",
+      "day" : 9,
+      "url" : "https://www.ikkitang1211.site/entry/stafes-9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークで会社バリューを体現する時に気をつけている事",
+      "author" : "@ukshinpei",
+      "day" : 11,
+      "url" : "https://qiita.com/ukshinpei/items/d25c5c88206cecf9e5b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "作りながら学ぶDIコンテナ",
+      "author" : "@YAhiru",
+      "day" : 12,
+      "url" : "https://zenn.dev/y_ahiru/articles/learn-a-di-container"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自社サービス「ごちクルNow」のアーキテクチャについて紹介",
+      "author" : "@sori_ja",
+      "day" : 14,
+      "url" : "https://lanieve.jp/archives/875"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web開発しかしてこなかったエンジニアがはじめてネイティブアプリを開発して慄いたこと",
+      "author" : "@yoshifujiT",
+      "day" : 15,
+      "url" : "https://zenn.dev/stafes/articles/native-app-phobia"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イミュータブルデータモデリングのチャレンジにあたって気をつけてる事",
+      "author" : "@ikkitang",
+      "day" : 16,
+      "url" : "https://www.ikkitang1211.site/entry/stafes2021-16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ReactNative+FCMでiOSに画像をpush通知するときのつまづきポイント",
+      "author" : "@sori_ja",
+      "day" : 17,
+      "url" : "https://zenn.dev/stafes/articles/rn-fcm-ios-image"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一年間アウトプットを意識してみた",
+      "author" : "@shota1995m",
+      "day" : 18,
+      "url" : "https://zenn.dev/shota1995m/articles/a777949e1801c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロジックを書くときは抽象度を揃えるように気を付けている話",
+      "author" : "@YAhiru",
+      "day" : 19,
+      "url" : "https://y-ahiru.hatenadiary.jp/entry/2021/12/19/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最高のペアプロを受けた話",
+      "author" : "@MOssan-32",
+      "day" : 20,
+      "url" : "https://zenn.dev/otsumo/articles/9cd9294be804bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタフェスメンバーの名言を紹介します",
+      "author" : "@sori_ja",
+      "day" : 21,
+      "url" : "https://lanieve.jp/archives/882"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React conf 2021を見た話",
+      "author" : "@shota1995m",
+      "day" : 22,
+      "url" : "https://zenn.dev/shota1995m/articles/aa1040c1abd97b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームごとの成果を褒め称える Win Session Party について",
+      "author" : "@MOssan-32",
+      "day" : 23,
+      "url" : "https://zenn.dev/stafes/articles/about-win-session"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プルリクエストのテンプレートを改善したら、レビュー効率が上がった話",
+      "author" : "@shota1995m",
+      "day" : 24,
+      "url" : "https://zenn.dev/stafes/articles/d235146a37e0d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レイトステージスタートアップにCTOとして 参画して2年目のアレコレ",
+      "author" : "@sotarok",
+      "day" : 25,
+      "url" : "https://note.com/sotarok/n/n3a1475b5c8e4"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "created_at" : "2021-12-25T18:45:02Z",
+  "calendar_meta_data" : {
+    "author" : "バスキュール",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 13,
+    "title" : "クリエイティブエンジニアのための狂科書 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "hello-crazy-world",
+    "url" : "https://qiita.com/advent-calendar/2021/hello-crazy-world"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "第1章 公開",
+      "author" : "@katapad",
+      "day" : 1,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基本的なプロジェクトの進行フロー",
+      "author" : "@katapad",
+      "day" : 7,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-workflow"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロトタイプ・モックの作り方",
+      "author" : "@katapad",
+      "day" : 8,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-howtoproto"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "作りながらレポートを書いて、資産にする",
+      "author" : "@katapad",
+      "day" : 9,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-makingreport"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "60%の進捗で報告するのが、正しい進捗報告",
+      "author" : "@katapad",
+      "day" : 10,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-awesomereport"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バグを出すやつが9割。エラーを読まないやつが9割。合計18割。",
+      "author" : "@katapad",
+      "day" : 11,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-buganderror"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スケジュールの立て方と壊れいくスケジュール進行",
+      "author" : "@katapad",
+      "day" : 12,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-schedule"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "不確実で不安なものから先に手をつけ、うるせーだけのやつはスルー",
+      "author" : "@katapad",
+      "day" : 13,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-uncertainty"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「いい感じにして」と言われたら",
+      "author" : "@katapad",
+      "day" : 14,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-ekanji"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "俺がよくやる実装方法",
+      "author" : "@katapad",
+      "day" : 15,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-3_mystyle"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術選定",
+      "author" : "@katapad",
+      "day" : 16,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-3_selecttech"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@katapad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "センサーを気軽に扱うツール・デバイス",
+      "author" : "@katapad",
+      "day" : 18,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-3_sensor-tools"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "センサーとの向き合いかた",
+      "author" : "@katapad",
+      "day" : 19,
+      "url" : "https://zenn.dev/katapad/books/creative-engineering-textbook/viewer/2-3_senseofsensor"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@katapad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@katapad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@katapad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@katapad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@katapad"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@katapad"
+    }
+  ]
+}

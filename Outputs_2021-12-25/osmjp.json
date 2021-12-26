@@ -1,0 +1,149 @@
+{
+  "created_at" : "2021-12-25T20:18:34Z",
+  "calendar_meta_data" : {
+    "author" : "@mapconcierge",
+    "category" : "企業・学校・団体",
+    "lgtm" : 14,
+    "subscribers" : 7,
+    "title" : "OpenStreetMap Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "osmjp",
+    "url" : "https://qiita.com/advent-calendar/2021/osmjp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "HOT SUMMIT 2021 Virtual 登壇報告",
+      "author" : "@mapconcierge",
+      "day" : 1,
+      "url" : "https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%81%AB%E3%81%AA%E3%81%8410%E5%84%84%E3%81%AE%E4%BA%BA%E3%80%85-775d037a94eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "図書館年表マップを公開しました！",
+      "author" : "@K-Sakanoshita",
+      "day" : 2,
+      "url" : "https://k-sakanoshita.medium.com/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E8%A1%A8%E3%83%9E%E3%83%83%E3%83%97%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-e83543ec89ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FOSS4GとOSMと僕の10年間",
+      "author" : "@den_thor",
+      "day" : 3,
+      "url" : "https://note.com/jyun76/n/nbd9a3f6261c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンデータの地図 OpenStreetMap の世界",
+      "author" : "@t-kurasawa",
+      "day" : 4,
+      "url" : "https://qiita.com/t-kurasawa/items/03e5bc9c9a07d8ff99b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "タスキングマネージャーを使ってみよう。",
+      "author" : "@ikiya",
+      "day" : 6,
+      "url" : "http://openstreetmap.blogspot.com/2021/12/blog-post.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンデータで一緒に作ろう",
+      "author" : "@K-Sakanoshita",
+      "day" : 7,
+      "url" : "https://k-sakanoshita.medium.com/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E4%BD%9C%E3%82%8D%E3%81%86-f75c80f2af60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenStreetMap日本の建物マッピング率",
+      "author" : "@nyampire",
+      "day" : 8,
+      "url" : "https://qiita.com/nyampire/items/8c0de499306b5c0d0f31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OverpassAPI を {Java,Type}Script から使ってみよう",
+      "author" : "@YuukiToriyama",
+      "day" : 9,
+      "url" : "https://qiita.com/YuukiToriyama/items/2a9b17bc58298e7e3417"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "町名・字名の登録について",
+      "author" : "@okadatsuneo",
+      "day" : 19,
+      "url" : "https://www.openstreetmap.org/user/okadatsuneo/diary/398285"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "週刊OSMを見てみよう。",
+      "author" : "@ikiya",
+      "day" : 20,
+      "url" : "http://openstreetmap.blogspot.com/2021/12/osm.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "津山のＷＥＢ地図作り～ＯＳＭの始め方～",
+      "author" : "@marukitax",
+      "day" : 22,
+      "url" : "https://note.com/marukitax/n/n25d77ab2bc49"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@K-Sakanoshita"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

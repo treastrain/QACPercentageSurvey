@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-26T04:31:56Z",
+  "calendar_meta_data" : {
+    "author" : "ABEJA, Inc.",
+    "category" : "企業・学校・団体",
+    "lgtm" : 444,
+    "subscribers" : 19,
+    "title" : "ABEJA Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "abeja",
+    "url" : "https://qiita.com/advent-calendar/2021/abeja"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "OBD2 x RaspberryPiで車両情報をクラウド側で蓄積＆BIで分析できるようにする",
+      "author" : "@xecus",
+      "day" : 1,
+      "url" : "https://qiita.com/xecus/items/c96bec764e20946059a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドローンに使用される姿勢推定システムをRaspberry Piで実装する",
+      "author" : "@tetsu-k",
+      "day" : 2,
+      "url" : "https://qiita.com/tetsu-k/items/c3704215b8cd3788958b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学生/社会人エンジニアインターンの心構え",
+      "author" : "@takutheking",
+      "day" : 3,
+      "url" : "https://qiita.com/takutheking/items/f106b918413dbcf09f18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "店舗のデータ分析を支えるAirflow/BigQueryの運用事例について",
+      "author" : "@fly1tkg",
+      "day" : 4,
+      "url" : "https://qiita.com/fly1tkg/items/9a5c0cbf0e0fe22c640c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GSS(Google SpreadSheet)とGAS(Google AppScript)でランダムメンバー選択通知システム作った話",
+      "author" : "@Z-me",
+      "day" : 5,
+      "url" : "https://qiita.com/Z-me/items/af4ee82e0b30b279a474"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "楽天カードを使いすぎるとお猿さんが大暴れする装置  ~PART①:明細スクレイピング~",
+      "author" : "@xecus",
+      "day" : 6,
+      "url" : "https://qiita.com/xecus/items/47b94d7369baa228d44b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeでVimをはじめてから半年間くらいたった体験記と設定など",
+      "author" : "@skzhw",
+      "day" : 7,
+      "url" : "https://qiita.com/skzhw/items/1c922223467fe4364cc7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GANを使わず画像を綺麗にしたい話（SRFlow）",
+      "author" : "@SO0529",
+      "day" : 8,
+      "url" : "https://qiita.com/SO0529/items/fd2bb417a0badbc9a324"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年注目のNeRF: Neural Radiance Fieldsの派生論文について被引用数といいねの数でランキングした",
+      "author" : "@mitchy3yos",
+      "day" : 9,
+      "url" : "https://qiita.com/mitchy3yos/items/957a2222238686254b82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "会社の公用ドキュメントツールをDocbaseからNotionに変更した件",
+      "author" : "@Z-me",
+      "day" : 10,
+      "url" : "https://qiita.com/Z-me/items/575cdd6f7903043382cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alexaは電気執事の夢を見るか",
+      "author" : "@youlixiang",
+      "day" : 11,
+      "url" : "https://note.com/yt_nr/n/nca90d12b6a90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Engineering toolkits to boost up your Data Science career",
+      "author" : "@anirudha",
+      "day" : 12,
+      "url" : "https://qiita.com/anirudha/items/c69c3caa5aa62aa37a7c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "僕の考えたメタバースの世界を実装してみる",
+      "author" : "@peisuke",
+      "day" : 13,
+      "url" : "https://qiita.com/peisuke/items/e876e7be3ba4b5fa5aa3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StyleGAN2 ADAで作る見たことないF1車体画像",
+      "author" : "@imais",
+      "day" : 14,
+      "url" : "https://qiita.com/imais/items/d659818d381c74a90fc1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンティストとは何か論争にAI(gpt-2)で終止符を打とうとした話",
+      "author" : "@pao2",
+      "day" : 15,
+      "url" : "https://qiita.com/pao2/items/cedc59aa612c237bcc2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2022年のプロ野球ホームラン王を予測してみた",
+      "author" : "@ka_matsu",
+      "day" : 16,
+      "url" : "https://qiita.com/ka_matsu/items/f3e8dd798c518b92f8b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OCRとElasticsearchで画像ファイルの検索エンジンを作る",
+      "author" : "@shohei1113",
+      "day" : 17,
+      "url" : "https://qiita.com/shohei1113/items/0691659f53f64791cc5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "旧型機(word2vec)を魔改造して新型機(BERT)に一泡吹かせたい件/advent callender 2021",
+      "author" : "@takahashi_yukou",
+      "day" : 18,
+      "url" : "https://qiita.com/takahashi_yukou/items/9e1eb246ff238a567876"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@snufkon"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【メタバース】会社のVRワールドを1ヶ月で開発して忘年会を開催する方法",
+      "author" : "@tetsu-k",
+      "day" : 20,
+      "url" : "https://qiita.com/tetsu-k/items/992ba680dec4b559c607"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オフィスDXを支える技術（フロントエンド編）",
+      "author" : "@ishikawa@github",
+      "day" : 21,
+      "url" : "https://tech-blog.abeja.asia/entry/office-dx-frontend-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "仕事を無くす技術",
+      "author" : "@shogomuranushi",
+      "day" : 22,
+      "url" : "https://medium.com/@shogomuranushi/%E4%BB%95%E4%BA%8B%E3%82%92%E7%84%A1%E3%81%8F%E3%81%99%E6%8A%80%E8%A1%93-44fd20a5be32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オフィスDXを支える技術（バックエンド編）",
+      "author" : "@toshitanian",
+      "day" : 23,
+      "url" : "https://tech-blog.abeja.asia/entry/office-dx-backend-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ふわっと上司にAIで何とかしろ言われた時の生存戦略",
+      "author" : "@hjm0323",
+      "day" : 24,
+      "url" : "https://qiita.com/hjm0323/items/00fbe3591439c3f4a819"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AIの透明性、説明可能性、アカウンタビリティ",
+      "author" : "@nfuru08",
+      "day" : 25,
+      "url" : "https://qiita.com/nfuru08/items/4c4afdf85db5968942c6"
+    }
+  ]
+}

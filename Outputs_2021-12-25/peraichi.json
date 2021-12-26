@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-25T22:22:24Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ペライチ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 85,
+    "subscribers" : 10,
+    "title" : "ペライチアドベントカレンダー Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "peraichi",
+    "url" : "https://qiita.com/advent-calendar/2021/peraichi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "SSL証明書はなんのために必要？",
+      "author" : "@tektoh",
+      "day" : 1,
+      "url" : "https://qiita.com/tektoh/items/3e59d1c1f0434711ff79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペライチの社内ラジオ「ペラジオ」スピンアウト企画！アドベントカレンダーについて",
+      "author" : "@nabettu",
+      "day" : 2,
+      "url" : "https://www.youtube.com/watch?v=5mZiZuy9CQE"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebase FunctionのCallable Functionsを使わずWebフロント側のAPIに寄せると管理が楽だよ",
+      "author" : "@nabettu",
+      "day" : 4,
+      "url" : "https://nabettu.com/2db4d5749a7a4e0c897f29dddfd481d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのテーブル定義をMarkdown形式に出力するシェル",
+      "author" : "@nagami_naoki",
+      "day" : 5,
+      "url" : "https://qiita.com/nagami_naoki/items/497ac871de7f3ecdd803"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペライチ開発チームのご紹介",
+      "author" : "@katsukii",
+      "day" : 7,
+      "url" : "https://qiita.com/katsukii/items/a37b0afc9cc37d512ecb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア社長は、いつコードを書くのをやめるべきか?",
+      "author" : "@hassy0607",
+      "day" : 10,
+      "url" : "https://note.com/hassy0607/n/n9a3cd4aabeb1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタマーサポートはプロダクト開発の一番美味しい所",
+      "author" : "@nabettu",
+      "day" : 11,
+      "url" : "https://nabettu.com/018880709b9642bd88474dd49e67d351"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドメイン設定のよくあるミス",
+      "author" : "@tektoh",
+      "day" : 13,
+      "url" : "https://qiita.com/tektoh/items/225a4b69b44e81c696ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あずま的ディスプレイ選定",
+      "author" : "@Azu-MAX",
+      "day" : 16,
+      "url" : "https://qiita.com/Azu-MAX/items/bb07902f125cd1596bec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発効率を爆上げする！デュアルディスプレイ",
+      "author" : "@pivote",
+      "day" : 17,
+      "url" : "https://note.com/pivote_fujine/n/n91faac15d2f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Notionは\"SaaS疲れ\"を解決する救世主となるのか",
+      "author" : "@nabettu",
+      "day" : 18,
+      "url" : "https://nabettu.com/2407b3e66f304077b043ac57f62888ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペライチにおけるオフショア開発について",
+      "author" : "@mitsui_peraichi",
+      "day" : 19,
+      "url" : "https://qiita.com/mitsui_peraichi/items/a13bee395da3281c8622"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webアプリケーションの一部をNuxt化するときのインフラのお話(CloudFront,ALB,S3)",
+      "author" : "@TakakiSato",
+      "day" : 20,
+      "url" : "https://qiita.com/TakakiSato/items/0203369fe04ca214f6c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ペライチは本当に心理的安全性が高いのか",
+      "author" : "@kimura-peraichi",
+      "day" : 21,
+      "url" : "https://qiita.com/kimura-peraichi/items/36d37821a61ff855290d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バックエンドエンジニアにフロントの案件をお願いして並走開発の末に気づいたこと",
+      "author" : "@fujikota",
+      "day" : 22,
+      "url" : "https://qiita.com/fujikota/items/9f9fdfc92860a89a0cd0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nuxtアプリケーションをcircleCIを使ってS3へデプロイする方法。",
+      "author" : "@TakakiSato",
+      "day" : 23,
+      "url" : "https://qiita.com/TakakiSato/items/558a02e75f3d6eed86eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【入社エントリ】エンジニア歴１０ヶ月、ペライチ歴３週間の僕から見たペライチ",
+      "author" : "@YuuuuuTa",
+      "day" : 24,
+      "url" : "https://qiita.com/YuuuuuTa/items/ff54f860775046764ada"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "おすすめ書籍",
+      "author" : "@tektoh",
+      "day" : 25,
+      "url" : "https://note.com/tektoh/n/nd8e3067c59d0"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "created_at" : "2021-12-25T19:55:07Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社リンクアンドモチベーション ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 3590,
+    "subscribers" : 31,
+    "title" : "リンクアンドモチベーション Advent Calendar2021 Advent Calendar 2021",
+    "participants" : 39,
+    "unique_name" : "mcs",
+    "url" : "https://qiita.com/advent-calendar/2021/mcs"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "「言われたことが出来る」から「上司の仕事を奪える」になりたい新人に必要な守破離",
+      "author" : "@okadadaisuke",
+      "day" : 1,
+      "url" : "https://qiita.com/okadadaisuke/items/a0de4a6463cb6492432a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアの生産性を高めるために必要な4つの指標",
+      "author" : "@tomox1001",
+      "day" : 2,
+      "url" : "https://qiita.com/tomox1001/items/cca440ffd656d054d9f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.jsを安全にアップデートするためにやったこと",
+      "author" : "@qurysan",
+      "day" : 3,
+      "url" : "https://qiita.com/qurysan/items/a8dfdbe6891d2951c5ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "多言語対応時に注意しておきたいこと",
+      "author" : "@shohta-noda",
+      "day" : 4,
+      "url" : "https://qiita.com/shohta-noda/items/28c47e42a47e933190bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バグを責めても人は責めるな！信頼関係を崩さないバグチケットを書くための3ステップ",
+      "author" : "@naokikojima",
+      "day" : 5,
+      "url" : "https://qiita.com/naokikojima/items/0a3348177195fbe474ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクト志向な開発文化醸成のためにやった3つのこと",
+      "author" : "@shoheiii",
+      "day" : 6,
+      "url" : "https://qiita.com/shoheiii/items/0c809cd04b2dafb5226d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BIツール利用で忘れちゃいけない、データ活用に潜むセキュリティリスクと予防策",
+      "author" : "@_n-g_",
+      "day" : 7,
+      "url" : "https://qiita.com/_n-g_/items/b1625c446f80e9271ce0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【上司共有用】データチーム立ち上げ時の落とし穴",
+      "author" : "@tohyama_eiji",
+      "day" : 8,
+      "url" : "https://qiita.com/tohyama_eiji/items/33b96771f23b43f19131"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "安心してコードレビューを出すために最低限やるべき4つのこと",
+      "author" : "@taniiiiim",
+      "day" : 9,
+      "url" : "https://qiita.com/taniiiiim/items/87ea8380c9ff948ad4c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開始5分で打ち切り終了？エンジニアが面接で絶対にやってはいけないこと！3選",
+      "author" : "@i_satoshi",
+      "day" : 10,
+      "url" : "https://qiita.com/i_satoshi/items/376dd0fd531157c75017"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンド ド初心者へのススメ",
+      "author" : "@4mdy",
+      "day" : 11,
+      "url" : "https://qiita.com/4mdy/items/f61d7c30da701539232a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「1枚のシート」でエンジニアとデザイナーのストレスが激減した話",
+      "author" : "@sugie_m",
+      "day" : 12,
+      "url" : "https://qiita.com/sugie_m/items/8f5661ba2161cac9a0e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一人前のエンジニアになるためにもっと早くからやれば良かったなと思うこと",
+      "author" : "@komishinnn",
+      "day" : 13,
+      "url" : "https://qiita.com/komishinnn/items/b0177d9b946f04c5c34f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "小さく安全なリリースを実現するために使える「フィーチャートグル」って何？年収は？彼女は？調べてみました！",
+      "author" : "@ipeblb",
+      "day" : 14,
+      "url" : "https://qiita.com/ipeblb/items/92b794321751a6fa133e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "振り返りが開発チームを強くする 〜シチュエーション別、振り返り4選〜",
+      "author" : "@l_kei",
+      "day" : 15,
+      "url" : "https://qiita.com/l_kei/items/5064990844a7cf28e86a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「設計」で大事なのはこれだった！半年間で40本レビューして分かった 5つのポイント",
+      "author" : "@haruka_odenkun",
+      "day" : 16,
+      "url" : "https://qiita.com/haruka_odenkun/items/25be1b53946e42cc9c22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【SRE・インフラエンジニア素人】がリリース時間を1/8にした話",
+      "author" : "@naoki-kishimoto",
+      "day" : 17,
+      "url" : "https://qiita.com/naoki-kishimoto/items/0d83716ed4888fcad1ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MTTRの改善をする中で分かった「この3ステップで業務フローを改善できる！」",
+      "author" : "@hirotaka-awata",
+      "day" : 18,
+      "url" : "https://qiita.com/hirotaka-awata/items/4d512dfcfd127908eb22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンポーネント名で紡がれる2人の絆?!　〜デザイナーとフロントエンドエンジニアのすれ違いの行方〜",
+      "author" : "@SJ_JunichiSuzuki",
+      "day" : 19,
+      "url" : "https://qiita.com/SJ_JunichiSuzuki/items/0918e3c2f21fb0599fb4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "若手の「輝かしい未来」を考えて、爆速成長を実現した話",
+      "author" : "@vankobe",
+      "day" : 20,
+      "url" : "https://qiita.com/vankobe/items/d4cc886f89a4b62e8977"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインを武器に戦えるエンジニアを目指す人が読むべき本",
+      "author" : "@kichihide_y",
+      "day" : 21,
+      "url" : "https://qiita.com/kichihide_y/items/bdd18c0cf74cfd263117"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人エンジニアの必須アクション集　〜初めての山登りに例えてみた〜",
+      "author" : "@waka087",
+      "day" : 22,
+      "url" : "https://qiita.com/waka087/items/a9e88843ecc580c79e10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザ JavaScript / Node.js の仕組みを知ろう！ ～トラブルに迅速に立ち向かえる様に",
+      "author" : "@megmogmog1965",
+      "day" : 23,
+      "url" : "https://qiita.com/megmogmog1965/items/e180d02be711cecdc038"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「〇〇でハマった。。」を避けるコーディング",
+      "author" : "@ymap",
+      "day" : 24,
+      "url" : "https://qiita.com/ymap/items/a5fa0dcf3a0743588a92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キャリアに不安を感じているあなたへ 〜僕がフルスタックエンジニアではなく、マネージャーを目指した理由〜",
+      "author" : "@myzktkyk",
+      "day" : 25,
+      "url" : "https://qiita.com/myzktkyk/items/0fe0f047f85a0fe07892"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "永久保存版！エンジニア向け情報収集サイトをまとめてみた【定期更新】",
+      "author" : "@tomox1001",
+      "day" : 1,
+      "url" : "https://qiita.com/tomox1001/items/384e27b6259efdb6064e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニア採用における内定承諾率UPの3つのポイント",
+      "author" : "@entrylmi",
+      "day" : 2,
+      "url" : "https://qiita.com/entrylmi/items/8f4c1f8b601a8a82aa08"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "フロントエンジニア必見！開発時に使う便利なChrome拡張機能やWebサービス12選！",
+      "author" : "@komishinnn",
+      "day" : 3,
+      "url" : "https://qiita.com/komishinnn/items/43e0739ff2d0aa076b92"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザイナーが声を大にして伝えたい、エンジニアへの「ありがとう」と「ごめんなさい」",
+      "author" : "@yoh-tsujii",
+      "day" : 4,
+      "url" : "https://qiita.com/yoh-tsujii/items/adf49c470808355bfa1e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "必見！コードレビューするなら絶対に知っておきたい5つのコツと20+αの観点",
+      "author" : "@vankobe",
+      "day" : 5,
+      "url" : "https://qiita.com/vankobe/items/728d8ce836458d3ce0b7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "プロダクトづくりに関わるすべての人に刺さるラーメンハゲ名言集",
+      "author" : "@shibayoh",
+      "day" : 6,
+      "url" : "https://qiita.com/shibayoh/private/0eb09e32ba12a3bc35c3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "新米こそ上手に頼れ！　〜甘え上手なエンジニアになるための処方せん〜",
+      "author" : "@naoki_kuhara",
+      "day" : 7,
+      "url" : "https://qiita.com/naoki_kuhara/items/303a7a67b4ca387b878a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "S3 で10万削減？「S3 Storage Lens + ライフサイクルルール」でコスト削減する方法",
+      "author" : "@watatahiki",
+      "day" : 8,
+      "url" : "https://qiita.com/watatahiki/items/f80a42dc3dc4fd976058"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "上司が話を聞いてくれない！新米エンジニアの要点整理術",
+      "author" : "@i_satoshi",
+      "day" : 9,
+      "url" : "https://qiita.com/i_satoshi/items/2407f032098b9d6fc5e0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【初心者】EC2をコストに怯えながら使わなくてすむポイント3選",
+      "author" : "@watatahiki",
+      "day" : 10,
+      "url" : "https://qiita.com/watatahiki/items/6eaa11cea1ff7dd7aacc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "結局「ググり力」とは何なのか、どうやったら伸びるのか",
+      "author" : "@ipeblb",
+      "day" : 11,
+      "url" : "https://qiita.com/ipeblb/items/a71270366cd2dd4937eb"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "誰も教えてくれない！知らないと事故につながるエンジニアの隠れた5つの常識",
+      "author" : "@vankobe",
+      "day" : 12,
+      "url" : "https://qiita.com/vankobe/items/521dc8fb3fd97aca43e4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "怠け者な私が話題の技術情報についていくためにやった3つの地味な工夫",
+      "author" : "@naokikojima",
+      "day" : 13,
+      "url" : "https://qiita.com/naokikojima/items/131420b4d13af60cd87b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "良いエンジニアとは？PMが今年エンジニアに言われて嬉しかった言葉Best5",
+      "author" : "@atsuki_911",
+      "day" : 14,
+      "url" : "https://qiita.com/atsuki_911/items/1f53051b8c6566f41ada"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サービスの稼働を止めずに安心してデータベースのカラム移行を行ったはなし",
+      "author" : "@miukoba",
+      "day" : 15,
+      "url" : "https://qiita.com/miukoba/items/44594cbd80fd6f7a0c06"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニア向け生産性Tips【定期更新】",
+      "author" : "@okadadaisuke",
+      "day" : 16,
+      "url" : "https://qiita.com/okadadaisuke/items/631c86f7b3faa7d3a917"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "全エンジニアが押さえておくべきクエリ処理の流れ　　〜select編〜",
+      "author" : "@toshitk",
+      "day" : 17,
+      "url" : "https://qiita.com/toshitk/items/12ac368ac02b785bb246"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "あなたの30秒がサービスを救う　〜若手向け障害対応の避難訓練〜",
+      "author" : "@ichiharaaaa",
+      "day" : 18,
+      "url" : "https://qiita.com/ichiharaaaa/items/b3bdb7786d05e41dcdb7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「つくったものが使われない」はもう嫌だ！回避するためのデータ活用術",
+      "author" : "@nominomisuke",
+      "day" : 19,
+      "url" : "https://qiita.com/nominomisuke/items/d3da838f7804fe1c7068"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "繋がらないを解決するステップ",
+      "author" : "@kohlm",
+      "day" : 20,
+      "url" : "https://qiita.com/kohlm/items/ba055946b8aa805cb405"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "『わからない』を『使える』に変える言葉の理解の仕方",
+      "author" : "@marimarie",
+      "day" : 21,
+      "url" : "https://qiita.com/marimarie/items/bbe3ece2d46b6d75bea4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "4年目エンジニアから送る「1年目にやってよかった！」3つの行動",
+      "author" : "@toshitk",
+      "day" : 22,
+      "url" : "https://qiita.com/toshitk/items/63fa08ef325d42fbb26b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AutoMLでサクッとお得な物件を探してみた",
+      "author" : "@shirata_motoki",
+      "day" : 23,
+      "url" : "https://qiita.com/shirata_motoki/items/1892be130de2151b6cce"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "IPアドレスと対峙することになった2年目エンジニアの記録",
+      "author" : "@kenta-nakazaki",
+      "day" : 24,
+      "url" : "https://qiita.com/kenta-nakazaki/items/eb762c16da6935d1e888"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "最強の開発手法！？デュアルトラックアジャイルをエンジニア向けに解説",
+      "author" : "@atsuki_911",
+      "day" : 25,
+      "url" : "https://qiita.com/atsuki_911/items/06c6750af72b6218ebe6"
+    }
+  ]
+}

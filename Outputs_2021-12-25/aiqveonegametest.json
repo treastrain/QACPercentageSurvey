@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T02:58:39Z",
+  "calendar_meta_data" : {
+    "author" : "@tana_t",
+    "category" : "企業・学校・団体",
+    "lgtm" : 120,
+    "subscribers" : 19,
+    "title" : "AIQVE ONE ゲームテスト/QA Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "aiqveonegametest",
+    "url" : "https://qiita.com/advent-calendar/2021/aiqveonegametest"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CEDECにはじめて公募出して実際に講演してみた",
+      "author" : "@tana_t",
+      "day" : 1,
+      "url" : "https://qiita.com/tana_t/items/7341f6ba373ae10a791a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームプログラミングを理解し効果的なテストを行う",
+      "author" : "@bluekuma",
+      "day" : 2,
+      "url" : "https://qiita.com/bluekuma/items/4163a1a77d34f3834002"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Airtestでほぼ円状にスワイプしてみる",
+      "author" : "@Digital_NA",
+      "day" : 3,
+      "url" : "https://qiita.com/Digital_NA/items/05009fa370257c5fd111"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームQA業界に「テスト設計者」として異世界転生し戸惑ったこと",
+      "author" : "@ng_31yr",
+      "day" : 4,
+      "url" : "https://qiita.com/ng_31yr/items/53d45f414ae62aca7f7f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームテスター未経験のプログラマがゲーム自動化スクリプターにジョブチェンジした話",
+      "author" : "@toriniku_oishi_",
+      "day" : 5,
+      "url" : "https://qiita.com/toriniku_oishi_/items/78ded285fb577cce56f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームの魅力的品質を助けるレビュー「で、そのゲーム面白いの？」",
+      "author" : "@poremaru",
+      "day" : 6,
+      "url" : "https://qiita.com/poremaru/items/cc03802f7302c7afb7c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンシューマガイドライン資料に出てくる「IARC」とは？",
+      "author" : "@y_thous",
+      "day" : 7,
+      "url" : "https://qiita.com/y_thous/items/88340ce50c4ae20d1f45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト自動化は人間の心を癒してくれる",
+      "author" : "@Digital_NA",
+      "day" : 8,
+      "url" : "https://qiita.com/Digital_NA/items/40e72ade8863c27b3577"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームテスト終了後の「振り返り」と「品質分析」は大切",
+      "author" : "@r_nino",
+      "day" : 9,
+      "url" : "https://qiita.com/r_nino/items/a9a8a5ee2aa1b2a07da5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バウムクーヘン型PDCAについて考えてみた。",
+      "author" : "@baumchan",
+      "day" : 10,
+      "url" : "https://qiita.com/baumchan/items/ba55cfbb2340da7662e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業界未経験のプログラミング初心者が実務で自動化スクリプトを作る際にぶつかった壁",
+      "author" : "@umi_n",
+      "day" : 11,
+      "url" : "https://qiita.com/umi_n/items/57f2868715861806a93e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Airtestでテンプレート画像の整理を試行錯誤した話",
+      "author" : "@not_kdm",
+      "day" : 12,
+      "url" : "https://qiita.com/not_kdm/items/2d39f382fc8cb8af98f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者がJSTQB認定テスト技術者資格(FL)を取得するために行ったこと",
+      "author" : "@mmk_f",
+      "day" : 13,
+      "url" : "https://qiita.com/mmk_f/items/606af0f2722d34cfbdae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "良い品質管理は思いやりのカタマリだ",
+      "author" : "@SN_dreamer",
+      "day" : 14,
+      "url" : "https://qiita.com/SN_dreamer/items/b7e7173dbbe17297353c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初歩的な仕様把握のやり方",
+      "author" : "@kaesaru",
+      "day" : 15,
+      "url" : "https://qiita.com/kaesaru/items/bb7c9a1daa019bb34087"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒でゲームテスト会社に入社して感じたギャップ",
+      "author" : "@murakichi",
+      "day" : 16,
+      "url" : "https://qiita.com/murakichi/items/3144cb7402101be7995d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームテスターの目線から見た、情報の足りていない仕様書",
+      "author" : "@mo_ai",
+      "day" : 17,
+      "url" : "https://qiita.com/mo_ai/items/1b64ddea49da607eb828"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インディーゲーム開発でのテスト手段について考えてみる",
+      "author" : "@okome_chan",
+      "day" : 18,
+      "url" : "https://qiita.com/okome_chan/items/d70e8aa22d9729684893"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームQAツールの今と未来",
+      "author" : "@m-tobisawa",
+      "day" : 19,
+      "url" : "https://qiita.com/m-tobisawa/items/5bd6ad1f985ad8db6460"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デジタルカードゲームの組み合わせテストでやったこと感じたこと",
+      "author" : "@okawarikun",
+      "day" : 20,
+      "url" : "https://qiita.com/okawarikun/items/578a26d79b2a60fd3b9e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元箸屋が教育担当になって気づいたゲームテスト研修での進め方・伝え方について",
+      "author" : "@iwa_Licorius",
+      "day" : 21,
+      "url" : "https://qiita.com/iwa_Licorius/items/087148e232538dba52fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "POSTMANを使ったAPIのテスト経験のお話",
+      "author" : "@mattari39",
+      "day" : 22,
+      "url" : "https://qiita.com/mattari39/items/a03e63ac8bd164573cad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内で自動化普及活動を始めて1年で思う事",
+      "author" : "@mi_373",
+      "day" : 23,
+      "url" : "https://qiita.com/mi_373/items/378de3ea047823eadd1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STAC2021に参加してみた！",
+      "author" : "@keysh_",
+      "day" : 24,
+      "url" : "https://qiita.com/keysh_/items/cb5d37060747e259e403"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "20年前のゲームテストを振り返って感じること",
+      "author" : "@tana_t",
+      "day" : 25,
+      "url" : "https://qiita.com/tana_t/items/1cba3f23eb70e41c257c"
+    }
+  ]
+}

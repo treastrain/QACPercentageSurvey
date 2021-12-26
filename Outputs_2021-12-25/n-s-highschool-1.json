@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-26T03:10:15Z",
+  "calendar_meta_data" : {
+    "author" : "@ohataken",
+    "category" : "企業・学校・団体",
+    "lgtm" : 27,
+    "subscribers" : 10,
+    "title" : "N・S高等学校 Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "n-s-highschool-1",
+    "url" : "https://qiita.com/advent-calendar/2021/n-s-highschool-1"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2434units.com構築の話",
+      "author" : "@seigo2016",
+      "day" : 1,
+      "url" : "https://blog.seigo2016.com/blog/a57ec43eo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASでSlackAPIを使ってDM送信してみた",
+      "author" : "@naoki_sakano",
+      "day" : 2,
+      "url" : "https://qiita.com/naoki_sakano/items/fb9ab4d0fa543ddfaced"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptでウマ娘診断テストを作ってみた",
+      "author" : "@nakano1120",
+      "day" : 3,
+      "url" : "https://qiita.com/nakano1120/items/d41826cc2c5815958fd9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blenderで戦艦大和を作った話",
+      "author" : "@Ame-ba",
+      "day" : 4,
+      "url" : "https://qiita.com/Ame-ba/items/96d9d282b552c5737882"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュリティに配慮しながらGASを書くTips",
+      "author" : "@iorn121",
+      "day" : 5,
+      "url" : "https://qiita.com/iorn121/items/6881b4766dca543d46e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nuxt.js × microCMSでブログをリニューアルした話",
+      "author" : "@nekozuki_dev",
+      "day" : 6,
+      "url" : "https://blog.nekozuki.me/nl36"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規に Google Apps Script を作成するたびにコピーしている便利な関数 ",
+      "author" : "@ohataken",
+      "day" : 7,
+      "url" : "https://qiita.com/ohataken/items/1e9479ce5c3c32292bbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "shellをもっと便利に ~cd時に自動でgit fetchを実行~",
+      "author" : "@7321hasu",
+      "day" : 8,
+      "url" : "https://zenn.dev/hasu_83/articles/make-custom-cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor WebAssenblyとwin98.cssでダサいアプリをつくる",
+      "author" : "@MogamiTsuchikawa",
+      "day" : 9,
+      "url" : "https://qiita.com/MogamiTsuchikawa/items/11250029414b59754d1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@sk4rd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chakra UI使ってみた話",
+      "author" : "@so1bloom",
+      "day" : 11,
+      "url" : "https://qiita.com/so1bloom/items/72ebb6119b06ff3c2507"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@ohataken"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@naoki_sakano"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "5さいでもわかる(*╹▽╹*) boost python / boost numpy を使った numpy array と C++配列の相互変換",
+      "author" : "@Shio_3001",
+      "day" : 14,
+      "url" : "https://qiita.com/Shio_3001/items/70dc4c15e6aa39dd3da4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Retrofit2でform-dataでファイルを含む複数の値をPOSTする ",
+      "author" : "@hirossan4049",
+      "day" : 15,
+      "url" : "https://qiita.com/hirossan4049/items/8195de36688c4a8c3e57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【React×Dexie】LiveQueryを利用した、リアクティブなIndexedDB",
+      "author" : "@watatomo1216",
+      "day" : 16,
+      "url" : "https://qiita.com/watatomo1216/items/7337600b5ea385b053c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ぷよiPhone作った",
+      "author" : "@mochi_749",
+      "day" : 17,
+      "url" : "https://qiita.com/mochi_749/items/363707f91ba627147efa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@hato-poppo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@ohataken"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[入門編]C#で株APIを呼び出し、予算内で購入出来る人気の株を取得してみた",
+      "author" : "@boxboxbax",
+      "day" : 20,
+      "url" : "https://qiita.com/boxboxbax/items/f2689fc8e3dba5ce6bcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@sizumita"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[入門] 全自作言語erに告ぐ、PEG パーサはいいぞ",
+      "author" : "@Garnet3106",
+      "day" : 22,
+      "url" : "https://zenn.dev/garnet3106/articles/c1e662100f5acc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イラストレーターになろうと思って高校入学したらなぜかプログラマーになってた話",
+      "author" : "@yuzuy",
+      "day" : 23,
+      "url" : "https://note.com/yuzuy/n/n422a11df23e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者向け】爆速で質問・回答を回すTips7選",
+      "author" : "@HarumaroJP",
+      "day" : 24,
+      "url" : "https://qiita.com/HarumaroJP/items/c4d148a161cb08f15fb6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キャンフェスのWebサイトや、会場を作ったお話",
+      "author" : "@K4133",
+      "day" : 25,
+      "url" : "https://blog.k4133.tech/camfes"
+    }
+  ]
+}

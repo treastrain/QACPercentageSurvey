@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T01:30:42Z",
+  "calendar_meta_data" : {
+    "author" : "@sugimomoto",
+    "category" : "Webテクノロジー",
+    "lgtm" : 59,
+    "subscribers" : 88,
+    "title" : "Web API Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "webapi",
+    "url" : "https://qiita.com/advent-calendar/2021/webapi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "400種類以上のAPI連携を開発・サポートしているデータパイプラインツール CData Sync の中身",
+      "author" : "@sugimomoto",
+      "day" : 1,
+      "url" : "https://www.cdatablog.jp/entry/cdatasyncinternalstrategy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプレッドシートをWeb APIにできるサービスを作ってみた",
+      "author" : "@kira_puka",
+      "day" : 2,
+      "url" : "https://qiita.com/kira_puka/items/42fa53dd2fa381a742d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webブラウザの音声認識APIを使う",
+      "author" : "@makoke",
+      "day" : 3,
+      "url" : "https://mekiku.com/view.php?a=76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate for desktopの変数に関するTips「JSONにnull値がある場合の選択的置換」",
+      "author" : "@sys_zero",
+      "day" : 4,
+      "url" : "https://qiita.com/sys_zero/items/b866b4d76ec2d34d1d10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Daprつかってみた(Web APIのイメージでローカルストレージとGCSを同じように扱ってみる)",
+      "author" : "@SatohJohn",
+      "day" : 5,
+      "url" : "https://zenn.dev/satohjohn/articles/96873574f07534"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "既定の環境の Power Automate の API を(無理やり)触ってみる",
+      "author" : "@nanoka",
+      "day" : 6,
+      "url" : "https://qiita.com/nanoka/items/21ead26b75566583f219"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SaaS連携をノーコードで実現するiPaaS「BizteX Connect」でGmailの添付ファイルをfreeeに連携してみる",
+      "author" : "@otsubo666",
+      "day" : 7,
+      "url" : "https://qiita.com/otsubo666/items/8c3a32d888e3008ee3ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebhookのWeb APIとの違い 〜イベントと通信に着目してみた〜",
+      "author" : "@kuwazzy",
+      "day" : 8,
+      "url" : "https://qiita.com/kuwazzy/items/fdf363cc1caee9a23686"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプレッドシートをWeb APIにできるサービスを使ってみた",
+      "author" : "@kinuasa",
+      "day" : 9,
+      "url" : "https://www.ka-net.org/blog/?p=14236"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "#PowerAutomate を使って、簡単なAPIをローコードで作ってみよう",
+      "author" : "@rnakamuramartiny",
+      "day" : 10,
+      "url" : "https://qiita.com/rnakamuramartiny/items/fe078debbc988e9d07db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OutSystemsでES5からデータ取得するアプリを作成する",
+      "author" : "@nanaki11",
+      "day" : 11,
+      "url" : "https://qiita.com/nanaki11/items/cfab978c081f892a26d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプレッドシートを疑似wikiとして活用した話",
+      "author" : "@shibamata",
+      "day" : 12,
+      "url" : "https://blog.sbfm.jp/archives/318"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今新規でプロダクトを開発するときに気をつけたAPIの設計",
+      "author" : "@rsogo",
+      "day" : 13,
+      "url" : "https://qiita.com/rsogo/items/8355fc3843c922818b8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Teamsを外部からAPIで更新する方法",
+      "author" : "@nanaki11",
+      "day" : 14,
+      "url" : "https://qiita.com/nanaki11/items/bfe51351b614a7863469"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAP NetWeaver Gateway の API を ES5 で試してみる：Postman & CData SAP Netweaver Gateway",
+      "author" : "@sugimomoto",
+      "day" : 15,
+      "url" : "https://www.cdatablog.jp/entry/sapnetweavergatewayes5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヘッドレスCMSでお気軽APIアクセス",
+      "author" : "@higebobo",
+      "day" : 16,
+      "url" : "https://qiita.com/higebobo/items/877b1d2315c3be6b9636"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mock API ライブラリ WireMock を使ってみた",
+      "author" : "@sugimomoto",
+      "day" : 17,
+      "url" : "https://www.cdatablog.jp/entry/wiremock"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitter API v2で大量(<100)のツイートを一度に取得する in PHP",
+      "author" : "@ichii731",
+      "day" : 18,
+      "url" : "https://qiita.com/ichii731/items/40b8c837028e7cef13d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate for desktop からの DeepL API 使用方法",
+      "author" : "@maekawawawa",
+      "day" : 19,
+      "url" : "https://qiita.com/maekawawawa/items/8f6de8b45569b2213229"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あなたの知らない非公式・非公認APIの世界",
+      "author" : "@hatanowf",
+      "day" : 20,
+      "url" : "https://note.com/hatanowf/n/n7f6ef8b0ea7c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPaaSのPMMをするにあたりWEB APIと仲良くなる話を書きました",
+      "author" : "@hironorikuwa",
+      "day" : 21,
+      "url" : "https://note.com/hrnr1001/n/n90d3d1b1812d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QiitaAPIをつかっていろんな記事の誤字を探す",
+      "author" : "@t13801206",
+      "day" : 22,
+      "url" : "https://qiita.com/t13801206/items/c20547ff3c3d60400161"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "脱炭素・カーボンニュートラル領域でのAPIサービス国内外事例（CO2排出量可視化・カーボン・オフセット等）",
+      "author" : "@satoru_higuchi",
+      "day" : 23,
+      "url" : "https://qiita.com/satoru_higuchi/items/cf3b5b88387e4882ef5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウドBOTで社内のWebデバイスをAPI公開する話",
+      "author" : "@cr_murai",
+      "day" : 24,
+      "url" : "https://qiita.com/cr_murai/items/c02bb46895fc7bb47932"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 Web API News・Topic 総まとめ！",
+      "author" : "@sugimomoto",
+      "day" : 25,
+      "url" : "https://www.cdatablog.jp/entry/webapinews2021"
+    }
+  ]
+}

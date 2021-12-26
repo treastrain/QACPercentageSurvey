@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:20:38Z",
+  "calendar_meta_data" : {
+    "author" : "@pink_bangbi",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 6,
+    "title" : "一人 bugs.ruby Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "bugs_ruby",
+    "url" : "https://qiita.com/advent-calendar/2021/bugs_ruby"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #17768] Proposal: Downward assignments",
+      "author" : "@pink_bangbi",
+      "day" : 1,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/01/195637"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #17576] Partial Functions (procs, lambdas)",
+      "author" : "@pink_bangbi",
+      "day" : 2,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/02/204851"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #10593] Emoji is been considered as comment",
+      "author" : "@pink_bangbi",
+      "day" : 3,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/03/144846"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Misc #18150] Proposal: Deprecate leading zero syntax to declare octals, since it's extremely confusing",
+      "author" : "@pink_bangbi",
+      "day" : 4,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/04/000747"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #17785] Allow named parameters to be keywords",
+      "author" : "@pink_bangbi",
+      "day" : 5,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/05/002233"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #17786] Proposal: new \"ends\" keyword",
+      "author" : "@pink_bangbi",
+      "day" : 6,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/06/000232"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #14579] Hash value omission",
+      "author" : "@pink_bangbi",
+      "day" : 7,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/07/000214"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #18035] Introduce general model/semantic for immutable by default.",
+      "author" : "@pink_bangbi",
+      "day" : 8,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/08/001733"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #12495] Make \"private\" return the arguments again, for chaining",
+      "author" : "@pink_bangbi",
+      "day" : 9,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/09/203640"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #6210] load should provide a way to specify the top-level module",
+      "author" : "@pink_bangbi",
+      "day" : 10,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/10/001655"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #18276] `Proc#bind_call(obj)` same as `obj.instance_exec(..., &proc_obj)`",
+      "author" : "@pink_bangbi",
+      "day" : 11,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/11/000430"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Misc #18285] NoMethodError#message uses a lot of CPU/is really expensive to call",
+      "author" : "@pink_bangbi",
+      "day" : 12,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/12/205700"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #16806] Struct#initialize accepts keyword arguments too by default",
+      "author" : "@pink_bangbi",
+      "day" : 13,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/13/195521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #17398] SyntaxError in endless method",
+      "author" : "@pink_bangbi",
+      "day" : 14,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/14/003528"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Misc #18125] A strange behavior when same name variable/method coexist issue.",
+      "author" : "@pink_bangbi",
+      "day" : 15,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/15/001458"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #17571] prependしたArray#[] が反映されない",
+      "author" : "@pink_bangbi",
+      "day" : 16,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/16/000439"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #11689] Add methods allow us to get visibility from Method and UnboundMethod object.",
+      "author" : "@pink_bangbi",
+      "day" : 17,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/17/000405"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #18293] Time.at in master branch was 25% slower then Ruby 3.0",
+      "author" : "@pink_bangbi",
+      "day" : 18,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/18/000734"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Feature #17743] Show argument types in backtrace",
+      "author" : "@pink_bangbi",
+      "day" : 19,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/19/000047"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #17719] Irregular evaluation order in hash literals",
+      "author" : "@pink_bangbi",
+      "day" : 20,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/20/221650"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #17423] `Prepend` should prepend a module before the class",
+      "author" : "@pink_bangbi",
+      "day" : 21,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/21/000023"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #18246] send does not work for unary ! operator when operator isn't a literal symbol",
+      "author" : "@pink_bangbi",
+      "day" : 22,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/22/204349"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #17866] Incompatible changes with Psych 4.0.0",
+      "author" : "@pink_bangbi",
+      "day" : 23,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/23/212012"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Bug #18396] An unexpected \"hash value omission\" syntax error when without parentheses call expr follows",
+      "author" : "@pink_bangbi",
+      "day" : 24,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/24/203035"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "番外編: 今年みた Ruby のバグ報告",
+      "author" : "@pink_bangbi",
+      "day" : 25,
+      "url" : "https://secret-garden.hatenablog.com/entry/2021/12/25/000739"
+    }
+  ]
+}

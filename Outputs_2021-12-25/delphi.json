@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T02:15:06Z",
+  "calendar_meta_data" : {
+    "author" : "@pik",
+    "category" : "プログラミング言語",
+    "lgtm" : 147,
+    "subscribers" : 17,
+    "title" : "Delphi Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "delphi",
+    "url" : "https://qiita.com/advent-calendar/2021/delphi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "FireMonkey だけど Native PopupMenu 使いたいよ～",
+      "author" : "@pik",
+      "day" : 1,
+      "url" : "https://qiita.com/pik/items/a04e2870c0745886154f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Delphi】インターポーザークラス",
+      "author" : "@ht_deko",
+      "day" : 2,
+      "url" : "https://qiita.com/ht_deko/items/d5a5fbd37cca097cf186"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delphi11で古いiOS端末を使ってデバッグする",
+      "author" : "@japelin",
+      "day" : 3,
+      "url" : "https://japelin.hatenablog.com/entry/2021/12/03/001525"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delphi11で追加されたVCLのWindows11スタイルを利用する",
+      "author" : "@p_kato",
+      "day" : 4,
+      "url" : "https://qiita.com/p_kato/items/3bb93616d28bc415f585"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "総和 (Σ) 関数を書く",
+      "author" : "@ht_deko",
+      "day" : 5,
+      "url" : "https://qiita.com/ht_deko/items/52b76827682e28403f46"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<0> はじめに (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 6,
+      "url" : "https://qiita.com/ht_deko/items/c6714835355a83cde088"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<1> スレッドオブジェクト (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 7,
+      "url" : "https://qiita.com/ht_deko/items/39da99a10202589e002c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<2> クリティカルセクションとロック (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 8,
+      "url" : "https://qiita.com/ht_deko/items/9f3c7534e2ac406ba7dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<3> スレッドローカル変数 (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 9,
+      "url" : "https://qiita.com/ht_deko/items/09f04b5768135401eebb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<4> 並列プログラミングライブラリ (PPL) (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 10,
+      "url" : "https://qiita.com/ht_deko/items/ee155618119c48bec7b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<5> サードパーティ製ライブラリ (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 11,
+      "url" : "https://qiita.com/ht_deko/items/e7f655bb73af05fbac35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『TMS WebCOREを使用しています』から１年経過しました。",
+      "author" : "@workword_jp",
+      "day" : 12,
+      "url" : "https://qiita.com/workword_jp/items/ff5f6ea3f393ab2a062d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<6> ミューテックス (同期オブジェクト) (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 13,
+      "url" : "https://qiita.com/ht_deko/items/83cd0ab35c90a9a6cea1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<7> セマフォ (同期オブジェクト) (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 14,
+      "url" : "https://qiita.com/ht_deko/items/6d7aa5ab5856d231b79e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<8> イベント (同期オブジェクト) (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 15,
+      "url" : "https://qiita.com/ht_deko/items/c6317b1bb7ad6dd47476"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delphi事始め",
+      "author" : "@soma62jp",
+      "day" : 16,
+      "url" : "https://qiita.com/soma62jp/items/4ce4be98e80810680852"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QuickReportをAlexandriaで",
+      "author" : "@adachi",
+      "day" : 17,
+      "url" : "http://thinksoft.sblo.jp/article/189196615.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WUni232cって何？なんでGetitで10.3以外取れないの？etc..",
+      "author" : "@qa65000",
+      "day" : 18,
+      "url" : "https://qiita.com/qa65000/items/aa0c2c6d8e4d9447c8f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WUni232cでArduino Unoに書込する。",
+      "author" : "@qa65000",
+      "day" : 19,
+      "url" : "https://qiita.com/qa65000/items/4f9718eb178475d9fcd7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raytracing in OpenCL on Delphi",
+      "author" : "@luxidea",
+      "day" : 20,
+      "url" : "https://github.com/LUXOPHIA/RaytracerCL"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "<9> 非同期プログラミングライブラリ (APL) (Delphi コンカレントプログラミング)",
+      "author" : "@ht_deko",
+      "day" : 21,
+      "url" : "https://qiita.com/ht_deko/items/eedf3728be2a301a8a5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delphi コンパイル後の生成ディレクトリの最適解おしえて！",
+      "author" : "@LandscapeSketch",
+      "day" : 22,
+      "url" : "https://qiita.com/LandscapeSketch/items/e3bcf0eeadf93ab19d64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C++Builder小ネタ集",
+      "author" : "@windy",
+      "day" : 23,
+      "url" : "https://qiita.com/windy/items/d17b937df0ac4e4a4e00"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "駆け出しプログラマーがつくる『ファイルを１６進数とASCIIコードで出力するアプリ』",
+      "author" : "@NewbieMayonnaise",
+      "day" : 24,
+      "url" : "https://qiita.com/NewbieMayonnaise/items/dfc11eb784163400c127"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delphiプログラマの紹介",
+      "author" : "@kaizen_nagoya",
+      "day" : 25,
+      "url" : "https://qiita.com/kaizen_nagoya/items/65f63fe2004586a89e59"
+    }
+  ]
+}

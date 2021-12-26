@@ -1,0 +1,155 @@
+{
+  "created_at" : "2021-12-25T22:08:37Z",
+  "calendar_meta_data" : {
+    "author" : "@murokaco@github",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 17,
+    "title" : "オタクが推しを語る Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "otaku",
+    "url" : "https://qiita.com/advent-calendar/2021/otaku"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@murokaco@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "将棋は将棋でも「観る将」って知ってますか？",
+      "author" : "@nori44",
+      "day" : 2,
+      "url" : "https://note.com/nori44/n/n0bfa834c3ea5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CreepyNutsにハマったが俺はまだライブに行けていない",
+      "author" : "@nicoicon0428",
+      "day" : 3,
+      "url" : "https://note.com/nicoicon/n/n7ab9eb656d9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Liella!に沼ってます",
+      "author" : "@harasho",
+      "day" : 4,
+      "url" : "https://otentosama.hatenablog.com/entry/liella"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@takigawa401"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@murokaco@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@manbababa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "沼のハマり方",
+      "author" : "@kamikiich",
+      "day" : 8,
+      "url" : "https://qiita.com/kamikiich/items/aaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@gitloveme"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@llminatoll"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マツコの知らないガンダムの世界",
+      "author" : "@rabirion",
+      "day" : 11,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "推し活日記2021",
+      "author" : "@rabirion",
+      "day" : 12,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@anonnon2sd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@anonnon2sd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@beetomega"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@2t6pu6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@beetomega"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@gitloveme"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@seahorse_saki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@2t6pu6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@25sktwowilc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "推しランキング発表",
+      "author" : "@rabirion",
+      "day" : 22,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@murokaco@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "東方Projectを広めたい〜原作編〜",
+      "author" : "@P0po",
+      "day" : 24,
+      "url" : "https://note.com/p0po/n/n6a3707be5c7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

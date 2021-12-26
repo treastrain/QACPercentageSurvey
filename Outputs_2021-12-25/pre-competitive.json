@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-26T05:39:00Z",
+  "calendar_meta_data" : {
+    "author" : "@drken",
+    "category" : "Qiita主催",
+    "lgtm" : 660,
+    "subscribers" : 140,
+    "title" : "競技プログラミングを始めたばかりの人に伝えたいこと Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "pre-competitive",
+    "url" : "https://qiita.com/advent-calendar/2021/pre-competitive"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AtCoder参加時に自動化で楽をしていること紹介(.NET)",
+      "author" : "@noritsune",
+      "day" : 1,
+      "url" : "https://qiita.com/noritsune/items/0f59895be61fc720ee70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "みんながあまり言わない競プロの利点",
+      "author" : "@thanai",
+      "day" : 2,
+      "url" : "https://dev.thanaism.com/2021/12/advent-calendar-online-judge/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初心者向け】AtCoder Beginner Contest の 取り組み方",
+      "author" : "@rute_not_route",
+      "day" : 3,
+      "url" : "https://qiita.com/rute_not_route/items/d1ae32a80d1c3a50d017"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競技プログラミングとElixirと私 (2021/12/04)",
+      "author" : "@torifukukaiou",
+      "day" : 4,
+      "url" : "https://qiita.com/torifukukaiou/items/9a2235d2476857f9ff32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)",
+      "author" : "@malleroid",
+      "day" : 5,
+      "url" : "https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロでのデバッグを標準エラー出力で行っているという話",
+      "author" : "@amaguri0408",
+      "day" : 6,
+      "url" : "https://qiita.com/amaguri0408/items/61d65c3bea3a5815d704"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロ小技集",
+      "author" : "@Luke02561",
+      "day" : 7,
+      "url" : "https://qiita.com/Luke02561/items/abfb7b010dafd0c76665"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[AtCoder]提出されたコードをコマンドライン上から保存するツールを開発した話",
+      "author" : "@fierce",
+      "day" : 8,
+      "url" : "https://qiita.com/fierce/items/f194d6d9503acec1d95f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AtCoderを途中で離脱せず継続するコツ",
+      "author" : "@84zume",
+      "day" : 9,
+      "url" : "https://84zume.work/2021/12/09/continuous-atcoder/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロのエコシステムについて",
+      "author" : "@hamayanhamayan",
+      "day" : 10,
+      "url" : "https://blog.hamayanhamayan.com/entry/2021/12/10/223827"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非プログラマーがやる競技プログラミングについて書きます",
+      "author" : "@tomonaka",
+      "day" : 11,
+      "url" : "https://masutomo.hatenablog.com/entry/2021/12/11/162512"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロでいつもやっていること",
+      "author" : "@hotpepsi",
+      "day" : 12,
+      "url" : "https://qiita.com/hotpepsi/items/e16d38006c78b75947f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競技プログラミングのテストケースから読み解くALTAのテスト技法",
+      "author" : "@meowmeowcats",
+      "day" : 13,
+      "url" : "https://qiita.com/meowmeowcats/items/d36d6a3e0c1cba11339e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロの解説記事を書いてみようというお話",
+      "author" : "@ganyariya",
+      "day" : 14,
+      "url" : "https://zenn.dev/ganariya/articles/write-competitive-programming-article"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロで使える標準入力の便利メソッド一覧(Swift)",
+      "author" : "@uhooi",
+      "day" : 15,
+      "url" : "https://qiita.com/uhooi/items/b8cebb638e9bf5ac9556"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンティストが競プロを始めるメリット",
+      "author" : "@jinyanakamura",
+      "day" : 16,
+      "url" : "https://blogger.jinyanakamura.com/2021/12/blog-post-16.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロでの自己肯定感の保ち方",
+      "author" : "@imuraya",
+      "day" : 17,
+      "url" : "https://imuraya.hatenablog.com/entry/2021/12/17/235620"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一人でabcをやっていたときに気付かなかった知見",
+      "author" : "@yassu",
+      "day" : 18,
+      "url" : "https://yassu.gitlab.io/article/2021/12/18/atcoder-for-beginner/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ワナビーだった私からワナビーのみんなへ、競技プログラミングを始めてワナビーから抜け出そうぜって話をします",
+      "author" : "@nanameruby",
+      "day" : 19,
+      "url" : "https://qiita.com/nanameruby/items/7d3e2225844f0baf6f27"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@KJ0513"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競技プログラミングを始めたばかりの業プロerが、競技プログラミングのスタート地点に立つまでの話",
+      "author" : "@akiku",
+      "day" : 21,
+      "url" : "https://qiita.com/akiku/items/e14be86169737b7bbbd6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アルゴリズムの世界地図",
+      "author" : "@square1001",
+      "day" : 22,
+      "url" : "https://qiita.com/square1001/items/6d414167ca95c97bd8b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@TheYoshipiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C++入門者向けコード実行エディタをつくった話",
+      "author" : "@TumoiYorozu",
+      "day" : 24,
+      "url" : "https://qiita.com/TumoiYorozu/items/7a9b862071edd5427200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "122人に聞いた！「競技プログラミングを始めたばかりの人に伝えたいこと」",
+      "author" : "@sakofsuken",
+      "day" : 25,
+      "url" : "https://qiita.com/sakofsuken/items/6194f8ee83b40749c0e4"
+    }
+  ]
+}

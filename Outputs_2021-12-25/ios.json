@@ -1,0 +1,618 @@
+{
+  "created_at" : "2021-12-26T05:43:14Z",
+  "calendar_meta_data" : {
+    "author" : "@treastrain",
+    "category" : "モバイル",
+    "lgtm" : 198,
+    "subscribers" : 113,
+    "title" : "iOS Advent Calendar 2021",
+    "participants" : 39,
+    "unique_name" : "ios",
+    "url" : "https://qiita.com/advent-calendar/2021/ios"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリ内バナーの実装・運用をできるだけ楽にする（Swift × microCMS）",
+      "author" : "@himara2",
+      "day" : 1,
+      "url" : "https://qiita.com/himara2/items/1955796dc353c1211baf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sound Analysisのビルトイン音声分類器",
+      "author" : "@shu223",
+      "day" : 2,
+      "url" : "https://zenn.dev/shu223/articles/soundanalysis-builtin"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【キュンです】指ハートを機械学習してエフェクトを出す",
+      "author" : "@john-rocky",
+      "day" : 3,
+      "url" : "https://qiita.com/john-rocky/items/230ff8cc99429e7e79fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ARをさわる【コンピュータ・ビジョン＊AR】",
+      "author" : "@john-rocky",
+      "day" : 4,
+      "url" : "https://qiita.com/john-rocky/items/285b729a9ae86a0aea10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マスクをつけた顔を検出する",
+      "author" : "@john-rocky",
+      "day" : 5,
+      "url" : "https://qiita.com/john-rocky/items/2dfb4b370b4941877a31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TensorFlowLiteのモデルをiOSでつかう【機械学習】",
+      "author" : "@john-rocky",
+      "day" : 6,
+      "url" : "https://qiita.com/john-rocky/items/82d41a608012a8be76e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[iOS] Bluetooth許可アラートを任意のタイミングで出したい",
+      "author" : "@kntkymt",
+      "day" : 7,
+      "url" : "https://qiita.com/kntkymt/items/c4e3d1c23a2f6116d47d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Cocoa][Swift]StoreKit 2",
+      "author" : "@m_yukio",
+      "day" : 8,
+      "url" : "https://qiita.com/m_yukio/items/119ad0a772fc6e313808"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ARKitのLiDAR Depth API",
+      "author" : "@shu223",
+      "day" : 9,
+      "url" : "https://zenn.dev/shu223/articles/arkit-lidar-depth"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリ開発者に知って欲しい広告配信の仕組み",
+      "author" : "@simorgh3196",
+      "day" : 10,
+      "url" : "https://zenn.dev/simorgh3196/articles/how-advertising-works-for-app-developers"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Swift Package ManagerをiOSで使う時はxcodeprojではなくPackage.swiftで読み込もう",
+      "author" : "@417_72ki",
+      "day" : 11,
+      "url" : "https://qiita.com/417_72ki/items/bca7764fa62719ae0e40"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSアプリのメモリリークの検知方法・改善方法",
+      "author" : "@toya108",
+      "day" : 12,
+      "url" : "https://qiita.com/toya108/items/872568c1c9837caf3dfe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更聞けない Auto Layout を使うときに考えるべきこと",
+      "author" : "@lovee",
+      "day" : 13,
+      "url" : "https://qiita.com/lovee/items/cd51fc66801ed2faa7ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザーのインスタ写真を取得する",
+      "author" : "@john-rocky",
+      "day" : 14,
+      "url" : "https://qiita.com/john-rocky/items/ea6fc83f5b83ccee1692"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Core MLモデルを連結してひとつのモデルにするパイプライン機能",
+      "author" : "@shu223",
+      "day" : 15,
+      "url" : "https://zenn.dev/shu223/articles/coreml-pipeline"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "顕著物検出で、iOSでアニメキャラを華麗に切り抜く",
+      "author" : "@john-rocky",
+      "day" : 16,
+      "url" : "https://qiita.com/john-rocky/items/1c4245805b9009dc04ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUI におけるアニメーションの基本的な実装方法について iOS 15 から deprecated になるものも交えて紹介",
+      "author" : "@kalupas226",
+      "day" : 17,
+      "url" : "https://qiita.com/kalupas226/items/153fdaf783379e7d865a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "App Clipsの10MB制限を超えないためにEmergeを使ってみた話",
+      "author" : "@redryerye",
+      "day" : 18,
+      "url" : "https://developers.kankak.com/entry/2021/12/18/141243"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】ドラッグ＆ドロップもどきを作ろう！",
+      "author" : "@YukiMaitani",
+      "day" : 19,
+      "url" : "https://qiita.com/YukiMaitani/items/9908d66aaf222dfa574e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【SwiftUI】NavigationBar に表示された Scrollable な Tab と コンテンツのページングが連動するサンプル実装",
+      "author" : "@MilanistaDev",
+      "day" : 20,
+      "url" : "https://qiita.com/MilanistaDev/items/09809b38dc8b23efa9ac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUIで無限カルーセルを作成する",
+      "author" : "@takashico",
+      "day" : 21,
+      "url" : "https://note.com/smtakahashi/n/nb505dc1ed63f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "たった1枚の画像で物体検出モデルを学習できるOne-Shot Object Detection",
+      "author" : "@shu223",
+      "day" : 22,
+      "url" : "https://zenn.dev/shu223/articles/oneshot-object-detection"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUI の PreviewDevice 一覧を簡単に取得する Alfred Workflow",
+      "author" : "@ShinichiroKato",
+      "day" : 23,
+      "url" : "https://goodpatch-tech.hatenablog.com/entry/2021/12/23/181126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自前でDIコンテナを作ってみる試みとRxSwiftを利用した構成への適用を試してみる",
+      "author" : "@fumiyasac@github",
+      "day" : 24,
+      "url" : "https://qiita.com/fumiyasac@github/items/8d6b77c3547b8b7839ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「アプリアイコン」を考察してみた 2021",
+      "author" : "@hcrane",
+      "day" : 25,
+      "url" : "https://note.com/hcrane/n/nd1b1d45fa406"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SceneKitでサイコロを振る（Swift）",
+      "author" : "@am10",
+      "day" : 1,
+      "url" : "https://qiita.com/am10/items/8f872daf8d0aa0b72672"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CompositionalLayout で Cell を自動スクロールさせたい！",
+      "author" : "@AkkeyLab",
+      "day" : 2,
+      "url" : "https://akkeylab.com/2021/12/02/automatic-paging-method-achieved-with-compositional-layout/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "GitHub ActionsのManual Workflowを使ってiOSアプリのバージョンをあげる",
+      "author" : "@yanamura",
+      "day" : 3,
+      "url" : "https://tech.connehito.com/entry/2021/12/03/070000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "iOSでGoogle Analyticsへのイベント送信の実装と確認作業を効率化した話",
+      "author" : "@t_osawa_009",
+      "day" : 4,
+      "url" : "https://tech.asken.inc/entry/2021/12/04/063000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【iOS 15】アプリにSharePlayを追加して、FaceTime通話中に参加者間でデータをやり取り(Group Activities)の完全なガイド",
+      "author" : "@MaShunzhe",
+      "day" : 5,
+      "url" : "https://qiita.com/MaShunzhe/items/aeeef55c8d5d66ee63d9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "iOSアプリでSPMを用いたマルチモジュール構成を試してみた",
+      "author" : "@darquro",
+      "day" : 6,
+      "url" : "https://qiita.com/darquro/items/66aa0b47983510022c3c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "XcodeGenを導入するにあたりお世話になった記事○選",
+      "author" : "@BambooHero",
+      "day" : 7,
+      "url" : "https://bamboo-hero.com/entry/recommended-articles-of-xcodegen"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Swift Async/AwaitのCancelの仕方",
+      "author" : "@zunda_pixel",
+      "day" : 8,
+      "url" : "https://zenn.dev/zunda_pixel/articles/98493abbb3beca"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SwiftUIでかんたんにパーティクルを表示する",
+      "author" : "@hyuga_amazia",
+      "day" : 9,
+      "url" : "https://qiita.com/hyuga_amazia/items/7cbcb9772734a51c57d0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UIView.animateくらい簡単にカスタムイージング",
+      "author" : "@zeero",
+      "day" : 10,
+      "url" : "https://qiita.com/zeero/items/5fecec47141649458a96"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Core MLのLinked Modelとパイプライン",
+      "author" : "@shu223",
+      "day" : 11,
+      "url" : "https://zenn.dev/shu223/articles/coreml-linkedmodel"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "xcframeworksに対応したRomeを使ってCarthageのキャッシュをS3にアップロードしてBitriseで超高速にビルドしよう！",
+      "author" : "@CH3COOH",
+      "day" : 12,
+      "url" : "https://blog.ch3cooh.jp/entry/2021/12/12/144000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SwiftUIのPull to Refresh実現方法ケース別まとめ",
+      "author" : "@ruwatana",
+      "day" : 13,
+      "url" : "https://qiita.com/ruwatana/items/0598af785f19ed907e81"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SceneKitの衝突判定（Swift）",
+      "author" : "@am10",
+      "day" : 14,
+      "url" : "https://qiita.com/am10/items/ffa734d0c36c4e3c5652"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "iCloud Private Relayについて",
+      "author" : "@rotekxyz",
+      "day" : 15,
+      "url" : "https://blog.rotek.xyz/entry/2021/12/15/095537"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Create MLのモデルはなぜ小さいのか 〜coremltoolsでパイプラインモデルの中身をのぞいてみる",
+      "author" : "@shu223",
+      "day" : 16,
+      "url" : "https://zenn.dev/shu223/articles/createml-model"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "TLE を出さないために、プログラムの実行時間をテストする",
+      "author" : "@kashihararara",
+      "day" : 17,
+      "url" : "https://www.wantedly.com/companies/wantedly/post_articles/366740"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ARKitのFace Trackingの結果をobjファイルとして出力する",
+      "author" : "@iganin",
+      "day" : 18,
+      "url" : "https://iganin.hatenablog.com/entry/2021/12/18/214028"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "アニメフィルターをかけるなら、iOSでAIパワーをつかえる",
+      "author" : "@john-rocky",
+      "day" : 19,
+      "url" : "https://qiita.com/john-rocky/items/97ff4b46bb2e181a63e1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "既存の動画にフィルターをかけたいなら、一枚一枚処理すべし",
+      "author" : "@john-rocky",
+      "day" : 20,
+      "url" : "https://qiita.com/john-rocky/items/f9ba8fa34b3f449f5479"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "XcodeGenでフォルダ参照した時の罠",
+      "author" : "@a_jike",
+      "day" : 21,
+      "url" : "https://qiita.com/a_jike/items/19c24619007b8cd2679e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CarPlayについて簡単にまとめてみました",
+      "author" : "@haseken_dev",
+      "day" : 22,
+      "url" : "https://qiita.com/haseken_dev/items/d7e77b5b9376de2bc0da"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "あなたと私の見ている色は同じだろうか？",
+      "author" : "@sato-shin",
+      "day" : 23,
+      "url" : "https://qiita.com/sato-shin/items/aedd4208469436c2d38c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Combine を使ったアニメーションを Scheduler で自由自在に操る方法",
+      "author" : "@kalupas226",
+      "day" : 24,
+      "url" : "https://qiita.com/kalupas226/items/469b74831c712461b4e3"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[iOS] AR Quick Look API を使って AR アプリを作る",
+      "author" : "@AtarayoSD",
+      "day" : 25,
+      "url" : "https://qiita.com/AtarayoSD/items/2565669347104e824994"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 1,
+      "author" : "@kamimi01"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 2,
+      "author" : "@kamimi01"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "WebブラウザからARコンテンツを表示する",
+      "author" : "@john-rocky",
+      "day" : 7,
+      "url" : "https://qiita.com/john-rocky/items/2522aeceee4c74aaa924"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "iOSで人物きりぬきPersonSegmentation（バーチャル背景、背景ぼかし、合成）",
+      "author" : "@john-rocky",
+      "day" : 8,
+      "url" : "https://qiita.com/john-rocky/items/dc1b736791dccbaf5c66"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "iOSのコンピュータビジョンで人物の全身ボックスを検出する",
+      "author" : "@john-rocky",
+      "day" : 9,
+      "url" : "https://qiita.com/john-rocky/items/c6e3771616bd8f8cba60"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "iOSでバーコードを検出する",
+      "author" : "@john-rocky",
+      "day" : 10,
+      "url" : "https://qiita.com/john-rocky/items/1eae0e136e72886e13bb"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "U2NetをCoreMLに【iPhoneで機械学習セグメンテーション 】",
+      "author" : "@john-rocky",
+      "day" : 11,
+      "url" : "https://qiita.com/john-rocky/items/1f6bdec3c1fed3e9cf1a"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "iPhoneのフォトライブラリから複数写真を選択【PHPickerViewController】",
+      "author" : "@john-rocky",
+      "day" : 12,
+      "url" : "https://qiita.com/john-rocky/items/82e4887d9ae50d68c989"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "画像をマスク合成するときに、短いコードで縦横比率を計算してはみ出さないようにする",
+      "author" : "@john-rocky",
+      "day" : 15,
+      "url" : "https://qiita.com/john-rocky/items/622537f61a61aa5c72fc"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "文字認識をiPhoneで簡単にしたいなら、VisionTextRecognitionで秒",
+      "author" : "@john-rocky",
+      "day" : 17,
+      "url" : "https://qiita.com/john-rocky/items/4f28023c9d4a824d7d3a"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "iPhoneで撮った写真の向きがおかしいとき、お手軽回転メソッドで全てを解決する",
+      "author" : "@john-rocky",
+      "day" : 18,
+      "url" : "https://qiita.com/john-rocky/items/d24e7f7b3af535b46959"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "最新の超解像モデルReal ESRGANをiOSでつかう",
+      "author" : "@john-rocky",
+      "day" : 19,
+      "url" : "https://qiita.com/john-rocky/items/3296b45d965afbfbd90d"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Firebaseを本番環境と開発環境で切り替えてみた（iOS）",
+      "author" : "@nkekisasa222",
+      "day" : 20,
+      "url" : "https://qiita.com/nkekisasa222/items/6f462d129a67bdd30a7e"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "人物画像の背景を１行のコードで差し替えるなら、SemanticImageで",
+      "author" : "@john-rocky",
+      "day" : 21,
+      "url" : "https://qiita.com/john-rocky/items/d0db9c5e6dce6829dec4"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "顔だけ、体だけを切り抜きたいなら、SemanticImage",
+      "author" : "@john-rocky",
+      "day" : 22,
+      "url" : "https://qiita.com/john-rocky/items/80b21c420d7a276c9fbd"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "iOS用の機械学習ライブラリをつくる",
+      "author" : "@john-rocky",
+      "day" : 23,
+      "url" : "https://qiita.com/john-rocky/items/7609618ccbe3d873c1f8"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "iOS 5G対応ことはじめ",
+      "author" : "@monoqlo",
+      "day" : 24,
+      "url" : "https://zenn.dev/monoqlo/articles/085f8a333c0f39"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "SwiftUI-Introspectの仕組み",
+      "author" : "@yanamura",
+      "day" : 25,
+      "url" : "https://yanamura.hatenablog.com/entry/swiftui-introspect"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "既存の動画にフィルターを適用する方法",
+      "author" : "@john-rocky",
+      "day" : 25,
+      "url" : "https://qiita.com/john-rocky/items/e1be25e55f275e2b2d31"
+    }
+  ]
+}

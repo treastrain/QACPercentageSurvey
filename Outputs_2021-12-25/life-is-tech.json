@@ -1,0 +1,129 @@
+{
+  "created_at" : "2021-12-25T17:36:00Z",
+  "calendar_meta_data" : {
+    "author" : "@miomm",
+    "category" : "企業・学校・団体",
+    "lgtm" : 4,
+    "subscribers" : 2,
+    "title" : "Life is Tech ! Advent Calendar 2021 Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "life-is-tech",
+    "url" : "https://qiita.com/advent-calendar/2021/life-is-tech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Android】Kotlin + Firestore + RecyclerViewを使ってTodoアプリを作る",
+      "author" : "@Kaito-Dogi",
+      "day" : 2,
+      "url" : "https://qiita.com/Kaito-Dogi/items/b2da06db10a95fef84b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "僕の映像記憶について",
+      "author" : "@shin__i",
+      "day" : 13,
+      "url" : "https://note.com/shin__i_official/n/n6c91c454c880"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】よくあるミスと対処法【あるある】",
+      "author" : "@miomm",
+      "day" : 18,
+      "url" : "https://qiita.com/miomm/items/6547fad29ea9a43b7dbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@risako070310"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@Kaito-Dogi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@Tommy716"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@MasakazOzaki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@emiri3128"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-26T01:24:16Z",
+  "calendar_meta_data" : {
+    "author" : "Toreta, Inc.",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 5,
+    "title" : "トレタ Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "toreta",
+    "url" : "https://qiita.com/advent-calendar/2021/toreta"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021 年の振り返りと今後の展望",
+      "author" : "@hden",
+      "day" : 1,
+      "url" : "https://tech.toreta.in/entry/2021/12/01/110955"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモート環境下でのコミュニケーション改善へ取り組んだこと",
+      "author" : "@kitagawamac",
+      "day" : 2,
+      "url" : "https://tech.toreta.in/entry/2021/12/02/120726"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "年末年始休日を1日増やした話",
+      "author" : "@r-sekine",
+      "day" : 3,
+      "url" : "https://note.com/toreta_hr/n/ncfecc0262d82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "優秀な QA メンバーが上流工程に加わると開発が捗る話",
+      "author" : "@hden",
+      "day" : 4,
+      "url" : "https://tech.toreta.in/entry/2021/12/04/104059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[TLA+] 分散システムを設計する際に形式仕様を導入してみた",
+      "author" : "@hden",
+      "day" : 5,
+      "url" : "https://note.com/hden/n/nf7098496da0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "優秀なデザイナーが上流工程に加わると開発が捗る話",
+      "author" : "@hden",
+      "day" : 6,
+      "url" : "https://tech.toreta.in/entry/2021/12/06/105836"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークの中、1年間の社内ラジオを通じて見えてきたもの",
+      "author" : "@norio_toreta",
+      "day" : 7,
+      "url" : "https://note.com/toreta_hr/n/nd310501d450c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@teyosh"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【トレタ流働き方改革】「どこでもトレタ」運用開始！おすすめのエリアは沖縄？軽井沢？",
+      "author" : "@yasshiendo",
+      "day" : 9,
+      "url" : "https://note.com/toreta_hr/n/nd6db156df1b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マネジメントで意識している3つのこと",
+      "author" : "@mshindo",
+      "day" : 10,
+      "url" : "https://note.com/toreta_hr/n/n39fb8e6e569a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datomic Cloud を半年運用した感想",
+      "author" : "@hden",
+      "day" : 12,
+      "url" : "https://note.com/hden/n/n185d655ea4bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社員と導入店様が双方HAPPYになる福利厚生制度の仕組みとは",
+      "author" : "@umemura_",
+      "day" : 13,
+      "url" : "https://note.com/toreta_hr/n/n408677f20307"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "しっかりと整備されたドキュメントはなんぼあってもいいですからね、という話",
+      "author" : "@FukuromiQA",
+      "day" : 14,
+      "url" : "https://tech.toreta.in/entry/2021/12/14/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterアプリにテストコードを書きました。",
+      "author" : "@yukimura03",
+      "day" : 15,
+      "url" : "https://tech.toreta.in/entry/2021/12/15/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のエンジニア採用でやってよかったこと",
+      "author" : "@kommo",
+      "day" : 16,
+      "url" : "https://note.com/toreta_hr/n/nd1bc80101ccb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「必要そうなものをつくる」から「本当に必要なものを一緒につくる」へ。Co-Creationによるプロダクト/事業開発への挑戦",
+      "author" : "@shumpeei",
+      "day" : 17,
+      "url" : "https://note.com/bobbobbob/n/nfcbe854eb71d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発優先度で悩まないための「データの民主化」",
+      "author" : "@taksugar",
+      "day" : 18,
+      "url" : "https://note.com/sugarsalt69/n/nfa5193b38a27"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アクセシビリティ本の輪読会をした話",
+      "author" : "@shira_",
+      "day" : 19,
+      "url" : "https://tech.toreta.in/entry/2021/12/19/010126"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@sug_k"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービスへの挑戦とその結果",
+      "author" : "@kitagawamac",
+      "day" : 21,
+      "url" : "https://tech.toreta.in/entry/2021/12/21/182542"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RailsでBFFを構築した際、複雑にならないように気をつけたこと",
+      "author" : "@shiroemons",
+      "day" : 22,
+      "url" : "https://tech.toreta.in/entry/rails_bff_tips"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@asakatana"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "トレタO/Xの開発にジョインしてやってきたこと",
+      "author" : "@ktaguchi",
+      "day" : 24,
+      "url" : "https://tech.toreta.in/entry/2021/12/24/100512"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コロナ禍でトレタが信じた未来と、トレタを信じてくれたお客様の話。（そしてその成果）",
+      "author" : "@hitoshi",
+      "day" : 25,
+      "url" : "https://note.com/hitoshi/n/n5828b7d28014"
+    }
+  ]
+}

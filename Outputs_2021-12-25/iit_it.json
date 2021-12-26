@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:32:14Z",
+  "calendar_meta_data" : {
+    "author" : "@abekamo",
+    "category" : "企業・学校・団体",
+    "lgtm" : 10,
+    "subscribers" : 3,
+    "title" : "IIT（Iwate Industrial Tecnology） Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "iit_it",
+    "url" : "https://qiita.com/advent-calendar/2021/iit_it"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "八幡平スマートファームで使われている技術",
+      "author" : "@y21501",
+      "day" : 1,
+      "url" : "https://qiita.com/y21501/items/0da83e714c202827a68f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "午前問vsゆーさく",
+      "author" : "@YuusakuPine",
+      "day" : 2,
+      "url" : "https://qiita.com/YuusakuPine/items/4ff4c3adbf39211b65f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私の基本情報対策",
+      "author" : "@takumi3126",
+      "day" : 3,
+      "url" : "https://qiita.com/takumi3126/items/38e2f86cc1e2435d81d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "対数を求めるプログラム",
+      "author" : "@painpan",
+      "day" : 4,
+      "url" : "https://qiita.com/painpan/items/e1819591ede1c94301b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「豆腐の角に頭をぶつけて〇ね！！」を実現してみた",
+      "author" : "@endo_12",
+      "day" : 5,
+      "url" : "https://qiita.com/endo_12/items/25fd429da41ebba68aba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報技術科必見！！クラウドワークスで簡単にお金が稼げる！？",
+      "author" : "@Yujiro-hnma",
+      "day" : 6,
+      "url" : "https://qiita.com/Yujiro-hnma/items/7f52ac0cd82d88a8bb04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "誰でも簡単プログラミング",
+      "author" : "@y21507",
+      "day" : 7,
+      "url" : "https://qiita.com/y21507/items/62965f96ab3bd9ce7b33"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エレキギターで好きな音を奏でたい",
+      "author" : "@AronA",
+      "day" : 8,
+      "url" : "https://qiita.com/AronA/items/490f26e3870ca8a75251"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonについて",
+      "author" : "@HOYAKOYA",
+      "day" : 9,
+      "url" : "https://qiita.com/HOYAKOYA/items/fad563d25da3aa486ad5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "腰痛との付き合い方",
+      "author" : "@dolphinlay",
+      "day" : 10,
+      "url" : "https://qiita.com/dolphinlay/items/c28a668e1c30ab456ed6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptで簡単なタイピングゲームを作ってみた。",
+      "author" : "@y21511",
+      "day" : 11,
+      "url" : "https://qiita.com/y21511/items/d9a88013862b615641e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かっこいいホームページが作れる！CSSでアニメーション作ってみた。",
+      "author" : "@y21512",
+      "day" : 12,
+      "url" : "https://qiita.com/y21512/items/02a5364e718a5f466dcc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポケモンのタイプ相性プログラムをC言語で作ってみた",
+      "author" : "@Ryuki88",
+      "day" : 13,
+      "url" : "https://qiita.com/Ryuki88/items/74a3c55c54e33526229a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基本情報・午前の得点60↑のために",
+      "author" : "@onA",
+      "day" : 14,
+      "url" : "https://qiita.com/onA/items/75fd76aa1113fcf2b8d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バチバチ静電気をおさえるには？",
+      "author" : "@y21515",
+      "day" : 15,
+      "url" : "https://qiita.com/y21515/items/0bb7b4f3c8556383b4d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイン改変的アルゴリズム",
+      "author" : "@Kana_Soma",
+      "day" : 16,
+      "url" : "https://qiita.com/Kana_Soma/items/255f5b80b37469b36d8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウマ娘のサポカ情報Excelでまとめてみた",
+      "author" : "@abaneru",
+      "day" : 17,
+      "url" : "https://qiita.com/abaneru/items/c6774da34f477294a37e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実は優秀なサービス[Google my maps]について解説実践",
+      "author" : "@yoshi10",
+      "day" : 18,
+      "url" : "https://qiita.com/yoshi10/items/e61bd78b6848d27228a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSでポケモン英語クイズを作ってみた",
+      "author" : "@t1terui",
+      "day" : 19,
+      "url" : "https://qiita.com/t1terui/items/992d5bfa210a12584450"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "聴く音楽でランニングのタイムが変わるかを検証",
+      "author" : "@motora",
+      "day" : 20,
+      "url" : "https://qiita.com/motora/items/386f39981ec65d164a19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webサイトのコーディングで気をつけたこと（初心者向け）",
+      "author" : "@abekamo",
+      "day" : 21,
+      "url" : "https://qiita.com/abekamo/items/d64431b59033f63abb08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "冬休みに見たい！エンジニアにおすすめの映画",
+      "author" : "@abekamo",
+      "day" : 22,
+      "url" : "https://qiita.com/abekamo/items/f82ed07da8f0f052e4d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CoderDojoに参加して（2021）",
+      "author" : "@abekamo",
+      "day" : 23,
+      "url" : "https://qiita.com/abekamo/items/b7e0f7dd7cf76d097aad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "（今昔）学生が使っているアプリケーション",
+      "author" : "@abekamo",
+      "day" : 24,
+      "url" : "https://qiita.com/abekamo/items/97a33c10dda948035c1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "就活では相手 (採用する側) の手の内を知れ",
+      "author" : "@kan0ken1",
+      "day" : 25,
+      "url" : "https://qiita.com/kan0ken1/items/58af2a17093ccf93e81c"
+    }
+  ]
+}

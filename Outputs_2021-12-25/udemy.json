@@ -1,0 +1,796 @@
+{
+  "created_at" : "2021-12-26T05:33:42Z",
+  "calendar_meta_data" : {
+    "author" : "@yamashiiii",
+    "category" : "プレゼント",
+    "lgtm" : 391,
+    "subscribers" : 67,
+    "title" : "IT資格取得をテーマに学びをシェアしよう！【PR】Udemy Advent Calendar 2021",
+    "participants" : 90,
+    "unique_name" : "udemy",
+    "url" : "https://qiita.com/advent-calendar/2021/udemy"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "[基本情報技術者試験]に役立った・役立ってない参考書5選",
+      "author" : "@kuro_take",
+      "day" : 1,
+      "url" : "https://qiita.com/kuro_take/items/a4b942cc388df0e8d531"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLF/SAA合格時のUdemy活用法",
+      "author" : "@yuya_studyengin",
+      "day" : 2,
+      "url" : "https://qiita.com/yuya_studyengin/items/3a9628d0be3a0c7fe9b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンベデッドシステムスペシャリスト試験について感じていることを書く",
+      "author" : "@seigot",
+      "day" : 3,
+      "url" : "https://qiita.com/seigot/items/3bd3fbf50c75a54c00d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[実務未経験OK！] AWS CLF & SAAを効率良く取得する勉強法とおすすめの教材",
+      "author" : "@kjstudy_englife",
+      "day" : 4,
+      "url" : "https://qiita.com/kjstudy_englife/items/f0ae1b15865abf646864"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実機(ノートパソコン)にKali Linuxをインストールしてみた",
+      "author" : "@hoglet",
+      "day" : 5,
+      "url" : "https://qiita.com/hoglet/items/2544e5343a32446e0a2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Linux入門 2-2 数値計算",
+      "author" : "@hoglet",
+      "day" : 6,
+      "url" : "https://qiita.com/hoglet/items/4210fe95f8dfb7067b74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基本情報技術者のための副読本のススメ",
+      "author" : "@cordy",
+      "day" : 7,
+      "url" : "https://qiita.com/cordy/private/853f7fe8f13296ecdac1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "G検定に合格するためにやったこと[勉強法]",
+      "author" : "@kuro_take",
+      "day" : 8,
+      "url" : "https://qiita.com/kuro_take/items/d90a115d4d7a5e599071"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Amazonの採用面接」と「高度情報処理技術者試験の午後Ⅱ論述問題」の共通点は何か。15字以内で答えよ",
+      "author" : "@iwamot",
+      "day" : 9,
+      "url" : "https://zenn.dev/iwamot/articles/92ea34cb80de12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PDEについて書きます",
+      "author" : "@tenajima",
+      "day" : 10,
+      "url" : "https://zenn.dev/tenajima/articles/pde_advent_calendar"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンティスト検定™ リテラシーレベルの合格体験記",
+      "author" : "@daikikatsuragawa",
+      "day" : 11,
+      "url" : "https://qiita.com/daikikatsuragawa/items/fde80ba40f323086c7be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " IT資格のポエム的な何か",
+      "author" : "@TakeshiNickOsanai",
+      "day" : 12,
+      "url" : "https://developers.freee.co.jp/entry/thought-of-it-certification"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AZ-900未取得者にオススメする勉強方法一覧",
+      "author" : "@obsidian_puyo",
+      "day" : 13,
+      "url" : "https://qiita.com/obsidian_puyo/items/0b55ec0178f6eacd0f59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IT知識ゼロから確実に基本情報技術者に合格するための勉強法まとめ",
+      "author" : "@kjstudy_englife",
+      "day" : 14,
+      "url" : "https://qiita.com/kjstudy_englife/items/2b7af6bcc1908d5c8c2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【統計検定】文系卒会社員が2ヶ月で統計検定2級に合格した話【Udemy】",
+      "author" : "@mznhryk0508",
+      "day" : 15,
+      "url" : "https://qiita.com/mznhryk0508/items/648d9073d00b961cb51d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Udemyの活用とこれまでのAWS認定取得",
+      "author" : "@yutaro1985",
+      "day" : 16,
+      "url" : "https://yu-suzu.site/udemy_and_aws_certification"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SAAの個人的な勉強方法",
+      "author" : "@libra189",
+      "day" : 17,
+      "url" : "https://qiita.com/libra189/items/1e297b26687676cb6211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "応用情報技術者試験の受験後記",
+      "author" : "@amarelo_n24",
+      "day" : 18,
+      "url" : "https://qiita.com/amarelo_n24/items/09737b735f1241e27b6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュリティ知識ゼロから情報処理安全確保支援士に合格する方法",
+      "author" : "@c60evaporator",
+      "day" : 19,
+      "url" : "https://qiita.com/c60evaporator/items/59c243f21f5cf01ea485"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【IT資格】価値のある資格/ない資格【主観100%】",
+      "author" : "@ys_dirard",
+      "day" : 20,
+      "url" : "https://qiita.com/ys_dirard/items/cc12a5860bb69134a9a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@newt0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報処理安全確保支援士試験に一発合格しました！【勉強方法と教材まとめ】",
+      "author" : "@shiba_it",
+      "day" : 22,
+      "url" : "https://qiita.com/shiba_it/items/7caec8799dca78db313e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "udemy は玉石混合なり",
+      "author" : "@okaru",
+      "day" : 23,
+      "url" : "https://qiita.com/okaru/items/4ebc35974176c19786e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験エンジニア転職1年目に取得した資格の有益度・難易度などまとめてみた",
+      "author" : "@kjstudy_englife",
+      "day" : 24,
+      "url" : "https://qiita.com/kjstudy_englife/items/8b583b08b0c098c9cbec"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@y-vectorfield"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【増補改訂版】応用情報技術者試験に2ヶ月半の勉強で一発合格したから対策まとめてみた",
+      "author" : "@sachannel_vlog",
+      "day" : 1,
+      "url" : "https://note.com/sachannel_vlog/n/ne28581e1845f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "海外転職で使える資格？IT資格って意味あるの？",
+      "author" : "@sakaijun",
+      "day" : 2,
+      "url" : "http://sakaijun.blog.jp/archives/45122532.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "受験談 AWS Certified SysOps Administrator - Associate 認定",
+      "author" : "@h2m_kinoko",
+      "day" : 3,
+      "url" : "https://qiita.com/h2m_kinoko/items/0b05378d96f4246bbdd0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "基本情報（FE）より応用情報（AP）が簡単に取得可能です。",
+      "author" : "@Fetalia_lumin",
+      "day" : 4,
+      "url" : "https://qiita.com/Fetalia_lumin/items/9363f50499b31d7044ac"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "プログラミングを始めて4ヶ月でG検定を受けて合格した時のメモ",
+      "author" : "@okateru",
+      "day" : 5,
+      "url" : "https://qiita.com/okateru/items/cd3f753a0a73221257ee"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS認定資格コンプリートに意味はあるのか？",
+      "author" : "@tsumita7",
+      "day" : 6,
+      "url" : "https://qiita.com/tsumita7/items/25136c8e445ff40021f0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【攻略法】情報処理安全確保支援士とCISAとCISSPに並列で挑戦して合格したので、勉強法と判断力のチューニングを中心にレポしてみる",
+      "author" : "@mrpepper",
+      "day" : 7,
+      "url" : "https://qiita.com/mrpepper/items/4194402002765b8abd53"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "データ分析を始めるために取った資格3つ",
+      "author" : "@hiroeis",
+      "day" : 8,
+      "url" : "https://qiita.com/hiroeis/items/b70807ea8eab0ca8f56b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "プロジェクトマネージャー試験(PM)に１発合格する方法",
+      "author" : "@kosuke_shimizu",
+      "day" : 9,
+      "url" : "https://qiita.com/kosuke_shimizu/items/ccc845f1661965b8a107"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Google Cloud Certified Professional Machine Learning Engineer 合格体験記",
+      "author" : "@takanattie",
+      "day" : 10,
+      "url" : "https://qiita.com/takanattie/items/ae4971a484fb92b8398e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "選択式問題の正答率を上げる勉強法",
+      "author" : "@yoshi_iwa",
+      "day" : 11,
+      "url" : "https://qiita.com/yoshi_iwa/items/e44d10e087d9bea62c83"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ずぼらな私でも取れたSAA in 2021",
+      "author" : "@krote",
+      "day" : 12,
+      "url" : "https://qiita.com/krote/items/8324d5e9d6a10ed06c0b"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13,
+      "author" : "@yukkie1114"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "資格取得に向けた勉強方法",
+      "author" : "@masibw",
+      "day" : 14,
+      "url" : "https://qiita.com/masibw/items/6a9f8fbec9eb46bab780"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "情報処理技術者試験のデータベーススペシャリスト試験をただの資格勉強に終わらせずに「しっかり」と勉強する方法",
+      "author" : "@84zume",
+      "day" : 15,
+      "url" : "https://qiita.com/84zume/items/765fc9caa9a0c53b84a9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "IT資格試験『合格のコツ』と『取組みポイント』　～40超の資格取得経験から～",
+      "author" : "@ksj555",
+      "day" : 16,
+      "url" : "https://qiita.com/ksj555/items/6ff5598c1429c0bc190a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CompTIA CySA+受験記〜勉強方法と試験の感想〜",
+      "author" : "@v_avenger",
+      "day" : 17,
+      "url" : "https://qiita.com/v_avenger/items/5ff1a7c2ad9bbdbbcb6e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "IPAのプロマネ試験の結果と勉強方法＆自分はなぜ試験勉強をするのか",
+      "author" : "@hareruya-maro",
+      "day" : 18,
+      "url" : "https://qiita.com/hareruya-maro/items/f7e006a0cf8d0227fb2e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS認定資格アソシエイト3冠までの道のりと得られたこと",
+      "author" : "@Unimaru",
+      "day" : 19,
+      "url" : "https://qiita.com/Unimaru/items/8ae97ff34a5dce473689"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "７日間！やり抜きました！！AWSソリューションアーキテクトアソシエイト（SAA）合格体験記",
+      "author" : "@hirokun0204",
+      "day" : 20,
+      "url" : "https://qiita.com/hirokun0204/items/1d02a9e3fcb2f4b1854c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Udemy教材だけでOK！AWS SAA（ソーシャルアーキテクトアソシエイト）試験合格までの道のり",
+      "author" : "@adebadayo",
+      "day" : 21,
+      "url" : "https://qiita.com/adebadayo/items/89605c5cda2b731d3401"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「IT資格って要りますか？」",
+      "author" : "@MxShun",
+      "day" : 22,
+      "url" : "https://qiita.com/MxShun/items/e2716759407752115a30"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Udemyを活用してAWS Certified Cloud Practitionerを合格した話",
+      "author" : "@ymbl_note",
+      "day" : 23,
+      "url" : "https://qiita.com/ymbl_note/items/12925f92e71d1b0eb5ab"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS Certified Solutions Architect - Professional に合格しました",
+      "author" : "@kabik",
+      "day" : 24,
+      "url" : "https://qiita.com/kabik/items/7367639900bae46a9cae"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Python 3 エンジニアデータ分析試験 勉強方法",
+      "author" : "@Pig",
+      "day" : 25,
+      "url" : "https://qiita.com/Pig/items/be14b6b7340a41c78502"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【インフラ未経験】3週間でGoogle Professional Cloud Architectを取得するまで",
+      "author" : "@hytarys",
+      "day" : 1,
+      "url" : "https://qiita.com/hytarys/items/1887d16ad3f431385be6"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "[TOEIC 900点]底辺大学生が高得点を取った勉強法",
+      "author" : "@ryunika",
+      "day" : 2,
+      "url" : "https://ryunika.com/english/104/"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "JDLA-E資格合格体験記",
+      "author" : "@meowmeowcats",
+      "day" : 3,
+      "url" : "https://qiita.com/meowmeowcats/items/10e7913fbf3741d2fc00"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Java SE 11勉強ノート",
+      "author" : "@kannkyo",
+      "day" : 4,
+      "url" : "https://qiita.com/kannkyo/items/d10f1909bb1b7b3cbe4c"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "10年ぶりに情報処理技術者試験を受けて、変わったところ変わらないところ。おじさんも資格を取ると良いことある！",
+      "author" : "@tsunetsune09",
+      "day" : 5,
+      "url" : "https://qiita.com/tsunetsune09/items/a1da8734eac808700d7f"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "udemyを使って資格を取得した話（AWS認定 SAP:ソリューションアーキテクト–プロフェッショナル、Microsoft認定 AZ-900:Microsoft Azure Fundamentals）",
+      "author" : "@YSasago",
+      "day" : 6,
+      "url" : "https://qiita.com/YSasago/items/54e951f58da118279c0c"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7,
+      "author" : "@HA_RU_HI"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "非エンジニアがITパスポートを知ってから2日で合格するまでの話",
+      "author" : "@YYamaki",
+      "day" : 8,
+      "url" : "https://qiita.com/YYamaki/items/948829c4aa594b87ba7f"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "ITストラテジスト試験(ST)に１発合格する方法",
+      "author" : "@kosuke_shimizu",
+      "day" : 9,
+      "url" : "https://qiita.com/kosuke_shimizu/items/f15ec52117d1762ea3f5"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "応用情報技術者試験に一回で合格した時の話をまとめてみた",
+      "author" : "@hiroki1026",
+      "day" : 10,
+      "url" : "https://note.com/hiroki1026/n/n2dfa006aac3a"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "30代会社員がVR技術者検定試験に合格した話",
+      "author" : "@hirakichi",
+      "day" : 11,
+      "url" : "https://qiita.com/hirakichi/items/47b0c0d3952efb27e4f6"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【資格合格記】AWS SAAに合格したので振り返る",
+      "author" : "@hirorin",
+      "day" : 12,
+      "url" : "https://qiita.com/hirorin/items/de21c533fdaacf2953c6"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "\t  Udemy「アジャイル・プロジェクトマネジメント短期集中講座」を受講して分かったこと",
+      "author" : "@mitomito",
+      "day" : 13,
+      "url" : "https://mitomito.hatenablog.jp/entry/2021/12/13/063000"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Google Cloud 認定資格の攻略法",
+      "author" : "@redpanda",
+      "day" : 14,
+      "url" : "https://qiita.com/redpanda/items/ea29dea70bfb04e66618"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "これから学ぶ人向け「統計検定２級」チートシート",
+      "author" : "@DeepTama",
+      "day" : 15,
+      "url" : "https://qiita.com/DeepTama/items/113446e95add1d9d4877"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "急いでAWS ソリューションアーキテクトアソシエイトを取らなければならない僕がやったこと",
+      "author" : "@ogu_you",
+      "day" : 16,
+      "url" : "https://ogulab.com/518"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "エンジニア人生で役立った資格と思っていること",
+      "author" : "@umerin",
+      "day" : 17,
+      "url" : "https://qiita.com/umerin/items/586b142c1becc70988f9"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 18,
+      "author" : "@kannkyo"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 19,
+      "author" : "@ganezasan"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "情報処理安全確保支援士に一回で合格した時の話をまとめてみた",
+      "author" : "@hiroki1026",
+      "day" : 20,
+      "url" : "https://note.com/hiroki1026/n/n97a3252ed745"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21,
+      "author" : "@surai_uni"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 22,
+      "author" : "@YFJ"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 23,
+      "author" : "@kuni2021"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Udemy「最新版：Python + Django3 Djangoを基礎から応用まで、アプリケーション開発マスターpython付き」を受けてみた！おじさんは動画時間を甘く見ていた。",
+      "author" : "@tsunetsune09",
+      "day" : 24,
+      "url" : "https://qiita.com/tsunetsune09/items/3502812e8e41750163b7"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25,
+      "author" : "@yokopiyohiyoko"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 1,
+      "author" : "@s207035"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "OpenLayers技術についての応用",
+      "author" : "@tongji1984",
+      "day" : 2,
+      "url" : "https://www.facebook.com/groups/1955443964500052/posts/4821336494577437/"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "ウェブ・セキュリティ基礎試験（徳丸基礎試験）に合格した話",
+      "author" : "@Msksgm",
+      "day" : 3,
+      "url" : "https://zenn.dev/msksgm/articles/20211219-web-security-basic-test"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 4,
+      "author" : "@rabirion"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "資格の勉強の中で、ハンズオンやアウトプットが一番身になるなと考えた話",
+      "author" : "@namely_",
+      "day" : 5,
+      "url" : "https://qiita.com/namely_/items/9bc8326197f13340328e"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "Oracle Cloud Infrastructure OCI 認定試験 (期間限定無償受験) 2021年12月7日〜2022年3月31日",
+      "author" : "@kannkyo",
+      "day" : 6,
+      "url" : "https://qiita.com/kannkyo/items/1a0f125f2e02b275e12e"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【GoogleCloud 認定資格】Associate Cloud Engineer の取得",
+      "author" : "@redpanda",
+      "day" : 7,
+      "url" : "https://qiita.com/redpanda/items/a238840e26db0e104d67"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【GoogleCloud 認定資格】Professional Data Engineer の取得",
+      "author" : "@redpanda",
+      "day" : 8,
+      "url" : "https://qiita.com/redpanda/items/85aef435d23bfa320a0c"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "【2021年末最新版】GCP Professional Cloud Architect 合格体験記",
+      "author" : "@Ryo2021",
+      "day" : 9,
+      "url" : "https://qiita.com/Ryo2021/items/85fd09377d28ab004b87"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "やればできる！資格試験勉強！2つの抑えるべきこと",
+      "author" : "@Kuwa_african",
+      "day" : 10,
+      "url" : "https://qiita.com/Kuwa_african/items/9a7e0f914667ea833a2b"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "科学技術分野における最高位の国家資格 技術士(情報工学部門)のご紹介と、資格取得の感想戦について(前編)",
+      "author" : "@Dimeiza",
+      "day" : 11,
+      "url" : "https://dimeiza.hatenablog.com/entry/2021/12/11/080000"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "科学技術分野における最高位の国家資格 技術士(情報工学部門)のご紹介と、資格取得の感想戦について(後編)",
+      "author" : "@Dimeiza",
+      "day" : 12,
+      "url" : "https://dimeiza.hatenablog.com/entry/2021/12/10/203525"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "IPAの資格試験合格の記憶",
+      "author" : "@Shumpei_Kubo",
+      "day" : 13,
+      "url" : "https://qiita.com/Shumpei_Kubo/items/e54d616e4ee9adf2f25e"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "文系卒が3カ月半でE資格に合格した話",
+      "author" : "@kumaru",
+      "day" : 14,
+      "url" : "https://kumaruneru.com/?p=186"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "情報セキュリティマネジメント試験受けてきました。",
+      "author" : "@Tokutobyland",
+      "day" : 15,
+      "url" : "https://tokuty.hatenablog.com/entry/2021/12/14/%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E5%8F%97%E3%81%91%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82_#%E6%9C%80%E5%BE%8C%E3%81%AB"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "（非情報系・非電気系でも）エンベデッドシステムスペシャリスト試験に合格した",
+      "author" : "@sigmaponta",
+      "day" : 16,
+      "url" : "https://qiita.com/sigmaponta/items/fd0d9ee647080e97f44e"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "情報処理安全確保支援士に合格する方法",
+      "author" : "@AKKYM",
+      "day" : 17,
+      "url" : "https://qiita.com/AKKYM/items/21d044fdbe7ac89c8ada"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 18,
+      "author" : "@masami-atwvn"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "QC検定　３級、２級、１級コースを作るために",
+      "author" : "@kaizen_nagoya",
+      "day" : 19,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f1958db9e433ee25309d"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "データベーススペシャリスト試験を受ける前に知っておきたい3つの極意",
+      "author" : "@Dimeiza",
+      "day" : 20,
+      "url" : "https://dimeiza.hatenablog.com/entry/2021/12/18/110714"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "AWS認定12冠したけど12冠維持のための更新は辞めようと思う",
+      "author" : "@chanhama",
+      "day" : 21,
+      "url" : "https://chanhama0522.hatenablog.com/entry/2021/12/22/080708"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "意識の低いエンベデッド(略)受験記",
+      "author" : "@192agur2",
+      "day" : 22,
+      "url" : "https://qiita.com/192agur2/items/bf44af580b6e8f9c8d1a"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "基本情報技術者試験　アルゴリズム問題をPythonで実装してみた　平成25年春期",
+      "author" : "@mctk",
+      "day" : 23,
+      "url" : "https://qiita.com/mctk/items/e6dd992c949129ee4703"
+    },
+    {
+      "series" : "カレンダー4",
+      "title" : "シリコンバレーの就活で役に立った資格たち（セールスエンジニア職）",
+      "author" : "@lily3",
+      "day" : 24,
+      "url" : "https://qiita.com/lily3/items/129a5cebdf9f1bd88a1c"
+    },
+    {
+      "series" : "カレンダー4",
+      "day" : 25,
+      "author" : "@ma-yu"
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー5",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "一年で資格20個以上とってみた人が話す「資格取得のすすめ」",
+      "author" : "@faable01",
+      "day" : 23,
+      "url" : "https://qiita.com/faable01/items/b5bee4fd6e0ca00e78ef"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "最後の資格取得から十数年、おじさんでも頑張れば資格が取れました！",
+      "author" : "@fujihide",
+      "day" : 24,
+      "url" : "https://qiita.com/fujihide/items/ac4274c5f33c252df245"
+    },
+    {
+      "series" : "カレンダー5",
+      "title" : "[FE]中学3年生がほぼ3週間でFEに合格しかけた方法",
+      "author" : "@sharp_NEKO",
+      "day" : 25,
+      "url" : "https://qiita.com/sharp_NEKO/items/cab08e6f75f72e4a7c94"
+    }
+  ]
+}

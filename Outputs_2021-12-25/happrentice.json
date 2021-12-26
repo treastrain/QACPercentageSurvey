@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T02:51:10Z",
+  "calendar_meta_data" : {
+    "author" : "@jyouryuusui",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 32,
+    "subscribers" : 11,
+    "title" : "Houdini Apprentice Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "happrentice",
+    "url" : "https://qiita.com/advent-calendar/2021/happrentice"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "簡単なプロシージャル電柱",
+      "author" : "@Alidade",
+      "day" : 1,
+      "url" : "https://nullnode.wixsite.com/houdinipsalm/post/houdini-advent-calendar-2021-day-1st"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "InlineUSDの使い方",
+      "author" : "@fereria",
+      "day" : 2,
+      "url" : "https://fereria.github.io/reincarnation_tech/10_Houdini/11_SOLARIS/15_inline_usd/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdini ApprenticeからMayaにオブジェクトを読み込む裏ワザ！（修正済み）",
+      "author" : "@kei_iketani",
+      "day" : 3,
+      "url" : "https://note.com/johnkparkh13/n/n841b189ac521"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "爆発で硬い地面がえぐれた様な跡を作るよ",
+      "author" : "@ijiVFX",
+      "day" : 4,
+      "url" : "https://qiita.com/ijiVFX/items/66c29070c23a2f99d38b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「枠内」な (バグ) レポートの書き方",
+      "author" : "@ikatnek",
+      "day" : 5,
+      "url" : "https://ikatnek.blogspot.com/2021/12/how-to-write-on-target-bug-report.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LayoutAssetGalleryとLayout",
+      "author" : "@fereria",
+      "day" : 6,
+      "url" : "https://fereria.github.io/reincarnation_tech/10_Houdini/11_SOLARIS/17_layout_asset_gallery/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SDFについて（その１：基礎および可視化方法について）",
+      "author" : "@d-gfx",
+      "day" : 7,
+      "url" : "https://dlanggraphics.blogspot.com/2021/12/houdini-apprentice-advent-calendar-2021-01.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SDFについて（その２：xyzdist の利用）",
+      "author" : "@d-gfx",
+      "day" : 8,
+      "url" : "https://dlanggraphics.blogspot.com/2021/12/houdini-apprentice-advent-calendar-2021-02.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SDFについて（その３：応用例）",
+      "author" : "@d-gfx",
+      "day" : 9,
+      "url" : "https://dlanggraphics.blogspot.com/2021/12/houdini-apprentice-advent-calendar-2021-03.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Match Size を最初のフレームだけ適用",
+      "author" : "@ikatnek",
+      "day" : 10,
+      "url" : "http://ikatnek.blogspot.com/2021/12/match-size-only-on-first-frame.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdini19で簡単にOCIO（ミニマム設定）を設定する",
+      "author" : "@bd_blog",
+      "day" : 11,
+      "url" : "https://support.borndigital.co.jp/hc/ja/articles/4412128745753"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ぶら下げたこんにゃくを顔面にぶつける in Houdini",
+      "author" : "@kkcg",
+      "day" : 12,
+      "url" : "https://kk-cg.net/?p=82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ナイトライフにちなむ布地をプレゼントします",
+      "author" : "@Alidade",
+      "day" : 13,
+      "url" : "https://qiita.com/Alidade/items/72bccf2bba38e017d33c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MaterialXで遊ぶ",
+      "author" : "@kit2cuz",
+      "day" : 14,
+      "url" : "https://qiita.com/kit2cuz/items/d4459493248b147f4ea6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdini19のビューポートでPyroのMotionVectorやNormalを確認する",
+      "author" : "@bd_blog",
+      "day" : 15,
+      "url" : "https://support.borndigital.co.jp/hc/ja/articles/4412125577369"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdini 19.0 版 バリエーションコピー　~Merge Packedの使用~",
+      "author" : "@okada_takuya",
+      "day" : 16,
+      "url" : "https://qiita.com/okada_takuya/items/aca23e14209d4cedd574"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VOPを使ってVolume Deform",
+      "author" : "@shige_ktgw",
+      "day" : 17,
+      "url" : "http://nomoreretake.net/2021/12/17/houdinivop_volume-deformer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gas Project Non Divergentについて",
+      "author" : "@indyzone",
+      "day" : 18,
+      "url" : "https://bit.ly/3sb9PA1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これから Houdini を始めるあなたへ",
+      "author" : "@bechica",
+      "day" : 19,
+      "url" : "https://qiita.com/bechica/items/62dda8ddd99db482bee1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MatrixのアレをHoudiniで作ってみた",
+      "author" : "@ryuji_shirai",
+      "day" : 20,
+      "url" : "https://qiita.com/ryuji_shirai/items/9ee0f26968bdef66ea22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdiniでバリエーション作成！",
+      "author" : "@Bosshi",
+      "day" : 21,
+      "url" : "https://qiita.com/Bosshi/items/08f1d62024fa39bd319f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Houdiniのattributeをデータベースにして都市データを扱ってみる(1. 実装編)",
+      "author" : "@shin_t_o_",
+      "day" : 22,
+      "url" : "https://qiita.com/shin_t_o_/items/c10341115efb3f35cdb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Event Scriptを利用してWrangleのRun Overを表示する",
+      "author" : "@kickbase",
+      "day" : 23,
+      "url" : "https://www.kickbase.net/entry/houdini_event_script"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜ USD を使うのか? なぜ Solaris を使うのか?",
+      "author" : "@ikatnek",
+      "day" : 24,
+      "url" : "http://ikatnek.blogspot.com/2021/12/why-use-usd-why-use-solaris.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesignerからHoudiniへKinectの情報を持っていきたい",
+      "author" : "@jyouryuusui",
+      "day" : 25,
+      "url" : "https://qiita.com/jyouryuusui/items/3cbb20131a3cf490bda7"
+    }
+  ]
+}

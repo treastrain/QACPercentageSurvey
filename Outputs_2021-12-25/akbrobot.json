@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:55:42Z",
+  "calendar_meta_data" : {
+    "author" : "秋葉原ロボット部",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 195,
+    "subscribers" : 24,
+    "title" : "秋葉原ロボット部 Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "akbrobot",
+    "url" : "https://qiita.com/advent-calendar/2021/akbrobot"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeCADの作図方法によるファイルサイズの違いの調査～その1",
+      "author" : "@toshita172",
+      "day" : 1,
+      "url" : "https://qiita.com/toshita172/items/05fdde3cbe7464f3c52a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mh-tinyボードを試してみる",
+      "author" : "@sat0ken",
+      "day" : 2,
+      "url" : "https://qiita.com/sat0ken/items/17a87f66b208f703a52b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマホ充電器つけっぱなしでもリチウムイオン電池を長持ちさせる充電システムを作ってみた",
+      "author" : "@tomonnn1",
+      "day" : 3,
+      "url" : "https://qiita.com/tomonnn1/items/9121d2ec68779bb1ef7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FreeCADの作図方法によるファイルサイズの違いの調査～その2",
+      "author" : "@toshita172",
+      "day" : 4,
+      "url" : "https://qiita.com/toshita172/items/e0cb67e51046209e5f3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nexus 6PにLineageOSをインストールする",
+      "author" : "@hichon",
+      "day" : 5,
+      "url" : "https://qiita.com/hichon/items/2fbe800d96f7e8511ed5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AKBONE 開発環境 2020年版 を使う",
+      "author" : "@nanbuwks",
+      "day" : 6,
+      "url" : "https://qiita.com/nanbuwks/items/a389c63c2302b281fa12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AKBONE2020 でタッチセンサ端子を使う",
+      "author" : "@nanbuwks",
+      "day" : 7,
+      "url" : "https://qiita.com/nanbuwks/items/d9ac26cb0d87ca5568dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry pi picoで作るマルチUSB-TTLシリアルコンバータ",
+      "author" : "@kazueda",
+      "day" : 8,
+      "url" : "https://qiita.com/kazueda/items/596258b2931c8d01697d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームで使う乱数をつくる",
+      "author" : "@La_zlo",
+      "day" : 9,
+      "url" : "https://qiita.com/La_zlo/items/55e9e73e802bc0d38544"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマホ充電器つけっぱなしでもリチウムイオン電池を長持ちさせる充電システムを製品化してみた",
+      "author" : "@tomonnn1",
+      "day" : 10,
+      "url" : "https://qiita.com/tomonnn1/items/3925146799be2b39feef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "意識の進化（クラスモデル） ",
+      "author" : "@tshimizu8",
+      "day" : 11,
+      "url" : "https://qiita.com/tshimizu8/items/f8339fd7184343d026c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiitaでハードウェア開発の記事は希望しない？という件に関して",
+      "author" : "@qa65000",
+      "day" : 12,
+      "url" : "https://qiita.com/qa65000/items/cb1ec0ccbb131a22ef00"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スイッチ動作する FET 回路",
+      "author" : "@nanbuwks",
+      "day" : 13,
+      "url" : "https://qiita.com/nanbuwks/items/a56b83bc2cd5e5ec588b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry pi picoで作るVGAシステムコンソール",
+      "author" : "@kazueda",
+      "day" : 14,
+      "url" : "https://qiita.com/kazueda/items/9b7339227173bbbe269a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STM8S103F3P6ボードを試してみる",
+      "author" : "@sat0ken",
+      "day" : 15,
+      "url" : "https://qiita.com/sat0ken/items/3d4c6bd29a0d6689e3a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "T12ステーションはんだごてHack（その１）ビルド環境構築",
+      "author" : "@pokibon",
+      "day" : 16,
+      "url" : "https://qiita.com/pokibon/items/63ebfa3937a0bdc1ff1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustでAKBONE2020を動かす",
+      "author" : "@sat0ken",
+      "day" : 17,
+      "url" : "https://qiita.com/sat0ken/items/2f575d76487f49010bf3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのクロームブック",
+      "author" : "@tshimizu8",
+      "day" : 18,
+      "url" : "https://qiita.com/tshimizu8/items/c533c44bf1f93ef83a65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rによる数当てゲームの作成",
+      "author" : "@toshita172",
+      "day" : 19,
+      "url" : "https://qiita.com/toshita172/items/611d5b1c1c9054bf85e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RaspberryPI-zero-Wで作る「googleHomeロボット」",
+      "author" : "@wtoy2saito",
+      "day" : 20,
+      "url" : "https://qiita.com/wtoy2saito/items/900cf3bef8a3d53199e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FabGLとOrange-ESPerで5 V、3.3 V両対応VGAシステムコンソール",
+      "author" : "@kazueda",
+      "day" : 21,
+      "url" : "https://qiita.com/kazueda/items/59aedf0622fef8f37264"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "mbedコンパイラ廃止予定のお知らせがキタ。",
+      "author" : "@qa65000",
+      "day" : 22,
+      "url" : "https://qiita.com/qa65000/items/f84aab1ae449cbb902ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "導電糸の電気抵抗を比較する",
+      "author" : "@tendots",
+      "day" : 23,
+      "url" : "https://qiita.com/tendots/items/9b6102753347c798ec74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマホ充電器つけっぱなしでも電池に優しい充電タイマーを手はんだで製造、コミケ等で頒布します～",
+      "author" : "@tomonnn1",
+      "day" : 24,
+      "url" : "https://qiita.com/tomonnn1/items/3f25b935ad51b58580de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マルチディスプレイ環境（8画面）",
+      "author" : "@tshimizu8",
+      "day" : 25,
+      "url" : "https://qiita.com/tshimizu8/items/2a0344de9cf5f0c66f3f"
+    }
+  ]
+}

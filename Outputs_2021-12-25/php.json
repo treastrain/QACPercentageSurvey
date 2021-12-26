@@ -1,0 +1,284 @@
+{
+  "created_at" : "2021-12-26T03:52:42Z",
+  "calendar_meta_data" : {
+    "author" : "@Apartkktrain",
+    "category" : "プログラミング言語",
+    "lgtm" : 171,
+    "subscribers" : 132,
+    "title" : "PHP Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "php",
+    "url" : "https://qiita.com/advent-calendar/2021/php"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【PHP8.1】PHP8.1がリリースされたので新機能全部やる",
+      "author" : "@rana_kualu",
+      "day" : 1,
+      "url" : "https://qiita.com/rana_kualu/items/e350b8ff80f929626eb9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPの緩やかな比較の実態",
+      "author" : "@fyui001",
+      "day" : 2,
+      "url" : "https://qiita.com/fyui001/items/7fbe8a26b7618ebc33f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP 8.0 / 8.1 で個人的にめっちゃ使いたい機能3選",
+      "author" : "@yoshikyoto",
+      "day" : 3,
+      "url" : "https://www.utakata.work/entry/2021/12/03/230223"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravelのキューで並列処理をするには",
+      "author" : "@EbiTT",
+      "day" : 4,
+      "url" : "https://qiita.com/EbiTT/items/929e3cdf73f7e9df6cf8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP8.1のenumの挙動と使い方まとめ",
+      "author" : "@77web@github",
+      "day" : 5,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/05/php8.1-enum/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PHP8.1】new DateTimeZone()が170倍速くなったよ",
+      "author" : "@rana_kualu",
+      "day" : 6,
+      "url" : "https://qiita.com/rana_kualu/items/5fb8c9f254ae37591646"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPのelse if, elseif のパフォーマンス確認",
+      "author" : "@hanhan1978",
+      "day" : 7,
+      "url" : "https://blog.hanhans.net/2021/12/07/php-if-else/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPコードを消すライブラリを作った",
+      "author" : "@kubotak",
+      "day" : 8,
+      "url" : "https://tech.macloud.jp/entry/2021/12/08/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPUnitでGeneratorをMockしたい場合ってどうすればよいの？",
+      "author" : "@takoba",
+      "day" : 9,
+      "url" : "https://qiita.com/takoba/items/8f2d231303bcfdfd50bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP8.1が出たのでmyclabs/php-enumから列挙型(Enum)に置き換えが出来るか試してみた",
+      "author" : "@naopusyu",
+      "day" : 10,
+      "url" : "https://zenn.dev/naopusyu/articles/3721b99e0e30cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Laravel】Str::isでは改行を扱えませんよという話",
+      "author" : "@EbiTT",
+      "day" : 11,
+      "url" : "https://qiita.com/EbiTT/items/682fcbcf0ab1a546fced"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PHP8.1】リリースページが日本語訳されてなかったので深い悲しみに包まれた",
+      "author" : "@rana_kualu",
+      "day" : 12,
+      "url" : "https://qiita.com/rana_kualu/items/e245ef26da2c75d02ba1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPのソースコードからクラス図をリバースエンジニアリングする php-class-diagram を作りました",
+      "author" : "@smeghead",
+      "day" : 13,
+      "url" : "https://blog.starbug1.com/archives/2087"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複雑度の上がったLaravelをミドルウェアから眺める方法",
+      "author" : "@hanhan1978",
+      "day" : 14,
+      "url" : "https://qiita.com/hanhan1978/items/c572c1daa92f995f31e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPによる疑似的なイミュータブルとムーブセマンティクスモドキ",
+      "author" : "@opy",
+      "day" : 15,
+      "url" : "https://qiita.com/opy/items/f6cf96b2c0b62ab4f9a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SDK for PHP を使って画像アップロードをサクッと実装する",
+      "author" : "@Rone_Loreto",
+      "day" : 16,
+      "url" : "https://qiita.com/Rone_Loreto/items/219cad33725b092d4768"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私用のLinuxサーバーに、PHPのビルトインサーバーをデプロイした話",
+      "author" : "@iamyukihiro",
+      "day" : 17,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/17/built-in-server-deployment/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPからGoを呼び出す方法",
+      "author" : "@tzmfreedom",
+      "day" : 18,
+      "url" : "https://tech.yappli.io/entry/php_go"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPプロジェクトのComposerパッケージをRenovateで定期アップデートする",
+      "author" : "@takoba",
+      "day" : 19,
+      "url" : "https://qiita.com/takoba/items/fe87b038780ba8a2c6f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPにはエスケープ関数が何種類もあるけど、できればエスケープしない方法が良い理由",
+      "author" : "@ockeghem",
+      "day" : 20,
+      "url" : "https://blog.tokumaru.org/2021/12/php.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@nsym__m"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@hiro5963"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PHP】データベースを使わずにログイン機能を作ってみる",
+      "author" : "@keisuke-okb",
+      "day" : 23,
+      "url" : "https://qiita.com/keisuke-okb/items/7e7f25bd78705a06d5e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Apartkktrain"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPマニュアルを書いた話",
+      "author" : "@mumumuorg",
+      "day" : 25,
+      "url" : "https://zenn.dev/mumumu/articles/9e2f3de8d74680"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

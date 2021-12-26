@@ -1,0 +1,187 @@
+{
+  "created_at" : "2021-12-26T00:01:19Z",
+  "calendar_meta_data" : {
+    "author" : "@kaizen_nagoya",
+    "category" : "企業・学校・団体",
+    "lgtm" : 27,
+    "subscribers" : 6,
+    "title" : "名古屋工業大学 Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "nit",
+    "url" : "https://qiita.com/advent-calendar/2021/nit"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "NOP(NIT of Programmers)など",
+      "author" : "@kaizen_nagoya",
+      "day" : 1,
+      "url" : "https://qiita.com/kaizen_nagoya/items/fb5630980839aa9a6519"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 名古屋工業大学 Advent Calendar 2021 を満席にする７つの方法",
+      "author" : "@kaizen_nagoya",
+      "day" : 2,
+      "url" : "https://qiita.com/kaizen_nagoya/items/b7286ebc8ab7ac8ca368"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大学時代に学んだこと・経験したこと",
+      "author" : "@kazuo_reve",
+      "day" : 3,
+      "url" : "https://qiita.com/kazuo_reve/items/e9443e51b6ccd9d52db8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ＡＩで〇〇したいんだけど」の相談前に確認する３つのこと",
+      "author" : "@kaizen_nagoya",
+      "day" : 4,
+      "url" : "https://qiita.com/kaizen_nagoya/items/3a142288736eb643afab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@kazuo_reve 「大学時代に学んだこと・経験したこと」を自分と比較",
+      "author" : "@kaizen_nagoya",
+      "day" : 5,
+      "url" : "https://qiita.com/kaizen_nagoya/items/7ff0015e08118b5fd8d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アイビスペイント2億ダウンロード",
+      "author" : "@kaizen_nagoya",
+      "day" : 6,
+      "url" : "https://qiita.com/kaizen_nagoya/items/cd965acd0cdd365d9835"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita Advent Calendar 2021に参加しませんか。",
+      "author" : "@kaizen_nagoya",
+      "day" : 7,
+      "url" : "https://qiita.com/kaizen_nagoya/items/c1a765d329f61bee721f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はっぴいえんど（作曲：大瀧詠一、細野晴臣、鈴木茂、作詞：松本隆）をダイヤトーンで聴く",
+      "author" : "@kaizen_nagoya",
+      "day" : 8,
+      "url" : "https://qiita.com/kaizen_nagoya/items/cfa82aa34fcb7cf7f6d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita Advent Calendar 2021 いかに効率的に記事を書いていくかの戦略と戦術(主催者の場合)",
+      "author" : "@kaizen_nagoya",
+      "day" : 9,
+      "url" : "https://qiita.com/kaizen_nagoya/items/9289c37eac1d056814b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@guravity「アジャイル開発についての覚書」で気になったこと",
+      "author" : "@kaizen_nagoya",
+      "day" : 10,
+      "url" : "https://qiita.com/kaizen_nagoya/items/5f1e0100120160f2b76a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@kazuo_reve「不為也、非不能也（為（な）さざるなり、能（あた）わざるに非（あら）ざるなり）」を読んで",
+      "author" : "@kaizen_nagoya",
+      "day" : 11,
+      "url" : "https://qiita.com/kaizen_nagoya/items/7b36465973cb65ae7f0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "不為也、非不能也（為（な）さざるなり、能（あた）わざるに非（あら）ざるなり）",
+      "author" : "@kazuo_reve",
+      "day" : 12,
+      "url" : "https://qiita.com/kazuo_reve/items/a2e15627f0eff62e6af6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita Advent Calendar 2021 折り返し",
+      "author" : "@kaizen_nagoya",
+      "day" : 13,
+      "url" : "https://qiita.com/kaizen_nagoya/items/3ffdcc464aa3855f5319"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「新人の方によく展開している有益な情報」の中で大学時代に得ておけばよかった情報",
+      "author" : "@kazuo_reve",
+      "day" : 14,
+      "url" : "https://qiita.com/kazuo_reve/items/86943d2570c7b90de404"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita Advent Calendar 2021 いかに効率的に記事を書いていくかの戦略と戦術(参加者の場合)",
+      "author" : "@kaizen_nagoya",
+      "day" : 15,
+      "url" : "https://qiita.com/kaizen_nagoya/items/a7f62008e5fc7b3a4aa4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "昭和な表紙から脱却するために",
+      "author" : "@kaizen_nagoya",
+      "day" : 16,
+      "url" : "https://qiita.com/kaizen_nagoya/items/032c49d9adfb53414289"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "laprasで３ヶ月同じ値だったこと。追記：teratail連携したら少し増えたこと。",
+      "author" : "@kaizen_nagoya",
+      "day" : 17,
+      "url" : "https://qiita.com/kaizen_nagoya/items/128d5df7be48cb058131"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendarを企画して起こしたかったこと",
+      "author" : "@kaizen_nagoya",
+      "day" : 18,
+      "url" : "https://qiita.com/kaizen_nagoya/items/c0da09c6ad5b7be08fe3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「IT資格取得をテーマに学びをシェアしよう！【PR】Udemy Advent Calendar 2021」を振り返る（前段）",
+      "author" : "@kaizen_nagoya",
+      "day" : 19,
+      "url" : "https://qiita.com/kaizen_nagoya/items/d835378a606441e88bd1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Rust Advent Calendar 2021」集計してみる",
+      "author" : "@kaizen_nagoya",
+      "day" : 20,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f6431cec90a49879dcd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendar 2021 12/25までに100記事。年内に125記事にする件",
+      "author" : "@kaizen_nagoya",
+      "day" : 21,
+      "url" : "https://qiita.com/kaizen_nagoya/items/36f744aefcb51a0e2866"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@kazuo_reve「マネージャー・リーダーの私にとって有益な知見が得られた書籍」への謝辞",
+      "author" : "@kaizen_nagoya",
+      "day" : 22,
+      "url" : "https://qiita.com/kaizen_nagoya/items/0a14282693f3fca49282"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@kazuo_reve 「新人の方によく展開している有益な情報」はじめ記事を参照して頂いた時にしていること。",
+      "author" : "@kaizen_nagoya",
+      "day" : 23,
+      "url" : "https://qiita.com/kaizen_nagoya/items/0e4e92f45c158ef81423"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@nekonibox「博士ならではの就職活動のやり方」に付け加えたい一つのこと",
+      "author" : "@kaizen_nagoya",
+      "day" : 25,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f07f8ebdc917694dfe9e"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:08:53Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ナレッジコミュニケーション",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 7,
+    "subscribers" : 3,
+    "title" : "クラウドAI by ナレコム Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "knowcom-cloudai",
+    "url" : "https://qiita.com/advent-calendar/2021/knowcom-cloudai"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS re:Invent 2021 Amazon Redshift Serverless (Preview) の紹介",
+      "author" : "@Yoshiyuki03",
+      "day" : 1,
+      "url" : "https://qiita.com/Yoshiyuki03/items/b99135995a6e3604ebe6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【速報】新たに発表されたAmazon SageMaker Canvasについて紹介！",
+      "author" : "@m-ide",
+      "day" : 2,
+      "url" : "https://qiita.com/m-ide/items/21846eb3755ff76bd01f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Databricks】作成したモデルをリモデルしてみる",
+      "author" : "@K-Nomu3",
+      "day" : 3,
+      "url" : "https://qiita.com/K-Nomu3/items/604f0c001f19fa920040"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon EMR Serverlessについて調べてみた",
+      "author" : "@KC-YOK",
+      "day" : 4,
+      "url" : "https://qiita.com/KC-YOK/items/e6d588df0570a1dec02d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure で ML Ops をやってみる ～概要編～",
+      "author" : "@banana-877",
+      "day" : 5,
+      "url" : "https://qiita.com/banana-877/items/9e035d67c679aa87c983"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud9 + CodeCommitでサクッとterraform実行環境を作成する",
+      "author" : "@d_e_n",
+      "day" : 6,
+      "url" : "https://qiita.com/d_e_n/items/1539623175e2370a60cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スケーラブルとコスト効率向上の災害対策【AWS】",
+      "author" : "@JJ33",
+      "day" : 7,
+      "url" : "https://qiita.com/JJ33/items/266c593a2b6f5d3aa89b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SageMaker Canvasを試してみた",
+      "author" : "@SatoshiGachiFujimoto",
+      "day" : 8,
+      "url" : "https://qiita.com/SatoshiGachiFujimoto/items/71c21b215a302bede3f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[AWS re:Invent 2021] Amazon Inspector の新バージョンが発表されました！",
+      "author" : "@kc-Dream",
+      "day" : 9,
+      "url" : "https://qiita.com/kc-Dream/items/26825c5b1890b9a36fe3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【通話要約】Contact Lens for Amazon Connect の新機能が発表されました",
+      "author" : "@mottie",
+      "day" : 10,
+      "url" : "https://qiita.com/mottie/items/cefc9e6ea126ee9ce2c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1年ぶりにAmazonTranscribeの機能を調べてみた",
+      "author" : "@izu_know",
+      "day" : 11,
+      "url" : "https://qiita.com/izu_know/items/3e0c3b7e815d17ff8575"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure で ML Ops をやってみる ～実践編～",
+      "author" : "@banana-877",
+      "day" : 12,
+      "url" : "https://qiita.com/banana-877/items/170123087a9ec4621d69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Cognitive Servicesで提供されているSpeech serviceを使ってみた。",
+      "author" : "@popo-kc",
+      "day" : 13,
+      "url" : "https://qiita.com/popo-kc/items/8b5fddc4cf6cb112defb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon VPC Network Access Analyzer がリリースされました！",
+      "author" : "@mottie",
+      "day" : 14,
+      "url" : "https://qiita.com/mottie/items/7f1dba99ab086e8ad6d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Amazon Personalize】Part.3 最新アップデート情報",
+      "author" : "@omiyu",
+      "day" : 15,
+      "url" : "https://qiita.com/omiyu/items/6ed8f022a8ccef20e550"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「アレクサ、おはよう」で今日の予定を確認する",
+      "author" : "@chika-kc",
+      "day" : 16,
+      "url" : "https://qiita.com/chika-kc/items/64eda1802da909b72798"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Apps から API 呼び出す（ついでに Face API で感情分析）",
+      "author" : "@Oxyride",
+      "day" : 17,
+      "url" : "https://qiita.com/Oxyride/items/eea6b3a880bba67057d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon SageMakerサービスまとめ　令和3年12月版",
+      "author" : "@knowledgecommunication",
+      "day" : 18,
+      "url" : "https://qiita.com/knowledgecommunication/items/1350af15e8adda0971ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Cognitive Servicesについてまとめてみた。",
+      "author" : "@popo-kc",
+      "day" : 19,
+      "url" : "https://qiita.com/popo-kc/items/14b109d9d45f5d16d73b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS初心者向けハンズオンでAIサービスを触ってみる",
+      "author" : "@joson_0",
+      "day" : 20,
+      "url" : "https://qiita.com/joson_0/items/fcc8954685274b5cd27e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データウェアハウスとデータレイクの違いについて",
+      "author" : "@iga_ra_sh",
+      "day" : 21,
+      "url" : "https://qiita.com/iga_ra_sh/items/c0c745409a83f0f3f770"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon DevOps Guru for RDSをさわってみる",
+      "author" : "@zenden",
+      "day" : 22,
+      "url" : "https://qiita.com/zenden/items/774be6c0b2f6f9802b5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【OpenAI】 GPT-3を試してみる",
+      "author" : "@h_koya",
+      "day" : 23,
+      "url" : "https://qiita.com/h_koya/items/dd8aea44ca880d4036c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ分析初学者がFBProhetについてまとめてみた",
+      "author" : "@m-ide",
+      "day" : 24,
+      "url" : "https://qiita.com/m-ide/items/426efc2bdf4d7fd03aa0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Linux 2022（プレビュー版）が発表されました",
+      "author" : "@KC_ykj",
+      "day" : 25,
+      "url" : "https://qiita.com/KC_ykj/items/80aae3f37a44abf60b36"
+    }
+  ]
+}

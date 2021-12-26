@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:17:59Z",
+  "calendar_meta_data" : {
+    "author" : "@n-kajiwara",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 15,
+    "subscribers" : 9,
+    "title" : "EC-CUBE Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "ec-cube",
+    "url" : "https://qiita.com/advent-calendar/2021/ec-cube"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "関連商品プラグインに見出しをつける方法",
+      "author" : "@tsumu-tsumu",
+      "day" : 1,
+      "url" : "https://qiita.com/tsumu-tsumu/items/5e1bb13b5893485e5656"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4.1でアップデートされたWebp形式（次世代画像フォーマット）への対応方法いろは",
+      "author" : "@himotoon",
+      "day" : 2,
+      "url" : "https://qiita.com/himotoon/items/f1f4c8aad679e085f5aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "［2021年版］EC-CUBEのユーザーグループに参加してみよう",
+      "author" : "@h_murakami",
+      "day" : 3,
+      "url" : "https://qiita.com/h_murakami/items/e3ca155740581c5efb2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4でGA4とUAの簡易的なeコマースタグ設定方法",
+      "author" : "@amidaike",
+      "day" : 4,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/04/004709"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4のCustomizeディレクトリでカスタマイズしたらテストコードを書こう",
+      "author" : "@kurozumi",
+      "day" : 5,
+      "url" : "https://a-zumi.net/eccube4-customize-unittest/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なんか書きます",
+      "author" : "@tao_s",
+      "day" : 6,
+      "url" : "https://eccube.hatenablog.com"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【EC-CUBE DAY 2021イベント参加レポート】EC-CUBE DAY 2021 に参加してみて(by ボクブロック株式会社)",
+      "author" : "@n-kajiwara",
+      "day" : 7,
+      "url" : "https://tsubo.ec-cube.net/2021/12/03/12954"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE3でGA4とUAの簡易的なeコマースタグ設定方法",
+      "author" : "@amidaike",
+      "day" : 8,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/08/000557"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE3でphp7.3以降に対応させる方法",
+      "author" : "@amidaike",
+      "day" : 9,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/09/145559"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECサイトにおけるページ改善のポイント10とリニューアル時のチェックポイント15 by アイディーエス",
+      "author" : "@n-kajiwara",
+      "day" : 10,
+      "url" : "https://tsubo.ec-cube.net/2021/12/09/12994"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エラーlogを吐いたらSlackへメッセージ送信をする",
+      "author" : "@dev_belltzel",
+      "day" : 11,
+      "url" : "https://qiita.com/dev_belltzel/items/63651cf28760cad6558f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4で簡易的に領収書や請求書をマイページに表示させる方法",
+      "author" : "@amidaike",
+      "day" : 12,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/12/210538"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4 Web APIの項目追加方法",
+      "author" : "@amidaike",
+      "day" : 13,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/13/004805"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hardenig 2021 Active Fault 参加体験記",
+      "author" : "@carkn",
+      "day" : 14,
+      "url" : "https://qiita.com/carkn/items/aa96cdd6df5fdb190475"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ移行プラグインで対応していないプラグインの移行方法カスタマイズ",
+      "author" : "@amidaike",
+      "day" : 15,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/15/002332"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBEのセキュリティテスト自動化を試みているお話",
+      "author" : "@nanasess",
+      "day" : 16,
+      "url" : "https://zenn.dev/nanasess/articles/vulnstudy05-owasp-and-eccube"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2系にあった商品並び替え機能をEC-CUBE4系で実装する方法",
+      "author" : "@amidaike",
+      "day" : 17,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/17/181205"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE3でhttpキャッシュを有効にする方法",
+      "author" : "@amidaike",
+      "day" : 18,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/18/185326"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2系にあったCSV出力項目設定の「高度な設定」機能をEC-CUBE4で実装する方法",
+      "author" : "@amidaike",
+      "day" : 19,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/19/145338"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4で商品登録画面等にあるテキストエリアにTinyMCEを利用して入力させる方法",
+      "author" : "@amidaike",
+      "day" : 20,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/20/012823"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "やっぱりWindowsローカルでEC-CUBEを開発したいんだ！！",
+      "author" : "@coelacanth",
+      "day" : 21,
+      "url" : "http://coelacanth.jp.net/use_eccube_windows/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4の商品一覧画面で該当するカテゴリページに画像や説明文を表示させる方法",
+      "author" : "@amidaike",
+      "day" : 22,
+      "url" : "https://amidaike.hatenablog.com/entry/2021/12/22/020908"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vagrant+VirtualBox+VSCode Remote Developmentでローカル環境を構築する",
+      "author" : "@sw-koyama",
+      "day" : 23,
+      "url" : "https://www.spreadworks.co.jp/eccube-local-development/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE4にImageFluxを設定する方法",
+      "author" : "@sw-murata",
+      "day" : 24,
+      "url" : "https://www.spreadworks.co.jp/imageflux-ec-cube-4/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC-CUBE 2021年の振り返り",
+      "author" : "@n-kajiwara",
+      "day" : 25,
+      "url" : "https://tsubo.ec-cube.net/2021/12/25/13238"
+    }
+  ]
+}

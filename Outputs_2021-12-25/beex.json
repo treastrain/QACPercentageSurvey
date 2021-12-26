@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T04:00:04Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社BeeX",
+    "category" : "企業・学校・団体",
+    "lgtm" : 157,
+    "subscribers" : 5,
+    "title" : "BeeX Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "beex",
+    "url" : "https://qiita.com/advent-calendar/2021/beex"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSへServerlessFrameworkでアプリケーションデプロイしている時のTips",
+      "author" : "@yomon8",
+      "day" : 1,
+      "url" : "https://qiita.com/yomon8/items/98f43f5aef46e19d5d3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ルービックキューブを半自動でぐりぐりさせるthree.jsのサンプルプログラム",
+      "author" : "@suzuki-navi",
+      "day" : 2,
+      "url" : "https://qiita.com/suzuki-navi/items/6b448d34bf2633a06346"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS主催 実践提案道場に参加して学んだことメモ",
+      "author" : "@Tanaka_Megumi",
+      "day" : 3,
+      "url" : "https://qiita.com/Tanaka_Megumi/items/7cae3c47d95697930bb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Challenge Google Cloud Data Engineering  part1",
+      "author" : "@Shohei_Miwa",
+      "day" : 4,
+      "url" : "https://qiita.com/Shohei_Miwa/items/4d555eff3b5560142f30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "awscliのよく使うコマンド",
+      "author" : "@suzuki-navi",
+      "day" : 5,
+      "url" : "https://qiita.com/suzuki-navi/items/b12fa3dac7c37a4cfa08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Challenge Google Cloud Data Engineering part2",
+      "author" : "@Shohei_Miwa",
+      "day" : 6,
+      "url" : "https://qiita.com/Shohei_Miwa/items/807856bc3d9d3e9bad43"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新しいS3ストレージクラスをJPCYBERから使ってみる(Glacier Instant Retrieval)",
+      "author" : "@handy-dd18",
+      "day" : 7,
+      "url" : "https://qiita.com/handy-dd18/items/6a51da9b73b60675524b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAP Connector for Microsoft .NET（NCo）をWindows PowerShellから実行してSAPを操作してみる",
+      "author" : "@SAITO_Keita",
+      "day" : 8,
+      "url" : "https://qiita.com/SAITO_Keita/items/59b52010c6ff908b5557"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MacBook Airの環境設定について",
+      "author" : "@atakig",
+      "day" : 9,
+      "url" : "https://qiita.com/atakig/items/16c191199b2d3fd159df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JPCYBERの設定Import/Export機能を確認する",
+      "author" : "@handy-dd18",
+      "day" : 10,
+      "url" : "https://qiita.com/handy-dd18/items/abef40c8dd7798fa1cee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】Amazon Athena Federated Query を使用してQuickSightまでデータ分析基盤を検証構築してみた",
+      "author" : "@Shohei_Miwa",
+      "day" : 11,
+      "url" : "https://qiita.com/Shohei_Miwa/items/f5a0ca3e83adc15be2a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Inspectorを使ってEC2の脆弱性診断をしてみる",
+      "author" : "@Kiyonchu",
+      "day" : 12,
+      "url" : "https://qiita.com/Kiyonchu/items/29a2f7b39ef9c6d9cc8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Challenge Google Cloud Data Engineering part3",
+      "author" : "@Shohei_Miwa",
+      "day" : 13,
+      "url" : "https://qiita.com/Shohei_Miwa/items/77b2ae7fda298290555d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLabとGitLab Runnerをdocker-composeで手軽に構築する",
+      "author" : "@handy-dd18",
+      "day" : 14,
+      "url" : "https://qiita.com/handy-dd18/items/8eb4e4a754fbd8b42448"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab RunnerでECR/ECSにデプロイする",
+      "author" : "@handy-dd18",
+      "day" : 15,
+      "url" : "https://qiita.com/handy-dd18/items/f095407d0b49b826d007"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS IoTに圧縮済みのデータを送信してAWS側で解凍する",
+      "author" : "@yomon8",
+      "day" : 16,
+      "url" : "https://qiita.com/yomon8/items/bc6d7b34c22d0085ee0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ControlTower②環境確認",
+      "author" : "@tonkatsu_oishi",
+      "day" : 17,
+      "url" : "https://qiita.com/tonkatsu_oishi/items/b6dc3d548461d21b440d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EmbulkでPostgreSQLからS3にデータを転送してみた",
+      "author" : "@suzuki-navi",
+      "day" : 18,
+      "url" : "https://qiita.com/suzuki-navi/items/bd01e3f6937b35d143c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Certified Data Analytics - Specialty 合格しました",
+      "author" : "@suzuki-navi",
+      "day" : 19,
+      "url" : "https://qiita.com/suzuki-navi/items/936741e02a5869856ad8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】SQLAlchemyを試してみる",
+      "author" : "@ng3rdstmadgke",
+      "day" : 20,
+      "url" : "https://qiita.com/ng3rdstmadgke/items/ebdbe5a85dbc3e6004ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon CloudWatch Application InsightsでSAP HANAをモニタリングしてみる",
+      "author" : "@Shinya_K",
+      "day" : 21,
+      "url" : "https://qiita.com/Shinya_K/items/2f2985bb99c54b50cea8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS IAMロールのスイッチロールを体感してみたメモ",
+      "author" : "@Tanaka_Megumi",
+      "day" : 22,
+      "url" : "https://qiita.com/Tanaka_Megumi/items/31ad9d17aef28896ffc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS資格を6冠達成できたので、振り返ってみた",
+      "author" : "@yes_dog",
+      "day" : 23,
+      "url" : "https://qiita.com/yes_dog/items/4b4215acc5f6ce93c12f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "matplotlib 入門",
+      "author" : "@Shohei_Miwa",
+      "day" : 24,
+      "url" : "https://qiita.com/Shohei_Miwa/items/8f0d337c0bfb75a8716f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pandas 入門",
+      "author" : "@Shohei_Miwa",
+      "day" : 25,
+      "url" : "https://qiita.com/Shohei_Miwa/items/ae0b6a703c988c8ba59a"
+    }
+  ]
+}

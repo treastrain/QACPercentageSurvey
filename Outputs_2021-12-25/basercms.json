@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-25T22:39:29Z",
+  "calendar_meta_data" : {
+    "author" : "@baserCMS",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 17,
+    "subscribers" : 4,
+    "title" : "【 baserCMS 】 Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "basercms",
+    "url" : "https://qiita.com/advent-calendar/2021/basercms"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ログイン試行回数を制限するプラグインを作成しました",
+      "author" : "@kaburk",
+      "day" : 1,
+      "url" : "https://blog.kaburk.com/blog/archives/165"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSON-LD 構造化データマークアップを導入",
+      "author" : "@kaburk",
+      "day" : 5,
+      "url" : "https://blog.kaburk.com/blog/archives/167"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フォーラムまとめ",
+      "author" : "@ogo_cu",
+      "day" : 10,
+      "url" : "https://magazine.basercms.net/article/archives/43"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "画像ギャラリー風のテーマ「multiverse」を作成しました",
+      "author" : "@kaburk",
+      "day" : 11,
+      "url" : "https://blog.kaburk.com/blog/archives/170"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[baserCMS]データベース内に専用のテーブルを持たないラクして作るプラグイン",
+      "author" : "@materializing",
+      "day" : 12,
+      "url" : "https://qiita.com/materializing/items/4ede826af2fc92eac6b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超絶初心者がワークショップイベントに参加してみた",
+      "author" : "@rabbitchangTEST",
+      "day" : 13,
+      "url" : "http://catchup.co.jp/recruit/media/archives/290"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【baserCMS】baserCMS+外部APIで簡単ウィジェット作成",
+      "author" : "@ichi280",
+      "day" : 14,
+      "url" : "https://qiita.com/ichi280/items/10cc4ba3be2947a79d79"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ざっくりcakephp2 vs cakephp4の違い",
+      "author" : "@humuhimi",
+      "day" : 15,
+      "url" : "https://qiita.com/humuhimi/items/b43eeef355c1c8a9b31b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【baserCMS】CMS ではじめるお手軽 TDD 入門",
+      "author" : "@momo_r",
+      "day" : 16,
+      "url" : "https://qiita.com/momo_r/items/be160af8deabad3ce7f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "baserCMS発行のベーサーメルマガをご存知ですか？",
+      "author" : "@baserCMS",
+      "day" : 17,
+      "url" : "https://basercms.net/news/archives/748"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "baserCMSのプラグインを作成しました。ブログ記事編集画面の、カテゴリ・アイキャッチ項目の表示・非表示を選択できるプラグインです。",
+      "author" : "@yutori1222",
+      "day" : 18,
+      "url" : "https://yutori-shine.com/tech/archives/15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WordPressからbaserCMSへ記事データを移行！",
+      "author" : "@kaburk",
+      "day" : 19,
+      "url" : "https://blog.kaburk.com/blog/archives/166"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "baserマーケットからプラグインをインストールする①ダウンロード編",
+      "author" : "@hiraoka51",
+      "day" : 20,
+      "url" : "https://qiita.com/hiraoka51/items/bc960e51675c83459f88"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "baserCMSはどの程度のサイト規模まで構築・運用実績があるのか？",
+      "author" : "@baserCMS",
+      "day" : 21,
+      "url" : "https://magazine.basercms.net/article/archives/44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "baserCMSのサイト統合などで別のbaserCMSからブログ記事を移行したいときに使えるプラグインを作りました",
+      "author" : "@katokaiysa",
+      "day" : 22,
+      "url" : "https://qiita.com/katokaiysa/items/3aace5ab4ba0a6a31f58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "baserCMS５開発の取り組み",
+      "author" : "@ryuring",
+      "day" : 23,
+      "url" : "https://magazine.basercms.net/article/archives/45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【baserCMS】AdminPageEditable プラグインを作りました。",
+      "author" : "@a-killer-bee",
+      "day" : 24,
+      "url" : "https://qiita.com/a-killer-bee/items/c2a95ea86881cc4ecb9e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[CakePHP2] baserCMSをLaravelで動かしてみる",
+      "author" : "@chinpei215",
+      "day" : 25,
+      "url" : "https://qiita.com/chinpei215/items/016b7d125b944d00f640"
+    }
+  ]
+}

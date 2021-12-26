@@ -1,0 +1,176 @@
+{
+  "created_at" : "2021-12-25T20:42:54Z",
+  "calendar_meta_data" : {
+    "author" : "@tatessy",
+    "category" : "企業・学校・団体",
+    "lgtm" : 88,
+    "subscribers" : 2,
+    "title" : "AIRS-Lab Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "airs-lab",
+    "url" : "https://qiita.com/advent-calendar/2021/airs-lab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AIRS-Lab式のKaggle入門",
+      "author" : "@tatessy",
+      "day" : 1,
+      "url" : "https://qiita.com/tatessy/items/a60cd5667fe41381c48b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セル・オートマトンで「脳」をシンプルに実装してみよう。その1 -セル・オートマトンとは？-",
+      "author" : "@yuky_az",
+      "day" : 2,
+      "url" : "https://qiita.com/yuky_az/items/17fff285101ea365982b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kaggle-Titanicについてのまとめ",
+      "author" : "@yapp-dev",
+      "day" : 3,
+      "url" : "https://qiita.com/yapp-dev/items/88aef86ed131cf81ba4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KaggleのHouse Prices - Advanced Regression Techniquesをgoogle colabで動作させる手順",
+      "author" : "@TsuyoshiMorita",
+      "day" : 4,
+      "url" : "https://qiita.com/TsuyoshiMorita/items/ac82488e9d389e4e61b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@tatessy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#）DeepL API で翻訳した結果をボイスロイドにしゃべってもらいたい！（１）",
+      "author" : "@fuji_t",
+      "day" : 6,
+      "url" : "https://qiita.com/fuji_t/items/4d9ca45006ce0c2aaa32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セル・オートマトンで「脳」をシンプルに実装してみよう。その2 -セルの並べ方-",
+      "author" : "@yuky_az",
+      "day" : 7,
+      "url" : "https://qiita.com/yuky_az/items/c134fafb9311b9c15651"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大学での講義「AIプログラミング」を終えて",
+      "author" : "@yuky_az",
+      "day" : 8,
+      "url" : "https://note.com/yuky_az/n/n5b67c2d03535"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C#）DeepL API で翻訳した結果をボイスロイドにしゃべってもらいたい！（２）",
+      "author" : "@fuji_t",
+      "day" : 9,
+      "url" : "https://qiita.com/fuji_t/items/2ff27f9d73a9893c0b86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "現在のＡＩ開発で知財管理的に気になるいくつかの点について",
+      "author" : "@ICI-giken",
+      "day" : 10,
+      "url" : "https://qiita.com/ICI-giken/items/e208bd257625a92a88dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@yamatokun9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セル・オートマトンで「脳」をシンプルに実装してみよう。その3  -ニューロンの配置-",
+      "author" : "@yuky_az",
+      "day" : 12,
+      "url" : "https://qiita.com/yuky_az/items/cc5272d1c18270c5f7b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ライフゲームをVBAで作ってみよう！",
+      "author" : "@fuji_t",
+      "day" : 13,
+      "url" : "https://qiita.com/fuji_t/items/47242f8dea20c63eab73"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "強化学習で迷路を解いてみる（ポリシー反復法）",
+      "author" : "@fuji_t",
+      "day" : 14,
+      "url" : "https://qiita.com/fuji_t/items/576d105e0a8985ba8cf4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セル・オートマトンで「脳」をシンプルに実装してみよう。その4 -恒常性と馴化-",
+      "author" : "@yuky_az",
+      "day" : 15,
+      "url" : "https://qiita.com/yuky_az/items/9fd73452f8283262e54a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セル・オートマトンで「脳」をシンプルに実装してみよう。その5 -ヘブ則の導入-",
+      "author" : "@yuky_az",
+      "day" : 16,
+      "url" : "https://qiita.com/yuky_az/items/065b764f59e2720214c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ＣＡ３野を模したニューロアトラクタ回路とその利用形態についての検討",
+      "author" : "@ICI-giken",
+      "day" : 17,
+      "url" : "https://qiita.com/ICI-giken/items/cb9e997f478edac5f7c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@TORTES"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Yu0888"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "雑談対話モデルを動かす環境構築にハマった話",
+      "author" : "@nakmas",
+      "day" : 20,
+      "url" : "https://qiita.com/nakmas/items/c1080fc808cbb03ddff3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Colaboratoryで形態素解析してみた",
+      "author" : "@yapp-dev",
+      "day" : 21,
+      "url" : "https://qiita.com/yapp-dev/items/7fbd23a373302a04536b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VBA）DeepL API を使って翻訳してみる",
+      "author" : "@fuji_t",
+      "day" : 22,
+      "url" : "https://qiita.com/fuji_t/items/4e5651b488ec92ecf388"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@Ellen_EHW"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@ICI-giken"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yuky_az"
+    }
+  ]
+}

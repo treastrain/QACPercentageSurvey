@@ -1,0 +1,185 @@
+{
+  "created_at" : "2021-12-25T20:03:41Z",
+  "calendar_meta_data" : {
+    "author" : "@tomoyuki-murakami",
+    "category" : "企業・学校・団体",
+    "lgtm" : 82,
+    "subscribers" : 1,
+    "title" : "データラーニングギルド Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "data-learning-guild",
+    "url" : "https://qiita.com/advent-calendar/2021/data-learning-guild"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "データラーニングギルドAdventCalendar2021始まります！",
+      "author" : "@tomoyuki-murakami",
+      "day" : 1,
+      "url" : "https://qiita.com/tomoyuki-murakami/items/dbac2fd275cf151844bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語学習ゲーム「英語物語」に関するデータラーニングギルドでの分析企画についての振返",
+      "author" : "@kanekoteruaki",
+      "day" : 2,
+      "url" : "https://qiita.com/kanekoteruaki/items/86340b73bace5dbdb247"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "街の本屋さんのアナログ伝票管理をデジタル化した話",
+      "author" : "@masso",
+      "day" : 4,
+      "url" : "https://thinker-masso.hatenablog.com/entry/2021/12/04/164651"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日系海外子会社で取組むDXのお話",
+      "author" : "@DaikichiDaze",
+      "day" : 5,
+      "url" : "https://note.com/daikichidaze/n/naab36f5d1768"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "\"データ\"を扱う職種に転職してみて",
+      "author" : "@Ippei_3535",
+      "day" : 6,
+      "url" : "https://qiita.com/Ippei_3535/items/65d6f325cdf84f17fb8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報システム部とデータ分析",
+      "author" : "@brume_anna",
+      "day" : 7,
+      "url" : "https://qiita.com/brume_anna/items/f318a94ccb9d26182476"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンティストとして就職したその後",
+      "author" : "@abekou",
+      "day" : 8,
+      "url" : "https://abekou.hateblo.jp/entry/2021/12/08/174042"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワーク化で学んだ、DX推進に必要なドキュメンテーション能力の話",
+      "author" : "@masanobu-tsuda",
+      "day" : 9,
+      "url" : "https://qiita.com/masanobu-tsuda/items/f626c1700566227b7003"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンスプロジェクトにおける社外技術の獲得【調査・契約編】",
+      "author" : "@banquet_kuma",
+      "day" : 10,
+      "url" : "https://wp.me/pcXUL0-kz"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンティストになって1年 思ったことまとめる",
+      "author" : "@TSK14762625",
+      "day" : 11,
+      "url" : "https://qiita.com/TSK14762625/items/f3727317aadcf5a2c3aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンティストとしてDXに1年取り組んだ経験を振り返る",
+      "author" : "@hasegawa16777216",
+      "day" : 12,
+      "url" : "https://qiita.com/hasegawa16777216/items/95cb32135de4a6361cf1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "本業Webアプリエンジニアのデータサイエンティスト副業事情",
+      "author" : "@tamanobi",
+      "day" : 13,
+      "url" : "https://qiita.com/tamanobi/items/d391e258d11873a9b362"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@msdtakashi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "製造業R&Dからデータサイエンティストへの転職について",
+      "author" : "@Spica09",
+      "day" : 15,
+      "url" : "https://qiita.com/Spica09/items/38ca50672f10c09ee171"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データ分析案件1年目でパイプラインを作った話",
+      "author" : "@pinana",
+      "day" : 16,
+      "url" : "https://qiita.com/pinana/items/141283d2afe2576a6bb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンス系大学院生の一年の振り返りと就活事情",
+      "author" : "@yuto19987789",
+      "day" : 17,
+      "url" : "https://mountainstream77.hatenablog.com/entry/2021/12/18/010819?_ga=2.231479967.1477601569.1639724482-529460476.1639724482"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語学習アプリ「英語物語」分析レポート",
+      "author" : "@akatuki50",
+      "day" : 18,
+      "url" : "https://qiita.com/akatuki50/items/cd022ba21069c723a12e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "工場系データサイエンティストがスマホアプリのデータ分析をやってみた話",
+      "author" : "@Ottey",
+      "day" : 19,
+      "url" : "https://qiita.com/Ottey/items/ecd2a4f5a7227d28caed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データエンジニアにキャリアチェンジした1年を振り返る",
+      "author" : "@mouritakuto",
+      "day" : 20,
+      "url" : "https://qiita.com/mouritakuto/items/dcfe498dd6411e0dc1f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポスドクから企業のデータ分析職に転職した後の一年間を振り返りました",
+      "author" : "@tk-ml",
+      "day" : 21,
+      "url" : "https://qiita.com/tk-ml/items/d514e25ff8cf9553c0ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CourseraのDeepLearningコース+αを使ってどうDeepLearningを勉強したか",
+      "author" : "@chitose_ng",
+      "day" : 22,
+      "url" : "https://knknkn.hatenablog.com/entry/2021/12/23/181148"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fivetranのdbt transformationsを徹底検証",
+      "author" : "@sista05",
+      "day" : 23,
+      "url" : "https://zenn.dev/datamarket/articles/investigate_dbt_transformations"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "30過ぎて機械学習エンジニアになって3年経ったので理想と現実について書いてみる",
+      "author" : "@tomone_hata",
+      "day" : 24,
+      "url" : "https://qiita.com/tomone_hata/items/f65848a42ee73541e048"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【人生100年時代】続々・50代からのデータサイエンス",
+      "author" : "@brainbrown",
+      "day" : 25,
+      "url" : "https://qiita.com/brainbrown/items/1b7b43b4b0dc48a70fe1"
+    }
+  ]
+}

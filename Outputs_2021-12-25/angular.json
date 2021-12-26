@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T22:58:40Z",
+  "calendar_meta_data" : {
+    "author" : "@yuto_nakaizumi",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 41,
+    "subscribers" : 57,
+    "title" : "Angular Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "angular",
+    "url" : "https://qiita.com/advent-calendar/2021/angular"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Angular v13 の開発環境構築",
+      "author" : "@puku0x",
+      "day" : 1,
+      "url" : "https://qiita.com/puku0x/items/79c93a245b7af9ef011b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021 年の Angular 振り返り",
+      "author" : "@kasaharu",
+      "day" : 2,
+      "url" : "https://kasaharu.hatenablog.com/entry/20211202/1638403248"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Angular] `AsyncPipe`はどうやってViewに値を反映させているのか？",
+      "author" : "@nontangent",
+      "day" : 3,
+      "url" : "https://qiita.com/nontangent/items/0379ecd3c4185885e642"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angular12と13でbuild cache設定は違うよ",
+      "author" : "@naotaro0123",
+      "day" : 4,
+      "url" : "https://qiita.com/naotaro0123/items/cd25b6d4c163613a8f76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Angular】ngx-translateの落とし穴",
+      "author" : "@rukutelialove",
+      "day" : 5,
+      "url" : "https://qiita.com/rukutelialove/items/f5483e885a232c5185e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TestHarnessを使った雑感について書こうかな",
+      "author" : "@rena_m",
+      "day" : 6,
+      "url" : "https://zenn.dev/renamoo/articles/df08997b303f12f2ed8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React の後に学ぶ Angular",
+      "author" : "@tkdn",
+      "day" : 7,
+      "url" : "https://zenn.dev/tkdn/articles/react-and-angular"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angular v13 を Cloudflare Pages にデプロイする",
+      "author" : "@Mogyuchi",
+      "day" : 8,
+      "url" : "https://qiita.com/Mogyuchi/items/5738e8b66be6f8607059"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@halka9000stg"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "schematicsについて",
+      "author" : "@YuKimura45z",
+      "day" : 10,
+      "url" : "https://zenn.dev/cauchye/articles/20211210_kimurayu45z"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPerが感動したng generateコマンド",
+      "author" : "@kin29ma_n",
+      "day" : 11,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/11/angular-advent-11th/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Angular] Angular初心者がIPアドレス計算練習アプリを作ってみた",
+      "author" : "@okkn",
+      "day" : 12,
+      "url" : "https://qiita.com/okkn/items/d30ea92b6c7ddbd257e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AngularでHTTPリクエストの終了処理を実装する",
+      "author" : "@dddsuzuki",
+      "day" : 13,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/13/angular-observable-guide/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LIFTに基づいてAngularのアーキテクチャーを考えてみた",
+      "author" : "@taaabooon",
+      "day" : 14,
+      "url" : "https://zenn.dev/taku_nakagawa/articles/714350c7cb7fb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angular Material でカスタムカラーを使う",
+      "author" : "@fusho-takahashi",
+      "day" : 15,
+      "url" : "https://zenn.dev/fusho_takahashi/articles/20d044c4a2d459b5c2ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angular とCHIRIMEN とDocker とRaspberry Pi で、L チカする話しようとしてハマっている話（現在進行系）",
+      "author" : "@ic_lifewood",
+      "day" : 16,
+      "url" : "https://lifewood.hatenablog.com/entry/2021/12/19/164101"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angular de Custom Form",
+      "author" : "@seapolis",
+      "day" : 17,
+      "url" : "https://zenn.dev/seapolis/articles/31e80bd2c477f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AngularでAWS Amplify を使ってみる in 2021（1時間半遅刻公開）",
+      "author" : "@77web@github",
+      "day" : 18,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/18/angular-aws-amplify/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[CSS] Host Scoped Custom Propertyの提案",
+      "author" : "@nontangent",
+      "day" : 19,
+      "url" : "https://qiita.com/nontangent/items/556f7e044544e5f20dc4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "君たちはAngularで非同期処理のテストをどう書くか",
+      "author" : "@ringtail003",
+      "day" : 20,
+      "url" : "https://tech.quartetcom.co.jp/2021/12/20/angular-async-testing/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nullish Coalescing",
+      "author" : "@FumioYoshida",
+      "day" : 21,
+      "url" : "https://qiita.com/FumioYoshida/items/74150bd539f2d4123faf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3年半のAngular経験で私が経験した失敗とその対応について",
+      "author" : "@aoshi",
+      "day" : 22,
+      "url" : "https://zenn.dev/deepblue_will/articles/my-angular-3-years-history"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angularの本を書き始めました",
+      "author" : "@lacolaco",
+      "day" : 23,
+      "url" : "https://lacolaco.hatenablog.com/entry/2021/12/23/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ホット リビルド&リロードを速くし隊",
+      "author" : "@studioTeaTwo",
+      "day" : 24,
+      "url" : "https://zenn.dev/teatwo/articles/90b85c846a8701"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Native async/await ",
+      "author" : "@Jialipassion",
+      "day" : 25,
+      "url" : "https://qiita.com/Jialipassion/items/bc34c24a30514d430763"
+    }
+  ]
+}

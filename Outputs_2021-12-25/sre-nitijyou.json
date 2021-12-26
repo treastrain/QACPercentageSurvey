@@ -1,0 +1,127 @@
+{
+  "created_at" : "2021-12-25T20:24:53Z",
+  "calendar_meta_data" : {
+    "author" : "@anoneiro",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 2,
+    "title" : "SREの日常 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "sre-nitijyou",
+    "url" : "https://qiita.com/advent-calendar/2021/sre-nitijyou"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Basic認証について",
+      "author" : "@anoneiro",
+      "day" : 1,
+      "url" : "https://nichijyo-t.hatenadiary.jp/entry/2021/12/01/BASIC%E8%AA%8D%E8%A8%BC%E3%81%A7%E7%89%B9%E5%AE%9A%E3%81%AE%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%81%AE%E3%81%BF%E8%BF%BD%E5%8A%A0%E8%AA%8D%E8%A8%BC%E3%82%92%E3%81%A4%E3%81%91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DevOpsについて",
+      "author" : "@anoneiro",
+      "day" : 2,
+      "url" : "https://nichijyo-t.hatenadiary.jp/entry/2021/12/02/DevOps%E3%81%A8%E3%81%AF%E3%80%82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベランダガーデニングについて",
+      "author" : "@anoneiro",
+      "day" : 3,
+      "url" : "https://nichijyo-t.hatenadiary.jp/entry/2021/12/04/%E3%83%99%E3%83%A9%E3%83%B3%E3%83%80%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8B%E3%83%B3%E3%82%B0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "昇降式デスクについて",
+      "author" : "@anoneiro",
+      "day" : 4,
+      "url" : "https://nichijyo-t.hatenadiary.jp/entry/2021/12/07/%E6%98%87%E9%99%8D%E5%BC%8F%E3%83%87%E3%82%B9%E3%82%AF%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

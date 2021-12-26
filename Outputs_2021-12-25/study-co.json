@@ -1,0 +1,178 @@
+{
+  "created_at" : "2021-12-25T23:29:29Z",
+  "calendar_meta_data" : {
+    "author" : "@os1ma",
+    "category" : "企業・学校・団体",
+    "lgtm" : 257,
+    "subscribers" : 2,
+    "title" : "StudyCo Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "study-co",
+    "url" : "https://qiita.com/advent-calendar/2021/study-co"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "データアクセスのパターンと、ActiveRecord や Eloquant による Repository の実装について",
+      "author" : "@os1ma",
+      "day" : 1,
+      "url" : "https://www.kanzennirikaisita.com/posts/data-access-patterns"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーに「なにをどう話せば」あなたの想いは伝わるのか",
+      "author" : "@hyaksok",
+      "day" : 2,
+      "url" : "https://note.com/hyaksok/n/nd9c1de266884"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ServerlessFrameworkでDynamoDBLocalを使う",
+      "author" : "@marchin_1989",
+      "day" : 3,
+      "url" : "https://qiita.com/marchin_1989/items/1a5ad220bee030fef111"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンラインセミナーを 2 年で 50 回やったうえでのナレッジ",
+      "author" : "@os1ma",
+      "day" : 4,
+      "url" : "https://www.kanzennirikaisita.com/posts/webinar-knowledge"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP認定資格試験のオススメ勉強法",
+      "author" : "@ueniki",
+      "day" : 5,
+      "url" : "https://www.studyco.io/posts/20211205-study-google-cloud-certification"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンラインセミナー「AutoML Tables でコードを書かずに機械学習入門」を開催しました",
+      "author" : "@kutakutat",
+      "day" : 6,
+      "url" : "https://www.studyco.io/posts/20211202-introduction-to-machine-learning-without-writing-code-with-automl-tables"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenAIGymのMountainCarの解き方(これが一番早いと思います)",
+      "author" : "@payanotty",
+      "day" : 7,
+      "url" : "https://qiita.com/payanotty/items/07fb38a44cc3bd13e4dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元心理学のGACKT(学徒)として、AIの公平性や説明責任について考えてみた",
+      "author" : "@t_esaking",
+      "day" : 8,
+      "url" : "https://qiita.com/t_esaking/items/458caea9bfdfa93a105e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[並列処理] 大量なS3オブジェクトのダウンロード時間を短縮する",
+      "author" : "@u0suke87",
+      "day" : 9,
+      "url" : "https://qiita.com/u0suke87/items/f8acdcfb49a47ff506d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "たぶんもう怖くないGit ~Git内部の仕組み~",
+      "author" : "@marchin_1989",
+      "day" : 10,
+      "url" : "https://qiita.com/marchin_1989/items/2ec01553e907f3a9e6bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年】今年読んで良かった技術書 5 選",
+      "author" : "@os1ma",
+      "day" : 11,
+      "url" : "https://www.kanzennirikaisita.com/posts/best-books-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@ueniki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@kutakutat"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "transformersのTrainerでもにょった",
+      "author" : "@payanotty",
+      "day" : 14,
+      "url" : "https://qiita.com/payanotty/items/a012a5607279ff7f4056"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@ueniki"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity/iOS】実機でAdMob動画広告視聴後にゲーム音声が消える問題の対応策",
+      "author" : "@mido_app",
+      "day" : 16,
+      "url" : "https://midolog.net/unity-ios-disappear-game-audio-after-admob-ad-watched/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンラインセミナー「モバイルアプリで機械学習入門 〜MLKitを使ったカメラアプリ実装〜」を開催しました",
+      "author" : "@marchin_1989",
+      "day" : 17,
+      "url" : "https://www.studyco.io/posts/20211217-introduction-to-machine-learning-in-mobile-app"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021 年末】自分のまわりで感じる IT トレンドの 8 のテーマ",
+      "author" : "@os1ma",
+      "day" : 18,
+      "url" : "https://www.kanzennirikaisita.com/posts/it-trends-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@ueniki"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@kutakutat"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チューリング完全ってなんなのさ",
+      "author" : "@payanotty",
+      "day" : 21,
+      "url" : "https://qiita.com/payanotty/items/ee0bd383cf9fdd335139"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@ueniki"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chrome DevTools の知っておくと便利かも機能",
+      "author" : "@gen_abe",
+      "day" : 23,
+      "url" : "https://qiita.com/gen_abe/items/185445cc0f9f326eee72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "家にきた赤い服のその人は、本当にサンタですか？ 〜tflite modelを作って判別しよう〜",
+      "author" : "@marchin_1989",
+      "day" : 24,
+      "url" : "https://qiita.com/marchin_1989/items/df67b7d0fa9639a4aa8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「アウトプットは勉強になる」理論と、勉強のアンチパターンについての考察",
+      "author" : "@os1ma",
+      "day" : 25,
+      "url" : "https://www.kanzennirikaisita.com/posts/is-it-true-that-output-is-learning"
+    }
+  ]
+}

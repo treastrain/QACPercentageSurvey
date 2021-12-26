@@ -1,0 +1,338 @@
+{
+  "created_at" : "2021-12-26T02:16:09Z",
+  "calendar_meta_data" : {
+    "author" : "@maato",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 90,
+    "subscribers" : 21,
+    "title" : "Oracle Cloud Infrastructure Advent Calendar 2021",
+    "participants" : 31,
+    "unique_name" : "oci",
+    "url" : "https://qiita.com/advent-calendar/2021/oci"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "OACを使ってHeatWave上のデータを分析できるハンズオンを作成しました",
+      "author" : "@yyamasaki1",
+      "day" : 1,
+      "url" : "https://qiita.com/yyamasaki1/items/e25c3cecc93708967446"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle Cloud で OS のログ監視を実装する",
+      "author" : "@itokazu",
+      "day" : 2,
+      "url" : "https://qiita.com/itokazu/items/1df6ec019540b2d763cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ADWにgoogle colabから接続する",
+      "author" : "@s4r_agent",
+      "day" : 3,
+      "url" : "https://knopp.hatenablog.jp/entry/2021/12/03/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【体験記】Oracle Cloud Infrastructure Foundations 2021 Associate試験（日本語）に合格しました！",
+      "author" : "@hamham",
+      "day" : 4,
+      "url" : "https://qiita.com/hamham/items/e4ae90b87eb0180df847"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OCI DevOps で Oracle Functions の CI/CD - 事前準備編",
+      "author" : "@shukawam",
+      "day" : 5,
+      "url" : "https://qiita.com/shukawam/items/61232a6fd1071b861c83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Helidon 2.4.0 で導入された OpenID Connect のログアウト機能(RP-Initiated Logout)について",
+      "author" : "@shukawam",
+      "day" : 6,
+      "url" : "https://qiita.com/shukawam/items/130889260948bf3dc7c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OCIのAlways Free Tierが良すぎてGCPからマイクラ鯖を移行した話",
+      "author" : "@Murayu0225",
+      "day" : 7,
+      "url" : "https://qiita.com/Murayu0225/items/c1c566e87a405cf74a25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Oracle Cloud] GraphQL で Oracle Content Management のデータを取得する（２）",
+      "author" : "@nakasato310",
+      "day" : 8,
+      "url" : "https://qiita.com/nakasato310/items/d69952933a85d11543a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超便利！(Oracle Cloud Infrastructure)OCICLIのラッパーツール [ o ] (オー) の使い方",
+      "author" : "@NICAREGI",
+      "day" : 9,
+      "url" : "https://qiita.com/NICAREGI/items/b106941a3f0b0d0c1afa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle Container Engine for KubernetesでWebサーバーを立ち上げてみました",
+      "author" : "@takenoko_eng",
+      "day" : 10,
+      "url" : "https://cloudii.jp/news/blog/oracle-cloud/oracle-container-engine-for-kubernetes%e3%81%a7web%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%82%92%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%81%a6%e3%81%bf%e3%81%be%e3%81%97%e3%81%9f/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle Cloud Infrastructure Anomaly Detectionを使って簡単に異常検出をしてみる",
+      "author" : "@maato",
+      "day" : 11,
+      "url" : "https://qiita.com/maato/items/f9f6ca56b8fd80c0dc6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle APEXで始めるExcel代替Webアプリ",
+      "author" : "@Kotapon8888",
+      "day" : 12,
+      "url" : "https://zenn.dev/kotapon/articles/1f2b6a4db0899e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Oracle Cloud]特定コンパートメントのリソース一括削除にTerraformの使用 (2021/12/13)",
+      "author" : "@kenwatan",
+      "day" : 13,
+      "url" : "https://qiita.com/kenwatan/items/786a39253b7461f7a670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スポーツ分野での Oracle Cloud 活用事例をまとめてみる（Sports Analytics on OCI）",
+      "author" : "@mikika",
+      "day" : 14,
+      "url" : "https://qiita.com/mikika/items/7c40117c1cff3ae7ab99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CMAN(Oracle Connection Manager) と ロールベース・サービス/NLB で OCI DBCS Data Guard構成 の Primary接続 をシングル・エンドポイント化してみる。(Oracle Database, Oracle Cloud Infrastructure)",
+      "author" : "@ora_gonsuke777",
+      "day" : 15,
+      "url" : "https://qiita.com/ora_gonsuke777/items/9460b784a2a34240fe80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Oracle Cloud】データベース管理(Oracle Database Management)の機能紹介",
+      "author" : "@koko_kotsu",
+      "day" : 16,
+      "url" : "https://cloudii.jp/news/blog/oracle-cloud/%e3%80%90oracle-cloud%e3%80%91%e3%83%87%e3%83%bc%e3%82%bf%e3%83%99%e3%83%bc%e3%82%b9%e7%ae%a1%e7%90%86oracle-database-management%e3%81%ae%e6%a9%9f%e8%83%bd%e7%b4%b9%e4%bb%8b/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NSGをドメイン名で許可したい",
+      "author" : "@olaboratory",
+      "day" : 17,
+      "url" : "https://o-labo.info/allow_nsg_from_domain_name/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autonomous Databaseからプライベートネットワーク内のDBCSにデータベースリンクを作成する",
+      "author" : "@wahagon",
+      "day" : 18,
+      "url" : "https://qiita.com/wahagon/items/7964b3ab19da625bfb39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OracleCloud放浪半年記",
+      "author" : "@Shinogi-Naotaka",
+      "day" : 19,
+      "url" : "https://ameblo.jp/shinogi-gogo/entry-12715832749.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle ApexでCRUD画面を爆速開発 - その9（地図表示してReportと連動してみる） ",
+      "author" : "@harukb",
+      "day" : 20,
+      "url" : "https://qiita.com/harukb/items/e36f5739fea205dc068c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OKE/OCIRでコンテナイメージのセキュリティを高めよう",
+      "author" : "@takuya_0301",
+      "day" : 21,
+      "url" : "https://qiita.com/takuya_0301/items/e9fac0ba6126408f2e99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OCIのWebサイトにソーリーページを実装する方法",
+      "author" : "@araidon",
+      "day" : 22,
+      "url" : "https://qiita.com/araidon/items/7225e5d6de9a51875b8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle Cloud InfrastructureのDatabase ManagementにExaCSを登録してみる",
+      "author" : "@emnmn",
+      "day" : 23,
+      "url" : "https://minamin96.hatenablog.com/entry/ExaCS-DBMgmt-setup"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DBCS自動バックアップから新しいPDBを作成する方法",
+      "author" : "@NICAREGI",
+      "day" : 24,
+      "url" : "https://qiita.com/NICAREGI/items/d0e8889d7792ff267125"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Best of OCIjp(2021年OCIjp振り返り)",
+      "author" : "@tomi13fe",
+      "day" : 25,
+      "url" : "https://fullenergy.co.jp/fullenergy-magazine/best3-of-ocijp/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CI環境についてなにか書きます",
+      "author" : "@ike_snj",
+      "day" : 3,
+      "url" : "https://cloudii.jp/news/category/blog/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "WinSCP で OCI の Object Storage にアクセスする",
+      "author" : "@itokazu",
+      "day" : 4,
+      "url" : "https://qiita.com/itokazu/items/3b7605141c16d65f691b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "OCI DevOps で Oracle Functions の CI/CD - パイプライン作成編",
+      "author" : "@shukawam",
+      "day" : 5,
+      "url" : "https://qiita.com/shukawam/items/d345844fbd1e0a9c4712"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Verrazzanoで実現するマルチKubernetesクラスタ管理",
+      "author" : "@takuya_0301",
+      "day" : 6,
+      "url" : "https://qiita.com/takuya_0301/items/5ec6e7c16e440b8ecf81"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "OCI の Custom Metrics を使って NFS サーバを監視する",
+      "author" : "@itokazu",
+      "day" : 7,
+      "url" : "https://qiita.com/itokazu/items/351b153c56fd2127c768"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Verrazzanoを利用したサンプルアプリケーションデプロイ",
+      "author" : "@takuya_0301",
+      "day" : 8,
+      "url" : "https://qiita.com/takuya_0301/items/4627731b0c2832670b21"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Oracle Cloud] Cloud ShellによるOracle DBCSの接続",
+      "author" : "@kenwatan",
+      "day" : 12,
+      "url" : "https://qiita.com/kenwatan/items/3dca9ebef2b6530ff5f0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Oracle Cloud] Bastionサービスを使ってOracle DBCSの接続",
+      "author" : "@kenwatan",
+      "day" : 13,
+      "url" : "https://qiita.com/kenwatan/items/d92d411bb819dc60d52a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "今日は、アドベントカレンダーをみてOracle Cloud Infrastructure Foundations 2021 Associateに挑戦したの日。",
+      "author" : "@updraft",
+      "day" : 15,
+      "url" : "https://updraft.hatenadiary.com/entry/2021/12/15/151730"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Oracle Cloud] GraphQL で Oracle Content Management のデータを取得する（３）",
+      "author" : "@nakasato310",
+      "day" : 17,
+      "url" : "https://qiita.com/nakasato310/items/7b1e1c3223a737a82192"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Oracle MySQL Opreator for Kubernetes & Self-healing(Failover) ",
+      "author" : "@cyberblack28",
+      "day" : 20,
+      "url" : "https://qiita.com/cyberblack28/items/553c99a3195b7998a2dc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "簡単なPing監視と通知についてまとめてみた",
+      "author" : "@m_uriu",
+      "day" : 21,
+      "url" : "https://cloudii.jp/news/blog/oracle-cloud/%e3%80%90oracle-cloud%e3%80%91%e7%b0%a1%e5%8d%98%e3%81%aaping%e7%9b%a3%e8%a6%96%e3%81%a8%e9%80%9a%e7%9f%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%be%e3%81%a8%e3%82%81%e3%81%a6%e3%81%bf%e3%81%9f/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Oracle Cloud】Email Deliveryを使ってみた",
+      "author" : "@nakkamur",
+      "day" : 22,
+      "url" : "https://cloudii.jp/news/blog/oracle-cloud/%e3%80%90oracle-cloud%e3%80%91email-delivery%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Oracle Cloud】DRG、LPGを使用したハブ＆スポーク構成の設定",
+      "author" : "@s_tanaka0526",
+      "day" : 23,
+      "url" : "https://cloudii.jp/news/blog/oracle-cloud/oracle-clouddrglpg/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "オラクル学習について書きます",
+      "author" : "@y_nishii",
+      "day" : 24,
+      "url" : "https://cloudii.jp/news/topics/it%e6%9c%aa%e7%b5%8c%e9%a8%93%e3%81%8b%e3%82%89%e3%81%aeoracle-cloud%e8%aa%8d%e5%ae%9a%e8%b3%87%e6%a0%bc%e8%a9%a6%e9%a8%93%e5%8f%96%e5%be%97%e3%81%be%e3%81%a7/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Oracle Cloud】LoggingAnalyticsリリースノートで2021年を振り返る",
+      "author" : "@s-ken",
+      "day" : 25,
+      "url" : "https://cloudii.jp/news/blog/oracle-cloud/la2021/"
+    }
+  ]
+}

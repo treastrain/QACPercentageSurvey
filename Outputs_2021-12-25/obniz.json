@@ -1,0 +1,154 @@
+{
+  "created_at" : "2021-12-26T00:04:31Z",
+  "calendar_meta_data" : {
+    "author" : "@wicket",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 28,
+    "subscribers" : 13,
+    "title" : "obniz Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "obniz",
+    "url" : "https://qiita.com/advent-calendar/2021/obniz"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "obnizでサウナを計測した話",
+      "author" : "@wicket",
+      "day" : 1,
+      "url" : "https://qiita.com/wicket/items/5ca4c06cecc1d6442720"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Obniz Cloudとnipple.jsを連携したらメカ操作が楽になった",
+      "author" : "@Inoue_Minoru",
+      "day" : 2,
+      "url" : "https://qiita.com/Inoue_Minoru/items/85deb6d086e491e917eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "obniz-ステッピングモーター-Alexa連携で「静音性」を極めた自動開閉カーテン作ってみた。",
+      "author" : "@gadgewota",
+      "day" : 3,
+      "url" : "https://gadgewota.com/automatic-curtain"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人を感知すると威嚇する「防犯サンタ」を作った",
+      "author" : "@kisaichi07",
+      "day" : 5,
+      "url" : "https://zenn.dev/hedgehog_noodle/articles/9d5cfdcaeeae13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "常に星ふるスノードームを作るぞ",
+      "author" : "@suo-takefumi",
+      "day" : 6,
+      "url" : "https://qiita.com/suo-takefumi/items/586814c7be36b4709c76"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文系（経営学部）の授業におけるobnizの活用",
+      "author" : "@Yoshiyuki-Ono",
+      "day" : 8,
+      "url" : "https://qiita.com/Yoshiyuki-Ono/items/59f8b0557fc039fe9129"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "紙の本の香りを嗅ぎながら電子書籍を読もう",
+      "author" : "@SAKUA",
+      "day" : 13,
+      "url" : "https://qiita.com/SAKUA/items/ca107dcc5828a8240c58"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "obnizのパーツライブラリの舞台裏を覗いてみた",
+      "author" : "@tikit",
+      "day" : 15,
+      "url" : "https://iot-gym.com/behind-the-scenes-of-obniz-parts-library/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【obniz 2021】 #obniz で複数台の #toio を同時に扱うための試行錯誤と 2台同時制御",
+      "author" : "@youtoy",
+      "day" : 17,
+      "url" : "https://qiita.com/youtoy/items/d8772da22c16ca054cde"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "食品事業者のHACCP対応支援：温度記録デバイスの自作",
+      "author" : "@watanabe-tsubasa",
+      "day" : 19,
+      "url" : "https://zenn.dev/shuyin02/scraps/491f348774f38c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あけちゃダメな箱の完成版と在宅医療への応用",
+      "author" : "@naokiuc",
+      "day" : 20,
+      "url" : "https://qiita.com/naokiuc/items/192813643167d7f4cbcc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "タスク管理ツール ClickUp の Automation による Webhook から Node.js 経由で obniz のディスプレイにメッセージを送るメモ",
+      "author" : "@tseigo",
+      "day" : 23,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/23/clickup-nodejs-server-obniz-collaboration-as-task-completed/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「PC触ってばかりで遊んでくれへん」が悲しいので obnizダンスLIVE を娘と開催【動画有】",
+      "author" : "@okinakamasayoshi",
+      "day" : 25,
+      "url" : "https://qiita.com/okinakamasayoshi/items/77d1db045acef6984533"
+    }
+  ]
+}

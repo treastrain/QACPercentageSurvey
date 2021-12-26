@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:11:56Z",
+  "calendar_meta_data" : {
+    "author" : "@wataru-yamazaki",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 23,
+    "subscribers" : 7,
+    "title" : "enebular_uhuru Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "enebular_uhuru",
+    "url" : "https://qiita.com/advent-calendar/2021/enebular_uhuru"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GrovePi用Private Nodeを作ってみた",
+      "author" : "@jksoft",
+      "day" : 1,
+      "url" : "https://qiita.com/jksoft/items/7a77b8ecfdac7bd7955d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi上のenebular editorでフローを自動起動",
+      "author" : "@jksoft",
+      "day" : 2,
+      "url" : "https://qiita.com/jksoft/items/d76ea2b609e83a583e53"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "設定ファイルをIoTデバイスにデプロイする方法",
+      "author" : "@usami-uhuru",
+      "day" : 3,
+      "url" : "https://blog.enebular.com/enebular/free-fileasset-demo/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDで日本語の分かち書きをやってみた。",
+      "author" : "@takaoaoki",
+      "day" : 4,
+      "url" : "https://blog.enebular.com/samples/japanease-word-separation/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi Zero Wにenebular-agentをインストールする",
+      "author" : "@jksoft",
+      "day" : 5,
+      "url" : "https://qiita.com/jksoft/items/c9892ea41c053738df5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebularのお知らせ機能について",
+      "author" : "@d-arakawa",
+      "day" : 6,
+      "url" : "https://qiita.com/d-arakawa/items/083885590e27d5ffe538"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi OS Bullseyeにenebular-agentをインストールする",
+      "author" : "@jksoft",
+      "day" : 7,
+      "url" : "https://qiita.com/jksoft/items/2511cfb67438123c5f72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "reTerminalでenebular-agentを動作させてみる",
+      "author" : "@jksoft",
+      "day" : 8,
+      "url" : "https://qiita.com/jksoft/items/b5ebb32df9fbb0f1fb76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フローで扱うセンサーをマイコンでちょっとインテリジェントにしてみる",
+      "author" : "@jksoft",
+      "day" : 9,
+      "url" : "https://qiita.com/jksoft/items/2390c44e11958391e335"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonスクリプトをIoTデバイスにデプロイして実行する方法",
+      "author" : "@usami-uhuru",
+      "day" : 10,
+      "url" : "https://blog.enebular.com/enebular/free-fileasset-demo2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webサイトを定期的にチェックする",
+      "author" : "@takaoaoki",
+      "day" : 11,
+      "url" : "https://blog.enebular.com/samples/check-the-web-site-regularly/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "node-red-contrib-firebase-adminを設定してRealtime Databaseを使う",
+      "author" : "@parkborn241",
+      "day" : 12,
+      "url" : "https://qiita.com/parkborn241/items/ddc6db247d002e33f286"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwitchBot APIを呼び出すフローを作る",
+      "author" : "@parkborn241",
+      "day" : 13,
+      "url" : "https://qiita.com/parkborn241/items/f2e43b4c486f620c3e29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwitchBot温湿度計の測定値をenebularで取得・加工してFirebaseに書き込む",
+      "author" : "@parkborn241",
+      "day" : 14,
+      "url" : "https://qiita.com/parkborn241/items/72814f188c7ba6a27477"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シグナルウォッチャーノードの使い方",
+      "author" : "@uhidekita",
+      "day" : 15,
+      "url" : "https://blog.enebular.com/enebular/signal-watcher-node/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Modbus/TCPノードを試してみた",
+      "author" : "@jksoft",
+      "day" : 16,
+      "url" : "https://qiita.com/jksoft/items/ff474f354b04ba1d7a18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Private Node でExcel → JSON変換ノードを作ってみる",
+      "author" : "@usami-uhuru",
+      "day" : 17,
+      "url" : "https://blog.enebular.com/enebular/privatenode-xlsx2json/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINE WORKSに通知するフローの紹介",
+      "author" : "@takaoaoki",
+      "day" : 18,
+      "url" : "https://blog.enebular.com/samples/how-to-notify-line-works/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "”ダウンロード” ボタンをダッシュボードに追加する",
+      "author" : "@parkborn241",
+      "day" : 19,
+      "url" : "https://qiita.com/parkborn241/items/c3f876c82c43fd6ee87d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "enebular-agentを開発者モードで起動するスクリプトを書いた",
+      "author" : "@parkborn241",
+      "day" : 20,
+      "url" : "https://qiita.com/parkborn241/items/970a95a23a10069d6e72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクレイピング＆メール通知システムを作って運用した（レポ）",
+      "author" : "@parkborn241",
+      "day" : 21,
+      "url" : "https://qiita.com/parkborn241/items/3811cf7a4242d9a692a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日の入りごろに自動で室内照明を点ける",
+      "author" : "@parkborn241",
+      "day" : 22,
+      "url" : "https://qiita.com/parkborn241/items/e6be96eea6aa18bdee06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwitchbotとRaspberry Piを繋ぐ",
+      "author" : "@jksoft",
+      "day" : 23,
+      "url" : "https://qiita.com/jksoft/items/8089214e108ea26e6cfc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Private Node “Excel → JSON変換ノード” を使いやすくしてみる",
+      "author" : "@usami-uhuru",
+      "day" : 24,
+      "url" : "https://blog.enebular.com/enebular/private_node_versionup/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年末にあたって、最近のアップデートとその狙いについて",
+      "author" : "@wataru-yamazaki",
+      "day" : 25,
+      "url" : "https://blog.enebular.com/enebular/recent-enebular-updates/"
+    }
+  ]
+}

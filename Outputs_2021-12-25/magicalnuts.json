@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:58:44Z",
+  "calendar_meta_data" : {
+    "author" : "@yooce",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 0,
+    "subscribers" : 11,
+    "title" : "ひとりアドベントカレンダー C#による投資検証ライブラリMagicalNuts Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "magicalnuts",
+    "url" : "https://qiita.com/advent-calendar/2021/magicalnuts"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNutsとは？",
+      "author" : "@yooce",
+      "day" : 1,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/01/053411"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "投資検証環境徒然",
+      "author" : "@yooce",
+      "day" : 2,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/02/054411"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.Primitive",
+      "author" : "@yooce",
+      "day" : 3,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/03/052325"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.AveragePriceMove",
+      "author" : "@yooce",
+      "day" : 4,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/04/043331"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "平均値動きの推移の計算例",
+      "author" : "@yooce",
+      "day" : 5,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/05/053039"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "株主優待イベント投資",
+      "author" : "@yooce",
+      "day" : 6,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/06/055447"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.ShareholderIncentive",
+      "author" : "@yooce",
+      "day" : 7,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/07/053412"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.Primitive.Calendar",
+      "author" : "@yooce",
+      "day" : 8,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/08/045526"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "その投資手法に再現性はあるのか？",
+      "author" : "@yooce",
+      "day" : 9,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/09/053344"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.UI.TradingChart",
+      "author" : "@yooce",
+      "day" : 10,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/10/045426"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.Indicator",
+      "author" : "@yooce",
+      "day" : 11,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/11/060456"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MovingAverageCalculator",
+      "author" : "@yooce",
+      "day" : 12,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/12/060051"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インジケーターをチャートに表示する方法（前編）",
+      "author" : "@yooce",
+      "day" : 13,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/13/055442"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インジケーターをチャートに表示する方法（後編）",
+      "author" : "@yooce",
+      "day" : 14,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/14/052026"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インジケーター等の設定ヘルパー",
+      "author" : "@yooce",
+      "day" : 15,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/15/055548"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "売買戦略の実装",
+      "author" : "@yooce",
+      "day" : 16,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/16/053922"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バックテストの実行",
+      "author" : "@yooce",
+      "day" : 17,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/17/045011"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "手数料の実装",
+      "author" : "@yooce",
+      "day" : 18,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/18/063414"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドルコスト平均法のバックテスト",
+      "author" : "@yooce",
+      "day" : 19,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/19/054038"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数銘柄を対象とした売買戦略",
+      "author" : "@yooce",
+      "day" : 20,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/20/054037"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バックテスト結果とその拡張",
+      "author" : "@yooce",
+      "day" : 21,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/21/055505"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.Primitiveのその他機能",
+      "author" : "@yooce",
+      "day" : 22,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/22/055920"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNuts.UI.Baseのその他機能",
+      "author" : "@yooce",
+      "day" : 23,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/23/044855"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MagicalNutsの課題と今後の展望",
+      "author" : "@yooce",
+      "day" : 24,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/24/055411"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "完走しました！",
+      "author" : "@yooce",
+      "day" : 25,
+      "url" : "https://yooce.hatenablog.com/entry/2021/12/25/064129"
+    }
+  ]
+}

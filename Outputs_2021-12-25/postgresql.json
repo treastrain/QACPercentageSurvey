@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:30:42Z",
+  "calendar_meta_data" : {
+    "author" : "@hmatsu47",
+    "category" : "データベース",
+    "lgtm" : 110,
+    "subscribers" : 85,
+    "title" : "PostgreSQL Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "postgresql",
+    "url" : "https://qiita.com/advent-calendar/2021/postgresql"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter から Supabase の PostgreSQL  with PostGIS を使ってみる",
+      "author" : "@hmatsu47",
+      "day" : 1,
+      "url" : "https://qiita.com/hmatsu47/items/c3f9cafb499aedaca1f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[SQL] 日付の抜けをカレンダーテーブルで埋める",
+      "author" : "@kwatch",
+      "day" : 2,
+      "url" : "https://qiita.com/kwatch/items/f45cf83e42bb934b0e1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pg_bigmインデックスでもHOTが有効なのか検証してみる。",
+      "author" : "@abejjj",
+      "day" : 3,
+      "url" : "https://qiita.com/abejjj/items/6e8d0c26276e05d667c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQL から Oracle Database への接続を試す",
+      "author" : "@plusultra",
+      "day" : 4,
+      "url" : "https://qiita.com/plusultra/items/e5023a8cf4d55e8130b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PosgresqlのPostgreSQLのNull許容外部キーの使い所について",
+      "author" : "@YuitoSato",
+      "day" : 5,
+      "url" : "https://zenn.dev/yuitosato/articles/d7259cfe521b8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GCP CloudSQL に関するトレーニング（Skill Boost）をお触りしてみた",
+      "author" : "@elhalti",
+      "day" : 6,
+      "url" : "https://qiita.com/elhalti/items/73993152928cf0eefa5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シングルノードのCitusをDockerでシャーディングしてみる",
+      "author" : "@rioriost",
+      "day" : 7,
+      "url" : "https://rio.st/2021/12/07/%e3%82%b7%e3%83%b3%e3%82%b0%e3%83%ab%e3%83%8e%e3%83%bc%e3%83%89%e3%81%aecitus%e3%81%a7%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud SQL for PostgreSQLにおけるロールの話",
+      "author" : "@ShinyaKato_",
+      "day" : 8,
+      "url" : "https://zenn.dev/shinyakato/articles/7b6b43d87e3c0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQL標準とPostgreSQL,MySQL,Oracle,etc...",
+      "author" : "@meijik",
+      "day" : 9,
+      "url" : "http://blog.kimuradb.com/?eid=877649"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OracleからPostgreSQLに乗り換えたい人に送る何か",
+      "author" : "@atsuizo",
+      "day" : 10,
+      "url" : "https://atsuizo.hatenadiary.jp/entry/2021/12/10/090000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLのロジカルレプリケーション使用時の注意点",
+      "author" : "@ester41",
+      "day" : 11,
+      "url" : "https://qiita.com/ester41/items/bea287a78bf08c965c10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenEBSのローカルストレージでpgbench走らせてみた",
+      "author" : "@seinoyu",
+      "day" : 12,
+      "url" : "https://qiita.com/seinoyu/items/8dfbe2c352c8de322e3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLの拡張機能を作ってpgxnで公開する",
+      "author" : "@kasa_zip",
+      "day" : 13,
+      "url" : "https://qiita.com/kasa_zip/items/e28c8abd89e8457caf80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ぜんぜんわからない。俺たちは雰囲気でpgbenchを使っていた。",
+      "author" : "@nuko_yokohama",
+      "day" : 14,
+      "url" : "https://qiita.com/nuko_yokohama/items/237316117dc34c24ae05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLのユーザのパスワードに制限はあるのか？",
+      "author" : "@tameguro",
+      "day" : 15,
+      "url" : "https://qiita.com/tameguro/items/1881b8d5610d67fce15f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PUBLICロールにREVOKEってるやついる？",
+      "author" : "@U_ikki",
+      "day" : 16,
+      "url" : "https://qiita.com/U_ikki/items/9b1c2b7fb8e323e89f1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "半精度浮動小数点型（Float2）について",
+      "author" : "@kaigai",
+      "day" : 17,
+      "url" : "https://kaigai.hatenablog.com/entry/2021/12/16/141306"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLでクロス集計(Pivot)したい",
+      "author" : "@yo-iida",
+      "day" : 18,
+      "url" : "https://qiita.com/yo-iida/items/67ccc7aac3291ffe80cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Towers of Hanoi on PostgreSQL",
+      "author" : "@kingtomo1122",
+      "day" : 19,
+      "url" : "https://qiita.com/kingtomo1122/items/c137b2d6b53f16168cea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQL でムービーを再生してみた",
+      "author" : "@yamatattsu",
+      "day" : 20,
+      "url" : "https://qiita.com/yamatattsu/items/06c797a032b633a9fafa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OID 別名型を使って PostgreSQL の内部情報を取り出す",
+      "author" : "@tom-sato",
+      "day" : 21,
+      "url" : "https://qiita.com/tom-sato/items/ffc730a21b22c29afd29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLのMVCCとガベージコレクション（Vacuum）",
+      "author" : "@sawada_masahiko",
+      "day" : 22,
+      "url" : "https://masahikosawada.github.io/2021/12/22/MVCC-and-GC-in-PostgreSQL/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Database for Postgre（単一サーバ）に対してPgpoolを使ってコネクションプーリング",
+      "author" : "@kuma_matsu",
+      "day" : 23,
+      "url" : "https://qiita.com/kuma_matsu/items/316e9fafd19d00df6644"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "グループ化演算(GROUPING) ",
+      "author" : "@yancya",
+      "day" : 24,
+      "url" : "https://qiita.com/yancya/items/526d9359da77a6d2db9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オレ的EXPLAIN技を語っちゃうゾ",
+      "author" : "@Kosuke_Kida",
+      "day" : 25,
+      "url" : "https://qiita.com/Kosuke_Kida/items/70e69764774b9730d088"
+    }
+  ]
+}

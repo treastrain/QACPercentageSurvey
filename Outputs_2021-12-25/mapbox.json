@@ -1,0 +1,131 @@
+{
+  "created_at" : "2021-12-25T21:07:21Z",
+  "calendar_meta_data" : {
+    "author" : "@mapconcierge",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 1,
+    "subscribers" : 5,
+    "title" : "Mapbox Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "mapbox",
+    "url" : "https://qiita.com/advent-calendar/2021/mapbox"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Navigation SDK v2 for Androidを試してみる (インストール編)",
+      "author" : "@OttyLab",
+      "day" : 1,
+      "url" : "https://qiita.com/OttyLab/items/83185cca45ee9f2f406d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Navigation SDK v2 for Androidを試してみる (中身を見る編)",
+      "author" : "@OttyLab",
+      "day" : 2,
+      "url" : "https://qiita.com/OttyLab/items/d8cb612c4265a6a686fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Navigation SDK v2 for Androidを試してみる (いじってみる編)",
+      "author" : "@OttyLab",
+      "day" : 3,
+      "url" : "https://qiita.com/OttyLab/items/625c528b9fc2d2d98d15"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@mapconcierge"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パフォーマンスとユーザーリテンションのためのマップ",
+      "author" : "@tak215",
+      "day" : 5,
+      "url" : "https://www.mapbox.jp/blog/maps-for-performance-and-user-retention"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mapbox GL JS で グローエフェクトを実現",
+      "author" : "@humohumo",
+      "day" : 11,
+      "url" : "https://qiita.com/humohumo/items/3803bdc18465df58050c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

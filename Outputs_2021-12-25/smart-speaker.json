@@ -1,0 +1,152 @@
+{
+  "created_at" : "2021-12-26T04:34:02Z",
+  "calendar_meta_data" : {
+    "author" : "@kun432",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 37,
+    "subscribers" : 39,
+    "title" : "スマートスピーカー Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "smart-speaker",
+    "url" : "https://qiita.com/advent-calendar/2021/smart-speaker"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Alexa Conversations 入門スキルをペライチで表現してみる",
+      "author" : "@takara328",
+      "day" : 1,
+      "url" : "https://qiita.com/takara328/items/57199d13ba8a451f2743"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Alexaに感情を加える」ためのシンプルでかんたんなTIPS",
+      "author" : "@kun432",
+      "day" : 2,
+      "url" : "https://qiita.com/kun432/items/2aa25144ab0f4a7895ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alexa Conversations アノテーション付きダイアログの作成方法",
+      "author" : "@takara328",
+      "day" : 8,
+      "url" : "https://qiita.com/takara328/items/26a2e9f0f26119792776"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AlexaのASR/NLUをコマンドラインでテストする",
+      "author" : "@haruharuharuby",
+      "day" : 11,
+      "url" : "https://hugtech.io/2021/11/28/alexa-asr-nlu-testing/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更の今更ながらプロアクティブイベントAPIを試したけどBOCCO emo Platform APIでいいやと思った話",
+      "author" : "@fukumura_kaigo",
+      "day" : 12,
+      "url" : "https://qiita.com/fukumura_kaigo/items/319a48254cd08a9cff6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alexaスキルの利用データ可視化",
+      "author" : "@ikechan",
+      "day" : 14,
+      "url" : "https://qiita.com/ikechan/items/d77a36ec62089fd5c3f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "google-home-notifierの代替となりそうなgoogle-home-playerを試してみる",
+      "author" : "@miso_develop",
+      "day" : 17,
+      "url" : "https://qiita.com/miso_develop/items/b03810ea743cfb5a95bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alexa Presentation Language for Audio (APLA)にてビートを作る",
+      "author" : "@igarashisan_t",
+      "day" : 18,
+      "url" : "https://qiita.com/igarashisan_t/items/dfb7c8c45fc2cae1d5fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アップデートされたAlexa Conversationsを触ってみる",
+      "author" : "@takara328",
+      "day" : 19,
+      "url" : "https://qiita.com/takara328/items/dfe762ecc3befd51b884"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SiriKitを使ってSiri IntentやSiriショートカットの開発をしてみる",
+      "author" : "@norippy_i",
+      "day" : 20,
+      "url" : "https://qiita.com/norippy_i/items/d2fb728837a62a401782"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2018年に公開したAlexaスキルでもAWSプロモをもらい続けている件",
+      "author" : "@surumegohan",
+      "day" : 21,
+      "url" : "https://qiita.com/surumegohan/items/4a1ac5b1d9e137864adf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地震を検知してGoogle Nest Hubにリアルタイム震度マップを表示しよう",
+      "author" : "@tinoue@github",
+      "day" : 22,
+      "url" : "https://qiita.com/tinoue@github/items/6722ac58651df54f5383"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kun432"
+    }
+  ]
+}

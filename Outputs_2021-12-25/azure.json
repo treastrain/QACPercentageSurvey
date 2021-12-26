@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:45:23Z",
+  "calendar_meta_data" : {
+    "author" : "@jkudo",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 28,
+    "subscribers" : 41,
+    "title" : "Azure Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "azure",
+    "url" : "https://qiita.com/advent-calendar/2021/azure"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Movable Type 7をAzure Web Apps で使う方法 – Perl導入編",
+      "author" : "@jkudo",
+      "day" : 1,
+      "url" : "https://level69.net/archives/28278"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform Cloud で AKS を作成する",
+      "author" : "@08thse",
+      "day" : 2,
+      "url" : "https://qiita.com/08thse/items/d583e5d291771b2c7789"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure App Service - Web Apps（Windows）に ImageMagick + Imagick + Ghostscript を導入",
+      "author" : "@naente_dev",
+      "day" : 3,
+      "url" : "https://qiita.com/naente_dev/items/977ced4f6ca48f49465e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分自身で処理を中断する Data Factory パイプラインを作ってみる",
+      "author" : "@yomatsum",
+      "day" : 4,
+      "url" : "https://qiita.com/yomatsum/items/b35c2baa951b40e4baee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【10分で環境構築】Purview Machine Learning Lineage Solution AcceleratorによるMLリネージ",
+      "author" : "@ryoma-nagata",
+      "day" : 5,
+      "url" : "https://qiita.com/ryoma-nagata/items/a749c14453f8dddf06b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Blazor を Azure App Service にのせてホームページを作る",
+      "author" : "@nakamurakko",
+      "day" : 6,
+      "url" : "https://www.nakamurakko.com/entry/2021/12/06/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DocuSign モバイルアプリで Microsoft Enterprise SSO プラグインを試してみた（いわゆるモバイルアプリの社給デバイス縛り）",
+      "author" : "@hiyoshino",
+      "day" : 7,
+      "url" : "https://qiita.com/hiyoshino/items/c3e8e1049afbc04bff74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本語文書に対する質問に自動で回答：Azure Question answeringの使用方法を解説",
+      "author" : "@sugulu_Ogawa_ISID",
+      "day" : 8,
+      "url" : "https://qiita.com/sugulu_Ogawa_ISID/items/3fb36bee9d47b8529b15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Terrafy を使って既存の Azure リソースを Terraform 化しよう!",
+      "author" : "@koudaiii",
+      "day" : 9,
+      "url" : "https://qiita.com/koudaiii/items/10ae59a817abc438b71c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Load Testingを使って、GitHub Actionsで負荷テストをおこなってみた",
+      "author" : "@Tak1wa",
+      "day" : 10,
+      "url" : "https://dev.classmethod.jp/articles/azure-load-testing-github-actions/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Purview を遊びながら開発しよう（基本編）",
+      "author" : "@nohanaga",
+      "day" : 11,
+      "url" : "https://qiita.com/nohanaga/items/b6f6ba045c1f78a15073"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DNSなしの閉域環境でApp Serviceに接続する（P2S接続）",
+      "author" : "@emiki",
+      "day" : 12,
+      "url" : "https://qiita.com/emiki/items/6605eb49317e55b09f06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Purview を遊びながら開発しよう（応用編）",
+      "author" : "@nohanaga",
+      "day" : 13,
+      "url" : "https://qiita.com/nohanaga/items/e053ed79a5aff398b2d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Front Door で Basic認証する",
+      "author" : "@hkato",
+      "day" : 14,
+      "url" : "https://qiita.com/hkato/items/55b6db323dbd70290267"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure AD で API Management へのアクセスを保護する",
+      "author" : "@papeMK2",
+      "day" : 15,
+      "url" : "https://papemk2.hateblo.jp/entry/2021/12/15/132239"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AKS 仮想ノード( ACI ) 上の Pod から Azure ファイル共有をマウントする",
+      "author" : "@tbuchi888",
+      "day" : 16,
+      "url" : "https://qiita.com/tbuchi888/items/cf82d0d9ab7f8bb47ec9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「不正アクセス」の対策で、Azure AD認証で気をつけること",
+      "author" : "@TomoakiOno1",
+      "day" : 17,
+      "url" : "https://zenn.dev/tomot/articles/472d3c845a5cbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Percept DKを使ってみる、そして亀が動いたらslackに通知したかった話",
+      "author" : "@ikegam1",
+      "day" : 18,
+      "url" : "https://qiita.com/ikegam1/items/50ba30fb4b3551ac1879"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Static Web Appsをもっと知ってほしい",
+      "author" : "@mikaka360",
+      "day" : 19,
+      "url" : "https://qiita.com/mikaka360/items/d4b9ac4cd98fba0cdf5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web Appsを使うときの気にしておくこと",
+      "author" : "@hiro10149084",
+      "day" : 20,
+      "url" : "https://qiita.com/hiro10149084/items/7300a2e74abd0083973e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Synapse パイプラインのデータ コピーのクエリを外部で管理する",
+      "author" : "@nakazax",
+      "day" : 21,
+      "url" : "https://qiita.com/nakazax/items/8dc1fed55ba5a84ed988"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure StorageにアップロードされたCSVをAzure PostgreSQLに入れる",
+      "author" : "@rioriost",
+      "day" : 22,
+      "url" : "https://rio.st/2021/12/21/azure-storage%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%83%ad%e3%83%bc%e3%83%89%e3%81%95%e3%82%8c%e3%81%9fcsv%e3%82%92azure-postgresql%e3%81%ab%e5%85%a5%e3%82%8c%e3%82%8b/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Static Web Apps に Progressive web apps (PWA) をホストしてみる",
+      "author" : "@tokawa-ms",
+      "day" : 23,
+      "url" : "https://qiita.com/tokawa-ms/items/40c727af2c08dec2b6be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語の発音練習に活用：Azure Pronunciation assessmentの使用方法を解説",
+      "author" : "@sugulu_Ogawa_ISID",
+      "day" : 24,
+      "url" : "https://qiita.com/sugulu_Ogawa_ISID/items/1d96546b74a739b3d44f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Face APIのRecognition04モデルを使ってマスクをつけた顔認識を試してみる",
+      "author" : "@mitsuoka0423",
+      "day" : 25,
+      "url" : "https://zenn.dev/tmitsuoka0423/articles/face-api-mask"
+    }
+  ]
+}

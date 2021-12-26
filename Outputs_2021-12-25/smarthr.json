@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T03:07:03Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社SmartHR",
+    "category" : "企業・学校・団体",
+    "lgtm" : 5,
+    "subscribers" : 22,
+    "title" : "SmartHRの村だよ Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "smarthr",
+    "url" : "https://qiita.com/advent-calendar/2021/smarthr"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "zoomガチャ",
+      "author" : "@Kinoppyd",
+      "day" : 1,
+      "url" : "http://tolarian-academy.net/zoom-gacha"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RubyMineでよく使ってる機能",
+      "author" : "@sugamasao",
+      "day" : 2,
+      "url" : "https://sugamasao.hatenablog.com/entry/2021/12/02/005534"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "結局のところ、E2Eとフロントエンドテスト(Jest Integration Test)のどちらでテストを書いたらいいのか",
+      "author" : "@negiandleek",
+      "day" : 3,
+      "url" : "https://qiita.com/negiandleek/items/a3d9a7ec49e5beadfae4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チャットサポートのコミュニケーションツール活用術",
+      "author" : "@tsubuco",
+      "day" : 4,
+      "url" : "https://note.com/tsumari_miracle/n/n44162ec88aae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "黒子じゃない！主役になれるサポートセンター！の巻",
+      "author" : "@ARAI55",
+      "day" : 5,
+      "url" : "https://note.com/mifasan/n/n7d6a518bcd4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームでボールを投げあうに至った話",
+      "author" : "@ikuto-y",
+      "day" : 6,
+      "url" : "https://ikuto0608.github.io/unity/shopify/2021/12/06/virtual-chat/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "rails の i18n をフィーチャートグルで制御する",
+      "author" : "@yono@github",
+      "day" : 7,
+      "url" : "https://yono.hatenablog.jp/entry/2021/12/07/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あなたもすぐ実践できる！？新鮮に生き生きとアジャイル開発を行うためのTips",
+      "author" : "@hiroki-m",
+      "day" : 8,
+      "url" : "https://note.com/hiropon_m/n/nccffafe4d8d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアがユーザーリサーチ推進室に入ってユーザビリティテストを自走できるようになった話",
+      "author" : "@oremega",
+      "day" : 9,
+      "url" : "https://note.com/oremega/n/n27ac65f414fd?magazine_key=m94c3702ba34d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Working Out Loudの実践と学び",
+      "author" : "@zoshigayan",
+      "day" : 10,
+      "url" : "https://zoshigayan.net/working-out-loud/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "0→1フェーズのプロダクト開発における、とあるUXライターの働き方",
+      "author" : "@aguringo",
+      "day" : 11,
+      "url" : "https://note.com/aguri/n/n25c9ffd10a07"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ファシリテーションでスクラム開発の改善に取り組んだ話",
+      "author" : "@hypermkt",
+      "day" : 12,
+      "url" : "https://blog.hypermkt.jp/2021/2021-12-12-improving-scrum-development-through-facilitation/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "textlintプロジェクトの現在地",
+      "author" : "@kuny25",
+      "day" : 13,
+      "url" : "https://tech.smarthr.jp/entry/current_status_of_the_textlint_project"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SmartHRのかわいいヤギのセーターを作った話",
+      "author" : "@nam_nam",
+      "day" : 14,
+      "url" : "https://note.com/nam_nam/n/ned4464d33989"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンポーネントライブラリの全Propsを取得・表示して幸せになろう",
+      "author" : "@kgsi",
+      "day" : 15,
+      "url" : "https://zenn.dev/kgsi/articles/49933e9dd4f91e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SmartHRオリジナルアイテム2021 〜今年もこんなにできました〜（@sayuriko）",
+      "author" : "@SmartHR_open_shanaihou",
+      "day" : 16,
+      "url" : "https://shanaiho.smarthr.co.jp/n/n50d798381a8f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "B2B SaaS におけるプロビジョニング",
+      "author" : "@tknzk",
+      "day" : 17,
+      "url" : "https://tknzk.hateblo.jp/entry/2021/12/17/092452"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Custom Providerから見る Terraform 入門",
+      "author" : "@sh-miyoshi",
+      "day" : 18,
+      "url" : "https://qiita.com/sh-miyoshi/items/24dcab06c122c01b9862"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby/Railsで画像に文字を入れ込む ",
+      "author" : "@SaxtonDrey",
+      "day" : 19,
+      "url" : "https://qiita.com/SaxtonDrey/items/a0636e2a78ad48d18b7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mac で日本語ThinkPadキーボードを英語配列で使う",
+      "author" : "@tmtms",
+      "day" : 20,
+      "url" : "https://blog.tmtms.net/entry/202112/mac-thinkpadkeyboard"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年のベスト #名言 を選んでみた（@charlie）",
+      "author" : "@SmartHR_open_shanaihou",
+      "day" : 21,
+      "url" : "https://shanaiho.smarthr.co.jp/n/n1cfea0f8ba3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "鮨をスマホで撮る技術",
+      "author" : "@miyata_shoji",
+      "day" : 22,
+      "url" : "https://blog.shojimiyata.com/entry/2021/12/22/170829"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " `Thread.current[:hoge]`はスレッドローカル変数を参照していると思いきや実際はファイバーローカル変数だった",
+      "author" : "@willnet@github",
+      "day" : 23,
+      "url" : "https://blog.willnet.in/entry/2021/12/23/184123"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークに役立ちそうな2021年に買ってよかったもの",
+      "author" : "@nabeliwo",
+      "day" : 24,
+      "url" : "https://blog.nabeliwo.com/2021/12/2021-best-buy/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアの自分が見習いプロダクトデザイナーとしてやってきたこと",
+      "author" : "@kabetch_",
+      "day" : 25,
+      "url" : "https://note.com/kabetch/n/n26c8d55d27ce"
+    }
+  ]
+}

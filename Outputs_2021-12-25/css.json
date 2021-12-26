@@ -1,0 +1,147 @@
+{
+  "created_at" : "2021-12-25T23:00:45Z",
+  "calendar_meta_data" : {
+    "author" : "@satoimooimo",
+    "category" : "Webテクノロジー",
+    "lgtm" : 8,
+    "subscribers" : 47,
+    "title" : "CSS Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "css",
+    "url" : "https://qiita.com/advent-calendar/2021/css"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "aspect-ratioを使ってサイズがバラバラな画像を縦横比を揃えて表示する",
+      "author" : "@becolomochi",
+      "day" : 1,
+      "url" : "https://qiita.com/becolomochi/items/464e8dd0e5da9d17e425"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSS Working Group Editor Drafts",
+      "author" : "@feo52",
+      "day" : 2,
+      "url" : "https://qiita.com/feo52/items/f59035237c9250c764d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "::-ms-clear & ::-ms-reveal & -ms-high-contrast-adjust on Edge(Chromium) of Windows",
+      "author" : "@feo52",
+      "day" : 3,
+      "url" : "https://qiita.com/feo52/items/b01fa93b1ddf16f19649"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YouTube ( & video tag ) 背景動画として全画面に表示",
+      "author" : "@feo52",
+      "day" : 4,
+      "url" : "https://qiita.com/feo52/items/ae3dbf953049e8fe2489"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@highstake"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[CSS]Flexboxを入れ子にすると変な隙間ができる",
+      "author" : "@udyest",
+      "day" : 6,
+      "url" : "https://zenn.dev/udyest/articles/d41c968fd3e0dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSSだけで実装するマウス・インタラクションっぽいやつ",
+      "author" : "@yend",
+      "day" : 7,
+      "url" : "https://zenn.dev/yend724/articles/20211207-rkmb600cdtphxiap"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSS だけでマルバツゲーム（三目並べ）を実装する",
+      "author" : "@yend",
+      "day" : 9,
+      "url" : "https://zenn.dev/yend724/articles/20211209-t50ibr2sfyyuv05d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML の暗黙的なフォーム送信と CSS の :default 疑似クラス",
+      "author" : "@nanto_vi",
+      "day" : 11,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/11/9447305"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "stylelint-orderはobject styleだと動かない",
+      "author" : "@xrxoxcxox",
+      "day" : 13,
+      "url" : "https://qiita.com/xrxoxcxox/items/0b870f99ef97c3acfddc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@highstake"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[CSS]CSSグラデーションのあまり知られていない書き方",
+      "author" : "@udyest",
+      "day" : 24,
+      "url" : "https://zenn.dev/udyest/articles/3078121ce0ccfa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

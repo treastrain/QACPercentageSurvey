@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:26:50Z",
+  "calendar_meta_data" : {
+    "author" : "ディップ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 139,
+    "subscribers" : 8,
+    "title" : "ディップ Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "dip-dev",
+    "url" : "https://qiita.com/advent-calendar/2021/dip-dev"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "事業会社に勤めつつ副業で開発するということ",
+      "author" : "@raitehu",
+      "day" : 1,
+      "url" : "https://qiita.com/raitehu/private/8549e2440999749e3b05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "足掛け1年でAWSソリューションアーキテクトアソシエイト(SAA-C02)に合格しました。",
+      "author" : "@e-takazawa",
+      "day" : 2,
+      "url" : "https://qiita.com/e-takazawa/items/a13fba1cb8fd09d57d82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQLのplpython3u使ってみた。",
+      "author" : "@abejjj",
+      "day" : 3,
+      "url" : "https://qiita.com/abejjj/items/ee666b224b6f4d396790"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SendGridのDynamicTemplateでハマった話",
+      "author" : "@bikun_bikun",
+      "day" : 4,
+      "url" : "https://tech-note.bikunbikun.com/entry/2021/12/04/162742"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いいかんじにAWS上のネットワーク構成図を作りたいから手鍋した話",
+      "author" : "@dip-kato",
+      "day" : 5,
+      "url" : "https://qiita.com/dip-kato/items/d1cbbede4d334f6b9d7f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS活用事例の取材を受けて変わったこと",
+      "author" : "@spherera",
+      "day" : 6,
+      "url" : "https://zenn.dev/hotaka_noda/articles/20a9babcf20d5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dipという上場企業での開発研修を終えて。【総評】",
+      "author" : "@george022497",
+      "day" : 7,
+      "url" : "https://qiita.com/george022497/items/93dde71e69063818faee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terrafrom運用の細かい操作まとめ",
+      "author" : "@Yoyo-kikuchi",
+      "day" : 8,
+      "url" : "https://qiita.com/Yoyo-kikuchi/items/142eeaa9a85ed45c800e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Amplifyを利用するか検討して、やめた話",
+      "author" : "@k-takenoko",
+      "day" : 9,
+      "url" : "https://qiita.com/k-takenoko/items/b2eb9df85b0faeb8d2ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラム導入について書きます",
+      "author" : "@Junsora11",
+      "day" : 10,
+      "url" : "https://note.com/blue_sky_js/n/nf71467ca80dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SlackConnectの承認不要にして管理工数が減った話",
+      "author" : "@spherera",
+      "day" : 11,
+      "url" : "https://zenn.dev/hotaka_noda/articles/75c6abae713a12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vysorでスマホの画面をMacBookにミラーリングする",
+      "author" : "@horihori_natsumi",
+      "day" : 12,
+      "url" : "https://qiita.com/horihori_natsumi/items/b4394aa9d37cbedebacb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker + Vue.js + Go言語で映画館の空席状況を取得する",
+      "author" : "@taku-0728",
+      "day" : 13,
+      "url" : "https://qiita.com/taku-0728/items/f26b79af1fd5369aa61d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSのマルチアカウント構成でインストールされているソフトウェアのバージョンを可視化してみた",
+      "author" : "@ryo-alex",
+      "day" : 14,
+      "url" : "https://qiita.com/ryo-alex/items/e454c7be50fa20992a02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Internship Report】独学で頑張ってたらdipで本当にiOSエンジニアになれてしまった件",
+      "author" : "@Cychow",
+      "day" : 15,
+      "url" : "https://qiita.com/Cychow/items/2e16d4bcac7542986666"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "少人数で開発するためにGitHub Actions を使ってみた感想",
+      "author" : "@rendaman0215",
+      "day" : 16,
+      "url" : "https://qiita.com/rendaman0215/items/83fb7f6c6cdd23708ca9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chrome拡張を作ってAWSハンズオンのフォーム入力を自動化する",
+      "author" : "@gramin",
+      "day" : 17,
+      "url" : "https://qiita.com/gramin/items/3116c1fbdd64668f9ba0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Auth0認証を組み込む方法を考える",
+      "author" : "@katsuhiro-sato",
+      "day" : 18,
+      "url" : "https://qiita.com/katsuhiro-sato/items/f0880ce4da89cb643097"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データベーススペシャリストを受けました",
+      "author" : "@dip-m-hirao",
+      "day" : 19,
+      "url" : "https://qiita.com/dip-m-hirao/items/7a89024c1a1030708936"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows11とWSL2で始めるWebシステム開発",
+      "author" : "@Payayayaya",
+      "day" : 20,
+      "url" : "https://qiita.com/Payayayaya/items/7f8e4bf1c6ef868e4015"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "問題解決力を向上させよう",
+      "author" : "@Hanamichi",
+      "day" : 21,
+      "url" : "https://qiita.com/Hanamichi/items/c2c9026cb7405d12b10f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "chrome拡張機能を作ってみた",
+      "author" : "@toyohama",
+      "day" : 22,
+      "url" : "https://qiita.com/toyohama/items/d1c0b5eca0b590c6b49b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ABCD2021Winter参加レポート",
+      "author" : "@hayashidamoka",
+      "day" : 23,
+      "url" : "https://qiita.com/hayashidamoka/items/313cc160d1bbf0c27d3a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "どうしてもSlack風の絵文字入力と共にTwitter年越しをしたいからジタバタした結果",
+      "author" : "@bo469ma",
+      "day" : 24,
+      "url" : "https://qiita.com/bo469ma/items/418a50cedca4c5f71f37"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SSOとAWS Systems Manager Fleet Manager を使ってWindows Serverにログインする",
+      "author" : "@spherera",
+      "day" : 25,
+      "url" : "https://zenn.dev/hotaka_noda/articles/fd027dd51a662b"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "created_at" : "2021-12-26T01:08:14Z",
+  "calendar_meta_data" : {
+    "author" : "@MizutoKadowaki0312",
+    "category" : "プログラミング言語",
+    "lgtm" : 34,
+    "subscribers" : 67,
+    "title" : "Julia Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "julia",
+    "url" : "https://qiita.com/advent-calendar/2021/julia"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Rotations.jlの周辺について何か書きます",
+      "author" : "@Hyrodium",
+      "day" : 1,
+      "url" : "https://zenn.dev/hyrodium/articles/02b05e2317c43b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Documenter.jl を使ってホームページを公開する",
+      "author" : "@MizutoKadowaki0312",
+      "day" : 2,
+      "url" : "https://zenn.dev/mizuto/articles/adcb28db0e427c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "形態素解析器 Awabi.jl と、初めて Julia を書いた感想",
+      "author" : "@nakagami",
+      "day" : 3,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "sysimage_creator の紹介",
+      "author" : "@SatoshiTerasaki",
+      "day" : 4,
+      "url" : "https://qiita.com/SatoshiTerasaki/items/094341b872cf340ab528"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Julia パッケージをいわゆる公式パッケージとして使ってもらう方法 2021年 12 月版",
+      "author" : "@SatoshiTerasaki",
+      "day" : 5,
+      "url" : "https://qiita.com/SatoshiTerasaki/items/7dbb809c962e794a9df6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PkgTemplates.jl をベースに VSCode と Docker を組み合わせる自作テンプレートを作ります",
+      "author" : "@SatoshiTerasaki",
+      "day" : 6,
+      "url" : "https://qiita.com/SatoshiTerasaki/items/8cacf4b3b21ed3fc599e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "時系列データにまだ差分取っているの？",
+      "author" : "@takahashi-ry",
+      "day" : 7,
+      "url" : "https://qiita.com/takahashi-ry/items/17a101f10a54831cd324"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Juliaで電子顕微鏡シミュレーション",
+      "author" : "@picric_acid",
+      "day" : 8,
+      "url" : "https://qiita.com/picric_acid/items/165114e3fa1f16b7d9b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JuliaMono (フォント) を導入する方法",
+      "author" : "@SatoshiTerasaki",
+      "day" : 9,
+      "url" : "https://qiita.com/SatoshiTerasaki/items/20b53ba14ea22d36e4e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MLJ.jl に自作のモデルを追加する",
+      "author" : "@kogad",
+      "day" : 10,
+      "url" : "https://qiita.com/kogad/items/2ac2eec4631b305423b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Julia の REPL ででも画像をリッチにプレビューしたいんです(Sixel.jl 入門).",
+      "author" : "@SatoshiTerasaki",
+      "day" : 11,
+      "url" : "https://qiita.com/SatoshiTerasaki/items/3ea9750069e1d631aff7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PRML 10章 一変数ガウス分布の変分推論　変分事後分布のプロット",
+      "author" : "@takahashi-ry",
+      "day" : 12,
+      "url" : "https://qiita.com/takahashi-ry/items/b432cc2cc426294169f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StaticArrays.jlの周辺について何か書きます",
+      "author" : "@Hyrodium",
+      "day" : 13,
+      "url" : "https://zenn.dev/hyrodium/articles/5aa5366062f702"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "巡回セールスマン問題をJuliaで解いてみた",
+      "author" : "@takahashi-ry",
+      "day" : 14,
+      "url" : "https://qiita.com/takahashi-ry/items/4e03959a5ed2e0276430"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Turing.jlでベイズモデリング",
+      "author" : "@takilog",
+      "day" : 15,
+      "url" : "https://zenn.dev/takilog/articles/c5d29ecbce7565"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebird の Julia データーベースドライバー",
+      "author" : "@nakagami",
+      "day" : 16,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Aibo meets Julia",
+      "author" : "@tenfu2tea",
+      "day" : 17,
+      "url" : "https://zenn.dev/tenfu2tea/articles/c2eecf16e57622"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JuliaでOpenStreetMapのXMLをparseした話",
+      "author" : "@takilog",
+      "day" : 18,
+      "url" : "https://zenn.dev/takilog/articles/2aaee45cbd3d39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Zygote.jl での微分計算の仕組み",
+      "author" : "@SatoshiTerasaki",
+      "day" : 19,
+      "url" : "https://atelierarith.github.io/zygote_flux_tutorial/zygote_internals.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "生成関数の周辺について何か書きます",
+      "author" : "@Hyrodium",
+      "day" : 20,
+      "url" : "https://zenn.dev/hyrodium/articles/e376aa3f9d2045"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JuliaでPyCallを使うあなたへ～PyObjectってどうやって扱うねんっていう気持ちに対しての一考察～",
+      "author" : "@takahashi-ry",
+      "day" : 21,
+      "url" : "https://qiita.com/takahashi-ry/items/3c247bb30fad12168c96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JupyterLabのすすめ",
+      "author" : "@t_kemmochi",
+      "day" : 22,
+      "url" : "https://qiita.com/t_kemmochi/items/0f36fb8328e5a74902d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clang.jl新機能まとめ",
+      "author" : "@Gnimuc",
+      "day" : 23,
+      "url" : "https://qiita.com/Gnimuc/items/6bb296b282883f60398c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Juliaで自作のモジュールや関数をファイル単位で分割する方法",
+      "author" : "@takahashi-ry",
+      "day" : 24,
+      "url" : "https://qiita.com/takahashi-ry/items/ebade14f6ac251b54df8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音のピッチ推定（YINアルゴリズムの実装）",
+      "author" : "@JikanBae",
+      "day" : 25,
+      "url" : "https://marui.hatenablog.com/entry/2021/12/25/070000"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "phigasui という文字列を作りたかっただけ Julia 編",
+      "author" : "@phigasui",
+      "day" : 1,
+      "url" : "https://qiita.com/phigasui/items/467bcaf14d238675d55a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

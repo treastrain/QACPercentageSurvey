@@ -1,0 +1,151 @@
+{
+  "created_at" : "2021-12-25T23:13:31Z",
+  "calendar_meta_data" : {
+    "author" : "@mirko-san_fp",
+    "category" : "企業・学校・団体",
+    "lgtm" : 19,
+    "subscribers" : 4,
+    "title" : "某 f 社のアドベントカレンダー Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "anonymous-f",
+    "url" : "https://qiita.com/advent-calendar/2021/anonymous-f"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "git 初学者に教えたい git と github の tips",
+      "author" : "@mirko-san_fp",
+      "day" : 1,
+      "url" : "https://qiita.com/mirko-san_fp/items/4e5ca07d6fd12d331196"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1つのKubernetesクラスタで複数のシングルテナント向けの証明書を取り扱う",
+      "author" : "@hy3",
+      "day" : 2,
+      "url" : "https://qiita.com/hy3/items/0239c216fb80e13fe85f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CORS エラーにハマったら MDN を見ると良いよ",
+      "author" : "@aster-mnch",
+      "day" : 7,
+      "url" : "https://qiita.com/aster-mnch/items/b9117ba58de27826f4e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 行ってよかったごはん屋さん ベスト5",
+      "author" : "@AKI2412",
+      "day" : 8,
+      "url" : "https://aqui-jasmine.hatenablog.com/?_ga=2.234802333.266229156.1638855671-1104549636.1637138188"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Deno + oak で任意のレスポンスヘッダでレスポンスを返すサーバーをサクっと立てた",
+      "author" : "@mirko-san_fp",
+      "day" : 10,
+      "url" : "https://qiita.com/mirko-san_fp/items/d5b7eeab7a6e5f23007b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ど文系出身からプログラミングって面白そうだと思うまで",
+      "author" : "@yuuuuurikun",
+      "day" : 15,
+      "url" : "https://note.com/rikuuuuuun/n/n594dc24f2857"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django 4.0 がリリースされたので新機能を試してみた",
+      "author" : "@aster-mnch",
+      "day" : 16,
+      "url" : "https://qiita.com/aster-mnch/items/a16b3eb3a283b9f2cf3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Playwrightを使ってServiceNowインスタンスを自動で叩き起こす",
+      "author" : "@ko_fp",
+      "day" : 17,
+      "url" : "https://qiita.com/ko_fp/items/6e09ba2a938c76ce2e57"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "git GUI クライアントのススメ ～TortoiseGit はいいぞ～",
+      "author" : "@ffp",
+      "day" : 20,
+      "url" : "https://qiita.com/ffp/items/251b372833638a1c2951"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年買ってよかったものを言い訳しながら紹介する",
+      "author" : "@yuuuuurikun",
+      "day" : 21,
+      "url" : "https://note.com/rikuuuuuun/n/na88a05e4a67a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英語苦手エンジニアが英語を書くときに考えていること",
+      "author" : "@hy3",
+      "day" : 24,
+      "url" : "https://qiita.com/hy3/items/1b4fa33d5aa5a1cb287b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Copilotを使って物語を補完してみた",
+      "author" : "@snowsman",
+      "day" : 25,
+      "url" : "https://qiita.com/snowsman/items/30137fa5ee2805693b6a"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "created_at" : "2021-12-26T02:08:46Z",
+  "calendar_meta_data" : {
+    "author" : "@HAHURI",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 8,
+    "title" : "バーチャルキャスト Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "vcas",
+    "url" : "https://qiita.com/advent-calendar/2021/vcas"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@sigure2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vキャスルームのアイデア箱 21:30〜",
+      "author" : "@HAHURI",
+      "day" : 5,
+      "url" : "https://live.nicovideo.jp/watch/lv334781810"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VR空間でASMR録音する方法",
+      "author" : "@feath",
+      "day" : 17,
+      "url" : "https://qiita.com/feath/items/293de0b4d500081ebda6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "企画放送のススメ",
+      "author" : "@siro1990",
+      "day" : 19,
+      "url" : "https://live.nicovideo.jp/watch/lv334966443"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新潟旅行記",
+      "author" : "@milktea472",
+      "day" : 20,
+      "url" : "https://live.nicovideo.jp/watch/lv334990505"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@raimuandkurage"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@MOKORA"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@CraZy__rnq"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

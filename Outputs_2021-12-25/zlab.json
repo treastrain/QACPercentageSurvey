@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-25T19:20:04Z",
+  "calendar_meta_data" : {
+    "author" : "ゼットラボ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 88,
+    "subscribers" : 6,
+    "title" : "Z Lab Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "zlab",
+    "url" : "https://qiita.com/advent-calendar/2021/zlab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetes as a Serviceを支えるテスト環境のContinuous Delivery",
+      "author" : "@shmurata",
+      "day" : 1,
+      "url" : "https://qiita.com/shmurata/items/5f5334f67610b899a811"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シェルを含まないコンテナのファイルを確認する",
+      "author" : "@tkusumi",
+      "day" : 2,
+      "url" : "https://qiita.com/tkusumi/items/dbda4abadd24d3db0981"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "opensslワンライナーではじめるプライベートCAと用途別証明書の作り方",
+      "author" : "@mumoshu",
+      "day" : 3,
+      "url" : "https://qiita.com/mumoshu/items/ecee17f88d5cc426bc7f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VTPMを使ってTPMをお試ししてみる",
+      "author" : "@inajob",
+      "day" : 4,
+      "url" : "https://qiita.com/inajob/items/ed497c1d26d659ee612b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker で十全に gcloud や aws 、cdk コマンドなどを使う方法",
+      "author" : "@mumoshu",
+      "day" : 5,
+      "url" : "https://qiita.com/mumoshu/items/3db46bd1acfc8e392b68"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PrometheusのAgentモードを試してみた",
+      "author" : "@uesyn",
+      "day" : 6,
+      "url" : "https://qiita.com/uesyn/items/0ecd2878d6e6c402f82c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vault認証用のTLSクライアント証明書を失効させる",
+      "author" : "@TakanariKo",
+      "day" : 7,
+      "url" : "https://qiita.com/TakanariKo/items/d07c134aa9b894ea164c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gsutil で特定の拡張子を持つオブジェクトのみを rsync する方法",
+      "author" : "@ryysud",
+      "day" : 8,
+      "url" : "https://qiita.com/ryysud/items/880592db99a70e79081f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jqとシェル芸でJSONを作る",
+      "author" : "@inajob",
+      "day" : 9,
+      "url" : "https://qiita.com/inajob/items/a0d1f7751b6916343ac2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alertmanager: 通知テンプレートの展開を確認する",
+      "author" : "@tkusumi",
+      "day" : 10,
+      "url" : "https://qiita.com/tkusumi/items/cde8c4e77adefd7e1d02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "cgroup v2 環境において Docker コンテナ内で systemd を起動するときの注意点",
+      "author" : "@ryysud",
+      "day" : 11,
+      "url" : "https://qiita.com/ryysud/items/e6bfd61a121d6f922288"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArgoCD ApplicationSet v0.2.0 と v0.3.0 の変更点",
+      "author" : "@shmurata",
+      "day" : 12,
+      "url" : "https://qiita.com/shmurata/items/309d5e1fd9600fb493e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPIRE: v1.1.1 変更内容",
+      "author" : "@TakanariKo",
+      "day" : 13,
+      "url" : "https://qiita.com/TakanariKo/items/a0be8e7660a1eed4743f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetes 1.23: SIG-Apps の変更内容",
+      "author" : "@yosshi_",
+      "day" : 14,
+      "url" : "https://qiita.com/yosshi_/items/5ef6805eb358631fbbbc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Google Cloud Managed Service for Prometheus」について",
+      "author" : "@yosshi_",
+      "day" : 17,
+      "url" : "https://qiita.com/yosshi_/items/9e40a88bf2acf3e2bf80"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPIFFE CSI Driverを試してみる",
+      "author" : "@hiyosi",
+      "day" : 18,
+      "url" : "https://qiita.com/hiyosi/items/74e397775477446af9b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetes: NVIDIA GPU Operatorを使ったMIG設定の動作検証",
+      "author" : "@ysakashita",
+      "day" : 22,
+      "url" : "https://qiita.com/ysakashita/items/00e8df2426db9725da44"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetes 1.23: SIG-API Machineryの変更内容",
+      "author" : "@Ladicle",
+      "day" : 24,
+      "url" : "https://qiita.com/Ladicle/items/a37d040dddfd7a982fb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

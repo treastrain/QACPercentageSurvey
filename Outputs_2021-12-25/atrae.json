@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T22:37:13Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社アトラエ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 16,
+    "subscribers" : 4,
+    "title" : "Atrae Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "atrae",
+    "url" : "https://qiita.com/advent-calendar/2021/atrae"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Hardening Project 2021 に参加してきた話",
+      "author" : "@oguogura",
+      "day" : 1,
+      "url" : "https://atraetech.hatenablog.com/entry/2021/12/01/091420"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブランドのデザインに不可欠な要素とその構造から見えてきた“旗印”としての役割",
+      "author" : "@taketetsu1982",
+      "day" : 2,
+      "url" : "https://note.com/taketetsu1982/n/nc928bc6457f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インハウスデザイナー first year!",
+      "author" : "@lulu_design",
+      "day" : 3,
+      "url" : "https://note.com/ko2316/n/nd55e50700bd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アトラエらしさを世の中に伝えるということ",
+      "author" : "@drasky1132",
+      "day" : 4,
+      "url" : "https://note.com/kumi1132/n/n778d93de67b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビジネス版マッチングアプリ \"Yenta\" のWeb版開発を振り返る",
+      "author" : "@shogotgm",
+      "day" : 5,
+      "url" : "https://atraetech.hatenablog.com/entry/2021/11/19/162848"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack App + GASで社内のシャッフルランチBotをつくってみた！ 〜世界一やさしく丁寧な解説付き〜",
+      "author" : "@Tech-makoton",
+      "day" : 6,
+      "url" : "https://zenn.dev/tech_makoton/articles/519327b88576af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビジネス版マッチングアプリ\"Yenta\"のWebフロントの構成について",
+      "author" : "@shogotgm",
+      "day" : 7,
+      "url" : "https://atraetech.hatenablog.com/entry/yenta-web-front-structure"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内で開催している、ノンデザイナー向けデザイン勉強会の話。",
+      "author" : "@yuriaa",
+      "day" : 8,
+      "url" : "https://note.com/yuriamurakami/n/n551ddec88070"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HHKB配列の分離キーボードを自作する(choco60 rev.2)",
+      "author" : "@mooriii",
+      "day" : 9,
+      "url" : "https://qiita.com/mooriii/items/1128907e19d8ca98c420"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビジネスマッチングアプリ Yenta での MVVM + Flux 例",
+      "author" : "@ykwkm",
+      "day" : 10,
+      "url" : "https://zenn.dev/ykwkm/articles/11c59d0114f3d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビジネス版マッチングアプリ Yenta iOS版の Build Phase でやっていること",
+      "author" : "@ysk_1031",
+      "day" : 11,
+      "url" : "https://qiita.com/ysk_1031/items/941796841bbf76a4997a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Argo Eventsでの並列実行数の制御方法",
+      "author" : "@shino59",
+      "day" : 12,
+      "url" : "https://atraetech.hatenablog.com/entry/2021/12/14/021358"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ターミナル上でポーカーのヘッズアップがしたい",
+      "author" : "@kouji-at",
+      "day" : 13,
+      "url" : "https://qiita.com/kouji-at/items/06f8d08365030ae9d588"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そうだ、Yentaいこう",
+      "author" : "@shogotgm",
+      "day" : 14,
+      "url" : "https://atraetech.hatenablog.com/entry/2021/12/03/120938"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アトラエ（AI）将棋部について",
+      "author" : "@wasao15",
+      "day" : 15,
+      "url" : "https://note.com/wasaou/n/nceb40bd6aa02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterとReact Nativeの両方で開発・運用を経験した結果、選ぶならどちら？",
+      "author" : "@risafj",
+      "day" : 16,
+      "url" : "https://zenn.dev/risafj/articles/46105f74c62714"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "早めにやっておきたい\"MVC\"で整理するバグ対応フロー",
+      "author" : "@shogotgm",
+      "day" : 17,
+      "url" : "https://atraetech.hatenablog.com/entry/2021/12/17/140105"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gorm/Gormigrateを利用したMigrationについて",
+      "author" : "@takayone",
+      "day" : 18,
+      "url" : "https://zenn.dev/takay/articles/a473d677fb12f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Forms APIを触ってみた、と書きたかった人の話",
+      "author" : "@tsucchi13",
+      "day" : 19,
+      "url" : "https://qiita.com/tsucchi13/items/80506b4084e038726584"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFrontのIP範囲の変更を検知してnginxのset_real_ip_fromを変更するプルリクを自動で作成する",
+      "author" : "@hosakak",
+      "day" : 20,
+      "url" : "https://qiita.com/hosakak/items/3d541ff21a430ede12da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モードレスUIデザイン ~ ユーザーをクリエイティブにする",
+      "author" : "@kinoshitatrae",
+      "day" : 21,
+      "url" : "https://note.com/pitagorasukippa/n/nfcb654923e1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マイクロサービス化に伴うAPIのGo移行をRails側で対応してみた",
+      "author" : "@karei1008",
+      "day" : 22,
+      "url" : "https://qiita.com/karei1008/items/12c8be72644281f9d0e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SWRを使用する際のTips",
+      "author" : "@yuki_eng",
+      "day" : 23,
+      "url" : "https://zenn.dev/yuki_yuki/articles/9e4d08c9a34792"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Atraeコーポレートサイトリニューアル裏側",
+      "author" : "@kid84",
+      "day" : 24,
+      "url" : "https://zenn.dev/kid84/articles/a525c9ba19b62d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shogotgm"
+    }
+  ]
+}

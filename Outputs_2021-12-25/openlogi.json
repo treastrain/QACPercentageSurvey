@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-25T22:48:00Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社オープンロジ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 228,
+    "subscribers" : 1,
+    "title" : "OPENLOGI Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "openlogi",
+    "url" : "https://qiita.com/advent-calendar/2021/openlogi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Web技術でWMS（倉庫管理システム）を作ろう！",
+      "author" : "@guai3",
+      "day" : 1,
+      "url" : "https://qiita.com/guai3/private/47fec2e899e3decfe564"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel de Lambda",
+      "author" : "@earl2",
+      "day" : 2,
+      "url" : "https://qiita.com/earl2/items/803ec0df6abb37711b3c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "E2Eテスト自動化で重要な変数の値マネジメント",
+      "author" : "@T-Com",
+      "day" : 3,
+      "url" : "https://qiita.com/T-Com/items/50fb957a89cf8ec6ae38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fp-tsを理解する：Semigroup",
+      "author" : "@windmill08",
+      "day" : 4,
+      "url" : "https://qiita.com/windmill08/items/50f34c55fe9ba29c1e47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHP で簡単なインタプリタをつくる",
+      "author" : "@yshir_",
+      "day" : 5,
+      "url" : "https://qiita.com/yshir_/items/6ecfe248f18f7a7dc454"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Alfred でオペ作業をちょっと改善する",
+      "author" : "@inoue441",
+      "day" : 6,
+      "url" : "https://qiita.com/inoue441/items/a522468452eb602fea5e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLは定義の型サイズによって性能が異なるのか",
+      "author" : "@taka512",
+      "day" : 7,
+      "url" : "https://qiita.com/taka512/items/212ee1e2ac50c0f2eac9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SPIN を使ったモデル検査の入門",
+      "author" : "@karronoli",
+      "day" : 8,
+      "url" : "https://qiita.com/karronoli/items/8dcea1344cd77e2e7ed9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年に読んだドメイン駆動設計に関わる書籍たちの感想",
+      "author" : "@morry_48",
+      "day" : 9,
+      "url" : "https://qiita.com/morry_48/items/a826a927895a31a7f6a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "継続について知りたい",
+      "author" : "@yhosok",
+      "day" : 10,
+      "url" : "https://qiita.com/yhosok/items/c060f419c44f66d6bcab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ShopifyアプリのSession Token認証を追う",
+      "author" : "@macaron",
+      "day" : 11,
+      "url" : "https://qiita.com/macaron/items/5a937aceeef059793af5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS IAM SwitchRoleでGUIツールを利用する",
+      "author" : "@m_norii",
+      "day" : 12,
+      "url" : "https://zenn.dev/m_norii/articles/a2806403c0d902"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "品名予測の技術紹介",
+      "author" : "@akabe",
+      "day" : 13,
+      "url" : "https://aabe0.hatenablog.com/entry/2021/12/13/143948"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Postman を初めて触ろうとしているあなたに",
+      "author" : "@knidik3",
+      "day" : 14,
+      "url" : "https://qiita.com/knidik3/items/b5019b8289417fa1716a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Shopify Hydrogen でストア構築を試してみる（Developer Preview 段階）",
+      "author" : "@Shirasu3",
+      "day" : 15,
+      "url" : "https://zenn.dev/shirasu/articles/54768568e1a708"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LaravelのFakerをカスタマイズして、存在する郵便番号と住所のテストデータをランダムに生成する",
+      "author" : "@akido_",
+      "day" : 16,
+      "url" : "https://qiita.com/akido_/items/04c8538560739fd2ed86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "cssをBEMに則って書いてみた感想",
+      "author" : "@mikami_ryoko",
+      "day" : 17,
+      "url" : "https://qiita.com/mikami_ryoko/items/c37e9e07981de4fe52e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IntelliJ IDEAを何にどのように使っているか書いてみる",
+      "author" : "@imahellob99",
+      "day" : 18,
+      "url" : "https://qiita.com/imahellob99/items/88850c1428f50a295ddc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKでECS環境を構築する",
+      "author" : "@sasaki_r",
+      "day" : 19,
+      "url" : "https://qiita.com/sasaki_r/items/3929c304cba221d534ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@Teloo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オープンロジでお問い合わせ対応やサービス運用の改善をやってみた",
+      "author" : "@pakkun",
+      "day" : 21,
+      "url" : "https://qiita.com/pakkun/items/99ecf7a35ef50c291078"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@motojouya"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人1ヶ月！ここまでの反省と心がけていること",
+      "author" : "@riku929hr",
+      "day" : 23,
+      "url" : "https://qiita.com/riku929hr/items/34537970845013e26784"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最近の中途エンジニア採用手法について",
+      "author" : "@saka0ken",
+      "day" : 24,
+      "url" : "https://qiita.com/saka0ken/items/ed8e8bfa4e83893e1532"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@migrs"
+    }
+  ]
+}

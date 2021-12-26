@@ -1,0 +1,158 @@
+{
+  "created_at" : "2021-12-25T21:52:45Z",
+  "calendar_meta_data" : {
+    "author" : "@t_misaki1029",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 2,
+    "subscribers" : 10,
+    "title" : "Tableau Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "tableau2021",
+    "url" : "https://qiita.com/advent-calendar/2021/tableau2021"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】VIZの垢抜けスキル①〜シートの背景透過〜",
+      "author" : "@t_misaki1029",
+      "day" : 1,
+      "url" : "https://qiita.com/t_misaki1029/items/d53d6f469be7b0f28bf8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】VIZの垢抜けスキル②〜マップの配色変更〜",
+      "author" : "@t_misaki1029",
+      "day" : 2,
+      "url" : "https://qiita.com/t_misaki1029/items/7304328957b21e45fb91"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】VIZの垢抜けスキル③〜二重軸でどんなのできる？〜",
+      "author" : "@t_misaki1029",
+      "day" : 3,
+      "url" : "https://qiita.com/t_misaki1029/items/032216bc1eb4a4c5919b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】VIZの垢抜けスキル④〜散布図のマークを変えてみる〜",
+      "author" : "@t_misaki1029",
+      "day" : 4,
+      "url" : "https://qiita.com/t_misaki1029/items/2a66d2e3e89c7579ebce"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@hfu62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】ダッシュボードテク：複数フィルタ選択後にグラフを表示する方法",
+      "author" : "@sho_szk_",
+      "day" : 6,
+      "url" : "https://qiita.com/sho_szk_/items/83db953d67fad3878dbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tableau｜背景画像とマッピング",
+      "author" : "@0yu_111",
+      "day" : 7,
+      "url" : "https://note.com/yuko_tb/n/nfa263bde32b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】今年知って便利だったTips①〜ワークシートのスワイプ〜",
+      "author" : "@t_misaki1029",
+      "day" : 8,
+      "url" : "https://qiita.com/t_misaki1029/items/8edb26311beab2655ece"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】今年知って便利だったTips②〜viewサイズの調整〜",
+      "author" : "@t_misaki1029",
+      "day" : 9,
+      "url" : "https://qiita.com/t_misaki1029/items/05070bbab309863c0c03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】今年知って便利だったTips③〜Serverバージョン確認〜",
+      "author" : "@t_misaki1029",
+      "day" : 10,
+      "url" : "https://qiita.com/t_misaki1029/items/901ceba428ec02d74416"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DataSaber 〜初弟子をとってみて偏〜",
+      "author" : "@nagatakoki",
+      "day" : 11,
+      "url" : "https://qiita.com/nagatakoki/items/b037417acf8ea7a0a6f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】Server資材の管理でtabcmd使ってみた（Windows端末）",
+      "author" : "@t_misaki1029",
+      "day" : 17,
+      "url" : "https://qiita.com/t_misaki1029/items/f8e224bb041182d07ffc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tableau】VIZの垢抜けスキル⑤〜ダッシュボードに囲いを付ける〜",
+      "author" : "@t_misaki1029",
+      "day" : 18,
+      "url" : "https://qiita.com/t_misaki1029/items/1aa0f4172e721155eb04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tableau｜計算フィールド豆知識",
+      "author" : "@0yu_111",
+      "day" : 19,
+      "url" : "https://note.com/yuko_tb/n/n800bf535be83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tableauで前月比等を表示しつつ、直近の月のみ表示させる方法",
+      "author" : "@myantako",
+      "day" : 20,
+      "url" : "https://onigirihauma.hatenablog.com/entry/2021/12/19/233339"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

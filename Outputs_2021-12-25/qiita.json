@@ -1,0 +1,320 @@
+{
+  "created_at" : "2021-12-25T22:42:42Z",
+  "calendar_meta_data" : {
+    "author" : "Qiita株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 543,
+    "subscribers" : 35,
+    "title" : "Qiita株式会社 Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "qiita",
+    "url" : "https://qiita.com/advent-calendar/2021/qiita"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita株式会社へ社名変更しました",
+      "author" : "@Kensuke_Shibata",
+      "day" : 1,
+      "url" : "https://blog.qiita.com/changed-company-name/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【React】Qiita アドカレみたいな雪が降るアニメーションを作る",
+      "author" : "@degudegu2510",
+      "day" : 2,
+      "url" : "https://qiita.com/degudegu2510/items/9682968a045b168f89c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【UX】そのUXは、迷信だった！？もしかしたら覚え間違えてるかもしれないUX知識。",
+      "author" : "@degudegu2510",
+      "day" : 3,
+      "url" : "https://qiita.com/degudegu2510/items/e7e66db243d974ceae01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita Team を使って個人ブログをつくれるか考えてみる",
+      "author" : "@ohakutsu",
+      "day" : 4,
+      "url" : "https://qiita.com/ohakutsu/items/b35a8649a438e59e5dc7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiitaの体験最大化を目指した組織体制の紹介",
+      "author" : "@getty104",
+      "day" : 5,
+      "url" : "https://qiita.com/getty104/items/02c4d01c55cf9c5375e1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアではない自分がSQLをかけるようになるまで",
+      "author" : "@zumi0",
+      "day" : 6,
+      "url" : "https://qiita.com/zumi0/items/a20e9e556469edb209a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒エンジニアが半年でQiitaを完全に理解する話～バックエンド編～",
+      "author" : "@wataru86",
+      "day" : 7,
+      "url" : "https://qiita.com/wataru86/items/884f9ebb0db1cd277838"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita株式会社で開催しているエンジニア向けイベントのご紹介",
+      "author" : "@danwatanabe",
+      "day" : 8,
+      "url" : "https://qiita.com/danwatanabe/items/b40189135bd9140b001d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コーディングしやすいFigmaのデータ作りを考える",
+      "author" : "@aizawa213",
+      "day" : 9,
+      "url" : "https://qiita.com/aizawa213/items/382d83cfb59503cb06f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions Self-hosted Runner (actions-runner-controller) を minikube で実行する",
+      "author" : "@mziyut",
+      "day" : 10,
+      "url" : "https://qiita.com/mziyut/items/c28cc1c314b7324341b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "組織体制が変わってから3ヶ月経っての新米リーダー振り返り",
+      "author" : "@fussy113",
+      "day" : 11,
+      "url" : "https://qiita.com/fussy113/items/5245f292a2678c94b919"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "読みやすい＝理解しやすい　Webの組版を整理してより良い文章を届けよう",
+      "author" : "@xrxoxcxox",
+      "day" : 12,
+      "url" : "https://qiita.com/xrxoxcxox/items/206b223844e3c42dc86f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "react-slickでカルーセルをコントロールするUIを改造してアクセシビリティ対応する方法",
+      "author" : "@gilly",
+      "day" : 13,
+      "url" : "https://qiita.com/gilly/items/cd70d70b279334560f8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Faraday Net::HTTP adapter v2.0.0.alpha-2以降で、Content-Typeに応じた文字コードがセットされるようになった",
+      "author" : "@kyntk",
+      "day" : 14,
+      "url" : "https://qiita.com/kyntk/items/fd7fcb20c38cc6fa91a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Railsアプリケーションでサービス停止メンテナンスをせず、テーブルのデータを別テーブルへ分離する方法",
+      "author" : "@WakameSun",
+      "day" : 15,
+      "url" : "https://qiita.com/WakameSun/items/5e4d8c62b4d9f832fdcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアではない自分がTypeScriptを勉強してみた",
+      "author" : "@zumi0",
+      "day" : 16,
+      "url" : "https://qiita.com/zumi0/items/9751549e43117f81f363"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒2年目から見た達人プログラマーの振る舞い",
+      "author" : "@ohakutsu",
+      "day" : 17,
+      "url" : "https://qiita.com/ohakutsu/items/387ff8d8c09f592f124f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiitaのユーザー体験を良くするために新しい部署を立ち上げた話",
+      "author" : "@xrxoxcxox",
+      "day" : 18,
+      "url" : "https://qiita.com/xrxoxcxox/items/1d814c4d23e20829234c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メディア特性を使ってデバイスに併せてhoverのスタイルを出し分ける方法",
+      "author" : "@gilly",
+      "day" : 19,
+      "url" : "https://qiita.com/gilly/items/546adecd18a8db3fd059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rails 6.1 の Renderable objects でお手軽に脱 ERB する",
+      "author" : "@tomoasleep",
+      "day" : 20,
+      "url" : "https://qiita.com/tomoasleep/items/5c1cf71c1148c2737ca2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CodeMirror 6 で AsciiDoc エディタを実装する",
+      "author" : "@phigasui",
+      "day" : 21,
+      "url" : "https://qiita.com/phigasui/items/d41f911ac986c391b48f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby 3.1でJITを有効化したときにRailsアプリケーションは速くなるのか",
+      "author" : "@kyntk",
+      "day" : 22,
+      "url" : "https://qiita.com/kyntk/items/beeb8f5376dd236e54b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "事業開発がエンジニアと協働するために取り組んだこと",
+      "author" : "@tanaka_shoya",
+      "day" : 23,
+      "url" : "https://qiita.com/tanaka_shoya/items/4180e17ba1776daa41cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内SlackワークスペースのQiitan（Slack bot）を紹介します",
+      "author" : "@tyamagu",
+      "day" : 24,
+      "url" : "https://qiita.com/tyamagu/items/9aa1bfd98d7ae69e614f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "外部ライブラリを利用時にonChangeが発火しなくて困った話",
+      "author" : "@kiitan",
+      "day" : 25,
+      "url" : "https://qiita.com/kiitan/items/c1062520cc8d831451f7"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Faraday 2からアダプターの扱いが変わった (Faraday::Adapter::Test::Stubs::NotFound)",
+      "author" : "@kyntk",
+      "day" : 11,
+      "url" : "https://qiita.com/kyntk/items/2a27172c0fc74939f628"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "CSSで描く、少し理解しやすい吹き出しのしっぽ",
+      "author" : "@xrxoxcxox",
+      "day" : 15,
+      "url" : "https://qiita.com/xrxoxcxox/items/2bec9b6aff3c07aa444b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "QiitaのLGTMボタンにアニメーションがつくまでの流れ",
+      "author" : "@xrxoxcxox",
+      "day" : 16,
+      "url" : "https://qiita.com/xrxoxcxox/items/e8d81d9175749077a392"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザイン関連おすすめブックマークリスト",
+      "author" : "@xrxoxcxox",
+      "day" : 19,
+      "url" : "https://qiita.com/xrxoxcxox/items/1a89b7f26295796d1109"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザインに興味があるエンジニア向けのTips10選",
+      "author" : "@xrxoxcxox",
+      "day" : 20,
+      "url" : "https://qiita.com/xrxoxcxox/items/95959d1eab5a9483ba9a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RailsでDDDのバリューオブジェクトを実装してみる",
+      "author" : "@getty104",
+      "day" : 21,
+      "url" : "https://qiita.com/getty104/items/20b8ec53bcf16bed7aa9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Qiitaで気軽に記事を投稿できるようになるためのTips",
+      "author" : "@xrxoxcxox",
+      "day" : 22,
+      "url" : "https://qiita.com/xrxoxcxox/items/55bb690c240f377d27f7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ResourceHintsを簡単に使えるようにするためのカスタムフックの紹介",
+      "author" : "@getty104",
+      "day" : 23,
+      "url" : "https://qiita.com/getty104/items/e5d307040d97bdccb0b0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Qiita Advent Calendar 2021 リニューアル秘話",
+      "author" : "@degudegu2510",
+      "day" : 24,
+      "url" : "https://qiita.com/degudegu2510/items/52cd6ed8737783362bf7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RedashとGASを使って毎日自動で更新されるスプレッドシートを作った話",
+      "author" : "@zumi0",
+      "day" : 25,
+      "url" : "https://qiita.com/zumi0/items/ad3422584cb955c4fba9"
+    }
+  ]
+}

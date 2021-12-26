@@ -1,0 +1,132 @@
+{
+  "created_at" : "2021-12-25T17:48:44Z",
+  "calendar_meta_data" : {
+    "author" : "@benzene",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "Twitter Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "twitter",
+    "url" : "https://qiita.com/advent-calendar/2021/twitter"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Twitter】スペースを使いこなそう！",
+      "author" : "@benzene",
+      "day" : 1,
+      "url" : "https://qiita.com/benzene/items/036eb1c013b1baf6bd2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "特定TweetをSlackに流す方法",
+      "author" : "@juntakakada",
+      "day" : 2,
+      "url" : "https://businesschatmaster.com/slack/twitter-renkei"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@manbababa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitterアナリティクスの使い方",
+      "author" : "@anonnon2sd",
+      "day" : 7,
+      "url" : "https://www.kwm.co.jp/blog/twitter-analytics/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GASでTwitter APIのOAuth2.0 Bearer Tokenの認証をする",
+      "author" : "@tkgtamagohan",
+      "day" : 23,
+      "url" : "https://qiita.com/tkgtamagohan/items/c3921fa1115b6cac823c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@highstake",
+      "day" : 25,
+      "url" : "https://note.com/"
+    }
+  ]
+}

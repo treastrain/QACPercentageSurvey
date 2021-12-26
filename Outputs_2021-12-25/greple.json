@@ -1,0 +1,170 @@
+{
+  "created_at" : "2021-12-25T18:10:59Z",
+  "calendar_meta_data" : {
+    "author" : "@kaz-utashiro",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "App::Greple チュートリアル Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "greple",
+    "url" : "https://qiita.com/advent-calendar/2021/greple"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #1 イントロ",
+      "author" : "@kaz-utashiro",
+      "day" : 1,
+      "url" : "https://qiita.com/kaz-utashiro/items/5b6bcbe54891b3bd9db5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #2 単純な検索",
+      "author" : "@kaz-utashiro",
+      "day" : 2,
+      "url" : "https://qiita.com/kaz-utashiro/private/eb8c7067e6de34842fe3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #3 複数キーワードによる検索",
+      "author" : "@kaz-utashiro",
+      "day" : 3,
+      "url" : "https://qiita.com/kaz-utashiro/items/165e744d4250adedc4c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #4 複数キーワード検索 OR",
+      "author" : "@kaz-utashiro",
+      "day" : 4,
+      "url" : "https://qiita.com/kaz-utashiro/items/439e6abcecf36c520703"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #5 複数キーワード検索 NOT",
+      "author" : "@kaz-utashiro",
+      "day" : 5,
+      "url" : "https://qiita.com/kaz-utashiro/items/24ac0b8fdd30b598e069"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #6 複数キーワード検索 MUST",
+      "author" : "@kaz-utashiro",
+      "day" : 6,
+      "url" : "https://qiita.com/kaz-utashiro/items/a1ba4e3d07cf37dc25e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #7 複数キーワード検索 単独オプション",
+      "author" : "@kaz-utashiro",
+      "day" : 7,
+      "url" : "https://qiita.com/kaz-utashiro/items/0c8c944c17a72724b771"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #8 検索範囲指定 --inside/--outside",
+      "author" : "@kaz-utashiro",
+      "day" : 8,
+      "url" : "https://qiita.com/kaz-utashiro/items/8783c2fd0cc4315b9a3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #9 検索範囲指定 --include/--exclude",
+      "author" : "@kaz-utashiro",
+      "day" : 9,
+      "url" : "https://qiita.com/kaz-utashiro/items/84f5a6be6bf996076c64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #10 検索ブロック指定",
+      "author" : "@kaz-utashiro",
+      "day" : 10,
+      "url" : "https://qiita.com/kaz-utashiro/items/ebc7ea99f800cfc8c90c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #11 拡張モジュールの使用法",
+      "author" : "@kaz-utashiro",
+      "day" : 11,
+      "url" : "https://qiita.com/kaz-utashiro/items/25a14e75380c39b5e0af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #12 初期設定ファイル .greplerc",
+      "author" : "@kaz-utashiro",
+      "day" : 12,
+      "url" : "https://qiita.com/kaz-utashiro/items/ebbeb8a5538a15ff04fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #13 カラーオプション",
+      "author" : "@kaz-utashiro",
+      "day" : 13,
+      "url" : "https://qiita.com/kaz-utashiro/items/b265deef9c9b1953a414"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #14 カラーオプション（続き）",
+      "author" : "@kaz-utashiro",
+      "day" : 14,
+      "url" : "https://qiita.com/kaz-utashiro/items/2b20e0226cffde213ce0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #15 カラーマップの切り替え",
+      "author" : "@kaz-utashiro",
+      "day" : 15,
+      "url" : "https://qiita.com/kaz-utashiro/items/16b5142ef7a89aa35380"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #16 入出力フィルター",
+      "author" : "@kaz-utashiro",
+      "day" : 16,
+      "url" : "https://qiita.com/kaz-utashiro/items/d19fe5ee859f31ce172c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #17 関数インタフェース",
+      "author" : "@kaz-utashiro",
+      "day" : 17,
+      "url" : "https://qiita.com/kaz-utashiro/items/09a5f5cf08ce314e2add"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "greple #18 関数オプション",
+      "author" : "@kaz-utashiro",
+      "day" : 18,
+      "url" : "https://qiita.com/kaz-utashiro/items/6e4b1f51455e587ef743"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@kaz-utashiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

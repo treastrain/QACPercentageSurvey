@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T03:50:35Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社システムアイ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 254,
+    "subscribers" : 5,
+    "title" : "システムアイ Advent Calendar  2021 Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "systemi",
+    "url" : "https://qiita.com/advent-calendar/2021/systemi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Fluid Frameworkを使って共同編集可能なお絵描きアプリに挑戦する",
+      "author" : "@Mr_hana",
+      "day" : 1,
+      "url" : "https://qiita.com/Mr_hana/items/7de0826cffabe9ad2e96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年の新人研修で社内サービスを作り上げた話（フロントエンド編）",
+      "author" : "@yasui_r",
+      "day" : 2,
+      "url" : "https://qiita.com/yasui_r/items/10656c33b93c65c1451d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文系卒の新人が伝えたいエンジニアへの道　社内新人研修編",
+      "author" : "@aniki6606",
+      "day" : 3,
+      "url" : "https://qiita.com/aniki6606/items/5537720206fef03f3c8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "null か undefined か、どちらを使うかが問題だ",
+      "author" : "@satosystems",
+      "day" : 4,
+      "url" : "https://qiita.com/satosystems/items/ca7d59fc0ad910153503"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElmのBrowserパッケージについて調べた",
+      "author" : "@KiNShiR",
+      "day" : 5,
+      "url" : "https://qiita.com/KiNShiR/items/43740a89e9f96d49387e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "配属先での研修の話～レガシーなwebアプリの裏側～",
+      "author" : "@sysi_yuya",
+      "day" : 6,
+      "url" : "https://qiita.com/sysi_yuya/items/d0779688409c983ceab0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本語で始めるプログラミング",
+      "author" : "@h_ishd",
+      "day" : 7,
+      "url" : "https://qiita.com/h_ishd/items/0ee292f40119eb1b80fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Hooksの第一歩【状態管理】",
+      "author" : "@r-terao",
+      "day" : 8,
+      "url" : "https://qiita.com/r-terao/items/10d6fe6047f1d117b59a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザ音声認識とGoogle Cloud Speech-To-Text APIを触ってみた❗",
+      "author" : "@tomlle",
+      "day" : 9,
+      "url" : "https://qiita.com/tomlle/items/5e15625e0babfe0df5b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twitterカードについて",
+      "author" : "@sysi_otsuka",
+      "day" : 10,
+      "url" : "https://qiita.com/sysi_otsuka/items/92aa2e4d80b0c389a632"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google PageSpeed Insightsを使ってみよう！",
+      "author" : "@d_sino1223",
+      "day" : 11,
+      "url" : "https://qiita.com/d_sino1223/items/576feaa28193a62708d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NullPointerExceptionのメッセージの改善について",
+      "author" : "@sysi_nomura",
+      "day" : 12,
+      "url" : "https://qiita.com/sysi_nomura/items/6e71c985bfaada5f1251"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "難読化について",
+      "author" : "@sh_suzuki",
+      "day" : 13,
+      "url" : "https://qiita.com/sh_suzuki/items/2adb748711eac0e5afd9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【java】スレッドセーフではないHashMap",
+      "author" : "@toku_2013",
+      "day" : 14,
+      "url" : "https://qiita.com/toku_2013/items/6750d869a683c2f0e33d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソースコードの可読性",
+      "author" : "@h_nakayama_0327",
+      "day" : 15,
+      "url" : "https://qiita.com/h_nakayama_0327/items/bcdf2cddafe17681ad9e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Java】設計未経験者に読んでほしい「千鳥格子模様」の作り方3選",
+      "author" : "@noah_fnt",
+      "day" : 16,
+      "url" : "https://qiita.com/noah_fnt/items/14374078b3be5338997b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Nativeでアプリ制作するために",
+      "author" : "@sh_minami",
+      "day" : 17,
+      "url" : "https://qiita.com/sh_minami/items/42421683926d9436fa69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonでデータ分析をしてみた。",
+      "author" : "@sysi_takada",
+      "day" : 18,
+      "url" : "https://qiita.com/sysi_takada/items/05875b0d6fa01eb49c7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "遅延環境変数について",
+      "author" : "@tana_tomo_1025",
+      "day" : 19,
+      "url" : "https://qiita.com/tana_tomo_1025/items/7f824a154f004f610386"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コレクションクラスの処理速度について",
+      "author" : "@k_mitsu",
+      "day" : 20,
+      "url" : "https://qiita.com/k_mitsu/items/62392c417fb37731c67f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュアなメールサーバーを構築して送受信できるようになるまで（前編）",
+      "author" : "@SI-K_Maeda",
+      "day" : 21,
+      "url" : "https://qiita.com/SI-K_Maeda/items/f814add3208cc5327373"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュアなメールサーバーを構築して送受信できるようになるまで（後編）",
+      "author" : "@y-orihara",
+      "day" : 22,
+      "url" : "https://qiita.com/y-orihara/items/0360bc58aeb3ee794c97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS初学者向け】AWS Amplify Stadioをさわってみた",
+      "author" : "@takekoji",
+      "day" : 23,
+      "url" : "https://qiita.com/takekoji/items/1a3de772774d40f6f161"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flask-RESTXでAPIを作ってあそぶ(基本編)",
+      "author" : "@LJsteve",
+      "day" : 24,
+      "url" : "https://qiita.com/LJsteve/items/43afabce54c07fcd31c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(M1/Apple Silicon)Macな人たちに贈る環境構築Tips集(Dotfiles付き)",
+      "author" : "@kkuzu",
+      "day" : 25,
+      "url" : "https://qiita.com/kkuzu/items/44983a544158fed88704"
+    }
+  ]
+}

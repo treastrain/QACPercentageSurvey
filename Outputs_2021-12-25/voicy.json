@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-25T23:35:49Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社Voicy",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 7,
+    "title" : "Voicy Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "voicy",
+    "url" : "https://qiita.com/advent-calendar/2021/voicy"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Voicyのデータ分析基盤VDAMの紹介",
+      "author" : "@yamagenii",
+      "day" : 1,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/01/211449"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoとKubernetesを用いたバッチ開発のすゝめ",
+      "author" : "@shiei_kawa",
+      "day" : 2,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/02/201319"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビルドツールのあれこれとGolang＋Bazelの導入",
+      "author" : "@miyukiaizawa",
+      "day" : 3,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/03/230000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "音を再生するのは簡単、停止と再開は闇というおはなし",
+      "author" : "@moonum",
+      "day" : 4,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/05/024000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toCプロダクトのPMMは何をしているのか。",
+      "author" : "@d_saito2110",
+      "day" : 5,
+      "url" : "https://note.com/daisuke_saito/n/n16de99a15748"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モチクラ偏差値47だったVoicyがAAA獲得までにやった５つのこと",
+      "author" : "@y_katsumura",
+      "day" : 6,
+      "url" : "https://note.com/inkstoneheart/n/nc9d3671104a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非エンジニアが音響知識だけでffmpegのコードサンプル作ってみた",
+      "author" : "@satoru_kitajima",
+      "day" : 7,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/07/130000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "巷で話題の「音声 x AI」の技術をいろいろ紹介",
+      "author" : "@thousanda",
+      "day" : 8,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/08/195118"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャーからテックリードに戻ってみて役に立った３つの考え方",
+      "author" : "@voicysm",
+      "day" : 9,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/10/014236"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最近のRustとOSの状況についてざっくり紹介",
+      "author" : "@miyukiaizawa",
+      "day" : 10,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/10/235200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Voicyに入社しました",
+      "author" : "@entaku0818",
+      "day" : 11,
+      "url" : "https://note.com/entaku0818/n/n3be7cf9c4fbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web Speech APIの音声認識を使ってWebページを作ってみる",
+      "author" : "@komura_c",
+      "day" : 12,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/13/053054"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "設計原則をデザインパターンで考える",
+      "author" : "@natacon",
+      "day" : 13,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/13/224641"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@tamo_hory"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datadogのモニター設定をTerraformのImport機能を使ってコード化する方法",
+      "author" : "@voicysm",
+      "day" : 15,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/15/000146"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パーソナリティダッシュボードを改善した話",
+      "author" : "@shuto_h",
+      "day" : 16,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/21/191303"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@miyukiaizawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトマネージャーになりたいという人が一番最初に読む軽めのnote",
+      "author" : "@d_saito2110",
+      "day" : 18,
+      "url" : "https://note.com/daisuke_saito/n/nc11fbc519f35"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@minorii_jp"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go 1.18 Betaでジェネエリクスを使ったFilter/Mapを作ってみる",
+      "author" : "@yuji0316",
+      "day" : 20,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/20/122055"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " ドメイン駆動設計 モデリング/実装ガイドを読んだ感想",
+      "author" : "@katsu105",
+      "day" : 21,
+      "url" : "https://qiita.com/katsu105/items/eba1065aaca81af8cce3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EMの定義から考えてEM始めました",
+      "author" : "@yamagenii",
+      "day" : 22,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/23/041343"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoのSQLBoilerでDistinctを利用する方法とその問題点",
+      "author" : "@futa_ojiro",
+      "day" : 23,
+      "url" : "https://tech-blog.voicy.jp/entry/2021/12/23/215840"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@miyukiaizawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shiei_kawa"
+    }
+  ]
+}

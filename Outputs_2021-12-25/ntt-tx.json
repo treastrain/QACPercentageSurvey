@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:36:02Z",
+  "calendar_meta_data" : {
+    "author" : "@ntt-tx",
+    "category" : "企業・学校・団体",
+    "lgtm" : 266,
+    "subscribers" : 13,
+    "title" : "NTTテクノクロス Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "ntt-tx",
+    "url" : "https://qiita.com/advent-calendar/2021/ntt-tx"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】ひとりでもOrganizationsを使うと便利で勉強になる話(AWS SSOの始め方を手厚く)",
+      "author" : "@kzmqiita",
+      "day" : 1,
+      "url" : "https://qiita.com/kzmqiita/items/55d34245f5adb7ecc4b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモート時代の「今どこにいるの？」をpythonで",
+      "author" : "@ea-yasuda",
+      "day" : 2,
+      "url" : "https://qiita.com/ea-yasuda/items/c09aee7c898f7c30be01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】利用料金の詳細通知＆自動化",
+      "author" : "@inoue-mn",
+      "day" : 3,
+      "url" : "https://qiita.com/inoue-mn/items/d28a2bb6091bbc7bbec5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【webアプリ】画像の背景透過処理を行うwebサービスを作ってみた",
+      "author" : "@PoodleMaster",
+      "day" : 4,
+      "url" : "https://qiita.com/PoodleMaster/items/e1f97e426c2a13acc861"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザからのフィードバック情報をプロジェクト管理サービスに連携",
+      "author" : "@nakasho-dev",
+      "day" : 5,
+      "url" : "https://qiita.com/nakasho-dev/items/2db00a50a00849ac63f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSのアニメーション設定に合わせたCSS制御",
+      "author" : "@suzukima",
+      "day" : 6,
+      "url" : "https://qiita.com/suzukima/items/0e4fc6209cd93af503dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle® MySQLのヒントについて",
+      "author" : "@ttttfx702p",
+      "day" : 7,
+      "url" : "https://qiita.com/ttttfx702p/items/cb335d74144f25bdd24f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSの分散負荷テストソリューション及び負荷テストのノウハウ",
+      "author" : "@horietakehiro",
+      "day" : 8,
+      "url" : "https://qiita.com/horietakehiro/items/36f6f9b129fa3b65b225"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "世界はすぐそこに。標準化活動を通じて。",
+      "author" : "@thetakei",
+      "day" : 9,
+      "url" : "https://qiita.com/thetakei/items/e23e25695c5112315eed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AutoML】ローコード機械学習でKaggleデータを料理してみよう",
+      "author" : "@yuitomo",
+      "day" : 10,
+      "url" : "https://qiita.com/yuitomo/items/39cc49a5ed7a36b6d63f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pg_rman の増分バックアップは前回バックアップからの差分だった！もう迷わない！",
+      "author" : "@kn-tom",
+      "day" : 11,
+      "url" : "https://qiita.com/kn-tom/items/8f55cdbe044242295be0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WSL2でmicroK8sを使ってみた　～トラブルシューティングを添えて～",
+      "author" : "@yuyhiraka",
+      "day" : 12,
+      "url" : "https://qiita.com/yuyhiraka/items/a257333844a365140f4e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "派生元のブランチでの部分的な履歴改変をgit rebase -iで簡単に取り込む",
+      "author" : "@nobeans",
+      "day" : 13,
+      "url" : "https://qiita.com/nobeans/items/ed14bf710c4c05845a0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外活動を通じて得た英語の学び方＋α",
+      "author" : "@korodroid",
+      "day" : 14,
+      "url" : "https://qiita.com/korodroid/items/193788fd1a911be77725"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メモリフォレンジックCTF「MemLabs」Lab3にVolatility3で挑戦してみた",
+      "author" : "@kzzzkr23",
+      "day" : 15,
+      "url" : "https://qiita.com/kzzzkr23/items/618a226028bcddc7d495"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity+Android+Vuforia】クリスマスパーティ向けレンタルトナカイ",
+      "author" : "@sa-da",
+      "day" : 16,
+      "url" : "https://qiita.com/sa-da/items/219280d69e280af6ebab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kibana CanvasとMicrosoft SharePointを連携して、アドベントカレンダーを盛り上げよう",
+      "author" : "@yu_kawachaki",
+      "day" : 17,
+      "url" : "https://qiita.com/yu_kawachaki/items/84aa98dc31c28f12b1e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerソフトウェアでも（お手軽に）SSL化対応したい",
+      "author" : "@Arithmetic02",
+      "day" : 18,
+      "url" : "https://qiita.com/Arithmetic02/items/61ed65e4516884f6d095"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUIを使ってWidgetを実装",
+      "author" : "@subutakahiro",
+      "day" : 19,
+      "url" : "https://qiita.com/subutakahiro/items/ce2e568050701ffb2384"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterアプリに(ホーム)ウィジェットを追加してみる＋α",
+      "author" : "@korodroid",
+      "day" : 20,
+      "url" : "https://qiita.com/korodroid/items/ef8224002546b5bc8b1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jetpack Composeが正式版になったのでQiitaビューアに機能を追加してみた",
+      "author" : "@etctaro",
+      "day" : 21,
+      "url" : "https://qiita.com/etctaro/items/394945e4f7fe479db4d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】QuickSightの便利機能を検証してみた",
+      "author" : "@yukimuraki",
+      "day" : 22,
+      "url" : "https://qiita.com/yukimuraki/items/fc20b3474242ddf6c9f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSの社内研修歴5年の講師が、研修環境準備のノウハウを公開します",
+      "author" : "@watany",
+      "day" : 23,
+      "url" : "https://qiita.com/watany/items/30572e8f96bdf99417c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Queryを状態管理ライブラリとして使い倒そう！/useQStateのススメ",
+      "author" : "@uehaj",
+      "day" : 24,
+      "url" : "https://qiita.com/uehaj/items/4e41e294181b3771e77a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticsearch 7.16からの新機能！障害時のログ傾向を迅速に掴めるか？Categorize Text Aggregationを試してみた",
+      "author" : "@j-yama",
+      "day" : 25,
+      "url" : "https://qiita.com/j-yama/items/e7d2495b65d4e8dad7c7"
+    }
+  ]
+}

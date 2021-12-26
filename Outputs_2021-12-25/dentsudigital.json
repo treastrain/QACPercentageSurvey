@@ -1,0 +1,166 @@
+{
+  "created_at" : "2021-12-25T21:19:02Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社電通デジタル",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 7,
+    "title" : "Dentsu Digital Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "dentsudigital",
+    "url" : "https://qiita.com/advent-calendar/2021/dentsudigital"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "今年もDentsu Digital Advent Calendar2021はじまります！",
+      "author" : "@dd_techblog",
+      "day" : 1,
+      "url" : "https://note.com/dd_techblog/n/n27ecb1872093"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DMBOK社内勉強会・データモデリングで解決する問題を意識する",
+      "author" : "@dd_techblog",
+      "day" : 2,
+      "url" : "https://note.com/dd_techblog/n/n51485cc14460"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vimの新しい自動補完プラグイン「ddc.vim」を使ってみた",
+      "author" : "@dd_techblog",
+      "day" : 3,
+      "url" : "https://note.com/dd_techblog/n/n97f2b6ca09d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bqコマンドでBigQieryの定期的なスケジューリング設定をしてみよう",
+      "author" : "@dd_techblog",
+      "day" : 6,
+      "url" : "https://note.com/dd_techblog/n/nfa6f655eb8d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DynamoDBの一括書き込みCLIで運用作業を楽にした話",
+      "author" : "@dd_techblog",
+      "day" : 7,
+      "url" : "https://note.com/dd_techblog/n/n3928f8966624"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsの利用遍歴と認証情報管理の検討(電通デジタル自社開発部門 2021年版)",
+      "author" : "@dd_techblog",
+      "day" : 8,
+      "url" : "https://note.com/dd_techblog/n/n0743446be932"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQLでAUCを算出する方法",
+      "author" : "@dd_techblog",
+      "day" : 9,
+      "url" : "https://note.com/dd_techblog/n/n8bb3519024a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AIを理解する技術ーSHAPの原理と実装ー",
+      "author" : "@dd_techblog",
+      "day" : 10,
+      "url" : "https://note.com/dd_techblog/n/n18d354b4defa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非劣性検定を用いたA/Aテストの方法",
+      "author" : "@dd_techblog",
+      "day" : 14,
+      "url" : "https://note.com/dd_techblog/n/n9a4e99b73da2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "キーボードショートカットでPythonコードを実行する（Windows用）",
+      "author" : "@dd_techblog",
+      "day" : 15,
+      "url" : "https://note.com/dd_techblog/n/n3ae7beb4eeb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OneTempoを通してビジネスとテクノロジーの融合について考える",
+      "author" : "@dd_techblog",
+      "day" : 16,
+      "url" : "https://note.com/dd_techblog/n/n67be2c4269a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RIE（Runtime Interface Emulator）とはじめるコンテナLambda",
+      "author" : "@dd_techblog",
+      "day" : 17,
+      "url" : "https://note.com/dd_techblog/n/n3187a9036354"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub ActionsでLocalStackを動かしてみた",
+      "author" : "@dd_techblog",
+      "day" : 20,
+      "url" : "https://note.com/dd_techblog/n/n75bffb92874d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kaggleの「Google Brain - Ventilator Pressure Prediction」コンペで、17位となった参加記録",
+      "author" : "@dd_techblog",
+      "day" : 21,
+      "url" : "https://note.com/dd_techblog/n/n218f96e13d8d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Airflow のstart_dateとexecution_date(logical date)を把握する",
+      "author" : "@dd_techblog",
+      "day" : 22,
+      "url" : "https://note.com/dd_techblog/n/n54bba21c8598"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリエーティブディレクターからみるプロトタイピングの可能性",
+      "author" : "@dd_techblog",
+      "day" : 23,
+      "url" : "https://note.com/dd_techblog/n/n845a60843a8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dentsu Digital テックブログ2021振り返り",
+      "author" : "@dd_techblog",
+      "day" : 24,
+      "url" : "https://note.com/dd_techblog/n/nacdcfe051bc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

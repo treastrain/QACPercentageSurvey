@@ -1,0 +1,157 @@
+{
+  "created_at" : "2021-12-25T19:00:59Z",
+  "calendar_meta_data" : {
+    "author" : "@kimutyam",
+    "category" : "企業・学校・団体",
+    "lgtm" : 20,
+    "subscribers" : 6,
+    "title" : "株式会社カケハシ x TypeScript Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "kkhs-ts",
+    "url" : "https://qiita.com/advent-calendar/2021/kkhs-ts"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【基礎編】fp-tsのEitherを使った異常系処理",
+      "author" : "@kimutyam",
+      "day" : 1,
+      "url" : "https://kimutyam.medium.com/fp-ts-either1-767570abeffb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【応用編】fp-tsのEitherを使った異常系処理",
+      "author" : "@kimutyam",
+      "day" : 2,
+      "url" : "https://kimutyam.medium.com/fp-ts-either2-6d48e8297a01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "esbuild + React(TS) で実現する超軽量な開発環境 ",
+      "author" : "@hedrall",
+      "day" : 3,
+      "url" : "https://qiita.com/hedrall/items/43b6d705ab8dc78e6321"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fp-ts Eqで同一性と等価性を表現する",
+      "author" : "@kimutyam",
+      "day" : 6,
+      "url" : "https://kimutyam.medium.com/fp-ts-eq-ca99a9d8a377"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[fp-ts] 公称型とIsoとPrism",
+      "author" : "@kimutyam",
+      "day" : 7,
+      "url" : "https://kimutyam.medium.com/newtype-ts-iso-prism-15b65414889d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptのライブラリ内で参照されているライブラリを差し替えるちょっとしたTIPS",
+      "author" : "@hedrall",
+      "day" : 8,
+      "url" : "https://qiita.com/hedrall/items/f5cbb83964dc17ee677b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Code Firstで疲弊しないOpenAPI活用方法",
+      "author" : "@hedrall",
+      "day" : 10,
+      "url" : "https://qiita.com/hedrall/items/ecc2010d8bc458a7b95e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "まとまったデータを小分けにして一定間隔でリクエストする with Typescript",
+      "author" : "@e_ishiguro",
+      "day" : 13,
+      "url" : "https://kakehashi-dev.hatenablog.com/entry/2021/12/13/143000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜNestJSを導入したか",
+      "author" : "@kimutyam",
+      "day" : 14,
+      "url" : "https://kimutyam.medium.com/why-nestjs-2d8ead72f5cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.js + TypeScript で gRPCに入門する [前編: gRPCとは]",
+      "author" : "@hedrall",
+      "day" : 16,
+      "url" : "https://qiita.com/hedrall/items/038a2b29d27dd631be8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバーサイドもバリデーションで楽しよう！",
+      "author" : "@e_ishiguro",
+      "day" : 17,
+      "url" : "https://kakehashi-dev.hatenablog.com/entry/2021/12/17/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト用にtsconfig.jsonを分けてみた",
+      "author" : "@sadakot",
+      "day" : 18,
+      "url" : "https://kakehashi-dev.hatenablog.com/entry/2021/12/18/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【TypeScript】Yaml を読み込んで（無理やり）型付けする",
+      "author" : "@chuck0523",
+      "day" : 20,
+      "url" : "https://kakehashi-dev.hatenablog.com/entry/2021/12/20/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node.js + TypeScript で gRPCに入門する [後編: 実装編]",
+      "author" : "@hedrall",
+      "day" : 21,
+      "url" : "https://qiita.com/hedrall/items/9f4c03c3a6518504473a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

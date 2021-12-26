@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-25T23:46:33Z",
+  "calendar_meta_data" : {
+    "author" : "@kaizen_nagoya",
+    "category" : "OS",
+    "lgtm" : 52,
+    "subscribers" : 102,
+    "title" : "docker  Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "docker",
+    "url" : "https://qiita.com/advent-calendar/2021/docker"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "DockerfileにおけるCMDとRUNの挙動",
+      "author" : "@subretu",
+      "day" : 1,
+      "url" : "https://qiita.com/subretu/items/31a387510f84daaa4c1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows から SMB で ボリューム内のファイルを見やすくする",
+      "author" : "@advanceboy",
+      "day" : 2,
+      "url" : "https://aquasoftware.net/blog/?p=1637"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あなたもdocker, 私もdocker。docker(130)",
+      "author" : "@kaizen_nagoya",
+      "day" : 3,
+      "url" : "https://qiita.com/kaizen_nagoya/items/8f2746f10f30b575d0a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "置換ができない/複数ある場合に sed の終了コード0以外にして docker build を失敗させる",
+      "author" : "@advanceboy",
+      "day" : 4,
+      "url" : "https://aquasoftware.net/blog/?p=1657"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@advanceboy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows PCでDocker Desktopを利用せずにLinuxコンテナーとWindowsコンテナー環境を構築する方法",
+      "author" : "@hatasaki",
+      "day" : 6,
+      "url" : "https://qiita.com/hatasaki/items/1b945f940c23e0ee36f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker Desktop 4.2.0リリース内容まとめ",
+      "author" : "@okazaki3",
+      "day" : 7,
+      "url" : "https://sanshiro.dev/article/5650452045627392"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerをどっかーらどうやって使えばいいんでしょう。TOPPERS/FMP on RaspberryPi with Macintosh編 ５つの関門。「名古屋のIoTは名古屋のOSで」。docker (37) ",
+      "author" : "@kaizen_nagoya",
+      "day" : 8,
+      "url" : "https://qiita.com/kaizen_nagoya/items/9c46c6da8ceb64d2d7af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " Misra Example Suite at docker コンパイル完了までの道のり。docker(154)",
+      "author" : "@kaizen_nagoya",
+      "day" : 9,
+      "url" : "https://qiita.com/kaizen_nagoya/items/71f04a0204d5a1114577"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker ホスト-コンテナ間でのユーザー/グループの分離をしたい",
+      "author" : "@blueskyarea",
+      "day" : 10,
+      "url" : "https://qiita.com/blueskyarea/items/7453c5782bbc16b00415"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "docker Advent Calendar 2021 を満席にする5つの方法",
+      "author" : "@kaizen_nagoya",
+      "day" : 11,
+      "url" : "https://qiita.com/kaizen_nagoya/items/23b03fd178b7c0803cea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あなたもdocker, 私もdockerから５ヶ月。",
+      "author" : "@kaizen_nagoya",
+      "day" : 12,
+      "url" : "https://qiita.com/kaizen_nagoya/items/5bd936de6d26c914af4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bolt for Pythonを利用して作ったSlackアプリをHacobuneでイゴかす （2021/12/13）",
+      "author" : "@torifukukaiou",
+      "day" : 13,
+      "url" : "https://qiita.com/torifukukaiou/items/e3c9793c052ca7b19f31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixirで作ったSlackアプリをHacobuneでイゴかす （2021/12/14）",
+      "author" : "@torifukukaiou",
+      "day" : 14,
+      "url" : "https://qiita.com/torifukukaiou/items/4411c9cdbba926b8d575"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker コンテナで特定のコマンドしか実行できないユーザーを作成したい",
+      "author" : "@blueskyarea",
+      "day" : 15,
+      "url" : "https://qiita.com/blueskyarea/items/4e3c8888f4358b6fde64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "docker/kubernetes で sysctl を設定する",
+      "author" : "@kimullaa",
+      "day" : 16,
+      "url" : "https://www.kimullaa.com/entry/2021/12/16/001200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サブドメインごとに別のアプリを雑にデプロイする",
+      "author" : "@inatatsu_csg",
+      "day" : 17,
+      "url" : "https://qiita.com/inatatsu_csg/items/1b2ca11689ebe2eea875"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Docker Compose】Route53管理下のドメインのウェブサイトにhttpsアクセスできるようにする",
+      "author" : "@polarbear08",
+      "day" : 18,
+      "url" : "https://qiita.com/polarbear08/items/a0f35e5a47a3d0c67970"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WindowsでDockerデーモンを自動起動させる方法をまとめてみる without Docker Desktop",
+      "author" : "@mechagumi",
+      "day" : 19,
+      "url" : "https://qiita.com/mechagumi/items/6838cd313d8b26b4b438"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@kanta_yamaoka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オフラインで Docker 環境下の開発を行うときに困ったこと（Web アプリ版）",
+      "author" : "@noritakaIzumi",
+      "day" : 22,
+      "url" : "https://qiita.com/noritakaIzumi/items/499b80c90312caac82a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elixirで作ったLINEボットをHacobuneでイゴかす",
+      "author" : "@torifukukaiou",
+      "day" : 23,
+      "url" : "https://qiita.com/torifukukaiou/items/7283f17c956a567e660e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerコンテナ間で通信ができることをGitPod上でササっと確認する方法",
+      "author" : "@TakaoMori",
+      "day" : 24,
+      "url" : "https://qiita.com/TakaoMori/items/e0747f24e3ec58595f7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kazurego7"
+    }
+  ]
+}

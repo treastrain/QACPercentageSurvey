@@ -1,0 +1,151 @@
+{
+  "created_at" : "2021-12-26T04:01:08Z",
+  "calendar_meta_data" : {
+    "author" : "@qqqqq",
+    "category" : "その他",
+    "lgtm" : 18,
+    "subscribers" : 21,
+    "title" : "レイトレーシング(レイトレ) Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "raytracing",
+    "url" : "https://qiita.com/advent-calendar/2021/raytracing"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "逆関数法とジオメトリサンプリング実装例",
+      "author" : "@shocker-0x15",
+      "day" : 4,
+      "url" : "https://rayspace.xyz/CG/contents/geometry_sampling_implementation/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "逆関数が無くてもできる逆関数法",
+      "author" : "@qqqqq",
+      "day" : 11,
+      "url" : "https://ykozw.github.io/post/trianglecut.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@hole"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Godot4 に実装されるグローバルイルミネーションについて調べてみる",
+      "author" : "@Zin",
+      "day" : 14,
+      "url" : "https://zin-box.blogspot.com/2021/12/godot4.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "局所一様媒質に対する Volume Rendering 方程式の漸化式",
+      "author" : "@ishiyama_",
+      "day" : 16,
+      "url" : "https://k-ishiyama.github.io/posts/202112_advent_calendar/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@kamikiich"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モーションブラーのレンダリング",
+      "author" : "@kugimasa",
+      "day" : 18,
+      "url" : "https://kugi-masa.hatenablog.com/entry/2021/12/25/230859"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スペクトルレンダリング",
+      "author" : "@Penguin_Ice",
+      "day" : 19,
+      "url" : "https://qiita.com/Penguin_Ice/items/37845fe3e2622ca4d2fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NVIDIA OptiXでRay tracing in One Weekend - Part1 (準備編)",
+      "author" : "@sketchbooks99",
+      "day" : 20,
+      "url" : "https://qiita.com/sketchbooks99/items/de98db331f8c8d24628c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hemispherical Harmonic Interpolationを用いたRadiance Caching（その１）",
+      "author" : "@KionIm",
+      "day" : 21,
+      "url" : "https://qiita.com/KionIm/items/e29e6882afadb2ce445f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@8picoz"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NEEとMISの実装",
+      "author" : "@Kinakomoti2357",
+      "day" : 23,
+      "url" : "https://kinakomoti321.hatenablog.com/entry/2021/12/23/035027"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一様媒質のモンテカルロレイトレーシング",
+      "author" : "@yumcyawiz",
+      "day" : 24,
+      "url" : "https://blog.teastat.uk/post/2021/12/montecarlo-raytracing-of-homogeneous-medium/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "色付きボリュームのモンテカルロレイトレーシング",
+      "author" : "@yumcyawiz",
+      "day" : 25,
+      "url" : "https://blog.teastat.uk/post/2021/12/montecarlo-raytracing-of-colored-volume/"
+    }
+  ]
+}

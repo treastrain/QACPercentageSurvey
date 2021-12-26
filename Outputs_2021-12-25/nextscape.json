@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-26T00:14:03Z",
+  "calendar_meta_data" : {
+    "author" : "@nextscape",
+    "category" : "企業・学校・団体",
+    "lgtm" : 58,
+    "subscribers" : 0,
+    "title" : "NEXTSCAPE Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "nextscape",
+    "url" : "https://qiita.com/advent-calendar/2021/nextscape"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Container Apps の Reverse Proxy に YARP を使ってみた",
+      "author" : "@TonyTonyKun",
+      "day" : 1,
+      "url" : "https://gooner.hateblo.jp/entry/2021/12/01/090318"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Application Gateway に AppService 証明書 を適用時にはまったこと",
+      "author" : "@mamikaihatsu",
+      "day" : 2,
+      "url" : "https://blog.nextscape.net/archives/2021/12/02/application-gateway-app-service-ssl-certificate"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムプロジェクトを始める時のAzure DevOps設定例",
+      "author" : "@zt_megane",
+      "day" : 3,
+      "url" : "https://blog.nextscape.net/archives/azuredevops_scrum"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : ".NET5でWPFアプリ作るサンプル書きます",
+      "author" : "@yasuda_nextscape",
+      "day" : 4,
+      "url" : "https://blog.nextscape.net/archives/2021/12/04/085814"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Batchを利用するにあたっての考慮事項",
+      "author" : "@m-otoguro",
+      "day" : 5,
+      "url" : "https://blog.nextscape.net/archives/2021/12/05/azure-batch-design"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Blob Storage が SFTP サポートしたので触ってみた",
+      "author" : "@ns-jabe",
+      "day" : 6,
+      "url" : "https://blog.nextscape.net/archives/2021/12/06/azure-blob-sftp"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MRTK Figma Bridge for Unityを試す",
+      "author" : "@y-mic",
+      "day" : 7,
+      "url" : "https://blog.nextscape.net/archives/2021/12/07/091225"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア１年目にやったこと、大事だと思ったこと",
+      "author" : "@yuzen-yk",
+      "day" : 8,
+      "url" : "https://yukki-yuzen666.hatenablog.com/entry/2021/12/08/105449"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "F# 6でtask式なるものが追加されていたので、F#と併せて紹介してみる",
+      "author" : "@kurunin52",
+      "day" : 9,
+      "url" : "https://blog.nextscape.net/archives/2021/12/10/000728"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mayaで出力したFBXファイルを検査する",
+      "author" : "@hiroakit",
+      "day" : 10,
+      "url" : "https://blog.nextscape.net/archives/2021/12/10/190000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今宵のツリーのように",
+      "author" : "@nextscape",
+      "day" : 11,
+      "url" : "https://blog.nextscape.net/archives/adventcalendar2021/1211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かつてVueに詳しかったひとに捧げる2021年末のVue",
+      "author" : "@ns_iwa",
+      "day" : 12,
+      "url" : "https://qiita.com/ns_iwa/items/a3ca3d5ecf261ee2ca00"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UI自動テストツール Magic Pod の紹介",
+      "author" : "@ns_rsuzuki",
+      "day" : 13,
+      "url" : "https://blog.nextscape.net/archives/2021/12/13/075321"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "組織図をデータベースで表現する",
+      "author" : "@ied",
+      "day" : 14,
+      "url" : "https://blog.nextscape.net/archives/2021/12/14/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate Desktop で出勤時の打刻 (と作業メモファイルの作成) を半自動化",
+      "author" : "@papa_kayu",
+      "day" : 15,
+      "url" : "https://blog.nextscape.net/archives/2021/12/15/022137"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue.jsひよこクラブ 第1限 Windows10環境構築",
+      "author" : "@nya-n",
+      "day" : 16,
+      "url" : "https://blog.nextscape.net/archives/adventcalender2021/1216"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@nobuhisashiki"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power BIで「ファイルの結合」を使うとき何が起こっているか、ついでにカスタム関数",
+      "author" : "@ns-horikoshi",
+      "day" : 18,
+      "url" : "https://blog.nextscape.net/archives/2021/12/18/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASP.NET Core 6のブートストラップ処理",
+      "author" : "@ryuichi111std",
+      "day" : 19,
+      "url" : "https://blog.nextscape.net/archives/2021/12/19/000107"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XmasイルミネよりGlobalイルミネだった私とホログラム",
+      "author" : "@sbubu12",
+      "day" : 20,
+      "url" : "https://blog.nextscape.net/archives/2021/12/20/142310"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kentico社のHeadless CMS\"Kentico Kontent\"について",
+      "author" : "@kodama0101",
+      "day" : 21,
+      "url" : "https://blog.nextscape.net/archives/2021/12/21/075140"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイル資格PMI-ACPの勉強法と試験の注意点",
+      "author" : "@yos_yas5050",
+      "day" : 22,
+      "url" : "https://blog.nextscape.net/archives/2021/12/22/130139"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoloLens 2 の Moving Platform Mode を試した様子",
+      "author" : "@h_ibaraki",
+      "day" : 23,
+      "url" : "https://withmr.nextscape.net/2021/12/hololens-2-mpm/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Attribute-based Access Control (ABAC)調査隊",
+      "author" : "@ns_mitsu",
+      "day" : 24,
+      "url" : "https://blog.nextscape.net/archives/2021/12/23/175723"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "僕が会社を大きくしていこうと思ったきっかけ",
+      "author" : "@nextscape",
+      "day" : 25,
+      "url" : "https://blog.nextscape.net/archives/2021/12/25/000000"
+    }
+  ]
+}

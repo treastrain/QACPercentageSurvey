@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T05:13:29Z",
+  "calendar_meta_data" : {
+    "author" : "@pleasanter_oss",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 301,
+    "subscribers" : 14,
+    "title" : "プリザンター(Pleasanter) Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "pleasanter",
+    "url" : "https://qiita.com/advent-calendar/2021/pleasanter"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンターのレコードのアクセス制御を使いこなす",
+      "author" : "@Implem",
+      "day" : 1,
+      "url" : "https://qiita.com/Implem/items/f35e876bcd4cb34162f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンターの通知機能が存在する世界に生きていてよかった。",
+      "author" : "@pleasanter_oss",
+      "day" : 2,
+      "url" : "https://qiita.com/pleasanter_oss/items/8216883ddd3822b8a2b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンター）サーバスクリプトで誕生日から年齢を自動計算する（改）",
+      "author" : "@YoshikiSawada",
+      "day" : 3,
+      "url" : "https://qiita.com/YoshikiSawada/items/9965560e33d450bff63f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "n8n.ioでプリザンターのノードを自作してAPI連携してみた！",
+      "author" : "@noro_works",
+      "day" : 4,
+      "url" : "https://qiita.com/noro_works/items/7699ad9b7abc9f43efd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pleasanter API接続用　Glue code生成プログラムを作ってみた",
+      "author" : "@yamada28go",
+      "day" : 5,
+      "url" : "https://qiita.com/yamada28go/items/98db1e9f6f69f8ccb07b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PleasanterとExcelを接続してみた－応用編",
+      "author" : "@m-isik",
+      "day" : 6,
+      "url" : "https://qiita.com/m-isik/items/0abfd51a22587bed2e47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pleasnterの一覧画面に取扱説明書のリンクを追加する",
+      "author" : "@funakura1",
+      "day" : 7,
+      "url" : "https://qiita.com/funakura1/items/763ee0fe7c58ba675eb1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンターの通知機能は便利だからえらい。",
+      "author" : "@pleasanter_oss",
+      "day" : 8,
+      "url" : "https://qiita.com/pleasanter_oss/private/c1fedbb0be0e1669aea4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンターのサーバスクリプトをVSCodeでデバッグする",
+      "author" : "@imp-kawano",
+      "day" : 9,
+      "url" : "https://qiita.com/imp-kawano/items/13ca753390de49cfbd45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PleasanterのSysLogsテーブルを閲覧するアプリを ASP.NET Core 5.0 (Razor Pages) で作ってみた",
+      "author" : "@pierusan2010",
+      "day" : 10,
+      "url" : "https://qiita.com/pierusan2010/items/84b9012de9ab5fd9cc24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デモ用にPleasanter1.2 + PostgreSQL環境がサクッと作成できるdocker-compose.ymlを書いてみた！",
+      "author" : "@Ooooooomin_365",
+      "day" : 11,
+      "url" : "https://qiita.com/Ooooooomin_365/items/da6637ab06d2c5881d7c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【衝撃】DOM操作が辛いのでjsテンプレートエンジンを追加しようと思ったが、Pleasanterには既に実装されていた",
+      "author" : "@ko3n",
+      "day" : 12,
+      "url" : "https://qiita.com/ko3n/items/59977ff5f5016d329730"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンターをちょっとメイクアップしてみる。",
+      "author" : "@pleasanter_oss",
+      "day" : 13,
+      "url" : "https://qiita.com/pleasanter_oss/items/164c1d6f23935f85a35b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PleasanterとExcelを接続してみた－活用編①",
+      "author" : "@m-isik",
+      "day" : 14,
+      "url" : "https://qiita.com/m-isik/items/d716292f0890d864777d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サイト全体に「一覧画面の一行おき色付け」を設定する方法",
+      "author" : "@ccs-tanaka",
+      "day" : 15,
+      "url" : "https://www.ceccs.co.jp/archives/blog/126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「その他」を選択したときだけ入力できる枠の作り方",
+      "author" : "@ccs-tanaka",
+      "day" : 16,
+      "url" : "https://www.ceccs.co.jp/archives/blog/127"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンターでも愛し愛されルックアップ。",
+      "author" : "@sesese",
+      "day" : 17,
+      "url" : "https://qiita.com/sesese/items/913314395aa7f8230d02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VBAは嫌なのでPleasanter APIからPower QueryでExcelに割振りたいと思います。（＋Power BI連携も）",
+      "author" : "@ko3n",
+      "day" : 18,
+      "url" : "https://qiita.com/ko3n/items/87f706da3c80f675657d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pleasanterのレコード情報をPDFにして出力してみた",
+      "author" : "@nwtba1plt2610",
+      "day" : 19,
+      "url" : "https://qiita.com/nwtba1plt2610/items/ceba2111627691676494"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PleasanterとExcelを接続してみた－活用編②",
+      "author" : "@m-isik",
+      "day" : 20,
+      "url" : "https://qiita.com/m-isik/items/79a6301349a851454537"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンプレ環境でのPleasanterを使って電子帳簿保存法対応",
+      "author" : "@rs76070516",
+      "day" : 21,
+      "url" : "https://qiita.com/rs76070516/items/3ee12a2cbcfdcacb544a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PleasanterからPowerShellを使ってCSVデータをエクスポートする",
+      "author" : "@kTsuji",
+      "day" : 22,
+      "url" : "https://qiita.com/kTsuji/items/22046e46d5621f284b20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「フィールドCSS」とブラウザの開発者モードを使って、スタイルをカスタマイズ！",
+      "author" : "@ccs-moriyama",
+      "day" : 23,
+      "url" : "https://www.ceccs.co.jp/archives/blog/128"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスイブに送る「いいね」のプレゼント！",
+      "author" : "@h-ogawa",
+      "day" : 24,
+      "url" : "https://pleasanter.hatenablog.jp/entry/20211224_iine"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プリザンターの進化はあなたのために。",
+      "author" : "@pleasanter_oss",
+      "day" : 25,
+      "url" : "https://qiita.com/pleasanter_oss/items/7c32dbc419fd0e8fdc2f"
+    }
+  ]
+}

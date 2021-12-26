@@ -1,0 +1,183 @@
+{
+  "created_at" : "2021-12-25T21:56:57Z",
+  "calendar_meta_data" : {
+    "author" : "@okinocchi",
+    "category" : "企業・学校・団体",
+    "lgtm" : 36,
+    "subscribers" : 6,
+    "title" : "KINTO Technologies - トヨタ車のサブスク「KINTO」開発中！ Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "kinto-technologies",
+    "url" : "https://qiita.com/advent-calendar/2021/kinto-technologies"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SES。もう自前バウンス対応は不要かも。",
+      "author" : "@okinocchi",
+      "day" : 1,
+      "url" : "https://qiita.com/okinocchi/items/dfc1db62d9f3988e213d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions での Commit Message Injection に気をつける",
+      "author" : "@batimiasu",
+      "day" : 2,
+      "url" : "https://qiita.com/batimiasu/items/a7340d7d628647a9b46a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアリングマネージャーが1 on 1でやらないほうがいいこと５か条",
+      "author" : "@kumaaaan",
+      "day" : 3,
+      "url" : "https://kumaaaan.hatenablog.com/entry/2021/12/01/113452"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@Yangliming1983"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GKIDP生体認証標準化調査第一弾",
+      "author" : "@asahi831116",
+      "day" : 5,
+      "url" : "https://qiita.com/asahi831116/items/6e2b2dd32c7a2676c0d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFrontを利用してAPIの応答時間を短縮",
+      "author" : "@ishihara-m",
+      "day" : 6,
+      "url" : "https://qiita.com/ishihara-m/items/0b07def34bd3a3b3925e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS eventbridgeとSpringBatchで作るPush通知バッチ",
+      "author" : "@kogawaKinto",
+      "day" : 8,
+      "url" : "https://qiita.com/kogawaKinto/items/c0de5c07c89c1c289e44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MyBatis-Plusを使って見た",
+      "author" : "@tsi-gen",
+      "day" : 9,
+      "url" : "https://qiita.com/tsi-gen/items/2d68cd07574f6a9eeeac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "要件が決まっていないプロジェクトの開発期間を瞬発力で見積もる",
+      "author" : "@takafumint",
+      "day" : 10,
+      "url" : "https://takafumint.hatenablog.com/entry/2021/12/10/002037?_ga=2.62029993.462185400.1639063242-1127225524.1638935911"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Managed Service for PrometheusにECSからアプリケーションメトリクスを収集する",
+      "author" : "@sokasanan",
+      "day" : 11,
+      "url" : "https://qiita.com/sokasanan/items/738c69c7f4d6fd47378a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PolarDBとAuroraの比較及びSpring Boot上の対応",
+      "author" : "@rottenpear",
+      "day" : 12,
+      "url" : "https://qiita.com/rottenpear/items/a46331a783bfa84f0fad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Design system - ロジックとデザインを繋ぐもの",
+      "author" : "@SibylXian",
+      "day" : 13,
+      "url" : "https://qiita.com/SibylXian/items/e84f6594e554c74423f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@chiggg"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SageMaker Processingで楽々S3パーティション生成",
+      "author" : "@Ikki_U",
+      "day" : 15,
+      "url" : "https://qiita.com/Ikki_U/items/3c4b17e2e5881be029b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PRテンプレートを使ってチーム力アップ！",
+      "author" : "@MrSmart",
+      "day" : 16,
+      "url" : "https://qiita.com/MrSmart/items/89a9dec8e9f2a0288da9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apple Silicon M1でMacOSDnsServerAddressStreamProviderがロードできずエラーとなる",
+      "author" : "@takashi0012002",
+      "day" : 17,
+      "url" : "https://qiita.com/takashi0012002/items/82bf509bfe4ebe1b3f5c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JIRA AutomationのQuick Guide",
+      "author" : "@kmtr",
+      "day" : 18,
+      "url" : "https://qiita.com/kmtr/items/9f2d0aa1c2c91bc081f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "トヨタグループの中でMaaSという不確実な領域に挑戦するPoCチームの活動史",
+      "author" : "@KTC-KINTO",
+      "day" : 19,
+      "url" : "https://note.com/ktc_kinto/n/nb3660bc93b6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "民法第143条が定める暦による期間の計算を実装してみる",
+      "author" : "@ryous0411",
+      "day" : 20,
+      "url" : "https://qiita.com/ryous0411/items/af5206cbd8e81fef6964"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基本的なOOP",
+      "author" : "@GChoi",
+      "day" : 21,
+      "url" : "https://qiita.com/GChoi/items/0033f295a646613cf1fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS EC2にSonarQubeを構築",
+      "author" : "@Yellow_yena",
+      "day" : 22,
+      "url" : "https://qiita.com"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gradleプラグインを使用して、AWS CodeArtifactを使いやすくする",
+      "author" : "@jlsun",
+      "day" : 23,
+      "url" : "https://qiita.com/jlsun/items/097b9f4731ab76d0edc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Cloud GatewayとGraphQL Meshで、既存マイクロサービスのBFF (REST+GraphQL) を簡単に構築できる。",
+      "author" : "@dooboo",
+      "day" : 24,
+      "url" : "https://qiita.com/dooboo/items/404aae7d3a8ee959765d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自動車販売店から出向してテックカンファレンスに登壇するまでの１年間の話",
+      "author" : "@k2-tanaka",
+      "day" : 25,
+      "url" : "https://note.com/k2_tanaka/n/n1b91d9463e10"
+    }
+  ]
+}

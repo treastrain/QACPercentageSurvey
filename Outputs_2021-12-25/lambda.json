@@ -1,0 +1,340 @@
+{
+  "created_at" : "2021-12-26T00:41:43Z",
+  "calendar_meta_data" : {
+    "author" : "@_kensh",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 149,
+    "subscribers" : 101,
+    "title" : "AWS LambdaとServerless Advent Calendar 2021",
+    "participants" : 27,
+    "unique_name" : "lambda",
+    "url" : "https://qiita.com/advent-calendar/2021/lambda"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ヘキサゴナルアーキテクチャを使ってドメインモデルをAWS Lambdaファンクションで実装してみた",
+      "author" : "@afukui",
+      "day" : 1,
+      "url" : "https://qiita.com/afukui/items/c705aca2cb46e182c5e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Let's dive into Filtering event sources for AWS Lambda functions",
+      "author" : "@horit0123",
+      "day" : 2,
+      "url" : "https://qiita.com/horit0123/items/0cc147d4081803d46c14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cognito を使って認証機能付きのサーバーレスな API を構築する",
+      "author" : "@tomoeine",
+      "day" : 3,
+      "url" : "https://qiita.com/tomoeine/items/74315b084f204c85e22b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lambda サブスクリプションフィルター + AWS WAF で実現する「フルリモートワーク時代のお手軽社内サイト」",
+      "author" : "@MintoAoyama",
+      "day" : 4,
+      "url" : "https://qiita.com/MintoAoyama/items/9bb5c7bbf499d3347fed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年版、サーバーレスのテスト手法を考える",
+      "author" : "@_kensh",
+      "day" : 5,
+      "url" : "https://twitter.com/_kensh/status/1468951162053607424?s=20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAM Accelerateだと！？SAM AccelerateをCloud9を一から構築して試す",
+      "author" : "@horit0123",
+      "day" : 6,
+      "url" : "https://qiita.com/horit0123/items/a3ffb6f8a52fe6926a4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LambdaでLINE notifyのOAuth2トークン発行してみた",
+      "author" : "@nomurabbit",
+      "day" : 7,
+      "url" : "https://nomurabbit.hatenablog.jp/entry/20211207/1638803200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Lambda, Custom AuthorizerのTipsを",
+      "author" : "@haruharuharuby",
+      "day" : 8,
+      "url" : "https://hugtech.io/2021/11/23/aws-lambda-custom-authorizer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年に超絶進化を遂げた AWS Step Functionsを触ってみました",
+      "author" : "@yuji_saito",
+      "day" : 9,
+      "url" : "https://qiita.com/yuji_saito/items/1026234dcf81b43645e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DynamoDB の設計について考えてみる。",
+      "author" : "@_kensh",
+      "day" : 10,
+      "url" : "https://qiita.com/_kensh/items/2351096e6c3bf431ff6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAM CLI をつかってできるだけローカルでテストしてからクラウドにデプロイする",
+      "author" : "@hkford",
+      "day" : 11,
+      "url" : "https://zenn.dev/hkdord/articles/sam-lambda-local-testing"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Lambdaで簡単機械学習 = Lambdaコンテナ + serverless framework",
+      "author" : "@uramotot",
+      "day" : 12,
+      "url" : "https://qiita.com/uramotot/items/0138e8f625eb25088546"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバーレスにおける安全なCI/CD",
+      "author" : "@k1nakayama",
+      "day" : 13,
+      "url" : "https://blog.cloud-partner.jp/secure-cicd-in-serverless/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KotlessとKotlinでサーバーレスAPIを開発",
+      "author" : "@bulbulpaul",
+      "day" : 14,
+      "url" : "https://bulbulpaul.com/blog/posts/2021/12/kotless-lambda/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナイメージを使ったLambdaのローカル検証用ツールを作った",
+      "author" : "@mistletoe",
+      "day" : 15,
+      "url" : "https://qiita.com/mistletoe/items/06229b091610b191ad24"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "serverlessテスト手法(エミュレータなし)について書いてみる",
+      "author" : "@defmementomori",
+      "day" : 16,
+      "url" : "https://cloud-aws-gcp.hateblo.jp/entry/2021/12/16/235714"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon API Gatewayで全部HTTPSでオンプレミスにつなげてみる",
+      "author" : "@matsubta",
+      "day" : 17,
+      "url" : "https://qiita.com/matsubta/items/faa9bb697247bf814c3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@chie8842"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Lambda Powertools Pythonをまとめてみた。AWS Lambda Powertools Python 〜概要編〜",
+      "author" : "@afukui",
+      "day" : 20,
+      "url" : "https://qiita.com/afukui/items/914881406cc01daff6eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "形態素解析をするLambdaをsamでdeployしたい",
+      "author" : "@ikegam1",
+      "day" : 21,
+      "url" : "https://qiita.com/ikegam1/items/78e9835e931859be3b0c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【SQS/Lambda】SQS + Lambda での部分バッチ応答を試してみる",
+      "author" : "@sakashin10291029",
+      "day" : 22,
+      "url" : "https://zenn.dev/shinshin/articles/72afe65e1cf5ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Lambda x86_64とarm64で処理速度どれだけ違うか調べてみた",
+      "author" : "@keni_w",
+      "day" : 23,
+      "url" : "https://zenn.dev/keni_w/articles/bb74b3efbf4b7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@merutin"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Serverless STNS",
+      "author" : "@sogahisashi",
+      "day" : 25,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-25-af3793dc2fcd0a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サーバーレスの勉強方法を聞いてみた",
+      "author" : "@_kensh",
+      "day" : 1,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202101/way-to-learn-serverless/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サーバーレスの開発方法を聞いてみた",
+      "author" : "@_kensh",
+      "day" : 2,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202102/way-to-develop-serverless/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コンテナ利用者に捧げる AWS Lambda の新しい開発方式 !",
+      "author" : "@_kensh",
+      "day" : 3,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202103/new-lambda-container-development/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コンテナ Lambda を開発、まずは RIC と RIE を使ってみよう !",
+      "author" : "@_kensh",
+      "day" : 4,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202104/new-lambda-container-development-2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コンテナ Lambda をカスタマイズして、自分好みの PHP イメージを作ろう !",
+      "author" : "@_kensh",
+      "day" : 5,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202106/new-lambda-container-development-3/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コンテナ Lambda を AWS SAM でデプロイしよう !",
+      "author" : "@_kensh",
+      "day" : 6,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202107/new-lambda-container-development-4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コンテナ Lambda の CI/CD パイプラインの考え方",
+      "author" : "@_kensh",
+      "day" : 7,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202109/new-lambda-container-development-5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コンテナ Lambda の CI/CD パイプラインを SAM Pipeline で作ろう !",
+      "author" : "@_kensh",
+      "day" : 8,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202110/new-lambda-container-development-6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "べき等性 (冪等性/idempotency) ってなんだ!?",
+      "author" : "@_kensh",
+      "day" : 9,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202104/serverless-idempotency"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS SAMのCORSを設定する（REST APIバージョン）",
+      "author" : "@kakudaisuke",
+      "day" : 10,
+      "url" : "https://qiita.com/kakudaisuke/items/91e781e532a3cd300a55"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "sam http api",
+      "author" : "@kakudaisuke",
+      "day" : 11,
+      "url" : "https://tech.fusic.co.jp/posts/2021-12-10-http-api-cors/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS Chalice プロジェクトを CloudFormation でデプロイすると Lambda 関数名がランダムに設定されてしまう、を回避する",
+      "author" : "@nikotan",
+      "day" : 12,
+      "url" : "https://qiita.com/nikotan/items/ecc248699b2adc61657a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サーバーレスにおけるべき等性の実装 (メッセージ編)",
+      "author" : "@_kensh",
+      "day" : 13,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202106/serverless-idempotency-implementation"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サーバーレスにおけるべき等性の実装 (データストア編)",
+      "author" : "@_kensh",
+      "day" : 14,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202107/serverless-idempotency-implementation-2"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サーバーレスにおけるべき等性の実装 (バッチ処理と分散トランザクション編)",
+      "author" : "@_kensh",
+      "day" : 15,
+      "url" : "https://aws.amazon.com/jp/builders-flash/202109/serverless-idempotency-batch-transaction"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【AWS】CircleCIを使ってコンテナイメージをAWS LambdaへデプロイするCI/CD環境を構築してみた",
+      "author" : "@y-aka",
+      "day" : 16,
+      "url" : "https://qiita.com/y-aka/items/c5c5fd969a6db9aa97fc"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "SvelteKit の SSR を AWS 環境でサーバーレスに動かす",
+      "author" : "@lulzneko",
+      "day" : 22,
+      "url" : "https://zenn.dev/lulzneko/articles/running-sveltekit-ssr-serverlessly-in-aws"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "外部ライブラリのLambda Layerを生成するAPIをLambdaで作ってみた【Python】",
+      "author" : "@KenichiHiguchi",
+      "day" : 24,
+      "url" : "https://qiita.com/KenichiHiguchi/items/d16b9a8b0c2f10d035f6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS Lambda layersを作成/管理できるツールlamblayerを作った",
+      "author" : "@fauntleroy",
+      "day" : 25,
+      "url" : "https://qiita.com/fauntleroy/items/3f1e9dd9ef6810152016"
+    }
+  ]
+}

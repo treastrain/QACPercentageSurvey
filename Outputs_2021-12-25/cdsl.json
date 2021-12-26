@@ -1,0 +1,140 @@
+{
+  "created_at" : "2021-12-26T03:38:56Z",
+  "calendar_meta_data" : {
+    "author" : "Cloud and Distributed Systems Laboratory",
+    "category" : "企業・学校・団体",
+    "lgtm" : 7,
+    "subscribers" : 5,
+    "title" : "クラウド・分散システム研究室 Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "cdsl",
+    "url" : "https://qiita.com/advent-calendar/2021/cdsl"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "自己紹介（小林）",
+      "author" : "@tomoyk",
+      "day" : 1,
+      "url" : "https://ja.tak-cslab.org/archives/1682"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudLaTeX上でのbibtexの使い方",
+      "author" : "@takahyon",
+      "day" : 6,
+      "url" : "https://qiita.com/takahyon/items/7d08a7cc6df96e266d95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KubernetesクラスタへPrometheus+GrafanaをOperatorで簡単にインストール ",
+      "author" : "@tomoyk",
+      "day" : 7,
+      "url" : "https://qiita.com/tomoyk/items/ae94b982e7c533003162"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP32でソケット通信をしてみる(Micropython)",
+      "author" : "@sirius1000",
+      "day" : 8,
+      "url" : "https://qiita.com/sirius1000/items/002df5f062a90ed605f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自己紹介（高橋）",
+      "author" : "@tomoyk",
+      "day" : 9,
+      "url" : "https://ja.tak-cslab.org/archives/1700"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "uasyncioによるマルチタスクの実現(micropython)",
+      "author" : "@KChai",
+      "day" : 11,
+      "url" : "https://qiita.com/KChai/items/37c6e7ad02b8a21c02cf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ESP32で三点測位を使って位置を計算してみる(3次元)",
+      "author" : "@7vvXi",
+      "day" : 15,
+      "url" : "https://qiita.com/7vvXi/items/7011b6e07ecaad2981f1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@Hytus"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@tomoyk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@tomoyk"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@tomoyk"
+    }
+  ]
+}

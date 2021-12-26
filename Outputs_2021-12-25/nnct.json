@@ -1,0 +1,152 @@
+{
+  "created_at" : "2021-12-26T02:09:50Z",
+  "calendar_meta_data" : {
+    "author" : "@shun-shobon",
+    "category" : "企業・学校・団体",
+    "lgtm" : 18,
+    "subscribers" : 6,
+    "title" : "長野高専 Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "nnct",
+    "url" : "https://qiita.com/advent-calendar/2021/nnct"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "恋人の作り方",
+      "author" : "@earth429",
+      "day" : 1,
+      "url" : "https://earth429.hatenablog.com/entry/2021/12/01/230022?_ga=2.187870186.338198726.1638353016-306090692.1637764824"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fusion360の基板ライブラリー作成②を投稿します",
+      "author" : "@yabanui",
+      "day" : 2,
+      "url" : "https://moyoi-memo.hatenablog.com/entry/2021/12/02/204432?_ga=2.181580270.875734670.1638387536-1191028235.1607064270"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScriptで型レベル演算",
+      "author" : "@shun-shobon",
+      "day" : 3,
+      "url" : "https://qiita.com/shun-shobon/items/1248914a8a38c94a9909"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "論理式簡略化アルゴリズムを実装",
+      "author" : "@Shibaken_8128",
+      "day" : 4,
+      "url" : "https://shibaken-8128.hatenablog.com/entry/2021/12/01/110905?_ga=2.128844943.2024690453.1638324335-211801955.1617710226"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "processingで音ゲーを作る #2",
+      "author" : "@NOEL_404_",
+      "day" : 11,
+      "url" : "https://qiita.com/NOEL_404_/items/f4ddd59297581598fdee"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "私のレポート環境",
+      "author" : "@earth429",
+      "day" : 15,
+      "url" : "https://qiita.com/earth429/items/e3e81182ce593631fae8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1年で使える言語が3つも増えた話",
+      "author" : "@Cercil",
+      "day" : 16,
+      "url" : "https://qiita.com/Cercil/items/29389e624ee16832a5a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "深層学習ことはじめ",
+      "author" : "@Yajirushi314",
+      "day" : 19,
+      "url" : "https://qiita.com/Yajirushi314/items/6ee2635870140845137f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "円周率πと多倍長演算で求めた値...一緒？",
+      "author" : "@yu1hpa",
+      "day" : 20,
+      "url" : "https://qiita.com/yu1hpa/items/21c3a8f5af16545110ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "第56回 長野高専工嶺祭 SJ合同企画「OVER ～そして物語は加速する～」出展企画「BLinDISM」開発後記",
+      "author" : "@K_White",
+      "day" : 21,
+      "url" : "https://qiita.com/K_White/items/6ed56164b0c749021172"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Discordで動くLinuxターミナルを作る",
+      "author" : "@BonyChops",
+      "day" : 22,
+      "url" : "https://qiita.com/BonyChops/items/2774aa65037edb047111"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Shibaken_8128"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CMakeでお手軽ビルド環境構築",
+      "author" : "@shun-shobon",
+      "day" : 25,
+      "url" : "https://qiita.com/shun-shobon/items/2f36ee64241d49796099"
+    }
+  ]
+}

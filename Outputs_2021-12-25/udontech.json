@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T22:54:26Z",
+  "calendar_meta_data" : {
+    "author" : "@ShunsukeMizuo",
+    "category" : "企業・学校・団体",
+    "lgtm" : 27,
+    "subscribers" : 2,
+    "title" : "UdonTech Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "udontech",
+    "url" : "https://qiita.com/advent-calendar/2021/udontech"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiitaで知らない言葉の多さに面食らったら",
+      "author" : "@ShunsukeMizuo",
+      "day" : 1,
+      "url" : "https://qiita.com/ShunsukeMizuo/items/c2f90619d26404fc25b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データサイエンティストって、どうやったらなれるのか？",
+      "author" : "@watanato",
+      "day" : 2,
+      "url" : "https://qiita.com/watanato/items/daa3a75d3ecf5396e2b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@Yuutakasan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "basketball-reference.comの歩き方",
+      "author" : "@n_so5",
+      "day" : 4,
+      "url" : "https://hpcmemo.hatenablog.com/entry/2021/12/04/224829"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めてNotionを使ってみた【導入編】",
+      "author" : "@yoshitada0601",
+      "day" : 5,
+      "url" : "https://kotoura3-blog.com/blog/?p=887"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python + Selenium】Webスクレイピングを試してみました",
+      "author" : "@yoshitada0601",
+      "day" : 6,
+      "url" : "https://kotoura3-blog.com/blog/?p=896"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pythonでテキスト処理",
+      "author" : "@n_so5",
+      "day" : 7,
+      "url" : "https://hpcmemo.hatenablog.com/entry/2021/12/08/005642"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更だけど、エンジニア35歳定年説について考えてみた",
+      "author" : "@ShunsukeMizuo",
+      "day" : 8,
+      "url" : "https://qiita.com/ShunsukeMizuo/items/b8e02f64f81230023b12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Udon TechメンバーのGoを知ってる人向けのPlan 9 from Bell labs",
+      "author" : "@haraoka",
+      "day" : 9,
+      "url" : "https://qiita.com/haraoka/items/6948f4a0a3bb4d8e2e8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2022年の私の勉強テーマ選定(前半)",
+      "author" : "@tyama99999",
+      "day" : 10,
+      "url" : "https://qiita.com/tyama99999/items/8c95128e5998f41a754f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "天体望遠鏡博物館　について",
+      "author" : "@YamashitaA",
+      "day" : 11,
+      "url" : "http://robby.moe-nifty.com/blog/2021/12/post-dafa06.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改正・電子帳簿保存法対策に対応する為に(2021年1月より施行)",
+      "author" : "@dr_cova",
+      "day" : 12,
+      "url" : "https://blog.zamuu.net/2021/1129/law_of_e-paper_management_for_business/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアの給与における地域間格差",
+      "author" : "@ShunsukeMizuo",
+      "day" : 13,
+      "url" : "https://qiita.com/ShunsukeMizuo/items/47d0421b8fef277b4caf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "log4jが話題になっているのでlog4jsについて書きます :p",
+      "author" : "@n_so5",
+      "day" : 14,
+      "url" : "https://hpcmemo.hatenablog.com/entry/2021/12/14/013804"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "vuetifyのv-data-tableの小ワザ",
+      "author" : "@n_so5",
+      "day" : 15,
+      "url" : "https://hpcmemo.hatenablog.com/entry/2021/12/15/003752"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Android Bazaar and Conference Diverse の案内",
+      "author" : "@dr_cova",
+      "day" : 16,
+      "url" : "https://qiita.com/dr_cova/items/938f485025e07c893fa5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2022年の私の勉強テーマ選定(後半)",
+      "author" : "@tyama99999",
+      "day" : 17,
+      "url" : "https://qiita.com/tyama99999/items/6cd3ce846f9a93e47dff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミング講座を受講した感想",
+      "author" : "@tamami810",
+      "day" : 18,
+      "url" : "https://qiita.com/tamami810/items/d47c7d1e6424131e9c28"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NAS(synology DS420+)を買ったので出来る事を探ってみる",
+      "author" : "@tyama99999",
+      "day" : 19,
+      "url" : "https://qiita.com/tyama99999/items/ca7f5f420fd4581b951f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "log4j2の問題についてわかっていることメモ",
+      "author" : "@YamashitaA",
+      "day" : 20,
+      "url" : "http://robby.moe-nifty.com/blog/2021/12/post-2271ed.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドエンジニア1年目としてやったこと",
+      "author" : "@mangoku",
+      "day" : 21,
+      "url" : "https://qiita.com/mangoku/items/ee4e22ee9fc97a499b9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "他業種からプログラミング講座に挑戦してみて見えたこと（課題）",
+      "author" : "@chi71",
+      "day" : 22,
+      "url" : "https://qiita.com/chi71/items/5d2cd101b74c0ed49d92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fire stick TVでPCレスプレゼンテーション",
+      "author" : "@n_so5",
+      "day" : 23,
+      "url" : "https://hpcmemo.hatenablog.com/entry/2021/12/24/011357"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フリーランスITエンジニアが地方市議会議員選挙にネット戦略だけで挑んでみた話",
+      "author" : "@yk_works",
+      "day" : 24,
+      "url" : "https://qiita.com/yk_works/items/e8c7e5fffbd5bd667ead"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地方のエンジニアが知るべき97のこと",
+      "author" : "@ShunsukeMizuo",
+      "day" : 25,
+      "url" : "https://qiita.com/ShunsukeMizuo/items/6ccb55db6d99d3570dd6"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-26T01:20:00Z",
+  "calendar_meta_data" : {
+    "author" : "@rince",
+    "category" : "Webテクノロジー",
+    "lgtm" : 31,
+    "subscribers" : 100,
+    "title" : "GraphQL Advent Calendar 2021",
+    "participants" : 24,
+    "unique_name" : "graphql",
+    "url" : "https://qiita.com/advent-calendar/2021/graphql"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Go言語】はじめてのGraphQLサーバ実装 | gqlgen",
+      "author" : "@hiroyky",
+      "day" : 1,
+      "url" : "https://qiita.com/hiroyky/items/4d7764172e73ff54f18b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GraphQL界のbabel、Envelopとは何か",
+      "author" : "@taneba",
+      "day" : 2,
+      "url" : "https://zenn.dev/ynakamura/articles/34d74ab31b4644"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hasura v2.1.0で導入されたActions transformerを使って、好きなREST APIをGraphQLに繋げてみよう",
+      "author" : "@sho-hata",
+      "day" : 3,
+      "url" : "https://qiita.com/sho-hata/items/8fc50bc0a6d9ec0135bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "hasura+firebaseで認証つきエンドポイントを楽に作る方法",
+      "author" : "@glassmonkey",
+      "day" : 4,
+      "url" : "https://zenn.dev/glassmonkey/articles/55733b75c08e6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript + Prisma + NestJSでGraphQLサーバを作ってみる",
+      "author" : "@rince",
+      "day" : 5,
+      "url" : "https://zenn.dev/rince/articles/50a66241d04f0b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GraphQLのディレクティブについて",
+      "author" : "@koffee0522",
+      "day" : 6,
+      "url" : "https://qiita.com/koffee0522/items/bb623f974c418f5e15b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Urqlから認証つきAWS AmplifyのGraphQL APIにアクセスする",
+      "author" : "@hitochan777",
+      "day" : 7,
+      "url" : "https://zenn.dev/hitochan777/articles/urql-amplify"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GraphQLオブジェクトタイプのフィールドは閲覧範囲を揃えて閲覧可否の判定を楽にしよう",
+      "author" : "@ham0215",
+      "day" : 8,
+      "url" : "https://qiita.com/ham0215/items/c3c231cac5ac94a26e4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoでGraphQLでfederation",
+      "author" : "@sntree",
+      "day" : 9,
+      "url" : "https://zenn.dev/sntree/articles/424765e8b50938"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GraphQL(gqlgen)でのエラー定義とエラーコード化",
+      "author" : "@Ranks",
+      "day" : 10,
+      "url" : "https://qiita.com/Ranks/items/e71102301f3ff8f9d4b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fieldにresolverを当てて擬似的にqueryをネストする",
+      "author" : "@ch0b3",
+      "day" : 11,
+      "url" : "https://qiita.com/ch0b3/items/35a9dc81abe92068ea26"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Vite / Vue / Apollo / GraphQL Code Generator】GraphQLモックサーバーの開発環境を作る",
+      "author" : "@uedaeita",
+      "day" : 12,
+      "url" : "https://qiita.com/uedaeita/items/380d24b3e4db8ccdfab4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hasuraを使用するならチェック！ 確認すべきセキュリティ対策設定チェックリスト",
+      "author" : "@sho-hata",
+      "day" : 13,
+      "url" : "https://qiita.com/sho-hata/items/e2a5aa1faabe0ab10f99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今更だけどApollo Client v3にあげた話",
+      "author" : "@kobayang",
+      "day" : 14,
+      "url" : "https://zenn.dev/kobayang/articles/d62bd63ee7270b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@izumin5210"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@kyntk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "graphql-batchのloaderをコード量1/9で使う方法",
+      "author" : "@teppeita",
+      "day" : 17,
+      "url" : "https://zenn.dev/teppeita/articles/ba6bef95775f49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "apollo+typescript+codegen+reactでファイルアップロード",
+      "author" : "@m_hirasaki",
+      "day" : 18,
+      "url" : "https://qiita.com/m_hirasaki/items/cd3e0d47a0f147e2f9e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Quramy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter + artemis で型が効いてる GraphQL の useQuery hooks を作る",
+      "author" : "@seya",
+      "day" : 20,
+      "url" : "https://zenn.dev/seya/articles/72953dba4d9706"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規事業でGraphQLを採用した振り返りと失敗談",
+      "author" : "@ij_spitz",
+      "day" : 21,
+      "url" : "https://plex.hatenablog.jp/entry/graphql-retrospective"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜGraphQLを採用するべきなのか、あるいはなぜ採用するべきではないのか 2021冬",
+      "author" : "@oubakiou",
+      "day" : 22,
+      "url" : "https://zenn.dev/oubakiou/articles/79f1b5e0b6f829"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GraphQL Tools気になるやつ",
+      "author" : "@spice",
+      "day" : 23,
+      "url" : "https://qiita.com/spice/items/1baa36b4004e2f386be6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未来の構成を先取りする ~ React サーバーコンポーネント × GraphQL ~",
+      "author" : "@anneau",
+      "day" : 24,
+      "url" : "https://qiita.com/anneau/items/d955fc519cea9a95edf7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yoshikyoto"
+    }
+  ]
+}

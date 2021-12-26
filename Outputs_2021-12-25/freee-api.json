@@ -1,0 +1,267 @@
+{
+  "created_at" : "2021-12-26T05:09:09Z",
+  "calendar_meta_data" : {
+    "author" : "@TakeshiNickOsanai",
+    "category" : "プレゼント",
+    "lgtm" : 259,
+    "subscribers" : 23,
+    "title" : "freee APIで業務を楽しく便利にハックしよう！2021【PR】freee Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "freee-api",
+    "url" : "https://qiita.com/advent-calendar/2021/freee-api"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "freeeの申請で特定申請のみをSlack通知して楽に情報把握したい！",
+      "author" : "@tomozoooo",
+      "day" : 1,
+      "url" : "https://qiita.com/tomozoooo/items/3e7017e477ffbccc03bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CakePHPでfreeeAPIを叩くラッパーを作成した話",
+      "author" : "@hagurin",
+      "day" : 2,
+      "url" : "https://qiita.com/hagurin/items/1382d65c8fb4ddf77858"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "freeeアプリを５分で作れる！スターターパックを公開してみました",
+      "author" : "@senbishi",
+      "day" : 3,
+      "url" : "https://qiita.com/senbishi/items/336086fb8fa2166a1ba5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "freeeの人事労務APIを使ってSlackから年休登録できるようにする",
+      "author" : "@hareruya-maro",
+      "day" : 4,
+      "url" : "https://qiita.com/hareruya-maro/items/4b3029a6892ef736e6af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go言語でMentaの売上をfreeeに登録するCLI開発",
+      "author" : "@kamijin_fanta",
+      "day" : 5,
+      "url" : "https://qiita.com/kamijin_fanta/items/6f45119c215020aa4c64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットで知り合った仲間と農家の3代目の困りごとをFirebaseで解決した話",
+      "author" : "@6983",
+      "day" : 6,
+      "url" : "https://qiita.com/6983/items/818fa903e9ea0ac73230"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "爆速!!Nuxt3でFreee取引作ってみた",
+      "author" : "@tikaranimaru",
+      "day" : 8,
+      "url" : "https://qiita.com/tikaranimaru/items/bbbd1f972dc238121d03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "freee APIを使って打刻してみようとしたのだけれど、、、、",
+      "author" : "@meowmeowcats",
+      "day" : 9,
+      "url" : "https://qiita.com/meowmeowcats/items/a5dc3418ef8916ebe944"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RPA導入検討にGAS+freee APIで勝った話",
+      "author" : "@77web@github",
+      "day" : 10,
+      "url" : "https://qiita.com/77web@github/items/89ec4560db8ef7827274"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "freee API で下書き請求書を一気にチェックしよう！",
+      "author" : "@digiengel",
+      "day" : 11,
+      "url" : "https://note.com/digiholic_life/n/nb01373313a9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@endo_hizumi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "当日の運用が可能！？ freee API × Power Platform で実現するローコード開発",
+      "author" : "@K2_kzy",
+      "day" : 13,
+      "url" : "https://qiita.com/K2_kzy/items/522323269b2ec09cc889"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tinder風 freee経費承認アプリをNuxtで作ってみた",
+      "author" : "@tikaranimaru",
+      "day" : 14,
+      "url" : "https://qiita.com/tikaranimaru/items/7680696390624706fdfb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "freeeとSalesforceとの取引連携（freee for Salesforceを使う方法）",
+      "author" : "@Keiji_otsubo",
+      "day" : 15,
+      "url" : "https://qiita.com/Keiji_otsubo/items/c000d837a7ac12aab02e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "APIもScrapyでアクセスできるんですよ",
+      "author" : "@sapi_kawahara",
+      "day" : 17,
+      "url" : "https://qiita.com/sapi_kawahara/items/b1faad89c44a582a9c3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@KJ0513"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Freee APIで業務を楽しく便利にハックしよう！2021【PR】freee Advent Calendar 2021」に参加するまで",
+      "author" : "@kaizen_nagoya",
+      "day" : 19,
+      "url" : "https://qiita.com/kaizen_nagoya/items/1623c0d75491acf858a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@Doarakko"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PowerAutomateを使ってfreeeから取引先情報を取得する",
+      "author" : "@wonohe",
+      "day" : 24,
+      "url" : "https://qiita.com/wonohe/items/cd49deb948c559380391"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@Pig"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

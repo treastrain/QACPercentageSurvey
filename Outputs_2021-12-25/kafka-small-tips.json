@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:33:10Z",
+  "calendar_meta_data" : {
+    "author" : "@keigodasu",
+    "category" : "データベース",
+    "lgtm" : 0,
+    "subscribers" : 21,
+    "title" : "Kafkaの小ネタ Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "kafka-small-tips",
+    "url" : "https://qiita.com/advent-calendar/2021/kafka-small-tips"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "JulieOpsでKafka Topicを宣言的に管理する",
+      "author" : "@keigodasu",
+      "day" : 1,
+      "url" : "https://scrapbox.io/k5dasu/JulieOps%E3%81%A7Kafka_Topic%E3%82%92%E5%AE%A3%E8%A8%80%E7%9A%84%E3%81%AB%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KafkaにCLIでProduce/Consumeするときはkcatが便利",
+      "author" : "@keigodasu",
+      "day" : 2,
+      "url" : "https://scrapbox.io/k5dasu/Kafka%E3%81%ABCLI%E3%81%A7Produce%2FConsume%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AFkcat%E3%81%8C%E4%BE%BF%E5%88%A9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka ConnectでS3のデータを扱う",
+      "author" : "@keigodasu",
+      "day" : 3,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Connect%E3%81%A7S3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%89%B1%E3%81%86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datagen Source ConnectorでAvroスキーマをもとにダミーデータを生成する",
+      "author" : "@keigodasu",
+      "day" : 4,
+      "url" : "https://scrapbox.io/k5dasu/Datagen_Source_Connector%E3%81%A7Avro%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E3%83%80%E3%83%9F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Consumer Group IDはいつまで保持されるのか",
+      "author" : "@keigodasu",
+      "day" : 5,
+      "url" : "https://scrapbox.io/k5dasu/Consumer_Group_ID%E3%81%AF%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BF%9D%E6%8C%81%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JDBC Source ConnectorのDBセッションをどう切断するか",
+      "author" : "@keigodasu",
+      "day" : 6,
+      "url" : "https://scrapbox.io/k5dasu/JDBC_Source_Connector%E3%81%AEDB%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%81%A9%E3%81%86%E5%88%87%E6%96%AD%E3%81%99%E3%82%8B%E3%81%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "confluent-kafka-goで指定できるクライアント側のパラメーター",
+      "author" : "@keigodasu",
+      "day" : 7,
+      "url" : "https://scrapbox.io/k5dasu/confluent-kafka-go%E3%81%A7%E6%8C%87%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E5%81%B4%E3%81%AE%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1つのトピックで複数のイベントを扱う",
+      "author" : "@keigodasu",
+      "day" : 8,
+      "url" : "https://scrapbox.io/k5dasu/1%E3%81%A4%E3%81%AE%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E6%89%B1%E3%81%86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ksqlDBでUNION (ALL) したかった",
+      "author" : "@keigodasu",
+      "day" : 9,
+      "url" : "https://scrapbox.io/k5dasu/ksqlDB%E3%81%A7UNION_(ALL)_%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Consumer Group単位でのConsumer LagをPrometheusに連携したい",
+      "author" : "@keigodasu",
+      "day" : 10,
+      "url" : "https://scrapbox.io/k5dasu/Consumer_Group%E5%8D%98%E4%BD%8D%E3%81%A7%E3%81%AEConsumer_Lag%E3%82%92Prometheus%E3%81%AB%E9%80%A3%E6%90%BA%E3%81%97%E3%81%9F%E3%81%84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kafka-producer-perf-testを使う時に気を付けていること",
+      "author" : "@keigodasu",
+      "day" : 11,
+      "url" : "https://scrapbox.io/k5dasu/kafka-producer-perf-test%E3%82%92%E4%BD%BF%E3%81%86%E6%99%82%E3%81%AB%E6%B0%97%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Cluster IDを調べる",
+      "author" : "@keigodasu",
+      "day" : 12,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Cluster_ID%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka ConnectでSource Connectorのオフセットをリセットする",
+      "author" : "@keigodasu",
+      "day" : 13,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Connect%E3%81%A7Source_Connector%E3%81%AE%E3%82%AA%E3%83%95%E3%82%BB%E3%83%83%E3%83%88%E3%82%92%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KafkaのQuotaにデフォルト値を設定したい",
+      "author" : "@keigodasu",
+      "day" : 14,
+      "url" : "https://scrapbox.io/k5dasu/Kafka%E3%81%AEQuota%E3%81%AB%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E5%80%A4%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%9F%E3%81%84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka ConnectのDLQに入ったメッセージをどうリカバリするか",
+      "author" : "@keigodasu",
+      "day" : 15,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Connect%E3%81%AEDLQ%E3%81%AB%E5%85%A5%E3%81%A3%E3%81%9F%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E3%81%A9%E3%81%86%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA%E3%81%99%E3%82%8B%E3%81%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kafka-console-consumerで__consumer_offsetsを読み取る",
+      "author" : "@keigodasu",
+      "day" : 16,
+      "url" : "https://scrapbox.io/k5dasu/kafka-console-consumer%E3%81%A7__consumer_offsets%E3%82%92%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JDBC Source Connectorで特定のトピックにデータを連携する",
+      "author" : "@keigodasu",
+      "day" : 17,
+      "url" : "https://scrapbox.io/k5dasu/JDBC_Source_Connector%E3%81%A7%E7%89%B9%E5%AE%9A%E3%81%AE%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%81%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E9%80%A3%E6%90%BA%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Topic名の長さ",
+      "author" : "@keigodasu",
+      "day" : 18,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Topic%E5%90%8D%E3%81%AE%E9%95%B7%E3%81%95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ボトルネックがクライアント側にあるのかブローカー側にあるのかを簡易的に切り分ける",
+      "author" : "@keigodasu",
+      "day" : 19,
+      "url" : "https://scrapbox.io/k5dasu/%E3%83%9C%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF%E3%81%8C%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E5%81%B4%E3%81%AB%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%E3%83%96%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E5%81%B4%E3%81%AB%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%92%E7%B0%A1%E6%98%93%E7%9A%84%E3%81%AB%E5%88%87%E3%82%8A%E5%88%86%E3%81%91%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kafka-consumer-perf-testの--threadもDepricatedになってる",
+      "author" : "@keigodasu",
+      "day" : 20,
+      "url" : "https://scrapbox.io/k5dasu/kafka-consumer-perf-test%E3%81%AE--thread%E3%82%82Depricated%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Producerの処理時間の内訳",
+      "author" : "@keigodasu",
+      "day" : 21,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Producer%E3%81%AE%E5%87%A6%E7%90%86%E6%99%82%E9%96%93%E3%81%AE%E5%86%85%E8%A8%B3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Streamsのnum.stanby.replicasを増やすケース",
+      "author" : "@keigodasu",
+      "day" : 22,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Streams%E3%81%AEnum.stanby.replicas%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%B1%E3%83%BC%E3%82%B9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafkaでロングランの負荷テストをする時",
+      "author" : "@keigodasu",
+      "day" : 23,
+      "url" : "https://scrapbox.io/k5dasu/Kafka%E3%81%A7%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%81%AE%E8%B2%A0%E8%8D%B7%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E3%81%99%E3%82%8B%E6%99%82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ZooKeeperのHierarchical Quorum",
+      "author" : "@keigodasu",
+      "day" : 24,
+      "url" : "https://scrapbox.io/k5dasu/ZooKeeper%E3%81%AEHierarchical_Quorum"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Topicのエンドツーエンドレイテンシを計測する",
+      "author" : "@keigodasu",
+      "day" : 25,
+      "url" : "https://scrapbox.io/k5dasu/Kafka_Topic%E3%81%AE%E3%82%A8%E3%83%B3%E3%83%89%E3%83%84%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%82%92%E8%A8%88%E6%B8%AC%E3%81%99%E3%82%8B"
+    }
+  ]
+}

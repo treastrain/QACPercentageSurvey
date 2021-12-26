@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T02:32:03Z",
+  "calendar_meta_data" : {
+    "author" : "プロトアウトスタジオ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 69,
+    "subscribers" : 4,
+    "title" : "プロトアウトスタジオ Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "protoout",
+    "url" : "https://qiita.com/advent-calendar/2021/protoout"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "最もLGTMを獲得したのはあの記事！プロトアウトスタジオ2021年のアウトプットを振り返る",
+      "author" : "@mitsuoka0423",
+      "day" : 1,
+      "url" : "https://qiita.com/mitsuoka0423/items/34b59d52fe8139da0c2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[無駄アプリ]連打でアリーヴェデルチやってみた",
+      "author" : "@suo-takefumi",
+      "day" : 2,
+      "url" : "https://qiita.com/suo-takefumi/items/231f2d22bc0f03ec382b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一定時間感知しなかったらお知らせを作ってみた",
+      "author" : "@MikH",
+      "day" : 3,
+      "url" : "https://qiita.com/MikH/items/3dac69675d9bf6254fe2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINE BOTとIFTTT(Fitbit)でなんちゃってピクミンブルームを作ってみた",
+      "author" : "@tkyko13",
+      "day" : 4,
+      "url" : "https://qiita.com/tkyko13/items/335277b376c99dcc50be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slack+GASでＱ&Aボットを作ってみた",
+      "author" : "@tatsuya1970",
+      "day" : 5,
+      "url" : "https://qiita.com/tatsuya1970/items/43d72b16c9c11bef12a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ご褒美に関連ネコ動画をおすすめしてくれるサイトのご紹介",
+      "author" : "@naokiuc",
+      "day" : 6,
+      "url" : "https://qiita.com/naokiuc/items/0e8e7b1899c83427c33f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ママのテンション爆上げ!?　obnizで娘からママへX'masプレゼント",
+      "author" : "@okinakamasayoshi",
+      "day" : 7,
+      "url" : "https://qiita.com/okinakamasayoshi/items/27fddb7f45bb1142f5ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "○○分後に死ぬSpatial.chat ~ 裏仕様10000分数制限との戦い、そして事件は起こった ~ #iotlt #protoout",
+      "author" : "@n0bisuke",
+      "day" : 8,
+      "url" : "https://qiita.com/n0bisuke/items/56d021ef5035db2ea47b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "事務職勤めのワーママがテクノロジーを身に付けるとこう変わる #身の丈DX",
+      "author" : "@n0bisuke",
+      "day" : 9,
+      "url" : "https://note.com/n0bisuke/n/nb33f2c8a490d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5StickCでUiFlowを使う準備 on Mac",
+      "author" : "@mitsuoka0423",
+      "day" : 10,
+      "url" : "https://zenn.dev/tmitsuoka0423/scraps/411dda94799d3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドメイン検索×LINE Bot=効率的にドメイン検索　　　",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 11,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/a2bc127c0dd047271def"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作ピクミンブルームLINE Botを永続化する際のメモ",
+      "author" : "@tkyko13",
+      "day" : 12,
+      "url" : "https://qiita.com/tkyko13/items/faf8d8be6fe100beccae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDでLINE Bot作成が簡単になったよ / メッセージタイプほぼ全部解説",
+      "author" : "@ukkz",
+      "day" : 13,
+      "url" : "https://zenn.dev/ukkz/articles/a389105e400ea2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Teachable Machineを使って、ゆでたまごの気持ちをツンデレ風に表現してみた",
+      "author" : "@tanakahiroki",
+      "day" : 14,
+      "url" : "https://qiita.com/tanakahiroki/items/9124b89a1e9c61572be1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2時間で作るゲーミング電気毛布 #mouful",
+      "author" : "@mitsuoka0423",
+      "day" : 15,
+      "url" : "https://zenn.dev/tmitsuoka0423/articles/gaming-mouful"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINEBot×obnizで、「赤鼻のトナカイ」「Joy to the world」が流れる仕組みを作ってみた！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 16,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/d2f9efacab09a32d7e63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ミスチルになりたかったので　判定機を作ってみた",
+      "author" : "@okinakamasayoshi",
+      "day" : 17,
+      "url" : "https://qiita.com/okinakamasayoshi/items/d809a04c482367cc0af7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "youtubeにアップした動画をTwitterで自動的に拡散し、LINEにも通知！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 18,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/8b88550f2d0ccded094d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vue.jsの基本の「キ」",
+      "author" : "@canonno",
+      "day" : 19,
+      "url" : "https://qiita.com/canonno/items/9563e43d445dc43364ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "素振りの練習を充実させませんか？？VRで試合をイメージした練習術！",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 20,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/2e9774fcc648d3c92347"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "医療者向けプログラミングスクールを開講するに至った本当の理由",
+      "author" : "@Teru_3",
+      "day" : 21,
+      "url" : "https://note.com/teru_3/n/n9e96a013caf1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AI機械学習で、マスクチェッカ―(不織布マスク着用・布マスク・マスクなし・マスクずらしを判定し、LINE Botへ注意喚起)",
+      "author" : "@dsvvpxgcseldie",
+      "day" : 22,
+      "url" : "https://qiita.com/dsvvpxgcseldie/items/9351f1fac1e1e22dddef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "M5StickCでUiFlowを使う準備 on Mac",
+      "author" : "@mitsuoka0423",
+      "day" : 23,
+      "url" : "https://zenn.dev/tmitsuoka0423/scraps/411dda94799d3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "obniz のスイッチ操作を AirTable に記録するメモ",
+      "author" : "@tseigo",
+      "day" : 24,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/24/obniz-airtable-recording-data-sample/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "締めっぽい2021年振り返り",
+      "author" : "@n0bisuke",
+      "day" : 25,
+      "url" : "https://note.com/n0bisuke/n/n3ca8905d418c"
+    }
+  ]
+}

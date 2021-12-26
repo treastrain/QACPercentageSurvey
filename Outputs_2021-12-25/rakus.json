@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:43:58Z",
+  "calendar_meta_data" : {
+    "author" : "@amderbar",
+    "category" : "企業・学校・団体",
+    "lgtm" : 166,
+    "subscribers" : 21,
+    "title" : "ラクス Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "rakus",
+    "url" : "https://qiita.com/advent-calendar/2021/rakus"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GASでカユいところに手が届いたTips3選",
+      "author" : "@Y-Kanoh",
+      "day" : 1,
+      "url" : "https://qiita.com/Y-Kanoh/items/4d7505bcfafebd34d197"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "定期スクリプト実行環境としてのGitLab CIのススメ",
+      "author" : "@oohira",
+      "day" : 2,
+      "url" : "https://qiita.com/oohira/items/b67aaeb592ad6df6bc8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Retrofit+OkHttpでAPIエラーの時のレスポンスの取得ではまった",
+      "author" : "@EichiSanden",
+      "day" : 3,
+      "url" : "https://qiita.com/EichiSanden/items/13f746f0582e90d8ad2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Retrofit+OkHttpでmultipart/form-dataなAPIの呼び出してハマった",
+      "author" : "@EichiSanden",
+      "day" : 4,
+      "url" : "https://qiita.com/EichiSanden/items/f46be978cb687ba91af0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Retrofit+OkHttpでファイルダウンロードするAPIを呼び出す",
+      "author" : "@EichiSanden",
+      "day" : 5,
+      "url" : "https://qiita.com/EichiSanden/items/ee3860de02fdb58564b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOSアプリ開発者が語る、Xcode関連の体験談【3選】",
+      "author" : "@FlatMountain",
+      "day" : 6,
+      "url" : "https://tech-blog.rakus.co.jp/entry/20211206/xcode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qiita Advent Calendar の RSS を読む",
+      "author" : "@amderbar",
+      "day" : 7,
+      "url" : "https://qiita.com/amderbar/items/a333c8230a420a5bb9f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムを導入した運用チームに感じる成長のお話",
+      "author" : "@MasaKu",
+      "day" : 8,
+      "url" : "https://qiita.com/MasaKu/items/1728c700ae7e3c38126c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonのLoggingを理解する",
+      "author" : "@mikachi",
+      "day" : 9,
+      "url" : "https://qiita.com/mikachi/items/3db7c1c857451c084ac1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gather.Townで社内サークル活動の一部をオンライン化しました",
+      "author" : "@Black-Spider",
+      "day" : 10,
+      "url" : "https://qiita.com/Black-Spider/items/ce587c789f730a766b08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日常生活を支える技術",
+      "author" : "@logy0704",
+      "day" : 11,
+      "url" : "https://qiita.com/logy0704/items/b78338d658e0264dcb55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドでDIするときのインスタンス管理方法について調べてみた",
+      "author" : "@skaji18",
+      "day" : 12,
+      "url" : "https://qiita.com/skaji18/items/cac4165bd5cae782699b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoでDDDっぽいコードを書く方法をGo初心者が考えてみる",
+      "author" : "@Imamotty",
+      "day" : 13,
+      "url" : "https://qiita.com/Imamotty/items/d7c5491bb7b3185d3204"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cordovaアプリの技術的負債を頑張って解消した話",
+      "author" : "@rs_tukki",
+      "day" : 14,
+      "url" : "https://qiita.com/rs_tukki/items/a1af87df2c792a3ef71b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel SailでDocker環境を作ってみる",
+      "author" : "@r_numoto",
+      "day" : 15,
+      "url" : "https://qiita.com/r_numoto/items/62afb14a466a9eaa8743"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ClickHouse 21.12 の新機能",
+      "author" : "@mzuk",
+      "day" : 16,
+      "url" : "https://qiita.com/mzuk/items/a9722135185f86d44969"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Security の仕組みを整理してみた",
+      "author" : "@suger4",
+      "day" : 17,
+      "url" : "https://qiita.com/suger4/items/39b37af3705f2d0271c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECS Fargateの基本用語",
+      "author" : "@akipon1206",
+      "day" : 18,
+      "url" : "https://qiita.com/akipon1206/items/bc00cf00f531ead9512d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Svelteが仮想DOMを使用していないってどういうこと",
+      "author" : "@chorei",
+      "day" : 19,
+      "url" : "https://qiita.com/chorei/items/2fab4dd4de099e615bde"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "半導体不足の影響　PS5は手に入れた？IT業界への影響は？",
+      "author" : "@aizko",
+      "day" : 20,
+      "url" : "https://qiita.com/aizko/items/f55782e2bd2e2a7adf9b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VagrantでSMTPサーバーを作ってPythonで送信APIを作成する",
+      "author" : "@hirobex",
+      "day" : 21,
+      "url" : "https://qiita.com/hirobex/items/f9c15bbe6546909c0272"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Knative Servingでサーバーレスを始める",
+      "author" : "@t_okkan",
+      "day" : 22,
+      "url" : "https://qiita.com/t_okkan/items/eef036534ce3d5511df6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitLab API で Merge Request のコメントを一括取得する方法",
+      "author" : "@akihiyo76",
+      "day" : 23,
+      "url" : "https://qiita.com/akihiyo76/items/2cc798e309b0e82f13fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "php-mysql-engineをCSVファイルのデータ集計に使ってみる",
+      "author" : "@takaram",
+      "day" : 24,
+      "url" : "https://qiita.com/takaram/items/4932131223e9c9dc1169"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アドベントカレンダーくろーるくん",
+      "author" : "@amderbar",
+      "day" : 25,
+      "url" : "https://qiita.com/amderbar/items/d4f2a266e678f04c1510"
+    }
+  ]
+}

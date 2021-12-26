@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:39:46Z",
+  "calendar_meta_data" : {
+    "author" : "@shohey1226",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 0,
+    "title" : "Wazaterm Advent Calendar Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "wazaterm",
+    "url" : "https://qiita.com/advent-calendar/2021/wazaterm"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Wazatermとは？",
+      "author" : "@shohey1226",
+      "day" : 1,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/what-is-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wazatermの特徴",
+      "author" : "@shohey1226",
+      "day" : 2,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/wazaterm-features"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wazatermを使ってみよう",
+      "author" : "@shohey1226",
+      "day" : 3,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/lets-start-using-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートで作業する上で必須のTmuxを使いこなす",
+      "author" : "@shohey1226",
+      "day" : 4,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/tmux-a-must-tool-to-develop-remotely"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ターミナルの外観をカスタマイズする",
+      "author" : "@shohey1226",
+      "day" : 5,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/customize-the-appearance-of-your-terminal"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Powerlineを使ってさらに外観をクールにする",
+      "author" : "@shohey1226",
+      "day" : 6,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/use-powerline-to-make-the-appearance-even-cooler"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WazatermをPWAで独立したアプリとして利用する",
+      "author" : "@shohey1226",
+      "day" : 7,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/use-wazaterm-as-an-independent-application-with-pwa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SSHを使ってWazatermインスタンスにアクセスする",
+      "author" : "@shohey1226",
+      "day" : 8,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/use-ssh-to-access-wazaterm-instance"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SSHでできること",
+      "author" : "@shohey1226",
+      "day" : 9,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/what-you-do-do-with-ssh"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WazatermからGoogleドライブにアクセスする",
+      "author" : "@shohey1226",
+      "day" : 10,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/access-google-drive-from-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wazatermで利用できるポート",
+      "author" : "@shohey1226",
+      "day" : 11,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/available-ports-for-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "起動スクリプト $HOME/.wazarc",
+      "author" : "@shohey1226",
+      "day" : 12,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/startup-script-home-wazarc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webhookを利用したターミナルsuspend/resumeの自動化",
+      "author" : "@shohey1226",
+      "day" : 13,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/automate-terminal-suspend-resume-using-webhook"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wazatermのストレージをバックアップする",
+      "author" : "@shohey1226",
+      "day" : 14,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/back-up-your-storage-on-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EmacsかVimか、それが問題だ(Wazatermで使うEditor)",
+      "author" : "@shohey1226",
+      "day" : 15,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/emacs-or-vim-thats-the-question"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WazatermでVS Code(Code Server)を使う",
+      "author" : "@shohey1226",
+      "day" : 16,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/using-vs-code-code-server-with-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WazatermでRailsアプリを開発する",
+      "author" : "@shohey1226",
+      "day" : 17,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/create-a-rails-app-with-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WazatermでNextJSアプリを開発する",
+      "author" : "@shohey1226",
+      "day" : 18,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/create-a-nextjs-app-with-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WazatermでNuxtJSアプリを開発する",
+      "author" : "@shohey1226",
+      "day" : 19,
+      "url" : "https://www.wazaterm.com/blog/advent-calendar-2021/create-a-nuxtjs-application-with-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WazatermでReact Nativeアプリを開発する",
+      "author" : "@shohey1226",
+      "day" : 20,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/create-react-native-application-with-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wazatermを使ってiPadで開発する",
+      "author" : "@shohey1226",
+      "day" : 21,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/developing-on-ipad-with-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "​WazatermでDockerを使う",
+      "author" : "@shohey1226",
+      "day" : 22,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/use-docker-in-wazaterm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chezmoiを利用してターミナルの冪等性を担保する",
+      "author" : "@shohey1226",
+      "day" : 23,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/use-chezmoi-to-guarantee-idempotency-of-terminal"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "停止を実行するまでのアイドル時間を設定する",
+      "author" : "@shohey1226",
+      "day" : 24,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/set-the-idle-time-before-executing-suspension"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2022年Wazatermロードマップ",
+      "author" : "@shohey1226",
+      "day" : 25,
+      "url" : "https://www.wazaterm.com/ja/blog/advent-calendar-2021/wazaterm-roadmap-for-2022"
+    }
+  ]
+}

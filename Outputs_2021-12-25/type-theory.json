@@ -1,0 +1,130 @@
+{
+  "created_at" : "2021-12-26T02:36:16Z",
+  "calendar_meta_data" : {
+    "author" : "@elpinal",
+    "category" : "学術",
+    "lgtm" : 0,
+    "subscribers" : 61,
+    "title" : "型理論 Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "type-theory",
+    "url" : "https://qiita.com/advent-calendar/2021/type-theory"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@elpinal"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@gitloveme"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@2t6pu6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@elpinal"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@gfngfn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@2t6pu6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者なので型消去についてまとめます",
+      "author" : "@S_Shimotori",
+      "day" : 12,
+      "url" : "https://s-shimotori.hatenablog.com/entry/2021/12/11/230136"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@gfngfn"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@beetomega"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@elpinal"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@cotton-gluon"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@elpinal"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ryo33"
+    }
+  ]
+}

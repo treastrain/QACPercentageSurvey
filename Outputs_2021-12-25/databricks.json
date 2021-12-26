@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T18:53:36Z",
+  "calendar_meta_data" : {
+    "author" : "@taka_yayoi",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 26,
+    "subscribers" : 7,
+    "title" : "Databricks Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "databricks",
+    "url" : "https://qiita.com/advent-calendar/2021/databricks"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricksの小技集",
+      "author" : "@taka_yayoi",
+      "day" : 1,
+      "url" : "https://qiita.com/taka_yayoi/items/896ffb40342816baefc6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricksは自己所有している静的パブリックIPアドレスからアウトバウンドできる数少ないPaaSのデータ分析サービス",
+      "author" : "@manabian",
+      "day" : 2,
+      "url" : "https://qiita.com/manabian/items/9d4c43b312095c44e503"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricksの良いところ(Jupyter notebookとの比較)",
+      "author" : "@taka_yayoi",
+      "day" : 3,
+      "url" : "https://qiita.com/taka_yayoi/items/d5ea3dede05a180091b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricks AutoMLで時系列データ予測をサポートしました",
+      "author" : "@taka_yayoi",
+      "day" : 4,
+      "url" : "https://qiita.com/taka_yayoi/items/7d42bab3017774737ca9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DatabricksでOSS版Delta Sharingを動かしてみる",
+      "author" : "@taka_yayoi",
+      "day" : 5,
+      "url" : "https://qiita.com/taka_yayoi/items/d6b6a5240aeef6e31992"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricksのdisplayメソッドでデータプロファイリングをサポートしました",
+      "author" : "@taka_yayoi",
+      "day" : 6,
+      "url" : "https://qiita.com/taka_yayoi/items/ab9a20f581847ad69080"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricksで python モジュールをimportするには？",
+      "author" : "@maroon-db",
+      "day" : 7,
+      "url" : "https://qiita.com/maroon-db/items/7b06db3af52796033a06"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delta Lakeにおけるテーブルユーティリティコマンド",
+      "author" : "@taka_yayoi",
+      "day" : 8,
+      "url" : "https://qiita.com/taka_yayoi/items/152a31dc44bda51eeecd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricksにて取得元ファイルを切り替えて変数を動的に取得する方法",
+      "author" : "@manabian",
+      "day" : 9,
+      "url" : "https://qiita.com/manabian/items/8958a4bb09b8f2d10acb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Sparkを使ったデータ分析・処理の書き方 - 10のTips",
+      "author" : "@ktmrmshk",
+      "day" : 10,
+      "url" : "https://qiita.com/ktmrmshk/items/afaeaedb50937345d5b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormationでDatabricks環境を作る",
+      "author" : "@saeoshi",
+      "day" : 11,
+      "url" : "https://qiita.com/saeoshi/items/3841c5136bf7d93077df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricks SparkでMeCabを動かしてみる",
+      "author" : "@taka_yayoi",
+      "day" : 12,
+      "url" : "https://qiita.com/taka_yayoi/items/3b5836853eac8ac248c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricks notebookを JobとしてRestAPI経由で実行するには",
+      "author" : "@maroon-db",
+      "day" : 13,
+      "url" : "https://qiita.com/maroon-db/items/a9b29daf52976731f40b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dbt with Databricksで始めるDataOps(1)",
+      "author" : "@iizukak09",
+      "day" : 14,
+      "url" : "https://qiita.com/iizukak09/items/a5ae80ee9ffa63d36c84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricksにおける機械学習モデル構築のエンドツーエンドのサンプル",
+      "author" : "@taka_yayoi",
+      "day" : 15,
+      "url" : "https://qiita.com/taka_yayoi/items/f48ccd35e0452611d81b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricks CLIおよびSecretsの使い方",
+      "author" : "@ktmrmshk",
+      "day" : 16,
+      "url" : "https://qiita.com/ktmrmshk/items/579349f41494e27e1b39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SAS開発者のためのDatabricksとPySpark入門",
+      "author" : "@hara_osamu",
+      "day" : 17,
+      "url" : "https://qiita.com/hara_osamu/items/63ed3d9e4182e0026800"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delta Live TablesでUDFを活用する",
+      "author" : "@taka_yayoi",
+      "day" : 18,
+      "url" : "https://qiita.com/taka_yayoi/items/123347aa8323b4a90730"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dbt with Databricksで始めるDataOps(2)",
+      "author" : "@iizukak09",
+      "day" : 19,
+      "url" : "https://qiita.com/iizukak09/items/30c521de7bdfaa33fdbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PySpark: LightGBM on Sparkを使ってみる",
+      "author" : "@ktksq",
+      "day" : 20,
+      "url" : "https://qiita.com/ktksq/items/522264f5c0f16f0f8e41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AirflowからDatabricksのjobを実行する",
+      "author" : "@saeoshi",
+      "day" : 21,
+      "url" : "https://qiita.com/saeoshi/items/ea38a657fe7c6df36986"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Delta SharingのストレージにAWS S3互換ストレージを利用するちょっとしたTips",
+      "author" : "@dobashim",
+      "day" : 22,
+      "url" : "https://qiita.com/dobashim/items/f92ff792b4a71babcd64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "dbt on databricks～Databricks上でdbt Coreを実行してみた～",
+      "author" : "@manabian",
+      "day" : 23,
+      "url" : "https://qiita.com/manabian/items/93cc6f5655a0466319fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MLflowサプリメント(ゆるくMLflowを使ってみる)",
+      "author" : "@ktmrmshk",
+      "day" : 24,
+      "url" : "https://qiita.com/ktmrmshk/items/2d2b49257405e1452008"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@juanpaulo"
+    }
+  ]
+}

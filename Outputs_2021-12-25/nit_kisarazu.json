@@ -1,0 +1,294 @@
+{
+  "created_at" : "2021-12-25T23:32:40Z",
+  "calendar_meta_data" : {
+    "author" : "@chizuchizu",
+    "category" : "企業・学校・団体",
+    "lgtm" : 129,
+    "subscribers" : 7,
+    "title" : "木更津高専 Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "nit_kisarazu",
+    "url" : "https://qiita.com/advent-calendar/2021/nit_kisarazu"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "木更津高専の事務組織について（総務課編）",
+      "author" : "@NITKC_kumakura",
+      "day" : 1,
+      "url" : "https://qiita.com/NITKC_kumakura/items/a10fe27bd4608ae9829c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "木更津高専の事務組織について（学生課編）",
+      "author" : "@NITKC_kumakura",
+      "day" : 2,
+      "url" : "https://qiita.com/NITKC_kumakura/items/10eae04e4b938124be4a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入門じゃない固有値/固有ベクトル(紹介と対角化とか)",
+      "author" : "@Iwancof",
+      "day" : 3,
+      "url" : "https://qiita.com/Iwancof/items/97cf24493ae7a3e607ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入門じゃない固有値/固有ベクトル(固有値の諸定理)",
+      "author" : "@Iwancof",
+      "day" : 4,
+      "url" : "https://qiita.com/Iwancof/items/7eddbd808314a2c4ebb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CPU自作本を途中まで読んだ感想＆FPGA上で動かそうとしてハマってる話",
+      "author" : "@wakuto",
+      "day" : 5,
+      "url" : "https://qiita.com/wakuto/items/10d8ef7a9f918505baf9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "木更津市周辺にある猫スポット4選",
+      "author" : "@nekoneco",
+      "day" : 6,
+      "url" : "https://nekokawaii.notion.site/4795054e7c884a28a1f3eb4c1f17137a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@MugiSus"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@MugiSus"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "友達の研究室にArduinoで動くカードキーを設置した話",
+      "author" : "@imaimai17468",
+      "day" : 9,
+      "url" : "https://qiita.com/imaimai17468/items/8d982b91f99a698a8b6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複素数を利用した三角関数の積分",
+      "author" : "@rime_math",
+      "day" : 10,
+      "url" : "https://qiita.com/rime_math/items/e96d41ad93bed40ae56a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学寮ネット委員 珍走記",
+      "author" : "@takamasa272",
+      "day" : 11,
+      "url" : "https://qiita.com/takamasa272/items/74dbb85fb7d89ff4799b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "筋電センサMyoWareを使って腕とサーボモーターを連携させる",
+      "author" : "@imaimai17468",
+      "day" : 12,
+      "url" : "https://qiita.com/imaimai17468/items/c85319e61eb26c40b1bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学寮ネット委員 珍事件簿",
+      "author" : "@takamasa272",
+      "day" : 13,
+      "url" : "https://qiita.com/takamasa272/items/f5dbef35cd4acc30fc61"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "あーー　IPアドレスを2進数に変換したいな〜〜　でも面倒だなぁ",
+      "author" : "@chizuchizu",
+      "day" : 14,
+      "url" : "https://qiita.com/chizuchizu/items/22420f660d28adb20444"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "秘密分散を拡大体上で作ってみよう！",
+      "author" : "@Yuu-taremayu",
+      "day" : 15,
+      "url" : "https://qiita.com/Yuu-taremayu/items/659a2659a7fa5349a677"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@imaimai17468"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "常微分方程式数値計算メモ",
+      "author" : "@_LISA0",
+      "day" : 19,
+      "url" : "https://qiita.com/_LISA0/items/dfbd63b828f6a0941f5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Groverのアルゴリズムを実装する",
+      "author" : "@chizuchizu",
+      "day" : 20,
+      "url" : "https://qiita.com/chizuchizu/items/a15a8386b4205d8143f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "木更津高専大好き大好き大好き大好き木更津大好き大好き大好き大好き",
+      "author" : "@_LISA0",
+      "day" : 21,
+      "url" : "https://lisa0.hatenablog.jp/entry/2021/12/24/092827"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ICONIX Processについてゆる〜くに考える",
+      "author" : "@soshi_harami",
+      "day" : 22,
+      "url" : "https://qiita.com/soshi_harami/items/fc2e892bb5ea0ddb1920"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "人類はなぜArch Linuxを使わなければならないのか",
+      "author" : "@soshi_harami",
+      "day" : 23,
+      "url" : "https://qiita.com/soshi_harami/items/26ae37a1f6417848cff4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@chizuchizu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "我不屈抗体注射施行開発 -開発初心者な私が1ヶ月でウェブサービスを作るまで-",
+      "author" : "@tos-up",
+      "day" : 25,
+      "url" : "https://qiita.com/tos-up/items/1ca8885ec33f77561e7c"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Tweetを分析して今年1年を振り返ってみた",
+      "author" : "@shoku-pan",
+      "day" : 20,
+      "url" : "https://qiita.com/shoku-pan/items/aced3cd53522e3faf120"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "二元一次不定方程式と鳩ノ巣原理",
+      "author" : "@rime_math",
+      "day" : 21,
+      "url" : "https://qiita.com/rime_math/items/954a8771fc6b37021daa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Arduinoで電子錠自作！",
+      "author" : "@cpp_4497",
+      "day" : 22,
+      "url" : "https://qiita.com/cpp_4497/items/981aa3d2c202b1bff971"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "\"教える\" のすゝめ",
+      "author" : "@takamasa272",
+      "day" : 23,
+      "url" : "https://qiita.com/takamasa272/items/5dc4f60d01946981705f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "リア充にリア充を台無しにさせたい",
+      "author" : "@tos-up",
+      "day" : 24,
+      "url" : "https://qiita.com/tos-up/items/127aaee0da58f53242ad"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Unityで音ゲーを作りたい",
+      "author" : "@toma09to",
+      "day" : 25,
+      "url" : "https://qiita.com/toma09to/items/0c9aca040ca3278d868e"
+    }
+  ]
+}

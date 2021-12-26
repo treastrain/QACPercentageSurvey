@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T05:19:49Z",
+  "calendar_meta_data" : {
+    "author" : "@jnchito",
+    "category" : "Qiita主催",
+    "lgtm" : 60,
+    "subscribers" : 22,
+    "title" : "Rubyプログラミング問題にチャレンジ！ －改訂版・チェリー本発売記念－ Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "ruby-challenge",
+    "url" : "https://qiita.com/advent-calendar/2021/ruby-challenge"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "点字メーカープログラム",
+      "author" : "@cielavenir",
+      "day" : 1,
+      "url" : "https://qiita.com/cielavenir/items/441631f6796af95fe0ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「点字」と「2進法」ッ！この世にこれほど相性のいいものがあるだろうかッ!?",
+      "author" : "@nodai2h_ITC",
+      "day" : 2,
+      "url" : "https://qiita.com/nodai2h_ITC/items/8217d525b308f9bd5a12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改訂版チェリー本発売記念tenji-maker-challengeを解いてみた",
+      "author" : "@morimorihoge",
+      "day" : 3,
+      "url" : "https://techracho.bpsinc.jp/morimorihoge/2021_12_03/114105"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改訂版チェリー本発売記念tenji-maker-challenge~点字は行列に見立てる",
+      "author" : "@Shun_Tagami",
+      "day" : 4,
+      "url" : "https://qiita.com/Shun_Tagami/items/34248e1c4bc4a8eb1905"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyプログラミング問題にチャレンジ! suzuki_mar ",
+      "author" : "@suzuki-mar",
+      "day" : 5,
+      "url" : "https://qiita.com/suzuki-mar/items/e1f25fca4d9f9b378027"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改訂版・チェリー本発売記念　点字メーカープログラムに挑戦してみた！(Advent Calendar 2021/Qiita主催)",
+      "author" : "@haruguchiyuma",
+      "day" : 6,
+      "url" : "https://haruguchi-yuma.hatenablog.com/entry/2021/12/06/102158"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点字メーカープログラム",
+      "author" : "@obregonia1",
+      "day" : 7,
+      "url" : "https://www.obregonia1.com/blog/tenji-maker"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyで点字メーカープログラム作成にチャレンジしました！ 〜Qiita Advent Calendar 2021〜",
+      "author" : "@Paru871",
+      "day" : 8,
+      "url" : "https://qiita.com/Paru871/items/6157937a80c2deb81e2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シンプルな実装で挑む点字メーカーチャレンジ",
+      "author" : "@watame",
+      "day" : 9,
+      "url" : "https://qiita.com/watame/items/af9ac1f6023ec2307822"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyで点字メーカープログラムを書いた",
+      "author" : "@siroemk",
+      "day" : 10,
+      "url" : "https://siroemk.hatenablog.com/entry/2021/12/10/174042"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改訂版・チェリー本発売記念企画のRubyプログラミング問題にチャレンジ！",
+      "author" : "@universato",
+      "day" : 11,
+      "url" : "https://qiita.com/universato/items/b127d12d2a7494abcd0e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyを使って点字をbit変換して出力",
+      "author" : "@ktanoooo",
+      "day" : 12,
+      "url" : "https://qiita.com/ktanoooo/items/11786a9c57420d4c3e02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点字メーカーを作ってみた! ~チェリー本改訂版発売記念アドベントカレンダー企画~",
+      "author" : "@matsuken314",
+      "day" : 13,
+      "url" : "https://qiita.com/matsuken314/items/a3ef5a5f39ec4bb32f49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyプログラミング問題にチャレンジ！ －改訂版・チェリー本発売記念－ に挑戦しました",
+      "author" : "@yukoono",
+      "day" : 14,
+      "url" : "https://qiita.com/yukoono/items/a11b37dbb8624fd98786"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Advent Calendar 2021】点字メーカープログラム",
+      "author" : "@mf_ham",
+      "day" : 15,
+      "url" : "https://mfham.hatenablog.com/entry/2021/12/15/235739"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyプログラミング問題にチャレンジしました！ －改訂版・チェリー本発売記念－",
+      "author" : "@libru1",
+      "day" : 16,
+      "url" : "https://qiita.com/libru1/items/2dc59a3ebc3af2261496"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点字には法則がある！Rubyの点字メーカプログラム",
+      "author" : "@adebadayo",
+      "day" : 17,
+      "url" : "https://qiita.com/adebadayo/items/5aeaa24dc001970437ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyプログラミング問題にチャレンジ！ －改訂版・チェリー本発売記念－ 18日目",
+      "author" : "@sa_tech0518",
+      "day" : 18,
+      "url" : "https://qiita.com/sa_tech0518/items/b30f4e8f780c12fa5849"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "我流プログラマは、点字メーカーチャレンジのお題に、ちゃんと答えられるのか？",
+      "author" : "@kazkura",
+      "day" : 19,
+      "url" : "https://qiita.com/kazkura/items/8b0132d4be98b7a02bea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点字はプログラミングの良い題材だと知った",
+      "author" : "@nakazawaken1",
+      "day" : 20,
+      "url" : "https://qiita.com/nakazawaken1/items/d51b81f0d720169258b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "🍒Rubyプログラミング問題にチャレンジ！ －改訂版・チェリー本発売記念－🎸",
+      "author" : "@akmhmgc",
+      "day" : 21,
+      "url" : "https://qiita.com/akmhmgc/items/8164d45cb7ab90818ec3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点字メーカープログラムに挑戦！ | 行列でシンプルに実装",
+      "author" : "@stonesaw",
+      "day" : 22,
+      "url" : "https://qiita.com/stonesaw/items/33a53b702660cce34e6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改訂版・チェリー本発売記念のRubyプログラミング問題にチャレンジしました",
+      "author" : "@n0dam1",
+      "day" : 23,
+      "url" : "https://qiita.com/n0dam1/items/d09c0268c4df4f829e58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rubyをつかってローマ字を点字に変換する",
+      "author" : "@ek-h1-hy",
+      "day" : 24,
+      "url" : "https://qiita.com/ek-h1-hy/items/4aa2da6bcbbcd2444d13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "点字翻訳機を作ってみたよ",
+      "author" : "@kyuki3rain",
+      "day" : 25,
+      "url" : "https://qiita.com/kyuki3rain/items/30414d9e589af561cd26"
+    }
+  ]
+}

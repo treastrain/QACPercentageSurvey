@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:59:56Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エイチームライフスタイル",
+    "category" : "企業・学校・団体",
+    "lgtm" : 183,
+    "subscribers" : 10,
+    "title" : "Ateam Lifestyle Inc. Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "ateam-lifestyle",
+    "url" : "https://qiita.com/advent-calendar/2021/ateam-lifestyle"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CORSエラー回避法ではなくCORSそのものについて理解したいの（初学者向け）",
+      "author" : "@ryosuketter",
+      "day" : 1,
+      "url" : "https://qiita.com/ryosuketter/items/a60a2bc0220a5cbff17e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実体験から学ぶ、Gitを使う意義",
+      "author" : "@asasigure",
+      "day" : 2,
+      "url" : "https://qiita.com/asasigure/items/825c92b45f43bda5cba9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSの各サービス名と内容がいつまで経っても覚えられないので書き出す",
+      "author" : "@engabesi",
+      "day" : 3,
+      "url" : "https://qiita.com/engabesi/items/5148b2becd7fbc065793"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "育成責任を負うマネージャーしかできない唯一のこと",
+      "author" : "@b_b",
+      "day" : 4,
+      "url" : "https://note.com/b_band/n/n00da437d8819"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Deno Deploy の実行環境を紐解いてみた",
+      "author" : "@tsutorm",
+      "day" : 5,
+      "url" : "https://qiita.com/tsutorm/items/b80a12d23825ad6709a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "逃げちゃだめだ！事業責任者編",
+      "author" : "@odn_chi",
+      "day" : 6,
+      "url" : "https://note.com/koki_chida/n/n4dc380dba137"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java/Kotlinでembulk-pluginを作る",
+      "author" : "@engabesi",
+      "day" : 7,
+      "url" : "https://qiita.com/engabesi/items/9d08342241405378a8f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザバックで出てくるアレをReactHooksで実装する方法",
+      "author" : "@asasigure",
+      "day" : 8,
+      "url" : "https://qiita.com/asasigure/items/8e6864fbd11c8890d507"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "moonlanderのキー配置を晒す",
+      "author" : "@msm_2",
+      "day" : 9,
+      "url" : "https://qiita.com/msm_2/private/8ca1412b1a2a2f43832a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "えっ！？ &&で繋ぐだけで出し分けられるんじゃないんですか！？",
+      "author" : "@kmfj",
+      "day" : 10,
+      "url" : "https://qiita.com/kmfj/items/1c67c5de7203511e7ad6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウィトゲンシュタインとボブおじさんのおかげで私は2つの誤解が解けた結果、仕事における胆力と責任感が増した気がするゴリゴリの主観ポエム",
+      "author" : "@ryosuketter",
+      "day" : 11,
+      "url" : "https://qiita.com/ryosuketter/items/8951da0b0157f184c298"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ASCとDESCを覚えるのが苦手な人へ。私はこれで覚えました。",
+      "author" : "@ryosuketter",
+      "day" : 12,
+      "url" : "https://qiita.com/ryosuketter/items/eaaa66aa93a311635628"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーが実装で見るべき４つのポイント",
+      "author" : "@snd-07",
+      "day" : 13,
+      "url" : "https://qiita.com/snd-07/items/2707b1cfc8d563120b5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノーコードツールを触り倒したら、エンジニアとデザイナーへの感謝が増した話。",
+      "author" : "@kosukefujiwara",
+      "day" : 14,
+      "url" : "https://note.com/fujiwara_mm/n/n8cf912e0b883"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSアカウントのコストを見直していく",
+      "author" : "@dayamaguchi1",
+      "day" : 15,
+      "url" : "https://qiita.com/dayamaguchi1/items/48d517a5446aaec211cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "因果推論で推定した効果を可視化してみたい",
+      "author" : "@yuko1658",
+      "day" : 16,
+      "url" : "https://qiita.com/yuko1658/items/714c5f283c0a035f9064"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【こだわり別！】僕たちが考える、在宅ワークさいきょうの作業環境",
+      "author" : "@pyonsomi",
+      "day" : 17,
+      "url" : "https://qiita.com/pyonsomi/items/385625764aa437463fd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "元エンジニアマーケターの働き方を劇的に変えた、たった一つの考え方",
+      "author" : "@takuya_sp",
+      "day" : 18,
+      "url" : "https://qiita.com/takuya_sp/items/0fec22b815012d8c3695"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大きな開発こそ小さくリリースしよう",
+      "author" : "@Shion84",
+      "day" : 19,
+      "url" : "https://qiita.com/Shion84/items/477e6612abd100a6e98d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "4年目デザイナー(ゴリラ)を闇落ちさせないためのセルフマネジメントについて。",
+      "author" : "@ponco",
+      "day" : 20,
+      "url" : "https://note.com/ponco_sngm/n/n9757d3dcb3e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pecoを使って少しでも仕事を早くする",
+      "author" : "@otama",
+      "day" : 21,
+      "url" : "https://qiita.com/otama/items/b6e31208751d88b44f77"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jestでglobalなオブジェクトをmockしたテストを書く",
+      "author" : "@mistolteen",
+      "day" : 22,
+      "url" : "https://qiita.com/mistolteen/items/76c335107f9859cd537f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WordPressでのHeadlessCMS化についての考察",
+      "author" : "@yutaroud",
+      "day" : 23,
+      "url" : "https://qiita.com/yutaroud/items/20b3cf78a440f5f8c3bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "\"工数が足らない\" からの脱却",
+      "author" : "@tsutorm",
+      "day" : 24,
+      "url" : "https://qiita.com/tsutorm/items/c53e943ac2f54f0f43ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ShallowDive Serverless Stack",
+      "author" : "@masatomasato1224",
+      "day" : 25,
+      "url" : "https://qiita.com/masatomasato1224/items/77b97b654d9eca36c3c4"
+    }
+  ]
+}

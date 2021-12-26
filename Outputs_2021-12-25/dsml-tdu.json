@@ -1,0 +1,176 @@
+{
+  "created_at" : "2021-12-25T22:26:39Z",
+  "calendar_meta_data" : {
+    "author" : "@YKIYOLO",
+    "category" : "企業・学校・団体",
+    "lgtm" : 48,
+    "subscribers" : 12,
+    "title" : "TDU_データ科学・機械学習研究室 Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "dsml-tdu",
+    "url" : "https://qiita.com/advent-calendar/2021/dsml-tdu"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerでcode-serverを立てる",
+      "author" : "@YKIYOLO",
+      "day" : 1,
+      "url" : "https://qiita.com/YKIYOLO/items/06cf44dead84188677ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BERT派生モデルの論文紹介",
+      "author" : "@kryouhei673",
+      "day" : 2,
+      "url" : "https://qiita.com/kryouhei673/items/cd6d5537ea13f1015146"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BrainF**kはすばらしい",
+      "author" : "@kukuku",
+      "day" : 3,
+      "url" : "https://qiita.com/kukuku/items/4f0796b264ccd75b0118"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "fairseqの使い方",
+      "author" : "@keita_M",
+      "day" : 4,
+      "url" : "https://qiita.com/keita_M/items/3a7401ef48df3ec92b6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Hydra+wandb+etc..】研究室で利用している機械学習実験環境について(追記予定です．)",
+      "author" : "@YKIYOLO",
+      "day" : 5,
+      "url" : "https://qiita.com/YKIYOLO/items/16a829242023c64ff510"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ACL2021 best paper 紹介",
+      "author" : "@kryouhei673",
+      "day" : 6,
+      "url" : "https://qiita.com/kryouhei673/items/c521b3fde8203d0951e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "色々置いといて取り敢えずpythonでスクレイピング",
+      "author" : "@ohno1020",
+      "day" : 7,
+      "url" : "https://qiita.com/ohno1020/items/27d006cd7057f82f389f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "取り敢えずpythonでGUIを使ってみる",
+      "author" : "@ohno1020",
+      "day" : 8,
+      "url" : "https://qiita.com/ohno1020/items/646fc4f038d4466dd99f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ResNet18の構造をやんわりと理解する",
+      "author" : "@teacat",
+      "day" : 9,
+      "url" : "https://qiita.com/teacat/items/d6b24fb5353872f6b3a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vision-Transformer 資料&コードまとめ",
+      "author" : "@umeboshi123",
+      "day" : 10,
+      "url" : "https://qiita.com/umeboshi123/items/993a29d4dcecdf3446e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "shellを制作する際の留意点",
+      "author" : "@kukuku",
+      "day" : 11,
+      "url" : "https://qiita.com/kukuku/items/f9401f450ae3471947e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DoubleDescentを知る",
+      "author" : "@teacat",
+      "day" : 12,
+      "url" : "https://qiita.com/teacat/items/a8bed22329956b80671f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "zoom会議にバーチャルモデルで参加しよう！",
+      "author" : "@potassium-19",
+      "day" : 13,
+      "url" : "https://qiita.com/potassium-19/items/ee8030484c548b1570ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Another Diversity-Promoting Objective Function for Neural Dialog Generation",
+      "author" : "@potassium-19",
+      "day" : 14,
+      "url" : "https://qiita.com/potassium-19/items/c348e3589b646189a6f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonをきれいに書きたい",
+      "author" : "@R_okz",
+      "day" : 15,
+      "url" : "https://qiita.com/R_okz/items/1e537afe94058ca6308a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "来年度にむけた、コーヒーデータベースの考案",
+      "author" : "@meeseshun",
+      "day" : 16,
+      "url" : "https://qiita.com/meeseshun/items/8fe0a3d4c64ad5033ed6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mac環境でCoral USB Acceleratorを動かしてみる",
+      "author" : "@wawamoto",
+      "day" : 17,
+      "url" : "https://qiita.com/wawamoto/items/a66d626e51b0c864969c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@YKIYOLO"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@YKIYOLO"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@YutaKtabayashi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Juliaを触ってみた",
+      "author" : "@Ryo__Ka",
+      "day" : 21,
+      "url" : "https://qiita.com/Ryo__Ka/items/b6080ccf80aefe10abfb"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@Kou__chan"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@__Bactpus__"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@t0810"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@YKIYOLO"
+    }
+  ]
+}

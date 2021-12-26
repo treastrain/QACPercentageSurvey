@@ -1,0 +1,170 @@
+{
+  "created_at" : "2021-12-26T05:01:46Z",
+  "calendar_meta_data" : {
+    "author" : "@athos",
+    "category" : "プログラミング言語",
+    "lgtm" : 49,
+    "subscribers" : 33,
+    "title" : "Clojure Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "clojure",
+    "url" : "https://qiita.com/advent-calendar/2021/clojure"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojure Language Update 2021",
+      "author" : "@athos",
+      "day" : 1,
+      "url" : "https://qiita.com/athos/items/bd0c02c7988f99ef8d25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シリアライズできないマップにでくわした時",
+      "author" : "@iku000888",
+      "day" : 2,
+      "url" : "https://scrapbox.io/iku000888-notes/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%83%9E%E3%83%83%E3%83%97%E3%81%AB%E3%81%A7%E3%81%8F%E3%82%8F%E3%81%97%E3%81%9F%E6%99%82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "reititはいいぞ",
+      "author" : "@valerauko",
+      "day" : 3,
+      "url" : "https://blog.valerauko.net/2021/12/03/reitit-wa-ii-zo/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojureで行列計算を実装したときに考えたトリック",
+      "author" : "@deltam",
+      "day" : 4,
+      "url" : "https://deltam.blogspot.com/2021/12/clojure-matrix.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーから見たClojureの会社",
+      "author" : "@satomimotas",
+      "day" : 5,
+      "url" : "https://qiita.com/satomimotas/items/98af363900e9c99c3dd9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kafka-streamsのstateListenerにあれもこれもやらせたい",
+      "author" : "@iku000888",
+      "day" : 6,
+      "url" : "https://scrapbox.io/iku000888-notes/kafka-streams%E3%81%AEstateListener%E3%81%AB%E3%81%82%E3%82%8C%E3%82%82%E3%81%93%E3%82%8C%E3%82%82%E3%82%84%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "conformity",
+      "author" : "@iku000888",
+      "day" : 7,
+      "url" : "https://scrapbox.io/iku000888-notes/conformity"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojure CLIからヘルプを確認する",
+      "author" : "@athos",
+      "day" : 8,
+      "url" : "https://zenn.dev/athos/articles/f43a0bd988baaf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojure で静的に例外処理をチェックしたい話",
+      "author" : "@uochan",
+      "day" : 9,
+      "url" : "https://zenn.dev/uochan/articles/2021-12-09-clj-try-to-check-error"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojureで仕事してみたふりかえり",
+      "author" : "@kbaba1001",
+      "day" : 10,
+      "url" : "https://www.kbaba1001.com/entry/2021/12/10/040139"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojerl の runtime に起動してゐる process 達",
+      "author" : "@ne_sachirou",
+      "day" : 11,
+      "url" : "https://c4se.hatenablog.com/entry/2021/12/11/034835"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Datomic Cloud を半年運用した感想",
+      "author" : "@hden",
+      "day" : 12,
+      "url" : "https://note.com/hden/n/n185d655ea4bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojure CLI 向けツールの作り方",
+      "author" : "@uochan",
+      "day" : 13,
+      "url" : "https://zenn.dev/uochan/articles/2021-12-13-clojure-cli-tool"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojureで実装されている静的コード解析ツールCodeSceneでClojureプロジェクトを分析する",
+      "author" : "@k2nakamura",
+      "day" : 14,
+      "url" : "https://qiita.com/k2nakamura/items/864d52c673d11238afa4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アルゴリズム設計に欠かせない問題解決のための「還元」 with Clojure",
+      "author" : "@conf8o",
+      "day" : 16,
+      "url" : "https://qiita.com/conf8o/items/19bd7405687e2fcdb667"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@niyarin"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@blackawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vlojure で FizzBuzz",
+      "author" : "@bufferings",
+      "day" : 19,
+      "url" : "https://bufferings.hatenablog.com/entry/2021/12/19/141203"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Clojureから画像変換してみる",
+      "author" : "@valerauko",
+      "day" : 22,
+      "url" : "https://studist.tech/lets-try-image-editing-with-clojure-b2747105a5b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@k-kom"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Hyuga_Yamaguchi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

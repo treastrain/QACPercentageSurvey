@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:55:44Z",
+  "calendar_meta_data" : {
+    "author" : "@naka34",
+    "category" : "企業・学校・団体",
+    "lgtm" : 106,
+    "subscribers" : 2,
+    "title" : "インフォマティカ Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "informatica",
+    "url" : "https://qiita.com/advent-calendar/2021/informatica"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "概説 インフォマティカ・データマネジメントプラットフォーム",
+      "author" : "@naka34",
+      "day" : 1,
+      "url" : "https://qiita.com/naka34/items/69bc756c02cd5552b21a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IICS（Informatica Intelligent Cloud Services）CDI(Cloud Data Integration）Masking Transformationの依存マスキング使い方",
+      "author" : "@Takumi248",
+      "day" : 2,
+      "url" : "https://qiita.com/Takumi248/items/815483c4d006afb3251c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IICS の稼働状況やメンテナンス状況を確認してみる [Informatica]",
+      "author" : "@ORA-1060",
+      "day" : 3,
+      "url" : "https://qiita.com/ORA-1060/items/31b0a4c0a3574540c623"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IICS IPU メータリング ダッシュボード入門編 #1 [Informatica]",
+      "author" : "@ORA-1060",
+      "day" : 4,
+      "url" : "https://qiita.com/ORA-1060/items/9e05703330d2450532a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "意外に知られていない? データマネジメントの基本「整然データ」の概念",
+      "author" : "@NIEKAWA_Toyohiro",
+      "day" : 5,
+      "url" : "https://qiita.com/NIEKAWA_Toyohiro/items/a98967b29d2c195034d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "COBOLコピーブックをもとにマルチレイアウト・ファイルからデータを抽出してみる",
+      "author" : "@naka34",
+      "day" : 6,
+      "url" : "https://qiita.com/naka34/items/7e82b7b3182fc24df03c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "# IICS Cloud Mass Ingestion Applicationsを使ってみる",
+      "author" : "@tabe77",
+      "day" : 7,
+      "url" : "https://qiita.com/tabe77/items/b215c34ccbc3ae51888b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IICS IPU メータリング ダッシュボード入門編 #2 [Informatica]",
+      "author" : "@ORA-1060",
+      "day" : 8,
+      "url" : "https://qiita.com/ORA-1060/items/437e803f510009378022"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "住所データを綺麗にしてみる",
+      "author" : "@naka34",
+      "day" : 9,
+      "url" : "https://qiita.com/naka34/items/39ce0081ac7136281717"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Informatica Intelligent Cloud ServicesのFree Serviceについて",
+      "author" : "@naka34",
+      "day" : 10,
+      "url" : "https://blogs.informatica.com/jp/2021/12/09/fast-track-your-elt-and-etl-use-cases-with-free-cloud-data-integration-on-aws-html/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Informatica 製品のトラブルシュートで収集する情報リンクまとめ",
+      "author" : "@syoshid",
+      "day" : 11,
+      "url" : "https://qiita.com/syoshid/items/b1c6ab93192bd2119f97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IICS IPU メータリング ダッシュボード入門編 #3 [Informatica]",
+      "author" : "@ORA-1060",
+      "day" : 12,
+      "url" : "https://qiita.com/ORA-1060/items/e79302d29d6ef163e5f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snowflakeのリネージュをデータカタログで可視化してみる",
+      "author" : "@masatoshimada-max",
+      "day" : 13,
+      "url" : "https://qiita.com/masatoshimada-max/items/735f1742c5652f3c8984"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "API Manager カスタムAPIを使ってみる",
+      "author" : "@tabe77",
+      "day" : 14,
+      "url" : "https://qiita.com/tabe77/items/8e26165d2e4349e9434e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバレスも実現できるInformatica Intelligent Cloud Servicesのランタイム環境",
+      "author" : "@naka34",
+      "day" : 15,
+      "url" : "https://qiita.com/naka34/items/b55e67731c9df7b562d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "難しい言葉を使わずにデータマネジメントについて語ってみる",
+      "author" : "@moritata9",
+      "day" : 16,
+      "url" : "https://qiita.com/moritata9/items/a7698fba7f9fab7cda18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DevOpsの3つの道になぞらえてDataOpsの3つの道について語ってみる",
+      "author" : "@moritata9",
+      "day" : 17,
+      "url" : "https://qiita.com/moritata9/items/77ac04ed3910739aa113"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IICS オペレーションインサイト データ統合アラート 編  [Informatica]",
+      "author" : "@ORA-1060",
+      "day" : 18,
+      "url" : "https://qiita.com/ORA-1060/items/dc3183b2e4fa4f6efd5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Databricks Notesbooksのリネージュをデータカタログで可視化してみる",
+      "author" : "@masatoshimada-max",
+      "day" : 19,
+      "url" : "https://qiita.com/masatoshimada-max/items/4998d6c368367f4503f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "難しい言葉を使わずにデータガバナンスについて語ってみる",
+      "author" : "@moritata9",
+      "day" : 20,
+      "url" : "https://qiita.com/moritata9/items/9d82759a2a0fbe81b7d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Axonが誘うデータガバナンスの世界",
+      "author" : "@moritata9",
+      "day" : 21,
+      "url" : "https://qiita.com/moritata9/items/82eb5e19e13897364ed9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データガバナンス名言集",
+      "author" : "@moritata9",
+      "day" : 22,
+      "url" : "https://qiita.com/moritata9/items/710d7716e0b8f1b77799"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IICS でOracle Cloud のAutonomous Database に接続してみる",
+      "author" : "@karata",
+      "day" : 23,
+      "url" : "https://qiita.com/karata/items/0a13eb6d3236db01474f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これであなたもデータマネジメント通！インフォマティカ・ ブログ トップ10！ ～グローバル編～",
+      "author" : "@naka34",
+      "day" : 24,
+      "url" : "https://qiita.com/naka34/items/abb0deb1fc5de17d6674"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これであなたもデータマネジメント通！インフォマティカ・ ブログ トップ10！ ～日本編～",
+      "author" : "@HisaeIno",
+      "day" : 25,
+      "url" : "https://qiita.com/HisaeIno/items/8e182e46e0481d0f7b58"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:09:33Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社 日立製作所 / クラウドビジネス推進センタ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 156,
+    "subscribers" : 7,
+    "title" : "日立製作所 クラウドビジネス推進センタ Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "hitachi-cbc",
+    "url" : "https://qiita.com/advent-calendar/2021/hitachi-cbc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - AWS Chalice を使ってサーバレスアプリケーションを開発しよう",
+      "author" : "@chacco38",
+      "day" : 1,
+      "url" : "https://qiita.com/chacco38/items/75412d7fdd6832931b56"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - TaskCat を使って CloudFormation テンプレートの自動テストをしよう",
+      "author" : "@chacco38",
+      "day" : 2,
+      "url" : "https://qiita.com/chacco38/items/59887ad3ed7fba7eb0ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - CloudWatchのダッシュボードをAuto Scalingに追従して自動で設定する",
+      "author" : "@hiroya_mizukoshi",
+      "day" : 3,
+      "url" : "https://qiita.com/hiroya_mizukoshi/items/8f2e812415a1dd3dd968"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft Sentinel を使って GitHub Enterprise Cloud のセキュリティを強化しよう (Azure Logic Apps コネクタ編)",
+      "author" : "@chacco38",
+      "day" : 4,
+      "url" : "https://qiita.com/chacco38/items/efc75a32089c06ca0fcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft Sentinel を使って GitHub Enterprise Cloud のセキュリティを強化しよう (Azure Functions コネクタ編)",
+      "author" : "@chacco38",
+      "day" : 5,
+      "url" : "https://qiita.com/chacco38/items/44b74c07623dd20930fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - AWS X-Rayによる分散トレーシング その1 (概要編)",
+      "author" : "@k-inui",
+      "day" : 6,
+      "url" : "https://qiita.com/k-inui/items/18eba083a6fe061e5ea5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - AWS X-Rayによる分散トレーシング その2 (Java編)",
+      "author" : "@k-inui",
+      "day" : 7,
+      "url" : "https://qiita.com/k-inui/items/33bb5819d0ee24e02e28"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - AWS CodeBuildのビルド時間短縮",
+      "author" : "@ko-shimizu",
+      "day" : 8,
+      "url" : "https://qiita.com/ko-shimizu/items/b13311384f6c25d9f44d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - AWS X-Rayによる分散トレーシング その3 (Node.js編)",
+      "author" : "@masahiro-kubo",
+      "day" : 9,
+      "url" : "https://qiita.com/masahiro-kubo/items/ea295dfb2412d7342f71"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アラフォー2児の母がMicrosoft Azure Data Fundamentals(DP-900)をサクッと取得",
+      "author" : "@mofu_mother",
+      "day" : 10,
+      "url" : "https://qiita.com/mofu_mother/items/766fab0ce3bd62b0c513"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GKE Autopilot と Anthos Service Mesh を使ってフルマネージドなサービスメッシュ環境を構築してみた",
+      "author" : "@chacco38",
+      "day" : 11,
+      "url" : "https://qiita.com/chacco38/items/b5eb17de7f506ab028ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GHEC Audit Log CLI を使って GitHub Enterprise Cloud の監査ログを取得してみた",
+      "author" : "@chacco38",
+      "day" : 12,
+      "url" : "https://qiita.com/chacco38/items/726ecf060c3a5bfd9790"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アラフォー2児の母がAWS Certified Cloud Practitioner(CLF)を取得",
+      "author" : "@mofu_mother",
+      "day" : 13,
+      "url" : "https://qiita.com/mofu_mother/items/10891acb9c0882bad44e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数リージョンの GKE クラスタと Anthos Service Mesh でマルチクラスタメッシュ環境を構築してみた",
+      "author" : "@chacco38",
+      "day" : 14,
+      "url" : "https://qiita.com/chacco38/items/971dba633fa60245263b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "単一リージョンの複数 GKE クラスタと Anthos Service Mesh でマルチクラスタメッシュ環境を構築してみた",
+      "author" : "@chacco38",
+      "day" : 15,
+      "url" : "https://qiita.com/chacco38/items/97173da86f2f8e2ecc20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS費用監視ツール(前編:AWS マネジメントコンソール&AWS CLI)",
+      "author" : "@t-taku",
+      "day" : 16,
+      "url" : "https://qiita.com/t-taku/items/ef0e7edc79f89929d466"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS費用監視ツール(後編:Lambda活用)",
+      "author" : "@t-taku",
+      "day" : 17,
+      "url" : "https://qiita.com/t-taku/items/56f0e79dda55d89107e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS DevOps - AWS Load Balancer Controller を使って ELB を Kubernetes のマニフェストファイルで管理しよう",
+      "author" : "@chacco38",
+      "day" : 18,
+      "url" : "https://qiita.com/chacco38/items/7a444413926a5e6b8be6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウドリフト時の標準移行ツールのご紹介",
+      "author" : "@ya-sasaki",
+      "day" : 19,
+      "url" : "https://qiita.com/ya-sasaki/items/b74ba7caeb717c0f324f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Dataproc サービスアカウントベースの安全なマルチテナンシー」によるアクセス制御",
+      "author" : "@hiroya_mizukoshi",
+      "day" : 20,
+      "url" : "https://qiita.com/hiroya_mizukoshi/items/3ec2bd4ed7e9eea9a6fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS RDS自動停止の方法",
+      "author" : "@rinrincc",
+      "day" : 21,
+      "url" : "https://qiita.com/rinrincc/items/42ac22510b05e2713c9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GKE クラスタ作成時のオプションで Anthos Service Mesh を有効化できるようになりました",
+      "author" : "@chacco38",
+      "day" : 22,
+      "url" : "https://qiita.com/chacco38/items/e33a9c2dced7b6d420ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CloudShell 上の vi エディタでインデントの自動挿入なしでペーストする方法",
+      "author" : "@chacco38",
+      "day" : 23,
+      "url" : "https://qiita.com/chacco38/items/97cb2e6ca56dac7e61a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microservice and Transaction Management3 : 合意理論からみる2Phase CommitとMicroservice",
+      "author" : "@j-nishitani",
+      "day" : 24,
+      "url" : "https://qiita.com/j-nishitani/items/c8deefd151de0f4e49b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウド技術書紹介(AWS/Azure/2021年編)",
+      "author" : "@t-taku",
+      "day" : 25,
+      "url" : "https://qiita.com/t-taku/items/fb3f35be4bbfde260fbb"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "created_at" : "2021-12-26T03:02:52Z",
+  "calendar_meta_data" : {
+    "author" : "@ktpi2000",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 12,
+    "title" : "KAYAC Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "kayac",
+    "url" : "https://qiita.com/advent-calendar/2021/kayac"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "DynamoDBで分散ロックを実現するsetddblockと現代版アクセスカウンター",
+      "author" : "@mashiike",
+      "day" : 1,
+      "url" : "https://techblog.kayac.com/dynamodb-setddblock"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内月イチ自由形発表会「つくっていいとも」を運営しています",
+      "author" : "@ToshihitoKon",
+      "day" : 2,
+      "url" : "https://techblog.kayac.com/introduce-tukutte-iitomo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "三角締めからのエスケープについて",
+      "author" : "@takihito",
+      "day" : 3,
+      "url" : "https://techblog.kayac.com/2021-12-01-advent-calendar-triangle-choke"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon ECS タスクのイベントとログを時系列で出す tracer を作った",
+      "author" : "@sfujiwara",
+      "day" : 4,
+      "url" : "https://techblog.kayac.com/ecs-task-tracer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "退職してもなおミームとして生き残り続ける社員がいる",
+      "author" : "@commojun",
+      "day" : 5,
+      "url" : "https://techblog.kayac.com/2021/12/05/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tonamelのスポンサー機能を作ったときのマイクロサービスの分割方法",
+      "author" : "@mackee_w",
+      "day" : 6,
+      "url" : "https://techblog.kayac.com/2021/12/06/201000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年サーバーサイドのエンジニアが使ってよかったもの10選",
+      "author" : "@ken39arg",
+      "day" : 7,
+      "url" : "https://techblog.kayac.com/2021/12/07/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初めて自作OSSツールを業務コードに入れた話",
+      "author" : "@ToshihitoKon",
+      "day" : 8,
+      "url" : "https://techblog.kayac.com/my-first-oss-tool"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mackerel関連で2021年にやったことまとめ",
+      "author" : "@sfujiwara",
+      "day" : 9,
+      "url" : "https://techblog.kayac.com/mackerel-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かっこいいアニメーションを実装できるFramer Motionを触ってみた",
+      "author" : "@ktpi2000",
+      "day" : 10,
+      "url" : "https://techblog.kayac.com/framer-motion-playground"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "え！！ ECS exec でファイルの送受信を！？",
+      "author" : "@mix3",
+      "day" : 11,
+      "url" : "https://techblog.kayac.com/2021/12/11/093000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クソダジャレのクソゲーを会社名義で勝手にリリースしてしまった…",
+      "author" : "@commojun",
+      "day" : 12,
+      "url" : "https://techblog.kayac.com/2021/12/12/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数の開発環境またいで感じたTypeScriptとコンポーネント開発におけるよいところと改善点",
+      "author" : "@nyawach",
+      "day" : 13,
+      "url" : "https://techblog.kayac.com/2021/12/13/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "すき焼きの写真にすき焼きの3Dモデルを埋め込む方法",
+      "author" : "@tsmallfield",
+      "day" : 14,
+      "url" : "https://techblog.kayac.com/embed-binary-data-in-sukiyaki-picture"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityでイラストを作るためにやったこと",
+      "author" : "@haramakoto@github",
+      "day" : 15,
+      "url" : "https://techblog.kayac.com/2021/12/15/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityを用いた肉体の進化について",
+      "author" : "@otama_jaccy",
+      "day" : 16,
+      "url" : "https://techblog.kayac.com/2021/12/16/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHubの 👎でウッとならないように魔改造してみた話",
+      "author" : "@spdbear",
+      "day" : 17,
+      "url" : "https://techblog.kayac.com/github-thumbsdown-effector"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "three.jsで2D画像ジェネレーターを作った話",
+      "author" : "@miyabin66",
+      "day" : 18,
+      "url" : "https://techblog.kayac.com/2021/12/18/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EmacsとVisual Studio Codeの使い分け",
+      "author" : "@handlename",
+      "day" : 19,
+      "url" : "https://techblog.kayac.com/emacs-with-vscode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "7年続いたサービスをEC2構成からECS構成へ乗り換えた話",
+      "author" : "@commojun",
+      "day" : 20,
+      "url" : "https://techblog.kayac.com/2021/12/20/120000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【解説編】すき焼きの写真にすき焼きの3Dモデルを埋め込む方法",
+      "author" : "@tsmallfield",
+      "day" : 21,
+      "url" : "https://techblog.kayac.com/how-to-embed-binary-data-in-sukiyaki-picture"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@takumifukasawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "突撃！隣のリモートワーク環境 2021",
+      "author" : "@koluku",
+      "day" : 23,
+      "url" : "https://techblog.kayac.com/remote-works-2021-winter"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "トナカイと白ひげのおじいさんに学ぶUVアニメーション",
+      "author" : "@tsmallfield",
+      "day" : 24,
+      "url" : "https://techblog.kayac.com/xmas-uv-animation"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

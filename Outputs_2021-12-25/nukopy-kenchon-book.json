@@ -1,0 +1,138 @@
+{
+  "created_at" : "2021-12-25T20:07:54Z",
+  "calendar_meta_data" : {
+    "author" : "@nukopy",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 3,
+    "title" : "一人けんちょん本を読む Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "nukopy-kenchon-book",
+    "url" : "https://qiita.com/advent-calendar/2021/nukopy-kenchon-book"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一人けんちょん本を読む Advent Calendar 2021 - 1 投稿目",
+      "author" : "@nukopy",
+      "day" : 6,
+      "url" : "https://pyteyon.hatenablog.com/entry/2021/12/08/014045"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一人けんちょん本を読む Advent Calendar 2021 - 2 投稿目",
+      "author" : "@nukopy",
+      "day" : 10,
+      "url" : "https://pyteyon.hatenablog.com/entry/2021/12/11/030657"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一人けんちょん本を読む Advent Calendar 2021 - 3 投稿目",
+      "author" : "@nukopy",
+      "day" : 11,
+      "url" : "https://pyteyon.hatenablog.com/entry/2021/12/11/214929"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@nukopy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@nukopy"
+    }
+  ]
+}

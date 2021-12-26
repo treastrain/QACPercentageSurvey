@@ -1,0 +1,151 @@
+{
+  "created_at" : "2021-12-25T20:22:47Z",
+  "calendar_meta_data" : {
+    "author" : "@tj8000rpm",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 7,
+    "subscribers" : 19,
+    "title" : "通信業界アドベントカレンダー Advent Calendar 2021",
+    "participants" : 10,
+    "unique_name" : "telecom",
+    "url" : "https://qiita.com/advent-calendar/2021/telecom"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ETSI NFV SOL001の歩き方",
+      "author" : "@tj8000rpm",
+      "day" : 1,
+      "url" : "https://zenn.dev/tj/articles/0003-reading-etsi-nfv-sol001"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "5Gのサービスの仕様を読んでみよう　MONASTERY 5G列車無線",
+      "author" : "@kanegae",
+      "day" : 2,
+      "url" : "https://qiita.com/kanegae/items/7406e3fcbabe6554f344"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ETSI NFV SOL003の歩き方",
+      "author" : "@tj8000rpm",
+      "day" : 3,
+      "url" : "https://zenn.dev/tj/articles/0004-reading-etsi-nfv-sol003"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ETSI NFV SOL004 の歩き方",
+      "author" : "@4shi1o-i1o",
+      "day" : 4,
+      "url" : "https://qiita.com/4shi1o-i1o/items/9390143fcb48d48f42f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UEのIPアドレスの割り当て -- free5GC編 --",
+      "author" : "@koji-hirono@github",
+      "day" : 8,
+      "url" : "https://omni-jp.github.io/blog/2021/11/25/ue%E3%81%AEip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AE%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6-free5gc%E7%B7%A8/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3GPP最新動向調査ガイド (基礎編)",
+      "author" : "@nickel0",
+      "day" : 12,
+      "url" : "https://zenn.dev/nic/articles/0c3be6394b2000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ETSI NFV SOL013の歩き方",
+      "author" : "@tj8000rpm",
+      "day" : 13,
+      "url" : "https://zenn.dev/tj/articles/0005-reading-etsi-nfv-sol013"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Private LoRa】Private LoRa通信モジュールをはじめよう",
+      "author" : "@masaoguchi",
+      "day" : 19,
+      "url" : "https://zenn.dev/masaoguchi/articles/81905f45c37f23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "通信業界の仮想化とKubernetes",
+      "author" : "@k_satone",
+      "day" : 20,
+      "url" : "https://zenn.dev/k_satone/articles/d064e7390098c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "5GのOSSってどこまで使えるの？",
+      "author" : "@nh_kt",
+      "day" : 22,
+      "url" : "https://qiita.com/nh_kt/items/b1b481a215aae1f17ca5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "伝説の寄書を読んでみた!",
+      "author" : "@ddnakajima",
+      "day" : 23,
+      "url" : "https://qiita.com/ddnakajima/items/69847f23e3783de4a0b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "某社のMANOのベース設計をした話",
+      "author" : "@kaz-tk",
+      "day" : 24,
+      "url" : "https://zenn.dev/kaz_t/articles/89d091e4caba5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

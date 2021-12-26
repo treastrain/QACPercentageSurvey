@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T21:53:49Z",
+  "calendar_meta_data" : {
+    "author" : "@asakuramken",
+    "category" : "企業・学校・団体",
+    "lgtm" : 30,
+    "subscribers" : 31,
+    "title" : "朝日新聞社 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "asahi",
+    "url" : "https://qiita.com/advent-calendar/2021/asahi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AmplifyのServerless containersを使って消しゴムマジックAPIをデプロイしてみた",
+      "author" : "@asakuramken",
+      "day" : 1,
+      "url" : "https://qiita.com/asakuramken/items/29f4530788f2288b183b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これが自動要約エンジン「TSUNA」　開発裏側を紹介",
+      "author" : "@asakuramken",
+      "day" : 2,
+      "url" : "https://note.com/asahi_ictrad/n/n2eb9c7cfa157"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「般若心経」をT5（Text-to-Text Transfer Transformer）を使って現代語訳してみた！",
+      "author" : "@asakuramken",
+      "day" : 3,
+      "url" : "https://note.com/asahi_ictrad/n/n4deeb15ddd4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【会議時間に衝撃】業務時間の内訳を見える化したら、思わぬ副産物が得られた話【可視化はロマン】",
+      "author" : "@asakuramken",
+      "day" : 4,
+      "url" : "https://note.com/asahi_ictrad/n/n378231275e2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【人気記事取得・文面作成の自動化etc.】Google Apps Scriptを用いてGLOBE＋メルマガ配信を業務改善してみた",
+      "author" : "@asakuramken",
+      "day" : 5,
+      "url" : "https://note.com/asahi_ictrad/n/n2cf383a59598"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonを使って音声データからノイズを除去したい！　～MS社製音声認識エンジンの精度向上を目指して～",
+      "author" : "@asakuramken",
+      "day" : 6,
+      "url" : "https://note.com/asahi_ictrad/n/nc78e25837f39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日からはじめるAI文芸実践入門：短歌編",
+      "author" : "@asakuramken",
+      "day" : 7,
+      "url" : "https://note.com/asahi_ictrad/n/nafaa0960ac3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データジャーナリズムの種明かしするよ（衆院選の争点分析）",
+      "author" : "@asakuramken",
+      "day" : 8,
+      "url" : "https://qiita.com/asakuramken/items/53f4f0d890e0a5549673"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "長文要約生成APIの歩き方",
+      "author" : "@asakuramken",
+      "day" : 9,
+      "url" : "https://note.com/asahi_ictrad/n/nce18122a9001"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PowerShell を最大限活用するための環境構築",
+      "author" : "@asakuramken",
+      "day" : 10,
+      "url" : "https://qiita.com/asakuramken/items/7cde3ff5920419f2d3e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【作業ログ管理】TogglとData Portalを連携したら可視化と分析が捗った話【続・可視化はロマン】",
+      "author" : "@asakuramken",
+      "day" : 11,
+      "url" : "https://note.com/asahi_ictrad/n/n90e0586ca5ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニューラル要約時代における評価指標の最前線を眺める",
+      "author" : "@asakuramken",
+      "day" : 12,
+      "url" : "https://note.com/asahi_ictrad/n/n306b1aa244c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[VSCode]ワークスペースのsettings.jsonを書いてチーム開発の効率化を図れ！[prettier等]",
+      "author" : "@asakuramken",
+      "day" : 13,
+      "url" : "https://qiita.com/asakuramken/items/b4d6300e179565d82cba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日からはじめるAI文芸実践入門：筆をえらぶ編",
+      "author" : "@asakuramken",
+      "day" : 14,
+      "url" : "https://note.com/asahi_ictrad/n/nd97f39a46770"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【自然言語処理】アノテーションがぐっと楽になる！ お助けツールprodigyについて",
+      "author" : "@asakuramken",
+      "day" : 15,
+      "url" : "https://note.com/asahi_ictrad/n/n2201dad206bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPhoneで物体を3Dモデル化してみた！",
+      "author" : "@asakuramken",
+      "day" : 16,
+      "url" : "https://qiita.com/asakuramken/items/21914e64793189266c3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】Auto Scaling Groupで勝手にEC2がterminateされるのを防ぐ",
+      "author" : "@asakuramken",
+      "day" : 17,
+      "url" : "https://note.com/asahi_ictrad/n/n723bef4e0d15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【在宅勤務を快適に】 特定のOutlookイベントに連動したメール送信作業をMS Automateに任せてみた【自動化は楽しい】",
+      "author" : "@asakuramken",
+      "day" : 18,
+      "url" : "https://note.com/asahi_ictrad/n/n1afdcacdb35a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】Lambda@Edgeを使ってわかったメリット＋ちょっとデメリット【ロードバランサー卒業】",
+      "author" : "@asakuramken",
+      "day" : 19,
+      "url" : "https://note.com/asahi_ictrad/n/n01d91a6e48d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "軽量プログラミング言語経験者のGoとの付き合い方",
+      "author" : "@asakuramken",
+      "day" : 20,
+      "url" : "https://qiita.com/asakuramken/items/282b5a73c6795243f9fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Imaginary Dictionary -未来を編む辞書",
+      "author" : "@asakuramken",
+      "day" : 21,
+      "url" : "https://note.com/asahi_ictrad/n/n34b996bd48a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FirebaseでLINE連携をする",
+      "author" : "@asakuramken",
+      "day" : 22,
+      "url" : "https://note.com/asahi_ictrad/n/ne0af82390f2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競技プログラミングをやっている話",
+      "author" : "@asakuramken",
+      "day" : 23,
+      "url" : "https://qiita.com/asakuramken/items/4ef9d951afadba4a3e23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Inf1上でBERTモデルを走らせる",
+      "author" : "@asakuramken",
+      "day" : 24,
+      "url" : "https://note.com/asahi_ictrad/n/nf5195eb53b88"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker Desktop for Mac(Windows)が有料化するから対応策を考えた",
+      "author" : "@asakuramken",
+      "day" : 25,
+      "url" : "https://qiita.com/asakuramken/items/42e41f05423f0dca02a6"
+    }
+  ]
+}

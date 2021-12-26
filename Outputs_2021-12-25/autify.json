@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T22:09:41Z",
+  "calendar_meta_data" : {
+    "author" : "@LieCo",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 36,
+    "subscribers" : 22,
+    "title" : "Autify Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "autify",
+    "url" : "https://qiita.com/advent-calendar/2021/autify"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GaudiyがAutifyを導入して手戻りコストを削減した話",
+      "author" : "@TakeshiNishioka",
+      "day" : 1,
+      "url" : "https://techblog.gaudiy.com/entry/2021/07/30/171115"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autify テストプランを柔軟なスケジュールで実行する",
+      "author" : "@a-know",
+      "day" : 2,
+      "url" : "https://blog.a-know.me/entry/2021/12/02/231158"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyカスタマーサクセスチームが利用している業務ツールまとめ",
+      "author" : "@LieCo",
+      "day" : 3,
+      "url" : "https://note.com/74lieco/n/na95fcf867e08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Apps Script (GAS) でAutifyのシナリオ一覧を取得する",
+      "author" : "@meikos",
+      "day" : 4,
+      "url" : "https://qiita.com/meikos/items/77ac14cfd3352b517b08"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyコアメンバー活動やってみました！",
+      "author" : "@riririusei99",
+      "day" : 5,
+      "url" : "https://riririusei99.hatenadiary.jp/entry/2021/12/05/190639"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions による CI で Autify E2Eテスト！",
+      "author" : "@a-know",
+      "day" : 6,
+      "url" : "https://blog.a-know.me/entry/2021/12/06/224341"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyの過去のテスト実行回数を取得するワンライナーをつくる試み",
+      "author" : "@meikos",
+      "day" : 7,
+      "url" : "https://qiita.com/meikos/items/0d9de71b5144fd1f5381"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyエンジニアが利用している業務ツールまとめ",
+      "author" : "@unbabel",
+      "day" : 8,
+      "url" : "https://qiita.com/unbabel/items/c69c9b902ebc35d740f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Chromeデベロッパーツールで要素のCSSセレクターを取得する",
+      "author" : "@LieCo",
+      "day" : 9,
+      "url" : "https://qiita.com/LieCo/items/5b66334d46db7ef6e9a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テスト自動化から1年経ったので振りかえってみる。",
+      "author" : "@k-sawada",
+      "day" : 10,
+      "url" : "https://qiita.com/k-sawada/items/790d0eaffcfee9c98f76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "意外と知られていないかもしれない？Autifyの機能や使い方をまとめてみました！",
+      "author" : "@saayuu",
+      "day" : 11,
+      "url" : "https://qiita.com/saayuu/items/de0d6698e18f64b77519"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendar駆動開発でAutifyのCircleCI Orbを作りました",
+      "author" : "@doublemarket",
+      "day" : 12,
+      "url" : "https://qiita.com/doublemarket/items/fba6bd3aac0f114bacd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyで2FAが絡むテストの自動化を実現させた話",
+      "author" : "@chikathreesix",
+      "day" : 13,
+      "url" : "https://qiita.com/chikathreesix/items/6970e859bbd0c0dd9790"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autifyに入社したら英語が上達した",
+      "author" : "@tai2@github",
+      "day" : 14,
+      "url" : "https://autifyhq.notion.site/2f0739c8e77b4460a096ab6fe78225f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AutifyのWeb APIクライアントを作成しました",
+      "author" : "@knhr__",
+      "day" : 15,
+      "url" : "https://qiita.com/knhr__/items/95509435a0b817eadf6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクトや会社の変化に負けない！推進力の高いチームを支える取り組み",
+      "author" : "@macoril",
+      "day" : 16,
+      "url" : "https://qiita.com/macoril/items/ba7bf816ccffaca1c13d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "reCAPTCHA v3 に対して Autify でテスト自動化してみた",
+      "author" : "@hiroxyy",
+      "day" : 17,
+      "url" : "https://qiita.com/hiroxyy/items/fd5f3d5738f0fc770fc9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自社アプリのSlack通知が、正しくSlack channelにポストされることをAutifyする",
+      "author" : "@Nagafuchik",
+      "day" : 18,
+      "url" : "https://gyori.hatenablog.com/entry/autify_slack"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "目指せ、Autifyマスター！NotionでAutifyの実力診断テストを作ってみた！",
+      "author" : "@TakeshiNishioka",
+      "day" : 19,
+      "url" : "https://qiita.com/TakeshiNishioka/items/29a77f5f25038fb7899b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webhook を使って監視サービスと連携！",
+      "author" : "@a-know",
+      "day" : 20,
+      "url" : "https://blog.a-know.me/entry/2021/12/20/095830"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数会社でAutifyを使っているので、それぞれの使い方や目的を比べてみた",
+      "author" : "@afracs",
+      "day" : 21,
+      "url" : "https://qiita.com/afracs/items/c63a36471299c0bd4b26"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "半自動テスト状態にならないためのコツ",
+      "author" : "@y-kiyosaki",
+      "day" : 22,
+      "url" : "https://qiita.com/y-kiyosaki/items/47f246e5a1d4f12b3fb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autify実行結果を簡単に報告",
+      "author" : "@xx_mana",
+      "day" : 23,
+      "url" : "https://qiita.com/xx_mana/items/151cbed0fd7da98fc716"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autify for Webを理解するためのコンセプトマップ（2021年版）",
+      "author" : "@hgsgtk",
+      "day" : 24,
+      "url" : "https://zenn.dev/hgsgtk/articles/58cf7341bea62e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autify for Web の GitHub Actions を作って Marketplace にリリースしました",
+      "author" : "@unbabel",
+      "day" : 25,
+      "url" : "https://qiita.com/unbabel/items/831e8fbd54f7dded140b"
+    }
+  ]
+}

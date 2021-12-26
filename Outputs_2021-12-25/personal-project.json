@@ -1,0 +1,290 @@
+{
+  "created_at" : "2021-12-26T04:25:36Z",
+  "calendar_meta_data" : {
+    "author" : "@yuno_miyako",
+    "category" : "その他",
+    "lgtm" : 160,
+    "subscribers" : 125,
+    "title" : "個人開発 Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "personal-project",
+    "url" : "https://qiita.com/advent-calendar/2021/personal-project"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発しくじり先生 パンツシェアアプリ編",
+      "author" : "@yuno_miyako",
+      "day" : 1,
+      "url" : "https://qiita.com/yuno_miyako/items/279944fd5ae109924c41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アドカレを新技術学習のきっかけにする",
+      "author" : "@drytt",
+      "day" : 2,
+      "url" : "https://qiita.com/drytt/items/ba933002732abe284f2b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お財布に優しい個人開発の戦略 - spaces.bzの場合",
+      "author" : "@at-946",
+      "day" : 3,
+      "url" : "https://zenn.dev/at946/articles/8bfe9768393b64"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発ふりかえり ver.2021年",
+      "author" : "@kira_puka",
+      "day" : 5,
+      "url" : "https://zenn.dev/kira_puka/articles/7fcf0453157ce2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "加賀さんと僕5 〜艦これウィジェットと個人開発を継続する技術〜",
+      "author" : "@otiai10",
+      "day" : 6,
+      "url" : "https://speakerdeck.com/otiai10/jia-he-santopu-5-jian-koreuizietutotoge-ren-kai-fa-woji-sok-suruji-shu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebブラウザでCASL2を試せるCASL2 Playgroundをつくってみた",
+      "author" : "@bati11",
+      "day" : 7,
+      "url" : "https://blog.bati11.info/entry/2021/12/07/094317"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "わたしはなにをつくっているのか",
+      "author" : "@kyokucho1989",
+      "day" : 8,
+      "url" : "https://qiita.com/kyokucho1989/items/9d652d75b7c79e6d261b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2020年にNPB開幕できたので作ったWebサービスをブラッシュアップした話",
+      "author" : "@shimayu22",
+      "day" : 9,
+      "url" : "https://note.com/shimayu22/n/nd65fbd7ebe03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発アプリ3つのリリース後📊【広報・反響・改善点】",
+      "author" : "@KokumaruGarasu",
+      "day" : 10,
+      "url" : "https://qiita.com/KokumaruGarasu/items/79a51025de1b1aadc932"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発で知っておいた方が良かったこと",
+      "author" : "@hackpopo",
+      "day" : 11,
+      "url" : "https://zenn.dev/nobezawa/articles/knowledge-personal-developer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【個人開発】SliceTimeCamというカメラアプリを作りました",
+      "author" : "@koyoarai_",
+      "day" : 12,
+      "url" : "https://zenn.dev/koyoarai_/articles/5d44f21c9173e456455a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発は組織では得られないメンタルダメージがあるという話",
+      "author" : "@PonPon3",
+      "day" : 13,
+      "url" : "https://qiita.com/PonPon3/items/33d065a3fc10e8eb09d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発をして良かったことを書きます",
+      "author" : "@nippi192168",
+      "day" : 14,
+      "url" : "https://note.com/nippitech/n/n950f933b750d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "N1分析と個人開発",
+      "author" : "@itizawa",
+      "day" : 15,
+      "url" : "https://qiita.com/itizawa/private/0437d2c24743d0e152f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "英文リーダーアプリを作った",
+      "author" : "@hironobu_s",
+      "day" : 16,
+      "url" : "https://qiita.com/hironobu_s/items/e5218ad3c008368c2a52"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人開発したマッチングアプリのリリース後日談😭",
+      "author" : "@smizuno2018",
+      "day" : 17,
+      "url" : "https://qiita.com/smizuno2018/items/172da37aff9ce26975c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ヒット作が出ないまま10年間個人アプリ開発を続けたエンジニアの末路",
+      "author" : "@dancingpandor",
+      "day" : 18,
+      "url" : "https://note.com/dancingpandor/n/n28fbc6ffc4a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[個人開発] 外岩情報をシェアできる地図アプリを作っている話",
+      "author" : "@toya108",
+      "day" : 19,
+      "url" : "https://qiita.com/toya108/items/bdd05800617bb9da5766"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学びながら個人開発するって難しいよな！",
+      "author" : "@marty_ojiya",
+      "day" : 20,
+      "url" : "https://qiita.com/marty_ojiya/items/219cd29b77ffd95a7b61"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "puppeteerでポイ活を自動化しよう",
+      "author" : "@shiraily",
+      "day" : 21,
+      "url" : "https://qiita.com/shiraily/items/5d1bed96dee1a6cc05da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "駆け出しWebプログラマーの個人開発をチーム開発にした話",
+      "author" : "@SFITB",
+      "day" : 22,
+      "url" : "https://qiita.com/SFITB/items/1a4c7e01625e1bd6fdf7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【100h検証】ブログ構築に10回以上失敗したプログラマが ブログリリースまでの道のりを記録した 100時間のすべて",
+      "author" : "@alclimb",
+      "day" : 23,
+      "url" : "https://qiita.com/alclimb/items/fb6b393b29b7853b1206"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【個人開発】学生エンジニアが今までの集大成として3ヶ月でアプリを作った話",
+      "author" : "@gonzaemon111",
+      "day" : 24,
+      "url" : "https://qiita.com/gonzaemon111/items/bf2e5dac91686bb90f1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【 Next.js x Supabase 】プログラムのエラー・解決方法共有サービス ErrorShare をリリース",
+      "author" : "@AkiUnleash",
+      "day" : 25,
+      "url" : "https://qiita.com/AkiUnleash/items/a3b1f6179a2f4878550a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "個人開発SaaSをappsumoに出品してみた",
+      "author" : "@tmurasawa",
+      "day" : 14,
+      "url" : "https://qiita.com/tmurasawa/items/a2789816ed94fa6689fc"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

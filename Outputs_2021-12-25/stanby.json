@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:38:42Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社スタンバイ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 154,
+    "subscribers" : 78,
+    "title" : "スタンバイ Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "stanby",
+    "url" : "https://qiita.com/advent-calendar/2021/stanby"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLで変数を便利に使ってみる",
+      "author" : "@kencom2400",
+      "day" : 1,
+      "url" : "https://qiita.com/kencom2400/items/3cdf982abeb5161436d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ClickHouseのアップグレード",
+      "author" : "@mzuk",
+      "day" : 2,
+      "url" : "https://qiita.com/mzuk/items/0195f9a6ac4543192ea5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Software Design Documentsが不可欠な理由と良い書き方について",
+      "author" : "@reiem",
+      "day" : 3,
+      "url" : "https://medium.com/@reiem/software-design-documents%E3%81%8C%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%AA%E7%90%86%E7%94%B1%E3%81%A8%E8%89%AF%E3%81%84%E6%9B%B8%E3%81%8D%E6%96%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-dd87f98ce436"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SilhouetteからPAC4Jに乗り換えてついでにOpenID Connectを使う",
+      "author" : "@ocome",
+      "day" : 4,
+      "url" : "https://qiita.com/ocome/items/99393a30bcc40871bb50"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rancher Desktop を始める",
+      "author" : "@ryota_hnk",
+      "day" : 5,
+      "url" : "https://qiita.com/ryota_hnk/items/bc5399f2c80fcbe3a4c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ストリーミング処理の基本と業務で開発したApache Flinkアプリケーションについて",
+      "author" : "@naoki_0409",
+      "day" : 6,
+      "url" : "https://qiita.com/naoki_0409/items/10b4afdf21d5f56b7ffb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ElasticsearchのANN Searchを試す",
+      "author" : "@takatori",
+      "day" : 7,
+      "url" : "https://qiita.com/takatori/items/2ab863285904031f4588"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " 「レガシーコードからの脱却」のメモ",
+      "author" : "@taketora",
+      "day" : 8,
+      "url" : "https://qiita.com/taketora/items/186fc63a6e77e29dfa65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ふりかえりを振り返る（チームワークのカイゼンについて）",
+      "author" : "@piro12vortis",
+      "day" : 9,
+      "url" : "https://note.com/piro12vortis/n/na5275a35df23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticsearchの負荷テストにはRallyを使おう",
+      "author" : "@kinshotomoya",
+      "day" : 10,
+      "url" : "https://qiita.com/kinshotomoya/items/208c799aa695a073d33b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "イ〇ゲーム「そのURLに〇〇はあるか？」",
+      "author" : "@hanishi",
+      "day" : 11,
+      "url" : "https://qiita.com/hanishi/items/c892aca8d30fdffc1719"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Rekognitionを使って静止画・動画の節度判定を省力化する",
+      "author" : "@nnhiguchi",
+      "day" : 12,
+      "url" : "https://qiita.com/nnhiguchi/items/5cbc1ef0bfc08ad08fe7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scala3マイグレーションガイドを全て日本語訳にして読んでみた話",
+      "author" : "@arata-honda",
+      "day" : 13,
+      "url" : "https://qiita.com/arata-honda/items/048ca044abfd504cb6b1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【空冷自作PC】Ryzen7 5700G + ASRock DeskMini X300をノクチュア NH-P1でファンレスにした話",
+      "author" : "@Nisi",
+      "day" : 14,
+      "url" : "https://qiita.com/Nisi/items/24bc1fb90d23b03f64aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "気象データの細かすぎる天気概況をなんとかまとめてみる",
+      "author" : "@jyoji_koike",
+      "day" : 15,
+      "url" : "https://qiita.com/jyoji_koike/items/764e6229d70ad3a7c072"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【大人数向け】オンラインでのチームビルディング事例紹介",
+      "author" : "@hykwsn",
+      "day" : 16,
+      "url" : "https://note.com/hykw___sn/n/ne4619cca665d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LC-Trie を使ってIPを探す",
+      "author" : "@kkmt",
+      "day" : 17,
+      "url" : "https://qiita.com/kkmt/items/bc47b13991084b745b0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elasticsearchのソースコードを読む - Elasticsearchの起動",
+      "author" : "@wakafar",
+      "day" : 18,
+      "url" : "https://qiita.com/wakafar/items/d8503f9508056527cc3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JQLを使って試してみたこと",
+      "author" : "@s_sh",
+      "day" : 19,
+      "url" : "https://qiita.com/s_sh/items/be0677bc824761df2ded"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Incident management: Roles to accelerate teamwork",
+      "author" : "@mysk-stb",
+      "day" : 20,
+      "url" : "https://silver0ceanpangle.medium.com/incident-management-roles-to-accelerate-teamwork-a7e2a9678153"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Scala + GraalVM AOTコンパイル + AWS Lambdaでwebアプリを動かしたい",
+      "author" : "@jsoizo",
+      "day" : 21,
+      "url" : "https://jsoizo.hatenablog.com/entry/2021/12/21/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apache Lucene の Index の仕組みを探る",
+      "author" : "@kz_morita",
+      "day" : 22,
+      "url" : "https://blog.foresta.me/posts/read-apache-lucene-index/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日々の業務をする上で役立った・よく使うGASのtips",
+      "author" : "@jun910",
+      "day" : 23,
+      "url" : "https://qiita.com/jun910/items/7c99b196d58f02d5ecd9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "issueのコメントの記法のススメとコミュニケーション",
+      "author" : "@kurenai_no_pork",
+      "day" : 24,
+      "url" : "https://qiita.com/kurenai_no_pork/items/95b63ec3908bae350ae2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発組織行動指針の先にあるもの",
+      "author" : "@hakocha",
+      "day" : 25,
+      "url" : "https://qiita.com/hakocha/items/64fab2a31a277138765a"
+    }
+  ]
+}

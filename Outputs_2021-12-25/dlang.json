@@ -1,0 +1,161 @@
+{
+  "created_at" : "2021-12-26T02:23:37Z",
+  "calendar_meta_data" : {
+    "author" : "@lempiji",
+    "category" : "プログラミング言語",
+    "lgtm" : 69,
+    "subscribers" : 16,
+    "title" : "D言語 Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "dlang",
+    "url" : "https://qiita.com/advent-calendar/2021/dlang"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 D言語まとめ",
+      "author" : "@lempiji",
+      "day" : 1,
+      "url" : "https://qiita.com/lempiji/items/978797eb1a5ab7731f7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語（rdmd）はスクリプト用途にめっちゃ便利",
+      "author" : "@lempiji",
+      "day" : 2,
+      "url" : "https://qiita.com/lempiji/items/0730a6441f4f23a57119"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@outlandkarasu@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "rdmdはimport先を自動解決してくれるのでスクリプト管理が楽になる",
+      "author" : "@lempiji",
+      "day" : 4,
+      "url" : "https://qiita.com/lempiji/items/854f6fd8e905573b8ba6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WinMergeにD言語シンタックスハイライト機能を追加しました",
+      "author" : "@devmynote",
+      "day" : 5,
+      "url" : "https://qiita.com/devmynote/items/7883db6d3afe40ee28b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "STM32CubeMXで生成したFreeRTOSとD言語を連携する方法",
+      "author" : "@mono_shoo",
+      "day" : 6,
+      "url" : "https://qiita.com/mono_shoo/items/db71975ba0a1d7b85db2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "importCさっくり",
+      "author" : "@dragoon2014",
+      "day" : 7,
+      "url" : "https://qiita.com/dragoon2014/items/c9ebbe168abf1398c10b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングにおける精神的摩擦と向き合い方",
+      "author" : "@lempiji",
+      "day" : 8,
+      "url" : "https://zenn.dev/lempiji/articles/5b24ca40f4deed"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "分散トレーシングの仕組み 「ログの対応付け」と「受け渡すHTTPヘッダー」を大体5分で理解する",
+      "author" : "@lempiji",
+      "day" : 11,
+      "url" : "https://zenn.dev/lempiji/articles/b752b644d22a59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語でプロファイリング(perf)",
+      "author" : "@nonanonno",
+      "day" : 12,
+      "url" : "https://qiita.com/nonanonno/items/597bdfabb67eb8d01f8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語のメモリ管理の話題一覧",
+      "author" : "@mono_shoo",
+      "day" : 14,
+      "url" : "https://qiita.com/mono_shoo/items/9e297e7ff32f6efcf558"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "やさしいD言語クイズ",
+      "author" : "@devmynote",
+      "day" : 16,
+      "url" : "https://qiita.com/devmynote/items/2c3763246f74ef983fcd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "やさしいD言語クイズ（その２）",
+      "author" : "@devmynote",
+      "day" : 19,
+      "url" : "https://qiita.com/devmynote/items/15d4b5c14fb500524aa5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語のBetterCモードで単体テストする方法",
+      "author" : "@mono_shoo",
+      "day" : 22,
+      "url" : "https://qiita.com/mono_shoo/items/9a5fa472693f9dbaf60e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MarkdownをCIで検証する話（前編）",
+      "author" : "@lempiji",
+      "day" : 24,
+      "url" : "https://zenn.dev/lempiji/articles/qiita-adc-d-20211224"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MarkdownをCIで検証する話（後編）",
+      "author" : "@lempiji",
+      "day" : 25,
+      "url" : "https://zenn.dev/lempiji/articles/qiita-adc-d-20211225"
+    }
+  ]
+}

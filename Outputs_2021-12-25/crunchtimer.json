@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:40:48Z",
+  "calendar_meta_data" : {
+    "author" : "クランチタイマー株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 93,
+    "subscribers" : 0,
+    "title" : "クランチタイマー株式会社 Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "crunchtimer",
+    "url" : "https://qiita.com/advent-calendar/2021/crunchtimer"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【Swift】PHPhotoLibraryでフォトライブラリを実装する方法",
+      "author" : "@jun_kato",
+      "day" : 1,
+      "url" : "https://qiita.com/jun_kato/items/2fc802e45b8e20a949be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "偏差値43の高卒非IT者が基本情報技術者試験を受けてみた",
+      "author" : "@ombossk0720",
+      "day" : 2,
+      "url" : "https://qiita.com/ombossk0720/items/f2154bd87bf48055ba44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mac ＋ VSCodeの作業環境で便利なキーボードショートカットまとめ",
+      "author" : "@eneos",
+      "day" : 3,
+      "url" : "https://qiita.com/eneos/items/e14ddff40e81cdca5f3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[初学者必見]デフォルトシェルはbashにしようという話",
+      "author" : "@jizya",
+      "day" : 4,
+      "url" : "https://qiita.com/jizya/items/c8b7134649bb574a302f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットワークの基礎知識まとめ",
+      "author" : "@eneos",
+      "day" : 5,
+      "url" : "https://qiita.com/eneos/items/06e764a50d8e7c9b7b58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PCを起動すると内部で何が行われる？",
+      "author" : "@jun_kato",
+      "day" : 6,
+      "url" : "https://qiita.com/jun_kato/items/6bbdfb110ef2695bd407"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "経験半年のひよっこ大学生がプロジェクトリーダーをした話",
+      "author" : "@Jun-T",
+      "day" : 7,
+      "url" : "https://qiita.com/Jun-T/items/7910a003ed37a3139a86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rails6とFirebase Authでパスワード変更を実装する方法",
+      "author" : "@AsuyaKakegawa",
+      "day" : 8,
+      "url" : "https://qiita.com/AsuyaKakegawa/items/dc1fc1c377464d0a78fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "透過アニメーション 成功と失敗集",
+      "author" : "@jizya",
+      "day" : 9,
+      "url" : "https://qiita.com/jizya/items/bf94d333db98eaee391b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi 3でアセンブラをはじめから〜基礎編〜",
+      "author" : "@okamotoyu",
+      "day" : 10,
+      "url" : "https://qiita.com/okamotoyu/items/77e5f2c655acb102eeaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人エンジニアが成長するために意識した方がいいこと",
+      "author" : "@eneos",
+      "day" : 11,
+      "url" : "https://qiita.com/eneos/items/fb1efe1285cb52f06bf8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルでEC-CUBEの環境構築",
+      "author" : "@jun_kato",
+      "day" : 12,
+      "url" : "https://qiita.com/jun_kato/items/af0bebc8439b0c98b1c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】基本ネットワーク設計",
+      "author" : "@syo2255",
+      "day" : 13,
+      "url" : "https://qiita.com/syo2255/items/7912bd77dd366db20b18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tailwind3.0で何が変わった？",
+      "author" : "@jizya",
+      "day" : 14,
+      "url" : "https://qiita.com/jizya/items/7e3d942e490fd77205e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "システム開発におけるマネジメントに関する知識まとめ",
+      "author" : "@eneos",
+      "day" : 15,
+      "url" : "https://qiita.com/eneos/items/2a117b0f8b9ae04bbf19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Googleアカウントでログインする仕組み",
+      "author" : "@jun_kato",
+      "day" : 16,
+      "url" : "https://qiita.com/jun_kato/items/400b6199fb06d9263c71"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "javascriptの非同期処理について理解する",
+      "author" : "@muratahi",
+      "day" : 17,
+      "url" : "https://qiita.com/muratahi/items/ecba5b198a2b0478514d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミングはどのように作られているのか？",
+      "author" : "@eneos",
+      "day" : 18,
+      "url" : "https://qiita.com/eneos/items/61859573aa9112d47126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.jsでアニメーションパッケージ(ScrollReveal)を使用する際の注意点",
+      "author" : "@syo2255",
+      "day" : 19,
+      "url" : "https://qiita.com/syo2255/items/d0c79157b065398bb8cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "教養としてのコンピュータサイエンス講義を読んでみた",
+      "author" : "@ombossk0720",
+      "day" : 20,
+      "url" : "https://qiita.com/ombossk0720/items/3698dfc7d36ed0d88d58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Tips】IntersectionObserver API(交差監視API)",
+      "author" : "@jizya",
+      "day" : 21,
+      "url" : "https://qiita.com/jizya/items/0fd6a8e321b4e82c34f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "気象庁サイトから取得したJSON天気データを使って明日の天気をLINEで送信する機能を作ってみた",
+      "author" : "@AsuyaKakegawa",
+      "day" : 22,
+      "url" : "https://qiita.com/AsuyaKakegawa/items/2e8d27393f2955b32f6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初学者がウェブサイト作るとき、最低限知っておくべき事 ",
+      "author" : "@higashitani0624",
+      "day" : 23,
+      "url" : "https://qiita.com/higashitani0624/items/a3c6be8a0c8c41fd7112"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HTML Living Standardが標準規格になるまでの流れ",
+      "author" : "@kmizoguchi017",
+      "day" : 24,
+      "url" : "https://qiita.com/kmizoguchi017/items/f39f3dc009a65fd0cd22"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goをherokuで自動実行する",
+      "author" : "@okamotoyu",
+      "day" : 25,
+      "url" : "https://qiita.com/okamotoyu/items/b17276ec7f41b012f0b1"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "created_at" : "2021-12-25T18:29:04Z",
+  "calendar_meta_data" : {
+    "author" : "@ynojima",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "quarkus.io 翻訳 Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "quarkusio",
+    "url" : "https://qiita.com/advent-calendar/2021/quarkusio"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Quarkus 2.5.0.Finalリリース",
+      "author" : "@ynojima",
+      "day" : 1,
+      "url" : "https://ja.quarkus.io/blog/quarkus-2-5-0-final-released/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Quarkus Reactiveアーキテクチャ",
+      "author" : "@ynojima",
+      "day" : 2,
+      "url" : "https://ja.quarkus.io/guides/quarkus-reactive-architecture"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SmallRye StorkとQuarkus",
+      "author" : "@ynojima",
+      "day" : 3,
+      "url" : "https://ja.quarkus.io/blog/smallrye-stork-intro/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "条件付き依存関係",
+      "author" : "@ynojima",
+      "day" : 4,
+      "url" : "https://ja.quarkus.io/guides/conditional-extension-dependencies"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mailer",
+      "author" : "@ynojima",
+      "day" : 5,
+      "url" : "https://ja.quarkus.io/guides/mailer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mailerリファレンス",
+      "author" : "@ynojima",
+      "day" : 6,
+      "url" : "https://ja.quarkus.io/guides/mailer-reference"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kafka Dev Services",
+      "author" : "@ynojima",
+      "day" : 7,
+      "url" : "https://ja.quarkus.io/guides/kafka-dev-services"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RabbitMQ Dev Services",
+      "author" : "@ynojima",
+      "day" : 8,
+      "url" : "https://ja.quarkus.io/guides/rabbitmq-dev-services"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apicurio Registry Dev Services",
+      "author" : "@ynojima",
+      "day" : 9,
+      "url" : "https://ja.quarkus.io/guides/apicurio-registry-dev-services"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "設定拡張サポート",
+      "author" : "@ynojima",
+      "day" : 10,
+      "url" : "https://ja.quarkus.io/guides/config-extending-support"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリケーションの設定",
+      "author" : "@ynojima",
+      "day" : 11,
+      "url" : "https://ja.quarkus.io/guides/config"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kubernetes Config",
+      "author" : "@ynojima",
+      "day" : 12,
+      "url" : "https://pr-preview-437-ja-quarkusio.surge.sh/guides/kubernetes-config"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kogito",
+      "author" : "@ynojima",
+      "day" : 13,
+      "url" : "https://ja.quarkus.io/guides/kogito"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kogito DRL",
+      "author" : "@ynojima",
+      "day" : 14,
+      "url" : "https://ja.quarkus.io/guides/kogito-drl"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kogito DMN",
+      "author" : "@ynojima",
+      "day" : 15,
+      "url" : "https://ja.quarkus.io/guides/kogito-dmn"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "再オーグメンテーション",
+      "author" : "@ynojima",
+      "day" : 16,
+      "url" : "https://ja.quarkus.io/guides/reaugmentation"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エクステンションレジストリ",
+      "author" : "@ynojima",
+      "day" : 17,
+      "url" : "https://ja.quarkus.io/guides/extension-registry-user"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Liquibase MongoDBの使用",
+      "author" : "@ynojima",
+      "day" : 18,
+      "url" : "https://ja.quarkus.io/guides/liquibase-mongodb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JMS",
+      "author" : "@ynojima",
+      "day" : 19,
+      "url" : "https://ja.quarkus.io/guides/jms"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Redis Dev Services",
+      "author" : "@ynojima",
+      "day" : 20,
+      "url" : "https://ja.quarkus.io/guides/redis-dev-services"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Micrometer",
+      "author" : "@ynojima",
+      "day" : 21,
+      "url" : "https://ja.quarkus.io/guides/micrometer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スケジューラーリファレンスガイド",
+      "author" : "@ynojima",
+      "day" : 22,
+      "url" : "https://ja.quarkus.io/guides/scheduler-reference"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RESTクライアント",
+      "author" : "@ynojima",
+      "day" : 23,
+      "url" : "https://ja.quarkus.io/guides/rest-client"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vault PKI",
+      "author" : "@ynojima",
+      "day" : 24,
+      "url" : "https://ja.quarkus.io/guides/scheduler-reference"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

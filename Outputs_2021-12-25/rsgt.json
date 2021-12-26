@@ -1,0 +1,166 @@
+{
+  "created_at" : "2021-12-25T21:41:09Z",
+  "calendar_meta_data" : {
+    "author" : "@miholovesq",
+    "category" : "その他",
+    "lgtm" : 1,
+    "subscribers" : 5,
+    "title" : "Advent Calendar for upcoming Regional Scrum Gathering Tokyo 2022 Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "rsgt",
+    "url" : "https://qiita.com/advent-calendar/2021/rsgt"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Day2 16:15からの「F1 お茶の水グランプリ'22」の話",
+      "author" : "@miholovesq",
+      "day" : 1,
+      "url" : "https://miholovesq.hatenablog.com/entry/2021/12/01/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【品川アジャイル】RSGT2022を支える配信技術",
+      "author" : "@panpanpanyasan",
+      "day" : 2,
+      "url" : "https://bayashimura.hateblo.jp/entry/2021/12/02/010300"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RSGTというイベントへの想いー会社全体に変化をもたらすイベントの力ー",
+      "author" : "@yasudatadahiro",
+      "day" : 3,
+      "url" : "https://www.creationline.com/blog/tadahiro-yasuda/47018"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[RSGT2022 Day2 14:00-14:20]アジャイルウォーズ/スクラムマスターの帰還",
+      "author" : "@s_harada",
+      "day" : 6,
+      "url" : "https://qiita.com/s_harada/items/64b7bd2e002cc967cbc0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新しい会社に入社してから7ヶ月でスクラムマスターとしてやったこと",
+      "author" : "@daiksy",
+      "day" : 7,
+      "url" : "https://daiksy.hatenablog.jp/entry/2021/12/07/003329"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カンファレンスの基調講演を誰にお願いするか考える時のノート",
+      "author" : "@kawaguti",
+      "day" : 8,
+      "url" : "https://kawaguti.hateblo.jp/entry/2021/12/08/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[品川アジャイル] 以外にやることを整理します。",
+      "author" : "@kawaguti",
+      "day" : 9,
+      "url" : "https://kawaguti.hateblo.jp/entry/2021/12/09/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[品川アジャイル] DevOpsDays Tokyo に向けて揃えた機材",
+      "author" : "@kawaguti",
+      "day" : 16,
+      "url" : "https://kawaguti.hateblo.jp/entry/2021/12/16/141350"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Women in Agile】キャリアは女性を幸せにするの？",
+      "author" : "@izumii19",
+      "day" : 17,
+      "url" : "https://note.com/izumii_19/n/ndb8e26a171d1?magazine_key=m510bf27202fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Day2 16:15 「ブルシットプロダクトからチームを守れ」のコンテキスト",
+      "author" : "@moriyuya",
+      "day" : 18,
+      "url" : "https://note.com/mryy/n/nc871ba943b00"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Women in Agile】私が思う、女性活躍のこれまでとこれから。",
+      "author" : "@HappyRosemary",
+      "day" : 19,
+      "url" : "https://note.com/management_navi/n/nb0ce5738de9d?magazine_key=m510bf27202fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "宣伝！リアルブースを久しぶりに企画しました！",
+      "author" : "@JxK",
+      "day" : 20,
+      "url" : "https://www.creationline.com/lab/47447"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RSGT 2022『インプロヴィゼーション：ふりかえりの新世界』の台本（ver. 0.0.1）",
+      "author" : "@callas1900",
+      "day" : 21,
+      "url" : "https://callas1900.net/posts/2021/12/21/rsgt2022_advent_calendar/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[とにかく前向き83] 俺たち流RSGTの楽しみ方",
+      "author" : "@matsushu0202",
+      "day" : 22,
+      "url" : "https://note.com/agileteam_create/n/n46db7068e8a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[品川アジャイル] 摩擦のないコミュニティ運営を考える",
+      "author" : "@kawaguti",
+      "day" : 23,
+      "url" : "https://kawaguti.hateblo.jp/entry/2021/12/23/092644"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "言葉の奴隷からどう解放されるか〜Agileの世界で女性のリーダーを増やしたい",
+      "author" : "@SatokaChibana",
+      "day" : 24,
+      "url" : "https://note.com/chikarika/n/n7e195fbbd2b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "知的コンバットできてますか？",
+      "author" : "@tunepolo",
+      "day" : 25,
+      "url" : "https://tune.hatenadiary.jp/entry/2021/12/25/225315"
+    }
+  ]
+}

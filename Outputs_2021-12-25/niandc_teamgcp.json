@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T22:13:54Z",
+  "calendar_meta_data" : {
+    "author" : "@tokida",
+    "category" : "企業・学校・団体",
+    "lgtm" : 7,
+    "subscribers" : 1,
+    "title" : "NI+C  Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "niandc_teamgcp",
+    "url" : "https://qiita.com/advent-calendar/2021/niandc_teamgcp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Workspaceを活用した効率的な会議開催と議事録のとり方",
+      "author" : "@tokida",
+      "day" : 1,
+      "url" : "https://qiita.com/tokida/items/7adeef7ace9a646d1a85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQueryのParameterized Typesを試す",
+      "author" : "@YoheiNakane",
+      "day" : 2,
+      "url" : "https://qiita.com/YoheiNakane/items/b64b992c09db99132170"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人社員が Google Cloud 認定資格の Associate Cloud Engineerを合格するまで",
+      "author" : "@yyyimai",
+      "day" : 3,
+      "url" : "https://qiita.com/yyyimai/items/613f705f409674f2edd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFunctionsアプリをDevContainerでさくっと開発する",
+      "author" : "@tanaz",
+      "day" : 4,
+      "url" : "https://qiita.com/tanaz/items/a75c4340773d3336e0c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Cloud の コトハジメ～その②：Googleアカウント作成～",
+      "author" : "@tatsuhiro_uchida",
+      "day" : 5,
+      "url" : "https://qiita.com/tatsuhiro_uchida/items/61db6e43feb61de8c926"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今月どれくらい使った？どれくらい使いそう？Cloud Billingのご紹介",
+      "author" : "@YoheiNakane",
+      "day" : 6,
+      "url" : "https://qiita.com/YoheiNakane/items/4580d5870cd16c77e971"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サービスアカウントを借用で使う",
+      "author" : "@ryoeguchi",
+      "day" : 7,
+      "url" : "https://qiita.com/ryoeguchi/items/d24e5d91f85973720d01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloud Pub/Subメッセージが一定時間ACK処理されていない場合にアラート通知する方法",
+      "author" : "@hikarusi",
+      "day" : 8,
+      "url" : "https://qiita.com/hikarusi/items/ae0bef6665650986f2fb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bqコマンドでクエリ結果をGCSに保存(Bigquery)",
+      "author" : "@kenjiron",
+      "day" : 9,
+      "url" : "https://qiita.com/kenjiron/items/e1e708f2471cfd01f3f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Professional Data Engineerを受験したので結果と勉強方法をまとめました",
+      "author" : "@ptpt-free",
+      "day" : 10,
+      "url" : "https://qiita.com/ptpt-free/items/8514eabee80fed99c0bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プライベート Cloud SQL インスタンス作成時のお作法～実際にハマったポイントを含めて～",
+      "author" : "@ptpt-free",
+      "day" : 11,
+      "url" : "https://qiita.com/ptpt-free/items/c2fb4755a3a13091e0e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Node-REDのログをCloud Loggingにキレイに出力したい",
+      "author" : "@KTSZ",
+      "day" : 12,
+      "url" : "https://qiita.com/KTSZ/items/413702857c6f6a753ff5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lookerを使用したスポーツ成績のダッシュボードを作る",
+      "author" : "@YoheiNakane",
+      "day" : 13,
+      "url" : "https://qiita.com/YoheiNakane/items/91726b35602e0efa2449"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Chat にDrive bot を追加して通知を受け取ろう",
+      "author" : "@yuko_sakurai",
+      "day" : 14,
+      "url" : "https://qiita.com/yuko_sakurai/items/e3a7132c777afb996041"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マネージドインスタンスグループの自動スケーリングを体験してみた",
+      "author" : "@k_shigeyama",
+      "day" : 15,
+      "url" : "https://qiita.com/k_shigeyama/items/978809d9b84f048c300f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CLIでSpannerエミュレータを立てる",
+      "author" : "@kenjiron",
+      "day" : 16,
+      "url" : "https://qiita.com/kenjiron/items/b38957795cc79d535db5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DLP APIを使ってCSVデータの機密情報をマスキングする方法",
+      "author" : "@jumpei_sasaki",
+      "day" : 17,
+      "url" : "https://qiita.com/jumpei_sasaki/items/91d13cc21cd5a93fb879"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【スプレッドシート】初めてのカスタム関数 with Google Apps Script",
+      "author" : "@jin1217",
+      "day" : 18,
+      "url" : "https://qiita.com/jin1217/items/d4f1042d5b2746c8759b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoogleCloudでできる環境問題対策 - 脱炭素のススメ -",
+      "author" : "@kiyk",
+      "day" : 19,
+      "url" : "https://qiita.com/kiyk/items/c92e7811bfa274b01aa3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Data Portalで検索した内容を逆引きシートとしてまとめてみた",
+      "author" : "@ptpt-free",
+      "day" : 20,
+      "url" : "https://qiita.com/ptpt-free/items/ffb1dee83b44fc3f5d62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BigQuery のスナップショット ~ ビビリ屋さんのスナップショット活用例",
+      "author" : "@Tanedalai",
+      "day" : 21,
+      "url" : "https://qiita.com/Tanedalai/items/b47195734c0cdb9f88ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナイメージ内にCloud SDKをインストールしてみる",
+      "author" : "@tYug",
+      "day" : 22,
+      "url" : "https://qiita.com/tYug/items/73401d84de60aef84924"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DialogFlow CXのスロット充填について",
+      "author" : "@mochinoki",
+      "day" : 23,
+      "url" : "https://qiita.com/mochinoki/items/684f01ac340bf27747ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@Shanghai7777"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DatastoreのデータをCloudSQLに入れるまで",
+      "author" : "@ryoeguchi",
+      "day" : 25,
+      "url" : "https://qiita.com/ryoeguchi/items/d3640740a0c57667388e"
+    }
+  ]
+}

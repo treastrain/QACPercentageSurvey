@@ -1,0 +1,187 @@
+{
+  "created_at" : "2021-12-26T04:21:16Z",
+  "calendar_meta_data" : {
+    "author" : "@shunkosa",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 102,
+    "subscribers" : 35,
+    "title" : "Salesforce Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "salesforce",
+    "url" : "https://qiita.com/advent-calendar/2021/salesforce"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceの通知を考える 2021年版(Salesforceフロー)",
+      "author" : "@a_kuratani",
+      "day" : 1,
+      "url" : "https://note.com/a_kuratani/n/n0080eaa00e60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BackwindowでSalesforce組織へのログインURLをセキュアに共有する",
+      "author" : "@stomita",
+      "day" : 2,
+      "url" : "https://qiita.com/stomita/items/c4227ba07f4a8141e089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "(難所?)Salesforceにおける\"活動\"の概念や機能を整理してみた",
+      "author" : "@yonyonsaeki",
+      "day" : 3,
+      "url" : "https://qiita.com/yonyonsaeki/items/be0100b15f6c8d1afacd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforce x Slack 連携 をHerokuで実現する",
+      "author" : "@naoya-shiraishi",
+      "day" : 4,
+      "url" : "https://qiita.com/naoya-shiraishi/items/d1750a1ca5bc5da1ac64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SalesforceにおけるOAuth認証について（簡易まとめ）",
+      "author" : "@regardie",
+      "day" : 5,
+      "url" : "https://ehrenfest.com/post-3869/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ULIDを試してみる",
+      "author" : "@yonet77",
+      "day" : 6,
+      "url" : "https://qiita.com/yonet77/items/73398e28570b8e5d2f4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforce: UnofficialSFのConvertToFlowを試してみた",
+      "author" : "@hanamizuki10",
+      "day" : 7,
+      "url" : "https://qiita.com/hanamizuki10/items/899de02a1c402724d860"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタムアクションボタンでSalesforce別タブで画面を開く",
+      "author" : "@panxl",
+      "day" : 8,
+      "url" : "https://qiita.com/panxl/items/a22298173764fda96a25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceの技術ブログから、SalesforceとSlack連携を試す",
+      "author" : "@geeorgey",
+      "day" : 9,
+      "url" : "https://qiita.com/geeorgey/items/d7b957c7d68fe6340e95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "やってみよう！プロセスビルダーからSalesforceフローへの移行",
+      "author" : "@kob_sf",
+      "day" : 10,
+      "url" : "https://qiita.com/kob_sf/items/ae6def62c149749224f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PARENTGROUPVALの使い方",
+      "author" : "@Keiji_otsubo",
+      "day" : 11,
+      "url" : "https://qiita.com/Keiji_otsubo/items/83b7d742698c7b554010"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforce MFAの紐づけをシステム管理者が代行する方法を考えてみた",
+      "author" : "@mark_hammer",
+      "day" : 12,
+      "url" : "https://sfblog.markhammer.net/entry/2021/12/12/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Salesforce]コンポーネント最速決定戦 IN Winter'22",
+      "author" : "@tiaug30",
+      "day" : 13,
+      "url" : "https://qiita.com/tiaug30/items/74d63fec09ad9e603db6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceハッカソン2021にアドミンが参戦した記録",
+      "author" : "@GonmoriKazuki",
+      "day" : 14,
+      "url" : "https://qiita.com/GonmoriKazuki/items/291261123558bb4822f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforceマーケットの転職需要とキャリアパスについて",
+      "author" : "@Kenny_madeinthailand",
+      "day" : 15,
+      "url" : "https://kennymadeinthailand.hatenablog.com/entry/2021/12/15/123956"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "winter'22で追加されたレコードトリガーフローの機能を使って項目変更履歴を実装してみた",
+      "author" : "@ozeni",
+      "day" : 16,
+      "url" : "https://qiita.com/ozeni/items/41d6fd7bf51a35e8b0dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IT業界未経験者がSalesforceで人生が変わったロードマップ",
+      "author" : "@Tatsuhiro_Iwasaki",
+      "day" : 17,
+      "url" : "https://iwasatat.com/salesforce-0%e2%86%921"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Touch ID や Windows Hello を使用した Salesforce の多要素認証",
+      "author" : "@shunkosa",
+      "day" : 18,
+      "url" : "https://qiita.com/shunkosa/items/87916ece090218cc9070"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforce Functionsについて",
+      "author" : "@shunsaito",
+      "day" : 19,
+      "url" : "https://qiita.com/shunsaito/items/7942897f36e2bdb09170"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年、Trailblazer Community で回答を続けて思うこと",
+      "author" : "@Keiji_otsubo",
+      "day" : 20,
+      "url" : "https://qiita.com/Keiji_otsubo/items/79e6c37456ad00b8db68"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "昔作ったツールたちを Salesforce CLI のプラグインとして書き直す",
+      "author" : "@takahito0508",
+      "day" : 21,
+      "url" : "https://qiita.com/takahito0508/items/de868e92dd531c85365d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SketchのSalesforceプラグインを使用してみた",
+      "author" : "@kumakura",
+      "day" : 22,
+      "url" : "https://qiita.com/kumakura/items/b8f20b3a4f85f0546ccc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GA後の Salesforce Functions を試してみよう",
+      "author" : "@sho7650",
+      "day" : 23,
+      "url" : "https://zenn.dev/sho7650/articles/f1b0c096847277"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : " Salesforceで恋愛シミュレーションゲームを作った話",
+      "author" : "@ayano_k_123",
+      "day" : 25,
+      "url" : "https://urgm.hatenablog.com/entry/2021/12/25/000000"
+    }
+  ]
+}

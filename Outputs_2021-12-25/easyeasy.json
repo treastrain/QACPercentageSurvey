@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-26T04:03:15Z",
+  "calendar_meta_data" : {
+    "author" : "@unsoluble_sugar",
+    "category" : "企業・学校・団体",
+    "lgtm" : 84,
+    "subscribers" : 26,
+    "title" : "完全に理解したTalk Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "easyeasy",
+    "url" : "https://qiita.com/advent-calendar/2021/easyeasy"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Ruby で API を叩くスクリプトを書いてみましょう！",
+      "author" : "@AkkeyLab",
+      "day" : 1,
+      "url" : "https://akkeylab.com/2021/12/01/let's-write-a-script-that-contains-api-calls/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゆるいエンジニアリングコミュニティ運営完全に理解した",
+      "author" : "@unsoluble_sugar",
+      "day" : 2,
+      "url" : "https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VPN完全に理解した",
+      "author" : "@dem_kk",
+      "day" : 3,
+      "url" : "https://qiita.com/dem_kk/items/76000a954a8d98dd318c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VPN接続のトラブルシューティング完全に理解した",
+      "author" : "@unsoluble_sugar",
+      "day" : 4,
+      "url" : "https://zenn.dev/unsoluble_sugar/articles/7ee85c9571df96"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DX 完全に理解した:01",
+      "author" : "@segavvy",
+      "day" : 5,
+      "url" : "https://qiita.com/segavvy/items/991e0244c693bd52c3f7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "terminal emulator の dotfiles 管理を完全に理解した",
+      "author" : "@yasudanaoya",
+      "day" : 6,
+      "url" : "https://qiita.com/yasudanaoya/items/65338fab35bf3d2ca59a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "teensy4.1完全に理解した",
+      "author" : "@NobuHandMaker",
+      "day" : 7,
+      "url" : "https://qiita.com/NobuHandMaker/items/e73f998759f00e7b25b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Phoenix LiveView完全理解道程 (2021/12/08)",
+      "author" : "@torifukukaiou",
+      "day" : 8,
+      "url" : "https://qiita.com/torifukukaiou/items/3de65fff5df48e8baa20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SOLID原則をC++使って解説する",
+      "author" : "@kikochan",
+      "day" : 9,
+      "url" : "https://qiita.com/kikochan/items/757848749847d89ff3e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ChromeExtension完全に理解した!　",
+      "author" : "@naga-na",
+      "day" : 10,
+      "url" : "https://nagana.hatenadiary.jp/entry/2021/12/10/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DX 完全に理解した:02",
+      "author" : "@segavvy",
+      "day" : 11,
+      "url" : "https://qiita.com/segavvy/items/cdde8d14a4e6e2d673d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[入門]Ant Design 完全に理解した",
+      "author" : "@ToaruEngineer",
+      "day" : 12,
+      "url" : "https://qiita.com/ToaruEngineer/items/ec86b3674af0814e49a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IMEの変換辞書完全に理解した",
+      "author" : "@kfurumiya",
+      "day" : 13,
+      "url" : "https://qiita.com/kfurumiya/items/6a7cf831ab3f560e678a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HaritoraX完全に理解した",
+      "author" : "@unsoluble_sugar",
+      "day" : 14,
+      "url" : "https://zenn.dev/unsoluble_sugar/articles/93fc33aa1b2753"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Zoom完全に理解した",
+      "author" : "@rabirion",
+      "day" : 15,
+      "url" : "https://qiita.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Teensy4.1でROS2完全に理解した",
+      "author" : "@NobuHandMaker",
+      "day" : 16,
+      "url" : "https://qiita.com/NobuHandMaker/items/f5a9dc0695389bdea5a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VRChatterのためのシェーダーの基本、完全に理解した",
+      "author" : "@hirakichi",
+      "day" : 17,
+      "url" : "https://qiita.com/hirakichi/items/8282ff70c28548c0eb16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bakery完全に理解した",
+      "author" : "@henjiganai",
+      "day" : 18,
+      "url" : "https://zenn.dev/henjiganai/articles/7392f65331f51f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無料モーションアプリ9VAeきゅうべえを完全に理解した",
+      "author" : "@danjiro",
+      "day" : 19,
+      "url" : "https://qiita.com/danjiro/items/5ebfbd7a30402d771ebc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RPAやってみた",
+      "author" : "@minwinmin",
+      "day" : 21,
+      "url" : "https://zenn.dev/takudooon/articles/50ebb414dc457f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Dockerの基礎を完全に理解した",
+      "author" : "@yuminatsu_",
+      "day" : 22,
+      "url" : "https://qiita.com/yuminatsu_/items/fb9f7f515d320ecdc94c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webアニメコンテストを完全に理解した",
+      "author" : "@danjiro",
+      "day" : 23,
+      "url" : "https://qiita.com/danjiro/items/23c412416c2a1af0f3da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterのNavigator1.0を完全に理解した気になっていたので再入門した",
+      "author" : "@steelhearts",
+      "day" : 24,
+      "url" : "https://qiita.com/steelhearts/items/01a18c08fd082b41946b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

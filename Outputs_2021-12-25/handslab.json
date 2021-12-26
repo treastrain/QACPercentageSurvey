@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:56:47Z",
+  "calendar_meta_data" : {
+    "author" : "ハンズラボ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 365,
+    "subscribers" : 5,
+    "title" : "ハンズラボ Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "handslab",
+    "url" : "https://qiita.com/advent-calendar/2021/handslab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK(Python)でアカウントIDを含むS3バケットを作る",
+      "author" : "@shnskfjwr",
+      "day" : 1,
+      "url" : "https://qiita.com/shnskfjwr/items/7562f741d97ff233bd0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "残念ながら、エンジニアの皆さんは英語から逃げられません。",
+      "author" : "@nnkysk",
+      "day" : 2,
+      "url" : "https://qiita.com/nnkysk/items/ee0f2def3ce4cf1f4703"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDKを使ってGitHub Actions OpenID Connect (OIDC) で多段 AssumeRoleする",
+      "author" : "@ryo-1123",
+      "day" : 3,
+      "url" : "https://qiita.com/ryo-1123/items/6e385c11aebb413d37cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackを愛する者として、社内のスタンプ利用ランキングを知りたい。",
+      "author" : "@Senple",
+      "day" : 4,
+      "url" : "https://qiita.com/Senple/items/0e4626307b4559d26bc5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハンズラボで過ごした1年間を振り返る",
+      "author" : "@sam_eng3336",
+      "day" : 5,
+      "url" : "https://qiita.com/sam_eng3336/items/b79c0fcbdc3bcc812153"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分でMFAの管理ができるIAMユーザーの作り方",
+      "author" : "@An_nA",
+      "day" : 6,
+      "url" : "https://qiita.com/An_nA/items/9099a2935e4761caeae5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django REST FrameworkのSerializerが「いい感じにやってくれている」内部におけるデータの持ち回り方法を読む",
+      "author" : "@naokiur",
+      "day" : 7,
+      "url" : "https://qiita.com/naokiur/items/51a384405f9a3b0eecb9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いまさら聞けない、ググり方のコツ",
+      "author" : "@shnskfjwr",
+      "day" : 8,
+      "url" : "https://qiita.com/shnskfjwr/items/d8ac1232e675f5585f23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[コピペでOK]どのスタンプを誰がどんなチャンネルで使っているんだろう？(Slack API)",
+      "author" : "@Senple",
+      "day" : 9,
+      "url" : "https://qiita.com/Senple/items/47e45f5e93ba225ddad1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハンズラボで子育てしながら働いてみた",
+      "author" : "@sara_ohtani_mt2",
+      "day" : 10,
+      "url" : "https://www.hands-lab.com/tech/t12375"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカル環境のJupyterLabからAthenaにクエリしたい",
+      "author" : "@TSaku0816",
+      "day" : 11,
+      "url" : "https://qiita.com/TSaku0816/items/244541e1a17ee471cc12"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "グラフDBで構成情報を可視化したい：neo4j篇",
+      "author" : "@TSaku0816",
+      "day" : 12,
+      "url" : "https://qiita.com/TSaku0816/items/bdb7002ac1f56578e2b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1on1を1年間やって見つけた\"深堀りどころ\"キーワード",
+      "author" : "@sara_ohtani_mt2",
+      "day" : 13,
+      "url" : "https://note.com/sara_ohtani_mt2/n/n807a4f4769d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セキュリティーグループ更新を効率化してお手軽にする",
+      "author" : "@5frisk_notmintia",
+      "day" : 14,
+      "url" : "https://qiita.com/5frisk_notmintia/items/a42c7d5cd3db49b48911"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Serverless FrameworkとCognitoを使ったユーザー認証システムをさっくり構築するハンズオン",
+      "author" : "@kwn-hrk",
+      "day" : 15,
+      "url" : "https://qiita.com/kwn-hrk/items/9ed61339f12ca4c12dde"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptでグラフを作る",
+      "author" : "@icco",
+      "day" : 16,
+      "url" : "https://qiita.com/icco/items/8a698ebeafb5856555c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPUnitとMockeryで単体テストつくる",
+      "author" : "@bassaaaaa",
+      "day" : 17,
+      "url" : "https://qiita.com/bassaaaaa/items/983bf34dd4c130a2d6d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "見やすい資料を作っていますか？",
+      "author" : "@han-aru",
+      "day" : 18,
+      "url" : "https://qiita.com/han-aru/items/e2c494c6ba64e0900e39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "小売業の会社らしくAmazon QuickSightで分析してみた",
+      "author" : "@y_arikuni",
+      "day" : 19,
+      "url" : "https://qiita.com/y_arikuni/items/cd571cbf418ebb3a8d86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "◯△□を描いて感じる双方向コミュニケーションの大切さ",
+      "author" : "@An_nA",
+      "day" : 20,
+      "url" : "https://qiita.com/An_nA/items/f3eb30552ea21d8c34bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iTermで動く年賀状（寅）を作ってみた",
+      "author" : "@ninini",
+      "day" : 21,
+      "url" : "https://qiita.com/ninini/items/8df463a018e57bda4cba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドエンジニアに贈る、爆速Amplifyのすゝめ",
+      "author" : "@bakupen",
+      "day" : 22,
+      "url" : "https://qiita.com/bakupen/items/f86a0eee515b9502e265"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実家のネットワーク管理でやらかした話",
+      "author" : "@sam_eng3336",
+      "day" : 23,
+      "url" : "https://qiita.com/sam_eng3336/items/c95401d74759caeb18dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify Studioでつまづいたところ。",
+      "author" : "@Senple",
+      "day" : 24,
+      "url" : "https://qiita.com/Senple/items/5410b7c155487b67ac7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクラムをチームに導入する前にまずは素振りイベントをやってみませんか？",
+      "author" : "@satorongai",
+      "day" : 25,
+      "url" : "https://qiita.com/satorongai/items/41534d81abbff81518ea"
+    }
+  ]
+}

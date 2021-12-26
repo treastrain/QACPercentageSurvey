@@ -1,0 +1,154 @@
+{
+  "created_at" : "2021-12-25T23:48:40Z",
+  "calendar_meta_data" : {
+    "author" : "@kaizen_nagoya",
+    "category" : "OS",
+    "lgtm" : 5,
+    "subscribers" : 8,
+    "title" : "AUTOSAR Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "autosar",
+    "url" : "https://qiita.com/advent-calendar/2021/autosar"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ARXMLからjsonへ",
+      "author" : "@kaizen_nagoya",
+      "day" : 1,
+      "url" : "https://qiita.com/kaizen_nagoya/items/f036a5899e4ea50d6ecd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSAR　Advent Calendar 2021 を満席にする4つの方法",
+      "author" : "@kaizen_nagoya",
+      "day" : 2,
+      "url" : "https://qiita.com/kaizen_nagoya/items/6ee8fe4e0768fe8171b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OSEKはもう流行らないのでしょうか。",
+      "author" : "@kaizen_nagoya",
+      "day" : 3,
+      "url" : "https://qiita.com/kaizen_nagoya/items/b87687254b11f30cc2ee"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ISO/IEC/IEEE 42010:2011 Systems and software engineering, Referenced by AUTOSAR Glossary",
+      "author" : "@kaizen_nagoya",
+      "day" : 7,
+      "url" : "https://qiita.com/kaizen_nagoya/items/240a7e5ac9392d88e877"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSARと国際規格",
+      "author" : "@kaizen_nagoya",
+      "day" : 8,
+      "url" : "https://qiita.com/kaizen_nagoya/items/4ddba03efb942969b125"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSAR R21-11(0)公開　Specificationをダウンロード",
+      "author" : "@kaizen_nagoya",
+      "day" : 9,
+      "url" : "https://qiita.com/kaizen_nagoya/items/9b3a1b9b8d1e8d7e288e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSAR R21-11(1) Glossary",
+      "author" : "@kaizen_nagoya",
+      "day" : 10,
+      "url" : "https://qiita.com/kaizen_nagoya/items/9eaf0c2a82a39c356f92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSAR R21-11(2) Main Requirements",
+      "author" : "@kaizen_nagoya",
+      "day" : 11,
+      "url" : "https://qiita.com/kaizen_nagoya/items/54a9d90272d901ecc089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSAR R21-11(3) Requirements on Diagnostics",
+      "author" : "@kaizen_nagoya",
+      "day" : 12,
+      "url" : "https://qiita.com/kaizen_nagoya/items/fce079cfd7ce9f6ee4ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSAR R21-11(4) Requirements on Log and Trace",
+      "author" : "@kaizen_nagoya",
+      "day" : 13,
+      "url" : "https://qiita.com/kaizen_nagoya/items/98fde7ffbef358fcf2ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSAR R21-11(5) Log and Trace Protocol Specification",
+      "author" : "@kaizen_nagoya",
+      "day" : 14,
+      "url" : "https://qiita.com/kaizen_nagoya/items/724143aa4e529e3fd079"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AUTOSARのClassic PlatformとAdaptive PlatformにおけるDiagnosticsの違いを整理",
+      "author" : "@kazuo_reve",
+      "day" : 24,
+      "url" : "https://qiita.com/kazuo_reve/items/05c179d705c69286b94a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "@kazuo_reve「AUTOSARのClassic PlatformとAdaptive PlatformにおけるDiagnosticsの違いを整理」で慌てて",
+      "author" : "@kaizen_nagoya",
+      "day" : 25,
+      "url" : "https://qiita.com/kaizen_nagoya/items/d3ff6aba9b7402e8bde8"
+    }
+  ]
+}

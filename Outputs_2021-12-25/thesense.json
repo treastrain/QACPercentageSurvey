@@ -1,0 +1,138 @@
+{
+  "created_at" : "2021-12-25T17:43:28Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社 the sense",
+    "category" : "企業・学校・団体",
+    "lgtm" : 14,
+    "subscribers" : 1,
+    "title" : "the sense advent calendar Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "thesense",
+    "url" : "https://qiita.com/advent-calendar/2021/thesense"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ControlSystems.jl を使ってみる",
+      "author" : "@sanbasan",
+      "day" : 6,
+      "url" : "https://qiita.com/sanbasan/items/e0e2dcb70a204e847419"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows安定版のDockerでGPUを認識させる",
+      "author" : "@sanbasan",
+      "day" : 7,
+      "url" : "https://qiita.com/sanbasan/items/448ea464bc5bdb6d2878"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "wingetを使ってスタートメニューから消せないアプリを消す",
+      "author" : "@sanbasan",
+      "day" : 8,
+      "url" : "https://qiita.com/sanbasan/items/6ca57f954076852b9ac0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AtCoderで茶色になりました",
+      "author" : "@Aosanori620",
+      "day" : 10,
+      "url" : "https://qiita.com/Aosanori620/items/3803c3ef188d9952c0e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@tomoDev_"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Plots.jl で領域を描画する",
+      "author" : "@sanbasan",
+      "day" : 14,
+      "url" : "https://qiita.com/sanbasan/items/4f1d764a477b50e274ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】アニメーションを使ったリッチなボタン6種類をまとめて紹介！",
+      "author" : "@Aosanori620",
+      "day" : 15,
+      "url" : "https://qiita.com/Aosanori620/items/a43d844d1886f4992116"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@tomoDev_"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@tomoDev_"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@Aosanori620"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@tomoDev_"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

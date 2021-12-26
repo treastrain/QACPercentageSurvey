@@ -1,0 +1,137 @@
+{
+  "created_at" : "2021-12-25T18:34:28Z",
+  "calendar_meta_data" : {
+    "author" : "@ryotayamanaka",
+    "category" : "データベース",
+    "lgtm" : 2,
+    "subscribers" : 2,
+    "title" : "Oracle Graph Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "oracle-graph",
+    "url" : "https://qiita.com/advent-calendar/2021/oracle-graph"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle Graph を Docker 上で構築（前編）",
+      "author" : "@ryotayamanaka",
+      "day" : 1,
+      "url" : "https://qiita.com/ryotayamanaka/items/0e2bf7b0d1e00331c7d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle Graph を Docker 上で構築（後編）",
+      "author" : "@ryotayamanaka",
+      "day" : 2,
+      "url" : "https://qiita.com/ryotayamanaka/items/090dd06236e7ca5d75c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "銀行の送金データをグラフで分析する（パート１）",
+      "author" : "@ryotayamanaka",
+      "day" : 3,
+      "url" : "https://qiita.com/ryotayamanaka/items/b2ee1c78807c1328b96f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "銀行の送金データをグラフで分析する（パート２）",
+      "author" : "@ryotayamanaka",
+      "day" : 4,
+      "url" : "https://qiita.com/ryotayamanaka/items/99a64b10f8f1f6456175"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@ryotayamanaka"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

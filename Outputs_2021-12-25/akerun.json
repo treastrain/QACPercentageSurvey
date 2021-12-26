@@ -1,0 +1,158 @@
+{
+  "created_at" : "2021-12-26T03:09:10Z",
+  "calendar_meta_data" : {
+    "author" : "Photosynth Inc.",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 0,
+    "subscribers" : 9,
+    "title" : "Akerun Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "akerun",
+    "url" : "https://qiita.com/advent-calendar/2021/akerun"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "便利な解錠方法-AppClip解錠",
+      "author" : "@guangshi1982",
+      "day" : 1,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/ios-appclip"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "専用アプリはもう要らない？LINE BotからAkerunを操作する（その３）",
+      "author" : "@guangshi1982",
+      "day" : 2,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/line-bot-carousel"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "考古学者の心得と、遺跡調査に使える道具",
+      "author" : "@daikw",
+      "day" : 5,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/software_archaeology"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソフトウェア考古学者へ。Hack-The-Boxはいいぞ",
+      "author" : "@daikw",
+      "day" : 6,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/pentest_meets_software_archaeology"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@naritaku"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアとコーチングの相性の良さ",
+      "author" : "@AkiAbe",
+      "day" : 10,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/engineering_coaching"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@ohioshirt"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "施解錠遅延の限度見本",
+      "author" : "@daikw",
+      "day" : 12,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/software_boundary_sample"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "便利な解錠方法-まばたき解錠",
+      "author" : "@guangshi1982",
+      "day" : 15,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/jins-meme"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パフォーマンスチューニング: 手を動かす前に考える",
+      "author" : "@ps-tsh",
+      "day" : 16,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/16/113000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@yoheioka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "やっすいデバッガでnRF52のデバッグしてみる (Jeff Probe編)",
+      "author" : "@itoyu_ps",
+      "day" : 18,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/16/JeffProbe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Systems Managerを使ってraspiマシンを運用する時の注意点",
+      "author" : "@daikw",
+      "day" : 19,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/raspi_operations_with_aws_ssm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPhone X RasPiで外出先で使える高機能なモバイルルーターを自作する",
+      "author" : "@ishturk",
+      "day" : 20,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/21/094447"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@yuyakm"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "amazon-ssm-agent のハードウェアフィンガープリントの仕組み",
+      "author" : "@daikw",
+      "day" : 22,
+      "url" : "https://akerun.hateblo.jp/entry/2021/12/ssm_agent_finger_printing_mechanism"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@tarotene"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@tarotene"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@ps-non"
+    }
+  ]
+}

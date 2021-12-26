@@ -1,0 +1,136 @@
+{
+  "created_at" : "2021-12-26T00:52:18Z",
+  "calendar_meta_data" : {
+    "author" : "@Midoliy",
+    "category" : "プログラミング言語",
+    "lgtm" : 11,
+    "subscribers" : 27,
+    "title" : "F# Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "fsharp",
+    "url" : "https://qiita.com/advent-calendar/2021/fsharp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "単一の判別共用体を使って堅牢なドメインモデリング",
+      "author" : "@adacola",
+      "day" : 1,
+      "url" : "https://qiita.com/adacola/items/87e697d14f66a612ea8e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "The Elm Architecture（F#+Avalonia FuncUI）によるGUIプログラミング",
+      "author" : "@totto2727",
+      "day" : 3,
+      "url" : "https://qiita.com/totto2727/items/53f6f9dc21eae18326ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSVを読み込んでみた！（F# and Csvhelper）",
+      "author" : "@callmekohei",
+      "day" : 4,
+      "url" : "https://qiita.com/callmekohei/items/1634d067403bdd8087fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rustacean のための F#",
+      "author" : "@joemphilips",
+      "day" : 15,
+      "url" : "https://tech.bitbank.cc/fsharp-for-rustacean/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンピュテーション式でキーワード引数",
+      "author" : "@bleis",
+      "day" : 23,
+      "url" : "https://bleis-tift.hatenablog.com/entry/fsadvent2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタムオペレーションの呼び出し順序を制御する",
+      "author" : "@snowapricot47",
+      "day" : 24,
+      "url" : "https://qiita.com/snowapricot47/items/dca84a6485317959f02d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "F# x LINQ",
+      "author" : "@Midoliy",
+      "day" : 25,
+      "url" : "https://gist.github.com/tatsuya-midorikawa/d0df8a26a56f342ec8b7af7d26be31db#file-f-x-linq-md"
+    }
+  ]
+}

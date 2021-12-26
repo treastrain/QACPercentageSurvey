@@ -1,0 +1,128 @@
+{
+  "created_at" : "2021-12-25T17:34:57Z",
+  "calendar_meta_data" : {
+    "author" : "@Dr-FishMan",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 0,
+    "title" : "電脳 Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "cyberbrain",
+    "url" : "https://qiita.com/advent-calendar/2021/cyberbrain"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@kamikiich"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@2t6pu6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@poipoi23"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電脳将棋 - 将棋AIを作ってみた -",
+      "author" : "@indii00didi",
+      "day" : 6,
+      "url" : "https://engineerblog.mynavi.jp/technology/shogi-ai/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonでファイルの作成・読み込み・書き込み方法",
+      "author" : "@anonnon2sd",
+      "day" : 7,
+      "url" : "https://enjoy-life-fullest.com/2020/10/28/%e3%80%90%e5%88%9d%e5%bf%83%e8%80%85%e5%90%91%e3%81%91%e3%80%91python%e3%81%a7%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%81%ae%e4%bd%9c%e6%88%90%e3%83%bb%e8%aa%ad%e3%81%bf%e8%be%bc%e3%81%bf%e3%83%bb/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@poipoi23"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@poipoi23"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@gitloveme"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@poipoi23"
+    }
+  ]
+}

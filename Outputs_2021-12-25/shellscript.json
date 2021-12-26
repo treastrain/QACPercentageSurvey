@@ -1,0 +1,134 @@
+{
+  "created_at" : "2021-12-25T22:05:28Z",
+  "calendar_meta_data" : {
+    "author" : "@okaits",
+    "category" : "プログラミング言語",
+    "lgtm" : 6,
+    "subscribers" : 52,
+    "title" : "シェルスクリプト Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "shellscript",
+    "url" : "https://qiita.com/advent-calendar/2021/shellscript"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "LinuxでLinuCスピードマスター問題集を効率的（？）に勉強する方法",
+      "author" : "@okaits",
+      "day" : 1,
+      "url" : "https://qiita.com/okaits/items/8c8d6a4563c07a8d2e39"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@Rasukarusan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "sed の ブロック {} 内で i, r, e コマンドを使うと \"unmatched `{'\" とエラーになる",
+      "author" : "@advanceboy",
+      "day" : 3,
+      "url" : "https://aquasoftware.net/blog/?p=1655"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "置換ができない/複数ある場合に sed の終了コード0以外にする",
+      "author" : "@advanceboy",
+      "day" : 4,
+      "url" : "https://aquasoftware.net/blog/?p=1657"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "えっ😲ターミナル👽でプロンプト👾に「顔文字をランダム表示」させたいだって？😱😘🐶",
+      "author" : "@canalun",
+      "day" : 5,
+      "url" : "https://zenn.dev/canalun/articles/9b38064a80f43d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bash で標準出力と標準エラーを 2つのコマンドに出し分ける",
+      "author" : "@advanceboy",
+      "day" : 17,
+      "url" : "https://aquasoftware.net/blog/?p=1663"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "シェルスクリプト（Bashスクリプト）でかんたんな自作言語のコンパイラを書いた",
+      "author" : "@sonota88",
+      "day" : 20,
+      "url" : "https://qiita.com/sonota88/items/79dd2b0c1dae776c56d9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

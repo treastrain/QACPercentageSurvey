@@ -1,0 +1,177 @@
+{
+  "created_at" : "2021-12-26T01:25:23Z",
+  "calendar_meta_data" : {
+    "author" : "@rmanzoku",
+    "category" : "学術",
+    "lgtm" : 46,
+    "subscribers" : 32,
+    "title" : "Ethereum Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "ethereum",
+    "url" : "https://qiita.com/advent-calendar/2021/ethereum"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Ethereum で使用する秘密鍵をプログラムから安全に扱うための aws-kms-provider の紹介",
+      "author" : "@odanado",
+      "day" : 1,
+      "url" : "https://zenn.dev/odan/articles/edb703eb1a4863"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "詳解Optimism",
+      "author" : "@yamapyblack",
+      "day" : 2,
+      "url" : "https://qiita.com/yamapyblack/items/7afdc5ad69532ea7cb9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Arbitrumに対応したモジュールを作ってみたよ",
+      "author" : "@Akira-Taniguchi",
+      "day" : 3,
+      "url" : "https://qiita.com/Akira-Taniguchi/items/740625d705d8c2c7617a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KnownOrigin の Merkle Royalties Distributor の紹介",
+      "author" : "@avcdsld",
+      "day" : 4,
+      "url" : "https://qiita.com/avcdsld/items/187198c9636f7f7462e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブロックチェーン手品で学ぶNFTのデータ",
+      "author" : "@NandemoToken",
+      "day" : 6,
+      "url" : "https://qiita.com/NandemoToken/items/234062e1a707097661f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "full-on-chain pixel art NFT",
+      "author" : "@h2ueno",
+      "day" : 7,
+      "url" : "https://qiita.com/h2ueno/items/4a51d95ed3712a2ec639"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EthereumでTwitterっぽいものを作ってみる",
+      "author" : "@razokulover",
+      "day" : 8,
+      "url" : "https://zenn.dev/razokulover/articles/067fd5cf55292e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenZeppelinのContracts Upgradeableを使ってコントラクトをアップグレード出来るようにする",
+      "author" : "@razokulover",
+      "day" : 9,
+      "url" : "https://zenn.dev/razokulover/articles/708bcf4b9623c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ethereumのコントラクトのステートを上書きした場合に過去に遡って掘り起こせるのか？",
+      "author" : "@razokulover",
+      "day" : 10,
+      "url" : "https://zenn.dev/razokulover/articles/6c7e917624d857"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DuneAnalyitcsで特定のタイミングでのERC20トークンホルダー、保有トークン量を出す",
+      "author" : "@minicoohei",
+      "day" : 11,
+      "url" : "https://qiita.com/minicoohei/items/823e2236d94f150b5b3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AAVE V1とV2のフラッシュローンの違い",
+      "author" : "@bakuchii",
+      "day" : 12,
+      "url" : "https://qiita.com/bakuchii/items/47c20d695485a6f25ab5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PolygonエコシステムとEthereumの関係を整理する",
+      "author" : "@lilpacy",
+      "day" : 14,
+      "url" : "https://zenn.dev/lilpacy/articles/474cfd505382fa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LINE BlockchainでのNFT発行方法とEthereumとの違い",
+      "author" : "@lilpacy",
+      "day" : 15,
+      "url" : "https://zenn.dev/lilpacy/articles/0d91349742db1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NFTを用いたCTFを開催したので問題作成者が解説してみる",
+      "author" : "@serinuntius",
+      "day" : 16,
+      "url" : "https://zenn.dev/no_plan/articles/581be4ad731a79"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TheGraphが繋ぐブロックチェーンとフロントエンドエンジニア",
+      "author" : "@Akazawa_Naoki",
+      "day" : 18,
+      "url" : "https://qiita.com/Akazawa_Naoki/items/27cccfd5a9cbe1462208"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "zkRollupの回路内で計算してること",
+      "author" : "@serinuntius",
+      "day" : 19,
+      "url" : "https://zenn.dev/serinuntius/articles/f56b3dc2871a03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AA（Account Abstraction）の先にある、コントラクトウォレット中心の世界",
+      "author" : "@m0t0k1ch1",
+      "day" : 20,
+      "url" : "https://zenn.dev/sivira/articles/d041f1ac44ca1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ethereum の History Expiry について",
+      "author" : "@avcdsld",
+      "day" : 21,
+      "url" : "https://qiita.com/avcdsld/items/4c9a45a0c3fd9afd645a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Test in Prodは絶滅してくれ",
+      "author" : "@oishun",
+      "day" : 22,
+      "url" : "https://qiita.com/oishun/items/696cb7dbcab3c8e8e308"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマートコントラクトエンジニアの成長過程とキャリアについて",
+      "author" : "@kohshiba",
+      "day" : 23,
+      "url" : "https://qiita.com/kohshiba/items/b9aa9346cec45d1ab642"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@mekezzo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@rmanzoku"
+    }
+  ]
+}

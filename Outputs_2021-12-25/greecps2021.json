@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:19:00Z",
+  "calendar_meta_data" : {
+    "author" : "@bug-taro",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 254,
+    "subscribers" : 33,
+    "title" : "グリー品質管理 Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "greecps2021",
+    "url" : "https://qiita.com/advent-calendar/2021/greecps2021"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "モバイルゲームのQA現場の変化～2021年編～",
+      "author" : "@gomez_te",
+      "day" : 1,
+      "url" : "https://qiita.com/gomez_te/items/a93ca86af0d39d34ff20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜ！？テスト範囲を考慮しないのか？",
+      "author" : "@QA_Koo",
+      "day" : 2,
+      "url" : "https://qiita.com/QA_Koo/items/d70ce728f55ad26ee7f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google スプレッドシートを使って文章を検証しよう",
+      "author" : "@omomukumamani_piroshi",
+      "day" : 3,
+      "url" : "https://qiita.com/omomukumamani_piroshi/items/e749fe5a2b64e9ff9908"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAからの情報発信～CEDEC登壇をしてみたおはなし～",
+      "author" : "@game_qa_dayo_y",
+      "day" : 4,
+      "url" : "https://qiita.com/game_qa_dayo_y/items/66631cac3a251c2d1ec6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "計画がうまくいってなくて、行動することに日和ってるやつ奴いる？",
+      "author" : "@vampire_0305",
+      "day" : 5,
+      "url" : "https://qiita.com/vampire_0305/items/d1971fa47193a832abf3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【続】iOSでAirtestを動かす",
+      "author" : "@s_noza",
+      "day" : 6,
+      "url" : "https://qiita.com/s_noza/items/518d4ee28490c25d95b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSにおける遠距離間での連携",
+      "author" : "@ryusei55",
+      "day" : 7,
+      "url" : "https://qiita.com/ryusei55/items/ad7cdf864d969e6be3e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "障害対策は開発チームと二人三脚で行こう！",
+      "author" : "@mountainQ",
+      "day" : 8,
+      "url" : "https://qiita.com/mountainQ/items/6f17e30bc74b4e0e940a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "海外スタジオ、国内スタジオ、自社の3拠点でのテスト実施について",
+      "author" : "@pikazakipika123",
+      "day" : 9,
+      "url" : "https://qiita.com/pikazakipika123/items/8c935644bbfff6596adf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "審査ってなあに？",
+      "author" : "@sanshi",
+      "day" : 10,
+      "url" : "https://qiita.com/sanshi/items/c7b16779e77c858afe7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "翻訳QAでのテスト自動化の取り組み",
+      "author" : "@bug-taro",
+      "day" : 11,
+      "url" : "https://qiita.com/bug-taro/items/6bdf76e3cf4b7abea9a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モバイルゲームアプリのパフォーマンステスト",
+      "author" : "@kobushi_vanish",
+      "day" : 12,
+      "url" : "https://qiita.com/kobushi_vanish/items/b14dffffeb563a33f867"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データドリブンCSへの道のり",
+      "author" : "@CS_YO",
+      "day" : 13,
+      "url" : "https://qiita.com/CS_YO/items/055ef61148f076796cc3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "審査にとって大切な3つのこと",
+      "author" : "@watermelon",
+      "day" : 14,
+      "url" : "https://qiita.com/watermelon/items/4d34c01d803e7e4dc429"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ワールドワイド同時発売タイトルにおける翻訳QAの注意点",
+      "author" : "@ohisama_rin",
+      "day" : 15,
+      "url" : "https://qiita.com/ohisama_rin/items/0528782c87d04b301110"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲーム開発とアジャイルQA",
+      "author" : "@Metal_TE",
+      "day" : 16,
+      "url" : "https://qiita.com/Metal_TE/items/5dd6fcf36aab018de452"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データチェック自動化のススメ",
+      "author" : "@tayosaki",
+      "day" : 17,
+      "url" : "https://qiita.com/tayosaki/items/91e7387ad77214f185eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "品質改善のために開発フローの整備からQA参入してみた",
+      "author" : "@20P",
+      "day" : 18,
+      "url" : "https://qiita.com/20P/items/de21146c58389ceb9d44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "探索的テストの進め方について",
+      "author" : "@Hokori",
+      "day" : 19,
+      "url" : "https://qiita.com/Hokori/items/522d79cc76220b7ee6ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フィーチャーで気にされる[戻る]ボタンについて",
+      "author" : "@ISummer",
+      "day" : 20,
+      "url" : "https://qiita.com/ISummer/items/f4171f7e6d85d59c93f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "投稿監査 / コンテンツモデレーション から見る世界と影とこれから",
+      "author" : "@mod_nakanohito",
+      "day" : 21,
+      "url" : "https://qiita.com/mod_nakanohito/items/e3d1d0ea31653e063195"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "翻訳QAの注意点について",
+      "author" : "@tokihiro",
+      "day" : 22,
+      "url" : "https://qiita.com/tokihiro/items/a6b80ff1aa09d3b9523a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リリースに当たりQAが担保すべきこと",
+      "author" : "@masatoshi_nomoto",
+      "day" : 23,
+      "url" : "https://qiita.com/masatoshi_nomoto/items/a5e6bb5f6dc3b216b78e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発から信頼を得るためのQAの取り組み",
+      "author" : "@iki122",
+      "day" : 24,
+      "url" : "https://qiita.com/iki122/items/ca47ac9d5191cdbccd15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "より良い成長につなげるために！QAメンバーの目標設定",
+      "author" : "@shumai-hime",
+      "day" : 25,
+      "url" : "https://qiita.com/shumai-hime/items/f74cf709b24f0b892a96"
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "created_at" : "2021-12-26T01:57:06Z",
+  "calendar_meta_data" : {
+    "author" : "@cheez_RPA",
+    "category" : "その他",
+    "lgtm" : 130,
+    "subscribers" : 12,
+    "title" : "UiPath Advent Calendar (produced with UiPath Friends) Advent Calendar 2021",
+    "participants" : 34,
+    "unique_name" : "uipath",
+    "url" : "https://qiita.com/advent-calendar/2021/uipath"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "一瞬しか表示されない画面のセレクターを取る方法",
+      "author" : "@Tsutomu_Asari",
+      "day" : 1,
+      "url" : "https://qiita.com/Tsutomu_Asari/items/643e949e7394aac515b0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[UiPath] 月や日などに \"0\" を足すやり方を工夫しよう",
+      "author" : "@cheez_RPA",
+      "day" : 2,
+      "url" : "https://qiita.com/cheez_RPA/items/f9f09f1259a176859df6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UiPath Reboot Work Festival Japan 2021 イベントレポート(前編)",
+      "author" : "@saosao885",
+      "day" : 3,
+      "url" : "https://note.com/master_mbaandit/n/nb48164afa0b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【UiPath】TwilioでSMSを送信する",
+      "author" : "@miya_gis",
+      "day" : 4,
+      "url" : "https://qiita.com/miya_gis/items/9b52e5ee72d6d57d04bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【UiPath】エラーハンドリングについて考える（前編）",
+      "author" : "@mh_ti_fu",
+      "day" : 5,
+      "url" : "https://qiita.com/mh_ti_fu/items/d89149650eed8d8587c6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UiPath_データテーブルを順番に回したい",
+      "author" : "@saosao885",
+      "day" : 6,
+      "url" : "https://qiita.com/saosao885/items/ae2c6607a5554f3b6004"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "You are not authorized！って言われた話",
+      "author" : "@MilkBread",
+      "day" : 7,
+      "url" : "https://qiita.com/MilkBread/items/f7d680d1b36f81f71a31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[UiPath] バックグラウンドプロセスを急いでまとめてみた",
+      "author" : "@cheez_RPA",
+      "day" : 8,
+      "url" : "https://qiita.com/cheez_RPA/items/a5b780db5e008ff52bae"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@Yuuuuuui"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kintone顧客データをUiPathで自動クレンジングしてピボット集計",
+      "author" : "@kojimark",
+      "day" : 10,
+      "url" : "https://qiita.com/kojimark/items/45bc62405cb1fdf23d97"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[UiPath] 要素認識ができないときのTips：フレームワーク変更",
+      "author" : "@ShioriOsada",
+      "day" : 11,
+      "url" : "https://qiita.com/ShioriOsada/items/a09549afe37bdcb4940d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Uipath】ユーザー操作が必要なアクティビティを並列アクティビティで自動操作する",
+      "author" : "@keeeichi_876148",
+      "day" : 12,
+      "url" : "https://qiita.com/keeeichi_876148/items/a6a33ca79916f1f8cb9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[UiPath] Orchestratorバージョンアップ時の検討事項(よくわかるモダンフォルダ番外編)",
+      "author" : "@masatomix",
+      "day" : 13,
+      "url" : "https://qiita.com/masatomix/items/0ae1c16f0779ab6e2f4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ViVa！「ダウンロードを待機」アクティビティ！",
+      "author" : "@HANACCHI",
+      "day" : 14,
+      "url" : "https://qiita.com/HANACCHI/items/345321865e513668042d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非IT職がUiPathのユーザーコミュニティ運営に関わることについて2年間考えてたことについて書くつもりだった",
+      "author" : "@rpa_accounting",
+      "day" : 15,
+      "url" : "https://note.com/rpa_accounting/n/n275e8c740b7f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【UiPath】モダンデザインでのExcel操作系のアクティビティを使ってみた①",
+      "author" : "@emuxwasabi",
+      "day" : 16,
+      "url" : "https://qiita.com/emuxwasabi/items/db7f4502c045393a93f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【UiPath】オブジェクトリポジトリへの登録方法まとめ",
+      "author" : "@Jun96427231",
+      "day" : 17,
+      "url" : "https://qiita.com/Jun96427231/items/3ba6dd6c056368319eda"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Else Ifアクティビティを使ってみた！",
+      "author" : "@saosao885",
+      "day" : 18,
+      "url" : "https://qiita.com/saosao885/items/5536ab4c8f0fe39c8933"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UiPath Friends 2021年 総まとめ & 2022年に向けて",
+      "author" : "@ShumpeiWatanabe",
+      "day" : 19,
+      "url" : "https://note.com/shumpei_w/n/n9b703a54085a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【UiPath】REFrameworkのアップデート（2021.10）",
+      "author" : "@miya_gis",
+      "day" : 20,
+      "url" : "https://qiita.com/miya_gis/items/fa6f843149cdb4d8f142"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UiPathワークフローの品質を勝手に評価するツールを作ってみた",
+      "author" : "@myoshidan",
+      "day" : 21,
+      "url" : "https://automation-knowledge.com/article/uipath/tools/uicodemetricsvisualizer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年UiPathFriends活動報告",
+      "author" : "@saosao885",
+      "day" : 22,
+      "url" : "https://note.com/master_mbaandit/n/nabe0c12ce997"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@HirokoKawa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【RPA(UiPath)】RPAの推進組織 CoE(Center of Excellence)について徹底解説！",
+      "author" : "@RPA_AI_it",
+      "day" : 24,
+      "url" : "https://syachiku-inu.hatenablog.com/entry/2021/12/19/%E3%80%90RPA%28UiPath%29%E3%80%91RPA%E3%81%AE%E6%8E%A8%E9%80%B2%E7%B5%84%E7%B9%94_CoE%28Center_of_Excellence%29%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UiPath Friendsのクリスマス交流会で 「RPAチャレンジ タイムアタック⁉」に参戦してきた！！！",
+      "author" : "@kanbkinu",
+      "day" : 25,
+      "url" : "https://note.com/kambekinu/n/nbfaa26dd4d92"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【UiPath】モダンデザイン（概要編）",
+      "author" : "@miya_gis",
+      "day" : 1,
+      "url" : "https://qiita.com/miya_gis/items/b0a25ef2621f10fbdbcc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【UiPath】品質の高いコードとは（前編）",
+      "author" : "@miya_gis",
+      "day" : 2,
+      "url" : "https://qiita.com/miya_gis/items/3b4ca91ed5ad4bd50503"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【UiPath】品質の高いコードとは（中編）",
+      "author" : "@miya_gis",
+      "day" : 3,
+      "url" : "https://qiita.com/miya_gis/items/28f08496f68157a1d69e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【UiPath】品質の高いコードとは（後編）",
+      "author" : "@miya_gis",
+      "day" : 4,
+      "url" : "https://qiita.com/miya_gis/items/0f24f5b3289fe9b38911"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UiPath RebootWorkFestival イベントレポート(後編)",
+      "author" : "@saosao885",
+      "day" : 5,
+      "url" : "https://note.com/master_mbaandit/n/n6143107ad3f0"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RPA始動（RPA導入記）",
+      "author" : "@PP_RPA",
+      "day" : 6,
+      "url" : "https://note.com/pp_rpa/n/n5095c22f0174"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RPA始動（RPA導入記）",
+      "author" : "@PP_RPA",
+      "day" : 7,
+      "url" : "https://note.com/pp_rpa/n/n5b581b2c742f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【UiPath】Studioのイースターエッグ（隠しアニメーション）",
+      "author" : "@miya_gis",
+      "day" : 8,
+      "url" : "https://qiita.com/miya_gis/items/ba4f5c01de294d67ff3b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RPAがExcelになるために",
+      "author" : "@shigetaka256",
+      "day" : 9,
+      "url" : "https://note.com/mofukabur_tech/n/ne0209b96c3e5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【UiPath】MarketPlaceで日本語対応のコンポーネントを探す",
+      "author" : "@miya_gis",
+      "day" : 10,
+      "url" : "https://qiita.com/miya_gis/items/040fa31d362780849b8d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Salesforce連携系アクティビティのススメ-認証について-①",
+      "author" : "@W_Wacky20",
+      "day" : 11,
+      "url" : "https://qiita.com/W_Wacky20/items/9ec0d7e5304ddcace6ec"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【UiPath】次の営業日を計算する",
+      "author" : "@miya_gis",
+      "day" : 12,
+      "url" : "https://qiita.com/miya_gis/items/1bc01c9172e149f86fc9"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "RPAの成果の見える化と費用対効果、成果の見せ方",
+      "author" : "@PP_RPA",
+      "day" : 13,
+      "url" : "https://note.com/pp_rpa/n/nadc6681404d7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Merry Christmas from UiPath office♪",
+      "author" : "@yorpa",
+      "day" : 14,
+      "url" : "https://note.com/urirpa/n/n63f29bdf9778"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UiPath DX Rocket プロジェクト",
+      "author" : "@iiz_r",
+      "day" : 15,
+      "url" : "https://note.com/iiz_r/n/n061a614d4f46"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[UiPath] Orchestratorを使うなら記録機能を！",
+      "author" : "@cheez_RPA",
+      "day" : 16,
+      "url" : "https://qiita.com/cheez_RPA/items/88e1646a54af6d9413fe"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UiPathって何屋さん？",
+      "author" : "@sue3646",
+      "day" : 17,
+      "url" : "https://note.com/suemichi/n/n0ff1b305645d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "世界の社窓から 〜UiPath プロダクト&イベントマーケ編〜",
+      "author" : "@Hidenoi_Eiden_Harata",
+      "day" : 18,
+      "url" : "https://qiita.com/Hidenoi_Eiden_Harata/items/352e7b5df9262f934870"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "❄UiPath Magic❄",
+      "author" : "@iam_amzy_",
+      "day" : 19,
+      "url" : "https://note.com/iam_amzy_/n/n44ecb8fc612d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "コミュニティ紹介：UiPath Friends ",
+      "author" : "@Tsutomu_Asari",
+      "day" : 20,
+      "url" : "https://note.com/ds_rpa/n/n676937c07a26"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[UiPath]BalaReva Excel Activitiesを利用したハイパーリンクの取得",
+      "author" : "@kosukeueno",
+      "day" : 21,
+      "url" : "https://qiita.com/kosukeueno/items/1bf2c454341bc40989e6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "自動テストと業務自動化 ～どんどん垣根が取り払われてゆかんとす～",
+      "author" : "@HIROKAZU_MIRUMIRU",
+      "day" : 22,
+      "url" : "https://qiita.com/HIROKAZU_MIRUMIRU/items/cf22fb3a50ee8b5d5e48"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "学校でUiPathを学ぶ",
+      "author" : "@daisuke_kajio",
+      "day" : 23,
+      "url" : "https://note.com/kajio_uipath/n/na6500d679a27"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UiPathの歩みとオートメーションの未来 ― 日本のユーザーの皆様へ感謝と愛を込めて",
+      "author" : "@haseg_k",
+      "day" : 24,
+      "url" : "https://note.com/haseg_k/n/nc8e4c3e6c941"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Lookup Data Tableアクティビティを使うときに気を付けたいこと",
+      "author" : "@saosao885",
+      "day" : 25,
+      "url" : "https://qiita.com/saosao885/items/33b3fa440fee841a0f10"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "外部設定Excelを使ってブラウザに繰り返し入力する部品を作ってみた",
+      "author" : "@RiNA2048",
+      "day" : 4,
+      "url" : "https://qiita.com/RiNA2048/items/9e61b2f6575c0b17db70"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "UiPath社 ブラウザー移行ツールについて",
+      "author" : "@chuki082",
+      "day" : 24,
+      "url" : "https://note.com/chuki082/n/nb97aff3b89f4"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【UiPath】バージョン「2021.12」Previewリリースまとめ",
+      "author" : "@miya_gis",
+      "day" : 25,
+      "url" : "https://qiita.com/miya_gis/items/b62ba54e4d6ad9baf0a8"
+    }
+  ]
+}

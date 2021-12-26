@@ -1,0 +1,136 @@
+{
+  "created_at" : "2021-12-26T04:36:08Z",
+  "calendar_meta_data" : {
+    "author" : "@ueponx",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 13,
+    "subscribers" : 8,
+    "title" : "Seeed UG Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "seeed_ug",
+    "url" : "https://qiita.com/advent-calendar/2021/seeed_ug"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "reTerminalでmicropython + LVGL　のGUIアプリを作ろう",
+      "author" : "@m_take",
+      "day" : 2,
+      "url" : "https://qiita.com/m_take/items/0fa99ea3384bc67b2e64"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Seeed reTerminal の Node-RED で Grove Base HAT を動かすメモ",
+      "author" : "@tseigo",
+      "day" : 10,
+      "url" : "https://www.1ft-seabass.jp/memo/2021/12/10/reterminal-connect-grove-base-hat-using-node-red/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自作VRTrackerのためのBase Station座標推定 Part 1",
+      "author" : "@ume-boshi",
+      "day" : 16,
+      "url" : "https://ume-boshi.hatenablog.jp/entry/2021/12/16/092734"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nerves Livebook meets Seeed",
+      "author" : "@torifukukaiou",
+      "day" : 18,
+      "url" : "https://qiita.com/torifukukaiou/items/27abc5b84f6f55f85d71"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3D Gesture & Tracking Shieldをうごかしてみよう！",
+      "author" : "@ueponx",
+      "day" : 23,
+      "url" : "https://uepon.hatenadiary.com/entry/2021/12/22/001641"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "全集中！刀鍛冶 seeeduino XIAO編",
+      "author" : "@MihoMAGAHAMA",
+      "day" : 24,
+      "url" : "https://miho-diary.hatenablog.com/entry/2021/12/24/000107"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Seeed UG 2021】 micro:bit と Groveモジュールの話（2021年12月）",
+      "author" : "@youtoy",
+      "day" : 25,
+      "url" : "https://qiita.com/youtoy/items/25f9167f56343492b457"
+    }
+  ]
+}

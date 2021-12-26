@@ -1,0 +1,124 @@
+{
+  "created_at" : "2021-12-26T01:06:07Z",
+  "calendar_meta_data" : {
+    "author" : "@mrsekut",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 3,
+    "subscribers" : 4,
+    "title" : "Nix Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "nix",
+    "url" : "https://qiita.com/advent-calendar/2021/nix"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nixを使うと何が嬉しいのか",
+      "author" : "@mrsekut",
+      "day" : 4,
+      "url" : "https://scrapbox.io/mrsekut-p/Nix%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E5%AC%89%E3%81%97%E3%81%84%E3%81%AE%E3%81%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NixでSSGの開発環境をシュッと作った",
+      "author" : "@ttak0422",
+      "day" : 12,
+      "url" : "https://blog.taktak.dev/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%82%82%E5%BC%B7%E3%81%84%E6%80%9D%E6%83%B3%E3%82%92%E6%8C%81%E3%81%A1%E8%BE%BC%E3%82%80/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "nixとgit submodule",
+      "author" : "@junjihashimoto@github",
+      "day" : 20,
+      "url" : "https://qiita.com/junjihashimoto@github/items/67c951fbf90ef3592eaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

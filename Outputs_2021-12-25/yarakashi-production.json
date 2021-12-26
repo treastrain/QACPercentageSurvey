@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-26T04:40:26Z",
+  "calendar_meta_data" : {
+    "author" : "@carotene4035",
+    "category" : "その他",
+    "lgtm" : 988,
+    "subscribers" : 683,
+    "title" : "本番環境でやらかしちゃった人 Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "yarakashi-production",
+    "url" : "https://qiita.com/advent-calendar/2021/yarakashi-production"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "さばぴょい伝説",
+      "author" : "@tosiooooooo",
+      "day" : 1,
+      "url" : "https://qiita.com/tosiooooooo/items/93fc0cff06c496866f73"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Linux From Scratchやってるときにやらかした話",
+      "author" : "@okaits",
+      "day" : 2,
+      "url" : "https://qiita.com/okaits/items/284de4e4fbe84fca2f30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC2をぶっ飛ばしてデータが全部消えてしまった話",
+      "author" : "@mogmet",
+      "day" : 3,
+      "url" : "https://qiita.com/mogmet/items/362b57ea3e237c837ad6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lambdaの名前を変えただけなのに",
+      "author" : "@kyntk",
+      "day" : 4,
+      "url" : "https://qiita.com/kyntk/items/d7587afdba725b9e7e5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストメールを多数のアドレスに送ってしまった話",
+      "author" : "@umeyon",
+      "day" : 5,
+      "url" : "https://qiita.com/umeyon/items/d90493d8d58bdb97693d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「配電盤の電源を切る」",
+      "author" : "@kaizen_nagoya",
+      "day" : 6,
+      "url" : "https://qiita.com/kaizen_nagoya/items/5fee2f3a4fb3cede675c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DiscordBot - 設定を無視して一斉Banしてしまい色々大変なことになった話",
+      "author" : "@sevenc-nanashi",
+      "day" : 7,
+      "url" : "https://qiita.com/sevenc-nanashi/items/60acf73083732295cb05"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "本番環境をサービス提供不能にしてしまいCDパイプラインを重視するようになった話",
+      "author" : "@yuta-ron",
+      "day" : 8,
+      "url" : "https://qiita.com/yuta-ron/items/b2466d9190a9f75472c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "転送中のファイルを削除してしまった私の真のやらかし",
+      "author" : "@kimuradesu",
+      "day" : 11,
+      "url" : "https://qiita.com/kimuradesu/items/9ef3de92a98269fa154f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azureのインスタンスがデストロイされた話",
+      "author" : "@EndoMotoki",
+      "day" : 12,
+      "url" : "https://qiita.com/EndoMotoki/items/df9dd25537150323e7a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Auroraをリードレプリカに「えいやっ」したら死んだ話",
+      "author" : "@DoueKazuna",
+      "day" : 13,
+      "url" : "https://qiita.com/DoueKazuna/items/f305f031669db2c057ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エラーハンドリングをミスって大事故に",
+      "author" : "@ramen_2ro",
+      "day" : 14,
+      "url" : "https://qiita.com/ramen_2ro/items/604032bf179b6f3b77b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "firewall を再起動しただけなのに",
+      "author" : "@k-nishigaki",
+      "day" : 15,
+      "url" : "https://qiita.com/k-nishigaki/items/f45ddfd67a6fc8e347f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ログが1か月間出力されていなかった話",
+      "author" : "@sakai00kou",
+      "day" : 16,
+      "url" : "https://qiita.com/sakai00kou/items/0c91fad34e286edf0f70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバを取り違えて再起動した話",
+      "author" : "@torun225",
+      "day" : 17,
+      "url" : "https://zenn.dev/torun225/articles/yarakashi-2021-advent"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アンケートサイトを作ったら一部の回答が漏れてた話",
+      "author" : "@debu-despot",
+      "day" : 18,
+      "url" : "https://qiita.com/debu-despot/items/f83788bb45f72d733f43"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1セグメント全断の土曜日(Part3)",
+      "author" : "@Words4MyRegret",
+      "day" : 19,
+      "url" : "https://qiita.com/Words4MyRegret/items/97acf2f6ac8cd11df518"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@madai0517"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テキトーに要件定義した給与システムを使ったら給料が2倍になったり0になった話",
+      "author" : "@real_yaruo",
+      "day" : 21,
+      "url" : "https://qiita.com/real_yaruo/items/3b64a5e9f14b1f0728b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Log4j 狙いの攻撃を調査しようとしてやらかした話",
+      "author" : "@Adachi-ku_Zaiju",
+      "day" : 22,
+      "url" : "https://qiita.com/Adachi-ku_Zaiju/items/cf0d286f6d86127d1c3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デフォルトを信用すると、将来苦しい思いをする話",
+      "author" : "@sho7650",
+      "day" : 23,
+      "url" : "https://qiita.com/sho7650/items/d9cf14c5a8a30a43bff2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "半角スペースの有無だけでサーバーをぶっ壊しそうになった話",
+      "author" : "@coatly",
+      "day" : 24,
+      "url" : "https://qiita.com/coatly/items/e49c0c3cf63da306404b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yukpiz"
+    }
+  ]
+}

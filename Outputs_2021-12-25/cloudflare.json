@@ -1,0 +1,280 @@
+{
+  "created_at" : "2021-12-26T05:24:03Z",
+  "calendar_meta_data" : {
+    "author" : "@khayama",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 17,
+    "subscribers" : 38,
+    "title" : "Cloudflare Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "cloudflare",
+    "url" : "https://qiita.com/advent-calendar/2021/cloudflare"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare を CLI で操作する",
+      "author" : "@khayama",
+      "day" : 1,
+      "url" : "https://qiita.com/khayama/items/c1030886079816d6d8a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日本のワクチン接種を支えたCloudflare Waiting Roomのプラクティス",
+      "author" : "@shigahi",
+      "day" : 2,
+      "url" : "https://dev.classmethod.jp/articles/waiting-room-practice-for-covid-vaccination-campain/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無料でゼロトラストアーキテクチャ",
+      "author" : "@KeioCF",
+      "day" : 3,
+      "url" : "https://note.com/tkn_cloudflare/n/n541543e67611"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Workers(Rust)からKVを使うチュートリアルをやってみた",
+      "author" : "@ynishimura0922",
+      "day" : 4,
+      "url" : "https://dev.classmethod.jp/cloud/workers-kv-from-rust/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare の DNS セットアップ方式まとめ",
+      "author" : "@khayama",
+      "day" : 5,
+      "url" : "https://qiita.com/khayama/items/13f441abb9ba1b870db7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare を使って WARP する (飛ぶぞ)",
+      "author" : "@KeioCF",
+      "day" : 6,
+      "url" : "https://qiita.com/KeioCF/items/5699bb95104d10d18d19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Images を利用した画像変換",
+      "author" : "@shibasaki-accelia",
+      "day" : 7,
+      "url" : "https://www.accelia.net/column/research/28/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudflareのFull Stack Weekの発表まとめ",
+      "author" : "@mnishihara",
+      "day" : 8,
+      "url" : "https://lealog.hateblo.jp/entry/2021/11/22/120200"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@tao_s"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Workers + KV でリダイレクトを実装してみる",
+      "author" : "@xxbxxqxx",
+      "day" : 10,
+      "url" : "https://dev.classmethod.jp/articles/cloudflare-workers-kv-redirect/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Cloudflare Radar」でみるインターネットトラフィックの動向",
+      "author" : "@ynishimura0922",
+      "day" : 11,
+      "url" : "https://dev.classmethod.jp/articles/introducing-cloudflare-radar/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare WorkersとRust(WebAssembly)によるエッジでの画像リサイズ",
+      "author" : "@devneko",
+      "day" : 12,
+      "url" : "https://zenn.dev/devneko/articles/0a6fb5c9ea5689"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare WAFのLeaked Credentials Checkを国内最速？で検証する",
+      "author" : "@kanish",
+      "day" : 13,
+      "url" : "https://qiita.com/kanish/items/32d30bb0d6e5ef868cf2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare SE のとある1日 Under Attack 編",
+      "author" : "@KeioCF",
+      "day" : 14,
+      "url" : "https://qiita.com/KeioCF/items/07d4083c27ad45ea6e41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Postmanを使ったHTTPリクエストログ取得方法",
+      "author" : "@atsufumi",
+      "day" : 15,
+      "url" : "https://qiita.com/atsufumi/items/dc171cdd45c18e894c2f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Free プランで Pro プランのような分析情報を得る",
+      "author" : "@KeioCF",
+      "day" : 16,
+      "url" : "https://qiita.com/KeioCF/items/2814da7b521951f34c5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Rules でリダイレクトやキャッシュ設定を実施する",
+      "author" : "@yuko_y1003",
+      "day" : 17,
+      "url" : "https://dev.classmethod.jp/articles/cloudflare-rules-settings/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflareの証明書の透明性(Certificate Transparency)への取り組みを紹介！",
+      "author" : "@quiver",
+      "day" : 18,
+      "url" : "https://dev.classmethod.jp/articles/how-cloudflare-involves-with-certificate-transparency/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@my_coIor"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare SSL for SaaS 設定ガイドを少し具体的に補足",
+      "author" : "@KeioCF",
+      "day" : 21,
+      "url" : "https://qiita.com/KeioCF/items/fe3e155aca87902ca22b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare + Hashicorp Terraform [ 前編 ]",
+      "author" : "@mdhrk",
+      "day" : 22,
+      "url" : "https://qiita.com/mdhrk/items/ad0450456692e01d3ff2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Workersは、GatsbyをS3でホストする際の問題をまるっと解決してくれる",
+      "author" : "@xxbxxqxx",
+      "day" : 23,
+      "url" : "https://dev.classmethod.jp/articles/cloudflare-workers-gatsby-s3/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare + Hashicorp Terraform [ 後編 ]",
+      "author" : "@mdhrk",
+      "day" : 25,
+      "url" : "https://qiita.com/mdhrk/items/ca3f107417e1549eca47"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

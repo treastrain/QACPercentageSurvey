@@ -1,0 +1,133 @@
+{
+  "created_at" : "2021-12-26T01:02:58Z",
+  "calendar_meta_data" : {
+    "author" : "@TakahiRoyte",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 46,
+    "title" : "アジャイル開発 Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "agile",
+    "url" : "https://qiita.com/advent-calendar/2021/agile"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "今年読んで良かったアジャイル関連本",
+      "author" : "@TakahiRoyte",
+      "day" : 1,
+      "url" : "https://note.com/takahiroyte/n/n6e4d64e17949"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実践記みたいなものを書いてみようと思います",
+      "author" : "@racchie",
+      "day" : 11,
+      "url" : "https://racchie.hatenablog.com/entry/2021/12/11/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "認定スクラムマスター研修銃報告(zoomで19時にやるよ\"\"",
+      "author" : "@emanonnon",
+      "day" : 13,
+      "url" : "https://nissho-ele.zoom.us/u/kcf1zQNKqd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "公開算譜は機敏だ。後書き",
+      "author" : "@kaizen_nagoya",
+      "day" : 15,
+      "url" : "https://qiita.com/kaizen_nagoya/items/89de41e1d4904cdac956"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "体験の良かった開発プロセス",
+      "author" : "@Hassan",
+      "day" : 19,
+      "url" : "https://note.com/usabdelah/n/ncc668edf13a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Notionでインセプションデッキテンプレートを作成しました",
+      "author" : "@HajimexxxNakagawa",
+      "day" : 23,
+      "url" : "https://zenn.dev/lisatech/articles/inception-deck-template-on-notion"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

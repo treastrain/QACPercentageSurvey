@@ -1,0 +1,165 @@
+{
+  "created_at" : "2021-12-26T05:11:19Z",
+  "calendar_meta_data" : {
+    "author" : "@SatoshiGachiFujimoto",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 17,
+    "subscribers" : 15,
+    "title" : "HoloLens Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "hololens",
+    "url" : "https://qiita.com/advent-calendar/2021/hololens"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "HoloLens2 × ZIGSIM やーる（Quaternion）",
+      "author" : "@SatoshiGachiFujimoto",
+      "day" : 1,
+      "url" : "https://qiita.com/SatoshiGachiFujimoto/items/d9616b0cb08e17a17baf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "現時点のHoloLens×URP開発環境をまとめてみた",
+      "author" : "@Horomoto-Asahi",
+      "day" : 2,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/02/203750?_ga=2.152425850.231291980.1638442109-1307746765.1630660816"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MRTKのOptimizeWindowを使ってみた。",
+      "author" : "@Horomoto-Asahi",
+      "day" : 3,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/03/215818?_ga=2.144582965.1404590621.1638531987-1307746765.1630660816"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "#HoloLens 向けの #PowerApps アプリ開発のすすめ",
+      "author" : "@rnakamuramartiny",
+      "day" : 4,
+      "url" : "https://qiita.com/rnakamuramartiny/items/e85d7ba5f21b76291755"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoloLens用の新型Shaderを開発します。",
+      "author" : "@Horomoto-Asahi",
+      "day" : 5,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/05/224345?_ga=2.241043843.1404590621.1638531987-1307746765.1630660816"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WindowsMicrophoneStreamDemoやーる（HoloLens2、Unity2020.3.0f1、MRTK2.7.2）",
+      "author" : "@SatoshiGachiFujimoto",
+      "day" : 6,
+      "url" : "https://qiita.com/SatoshiGachiFujimoto/items/84f56d69f4fe34dfbb57"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoloLensの３Dアプリランチャーを設定する。",
+      "author" : "@Horomoto-Asahi",
+      "day" : 7,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/08/221444?_ga=2.125870413.1909707032.1638969287-1307746765.1630660816"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoloLens2 × ZIGSIM やーる（Touch）",
+      "author" : "@SatoshiGachiFujimoto",
+      "day" : 8,
+      "url" : "https://qiita.com/SatoshiGachiFujimoto/items/0ca3c6317e7acfc5e6c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StrereoKitを触ってみた",
+      "author" : "@Horomoto-Asahi",
+      "day" : 9,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/11/220041?_ga=2.3370675.200758649.1639220854-1307746765.1630660816"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HoloLens2 × ZIGSIM やーる（ARKitの位置情報を使って水面をアゲサゲ）",
+      "author" : "@SatoshiGachiFujimoto",
+      "day" : 10,
+      "url" : "https://qiita.com/SatoshiGachiFujimoto/items/c7bbd7d5b8cbb5c368a4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hololens2のSpatial Meshにデカールを貼る",
+      "author" : "@kayk5654",
+      "day" : 11,
+      "url" : "https://qiita.com/kayk5654/items/022e7d17b6dc4b9e44ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "StereoKitの豆腐を好きなモデルに変える。",
+      "author" : "@Horomoto-Asahi",
+      "day" : 12,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/12/201148?_ga=2.104506115.200758649.1639220854-1307746765.1630660816"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@SatoshiGachiFujimoto"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@Horomoto-Asahi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@SatoshiGachiFujimoto"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity Test Framework (UTF) と MRTK Test Utilities を使ったテスト駆動開発 (TDD) 入門",
+      "author" : "@Futo_Horio",
+      "day" : 18,
+      "url" : "https://qiita.com/Futo_Horio/items/97f4a1ef8dd679870efa"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "World Locking Tools for Unityの安定した空間をAzure Spatial Anchorsを利用してクロスプラットフォームで共有する",
+      "author" : "@miyaura",
+      "day" : 20,
+      "url" : "https://qiita.com/miyaura/items/acd7e1356ddafde0874f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@t-sho"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "飛行機内でHoloLensを使用する(実験)",
+      "author" : "@Horomoto-Asahi",
+      "day" : 24,
+      "url" : "https://redhologerbera.hatenablog.com/entry/2021/12/24/235429?_ga=2.6004275.1673049965.1640356267-1103188124.1575950188"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@SatoshiGachiFujimoto"
+    }
+  ]
+}

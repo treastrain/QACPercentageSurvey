@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:24:28Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ディー・エヌ・エー",
+    "category" : "企業・学校・団体",
+    "lgtm" : 65,
+    "subscribers" : 33,
+    "title" : "DeNA Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "dena",
+    "url" : "https://qiita.com/advent-calendar/2021/dena"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "数百shardのデータベース運用を最適化する手法",
+      "author" : "@tamaclaw",
+      "day" : 1,
+      "url" : "https://engineer.dena.com/posts/2021.11/optimize-db-operation-for-many-shards/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pocochaにおけるバンディットアルゴリズムの検証",
+      "author" : "@tamaclaw",
+      "day" : 2,
+      "url" : "https://engineer.dena.com/posts/2021.11/pococha-bandit/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HandyRLで切り開く並列強化学習",
+      "author" : "@YuriCat",
+      "day" : 3,
+      "url" : "https://engineering.dena.com/blog/2021/12/parallel-reinforcement-learning-with-handyrl/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サクッと読める！はじめての技術系登壇資料のつくりかた",
+      "author" : "@tamaclaw",
+      "day" : 4,
+      "url" : "https://engineering.dena.com/blog/2021/12/presentation_support/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Git】typoを自動的に検出してコミットを防ぐ方法",
+      "author" : "@naro143",
+      "day" : 5,
+      "url" : "https://qiita.com/naro143/items/009af8897643fe990db8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Notionでプロジェクト管理ツール自作したら割とチームに受け入れられた話",
+      "author" : "@katodai_ai",
+      "day" : 6,
+      "url" : "https://note.com/katodai/n/n8b27ca0c7070"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "就業型インターンシップで得られるものは何なのか",
+      "author" : "@tsuyukimakoto",
+      "day" : 7,
+      "url" : "https://engineering.dena.com/blog/2021/12/tech-intern-2021-mima/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームでよくある「NATタイプ」はどう判定しているの？",
+      "author" : "@yoshd",
+      "day" : 8,
+      "url" : "https://zenn.dev/yoshd/articles/2859fc5ffd5a6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "中国も含め全世界で共通のゲーム基盤を提供するための挑戦",
+      "author" : "@fiarabbit",
+      "day" : 9,
+      "url" : "https://engineering.dena.com/blog/2021/12/techcon-2021-autumn-hashimoto/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gRPCの各言語向けパッケージ生成を一括管理する",
+      "author" : "@Amothic",
+      "day" : 10,
+      "url" : "https://qiita.com/Amothic/items/82ebafbd904b2b835e44"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【長期インターンシップ参加者体験談】DeNAで働いてみた",
+      "author" : "@tsuyukimakoto",
+      "day" : 11,
+      "url" : "https://engineering.dena.com/blog/2021/12/summer-intern-2021-long-term/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Burstでポータブルかつ確実にSIMD化を行うにはどうすればいいのか",
+      "author" : "@Trapezoid",
+      "day" : 12,
+      "url" : "https://qiita.com/Trapezoid/items/461c058a0feadb7ccefe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SQLのみで協調フィルタリング",
+      "author" : "@yaiwase",
+      "day" : 13,
+      "url" : "https://qiita.com/yaiwase/items/96ec53f513863621d528"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Android] 警告を0件にするまでの道程",
+      "author" : "@yuukiw00w",
+      "day" : 14,
+      "url" : "https://qiita.com/yuukiw00w/items/0f2c568c5b6adeb1a952"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker を使わずに Dockerfile をビルドしてみた",
+      "author" : "@coil_msp123",
+      "day" : 15,
+      "url" : "https://qiita.com/coil_msp123/items/ecf1891caacb37d4ce23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メソッド分割の意義とTips",
+      "author" : "@nowsprinting",
+      "day" : 16,
+      "url" : "https://www.nowsprinting.com/entry/2021/12/16/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS IAM Userクレデンシャルローテーションの自動化",
+      "author" : "@karupanerura",
+      "day" : 17,
+      "url" : "https://engineering.dena.com/blog/2021/12/aws-iam-user-credential-auto-rotation/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AtCoder Beginner Contestに必要な知識 ～解説と実装～",
+      "author" : "@birdwatcher",
+      "day" : 18,
+      "url" : "https://qiita.com/birdwatcher/items/9e6dac869dea023bf53c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア組織改善のための組織状況アンケートの実施",
+      "author" : "@tachikei06",
+      "day" : 19,
+      "url" : "https://engineering.dena.com/blog/2021/12/engineering-organization-survey/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大規模なモバイルゲーム開発を支える仕組みづくりの話",
+      "author" : "@kengo92i",
+      "day" : 20,
+      "url" : "https://qiita.com/kengo92i/items/319a4421550ebbd7759c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "★2.6のアプリがDroidKaigiの発表内容を実践し★4.5になるまで",
+      "author" : "@tetsukay",
+      "day" : 21,
+      "url" : "https://engineering.dena.com/blog/2021/12/skyleap-improvements-app-review/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetPack 4.5.1(Jetson Nano) で overlayroot する方法",
+      "author" : "@yoshimoto",
+      "day" : 22,
+      "url" : "https://qiita.com/yoshimoto/items/a036aeb942e44d091079"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidプロジェクトを始めるとき・初期段階で考えること",
+      "author" : "@STAR_ZERO",
+      "day" : 23,
+      "url" : "https://qiita.com/STAR_ZERO/items/c1207d16af50d678ca65"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CTOが訊く #3",
+      "author" : "@ipod_nana",
+      "day" : 24,
+      "url" : "https://engineering.dena.com/blog/2021/12/cto_interview_03/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年版】 DeNAがスポンサー・協賛したイベントの振り返り！",
+      "author" : "@ipod_nana",
+      "day" : 25,
+      "url" : "https://engineering.dena.com/blog/2021/12/dena-suponsored/"
+    }
+  ]
+}

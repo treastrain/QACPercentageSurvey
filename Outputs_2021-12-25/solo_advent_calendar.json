@@ -1,0 +1,288 @@
+{
+  "created_at" : "2021-12-26T01:55:00Z",
+  "calendar_meta_data" : {
+    "author" : "@KJMAN678",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 51,
+    "title" : "機械学習について一人でアドベントカレンダーやってみる Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "solo_advent_calendar",
+    "url" : "https://qiita.com/advent-calendar/2021/solo_advent_calendar"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "01 データセットの準備",
+      "author" : "@KJMAN678",
+      "day" : 1,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_01_download_dateset"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "02 EDA",
+      "author" : "@KJMAN678",
+      "day" : 2,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_02_explanatory_data_analysis"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "03 LightGBM(回帰)",
+      "author" : "@KJMAN678",
+      "day" : 3,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_03_simple_regression"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "04 精度評価(回帰)",
+      "author" : "@KJMAN678",
+      "day" : 4,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_04_evaluation"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "05 標準化・正規化",
+      "author" : "@KJMAN678",
+      "day" : 5,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_05_standard_normal"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "06 カテゴリデータ エンコーディング",
+      "author" : "@KJMAN678",
+      "day" : 6,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_06_category_encoding"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "07 欠損処理",
+      "author" : "@KJMAN678",
+      "day" : 7,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_07_missing_value_processsing"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "08 クロスバリデーション",
+      "author" : "@KJMAN678",
+      "day" : 8,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_08_cross_validation"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "09 Optunaによるハイパーパラメーターチューニング",
+      "author" : "@KJMAN678",
+      "day" : 9,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_09_optuna_optimization"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "10 ベイズ最適化",
+      "author" : "@KJMAN678",
+      "day" : 10,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_10_bayesian_optimization"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "11 主成分分析",
+      "author" : "@KJMAN678",
+      "day" : 11,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_11_principal_component_analysis"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "12 外れ値処理",
+      "author" : "@KJMAN678",
+      "day" : 12,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_12_outlier_processing"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "13 量子化",
+      "author" : "@KJMAN678",
+      "day" : 13,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_13_quantization"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "14 Stacking",
+      "author" : "@KJMAN678",
+      "day" : 14,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_14_stacking"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "15 pickleで学習モデルを保存",
+      "author" : "@KJMAN678",
+      "day" : 15,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_15_save_learning_weights"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "16 パイプライン",
+      "author" : "@KJMAN678",
+      "day" : 16,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_16_pipeline"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "17 Tabnet",
+      "author" : "@KJMAN678",
+      "day" : 17,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_17_tabnet"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "18 特徴量選択",
+      "author" : "@KJMAN678",
+      "day" : 18,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_18_select_features"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "19 SHAP",
+      "author" : "@KJMAN678",
+      "day" : 19,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_19_interpretability"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "20 AutoML(AutoGluon)",
+      "author" : "@KJMAN678",
+      "day" : 20,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_20_automl"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "21 テーブルデータのデータ拡張",
+      "author" : "@KJMAN678",
+      "day" : 21,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_21_data_augmentation"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "22 クラスタリング",
+      "author" : "@KJMAN678",
+      "day" : 22,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_22_clustering"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "23 類似度計算",
+      "author" : "@KJMAN678",
+      "day" : 23,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_23_similarity_calculation"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "24 スパースモデリング ",
+      "author" : "@KJMAN678",
+      "day" : 24,
+      "url" : "https://zenn.dev/megane_otoko/articles/2021ad_24_sparse_modeling"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@KJMAN678"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

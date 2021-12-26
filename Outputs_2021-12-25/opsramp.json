@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T18:58:53Z",
+  "calendar_meta_data" : {
+    "author" : "@cyber_009_mind",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 44,
+    "subscribers" : 5,
+    "title" : "OpsRamp Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "opsramp",
+    "url" : "https://qiita.com/advent-calendar/2021/opsramp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 認証情報の作成と利用方法",
+      "author" : "@cyber_009_mind",
+      "day" : 1,
+      "url" : "https://qiita.com/cyber_009_mind/items/76b92457e48daa0b91ca"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRampの監視エージェントでリモート実行できるコマンド",
+      "author" : "@cyber_009_mind",
+      "day" : 2,
+      "url" : "https://qiita.com/cyber_009_mind/items/1e2338e52a05498f70ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 監視エージェントのWatchdog機能",
+      "author" : "@cyber_009_mind",
+      "day" : 3,
+      "url" : "https://qiita.com/cyber_009_mind/items/38ec015e9de5d3bd09d0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 外形監視（Synthetic Monitoring）",
+      "author" : "@cyber_009_mind",
+      "day" : 4,
+      "url" : "https://qiita.com/cyber_009_mind/items/4eb63295414daa6d0aba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp ナレッジベース機能",
+      "author" : "@cyber_009_mind",
+      "day" : 5,
+      "url" : "https://qiita.com/cyber_009_mind/items/bf47fc90128fdd2c3b6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 検知したアラートからインシデントを作成してクローズするまで",
+      "author" : "@cyber_009_mind",
+      "day" : 6,
+      "url" : "https://qiita.com/cyber_009_mind/items/b6254bf8d550a33f3708"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 仮想マシンをクローンするとエージェントはどうなるのか？",
+      "author" : "@cyber_009_mind",
+      "day" : 7,
+      "url" : "https://qiita.com/cyber_009_mind/items/20435e40915fb78b40b7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 自動検知設定/監視設定について",
+      "author" : "@yusawada",
+      "day" : 8,
+      "url" : "https://qiita.com/yusawada/items/0822e6e462acb00056b3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp Curated Dashboard / Dashboard2.0について",
+      "author" : "@yusawada",
+      "day" : 9,
+      "url" : "https://qiita.com/yusawada/items/6b026f3703b7bb13ba77"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 承認機能付きProcess Workflowを作成してみた。",
+      "author" : "@yusawada",
+      "day" : 10,
+      "url" : "https://qiita.com/yusawada/items/b97ed24b356c4a5c67e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 新規デバイス検知時にProcess Workflowでアラートを作成してみた。",
+      "author" : "@yusawada",
+      "day" : 11,
+      "url" : "https://qiita.com/yusawada/items/dacb91d41a8b190d678a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp APIでProcess Workflowを簡単生成",
+      "author" : "@yusawada",
+      "day" : 12,
+      "url" : "https://qiita.com/yusawada/items/e69565839f8024b33c04"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NWコンフィグの取得 (Process Workflows)",
+      "author" : "@TZ-J",
+      "day" : 13,
+      "url" : "https://qiita.com/TZ-J/items/b19425ce47c564cdbbb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "手軽にデバッグモードのエージェントログを取得する方法",
+      "author" : "@mkodera",
+      "day" : 14,
+      "url" : "https://qiita.com/mkodera/items/9a637d864e8cdd04e9e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メールデータのアラート化 (Mail Integration)",
+      "author" : "@TZ-J",
+      "day" : 15,
+      "url" : "https://qiita.com/TZ-J/items/9b3d18e6797965bdbfa8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AnsibleでのWindows ServerへのOpsRampエージェントインストール",
+      "author" : "@MasahikoEbisuda",
+      "day" : 16,
+      "url" : "https://cloud.ebisuda.com/2021/12/16/ansible%e3%81%a7%e3%81%aewindows-server%e3%81%b8%e3%81%aeopsramp%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp Custom Integrationを使い倒す",
+      "author" : "@yusawada",
+      "day" : 17,
+      "url" : "https://qiita.com/yusawada/items/385241a8bf4cc7a6e235"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRampとAnsibleのインベントリ連携",
+      "author" : "@vistanet-kh",
+      "day" : 18,
+      "url" : "https://qiita.com/vistanet-kh/items/d4194aca0cad967d8b39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デバッグモードで長期間のエージェントログを取得する方法",
+      "author" : "@mkodera",
+      "day" : 19,
+      "url" : "https://qiita.com/mkodera/items/f8e60b25b2fe26231739"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp AWSイベント連携",
+      "author" : "@vistanet-kh",
+      "day" : 20,
+      "url" : "https://qiita.com/vistanet-kh/items/2366d720935dc7bbba32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp Windows/Linux機器へのパッチ適用機能について",
+      "author" : "@TetsuyaTakada",
+      "day" : 21,
+      "url" : "https://qiita.com/TetsuyaTakada/items/401195e25e71bed86060"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 多要素認証とIPアドレス制限によるポータル接続時のセキュリティ設定",
+      "author" : "@TetsuyaTakada",
+      "day" : 22,
+      "url" : "https://qiita.com/TetsuyaTakada/items/8445a2b8c570a3bbaf63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp ServiceNowとの連携(インテグレーション)について ",
+      "author" : "@TetsuyaTakada",
+      "day" : 23,
+      "url" : "https://qiita.com/TetsuyaTakada/items/dae4e5222254234d24b8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp アラートの相関処理機能",
+      "author" : "@TetsuyaTakada",
+      "day" : 24,
+      "url" : "https://qiita.com/TetsuyaTakada/items/879e20651c0cd3b07e1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpsRamp 監視対象機器の可用性に関する設定について",
+      "author" : "@TetsuyaTakada",
+      "day" : 25,
+      "url" : "https://qiita.com/TetsuyaTakada/items/cae2f946cb96b6cfff49"
+    }
+  ]
+}

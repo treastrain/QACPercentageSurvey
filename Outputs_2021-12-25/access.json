@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:20:30Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社ACCESS",
+    "category" : "企業・学校・団体",
+    "lgtm" : 119,
+    "subscribers" : 13,
+    "title" : "株式会社ACCESS Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "access",
+    "url" : "https://qiita.com/advent-calendar/2021/access"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "UIViewControllerの一部だけをSwiftUIで構築した話",
+      "author" : "@tonionagauzzi",
+      "day" : 1,
+      "url" : "https://qiita.com/tonionagauzzi/items/f4005b34f87bd4caef3b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stable-Baselines3 x Soft Actor-Critic x KukaDiverseObject",
+      "author" : "@YusukeKanai",
+      "day" : 2,
+      "url" : "https://zenn.dev/unkown_yuser/articles/sb3_and_sac_and_kukabullet"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QAエンジニアがプライベートで見かけた残念な仕様を紹介する 2021",
+      "author" : "@illypong",
+      "day" : 3,
+      "url" : "https://qiita.com/illypong/items/2250d2658f96cbfefe85"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidのファイルストレージに関する仕様の整理",
+      "author" : "@aqua_ix",
+      "day" : 4,
+      "url" : "https://qiita.com/aqua_ix/items/213c470d5c49c52686ba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアが知っているといいグラフの書き方",
+      "author" : "@Yam3939",
+      "day" : 5,
+      "url" : "https://qiita.com/Yam3939/items/88b5300b26cd6251f87b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブロックチェーン案件を受ける前の下調べ",
+      "author" : "@KensukeTakahara",
+      "day" : 6,
+      "url" : "https://qiita.com/KensukeTakahara/items/de19e714607f7642c3ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ドローンの開発の面白さと辛さ",
+      "author" : "@bols_blue",
+      "day" : 7,
+      "url" : "https://qiita.com/bols_blue/items/404c30bc55df5a23facc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "abstract(抽象)クラス、Interfaceはどう使い分けるべきか",
+      "author" : "@kokada420",
+      "day" : 8,
+      "url" : "https://qiita.com/kokada420/items/1e9bc256f872782a3a60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VPNのいろいろ",
+      "author" : "@ten_takano",
+      "day" : 9,
+      "url" : "https://zenn.dev/ten_takano/articles/20211202-vpn-access-advent-calender"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iOS開発中にListについて学んだことから派生して遊びたかったのでPlaygroundを使ってみた",
+      "author" : "@krmtmint",
+      "day" : 10,
+      "url" : "https://zenn.dev/krmtmint/articles/8f73dd6f99b2a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユーザーを理解してプロダクトをつくるということ",
+      "author" : "@yocidama",
+      "day" : 11,
+      "url" : "https://qiita.com/yocidama/items/bd71dd7ab24db9cb0bec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reactに対応していないUIライブラリでもコンポーネントで描画したい",
+      "author" : "@kiito1000",
+      "day" : 12,
+      "url" : "https://qiita.com/kiito1000/items/271d489bf27c1ffc5dd3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SvelteKit + FastAPI + vercel + heroku でやる気があれば誰でも簡単フルスタックエンジニア (前半戦)",
+      "author" : "@n2-freevas",
+      "day" : 13,
+      "url" : "https://qiita.com/n2-freevas/items/58b3e1d6bad0c6e79507"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もうすぐ10年！初代 Raspberry Pi model B を2021年でも（NAS 的に）使う",
+      "author" : "@aRyoKuroda",
+      "day" : 14,
+      "url" : "https://qiita.com/aRyoKuroda/items/f9fcbd41b2c91d96c040"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlin Coroutines FlowをSwiftでobserveしてみた",
+      "author" : "@tonionagauzzi",
+      "day" : 15,
+      "url" : "https://zenn.dev/tonionagauzzi/articles/1041232711083d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "π-計算の紹介と簡単な実装",
+      "author" : "@SekiT",
+      "day" : 16,
+      "url" : "https://qiita.com/SekiT/items/770b37889744daee62de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブログサイトをmicroCMSで開発するときに最低限必要なAPI集",
+      "author" : "@macotok",
+      "day" : 17,
+      "url" : "https://qiita.com/macotok/items/b0e931ec281a2e9c4d53"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラウド関連ビジネスの現在位置",
+      "author" : "@ikeyasu",
+      "day" : 18,
+      "url" : "https://qiita.com/ikeyasu/items/ed4353c2ecde69b91e54"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインにおける「センス」は誰にでも身につけられるという話",
+      "author" : "@numatami",
+      "day" : 19,
+      "url" : "https://qiita.com/numatami/items/e8f3ed04c9edf48f5389"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python コードは Black を通して綺麗にしよう",
+      "author" : "@hnishi",
+      "day" : 20,
+      "url" : "https://hakasenote.hnishi.com/2021/20211220-black-python-formatter/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter で Instagram から映えてる写真を取得してみた",
+      "author" : "@Momijinn",
+      "day" : 21,
+      "url" : "https://qiita.com/Momijinn/items/a47bb624cd8d23bae51c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Elixir] mix xref trace を真似して compilation tracer を使ってみる",
+      "author" : "@irisTa56",
+      "day" : 22,
+      "url" : "https://qiita.com/irisTa56/items/9c06224a287205c208e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MAVLinkを簡単に試せるpymavlinkでHello World!",
+      "author" : "@Hiroshi_Tsukamoto",
+      "day" : 23,
+      "url" : "https://qiita.com/Hiroshi_Tsukamoto/items/d10b4ad3bf362e075861"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IPA プロジェクトマネージャ試験 2020年秋 に合格したので論述原稿2500文字の抜粋晒す / おすすめの勉強法",
+      "author" : "@naohikowatanabe",
+      "day" : 24,
+      "url" : "https://qiita.com/naohikowatanabe/items/a7ce461d8af03ca85120"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SvelteKit + FastAPI + vercel + heroku でやる気があれば誰でも簡単フルスタックエンジニア (後半戦)",
+      "author" : "@n2-freevas",
+      "day" : 25,
+      "url" : "https://qiita.com/n2-freevas/items/f5114ebf5846031f3c8d"
+    }
+  ]
+}

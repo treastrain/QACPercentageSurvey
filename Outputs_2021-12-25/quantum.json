@@ -1,0 +1,282 @@
+{
+  "created_at" : "2021-12-26T05:37:57Z",
+  "calendar_meta_data" : {
+    "author" : "@openql",
+    "category" : "学術",
+    "lgtm" : 98,
+    "subscribers" : 67,
+    "title" : "量子コンピューター Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "quantum",
+    "url" : "https://qiita.com/advent-calendar/2021/quantum"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "誤り耐性万能量子コンピュータに関わる量子計算の基礎知識",
+      "author" : "@algas",
+      "day" : 1,
+      "url" : "https://qiita.com/algas/items/1b52da52f3a9f9748d6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "超伝導量子コンピュータの物理入門",
+      "author" : "@schulta",
+      "day" : 2,
+      "url" : "https://qiita.com/schulta/items/c48ab75bd426bc139466"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子プログラミング用SDK PennyLane を推す",
+      "author" : "@notori48",
+      "day" : 3,
+      "url" : "https://qiita.com/notori48/items/28c4a44dcbf8bc773db4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "光量子ビット計算と光連続量計算とガウシアンボソンサンプリング",
+      "author" : "@MinatoYuichiro",
+      "day" : 4,
+      "url" : "https://blueqat.com/yuichiro_minato2/57b880e4-7c14-47bc-9c44-876165878c10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "電子を使ったシリコン量子ドット量子コンピュータ",
+      "author" : "@MinatoYuichiro",
+      "day" : 5,
+      "url" : "https://blueqat.com/yuichiro_minato2/d0aae3f6-f364-41fb-ae35-cdb01ec9a19b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GPUを用いたテンソルネットワーク・ベースの量子回路シミュレーション",
+      "author" : "@wotto27oct",
+      "day" : 6,
+      "url" : "https://qiita.com/wotto27oct/items/91b5aeebdefd72893596"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子公開鍵暗号方式(KKNY暗号)　その3",
+      "author" : "@sanpay",
+      "day" : 7,
+      "url" : "https://qiita.com/sanpay/items/94da46032a1708d07380"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBMやハネウェルのダイナミック量子回路によるテンソルネットワークとホログラフィック量子回路計算",
+      "author" : "@MinatoYuichiro",
+      "day" : 8,
+      "url" : "https://blueqat.com/yuichiro_minato2/6dec2c1b-20af-4752-a6d0-26780974ca45"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@k_ryota"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子アニーリングを用いたEVシェアの最適化：量子アニーリングソリューションコンテストより",
+      "author" : "@sotobenjamin0307",
+      "day" : 10,
+      "url" : "https://qiita.com/sotobenjamin0307/items/2cd329923fb3f0c03692"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBMQのクラウドシミュレーターを使ってみる;実行時間、バッチ処理など",
+      "author" : "@notori48",
+      "day" : 11,
+      "url" : "https://qiita.com/notori48/items/ddc1de47570f454bdea4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "分散量子計算入門",
+      "author" : "@dave_quantum",
+      "day" : 12,
+      "url" : "https://qiita.com/dave_quantum/items/0086599ab6f0e0eb6fda"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@shnchr"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ショアのアルゴリズム」の解説が寒いので",
+      "author" : "@gigagulin",
+      "day" : 14,
+      "url" : "https://qiita.com/gigagulin/items/f38328e92c432869eeba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子回路で色々な内積計算",
+      "author" : "@orclecle",
+      "day" : 15,
+      "url" : "https://trsasasusu.com/blog/129/qiskit-inner-product/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QSVTについて",
+      "author" : "@neutron63zf",
+      "day" : 16,
+      "url" : "https://neutron63zf.hatenablog.com/entry/2021/12/16/003930"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子計算でデータを扱う手法",
+      "author" : "@kyamaz",
+      "day" : 17,
+      "url" : "https://qiita.com/kyamaz/items/c9f1d08224d24e9d9f0f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「量子ゲーム理論」一緒に勉強しよう。",
+      "author" : "@morimorijap",
+      "day" : 18,
+      "url" : "https://github.com/morimorijap/Introduction_Quantum_GameTheory"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@syoh-yoshi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子コンピュータには古典コンピュータによる最適化が必要、という話",
+      "author" : "@snuffkin",
+      "day" : 20,
+      "url" : "https://qiita.com/snuffkin/items/fed1dd1693c30b6b6883"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Googleの量子超越性をスパコンで300秒で計算した論文を解説してみる",
+      "author" : "@j-i-k-o",
+      "day" : 21,
+      "url" : "https://jijtech.hatenablog.com/entry/2021/12/21/054958"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基本的な量子ゲートを理解して加算器・ドイチュのアルゴリズムをIBM Qで動かそう",
+      "author" : "@kotarot",
+      "day" : 22,
+      "url" : "https://zenn.dev/airev/articles/airev-quantum-05"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@github-nakasho"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コミュニティ活動の『量子人材育成提案』で『最優秀賞』を獲得した話【教材公開あり】",
+      "author" : "@ksj555",
+      "day" : 24,
+      "url" : "https://qiita.com/ksj555/items/13f2c943de0dd36e4733"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IBM Quantum Challenge 2021 fallの4-cの解法を雑に解説してみる",
+      "author" : "@Ayumu_walker",
+      "day" : 25,
+      "url" : "https://qiita.com/Ayumu_walker/items/1bda25c003049031162f"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

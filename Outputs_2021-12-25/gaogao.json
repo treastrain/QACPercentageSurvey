@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T23:06:01Z",
+  "calendar_meta_data" : {
+    "author" : "GAOGAO",
+    "category" : "Webテクノロジー",
+    "lgtm" : 55,
+    "subscribers" : 4,
+    "title" : "ことしもGAOGAOまつりです Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "gaogao",
+    "url" : "https://qiita.com/advent-calendar/2021/gaogao"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "リバースプロキシをDocker Compose環境で実現する",
+      "author" : "@mass-min",
+      "day" : 1,
+      "url" : "https://zenn.dev/masumi_sugae/articles/84c40d20c82cdd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go APIでのAuth0 JWT認証ハンズオン",
+      "author" : "@kourin1996",
+      "day" : 2,
+      "url" : "https://qiita.com/kourin1996/items/7b79d868de5c126d01d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Beginner tips for Exploratory data analysis with Pandas",
+      "author" : "@xjyribro",
+      "day" : 3,
+      "url" : "https://mundivagantblog.wordpress.com/2021/12/03/beginner-tips-for-exploratory-data-analysis-with-pandas/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LaravelでAlgoliaの検索機能を使ってみた",
+      "author" : "@onukichi",
+      "day" : 4,
+      "url" : "https://zenn.dev/onukichi/articles/b8986212fd7fd5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS認定】ソリューションアーキテクト - アソシエイト 英語受験のすゝめ(SAA-C02)",
+      "author" : "@smtrdev",
+      "day" : 5,
+      "url" : "https://zenn.dev/yutaroshimamura/articles/45ea6e0669f04b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PHP】docx, xlsx, pptxのテキストを取得する",
+      "author" : "@smtrdev",
+      "day" : 6,
+      "url" : "https://zenn.dev/yutaroshimamura/articles/3dd71d6b0257a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Playwright】S3から取得したファイルでアップロードをテストする",
+      "author" : "@smtrdev",
+      "day" : 7,
+      "url" : "https://zenn.dev/yutaroshimamura/articles/5e2e2be95da7c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "絶対に英語しか話してはいけないLTを1年半運営してみて",
+      "author" : "@smtrdev",
+      "day" : 8,
+      "url" : "https://note.com/shimataro/n/ne63ace89ebd9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ただのエンジニアが社内でUXデザイン勉強会を立ち上げて半年が経ちました",
+      "author" : "@smtrdev",
+      "day" : 9,
+      "url" : "https://note.com/shimataro/n/n73710a5a6e90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアの自分がなぜデザインに目覚めたのか",
+      "author" : "@smtrdev",
+      "day" : 10,
+      "url" : "https://note.com/shimataro/n/n2955689946b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】7日間のスキマ時間で日記アプリをリリース",
+      "author" : "@smtrdev",
+      "day" : 11,
+      "url" : "https://qiita.com/smtrdev/items/e11d7976efb2faa5abb0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[日記] システム開発難しいですよね",
+      "author" : "@hana_asia",
+      "day" : 12,
+      "url" : "https://note.com/hanadev/n/nb9f5729b0122"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub から Close 済みの Issues を取得する。（Octokit）",
+      "author" : "@aburasoba",
+      "day" : 13,
+      "url" : "https://qiita.com/aburasoba/items/4dbb1a2ea02872bbfbaa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実務4ヶ月目駆け出しエンジニアの雑記",
+      "author" : "@soooota1201",
+      "day" : 14,
+      "url" : "https://qiita.com/soooota1201/items/36b9d57b91f965cbc1a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "1年間自作ブログを運営してみた感想",
+      "author" : "@y-temp4",
+      "day" : 15,
+      "url" : "https://blog.y-temp4.com/entry/self-made-blog-for-a-year"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "headless WYSIWYGエディタ「tiptap」がアツい",
+      "author" : "@up-tri",
+      "day" : 16,
+      "url" : "https://zenn.dev/up_tri/articles/f725cdc0a2486c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Sanctum (SPA認証) がしてくれること",
+      "author" : "@pikanji",
+      "day" : 17,
+      "url" : "https://qiita.com/pikanji/items/040fa4ab6976059f3762"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DynamoDBでBatchWriteItemを使用する際の注意点",
+      "author" : "@higesou1",
+      "day" : 18,
+      "url" : "https://qiita.com/higesou1/items/36533fd38db411fdb06f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "下請けからパートナーへ〜企業に問われる発注スキル〜",
+      "author" : "@kengaogaoasia",
+      "day" : 19,
+      "url" : "https://note.com/kengaogaoasia/n/n3d1dab7b663e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@Annielovescode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apacheでwebページ表示",
+      "author" : "@daiju81",
+      "day" : 21,
+      "url" : "https://qiita.com/daiju81/items/9a9794113dd5260ece35"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel8とinertia.jsとReactとTypeScriptで環境構築したい（あとStorybookも）",
+      "author" : "@nozomi53motomachi",
+      "day" : 22,
+      "url" : "https://qiita.com/nozomi53motomachi/items/f8dea24b7b7fbad011d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もう止められない開発エンジニアチームの英語・グローバル化へのシフト ",
+      "author" : "@tejitak",
+      "day" : 23,
+      "url" : "https://note.com/tejitak/n/n125db5f5da6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ITエンジニアと学習にまつわる疑問",
+      "author" : "@zee8",
+      "day" : 24,
+      "url" : "https://note.com/zee8/n/ncab2734f8f42"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノーコードツール「STUDIO」を使って CMSサイト を構築した話",
+      "author" : "@masagaogaoasia",
+      "day" : 25,
+      "url" : "https://qiita.com/masagaogaoasia/items/ec474be8106f7a67dcad"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "created_at" : "2021-12-26T03:28:19Z",
+  "calendar_meta_data" : {
+    "author" : "@seya",
+    "category" : "その他",
+    "lgtm" : 103,
+    "subscribers" : 151,
+    "title" : "エンジニアリングに興味があるデザイナー、デザインに興味があるエンジニア Advent Calendar 2021",
+    "participants" : 46,
+    "unique_name" : "design-code",
+    "url" : "https://qiita.com/advent-calendar/2021/design-code"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアが仕事でデザインし始めて思ったこと",
+      "author" : "@seya",
+      "day" : 1,
+      "url" : "https://note.com/seyanote/n/nbba12f946961"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインとエンジニアリングを「繋ぐ」部分と「切り分ける」部分",
+      "author" : "@711fumi",
+      "day" : 2,
+      "url" : "https://note.com/711fumi/n/nb326836ee290"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験からWebデザイナーになった僕がなぜエンジニアリングにもいっちょ噛みするのか",
+      "author" : "@hrism",
+      "day" : 3,
+      "url" : "https://zenn.dev/marumaru/articles/ba9dac8d46bcaf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "受託制作会社のフロントエンドエンジニアから、事業会社のUI/UX担当に転職して思ったこと、振り返り",
+      "author" : "@kon_hanae",
+      "day" : 4,
+      "url" : "https://note.com/hana329/n/n7c707a9f041d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインの一貫性を保つのは難しい",
+      "author" : "@mame_daifuku",
+      "day" : 5,
+      "url" : "https://zenn.dev/mamedaifuku/articles/0c7f94179a7dea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "つくりたいものに思いを馳せたら、デザインもエンジニアリングもしたくなったデザイナーの話",
+      "author" : "@iropon30",
+      "day" : 6,
+      "url" : "https://note.com/iropon30/n/n5819b207ff2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これからのエンジニアとデザイナーのコミュニケーション",
+      "author" : "@camcam_lemon",
+      "day" : 7,
+      "url" : "https://note.com/camcam_lemon/n/n6f9a2bf6ae02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーがエンジニアと話せるようになるために頑張ったこと",
+      "author" : "@xrxoxcxox",
+      "day" : 8,
+      "url" : "https://qiita.com/xrxoxcxox/items/0e0f8936f17287ed95bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイルチームのフロントエンドエンジニアとして、UXエンジニアでありたいと考えている話",
+      "author" : "@suzu-4",
+      "day" : 9,
+      "url" : "https://note.com/suzu_4/n/nb95a35beca40"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Webアプリ系デザインとホームページ系デザイン",
+      "author" : "@nishihara_zari",
+      "day" : 10,
+      "url" : "https://zenn.dev/crayfisher_zari/articles/5dd8ecc1a26c63"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@sota_mikami"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンジニア、はじめてのデザインシステム",
+      "author" : "@kosuke9393",
+      "day" : 12,
+      "url" : "https://zenn.dev/kosukek/articles/c65eab1a14c974"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『ユーザービリティエンジニアリング』読書ノート",
+      "author" : "@AsazuTaiga",
+      "day" : 13,
+      "url" : "https://www.asazutaiga.com/post/userbility-engineering"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@tsugu_maru_san"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UIデザインに関するサイコゥ!サイコゥ!サイコゥ!なアイデア",
+      "author" : "@shuuhei",
+      "day" : 15,
+      "url" : "https://note.com/digitalshuufei/n/n199aa5a3986a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "何故デザイナーの私がエンジニアリングをしていきたいのか",
+      "author" : "@tosiiu",
+      "day" : 16,
+      "url" : "https://zenn.dev/tosiiu/articles/7a9d3013a69947"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアに優しいデザイナーにもなりたい！",
+      "author" : "@Ayako-tus",
+      "day" : 17,
+      "url" : "https://qiita.com/Ayako-tus/items/9b0a3bf518b9ef40af7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フロントエンドエンジニアとデザイナーのコミュニケーションについて書きます",
+      "author" : "@sjb",
+      "day" : 18,
+      "url" : "https://note.com/sjbworks/n/nb4d49befc5ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーがエンジニアリングを覚えるために、エンジニアと頑張った3つのこと",
+      "author" : "@naomunaomu",
+      "day" : 19,
+      "url" : "https://qiita.com/naomunaomu/items/41e7b87cfca69fb1c0ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインを勉強したら個人開発がより楽しくなった話",
+      "author" : "@suzuki-r",
+      "day" : 20,
+      "url" : "https://note.com/osakanasan22/n/n176c5e32da29"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@Marimoiro"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザインとエンジニアリングの狭間で我々は何ができるのか？",
+      "author" : "@mottox2",
+      "day" : 22,
+      "url" : "https://mottox2.com/posts/583"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアさんとのデザインコミュニケーションで起きた4つの失敗",
+      "author" : "@kaikun",
+      "day" : 23,
+      "url" : "https://note.com/design_school/n/n27da48dfbd18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーとエンジニアの協働について書きます",
+      "author" : "@kyoncy_site",
+      "day" : 24,
+      "url" : "https://zenn.dev/kyoncy/articles/cbd3f3976f5881"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナーとエンジニアどちらも手を出すと中途半端になるのか？",
+      "author" : "@ohbashunsuke",
+      "day" : 25,
+      "url" : "https://shibuya24.info/entry/design_engineer"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニア?デザイナー??、キャリアに迷うあなたへ",
+      "author" : "@tanutanu",
+      "day" : 1,
+      "url" : "https://qiita.com/tanutanu/items/7e0509a5a9ea486dc039"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニアがデザイナーといい仕事ができるために頑張ったこと",
+      "author" : "@seya",
+      "day" : 2,
+      "url" : "https://note.com/seyanote/n/n737e2c7efe08"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "実務未経験者からみたデザインシステムについて",
+      "author" : "@takeiin",
+      "day" : 3,
+      "url" : "https://note.com/takeinn/n/n344529fcfe04"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "フロントエンドエンジニアのデザイナーとの向き合い方",
+      "author" : "@watsuyo_2",
+      "day" : 4,
+      "url" : "https://zenn.dev/watsuyo_2/articles/15978e6ab56cdd"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザインエンジニアリングの礎を築いた山中俊二さんの「だれでもデザイン未来をつくる教室」を読んで",
+      "author" : "@zouzei8to10",
+      "day" : 5,
+      "url" : "https://note.com/taka84mj/n/nd762567e5a60"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Unity】XD⇨UnityへのUI反映のための手探りフローメモ",
+      "author" : "@Tomasheep",
+      "day" : 6,
+      "url" : "https://bibinbaleo.hatenablog.com/entry/2021/12/04/134956"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "あなたはmargin-top派? margin-bottom派?",
+      "author" : "@nowvilla_physi",
+      "day" : 10,
+      "url" : "https://zenn.dev/web_tips/articles/b4b450ad36c414"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザイナーとエンジニアの両方やってると気づく共通点、モデルとモデリング",
+      "author" : "@tyshgc",
+      "day" : 11,
+      "url" : "https://zenn.dev/tyshgc/articles/4dc7c35c42ca61"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12,
+      "author" : "@highstake"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "隣接するスキルを学ぶと「後ろ」が楽になる",
+      "author" : "@HajimexxxNakagawa",
+      "day" : 13,
+      "url" : "https://zenn.dev/ikenohi/articles/78964bb348cdfa"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "実は、デザイン好きエンジニアはココを見てます…！",
+      "author" : "@AkkeyLab",
+      "day" : 14,
+      "url" : "https://qiita.com/AkkeyLab/items/593e0395b62d85493b1c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "フロントエンドエンジニア？デザイナー？私の立ち位置",
+      "author" : "@torano_tomo",
+      "day" : 15,
+      "url" : "https://note.com/t_moarnaj_nio/n/n75ee57493a0f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UXエンジニアが目指す、新規事業開発組織のあり方",
+      "author" : "@akagire",
+      "day" : 16,
+      "url" : "https://techtekt.persol-career.co.jp/entry/culture/211216_01"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザインから画面実装までを一人でやってきて思うこと",
+      "author" : "@Shumpei0111",
+      "day" : 17,
+      "url" : "https://www.mb-js.tokyo/2021/12/16/advent-calendar-2021/"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18,
+      "author" : "@kgsi"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "フロントエンドエンジニアとデザイン",
+      "author" : "@cyobrin",
+      "day" : 19,
+      "url" : "https://qiita.com/cyobrin/items/a9681643a6d293bc2be4"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザイナーとエンジニアを巻き込んだワークフローの改善",
+      "author" : "@shingo2000",
+      "day" : 20,
+      "url" : "https://note.com/shingo2000/n/nf40333781973"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【ポエム】ぼくはもうデザイン組織のマネージャーになれるかもしれない",
+      "author" : "@beijaflor",
+      "day" : 21,
+      "url" : "https://beijaflor.hatenablog.jp/entry/2021/12/21/221031"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エンジニアリングを学びたいデザイナーの決意表明とその理由",
+      "author" : "@mikiweb3",
+      "day" : 22,
+      "url" : "https://note.com/mikiishi11/n/ned202e83b257"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "「どんなデザイナーになりたいか」 を突き詰めたら、 エンジニアリングも身につけたいと思った話",
+      "author" : "@kaimochi_web",
+      "day" : 23,
+      "url" : "https://note.com/kaimochinote/n/neba203466a05"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "私がデザインエンジニアになるまでのキャリア",
+      "author" : "@t32k",
+      "day" : 24,
+      "url" : "https://offers.jp/media/sidejob/workstyle/a_2131"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "デザインエンジニアに必要な5つのこと",
+      "author" : "@takanorip",
+      "day" : 25,
+      "url" : "https://zenn.dev/takanorip/articles/95dc164ef3e98b"
+    }
+  ]
+}

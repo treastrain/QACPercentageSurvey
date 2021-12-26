@@ -1,0 +1,181 @@
+{
+  "created_at" : "2021-12-26T00:00:15Z",
+  "calendar_meta_data" : {
+    "author" : "@snize",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 19,
+    "subscribers" : 7,
+    "title" : "Drupal Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "drupal",
+    "url" : "https://qiita.com/advent-calendar/2021/drupal"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "WordPressエンジニアがDrupalを触るときの注意点と用語集",
+      "author" : "@meta-morimatsu",
+      "day" : 1,
+      "url" : "https://qiita.com/meta-morimatsu/items/3ca9682573b7ffe196cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECAモジュール",
+      "author" : "@hagi60",
+      "day" : 2,
+      "url" : "https://takayuki.hagihara.tokyo/blog/2021-12-03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オルタナティブブログ　ノーコードでサイト構築(Drupal)",
+      "author" : "@osonoi",
+      "day" : 3,
+      "url" : "https://blogs.itmedia.co.jp/osonoi/2021/12/drupal.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DrupalのSearch API入門 概要と始め方【前編】",
+      "author" : "@hmaruyama",
+      "day" : 4,
+      "url" : "https://www.acquia.com/jp/blog/introduction-to-search-api-1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最短でDrupal開発環境（お試し環境）を手に入れる2021",
+      "author" : "@snize",
+      "day" : 5,
+      "url" : "https://qiita.com/snize/items/13f34c0d9abc87dc97b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Drupal9 最小の力で用意するテストコード戦略",
+      "author" : "@kazunoko",
+      "day" : 6,
+      "url" : "https://blog.irologue.com/drupal/20211206/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Drupalというキャリアについて（ポエム）",
+      "author" : "@863",
+      "day" : 7,
+      "url" : "https://qiita.com/863/items/a61deb73ea86220a4de0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年後半から2年程度の Drupal でのフロントエンド開発展望",
+      "author" : "@tom_konda",
+      "day" : 8,
+      "url" : "https://zenn.dev/tom_konda/articles/c9134fa47713ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Search API入門の後編",
+      "author" : "@hmaruyama",
+      "day" : 9,
+      "url" : "https://www.acquia.com/jp/blog/introduction-to-search-api-2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エストニアの電話会社のポータルはDrupal9だった",
+      "author" : "@hagi60",
+      "day" : 10,
+      "url" : "https://takayuki.hagihara.tokyo/blog/2021-12-10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "drush php:cli と psysh について",
+      "author" : "@bkenro",
+      "day" : 11,
+      "url" : "https://www.white-root.com/blog/1639149396"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@bassline121"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Drupal の JavaScript で使用する Drupal.theme() の TypeScript 型定義を書く",
+      "author" : "@tom_konda",
+      "day" : 13,
+      "url" : "https://zenn.dev/tom_konda/articles/16ce5a6bb7d83d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Drupal専用WAFで安らかなホリデーを手に入れる",
+      "author" : "@snize",
+      "day" : 14,
+      "url" : "https://qiita.com/snize/items/1f34d845fe2196acc5c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WebディレクターとしてDrupalを専門にするということ",
+      "author" : "@gengo_k",
+      "day" : 15,
+      "url" : "https://gengo-k.hatenablog.com/entry/2021/12/15/182552"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Drupal 9.3 アップデート",
+      "author" : "@hmaruyama",
+      "day" : 16,
+      "url" : "https://www.acquia.com/jp/blog/drupal-9-3-0-updates"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IT初心者、Drupalで玖珂サイト「駅通りに来てみんさい！」を構築＆リリースしました。",
+      "author" : "@xiqi",
+      "day" : 17,
+      "url" : "https://qiita.com/xiqi/items/9787d7f04e06d8762168"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Drupal本リリース",
+      "author" : "@hmaruyama",
+      "day" : 18,
+      "url" : "https://www.acquia.com/jp/blog/drupal-9-good-recipes-from-next-publishing"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "雑記:D8 End of lifeに思いを寄せる",
+      "author" : "@kazunoko",
+      "day" : 19,
+      "url" : "https://blog.irologue.com/drupal/20211219/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Drupalで構築 読書を楽しむ人の情報サイト機能設計書",
+      "author" : "@kaztama2196",
+      "day" : 20,
+      "url" : "https://qiita.com/kaztama2196/items/294f0037c3c31d2404db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudShellとAWSCLIを利用してAmazon Lightsail のDrupalサーバを最速で立てる",
+      "author" : "@junk87",
+      "day" : 21,
+      "url" : "https://qiita.com/junk87/items/bd958e02cea713f2c608"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DruxtJS について",
+      "author" : "@bkenro",
+      "day" : 22,
+      "url" : "https://www.white-root.com/blog/1640128281"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@ShumpeiKishi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@tom_konda"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

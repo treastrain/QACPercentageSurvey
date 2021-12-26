@@ -1,0 +1,475 @@
+{
+  "created_at" : "2021-12-26T02:06:40Z",
+  "calendar_meta_data" : {
+    "author" : "@RyotaMurohoshi",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 232,
+    "subscribers" : 103,
+    "title" : "Unity Advent Calendar 2021",
+    "participants" : 48,
+    "unique_name" : "unity",
+    "url" : "https://qiita.com/advent-calendar/2021/unity"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity 2021におけるパッケージ関連の変更について",
+      "author" : "@RyotaMurohoshi",
+      "day" : 1,
+      "url" : "https://qiita.com/RyotaMurohoshi/items/2b7853db9c42283a9670"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityプロジェクトで使えるちょっと便利なGit aliasたち",
+      "author" : "@shirokurohitsuji",
+      "day" : 2,
+      "url" : "https://shirokurohitsuji.studio/2021/12/02/unity-repository-git-alias/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TimeLineにMarkerを打ち込んでオブジェクトにパラメータを送信する",
+      "author" : "@t_tutiya",
+      "day" : 3,
+      "url" : "https://someiyoshino.info/entry/2021/12/03/000127"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityで自力描画。",
+      "author" : "@MachiaWorx",
+      "day" : 4,
+      "url" : "https://qiita.com/MachiaWorx/items/3bc553b39afcfda6e066"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity - 2021年に使ってみた16のオススメツール系アセットを紹介！",
+      "author" : "@asiram",
+      "day" : 5,
+      "url" : "https://qiita.com/asiram/items/bbd48e31d64411afc3ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【UnityC#】MonoBehaviourでもインターフェイスを利用して疎結合を実現する2つの方法",
+      "author" : "@yutorisan",
+      "day" : 6,
+      "url" : "https://qiita.com/yutorisan/items/1df8842d4ea629a13241"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】Vivox でボイスチャットを始めよう！",
+      "author" : "@neusstudio",
+      "day" : 7,
+      "url" : "https://qiita.com/neusstudio/items/9942c079d4c06b5fd36e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゆるく使うUnityTest",
+      "author" : "@am1tanaka",
+      "day" : 8,
+      "url" : "https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】テスト対象のプレハブを名前で検索するUtilityメソッド",
+      "author" : "@nkjzm",
+      "day" : 9,
+      "url" : "https://qiita.com/nkjzm/items/9124a48c1dcba1e7194c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チェスを題材に一人DDDごっこしてUnityで動かしてみた話",
+      "author" : "@chorome",
+      "day" : 10,
+      "url" : "https://qiita.com/chorome/items/1d9521210aac893b3dd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityでGraphQL.Clientを使ってAWS AppSyncを利用する",
+      "author" : "@edo_m18",
+      "day" : 11,
+      "url" : "https://edom18.hateblo.jp/entry/2021/12/11/105140"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unidux でマルチシーン画面遷移制御を行う",
+      "author" : "@xrdnk",
+      "day" : 12,
+      "url" : "https://xrdnk.hateblo.jp/entry/2021/12/12/151140"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unityネタ】オープンワールドでよく見るインジケーターを作ってみる",
+      "author" : "@Raspberly",
+      "day" : 13,
+      "url" : "https://raspberly.hateblo.jp/entry/UnityAdventCalendar2021_13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity 2021.2のSceneViewで色々な操作を行う新機能、Overlayについて",
+      "author" : "@tsubaki_t1",
+      "day" : 14,
+      "url" : "https://qiita.com/tsubaki_t1/items/7ad1d01b325b2df755e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity Addressables Tips 〜2021年に於けるアップデート情報を添えて〜",
+      "author" : "@monry",
+      "day" : 15,
+      "url" : "https://zenn.dev/monry/articles/20211215-addressables-tips"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】Unity2021.2で正式リリースされた2D Lightの紹介",
+      "author" : "@Nitudon",
+      "day" : 16,
+      "url" : "https://myudon.hatenablog.com/entry/2021/12/16/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity Localization PackageとADXの多言語ボイス音声切り替え機能を連携する",
+      "author" : "@Takaaki_Ichijo",
+      "day" : 17,
+      "url" : "https://qiita.com/Takaaki_Ichijo/items/94a845e9361327a54210"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "俺だってLinuxでゲーム開発したいんだよ! Linux版UnityEditorを実務で使ってみた",
+      "author" : "@AzuQiita",
+      "day" : 18,
+      "url" : "https://qiita.com/AzuQiita/items/16ae1154e99c27731cb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity で自作ライブラリの Package Manager / Scoped Registry 対応をしてみた",
+      "author" : "@hecomi",
+      "day" : 19,
+      "url" : "https://tips.hecomi.com/entry/2021/12/19/003344"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jump Flooding Algorithm",
+      "author" : "@copo",
+      "day" : 20,
+      "url" : "https://coposuke.hateblo.jp/entry/2021/12/21/011119"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Unity】滲みにこだわるブラウン管シェーダ",
+      "author" : "@saragai",
+      "day" : 21,
+      "url" : "https://qiita.com/saragai/items/2885d83f55a46f206d1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityの新MeshAPIでMeshColliderをリアルタイム変形させる",
+      "author" : "@UnagiHuman",
+      "day" : 22,
+      "url" : "https://qiita.com/UnagiHuman/items/7db6c75adea0d5862acf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Unity][URP] Y軸ビルボードシェーダー",
+      "author" : "@gam0022",
+      "day" : 23,
+      "url" : "https://gam0022.net/blog/2021/12/23/unity-urp-billboard-shader/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity UIを手動でレイアウトする方法",
+      "author" : "@_moto_y",
+      "day" : 24,
+      "url" : "https://qiita.com/_moto_y/items/d9949c71c0d15f51c184"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Joint 2D で ソフトボディを作る",
+      "author" : "@r-ngtm",
+      "day" : 25,
+      "url" : "https://qiita.com/r-ngtm/items/6241cd5f8916a7ef84c8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "同じシーンの中で状態遷移を実装するベストプラクティス",
+      "author" : "@TakashiHamada",
+      "day" : 1,
+      "url" : "https://qiita.com/TakashiHamada/items/660007f341f3537c1ce1"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Unity 2021.2からProject Windowでもコピー・カット・ペーストができるようになった",
+      "author" : "@RyotaMurohoshi",
+      "day" : 2,
+      "url" : "https://qiita.com/RyotaMurohoshi/items/7c112fb05615aa893636"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Unity uGUIで使える無料/OSSなカラーピッカー",
+      "author" : "@kabosu3d",
+      "day" : 3,
+      "url" : "https://qiita.com/kabosu3d/items/cb679c7d1837785cc955"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Unityで神になれる最強おすすめアセット集",
+      "author" : "@UbiquitousD",
+      "day" : 4,
+      "url" : "https://qiita.com/UbiquitousD/items/54a04a0886b308555152"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Unity 2021.2で強化されたインスペクターの数式機能や、複数要素選択時の線形配置機能について",
+      "author" : "@RyotaMurohoshi",
+      "day" : 5,
+      "url" : "https://qiita.com/RyotaMurohoshi/items/fa777dfd50254a3a88cf"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "エディタのカスタムモードを作成する",
+      "author" : "@Shiranui_Isuzu",
+      "day" : 6,
+      "url" : "https://qiita.com/Shiranui_Isuzu/items/b2ca640a75457311f62e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "JobParallelForの改良案",
+      "author" : "@A_rosuko",
+      "day" : 7,
+      "url" : "https://qiita.com/A_rosuko/items/75b0bcbb1a00d483223d"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Google Spreadsheetの値をScriptableObjectに反映させる",
+      "author" : "@TakashiHamada",
+      "day" : 8,
+      "url" : "https://qiita.com/TakashiHamada/items/198c520b815efb594a5c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "MacとUnityでVTuberっぽくVRMを動かす方法",
+      "author" : "@will-yama",
+      "day" : 9,
+      "url" : "https://qiita.com/will-yama/items/d348db26d9309107ba31"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UnityのAndroid SDKにAPIレベル30のSDKツールを導入する",
+      "author" : "@segur",
+      "day" : 10,
+      "url" : "https://qiita.com/segur/items/a84b1096311542b04e9a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "指定したアセットだけを保存する方法",
+      "author" : "@su10",
+      "day" : 11,
+      "url" : "https://qiita.com/su10/private/c9e6e302a4400370793f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "OpenXRランタイムを実行時に選ぶ",
+      "author" : "@shiena",
+      "day" : 12,
+      "url" : "https://zenn.dev/shiena/articles/openxr-runtime"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Addressable Asset SystemでRemote運用を考えてみた",
+      "author" : "@takupisu",
+      "day" : 13,
+      "url" : "https://veniegames.com/?p=443"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UnityTestRunnerでUniTaskを使おう！",
+      "author" : "@Euglenach",
+      "day" : 14,
+      "url" : "https://qiita.com/Euglenach/items/c9f2ccf38a05efcba8d8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Shapesでお絵描き入門",
+      "author" : "@TakashiHamada",
+      "day" : 15,
+      "url" : "https://qiita.com/TakashiHamada/items/cce80b678c71397e7616"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "unityroomでjavascriptライブラリを使う方法",
+      "author" : "@stupid_student2",
+      "day" : 16,
+      "url" : "https://zenn.dev/5ena/articles/f66d20bc228083"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Unity + Firebase Analytics + Data Portalでユーザー行動を可視化",
+      "author" : "@broken55",
+      "day" : 17,
+      "url" : "https://qiita.com/broken55/items/ecebc6493e97e3d1f550"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Unity】IKで武器と手のずれを解消する",
+      "author" : "@iroha71",
+      "day" : 18,
+      "url" : "https://qiita.com/iroha71/items/0a9ade23e1199cd737ec"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Unity】はじめての NavMesh 入門【AIによる経路移動】",
+      "author" : "@sakasa_",
+      "day" : 19,
+      "url" : "https://www.midnightunity.net/unity-navmesh/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "UnityのScene間でのデータの受け渡し方法について比較する",
+      "author" : "@Kosei-Yoshida",
+      "day" : 20,
+      "url" : "https://qiita.com/Kosei-Yoshida/items/d7dc37bcde3a52cb5265"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ファイナル判定をやっつける（すり抜け、多段ヒット対策）",
+      "author" : "@LuminousNeco",
+      "day" : 21,
+      "url" : "https://qiita.com/LuminousNeco/items/311b450cf5a45eab3f9e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "音の再生をピッチで制御する、カセットテープのようなもの",
+      "author" : "@TakashiHamada",
+      "day" : 22,
+      "url" : "https://qiita.com/TakashiHamada/items/4e4b0d5167d9665fabd5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Unity, C#】非publicな型やメンバにアクセスするには、多分これが一番手軽だと思います",
+      "author" : "@mob-sakai",
+      "day" : 23,
+      "url" : "https://qiita.com/mob-sakai/items/37978a030d6a6e262065"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "モバイルブラウザでもUnity WebGLが動いてほしい!",
+      "author" : "@T_keigo",
+      "day" : 24,
+      "url" : "https://qiita.com/T_keigo/items/3227ab7df18dfcbe356a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "時間差 N-way 螺旋弾幕攻撃を非同期ストリーム (IUniTaskAsyncEnumerable / IAsyncEnumerable) を使って実装する",
+      "author" : "@xrdnk",
+      "day" : 25,
+      "url" : "https://xrdnk.hateblo.jp/entry/2021/12/25/111014"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "【Unity】WebGL書き出しをモバイル向けに行う際に、自動的に全画面にする方法",
+      "author" : "@hoktist",
+      "day" : 17,
+      "url" : "https://qiita.com/hoktist/items/1f70b98ea44d7538b05f"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "Riderでdllの依存関係を見る",
+      "author" : "@_EF",
+      "day" : 23,
+      "url" : "https://qiita.com/_EF/items/3f0986c73188a5828d56"
+    },
+    {
+      "series" : "カレンダー3",
+      "title" : "聖夜にUnityでクソアプリを作る",
+      "author" : "@SanQ",
+      "day" : 24,
+      "url" : "https://qiita.com/SanQ/items/5a8e601506df2a3621bd"
+    },
+    {
+      "series" : "カレンダー3",
+      "day" : 25,
+      "author" : "@sudokzt"
+    }
+  ]
+}

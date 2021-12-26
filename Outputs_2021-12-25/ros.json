@@ -1,0 +1,297 @@
+{
+  "created_at" : "2021-12-26T02:38:31Z",
+  "calendar_meta_data" : {
+    "author" : "@OTL",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 213,
+    "subscribers" : 40,
+    "title" : "ROS Advent Calendar 2021",
+    "participants" : 31,
+    "unique_name" : "ros",
+    "url" : "https://qiita.com/advent-calendar/2021/ros"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Introduction to Spot programming (with ROS)",
+      "author" : "@sktometometo",
+      "day" : 1,
+      "url" : "https://qiita.com/sktometometo/items/7f5604ccb63128c92ed9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ROS/WSL2】ROS Bridgeを使用した複数マシン(複数ROS master)間の通信",
+      "author" : "@koichi_baseball",
+      "day" : 2,
+      "url" : "https://qiita.com/koichi_baseball/items/8d15a06d296c09908f5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@MAEHARA_Keisuke"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS-VPC内でROS2(FastDDS-Multicast-UDP)を使ったPub/Subを実行する【相性良い/悪い!?】",
+      "author" : "@fudekun",
+      "day" : 4,
+      "url" : "https://qiita.com/fudekun/items/d23ea7da97d5f9160824"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ros + vue",
+      "author" : "@hoshianaaa",
+      "day" : 5,
+      "url" : "https://qiita.com/hoshianaaa/items/6e524b468bca2d388b32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi 4を搭載したロボット11台をROS 2で動かした話",
+      "author" : "@ShotaAk",
+      "day" : 6,
+      "url" : "https://zenn.dev/shotaak/articles/da5fc7b7737f3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ReactでROSのtopicをリアルタイム描画しながらフロントに入門する",
+      "author" : "@shiro-kuma",
+      "day" : 7,
+      "url" : "https://qiita.com/shiro-kuma/items/2a58c7581b1bd129fd4c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mycobot PiのMoveIt対応",
+      "author" : "@Qibitech_inc",
+      "day" : 8,
+      "url" : "https://qiita.com/Qibitech_inc/items/068e38236a535f72d396"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイZeroWでmicro-ROSカメラを作った話",
+      "author" : "@nomumu",
+      "day" : 9,
+      "url" : "https://zenn.dev/nomumu/articles/6d09815f1e1c69"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C言語用ROS2クライアントライブラリrclcのmacOS Montereyビルド",
+      "author" : "@youtalk",
+      "day" : 10,
+      "url" : "https://www.youtalk.jp/2021/12/10/rclc-on-macos.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "mROS 2どうですか？？",
+      "author" : "@takasehideki",
+      "day" : 11,
+      "url" : "https://qiita.com/takasehideki/items/95f3419bf44fa20a493f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@chikuta"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@MAEHARA_Keisuke"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ros2front v1.0",
+      "author" : "@chaos44",
+      "day" : 14,
+      "url" : "https://zenn.dev/chaos/articles/85467ed216eee1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityのバーチャルロボットにROSの実機を同期させて動かす",
+      "author" : "@te26",
+      "day" : 15,
+      "url" : "https://qiita.com/te26/items/016051e23ad7ecba774a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@OTL"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "osrf/rockerを使ってPC内に複数のROS distroの開発環境を整える方法",
+      "author" : "@Tiryoh",
+      "day" : 17,
+      "url" : "https://memoteki.net/archives/4471"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "D言語でROS2(再走)",
+      "author" : "@nonanonno",
+      "day" : 18,
+      "url" : "https://qiita.com/nonanonno/items/ce0506cada502f80c417"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "x86_64のPCでJetson用のROS/CUDAビルド環境を構築する",
+      "author" : "@tatsuyai713",
+      "day" : 19,
+      "url" : "https://qiita.com/tatsuyai713/items/6894f737d4c5b722650b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@eduidl"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ROSとUnityを使ってVJツールを作る",
+      "author" : "@comocc",
+      "day" : 21,
+      "url" : "https://qiita.com/comocc/items/f61d517b7ff53f27212d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リアルセンスはディズニーランドの夢を見るか",
+      "author" : "@nisshan_",
+      "day" : 22,
+      "url" : "https://qiita.com/nisshan_/items/1b8b9eddf1d1c716f13c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@otamasan"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@k-kame"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "2次元地図からGazeboのmodelを作ってナビゲーションしてみた",
+      "author" : "@BEIKE",
+      "day" : 2,
+      "url" : "https://qiita.com/BEIKE/items/825e62bbd8d92b6d347e"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ロボットビジョンコントローラの開発",
+      "author" : "@hoshianaaa",
+      "day" : 4,
+      "url" : "https://zenn.dev/hoshinanaaa/articles/c22e9af9377e51"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "9軸IMUモジュールWT901CをROS Noeticで使用する",
+      "author" : "@porizou1",
+      "day" : 7,
+      "url" : "https://qiita.com/porizou1/items/0e9c956c89c584f6c072"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ROS コマンドラインツール シェル芸",
+      "author" : "@yami_buta",
+      "day" : 8,
+      "url" : "https://qiita.com/yami_buta/items/2b514dc469f364be36ba"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ROSの勉強　第45弾：ROS (melodic)においてpython3系でcv_bridgeが使えないことへの解決",
+      "author" : "@Yuya-Shimizu",
+      "day" : 9,
+      "url" : "https://qiita.com/Yuya-Shimizu/items/ba73c9959067fa94a7c5"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "WSL2 + WSLg＋ROS2 Launch でGDBのバックトレースをしてみる",
+      "author" : "@Nyarn",
+      "day" : 12,
+      "url" : "https://qiita.com/Nyarn/items/ffe9c591f5d4937f7837"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17,
+      "author" : "@tygoto"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18,
+      "author" : "@takarakasai"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Mini Pupperの動かし方(Gazebo)",
+      "author" : "@nisshan_",
+      "day" : 19,
+      "url" : "https://qiita.com/nisshan_/items/fa4a4ab807c5e4bb1ff4"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20,
+      "author" : "@lutecia16v"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

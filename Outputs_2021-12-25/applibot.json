@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-26T01:18:57Z",
+  "calendar_meta_data" : {
+    "author" : "@FirstSS-Sub",
+    "category" : "企業・学校・団体",
+    "lgtm" : 53,
+    "subscribers" : 6,
+    "title" : "Applibot Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "applibot",
+    "url" : "https://qiita.com/advent-calendar/2021/applibot"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity TextMeshProにおけるダイナミックフォントの扱い",
+      "author" : "@Sigsiguma",
+      "day" : 1,
+      "url" : "https://zenn.dev/siguma_sig/articles/66854ef85db6d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NotNullAttributeで設定したオブジェクトをHierarchy上で確認できる機能拡張の作成",
+      "author" : "@taroshun_v2",
+      "day" : 2,
+      "url" : "https://qiita.com/taroshun_v2/items/e3d4be78e9da198e82ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマートコントラクト触ってみた",
+      "author" : "@kazunosuke",
+      "day" : 3,
+      "url" : "https://zenn.dev/kobotaros/articles/9e4ae292ba9ad2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームにおけるテーブル設計",
+      "author" : "@kaz2ngt",
+      "day" : 4,
+      "url" : "https://qiita.com/kaz2ngt/items/c52dd6c9943cb779f0d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlin導入して3年経過した結果",
+      "author" : "@honyacho",
+      "day" : 5,
+      "url" : "https://blog.applibot.co.jp/2021/12/07/kotlin/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Python】API Gateway + lambda にファイルを post、s3 に保存",
+      "author" : "@smoto-shei",
+      "day" : 6,
+      "url" : "https://qiita.com/smoto-shei/items/6f9e9aedcc4233b34135"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FancyCarouselView使ってみた",
+      "author" : "@t_soto",
+      "day" : 7,
+      "url" : "https://qiita.com/t_soto/items/6150675c049c353647f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Python]WordCloudで岸田首相の所信表明演説のキーワードを可視化する",
+      "author" : "@growsic",
+      "day" : 8,
+      "url" : "https://qiita.com/growsic/items/0663299ff8ed07ba9d30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今年ナレッジストアに追加された技術書のご紹介",
+      "author" : "@h_km",
+      "day" : 9,
+      "url" : "https://qiita.com/h_km/items/47be2507224a65d78a25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オレオレゲームエンジン作ってた時の話",
+      "author" : "@sana37",
+      "day" : 10,
+      "url" : "https://qiita.com/sana37/items/cb599a53471bce8861d5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テキストファイルに対してSQLを発行できるツール「q」& vimから使う「vimq.vim」の紹介",
+      "author" : "@yuucu",
+      "day" : 11,
+      "url" : "https://zenn.dev/yuucu/articles/vim-plugin-vimq"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Zoomコメントから自由回答のクイズを集計してみた",
+      "author" : "@dears31",
+      "day" : 12,
+      "url" : "https://qiita.com/dears31/items/62685ae0369276aa38fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goでのベンチマークツールを作ろうとした話",
+      "author" : "@naotoritty",
+      "day" : 13,
+      "url" : "https://qiita.com/naotoritty/items/3766d2d1aeef7fd17904"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Go言語にジェネリクスが入りそうなのでモナドを作って遊んでみた",
+      "author" : "@s-mino",
+      "day" : 14,
+      "url" : "https://qiita.com/s-mino/items/b59ea0e13327e6040e30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windowsで好きなキーバインドを常に使えるようにする",
+      "author" : "@FirstSS-Sub",
+      "day" : 15,
+      "url" : "https://zenn.dev/fss_bass/articles/40f222effd5ef2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームビルディングはぬるくない",
+      "author" : "@MuuSan",
+      "day" : 16,
+      "url" : "https://qiita.com/MuuSan/items/81f379a8a2506522a4d2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大学で企業のセキュリティの研究をやってた話",
+      "author" : "@nodarby",
+      "day" : 17,
+      "url" : "https://qiita.com/nodarby/items/9ed7233a6bec96452b5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021 年の Odin Inspector 事情",
+      "author" : "@tenonno",
+      "day" : 18,
+      "url" : "https://zenn.dev/tenonno/articles/81ab92a339f6f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity AR Foundation の FaceTrackingを使ってバ美肉してみる",
+      "author" : "@zawascript",
+      "day" : 19,
+      "url" : "https://qiita.com/zawascript/items/b69ad9cbe96b04badfa1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityでローカルにアセットを組み込む方法を比較してみます",
+      "author" : "@yucchiy",
+      "day" : 20,
+      "url" : "https://blog.yucchiy.com/2021/12/built-in-asset-for-unity/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity でサクッと機械学習を体験してみよう【ML-Agents】",
+      "author" : "@ref3000",
+      "day" : 21,
+      "url" : "https://qiita.com/ref3000/items/40a0915fbc4478b5cadb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GoでPadding Oracle Attackしたい！",
+      "author" : "@16cho",
+      "day" : 22,
+      "url" : "https://qiita.com/16cho/items/b1cad0563bdf40367b9f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最低限のリクエストでさっくりWrikeAPIを叩いてみた",
+      "author" : "@jittsu_",
+      "day" : 23,
+      "url" : "https://qiita.com/jittsu_/items/1b183d6f247f1e4d2329"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年エンジニア新卒の技術研修について（研修資料付き）",
+      "author" : "@Rinaya",
+      "day" : 24,
+      "url" : "https://blog.applibot.co.jp/2021/12/24/training/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@kasai_yosuke"
+    }
+  ]
+}

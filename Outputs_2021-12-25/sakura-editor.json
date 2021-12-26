@@ -1,0 +1,133 @@
+{
+  "created_at" : "2021-12-25T17:30:44Z",
+  "calendar_meta_data" : {
+    "author" : "@s-hiiragi",
+    "category" : "エディタ",
+    "lgtm" : 0,
+    "subscribers" : 0,
+    "title" : "サクラエディタ Advent Calendar 2021",
+    "participants" : 6,
+    "unique_name" : "sakura-editor",
+    "url" : "https://qiita.com/advent-calendar/2021/sakura-editor"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@commdgranche"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "よく使う正規表現",
+      "author" : "@harehare211",
+      "day" : 3,
+      "url" : "https://www.teamxeppet.com/sakura-useful-regular-expression1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "重複削除のやり方",
+      "author" : "@harehare211",
+      "day" : 4,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "改行コードを置換してみる",
+      "author" : "@harehare211",
+      "day" : 5,
+      "url" : "https://note.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@indii00didi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "",
+      "author" : "@juntakakada",
+      "day" : 11,
+      "url" : "https://qiita.com/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Markdownでプロジェクト管理",
+      "author" : "@gitloveme",
+      "day" : 15,
+      "url" : "https://note.com/sirufeel/n/nfb22bdc42099"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@beetomega"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "created_at" : "2021-12-25T17:58:15Z",
+  "calendar_meta_data" : {
+    "author" : "@rin5xpbpm",
+    "category" : "プログラミング言語",
+    "lgtm" : 2,
+    "subscribers" : 10,
+    "title" : "【Python】初心者からの脱却を目指して Advent Calendar 2021",
+    "participants" : 4,
+    "unique_name" : "python-study",
+    "url" : "https://qiita.com/advent-calendar/2021/python-study"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【12月1日開始】Python初心者が学習初日にまず考えたこと",
+      "author" : "@rin5xpbpm",
+      "day" : 1,
+      "url" : "https://qiita.com/rin5xpbpm/items/7a1f6b2fe045578cd78a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2日目】Python初心者が開発環境を作る",
+      "author" : "@rin5xpbpm",
+      "day" : 2,
+      "url" : "https://qiita.com/rin5xpbpm/items/e58781feb986ffa32be3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【3日目】Python初心者ライブラリを使う",
+      "author" : "@rin5xpbpm",
+      "day" : 3,
+      "url" : "https://qiita.com/rin5xpbpm/items/64dd8ae058466aabb662"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【4日目】Python初心者が変数の基本を学ぶ",
+      "author" : "@rin5xpbpm",
+      "day" : 4,
+      "url" : "https://qiita.com/rin5xpbpm/items/94694a72ea7b7173d811"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【5日目】Python初心者が分岐処理・ループ処理・リストの基本を学ぶ",
+      "author" : "@rin5xpbpm",
+      "day" : 7,
+      "url" : "https://qiita.com/rin5xpbpm/items/22150746648327797e00"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "warning:よくあるエラー対処法",
+      "author" : "@indii00didi",
+      "day" : 10,
+      "url" : "https://note.nkmk.me/python-error-message/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonのdequeでキュー、スタック、デック（両端キュー）を扱う",
+      "author" : "@indii00didi",
+      "day" : 11,
+      "url" : "https://note.nkmk.me/python-collections-deque/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Pythonの浮動小数点数float型の範囲",
+      "author" : "@indii00didi",
+      "day" : 12,
+      "url" : "https://note.nkmk.me/python-sys-float-info-max-min/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@2t6pu6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@2t6pu6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "うぉ！Pythonで引数のデフォルト値をミュータブルな型にした結果",
+      "author" : "@Vermee81",
+      "day" : 25,
+      "url" : "https://qiita.com/Vermee81/items/eb6c43cae896b3a3bb48"
+    }
+  ]
+}

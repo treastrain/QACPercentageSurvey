@@ -1,0 +1,140 @@
+{
+  "created_at" : "2021-12-26T00:28:57Z",
+  "calendar_meta_data" : {
+    "author" : "@sanpo_shiho",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 0,
+    "subscribers" : 25,
+    "title" : "Kubernetes scheduler plugins Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "kubernetes-scheduler-plugins",
+    "url" : "https://qiita.com/advent-calendar/2021/kubernetes-scheduler-plugins"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@sanpo_shiho"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@sanpo_shiho"
+    }
+  ]
+}

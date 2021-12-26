@@ -1,0 +1,176 @@
+{
+  "created_at" : "2021-12-25T23:28:18Z",
+  "calendar_meta_data" : {
+    "author" : "@takaxp",
+    "category" : "エディタ",
+    "lgtm" : 68,
+    "subscribers" : 54,
+    "title" : "emacs Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "emacs",
+    "url" : "https://qiita.com/advent-calendar/2021/emacs"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "grugru.el ― カーソル下のthingをじゅんぐりに入れ替える",
+      "author" : "@ROCKTAKEY",
+      "day" : 1,
+      "url" : "https://rocktakey.netlify.app/information-science/2021-eb9f86f0-ee65-1824-4063-ed0d0ba15dbf/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EmacsでのlspをベースとしたPython開発環境",
+      "author" : "@mkt3",
+      "day" : 2,
+      "url" : "https://mako-note.com/python-emacs-lsp/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emacs での LSP と tree-sitter と lint ",
+      "author" : "@eggc",
+      "day" : 3,
+      "url" : "https://zenn.dev/eggc/articles/8541167f2dc4af"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@tadsan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年に自分がemacs.dのカスタイマイズしたことについて",
+      "author" : "@takeokunn",
+      "day" : 5,
+      "url" : "https://takeokunn.xyz/blog/post/configure-emacs-in-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emacs 27.2のFAQ",
+      "author" : "@ayatakesi",
+      "day" : 6,
+      "url" : "https://qiita.com/ayatakesi/items/b1e8010dba4d1eb34af4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emacsのデフォルトキーバインドを必須項目以外全て解除してみた",
+      "author" : "@nuy",
+      "day" : 7,
+      "url" : "https://qiita.com/nuy/items/6a7d405aad7baa6184bb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SVGでEmacs上にGUIを表示するデモ",
+      "author" : "@taku0",
+      "day" : 8,
+      "url" : "https://www.tatapa.org/~takuo/svg-table/svg-table.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Evil で縦方向 f/F  (リピート不可 😢)",
+      "author" : "@toyboot4e",
+      "day" : 9,
+      "url" : "https://qiita.com/toyboot4e/items/9308e743d317dd5aca87"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "org-gcalとorgmineによるAgenda View",
+      "author" : "@uwabami",
+      "day" : 10,
+      "url" : "https://bit.ly/3GsW4jT"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emacsのオリジナルマグカップを作った話",
+      "author" : "@kai2nenobu",
+      "day" : 11,
+      "url" : "https://qiita.com/kai2nenobu/items/32368573500b9522e45d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emacsからアプリを開く",
+      "author" : "@j8takagi",
+      "day" : 12,
+      "url" : "https://qiita.com/j8takagi/items/3fd7d1eda44177919b31"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "textlintとFlycheckによるEmacs上でのテキスト校正",
+      "author" : "@mkt3",
+      "day" : 13,
+      "url" : "https://mako-note.com/textlint-emacs/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バブちゃんへ贈る Emacs の歩き方",
+      "author" : "@Naoking158",
+      "day" : 14,
+      "url" : "https://naoking158.pages.dev/posts/walking-on-emacs/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emacs の Title bar と Mode line をカスタマイズ",
+      "author" : "@Naoking158",
+      "day" : 15,
+      "url" : "https://naoking158.pages.dev/posts/customize-titlebar-and-modeline/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の補完UI事情とEmacs28に標準添付されるfido-vertical-modeについて",
+      "author" : "@tadsan",
+      "day" : 16,
+      "url" : "https://qiita.com/tadsan/items/f1738cb463b1ec536f84"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "まだ Emacs で小指消耗してるの？",
+      "author" : "@Naoking158",
+      "day" : 17,
+      "url" : "https://naoking158.pages.dev/posts/meow/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "zetasql-formatter.elを作りました",
+      "author" : "@hotoku",
+      "day" : 19,
+      "url" : "https://qiita.com/hotoku/items/b5ec426939748075413f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の init.org の更新項目",
+      "author" : "@takaxp",
+      "day" : 20,
+      "url" : "https://qiita.com/takaxp/items/32dd427952b47a968453"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "deltaとmagit-deltaでgit の差分を綺麗に表示✨",
+      "author" : "@hyakt",
+      "day" : 22,
+      "url" : "https://zenn.dev/hyakt/articles/4b492ce9c90f22"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Emacs org-modeにパッチを送って、マージされなかった話",
+      "author" : "@sankaku_q",
+      "day" : 24,
+      "url" : "https://intothelambda.com/blog/sent-a-patch-to-org-mode/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

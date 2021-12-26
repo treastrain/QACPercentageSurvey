@@ -1,0 +1,180 @@
+{
+  "created_at" : "2021-12-25T18:32:15Z",
+  "calendar_meta_data" : {
+    "author" : "Prop Tech plus株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 45,
+    "subscribers" : 2,
+    "title" : "Prop Tech plus Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "proptech-plus",
+    "url" : "https://qiita.com/advent-calendar/2021/proptech-plus"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Application Gatewayを使ったIngressコントローラ(AGCI)をチュートリアルどおり実行してみた",
+      "author" : "@kotaroino@github",
+      "day" : 1,
+      "url" : "https://qiita.com/kotaroino@github/items/c1ba79f87698fe4953f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MPN(Microsoft Partner Network) を活用しよう！",
+      "author" : "@mizumaki",
+      "day" : 2,
+      "url" : "https://qiita.com/mizumaki/items/04a6bc94f7fac8cad500"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft 認定試験を無料で受験する方法まとめ",
+      "author" : "@mizumaki",
+      "day" : 3,
+      "url" : "https://qiita.com/mizumaki/items/17a613ad260c4994026c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@kotaroino@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@kotaroino@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6,
+      "author" : "@kotaroino@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "azure batchってなんなん？",
+      "author" : "@sho-yamashita",
+      "day" : 7,
+      "url" : "https://qiita.com/sho-yamashita/items/1eb736edcee38b4a86ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "azure batch 使った機能を自社アプリケーションに組み込んでみた",
+      "author" : "@sho-yamashita",
+      "day" : 8,
+      "url" : "https://qiita.com/sho-yamashita/items/31b3335dbb99d5f0b29c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kotlinいいぜ~javaと比較~",
+      "author" : "@sho-yamashita",
+      "day" : 9,
+      "url" : "https://qiita.com/sho-yamashita/items/11c2934fac9555ca082d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務に生きる！ Microsoft 認定資格",
+      "author" : "@mizumaki",
+      "day" : 10,
+      "url" : "https://qiita.com/mizumaki/items/d7f270bff28d3665d2c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人エンジニアのためのブックリスト",
+      "author" : "@4door",
+      "day" : 11,
+      "url" : "https://qiita.com/4door/items/935e91a420668a189db0"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@kotaroino@github"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "lombok こう使ってます！",
+      "author" : "@i9i",
+      "day" : 13,
+      "url" : "https://qiita.com/i9i/items/98b2893204cf23f3d7d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jOOλ で Java の Stream 記述は楽になるよ！（ものぐさな人向けな Stream ライブラリ）",
+      "author" : "@i9i",
+      "day" : 14,
+      "url" : "https://qiita.com/i9i/items/92e0e918b4c29e8f1763"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "（特にリモート下での）コミュニケーションで私が意識していること",
+      "author" : "@sho-yamashita",
+      "day" : 15,
+      "url" : "https://qiita.com/sho-yamashita/items/6e4cf9bb5dd5ebc11880"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もう怖くないSpring × Junit5 ~前編~",
+      "author" : "@sho-yamashita",
+      "day" : 16,
+      "url" : "https://qiita.com/sho-yamashita/items/eb1dad4139b322ca722f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptで、なぜfor文の初期化部分においてletで宣言された変数はループごとに異なるインスタンスを持ちうるのか",
+      "author" : "@khond",
+      "day" : 17,
+      "url" : "https://qiita.com/khond/items/2d22c6b297d58ec914f5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もう怖くないSpring × Junit5 ~中編~",
+      "author" : "@sho-yamashita",
+      "day" : 18,
+      "url" : "https://qiita.com/sho-yamashita/items/ec763cbb1924552ad112"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "もう怖くないSpring × Junit5 ~後編~",
+      "author" : "@sho-yamashita",
+      "day" : 19,
+      "url" : "https://qiita.com/sho-yamashita/items/c7e520c12f9113798275"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リリースノートみんなどうしてます？～ある現場の場合＋社内のちょっとした便利ツール発展の経緯～",
+      "author" : "@i9i",
+      "day" : 20,
+      "url" : "https://qiita.com/i9i/items/1976d58096fa9b0ff9af"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "応用情報技術者試験勉強法",
+      "author" : "@4door",
+      "day" : 21,
+      "url" : "https://qiita.com/4door/items/4debf1dc3fcce0d3b4e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaGold一夜漬けチャレンジ",
+      "author" : "@4door",
+      "day" : 22,
+      "url" : "https://qiita.com/4door/items/d5e66195bbdaa852538e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@tyoshida0130"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaScriptで、for文の初期化部分においてletで宣言された変数は本当にループごとに異なるインスタンスになるのか",
+      "author" : "@khond",
+      "day" : 24,
+      "url" : "https://qiita.com/khond/items/53e2fea985b1c083910d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Advent Calendarを走り終えて",
+      "author" : "@mizumaki",
+      "day" : 25,
+      "url" : "https://qiita.com/mizumaki/items/fc97fd7fde95df9fc28c"
+    }
+  ]
+}

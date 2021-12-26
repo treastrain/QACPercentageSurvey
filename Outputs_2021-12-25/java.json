@@ -1,0 +1,175 @@
+{
+  "created_at" : "2021-12-26T02:02:25Z",
+  "calendar_meta_data" : {
+    "author" : "@InaLab",
+    "category" : "プログラミング言語",
+    "lgtm" : 24,
+    "subscribers" : 76,
+    "title" : "Java Advent Calendar 2021",
+    "participants" : 14,
+    "unique_name" : "java",
+    "url" : "https://qiita.com/advent-calendar/2021/java"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "お前のそれはインナークラスじゃない",
+      "author" : "@kariya-mitsuru",
+      "day" : 1,
+      "url" : "https://zenn.dev/kariya_mitsuru/articles/c23ac5def58c1c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "起動時に初期化されてしまうクラスの振舞",
+      "author" : "@hatano",
+      "day" : 2,
+      "url" : "https://qiita.com/hatano/items/2bd3060f06dbb3bc899a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaでベンチマーク(性能測定) JUnit5編",
+      "author" : "@gosshys",
+      "day" : 3,
+      "url" : "https://qiita.com/gosshys/items/72f56daf9ee01e10e987"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@makihara434"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaを使った関数型プログラミング",
+      "author" : "@gosshys",
+      "day" : 6,
+      "url" : "https://qiita.com/gosshys/items/6af7acf33dbbec81568f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaでFFI",
+      "author" : "@yskszk63",
+      "day" : 7,
+      "url" : "https://zenn.dev/yskszk63/articles/java-panama-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaのDockerイメージ何選ぶ？",
+      "author" : "@shibukawa",
+      "day" : 8,
+      "url" : "https://future-architect.github.io/articles/20211220a/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java アプリ用のコンテナイメージ作るんなら jlink コマンドでカスタム JRE 作っとけ",
+      "author" : "@kariya-mitsuru",
+      "day" : 9,
+      "url" : "https://zenn.dev/kariya_mitsuru/articles/72b9ce38ddc2ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jlink コマンドでカスタム JRE 作った時は java -Xshare:dump で default CDS archive 作っとけ",
+      "author" : "@kariya-mitsuru",
+      "day" : 10,
+      "url" : "https://zenn.dev/kariya_mitsuru/articles/09138e9b29ad82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OWASP Dependency-Check を使ってMavenの依存ライブラリの脆弱性を確認する",
+      "author" : "@koduki",
+      "day" : 11,
+      "url" : "https://zenn.dev/koduki/articles/608d2efe6b2fd3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[翻訳]Javaのロギングライブラリが複雑化した経緯",
+      "author" : "@cactaceae",
+      "day" : 12,
+      "url" : "https://qiita.com/cactaceae/items/6139a58584f880a9de1f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaでヒープサイズ測定 JUnit5編",
+      "author" : "@gosshys",
+      "day" : 13,
+      "url" : "https://qiita.com/gosshys/items/e6aa2fe12762cf29e9c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java 例外を投げ直せ",
+      "author" : "@gosshys",
+      "day" : 14,
+      "url" : "https://qiita.com/gosshys/items/0b42826b255e0bc8f5fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java ストリーム",
+      "author" : "@gosshys",
+      "day" : 15,
+      "url" : "https://qiita.com/gosshys/items/8ff46625f46ed4214de1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java レイジー エバリュエーション",
+      "author" : "@gosshys",
+      "day" : 16,
+      "url" : "https://qiita.com/gosshys/items/7ee5dd5ac8f134ea0ccc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "static importできないメソッド",
+      "author" : "@hishidama",
+      "day" : 17,
+      "url" : "https://blog.goo.ne.jp/hishidama/e/e458d9e116e0797c43b05f783ef1c42e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java13〜17 振り返り",
+      "author" : "@yk0807",
+      "day" : 18,
+      "url" : "https://qiita.com/yk0807/items/48e1619c47dadc0a5b07"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@InaLab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring+Resilience4jを触ってみる",
+      "author" : "@YutaSaito1991",
+      "day" : 21,
+      "url" : "https://zenn.dev/yuta_saito/articles/0e9fc3c9100845"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaのMapについて",
+      "author" : "@nannany_hey",
+      "day" : 22,
+      "url" : "https://qiita.com/nannany_hey/items/a7e3ec269e4bde701de8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java のラムダ式のクラスファイルを調べてみた！",
+      "author" : "@YujiSoftware",
+      "day" : 25,
+      "url" : "https://qiita.com/YujiSoftware/items/31c91ff98b40fd4394f2"
+    }
+  ]
+}

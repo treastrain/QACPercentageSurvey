@@ -1,0 +1,139 @@
+{
+  "created_at" : "2021-12-26T00:44:51Z",
+  "calendar_meta_data" : {
+    "author" : "@pyconjapan",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 34,
+    "title" : "PyCon JP 2021 Advent Calendar Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "pyconjp",
+    "url" : "https://qiita.com/advent-calendar/2021/pyconjp"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "PyCon JP 2021 Web担当振り返り[実装 デプロイ]",
+      "author" : "@k-nakamura",
+      "day" : 1,
+      "url" : "https://pyconjp.blogspot.com/2021/11/pyconjp2021-website-develop.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "『エンジニアの知的生産術』で知り、 #pyconjp 2021ハイブリッド開催を言い出すきっかけになった考え方",
+      "author" : "@ftnext",
+      "day" : 2,
+      "url" : "https://nikkie-ftnext.hatenablog.com/entry/optimistic-hybrid-pyconjp2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyConJP2021で一番楽しみにしていたセッションをもとに改めて振り返った",
+      "author" : "@sandfish03",
+      "day" : 4,
+      "url" : "https://sandfishfactory.hatenablog.com/entry/2021/12/04/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「実装で知るasyncio」を聴いてコルーチンを全く分かっていないことに気づいた",
+      "author" : "@mizzsugar0425",
+      "day" : 5,
+      "url" : "https://mizzsugar.hatenablog.com/entry/2021/12/05/122537"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyCon JP 2021で登壇するまでにやったこと",
+      "author" : "@hrs_sano645",
+      "day" : 11,
+      "url" : "https://hr-sano.net/blog/2021/12/11/pycon-jp-2021/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyCon JP 2021配信の裏側",
+      "author" : "@peacock0803sz",
+      "day" : 12,
+      "url" : "https://peacock0803sz.hatenablog.jp/entry/2021/12/12/120754"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スタッフで初参加したことを書こうと思います。",
+      "author" : "@kanda_kazu",
+      "day" : 19,
+      "url" : "https://note.com/kazumiks/n/n11c4d07d2fca"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021のスタッフ参加の記録について書きます。",
+      "author" : "@huideyeren",
+      "day" : 25,
+      "url" : "https://huideyeren.info/2021/12/22/i-attended-pycon-jp-2021-as-a-staff/"
+    }
+  ]
+}

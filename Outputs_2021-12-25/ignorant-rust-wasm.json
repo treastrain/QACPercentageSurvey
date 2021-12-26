@@ -1,0 +1,143 @@
+{
+  "created_at" : "2021-12-25T18:03:37Z",
+  "calendar_meta_data" : {
+    "author" : "@poe_hoshi",
+    "category" : "Webテクノロジー",
+    "lgtm" : 5,
+    "subscribers" : 12,
+    "title" : "なんもしらんけどRustでWasmやる Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "ignorant-rust-wasm",
+    "url" : "https://qiita.com/advent-calendar/2021/ignorant-rust-wasm"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "RustでWasmがしたーい！からhello world",
+      "author" : "@poe_hoshi",
+      "day" : 1,
+      "url" : "https://qiita.com/poe_hoshi/items/633e611abf016f3b4089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クレートの使用とferrisくん",
+      "author" : "@poe_hoshi",
+      "day" : 2,
+      "url" : "https://qiita.com/poe_hoshi/items/43d9bb64fa0b39f1a82b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最低限(未満)のRustの文法①",
+      "author" : "@poe_hoshi",
+      "day" : 3,
+      "url" : "https://qiita.com/poe_hoshi/items/4c0f0cdcc03df170bd11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最低限(未満)のRustの文法② フロー制御",
+      "author" : "@poe_hoshi",
+      "day" : 4,
+      "url" : "https://qiita.com/poe_hoshi/items/3b9014341e681bffd88d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "最低限(未満)のRustの文法③ クラスじゃなくて構造体",
+      "author" : "@poe_hoshi",
+      "day" : 5,
+      "url" : "https://qiita.com/poe_hoshi/items/d8703f57eaee8f17013c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "理解はあとで、とにかくWebで動くRustを見たい",
+      "author" : "@poe_hoshi",
+      "day" : 6,
+      "url" : "https://qiita.com/poe_hoshi/items/ef685ed579de1a29fd3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのwasm-bindgen",
+      "author" : "@poe_hoshi",
+      "day" : 7,
+      "url" : "https://qiita.com/poe_hoshi/items/94caf704f212cd9f2da9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8,
+      "author" : "@poe_hoshi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "セットアップとHello World",
+      "author" : "@my_coIor",
+      "day" : 12,
+      "url" : "https://zenn.dev/null223/articles/what-rust-wasm"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チュートリアルをコピって完全に理解したい",
+      "author" : "@my_coIor",
+      "day" : 15,
+      "url" : "https://zenn.dev/null223/scraps/40d47cc9a07261"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

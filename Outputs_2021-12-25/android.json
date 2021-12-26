@@ -1,0 +1,318 @@
+{
+  "created_at" : "2021-12-26T04:47:52Z",
+  "calendar_meta_data" : {
+    "author" : "@fumiya-kume",
+    "category" : "モバイル",
+    "lgtm" : 143,
+    "subscribers" : 103,
+    "title" : "Android Advent Calendar 2021",
+    "participants" : 36,
+    "unique_name" : "android",
+    "url" : "https://qiita.com/advent-calendar/2021/android"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "カメラ映像を出さずに画像データを取得&画像解析",
+      "author" : "@Gazyu",
+      "day" : 1,
+      "url" : "https://qiita.com/Gazyu/items/ae9e42bee7a38ddb631d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Android開発業務中に使用するショートカット集と周辺のアレコレ",
+      "author" : "@s-kamada",
+      "day" : 2,
+      "url" : "https://qiita.com/s-kamada/items/3b8236699816d473834f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@kazu_developer"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Android の TextView の欧文フォントを指定した場合に日本語は表示できるのか検証する",
+      "author" : "@kaleidot725",
+      "day" : 4,
+      "url" : "https://zenn.dev/kaleidot725/articles/2021-12-03-android-system-font"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@taptappun"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Material 3で大きく変わったTopAppBarをJetpack Composeで実装してみる",
+      "author" : "@Nabe1216",
+      "day" : 6,
+      "url" : "https://qiita.com/Nabe1216/items/0823dc7ebfb5d616f9c1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Java]Android Fragment間のデータ受け渡し　Bundle vs ViewModel",
+      "author" : "@riodeja5",
+      "day" : 7,
+      "url" : "https://qiita.com/riodeja5/items/df6db02b28669b4ca1da"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gradle コマンド ＋ no connected Device で Instrumented unit tests 並列実行",
+      "author" : "@cch_robo",
+      "day" : 8,
+      "url" : "https://docs.google.com/presentation/d/e/2PACX-1vQKICqksJXZy-dkiZts10wj965WGaZsKO3kVKWz83A8-F6ZHgclMmvmoRYcCxP2Y_c1RTsGr1LDa9py/pub?start=false&loop=false&delayms=3000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "多分30分で映せるAndroid AutoのNavigation",
+      "author" : "@nyafunta",
+      "day" : 9,
+      "url" : "https://zenn.dev/nyafunta/articles/0c357e60d12bcb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Material Design 3ガイドライン概要",
+      "author" : "@mkosuke",
+      "day" : 10,
+      "url" : "https://qiita.com/mkosuke/items/314242951766e413b4ab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "App overlay controlsの仕組み",
+      "author" : "@yurihondo",
+      "day" : 11,
+      "url" : "https://zenn.dev/yurihondo/articles/885d7373373c20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jetpack ComposeのTextがEllipsizeされたかを判断する",
+      "author" : "@rmakiyama",
+      "day" : 12,
+      "url" : "https://zenn.dev/rmakiyama/articles/f8dcbbda255b9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jetpack ComposeとKotlin Coroutinesを連携させる",
+      "author" : "@Mori-Atsushi",
+      "day" : 13,
+      "url" : "https://at-sushi.work/blog/48/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Android 12におけるOverScroll表現の雑多なメモ",
+      "author" : "@yamacraft",
+      "day" : 14,
+      "url" : "https://yamacraft.github.io/note/advent2021-android-overscroll/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Android StudioとGit Hubの連携時の操作方法（ローカルリポジトリ作成→リモートリポジトリへプッシュまで）",
+      "author" : "@yuki0619",
+      "day" : 15,
+      "url" : "https://qiita.com/yuki0619/items/8579daff0663725a46dd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "既存アプリにおけるEncryptedSharedPreferencesへの移行方法",
+      "author" : "@yoiko",
+      "day" : 16,
+      "url" : "https://qiita.com/yoiko/items/c4355cb15ce77770a24c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AndroidアプリにUnity as a Libraryでリッチな3Dを簡単に組み込む",
+      "author" : "@cha84rakanal",
+      "day" : 17,
+      "url" : "https://qiita.com/cha84rakanal/items/4a1e4b242ec40e3e8121"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Snackbarのカスタマイズ - Android ViewとJetpack Compose比較",
+      "author" : "@t_shimokawa",
+      "day" : 18,
+      "url" : "https://qiita.com/t_shimokawa/items/45250265c17479949951"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jetpack Compose State Practices",
+      "author" : "@takahirom",
+      "day" : 19,
+      "url" : "https://qiita.com/takahirom/items/862f3c607850ce524744"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jetpack Composeの学習にBloomはどう？",
+      "author" : "@sokume2106",
+      "day" : 20,
+      "url" : "https://qiita.com/sokume2106/items/4e71e57e1a16d58509f6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Compose API から学ぶ Kotlin 表現",
+      "author" : "@mkeeda",
+      "day" : 21,
+      "url" : "https://medium.com/@mkeeda/compose-api-%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6-kotlin-%E8%A1%A8%E7%8F%BE-b210031a3b8a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Trackrアプリから学ぶ大画面対応",
+      "author" : "@ntsk",
+      "day" : 22,
+      "url" : "https://qiita.com/ntsk/items/33b59087ca2d9a999d7a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ViewPager2とCardViewでカルーセル表示を行う",
+      "author" : "@kumas",
+      "day" : 23,
+      "url" : "https://kumaskun.hatenablog.com/entry/2021/10/31/211736"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "だからボクはオブジェクト指向が使いこなせない Android/Kotlin編",
+      "author" : "@argama147",
+      "day" : 24,
+      "url" : "https://qiita.com/argama147/items/d9f94a2a30413cb6989b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Macrobenchmarkで起動時間を計測する",
+      "author" : "@STAR_ZERO",
+      "day" : 25,
+      "url" : "https://star-zero.medium.com/macrobenchmark%E3%81%A7%E8%B5%B7%E5%8B%95%E6%99%82%E9%96%93%E3%82%92%E8%A8%88%E6%B8%AC%E3%81%99%E3%82%8B-7842c9fcf84b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Androidのゲーム開発まとめ",
+      "author" : "@omooooori",
+      "day" : 1,
+      "url" : "https://qiita.com/omooooori/items/d82e0f676bd773f48787"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3,
+      "author" : "@harehare211"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Github Actions】gradle.propertiesの設定方法",
+      "author" : "@kilalabu",
+      "day" : 5,
+      "url" : "https://qiita.com/kilalabu/items/e74cb1e51838644daa8d"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "汎用的なIndicatorDialog",
+      "author" : "@kazu_developer",
+      "day" : 9,
+      "url" : "https://qiita.com/kazu_developer/items/4f551a34e72500bc2141"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Android Javaアプリケーション開発に、NoSQLドキュメント指向モバイルデータベースCouchbase Liteを使ってみる",
+      "author" : "@yoshiyuki_kono",
+      "day" : 12,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/fef9051657a423f02fb7"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "NrealLightアプリ実行中にログを確認する",
+      "author" : "@segur",
+      "day" : 14,
+      "url" : "https://qiita.com/segur/items/7fcc5576da84a36f982a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "さらばContext引き回し！リソースを扱うクラスを作ってみた",
+      "author" : "@morayl",
+      "day" : 15,
+      "url" : "https://qiita.com/morayl/items/7b9110f4cb9588d00eb9"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Product Flavor を複数のアプリモジュールに展開したお話",
+      "author" : "@takke",
+      "day" : 21,
+      "url" : "https://qiita.com/takke/items/a652c8db9d5173ac8455"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Compose を使用したナビゲーションで配列を渡す方法",
+      "author" : "@Ryuya_KusozkoImomusi",
+      "day" : 22,
+      "url" : "https://zenn.dev/drakon/articles/1fe6198e7edd88"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【Android】 Jetpack ComposeをServiceで使う / Jetpack Compose on Service",
+      "author" : "@tsumuchan",
+      "day" : 23,
+      "url" : "https://qiita.com/tsumuchan/items/92a1576dccb0bab4baf6"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[Java]パスワード用のランダムな文字列を自動生成する",
+      "author" : "@highcom",
+      "day" : 24,
+      "url" : "https://ameblo.jp/highcommunicate/entry-12716784180.html"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25,
+      "author" : "@fumiya-kume"
+    }
+  ]
+}

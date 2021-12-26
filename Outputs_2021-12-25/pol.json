@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T23:27:15Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社POL",
+    "category" : "企業・学校・団体",
+    "lgtm" : 208,
+    "subscribers" : 6,
+    "title" : "株式会社POL テックカレンダー Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "pol",
+    "url" : "https://qiita.com/advent-calendar/2021/pol"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "開発組織とエンジニアカルチャー",
+      "author" : "@mizno",
+      "day" : 1,
+      "url" : "https://note.com/pol_tech/n/ne7e203b07aac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ターミナルだけで開発をがんばるためのツール",
+      "author" : "@w40141",
+      "day" : 2,
+      "url" : "https://qiita.com/w40141/items/a1c534a7f7dc65f98c74"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ブラウザ上で動作するツールを超簡単に公開したい",
+      "author" : "@yiwi",
+      "day" : 3,
+      "url" : "https://qiita.com/yiwi/items/b1b0e37252bff94249b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新人プログラマが行うべき3つのこと",
+      "author" : "@aw-h-harashima",
+      "day" : 4,
+      "url" : "https://qiita.com/aw-h-harashima/items/0ff30690b3c69fca706f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Search Consoleの不要なサイトインデックス削除を自動化する(試み)",
+      "author" : "@takahashik0422",
+      "day" : 5,
+      "url" : "https://qiita.com/takahashik0422/items/b94c4bc25314eff4a087"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amplify Studioは使いやすいのか",
+      "author" : "@guevara-net",
+      "day" : 6,
+      "url" : "https://qiita.com/guevara-net/items/659e9be425d02d0674f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TypeScript/Reactをやってみて思ったこと",
+      "author" : "@Abyss",
+      "day" : 7,
+      "url" : "https://qiita.com/Abyss/items/06b280a09498f72530b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Salesforce連携がすごいAppFlowの話",
+      "author" : "@nkg",
+      "day" : 8,
+      "url" : "https://qiita.com/nkg/items/30f00b2c4cfc55fcd8ff"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "全力でLチカしてみる",
+      "author" : "@c-ushiki",
+      "day" : 9,
+      "url" : "https://note.com/ushiki_c/n/nd264d567bcbe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Glue を用いて Aurora MySQL から BigQuery にデータを Export する",
+      "author" : "@takahiro-yamada",
+      "day" : 10,
+      "url" : "https://qiita.com/takahiro-yamada/items/4b38e9609bf2053bcc4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS】【AppSync】Lamdaで更新処理の競合を解決した話",
+      "author" : "@ryu19-1",
+      "day" : 11,
+      "url" : "https://qiita.com/ryu19-1/items/4a6c0fca7514149b5261"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「今年の漢字」ならぬ「今年のSlackスタンプ」をLambdaとAPI Gatewayで作ってみた",
+      "author" : "@sho-kanamaru",
+      "day" : 12,
+      "url" : "https://qiita.com/sho-kanamaru/items/aaec4c29832afe0ad8a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Recoilの非同期Selectorを考える",
+      "author" : "@yk_ngsyk",
+      "day" : 13,
+      "url" : "https://qiita.com/yk_ngsyk/items/0282ae78d50b4c8b5b61"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内のギルド活動でワイワイしながら管理画面改修を進めている話",
+      "author" : "@motikoma",
+      "day" : 14,
+      "url" : "https://note.com/sakamoto_k/n/n12a8ba0f8b4b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【競技プログラミング】フロントエンドエンジニアだけど競プロやっていてよかったなという話",
+      "author" : "@ryu19-1",
+      "day" : 15,
+      "url" : "https://qiita.com/ryu19-1/items/7d81bec07595ba4c8c5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustとCI/CDに入門する",
+      "author" : "@w40141",
+      "day" : 16,
+      "url" : "https://qiita.com/w40141/items/a4ce82dbd30a44e42985"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RustでgRPCサーバーを作成して別のRustのサーバーから呼び出してみる",
+      "author" : "@takahashik0422",
+      "day" : 17,
+      "url" : "https://qiita.com/takahashik0422/items/bd7f7bfc4a6657e63934"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "evalの話＋α",
+      "author" : "@yiwi",
+      "day" : 18,
+      "url" : "https://qiita.com/yiwi/items/37d8508c6e62a2376d0d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS SDK for Python を使って、データベースのバックアップを自動で行う",
+      "author" : "@HHajimeW",
+      "day" : 19,
+      "url" : "https://qiita.com/HHajimeW/items/e2df4de14f9eea781118"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MediaRecorder APIで遊んだ話",
+      "author" : "@c-ushiki",
+      "day" : 20,
+      "url" : "https://note.com/ushiki_c/n/nefcf3dfbacbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "出来るだけ楽に Youtube からコメントを拾ってくる LINE bot を作ってみる",
+      "author" : "@NibutaniA",
+      "day" : 21,
+      "url" : "https://qiita.com/NibutaniA/items/d4ffd52c49f91bfd04d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "目指せAmplifyコントリビューターへの道〜セットアップ編〜",
+      "author" : "@guevara-net",
+      "day" : 22,
+      "url" : "https://qiita.com/guevara-net/items/46697c7254e8be96c247"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021 年ゆくインフラくるインフラ",
+      "author" : "@takahiro-yamada",
+      "day" : 23,
+      "url" : "https://note.com/tyrwzl/n/n1efe8a0edf10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQL初心者が1年間でデータ抽出をする時によく使った関数8選",
+      "author" : "@ReiTamura",
+      "day" : 24,
+      "url" : "https://qiita.com/ReiTamura/items/fa3148ac5d46082116e0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いかにしてコードを書くか（ハード編）",
+      "author" : "@mizno",
+      "day" : 25,
+      "url" : "https://note.com/pol_tech/n/nd26659d41377"
+    }
+  ]
+}

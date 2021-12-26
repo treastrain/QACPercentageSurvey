@@ -1,0 +1,122 @@
+{
+  "created_at" : "2021-12-26T00:16:09Z",
+  "calendar_meta_data" : {
+    "author" : "@0918nobita",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 9,
+    "title" : "PureScript Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "purs",
+    "url" : "https://qiita.com/advent-calendar/2021/purs"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "purescript-react-basic-hooksとIndexed Monadの関係について",
+      "author" : "@mrsekut",
+      "day" : 12,
+      "url" : "https://scrapbox.io/mrsekut-p/purescript-react-basic-hooks%E3%81%AFIxMonad%E3%81%A7Hooks%E3%81%AE%E9%A0%86%E5%BA%8F%E3%82%92%E8%A6%8F%E5%AE%9A%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PureScriptでLisp作った",
+      "author" : "@mrsekut",
+      "day" : 18,
+      "url" : "https://scrapbox.io/mrsekut-p/Make_a_Lisp%E3%82%92PureScript%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@neco8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

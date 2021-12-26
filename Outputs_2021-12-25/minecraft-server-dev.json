@@ -1,0 +1,188 @@
+{
+  "created_at" : "2021-12-25T19:15:52Z",
+  "calendar_meta_data" : {
+    "author" : "@WhiteGrouse",
+    "category" : "その他",
+    "lgtm" : 82,
+    "subscribers" : 23,
+    "title" : "Minecraftサーバ開発・運営 Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "minecraft-server-dev",
+    "url" : "https://qiita.com/advent-calendar/2021/minecraft-server-dev"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker上でPocketMine-MPを動かそう",
+      "author" : "@famima65536",
+      "day" : 1,
+      "url" : "https://qiita.com/famima65536/items/6b65406da5abf3144cb8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "管理パネルを建てる",
+      "author" : "@ree-jp",
+      "day" : 2,
+      "url" : "https://blog.ree-jp.net/let-s-set-up-a-mine-craft-server-administration-panel/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LunaChatを移植した話 (前編)",
+      "author" : "@apple502j",
+      "day" : 3,
+      "url" : "https://qiita.com/apple502j/items/cec4030659197499e780"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LunaChatを移植した話 (後編)",
+      "author" : "@apple502j",
+      "day" : 4,
+      "url" : "https://qiita.com/apple502j/items/31de204529889fa2e18f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プラグイン開発者のためのオブジェクト指向",
+      "author" : "@WhiteGrouse",
+      "day" : 5,
+      "url" : "https://qiita.com/WhiteGrouse/items/aab3e4ba79089a787ee7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マインクラフトでトロッコの自動運行をする",
+      "author" : "@CIB-MC",
+      "day" : 6,
+      "url" : "https://qiita.com/CIB-MC/items/745864434e2ef4ce6e41"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spigotの鯖プラグイン開発で学んだあれこれ",
+      "author" : "@boymelancholy",
+      "day" : 7,
+      "url" : "https://qiita.com/boymelancholy/items/0881078eb160d30c5186"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "障害物などを考慮した最短経路を計算する",
+      "author" : "@darumakka2",
+      "day" : 8,
+      "url" : "https://qiita.com/darumakka2/items/08390d0515ca3772d7ea"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ソシャゲから学ぶゲームサーバー運営①",
+      "author" : "@GreenpeaceKT",
+      "day" : 9,
+      "url" : "https://qiita.com/GreenpeaceKT/items/33278f2665626d41be23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PMMP4.0.0がついにリリース！",
+      "author" : "@popkechupki",
+      "day" : 10,
+      "url" : "https://yomi-note.com/games/minectaft/845/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【BDS/PMMP/Nukkit】マインクラフト統合版でマルチサーバーをつくる方法",
+      "author" : "@popkechupki",
+      "day" : 11,
+      "url" : "https://yomi-note.com/games/minectaft/862/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マインクラフトで馬の自動貸出をする",
+      "author" : "@CIB-MC",
+      "day" : 12,
+      "url" : "https://qiita.com/CIB-MC/items/e23f83aa1d44f4996fd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "明治のCMを再現する",
+      "author" : "@myouyu",
+      "day" : 13,
+      "url" : "https://qiita.com/myouyu/items/a9e55e333ae9c53fdb7e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PMMP】特殊アイテムの作り方",
+      "author" : "@deceitya",
+      "day" : 14,
+      "url" : "https://qiita.com/deceitya/items/a8c640bb26b640718736"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非同期ってナンダ",
+      "author" : "@ribnil",
+      "day" : 15,
+      "url" : "https://qiita.com/ribnil/items/8ee46cc8e59fac8dccc6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Spigot】魔法を作る",
+      "author" : "@merunno",
+      "day" : 16,
+      "url" : "https://qiita.com/merunno/items/86bd4023ef2d9e665b3f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Minecraft:Bedrock Editionのパケットを解析するためのクライアントソフトウェアを開発した話",
+      "author" : "@hmy2001",
+      "day" : 17,
+      "url" : "https://qiita.com/hmy2001/items/2c9c06ef7d0c573c0a38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PMMP 4.0】 デスノートを作って運営にいたずらしよう",
+      "author" : "@RarkHopper",
+      "day" : 18,
+      "url" : "https://qiita.com/RarkHopper/items/bb47d25e7aff08b40900"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Spigot】InventoryHolderの独自実装は避けるべき",
+      "author" : "@blackbracken",
+      "day" : 19,
+      "url" : "https://qiita.com/blackbracken/items/82afa489842cbb062fac"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PMMP4】生活サーバー運営に便利なプラグインたち！",
+      "author" : "@yurisi",
+      "day" : 20,
+      "url" : "https://qiita.com/yurisi/items/20897b8500e7a7094008"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Oracle Cloud Infrastructureで無料のMinecraft統合版サーバーを構築する",
+      "author" : "@yuko_fuyutsuki",
+      "day" : 21,
+      "url" : "https://zenn.dev/fuyutsuki/articles/mcbe-adventcalendar-1221_fbe27c857a043c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudburstMCのプラグインを作ってみた",
+      "author" : "@popkechupki",
+      "day" : 22,
+      "url" : "https://yomi-note.com/games/minectaft/993/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスに向けてリア充を逃がさず爆破する弓を作る",
+      "author" : "@_yussy_",
+      "day" : 23,
+      "url" : "https://qiita.com/_yussy_/items/df3518045a662f0542db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスイブなのでハートをパーティクルで作りましょう！",
+      "author" : "@yurisi",
+      "day" : 24,
+      "url" : "https://qiita.com/yurisi/items/22d93d7668dcd445ecae"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@yuko_fuyutsuki"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:25:48Z",
+  "calendar_meta_data" : {
+    "author" : "@kamo_it_juku",
+    "category" : "企業・学校・団体",
+    "lgtm" : 18,
+    "subscribers" : 2,
+    "title" : "可茂IT塾 Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "kamo-it",
+    "url" : "https://qiita.com/advent-calendar/2021/kamo-it"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の可茂IT塾",
+      "author" : "@kamo_it_juku",
+      "day" : 1,
+      "url" : "https://www.kamo-it.org/blog/kamoit-2021-before/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MySQLのInnoDBの日本語全文検索インデックスを試す（上から順にSQLはるだけ）",
+      "author" : "@mash76",
+      "day" : 2,
+      "url" : "https://qiita.com/mash76/items/09904ccb92d28ebe511a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "塾長とチルっちゃう？",
+      "author" : "@catchhitomiya",
+      "day" : 3,
+      "url" : "https://lo-hitomiya.com/blog_works/8577.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "初心者がNode.js(Express)でYouTubeの動画をダウンロードできる機能をつくる。",
+      "author" : "@mu-munn",
+      "day" : 4,
+      "url" : "https://qiita.com/mu-munn/items/8ecf2b7114f8679b2071"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterのContainerで角丸のUIを実装する方法",
+      "author" : "@YoshiakiOshima",
+      "day" : 5,
+      "url" : "https://www.kamo-it.org/blog/rounded-rect-flutter/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】SVG画像が黒くなってしまうことの対処法",
+      "author" : "@tomkirin",
+      "day" : 6,
+      "url" : "https://www.kamo-it.org/blog/flutter-svg-black/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "可茂IT塾エンジニア紹介【tomoya】",
+      "author" : "@catchhitomiya",
+      "day" : 7,
+      "url" : "https://lo-hitomiya.com/?p=8585&preview=true"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterで正規表現を用いたemailのvalidationを実装",
+      "author" : "@makumaaku",
+      "day" : 8,
+      "url" : "https://www.kamo-it.org/blog/regular_expression/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】AR（っぽい）アプリの作り方",
+      "author" : "@iimori",
+      "day" : 9,
+      "url" : "https://zenn.dev/imorin_basson/articles/64e6f5dc6dfe18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Flutter Web] onCallでCloud Functionsの関数を呼び出す",
+      "author" : "@Hiiisan",
+      "day" : 10,
+      "url" : "https://qiita.com/Hiiisan/items/6f249386d8ca50a63854"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "riverpodでDropdownButtonを実装する",
+      "author" : "@j_y_shin",
+      "day" : 11,
+      "url" : "https://www.kamo-it.org/blog/dropdown_button/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Flutter Web] VRouterを使ってURLからパラメータを取得する",
+      "author" : "@Hiiisan",
+      "day" : 12,
+      "url" : "https://qiita.com/Hiiisan/items/82acbd98928fc84e9bfd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】市松模様を作る方法",
+      "author" : "@tomkirin",
+      "day" : 13,
+      "url" : "https://www.kamo-it.org/blog/flutter-checkered-pattern/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "可茂IT塾エンジニア紹介【makumaaku】",
+      "author" : "@catchhitomiya",
+      "day" : 14,
+      "url" : "https://lo-hitomiya.com/?p=8589&preview=true"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterでprimarySwatchをcustomする方法",
+      "author" : "@makumaaku",
+      "day" : 15,
+      "url" : "https://qiita.com/makumaaku/items/d4eb3b43044f53eef977"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】Flutter_ttsを使ってテキスト読み上げアプリを作る【全文あり・コピペOK】",
+      "author" : "@iimori",
+      "day" : 16,
+      "url" : "https://zenn.dev/imorin_basson/articles/a34664a048e6d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Node.js] Nodemailerで２通以上同時にメールを送信する",
+      "author" : "@Hiiisan",
+      "day" : 17,
+      "url" : "https://qiita.com/Hiiisan/items/6c653595b29580084958"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "riverpodでimage_pickerを実装",
+      "author" : "@j_y_shin",
+      "day" : 18,
+      "url" : "https://www.kamo-it.org/blog/image_picker/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カウンターアプリから新しいアプリを作る",
+      "author" : "@ichirole",
+      "day" : 19,
+      "url" : "https://www.kamo-it.org/blog/counter_app_1/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カウンターアプリから新しいアプリを作る(初心者向け)続き",
+      "author" : "@ichirole",
+      "day" : 20,
+      "url" : "https://www.kamo-it.org/blog/counter_app_2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "可茂IT塾エンジニア紹介【Hiroki】",
+      "author" : "@catchhitomiya",
+      "day" : 21,
+      "url" : "https://lo-hitomiya.com/blog_works/8596.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Flutter] オブジェクトを含んだFreezedクラスをJSONに変換する",
+      "author" : "@Hiiisan",
+      "day" : 22,
+      "url" : "https://www.kamo-it.org/blog/freezed_object_error/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "可茂IT塾エンジニア紹介【Ken】",
+      "author" : "@catchhitomiya",
+      "day" : 23,
+      "url" : "https://lo-hitomiya.com/blog_works/8592.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackで『Colla』を使ってみた",
+      "author" : "@YoshiakiOshima",
+      "day" : 24,
+      "url" : "https://www.kamo-it.org/blog/colla/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2022年の可茂IT塾未来予想図",
+      "author" : "@kamo_it_juku",
+      "day" : 25,
+      "url" : "https://www.kamo-it.org/blog/kamoit-2021-after/"
+    }
+  ]
+}

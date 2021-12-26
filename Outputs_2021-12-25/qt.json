@@ -1,0 +1,294 @@
+{
+  "created_at" : "2021-12-26T00:31:03Z",
+  "calendar_meta_data" : {
+    "author" : "@helicalgear",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 44,
+    "subscribers" : 20,
+    "title" : "Qt Advent Calendar 2021",
+    "participants" : 8,
+    "unique_name" : "qt",
+    "url" : "https://qiita.com/advent-calendar/2021/qt"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の Qt Project に対する貢献を振り返る",
+      "author" : "@task_jp",
+      "day" : 1,
+      "url" : "https://qiita.com/task_jp/items/e6e9e8fcead5a68b571f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQtのドラッグ&ドロップの使い方",
+      "author" : "@phyblas",
+      "day" : 2,
+      "url" : "https://qiita.com/phyblas/items/fbf71baf48460862c83f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qt で Quite OK Image を表示する",
+      "author" : "@task_jp",
+      "day" : 3,
+      "url" : "https://qiita.com/task_jp/items/e7e1c328aa4160b7a629"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qt にバグ報告をして直してもらいました",
+      "author" : "@task_jp",
+      "day" : 4,
+      "url" : "https://qiita.com/task_jp/items/e6f29c32562ca6af840b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ① Hello World ",
+      "author" : "@hoshianaaa",
+      "day" : 5,
+      "url" : "https://qiita.com/hoshianaaa/items/21b17088e8e6dc3481c3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ➁ ツールやモジュールのまとめ",
+      "author" : "@hoshianaaa",
+      "day" : 6,
+      "url" : "https://qiita.com/hoshianaaa/items/301f07e6e87abb6979a3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ③ Qt Designerを使う",
+      "author" : "@hoshianaaa",
+      "day" : 7,
+      "url" : "https://qiita.com/hoshianaaa/items/52f653d834ee1e5c9402"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ④ Signals & Slots",
+      "author" : "@hoshianaaa",
+      "day" : 8,
+      "url" : "https://qiita.com/hoshianaaa/items/5324b37b0fd085f47403"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ⑤ レイアウト管理",
+      "author" : "@hoshianaaa",
+      "day" : 9,
+      "url" : "https://qiita.com/hoshianaaa/items/d4367241211173e06d30"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ➅ Basic Widgets",
+      "author" : "@hoshianaaa",
+      "day" : 10,
+      "url" : "https://qiita.com/hoshianaaa/items/3752422ea45d716ad371"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ➆ QDialog Class",
+      "author" : "@hoshianaaa",
+      "day" : 11,
+      "url" : "https://qiita.com/hoshianaaa/items/b795075c0b308e97d072"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@helicalgear"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qt の動的言語切り替え",
+      "author" : "@Atsushi4",
+      "day" : 13,
+      "url" : "https://qiita.com/Atsushi4/items/39b0c8e190b552f249e7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ➇ QMessageBox",
+      "author" : "@hoshianaaa",
+      "day" : 14,
+      "url" : "https://qiita.com/hoshianaaa/items/c72852f76adf7f160335"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ➈ Multiple Document Interface",
+      "author" : "@hoshianaaa",
+      "day" : 15,
+      "url" : "https://qiita.com/hoshianaaa/items/b54b7876f17ffc57f7d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ➉ ~ドラッグ&ドロップ機能",
+      "author" : "@hoshianaaa",
+      "day" : 16,
+      "url" : "https://qiita.com/hoshianaaa/items/4eab0a936a9232e8a5f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ⑪ ~ 描画関数について",
+      "author" : "@hoshianaaa",
+      "day" : 17,
+      "url" : "https://qiita.com/hoshianaaa/items/1a2552c91d42912430a2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5のチュートリアルを動かす ⑫ ~ QPixmapClassについて",
+      "author" : "@hoshianaaa",
+      "day" : 18,
+      "url" : "https://qiita.com/hoshianaaa/items/05791e6518f26bca50d7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スライダーとスピンボックスを連動させる",
+      "author" : "@tukimi002-madoka",
+      "day" : 19,
+      "url" : "https://qiita.com/tukimi002-madoka/items/57094533e614c48216bf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QtでOpenGL入門 - 補足・訂正-",
+      "author" : "@hermit4",
+      "day" : 20,
+      "url" : "https://qiita.com/hermit4/items/6f9d3e6405368baff512"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qt複数Widgetの切り替え",
+      "author" : "@hoshianaaa",
+      "day" : 21,
+      "url" : "https://qiita.com/hoshianaaa/items/5fa5631c11a83395ef45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PyQt5 QToolBarを使ってみる",
+      "author" : "@hoshianaaa",
+      "day" : 22,
+      "url" : "https://qiita.com/hoshianaaa/items/3b172603100f9b219cc4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qt Creatorでcmakeからビルドする方法",
+      "author" : "@hoshianaaa",
+      "day" : 23,
+      "url" : "https://qiita.com/hoshianaaa/items/8a8b93a4b75c87a17d25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Qt Creator buttonでQStackedWidgetのページ切り替え",
+      "author" : "@hoshianaaa",
+      "day" : 24,
+      "url" : "https://qiita.com/hoshianaaa/items/1d678c919ed5abac7a76"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "だからボクはオブジェクト指向が使いこなせない Qt/C++編",
+      "author" : "@argama147",
+      "day" : 25,
+      "url" : "https://qiita.com/argama147/items/f75acc31e8ce2868cb85"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "QTableWidget 使い方まとめ (PyQt5/Qt Creator C++)",
+      "author" : "@hoshianaaa",
+      "day" : 8,
+      "url" : "https://qiita.com/hoshianaaa/items/8b66ef7f2dcb46dad312"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Qt Creator/C++ サブクラス/サブプロジェクトの扱い方 メモ",
+      "author" : "@hoshianaaa",
+      "day" : 9,
+      "url" : "https://qiita.com/hoshianaaa/items/c7135442b9b8e280afec"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

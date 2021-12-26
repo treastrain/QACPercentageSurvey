@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:59:47Z",
+  "calendar_meta_data" : {
+    "author" : "@toomeeto",
+    "category" : "企業・学校・団体",
+    "lgtm" : 488,
+    "subscribers" : 6,
+    "title" : "RUNTEQ Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "runteq",
+    "url" : "https://qiita.com/advent-calendar/2021/runteq"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "個人アプリで使用しているFirebaseをv9に移行した",
+      "author" : "@ShotaroHirose59",
+      "day" : 1,
+      "url" : "https://qiita.com/ShotaroHirose59/items/23565641612ebfee596a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ロジックをモデルに移す」よりシンプルなファットコントローラの解消法【個人開発で学んだこと】",
+      "author" : "@a0ki-github",
+      "day" : 2,
+      "url" : "https://qiita.com/a0ki-github/items/dc9c4bd353f8bf13c94a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【LINE×Rails】Rails初学者も作れるLINE Botアプリケーション",
+      "author" : "@Tsuchiy_2",
+      "day" : 3,
+      "url" : "https://qiita.com/Tsuchiy_2/items/4e8c038f58c23b57b0be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Hugoでブログを作ろう",
+      "author" : "@aiandrox",
+      "day" : 4,
+      "url" : "https://blog.aiandrox.com/posts/tech/2021/12/04/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gemを使ってスクレイピングしてみた",
+      "author" : "@riu0909",
+      "day" : 5,
+      "url" : "https://qiita.com/riu0909/items/1f2e51d8af2f928ee821"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TensorFlow.js + MoveNetでジョジョ立ちの姿勢推定を行う",
+      "author" : "@yamamoto-kohei1111",
+      "day" : 6,
+      "url" : "https://qiita.com/yamamoto-kohei1111/items/9b4f43dfe19cd42011ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rails】ユーザーの状態に応じた対話機能をLINEbotで実現する【LINE Messaging API】",
+      "author" : "@hasu_min",
+      "day" : 7,
+      "url" : "https://qiita.com/hasu_min/items/ca16bec7ee0f50253239"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Apex Community (動画のアップロード)",
+      "author" : "@rinoue73",
+      "day" : 8,
+      "url" : "https://qiita.com/rinoue73/items/347064c78010c3a17f62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vision APIで物体検出した画像に四角い枠を描画する方法【Canvas】",
+      "author" : "@taiju365",
+      "day" : 9,
+      "url" : "https://qiita.com/taiju365/items/f9fe5aef1938381b3199"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "道を文字列に変換して保存する方法【Google Map JavaScript API, Ruby】",
+      "author" : "@Kei5665",
+      "day" : 10,
+      "url" : "https://qiita.com/Kei5665/items/faaaada005cb16da14df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rails】自己結合関連付けでお酒の順番を表現してみた。",
+      "author" : "@subaru-hello",
+      "day" : 11,
+      "url" : "https://qiita.com/subaru-hello/items/ce8d02e4bde17ada0b82"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Gem]SakeRubyで特定名称酒を完全に理解する",
+      "author" : "@watsumi_",
+      "day" : 12,
+      "url" : "https://qiita.com/watsumi_/items/40d142d26595bb77bcb3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rails】実用的！予約数の上限を設定し数字で予約を管理するロジック",
+      "author" : "@TakeKata",
+      "day" : 13,
+      "url" : "https://qiita.com/TakeKata/items/953ddc4137741595d7d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "YouTube Data APIで登録チャンネルのリストを取得する",
+      "author" : "@Tako_no_Smith",
+      "day" : 14,
+      "url" : "https://qiita.com/Tako_no_Smith/items/9237dd3666dde5a02bbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "僕のポートフォリオ！Untangled_pasta_treesの仕様や技術について(jqueryでの動的な要素追加について詳しく書きます！)",
+      "author" : "@yoshidashota0328",
+      "day" : 15,
+      "url" : "https://qiita.com/yoshidashota0328/items/43ac07100e1b06ff435a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラクラク！Sorceryを用いたゲストログインの実装",
+      "author" : "@_kaze0000",
+      "day" : 16,
+      "url" : "https://qiita.com/_kaze0000/items/34a99f4a58340ab6863c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Party.js】で魔法使いになってみた（基本的な使い方から〜カスタマイズまで）【JavaScript / ポートフォリオ / UX】",
+      "author" : "@ToufuP",
+      "day" : 17,
+      "url" : "https://qiita.com/ToufuP/items/805739258e3cd3f5afb2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Teachable Machineを使ってスマホでパンケーキの焼き加減を画像認識させてみた",
+      "author" : "@aiba-22",
+      "day" : 18,
+      "url" : "https://qiita.com/aiba-22/items/4ac1911c573babdbdeaf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RailsでFace APIを扱うので噛み砕いてみた◎",
+      "author" : "@Akinari0919",
+      "day" : 19,
+      "url" : "https://qiita.com/Akinari0919/items/46042dedc8482073ca4f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【個人開発】居酒屋で「すいませーん」という声が通るかを、文字起こしAPIで判定する",
+      "author" : "@m_asa_o",
+      "day" : 20,
+      "url" : "https://qiita.com/m_asa_o/items/9c371dcf96de6e2c12cc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初学者必見】 HerokuとAWS S3を連携して投稿画像を保持する方法",
+      "author" : "@jibiking",
+      "day" : 21,
+      "url" : "https://qiita.com/jibiking/items/0e8c1d826271ac9e4a7d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ポートフォリオの素人臭さを消す方法",
+      "author" : "@hisaju",
+      "day" : 22,
+      "url" : "https://tech.blog.hisaju.org/2021/12/22/amateur-portfolio/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルでスクレイピングを行い、S3を経由してHerokuのDBを定期更新する方法",
+      "author" : "@y_waic",
+      "day" : 23,
+      "url" : "https://qiita.com/y_waic/items/c0b74051cab272940923"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Rails】環境変数使うならHeroku側にも設定しないと当然エラーが出る件",
+      "author" : "@NyrvhPZFAPuWSFe",
+      "day" : 24,
+      "url" : "https://qiita.com/NyrvhPZFAPuWSFe/items/b26e760ce10950ac7f3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスなのでラズパイでイルミネーションしてみた",
+      "author" : "@HBKK",
+      "day" : 25,
+      "url" : "https://qiita.com/HBKK/items/181e59dc93ebe8432a00"
+    }
+  ]
+}

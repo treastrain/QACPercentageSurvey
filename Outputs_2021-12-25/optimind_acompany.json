@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:13:45Z",
+  "calendar_meta_data" : {
+    "author" : "@kenseitogari1",
+    "category" : "企業・学校・団体",
+    "lgtm" : 33,
+    "subscribers" : 2,
+    "title" : "OPTIMIND x Acompany Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "optimind_acompany",
+    "url" : "https://qiita.com/advent-calendar/2021/optimind_acompany"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "会社組織におけるマジックナンバー150",
+      "author" : "@dododo8m",
+      "day" : 1,
+      "url" : "https://note.com/dododo_8m/n/nc409618db089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Atcoderで水色になるまでにやったこと",
+      "author" : "@ryosuke_nu",
+      "day" : 2,
+      "url" : "https://note.com/ryosuke_nu/n/n50c163723836"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ユニコーン企業5社だけ…まだまだ国内スタートアップは厳しい",
+      "author" : "@hikaru09",
+      "day" : 3,
+      "url" : "https://note.com/nehiru09/n/n22bba773f042"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オブジェクト指向以外は悪！という風潮なので調査してみる",
+      "author" : "@watason",
+      "day" : 4,
+      "url" : "https://qiita.com/watason/items/645a0c20211318b1fde3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務用SaaSプロダクトのプライシングを考える際に整理すべき３つの軸",
+      "author" : "@shiichi",
+      "day" : 5,
+      "url" : "https://note.com/shiichi/n/n9c63c75eda6b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "numクレートを使って数値計算を複数の型に対して記述する",
+      "author" : "@yoman_op",
+      "day" : 6,
+      "url" : "https://qiita.com/yoman_op/items/ac57149be9f30b94b43e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "競プロについて書きます",
+      "author" : "@KotaTakahashi",
+      "day" : 7,
+      "url" : "https://note.com/kota_takahashi_/n/nb67911ce6f13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Mac】30分でミライアカリにバ美肉してビデオ会議するまでのログ",
+      "author" : "@tktktktk",
+      "day" : 8,
+      "url" : "https://qiita.com/tktktktk/items/a024b9df15efe7b36ad6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "マルチステージビルドを使ってDockerfileで複数のステージを継承しながらイメージを定義する方法",
+      "author" : "@come2ry",
+      "day" : 9,
+      "url" : "https://qiita.com/come2ry/items/98b0bb70e29821b52ba0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "牛ゲーが最短経路問題に帰着する理由をふんわりと理解する",
+      "author" : "@horiso",
+      "day" : 10,
+      "url" : "https://qiita.com/horiso/items/ca818df8ddbc5be58ec1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Typescriptでオーバーロード",
+      "author" : "@mdonaka",
+      "day" : 11,
+      "url" : "https://chut1130m.hatenablog.com/entry/2021/12/11/204622"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DatadogのSlackへの通知をTerraformで管理することで「アラート設定ぐちゃぐちゃなんだけど...」を撲滅する",
+      "author" : "@kenseitogari1",
+      "day" : 12,
+      "url" : "https://zenn.dev/kenseitogari/articles/f2c1ca7dac7b72"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "秘密計算を全く知らなかったデザイナーがAcompanyに入ってみて",
+      "author" : "@shiori-nojiri",
+      "day" : 13,
+      "url" : "https://note.com/shiori_nojiri/n/n13eac827117f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Are you Cool? Are you Hacker?",
+      "author" : "@m06horio",
+      "day" : 14,
+      "url" : "https://note.com/m06horio/n/n62706c35241f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コンテナを介して攻撃者にボコボコにされないためのtips",
+      "author" : "@YuasaJunki",
+      "day" : 15,
+      "url" : "https://qiita.com/YuasaJunki/items/8da1ef708a6f826f5915"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "秘密計算の事例を書きます(おそらく海外のもの)",
+      "author" : "@keisuke_arai_aoa",
+      "day" : 16,
+      "url" : "https://note.com/twelni17/n/n758a9f607619"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【秘密計算】マルチパーティ計算のOSSを使って雰囲気を掴んでみよう！",
+      "author" : "@tktktktk",
+      "day" : 17,
+      "url" : "https://qiita.com/tktktktk/items/1f1a09c5d77677e85b4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大学1年生がスタートアップでインターンを始めるまでの話",
+      "author" : "@Hayapon_0206",
+      "day" : 18,
+      "url" : "https://note.com/mogar1bue/n/nfb3d9e79bf2d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ipyleafletを用いた簡単かつインタラクティブな地図データの可視化",
+      "author" : "@kashee337",
+      "day" : 19,
+      "url" : "https://qiita.com/kashee337/items/bf131298bd2d970d857f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "console.logでMac版Firefoxをクラッシュさせる。",
+      "author" : "@iBotchME",
+      "day" : 20,
+      "url" : "https://qiita.com/iBotchME/items/1a78f3d6e983450ddd5b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Docker (ubuntu 18.04) + Bazel + grpc + c++20 + boost をビルドする方法",
+      "author" : "@watason",
+      "day" : 21,
+      "url" : "https://qiita.com/watason/items/8ce0d4595e6799cd46b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "圏論のモナドからHaskellのモナドの定義を確認する",
+      "author" : "@izu_nori",
+      "day" : 22,
+      "url" : "https://qiita.com/izu_nori/items/cb0a83db19204b394778"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "次の日がエントリなので乗じてエントリ書く",
+      "author" : "@hikaru09",
+      "day" : 23,
+      "url" : "https://note.com/nehiru09/n/ncd275f111ebe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "独立しても起業しても満足できない男の「会社辞めてみた」",
+      "author" : "@johnmackay150",
+      "day" : 24,
+      "url" : "https://note.com/mackay150/n/n97bf4f5604f3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Acompanyのアカン期（暗中模索時代）の話をしようと思う",
+      "author" : "@ryosuke_nu",
+      "day" : 25,
+      "url" : "https://note.com/ryosuke_nu/n/n7f6ac3732c5f"
+    }
+  ]
+}

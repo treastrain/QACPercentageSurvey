@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T00:21:34Z",
+  "calendar_meta_data" : {
+    "author" : "@wx257osn2",
+    "category" : "プログラミング言語",
+    "lgtm" : 93,
+    "subscribers" : 121,
+    "title" : "C++ Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "cxx",
+    "url" : "https://qiita.com/advent-calendar/2021/cxx"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Modulesのコンパイル（MSVC ver）とBMIについて",
+      "author" : "@hr_sao",
+      "day" : 1,
+      "url" : "http://h-sao.com/blog/2021/12/01/about-cpp-modules/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "`__perfect_forward` の仕組みと使い方",
+      "author" : "@acd1034",
+      "day" : 2,
+      "url" : "https://zenn.dev/acd1034/articles/509b011bdf9917"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "代替トークン",
+      "author" : "@kariya-mitsuru",
+      "day" : 3,
+      "url" : "https://zenn.dev/kariya_mitsuru/articles/f7776a1a1acb70"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "algorithm系関数に状態を持つ関数オブジェクトを生で渡すのはやめてください、しんでしまいます",
+      "author" : "@yumetodo",
+      "day" : 4,
+      "url" : "https://qiita.com/yumetodo/items/c139fc4d1d08f17b26e2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "安全で便利なstd::bit_castを使おう",
+      "author" : "@lpha_z",
+      "day" : 5,
+      "url" : "https://lpha-z.hatenablog.com/entry/2021/12/05/231500"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual C++ プロジェクト(.vcxproj) を新規作成した場合に定義されるプリプロセッサマクロ ",
+      "author" : "@hkuno",
+      "day" : 6,
+      "url" : "https://qiita.com/hkuno/items/68b8b174428bb4ca32e8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "owning_viewによるパイプライン安全性",
+      "author" : "@onihusube9",
+      "day" : 7,
+      "url" : "https://onihusube.hatenablog.com/entry/2021/12/07/012201"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "平らな地図のこと",
+      "author" : "@Flast_RO",
+      "day" : 8,
+      "url" : "https://flast.hateblo.jp/entry/2021/12/08/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Facebook 改め Meta 社の静的解析ツール Infer を GitHub Actions でかける",
+      "author" : "@srz_zumix",
+      "day" : 9,
+      "url" : "https://srz-zumix.blogspot.com/2021/12/facebook-meta-infer-github-actions.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "⚰️C++的ゾンビのお名前🧟",
+      "author" : "@yohhoy",
+      "day" : 10,
+      "url" : "https://qiita.com/yohhoy/items/443e81c576949ed64916"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "多相再帰とconstexpr if",
+      "author" : "@takkyu",
+      "day" : 11,
+      "url" : "https://takkyu.net/ja/polymorphic-recursion/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[コルーチン]operator co_await と await_transform",
+      "author" : "@tyanmahou",
+      "day" : 12,
+      "url" : "https://qiita.com/tyanmahou/items/522ea1c592db3468940c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "C++20指示付き初期化を使って定義順をうっかり間違えることを防ぐマクロは必要だろうか(反語)",
+      "author" : "@yumetodo",
+      "day" : 13,
+      "url" : "https://qiita.com/yumetodo/items/24900e63aaa9ef8e1100"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "可変長テンプレートでもstd::source_locationを使いたい！",
+      "author" : "@niina",
+      "day" : 14,
+      "url" : "https://in-neuro.hatenablog.com/entry/2021/12/15/000033"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "🕒時刻計算と📅カレンダー計算は違うよ。全然違うよ。",
+      "author" : "@yohhoy",
+      "day" : 15,
+      "url" : "https://qiita.com/yohhoy/items/d1f9004c66cc6ff15774"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Visual Studio でライブラリなど外部コードの警告を出さないようにする方法",
+      "author" : "@srz_zumix",
+      "day" : 16,
+      "url" : "https://srz-zumix.blogspot.com/2021/12/visual-studio.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "std::stringをキーとする（非順序）連想コンテナでHeterogeneous Overloadを有効化する",
+      "author" : "@onihusube9",
+      "day" : 17,
+      "url" : "https://onihusube.hatenablog.com/entry/2021/12/17/002236"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NoSQLドキュメント指向 組み込みデータベースCouchbase Lite 3.0.0 ベータにおけるC/C++サポート",
+      "author" : "@yoshiyuki_kono",
+      "day" : 18,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/e413a6f57a12fe365840"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メタ関数だらけのコンパイル時世界",
+      "author" : "@tomolatoon",
+      "day" : 19,
+      "url" : "https://qiita.com/tomolatoon/items/c21fa6a5d86e78e8b772"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenCL C++ on NVIDIA GPU",
+      "author" : "@wx257osn2",
+      "day" : 20,
+      "url" : "https://zenn.dev/wx257osn2/articles/opencl_cxx_on_nvidia_gpu-askjdhw"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ExecutorとNetworking TSで起きていたこと",
+      "author" : "@onihusube9",
+      "day" : 21,
+      "url" : "https://onihusube.hatenablog.com/entry/2021/12/23/190053"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "bool 型を強くする YesNo クラス",
+      "author" : "@Reputeless",
+      "day" : 22,
+      "url" : "https://zenn.dev/reputeless/articles/cpp-article-yesno"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ライブラリの String クラスのエンコーディングに UTF-32 を選んだ話",
+      "author" : "@lriki",
+      "day" : 23,
+      "url" : "https://qiita.com/lriki/items/c1165fd246feb5f0f0e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メモリリークを検出するためにnew/deleteをフックしてみた",
+      "author" : "@rsm223_rip",
+      "day" : 24,
+      "url" : "https://qiita.com/rsm223_rip/items/372fe0768b68d6ed5b49"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MISRA C++, AUTOSAR C++について",
+      "author" : "@kaizen_nagoya",
+      "day" : 25,
+      "url" : "https://qiita.com/kaizen_nagoya/items/3436fbd49865e0da7d35"
+    }
+  ]
+}

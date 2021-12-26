@@ -1,0 +1,158 @@
+{
+  "created_at" : "2021-12-25T20:23:50Z",
+  "calendar_meta_data" : {
+    "author" : "NECソリューションイノベータ株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 130,
+    "subscribers" : 3,
+    "title" : "NECソリューションイノベータ Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "nec_solution_innovators",
+    "url" : "https://qiita.com/advent-calendar/2021/nec_solution_innovators"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "LIFFでWebSpeechAPI(音声認識)が動くのか試してみた",
+      "author" : "@stake15",
+      "day" : 1,
+      "url" : "https://qiita.com/stake15/items/6d5133381125a3b2da53"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "外国の方とのZoomリモート会議に参加したよ、多国語会議で共有メモの翻訳を半自動化してみたよ：（Web翻訳サービスとRPA Sikulixを使ってZoomホワイトボード上でやってみました）",
+      "author" : "@k-hideo",
+      "day" : 8,
+      "url" : "https://qiita.com/k-hideo/items/b3c0ba1beaad56e9099e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "react-springでアニメーションをやってみた",
+      "author" : "@stake15",
+      "day" : 9,
+      "url" : "https://qiita.com/stake15/items/ec93c86f682945ae4719"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パッケージマネージャのライセンス情報がいい加減すぎて困る件",
+      "author" : "@n-shima",
+      "day" : 10,
+      "url" : "https://qiita.com/n-shima/items/11e96b5d1b94cf7b4a5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Cognito、IDプールの用途についての一考察",
+      "author" : "@Shoji_Akihiko",
+      "day" : 11,
+      "url" : "https://qiita.com/Shoji_Akihiko/items/3079c17e352b65c2e902"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actions で OWASP ZAP が動くだと!?",
+      "author" : "@r-hirakawa",
+      "day" : 12,
+      "url" : "https://qiita.com/r-hirakawa/items/b6ae6a749a6f7a7c5db7"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "外国の方とのZoomリモート会議に参加したよ、多国語会議で共有メモの翻訳自動化で改善してみる：（Web翻訳サービスとPowerShell Seleniumを使ってConfluenceミーティング議事録上でやってみます）",
+      "author" : "@k-hideo",
+      "day" : 15,
+      "url" : "https://qiita.com/k-hideo/items/e2891b9efc71be1ea44c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ノーコードツール「Bubble」に触れて思うこと",
+      "author" : "@swaji",
+      "day" : 16,
+      "url" : "https://qiita.com/swaji/items/42cb0947b29f4f3fe095"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google流 資料作成術 自主練",
+      "author" : "@yokota-001",
+      "day" : 17,
+      "url" : "https://qiita.com/yokota-001/items/789d9044df44e2c464a5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テレワークでの働き方はモブワークがいいと思う",
+      "author" : "@tak-mogi",
+      "day" : 19,
+      "url" : "https://qiita.com/tak-mogi/items/408b787245f932c49f63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Spring Boot 2.5 -> 2.6 に上げるときに Mockito のバージョンアップで困った話",
+      "author" : "@m-saitou",
+      "day" : 20,
+      "url" : "https://qiita.com/m-saitou/items/33d6cac074457e2a02a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "aws-cdkを使って恋人(？)をLINE Botでつくってみた",
+      "author" : "@r-mizuno",
+      "day" : 21,
+      "url" : "https://qiita.com/r-mizuno/items/370024e6185e584dc1b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@k-hideo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React初心者がAWS Amplify Studioで登録フォーム作ってみた",
+      "author" : "@iwahiro0823",
+      "day" : 24,
+      "url" : "https://qiita.com/iwahiro0823/items/e95fdfc2857df4a4e1b6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Yahoo! JAPANのデータ分析ツールを使ってみた！",
+      "author" : "@utake",
+      "day" : 25,
+      "url" : "https://qiita.com/utake/items/6f94626ff23d748e6acc"
+    }
+  ]
+}

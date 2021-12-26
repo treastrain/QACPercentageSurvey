@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-26T04:18:05Z",
+  "calendar_meta_data" : {
+    "author" : "@frodo821",
+    "category" : "プログラミング言語",
+    "lgtm" : 33,
+    "subscribers" : 33,
+    "title" : "Nim Advent Calendar 2021",
+    "participants" : 11,
+    "unique_name" : "nim",
+    "url" : "https://qiita.com/advent-calendar/2021/nim"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "シグナルを受信して安全に停止するプログラムを作る",
+      "author" : "@jiro4989",
+      "day" : 1,
+      "url" : "https://qiita.com/jiro4989/items/da18839ec717c8b30863"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NimでWebAssemblyをやる【2021年版】",
+      "author" : "@frodo821",
+      "day" : 2,
+      "url" : "https://qiita.com/frodo821/items/7b0849581a2ea4030019"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Dimscord】Nim で Discord Bot を作る",
+      "author" : "@gaato",
+      "day" : 3,
+      "url" : "https://qiita.com/gaato/items/cd516252ad3105dc5162"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nimでアプリケーション開発をするための設計のベストプラクティス",
+      "author" : "@dumblepy",
+      "day" : 4,
+      "url" : "https://qiita.com/dumblepy/items/8d13592d6760d0155d89"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NimでResult[T, E]型を定義する",
+      "author" : "@momeemt",
+      "day" : 5,
+      "url" : "https://zenn.dev/momeemt/articles/nim-result-t-e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nim で TwitterAPIv2 (OAuth1) 叩こうと思ってミスった話",
+      "author" : "@imtanization",
+      "day" : 6,
+      "url" : "https://qiita.com/imtanization/items/ba6378dbcb23b45d5711"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【翻訳記事】Pipelines - .Net の新しい IO API のツアーガイド, part 1 -",
+      "author" : "@hitoshi44",
+      "day" : 7,
+      "url" : "https://qiita.com/hitoshi44/items/7a05c607a53dcad704f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Nimで作るCLIのクロスプラットフォーム提供所感",
+      "author" : "@attakei",
+      "day" : 8,
+      "url" : "https://zenn.dev/attakei/articles/nim-cross-build-env"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VSCodeで始めるNimプログラミング",
+      "author" : "@flat_leon",
+      "day" : 9,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_with_vscode"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NimでSelenium",
+      "author" : "@pianopia",
+      "day" : 10,
+      "url" : "https://qiita.com/pianopia/items/79cc7879cd30f471e1b9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NimでElectron（デスクトップアプリ）",
+      "author" : "@pianopia",
+      "day" : 11,
+      "url" : "https://qiita.com/pianopia/items/e0a1453245a4355ac422"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Nim 1.6】includeから脱却してモジュールシステム上でプライベートシンボルにアクセスする",
+      "author" : "@momeemt",
+      "day" : 12,
+      "url" : "https://zenn.dev/momeemt/articles/nim-all-pragma-module-system"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@dumblepy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@dumblepy"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "公式より便利なオンライン実行環境「Wandbox」の紹介",
+      "author" : "@flat_leon",
+      "day" : 15,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_with_wandbox"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NimでC++のdynamic_cast相当のことを行う",
+      "author" : "@flat_leon",
+      "day" : 16,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_dynamic_cast"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2つの型が同一かどうかを判定する",
+      "author" : "@flat_leon",
+      "day" : 17,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_same_type_check"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "basolatoで簡単な投票アプリ作ってみる",
+      "author" : "@2Runacy",
+      "day" : 18,
+      "url" : "https://qiita.com/2Runacy/items/7253de256bbbe11ae1fc"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@momeemt"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XMLをDOMで読み込む",
+      "author" : "@flat_leon",
+      "day" : 20,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_xml_dom_parser"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文字列リテラルと書式について",
+      "author" : "@flat_leon",
+      "day" : 21,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_string_literal_and_format"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@momeemt"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "弱参照を実装してみる",
+      "author" : "@flat_leon",
+      "day" : 23,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_weak_ref"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無名プロシージャの書き方まとめ",
+      "author" : "@flat_leon",
+      "day" : 24,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_anonymous_proc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お手軽契約プログラミング",
+      "author" : "@flat_leon",
+      "day" : 25,
+      "url" : "https://flat-leon.hatenablog.com/entry/nim_contract_programming"
+    }
+  ]
+}

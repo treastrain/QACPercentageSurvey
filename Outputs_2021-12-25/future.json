@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-26T04:19:08Z",
+  "calendar_meta_data" : {
+    "author" : "フューチャー株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 217,
+    "subscribers" : 16,
+    "title" : "フューチャー Advent Calendar 2021",
+    "participants" : 23,
+    "unique_name" : "future",
+    "url" : "https://qiita.com/advent-calendar/2021/future"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSの資格を全部取ったので思い出を振り返る",
+      "author" : "@masa_ito",
+      "day" : 1,
+      "url" : "https://qiita.com/masa_ito/items/48cda3651566768a1b11"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テックリードから先のマネジメントロールを経験してみて",
+      "author" : "@ma91n",
+      "day" : 2,
+      "url" : "https://qiita.com/ma91n/items/32accd43398301ada901"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "趣味の勉強、技術ブログ、勉強会、OSS、ネタ選びをどうするか?",
+      "author" : "@shibukawa",
+      "day" : 3,
+      "url" : "https://qiita.com/shibukawa/items/f4bc17743f23d2e0c3ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ネットワーク機器を買わずにオンプレのハンズオンがしたい - L2スイッチ編",
+      "author" : "@k-hnd",
+      "day" : 4,
+      "url" : "https://qiita.com/k-hnd/items/62c4a06906231ba4c859"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS KMSとOpenSSLでエンベロープ暗号化",
+      "author" : "@RuyPKG",
+      "day" : 5,
+      "url" : "https://qiita.com/RuyPKG/items/21d397516c2df2f0c45a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudWatch EventとLambdaでStepFunctions間のエラ－を伝搬する",
+      "author" : "@kazuyuki_yamashita",
+      "day" : 6,
+      "url" : "https://qiita.com/kazuyuki_yamashita/items/cf36b98c5d2fa83b38bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7,
+      "author" : "@tutuz"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PostgreSQL13で任意の時間までデータを巻き戻す方法 (PITR)",
+      "author" : "@yoko_masa",
+      "day" : 8,
+      "url" : "https://qiita.com/yoko_masa/items/d8af0a7e01e6f2044fba"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SwiftUIの実装例(MVVMパターン, CoreData, API実行+非同期処理)",
+      "author" : "@iwaaya",
+      "day" : 9,
+      "url" : "https://qiita.com/iwaaya/items/0b472c7cb8a0a9c66ed2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Terraform を使う前に考えること",
+      "author" : "@micci184",
+      "day" : 10,
+      "url" : "https://qiita.com/micci184/items/d22909c52f902c2ee5f0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【2021年版】Flutterの状態管理パターン総まとめ",
+      "author" : "@datake914",
+      "day" : 11,
+      "url" : "https://qiita.com/datake914/items/f91acf30a640447c57c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【入門】QuickSight × S3 でデータ可視化",
+      "author" : "@RuyPKG",
+      "day" : 12,
+      "url" : "https://qiita.com/RuyPKG/items/c32282fe57c33346a534"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "中小企業診断士試験の振り返り〜1次試験「経営情報システム」を中心に。",
+      "author" : "@yut0n",
+      "day" : 13,
+      "url" : "https://qiita.com/yut0n/items/ec6a61ce1a482e012772"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows11+WSL2+GPUでDeep Learning環境構築",
+      "author" : "@kazupc",
+      "day" : 14,
+      "url" : "https://qiita.com/kazupc/items/8539913b0dc328a4e6f2"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@kaedemalu"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Goで多段のファイル変換処理をしてみた",
+      "author" : "@hichika",
+      "day" : 16,
+      "url" : "https://qiita.com/hichika/items/25b0fceea4761214b6e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GORMでSQLインジェクションされるコードを書いてしまったので公式ドキュメントcontributeした",
+      "author" : "@dchular",
+      "day" : 17,
+      "url" : "https://qiita.com/dchular/items/f684536d9b7306032dd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TensorFlow Similarityを読み解いてみる",
+      "author" : "@nadare",
+      "day" : 18,
+      "url" : "https://qiita.com/nadare/items/6434d97c3b537db06759"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "量子コンピュータとジャンケンする",
+      "author" : "@orangekame3",
+      "day" : 19,
+      "url" : "https://qiita.com/orangekame3/items/2f1cde38a92f1289cd69"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@hichikawa1126"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スクワットが浅いと怒られる",
+      "author" : "@uhey22e",
+      "day" : 21,
+      "url" : "https://qiita.com/uhey22e/items/34e1f70bd30cc95b5ebd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AxumでGoのチュートリアル「Writing Web Application」をやってみた",
+      "author" : "@hayao0727",
+      "day" : 22,
+      "url" : "https://qiita.com/hayao0727/items/d05b4c3c0b05d219c3bc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サブスクリプションフィルターで、あるLambdaの出力したログを、別のLambdaに渡す",
+      "author" : "@RuyPKG",
+      "day" : 23,
+      "url" : "https://qiita.com/RuyPKG/items/d5bb75372a26b47161d3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AI Quest2021のススメ",
+      "author" : "@kmd252525",
+      "day" : 24,
+      "url" : "https://qiita.com/kmd252525/items/5b4caa25055238d5fb61"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "汎用的にパズルのソルバーを実装してみた",
+      "author" : "@wsysuper",
+      "day" : 25,
+      "url" : "https://qiita.com/wsysuper/items/be9fb7b5c660bd386129"
+    }
+  ]
+}

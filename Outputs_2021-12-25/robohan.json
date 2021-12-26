@@ -1,0 +1,136 @@
+{
+  "created_at" : "2021-12-25T17:28:38Z",
+  "calendar_meta_data" : {
+    "author" : "@hbvcg00",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 2,
+    "title" : "Robohan Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "robohan",
+    "url" : "https://qiita.com/advent-calendar/2021/robohan"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mbed OS 6上でNUCLEO-F767ZIでUDP通信を実装し、ROSと通信する（前編）",
+      "author" : "@hbvcg00",
+      "day" : 18,
+      "url" : "https://qiita.com/hbvcg00/items/552fb765530ebea3e4d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Angularでroslibjsを動かす",
+      "author" : "@hbvcg00",
+      "day" : 19,
+      "url" : "https://qiita.com/hbvcg00/items/2bc189727fb28ea84bd2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mbed OS 6上でNUCLEO-F767ZIでUDP通信を実装し、ROSと通信する（後編）",
+      "author" : "@hbvcg00",
+      "day" : 20,
+      "url" : "https://qiita.com/hbvcg00/items/83c29d91d4b382c511ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "格安lidar mb_1r2t 使ってみた",
+      "author" : "@hbvcg00",
+      "day" : 21,
+      "url" : "https://qiita.com/hbvcg00/items/f0ea7c59e0714220173b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロボコンサークルの新入生教育ってむずくね",
+      "author" : "@hbvcg00",
+      "day" : 22,
+      "url" : "https://qiita.com/hbvcg00/items/87691a4a226f3db9f83d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Mbed OSでCANの受信割り込みができない",
+      "author" : "@hbvcg00",
+      "day" : 23,
+      "url" : "https://qiita.com/hbvcg00/items/7c89f10a00d0c9005870"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "授業やサークルで初めてプログラミングする人に向けたTips",
+      "author" : "@hbvcg00",
+      "day" : 24,
+      "url" : "https://qiita.com/hbvcg00/items/423251db023c2f5e4bba"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

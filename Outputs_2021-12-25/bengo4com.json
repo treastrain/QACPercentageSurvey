@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T23:40:03Z",
+  "calendar_meta_data" : {
+    "author" : "弁護士ドットコム株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 131,
+    "subscribers" : 20,
+    "title" : "弁護士ドットコム Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "bengo4com",
+    "url" : "https://qiita.com/advent-calendar/2021/bengo4com"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "まだレビューでそんなやりとりしてるの？PHPStanとPHP-CS-Fixerを導入して楽しよう（Github Actionsを添えて）",
+      "author" : "@namizatork",
+      "day" : 1,
+      "url" : "https://qiita.com/namizatork/items/ca87de50d70d243b5f99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OpenSearch を使ってみる",
+      "author" : "@hkano",
+      "day" : 2,
+      "url" : "https://qiita.com/hkano/items/a097d6c2fa103752dce9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社からフルリモートワークの9ヶ月間を振り返ってみた",
+      "author" : "@k-anz",
+      "day" : 3,
+      "url" : "https://k-anz.hatenablog.com/entry/2021/12/03/074718"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JetBrains GatewayをSSM経由でEC2インスタンスに接続して、IDE(IntelliJ IDEA,PhpStorm, Go Land...)を使う",
+      "author" : "@shotanue",
+      "day" : 4,
+      "url" : "https://qiita.com/shotanue/items/ccbd8f013e923cbf2623"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GolangによるWebアプリのローカル開発環境サンプル",
+      "author" : "@datsukan",
+      "day" : 5,
+      "url" : "https://zenn.dev/datsukan/articles/19c15847382746"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Optimizeを使った様々なA/Bテストのパターン実装",
+      "author" : "@poemn",
+      "day" : 6,
+      "url" : "https://qiita.com/poemn/items/8aad193470fb0b47d867"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロダクト周りの文章校正をSlack botで半自動化してみた話",
+      "author" : "@shellme",
+      "day" : 7,
+      "url" : "https://note.com/shellme/n/nbfef26660270"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チームで内部API開発をするときのツール",
+      "author" : "@takky",
+      "day" : 8,
+      "url" : "https://qiita.com/takky/items/7781a8176526ea6fddc2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Step Functions を使った翻訳ワークフローを AWS CDK v2 (TypeScript) で構築してみた話",
+      "author" : "@michimani",
+      "day" : 9,
+      "url" : "https://michimani.net/post/aws-deploy-step-functions-state-machine-using-cdk-v2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプレッドシートでプロトタイピングしたら、良いことしかなかった",
+      "author" : "@takapiya",
+      "day" : 10,
+      "url" : "https://note.com/taka_piya/n/n439c8835f5a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Go言語】gockで外部WebサービスAPI テストを書く",
+      "author" : "@moritamorie",
+      "day" : 11,
+      "url" : "https://qiita.com/moritamorie/items/fd2f25e9ad81e8b1f5aa"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "育児ライフと在宅勤務",
+      "author" : "@ubonsa",
+      "day" : 12,
+      "url" : "https://qiita.com/ubonsa/items/58772a6c2cdc71c1a10e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オオカミ少年アラートを削減した話",
+      "author" : "@mmorino",
+      "day" : 13,
+      "url" : "https://qiita.com/mmorino/items/fd563703c22ccad9648f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Technology radar で面白そうな技術探してみた",
+      "author" : "@hide_shi_",
+      "day" : 14,
+      "url" : "https://qiita.com/hide_shi_/items/120d4f3aae2d816fc3ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "データレイク、データウェアハウス 、データマートの3層構造の分析基盤を運用する話",
+      "author" : "@t_odash",
+      "day" : 15,
+      "url" : "https://qiita.com/t_odash/items/a60b815a5773bd79ade8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "弁護士ドットコム、デザイン部の取り組み2021",
+      "author" : "@naito1224",
+      "day" : 16,
+      "url" : "https://note.com/cinnamone/n/n99bf5f38b7f4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GitHub Actionsとsemantic-releaseで、自動で高品質npmパッケージを一般公開する",
+      "author" : "@komtaki",
+      "day" : 17,
+      "url" : "https://qiita.com/komtaki/items/d89451aea1b146ca83d6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Supabaseで認証機能を作ってみる",
+      "author" : "@tttttt_621_s",
+      "day" : 18,
+      "url" : "https://zenn.dev/taka_shino/articles/bengo4-advent-calendar-18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Yii Framework 1.1 の autoload を理解する",
+      "author" : "@NaokiTsuchiya",
+      "day" : 19,
+      "url" : "https://qiita.com/NaokiTsuchiya/items/55418d4511f1b9a598a9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フォームデザインについて考えたこと 〜2021〜",
+      "author" : "@blkclct",
+      "day" : 20,
+      "url" : "https://qiita.com/blkclct/items/c3c6967edd8a790043c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パラパラ画像で3D表示させる、あのパラパラした画像の作り方を調べて作ってFlutterで表示させてみた",
+      "author" : "@edi_t",
+      "day" : 21,
+      "url" : "https://qiita.com/edi_t/items/578c0b18cc22f6733986"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Former2を使う上で注意するポイント",
+      "author" : "@chore",
+      "day" : 22,
+      "url" : "https://qiita.com/chore/items/9436f906d0c070acbcc4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンラインユーザーリサーチのすすめ",
+      "author" : "@shirauix",
+      "day" : 23,
+      "url" : "https://note.com/shirauix/n/n21d438c4936c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cypress Component Test Runner を Vue Vite で使ってみる",
+      "author" : "@t0daaay",
+      "day" : 24,
+      "url" : "https://qiita.com/t0daaay/items/c7fa204c30112ad6305e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DX白書 2021 と仮説検証サイクル",
+      "author" : "@xRx",
+      "day" : 25,
+      "url" : "https://qiita.com/xRx/items/b95849e16bdfaf0ffad4"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "created_at" : "2021-12-26T00:03:28Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社マイホム",
+    "category" : "企業・学校・団体",
+    "lgtm" : 6,
+    "subscribers" : 2,
+    "title" : "株式会社マイホム Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "myhm",
+    "url" : "https://qiita.com/advent-calendar/2021/myhm"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Slackリアクションランキング、特定のリアクションを受け取った、送った人を集計する",
+      "author" : "@naoqoo2",
+      "day" : 1,
+      "url" : "https://qiita.com/naoqoo2/items/e3f1de53a27ca374cf3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PHPstormでdocker コンテナに入る",
+      "author" : "@gomaaa",
+      "day" : 2,
+      "url" : "https://qiita.com/gomaaa/items/482b99fbab0192eff2bd"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VeeValidateでラジオ・チェック・セレクトボックスのバリデーションをする",
+      "author" : "@kokoe",
+      "day" : 6,
+      "url" : "https://qiita.com/kokoe/items/798a287e54542e2fcbb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@kokoe"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14,
+      "author" : "@kokoe"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実務でよく使うPHP8系 文法",
+      "author" : "@gomaaa",
+      "day" : 17,
+      "url" : "https://qiita.com/gomaaa/items/58bbaaa91f6fc7ab4561"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

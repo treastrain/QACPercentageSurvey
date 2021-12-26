@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-26T00:46:58Z",
+  "calendar_meta_data" : {
+    "author" : "@InaLab",
+    "category" : "プログラミング言語",
+    "lgtm" : 23,
+    "subscribers" : 95,
+    "title" : "Kotlin Advent Calendar 2021",
+    "participants" : 18,
+    "unique_name" : "kotlin",
+    "url" : "https://qiita.com/advent-calendar/2021/kotlin"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaでKotlinと同じくらい安全なコードを書く（前編）",
+      "author" : "@wrongwrong",
+      "day" : 1,
+      "url" : "https://qiita.com/wrongwrong/items/9b1a5c4f76128b43fa3e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaでKotlinと同じくらい安全なコードを書く（後編）",
+      "author" : "@wrongwrong",
+      "day" : 2,
+      "url" : "https://qiita.com/wrongwrong/items/edc8bc30387391323c6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlinのエントリポイントの話",
+      "author" : "@hisuie08",
+      "day" : 3,
+      "url" : "https://qiita.com/hisuie08/items/5e6409b23aa15ec51cf7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Kotlin] インターフェースの委任によるjava.time.Clockの利用",
+      "author" : "@sato_tats",
+      "day" : 4,
+      "url" : "https://qiita.com/sato_tats/items/8b8612897c63c19964c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlinのinline関数のパフォーマンスを調べる",
+      "author" : "@Mori-Atsushi",
+      "day" : 5,
+      "url" : "https://at-sushi.work/blog/47/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JavaのutilメソッドがKotlin拡張関数のなかまになりたそうにこちらをみている！",
+      "author" : "@oboenikui",
+      "day" : 6,
+      "url" : "https://www.m3tech.blog/entry/2021-12-06-kotlin-like-java"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Kotlin】data classで生成されるcopy関数の不都合な点について",
+      "author" : "@wrongwrong",
+      "day" : 7,
+      "url" : "https://qiita.com/wrongwrong/items/0c6795a4c4bc497b8d20"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kotlin-stdlib / kotlin.collectionsの紹介〜初心者編〜",
+      "author" : "@tsukakei",
+      "day" : 8,
+      "url" : "https://zenn.dev/tsukakei/articles/1277f24d365cef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlinアプリケーション開発に、NoSQLドキュメント指向モバイルデータベースCouchbase Liteを使ってみる",
+      "author" : "@yoshiyuki_kono",
+      "day" : 9,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/7755eb41c9fccd712c47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お手軽なコンポーネント依存性管理方法",
+      "author" : "@nakamura-to",
+      "day" : 10,
+      "url" : "https://qiita.com/nakamura-to/items/1c645cb0ffa711a6f3be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "safe call(?.)とelvis(?:)でNullableを上手く処理する",
+      "author" : "@b1ueflag",
+      "day" : 11,
+      "url" : "https://b1ueflag.com/posts/kotlin-safe-call-let-elvis-idiom/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KotestのBDDにおいてEachとContainerとTestは何が違うか",
+      "author" : "@b1ueflag",
+      "day" : 12,
+      "url" : "https://b1ueflag.com/posts/kotest-bdd-lifecycle-hooks/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KMMのインテグレーションテストのすゝめ",
+      "author" : "@kubode",
+      "day" : 13,
+      "url" : "https://www.wantedly.com/companies/wantedly/post_articles/365754"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Kotlin][Exposed] Lazy Loading と Eager Loading - DaoにおけるSELECT文の実際",
+      "author" : "@sato_tats",
+      "day" : 14,
+      "url" : "https://qiita.com/sato_tats/items/6ef8c220eedb32a42695"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "kotlin-stdlib / kotlin.collectionsの紹介〜初級編〜",
+      "author" : "@tsukakei",
+      "day" : 15,
+      "url" : "https://zenn.dev/tsukakei/articles/260f0adcfaaf9a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@tsukakei"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@YushiOMOTE"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "空いてたので埋めます(KotlinはJDK17で動くの？実際に試してみた)",
+      "author" : "@yyYank",
+      "day" : 18,
+      "url" : "https://yyyank.blogspot.com/2021/12/kotlinjdk17.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlinのfunctional interfaceが使えないとき",
+      "author" : "@nakamura-to",
+      "day" : 19,
+      "url" : "https://qiita.com/nakamura-to/items/78fea5030b41746d585d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@InaLab"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlinのコンストラクタ仕様を、Javaと比べながら復習する",
+      "author" : "@yamadacsa",
+      "day" : 21,
+      "url" : "https://qiita.com/yamadacsa/items/1db1c144fc197781b200"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "さよならfreeze! ついにきたKotlin/Native New Memory Management!!",
+      "author" : "@AAkira",
+      "day" : 22,
+      "url" : "https://aakira.app/blog/2021/12/kotlin-native-new-memory-management/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KotlinでSpring Bootの入門",
+      "author" : "@beeete2",
+      "day" : 23,
+      "url" : "https://www.beeete2.com/blog/?p=3050"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "KotlessとDynamoDBで自分のツイートを収集するKotlinサーバーレスアプリケーションを作る",
+      "author" : "@n_takehata",
+      "day" : 24,
+      "url" : "https://blog.takehata-engineer.com/entry/kotlin-serverless-application-by-kotless-and-dynamodb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Kotlinについて徹底的に客観的に分析してみた",
+      "author" : "@doyaaaaaken",
+      "day" : 25,
+      "url" : "https://qiita.com/doyaaaaaken/items/5ac162f3b6d77a779ae8"
+    }
+  ]
+}

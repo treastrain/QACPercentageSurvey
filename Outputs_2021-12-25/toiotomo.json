@@ -1,0 +1,289 @@
+{
+  "created_at" : "2021-12-26T02:42:45Z",
+  "calendar_meta_data" : {
+    "author" : "@tomotomospot",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 65,
+    "subscribers" : 16,
+    "title" : "toio Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "toiotomo",
+    "url" : "https://qiita.com/advent-calendar/2021/toiotomo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【toio 2021】 #toio の姿勢角（ロール・ピッチ・ヨー）をブラウザ上で可視化（Web Bluetooth API、Smoothie Charts を利用）",
+      "author" : "@youtoy",
+      "day" : 1,
+      "url" : "https://qiita.com/youtoy/items/9b3b39b3f91b36821305"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "落合博満がtoioを使うなら。",
+      "author" : "@tomotomospot",
+      "day" : 2,
+      "url" : "https://qiita.com/tomotomospot/items/9832bf41ad2cd1f75cbf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3,
+      "author" : "@akichika"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio core cube用pythonライブラリtomotoio(改)の解説",
+      "author" : "@kenichih",
+      "day" : 4,
+      "url" : "https://qiita.com/kenichih/items/f78356107ba6428d73ec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toioDoをRaspberry Piで動かす(pyscrlinkを動かせばOK)",
+      "author" : "@kenichih",
+      "day" : 5,
+      "url" : "https://qiita.com/kenichih/items/dd9918f71e469d4caef1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio core cube用 nano block / petit block conversion kit",
+      "author" : "@kenichih",
+      "day" : 6,
+      "url" : "https://qiita.com/kenichih/items/254a50806d8660d92bad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ベイトイオの変遷～2020年から始まり、2021年の進化、そして2022年へ～",
+      "author" : "@sanpeita",
+      "day" : 7,
+      "url" : "https://qiita.com/sanpeita/items/a5153d0677d989b38fa2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "豆腐のような形のキューブ型のなにかのSTLデータ",
+      "author" : "@kenichih",
+      "day" : 8,
+      "url" : "https://qiita.com/kenichih/items/399edeb9758d17f95fb7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio Do(v1.3)をRaspberry Piで動かす",
+      "author" : "@kenichih",
+      "day" : 9,
+      "url" : "https://qiita.com/kenichih/items/25a8c44811ff91b15323"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio™️作ってみた！友の会のMaker Fair 2021(オンライン参加)",
+      "author" : "@kenichih",
+      "day" : 10,
+      "url" : "https://qiita.com/kenichih/items/aa5fe7b854284cb5ae60"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【toio 2021（2つ目）】 #toioDo の新バージョンで追加された #toio の姿勢角ブロックを試す",
+      "author" : "@youtoy",
+      "day" : 11,
+      "url" : "https://qiita.com/youtoy/items/eca7a5202962ce566586"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "バランスボードとtoioを使って遊び鍛える",
+      "author" : "@foka22ok",
+      "day" : 12,
+      "url" : "https://qiita.com/foka22ok/items/add157c2e1df68960179"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "かたむきコントローラーを作った話",
+      "author" : "@kaz399",
+      "day" : 13,
+      "url" : "https://zenn.dev/kaz399/articles/ce83d57f0e65a1"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toioリモコンアプリをUnity SDK v1.4.0に対応した話",
+      "author" : "@zurachu",
+      "day" : 14,
+      "url" : "https://qiita.com/zurachu/items/b2d39f55c7ffbe6450dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio SDK for UnityのWindows対応をした時の話",
+      "author" : "@wotakuro",
+      "day" : 15,
+      "url" : "https://qiita.com/wotakuro/items/a4f21a9f43fda6cfb89c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【toio 2021（3つ目）】 #toioDo の新バージョンで追加されたコスチュームをチェックしたり衝突検知を試したりなど",
+      "author" : "@youtoy",
+      "day" : 16,
+      "url" : "https://qiita.com/youtoy/items/dc6ad852236b01cd4f9d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エサに飛びつくtoioを作ってみた（磁気センサー）",
+      "author" : "@HrshTkg",
+      "day" : 17,
+      "url" : "https://qiita.com/HrshTkg/items/c0416be21606694c0381"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18,
+      "author" : "@TakSan"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio core cubeで、飛ぶぞ(AceCombat™7で)",
+      "author" : "@kenichih",
+      "day" : 19,
+      "url" : "https://qiita.com/kenichih/items/2c6fa1eab99609bb825a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio で「イライラ棒」的なものを作った",
+      "author" : "@chibi929",
+      "day" : 20,
+      "url" : "https://zenn.dev/chibi929/articles/161f08b885cb6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio core cubeでグラフィグを動かす",
+      "author" : "@kenichih",
+      "day" : 21,
+      "url" : "https://qiita.com/kenichih/items/ec675b6988270aea3a87"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toioを用いた地球儀型デバイス開発日記",
+      "author" : "@team_kuchibashi",
+      "day" : 22,
+      "url" : "https://qiita.com/team_kuchibashi/items/c02cdcc725cc4fb70680"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio.js を使ってみたく、せっかくならLINE Notifyしてみた",
+      "author" : "@h2m_kinoko",
+      "day" : 23,
+      "url" : "https://zenn.dev/h2m_kinoko/articles/0abd15fbda6eb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "toio＋カプセルトイで楽しい見た目に！",
+      "author" : "@wotakuro",
+      "day" : 24,
+      "url" : "https://qiita.com/wotakuro/items/f913f3354d31a5adb86c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クライム toioでクリスマスツリーを演出してみた",
+      "author" : "@naranavi",
+      "day" : 25,
+      "url" : "https://qiita.com/naranavi/items/cab54b360059d3d071c5"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "toioでチロルチョコを配送する方法",
+      "author" : "@asondemita",
+      "day" : 25,
+      "url" : "https://qiita.com/asondemita/items/e0d2b33a98e80891a5af"
+    }
+  ]
+}

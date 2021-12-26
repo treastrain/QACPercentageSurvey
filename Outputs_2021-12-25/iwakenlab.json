@@ -1,0 +1,179 @@
+{
+  "created_at" : "2021-12-26T04:06:29Z",
+  "calendar_meta_data" : {
+    "author" : "@iwaken71",
+    "category" : "企業・学校・団体",
+    "lgtm" : 32,
+    "subscribers" : 1,
+    "title" : "Iwaken Lab.「好きな技術・コト」 Advent Calendar 2021",
+    "participants" : 12,
+    "unique_name" : "iwakenlab",
+    "url" : "https://qiita.com/advent-calendar/2021/iwakenlab"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "人生あと10年だとしたら、やりたかったこと「東工大生のリブランディング」",
+      "author" : "@iwaken71",
+      "day" : 1,
+      "url" : "https://note.com/iwaken71/n/n0cfb2913be48"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "地方学生のXR界隈でのあがき方",
+      "author" : "@BlackCatBlog",
+      "day" : 2,
+      "url" : "https://zenn.dev/myaon/articles/868c02bcfbbaf6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Reality Capture を CLI で実行しよう",
+      "author" : "@nakamurata",
+      "day" : 3,
+      "url" : "https://qiita.com/nakamurata/items/5db1fd34ecb0cb51e148"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "8thWallガイドラインを日本語訳&要約して、WebAR向けの3Dファイルの作り方の基準を知る",
+      "author" : "@iwaken71",
+      "day" : 4,
+      "url" : "https://qiita.com/iwaken71/items/a735847da783a8367bbd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "OculusQuestのハンドトラッキングでライトの色を変えよう",
+      "author" : "@Ah_",
+      "day" : 5,
+      "url" : "https://qiita.com/Ah_/items/c6689292d3b8bc218bbb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TouchDesigner×Pythonで軽率にOSC通信する方法を初心者向けに説明する",
+      "author" : "@iwaken71",
+      "day" : 6,
+      "url" : "https://qiita.com/iwaken71/items/f4c9e1c3b789d19657ae"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "メタバース結婚式の実現について妄想する",
+      "author" : "@iwaken71",
+      "day" : 7,
+      "url" : "https://note.com/iwaken71/n/nf43383a52ecc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unityのキャラクターの不要コンポーネントをワンポチでremoveするエディタ拡張をサクッと書く",
+      "author" : "@iwaken71",
+      "day" : 8,
+      "url" : "https://qiita.com/iwaken71/items/ea454291f4982e026672"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ニコニコ動画(⌒,_ゝ⌒)→Youtube(⌒,_ゝ⌒)になったのは何故なのか①",
+      "author" : "@hosoi-ryota",
+      "day" : 9,
+      "url" : "https://note.com/hosoixr/n/n7fdd07d74df6#0V0VI"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "対面コミュニケーションツールとしてのAR",
+      "author" : "@natsuki93reflec777",
+      "day" : 10,
+      "url" : "https://zenn.dev/nacchan/articles/85fee346545223#%F0%9F%92%AC-%E5%AF%BE%E9%9D%A2%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE-webar"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Unity2021.2.4f1のURPで、OpenXRのみでVRアプリ開発をする",
+      "author" : "@Kazu_Sack",
+      "day" : 11,
+      "url" : "https://qiita.com/Kazu_Sack/items/776accbe1e8582b3d735"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "XRで使いたいリアルタイム技術・サービスの整理",
+      "author" : "@__tou__tou",
+      "day" : 12,
+      "url" : "https://zenn.dev/toutou/articles/fd52ceff690c1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NEWVIEW AWARD 2021実装メモ",
+      "author" : "@OKsaiyowa",
+      "day" : 13,
+      "url" : "https://github.com/ForJobOk/Styly_first_project"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Microsoft MVPの受賞報告と、受賞のためにしたこと",
+      "author" : "@iwaken71",
+      "day" : 14,
+      "url" : "https://developers.cyberagent.co.jp/blog/archives/32875/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年 エンジニアコミュニティ活動振り返り。メンタルを維持しながら1年間継続する方法5選",
+      "author" : "@iwaken71",
+      "day" : 15,
+      "url" : "https://note.com/iwaken71/n/n344a83ee4030"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Immersal REST APIを使ったサーバーサイド位置合わせの考え方",
+      "author" : "@drumath2237",
+      "day" : 16,
+      "url" : "https://zenn.dev/drumath2237/articles/fbbcfc154fbd02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "僕の映像記憶について",
+      "author" : "@shin__i",
+      "day" : 17,
+      "url" : "https://note.com/shin__i_official/n/n6c91c454c880"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "IT巨人創業者たちの経歴まとめ",
+      "author" : "@hosoi-ryota",
+      "day" : 18,
+      "url" : "https://note.com/hosoixr/n/n9857a15b0c2e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "blenderを始めよう",
+      "author" : "@Biscuit",
+      "day" : 19,
+      "url" : "https://qiita.com/Biscuit/items/64871543b2e3e411fc95"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@shin__i"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Iwaken Lab.ミートアップ12月社会人ゲスト:白井博士　XR/メタバース企業のインターンESにチャレンジ",
+      "author" : "@iwaken71",
+      "day" : 21,
+      "url" : "https://note.com/iwaken71/n/nb027269e60de"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vite(vanilla-ts)環境のBabylon.jsで静的なglbをロードするtips",
+      "author" : "@drumath2237",
+      "day" : 22,
+      "url" : "https://zenn.dev/drumath2237/articles/88d49bb2be9baf"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

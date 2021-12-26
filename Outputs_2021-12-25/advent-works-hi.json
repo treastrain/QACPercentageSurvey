@@ -1,0 +1,365 @@
+{
+  "created_at" : "2021-12-25T22:02:18Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社Works Human Intelligence",
+    "category" : "企業・学校・団体",
+    "lgtm" : 962,
+    "subscribers" : 20,
+    "title" : "株式会社Works Human Intelligence Advent Calendar 2021",
+    "participants" : 40,
+    "unique_name" : "advent-works-hi",
+    "url" : "https://qiita.com/advent-calendar/2021/advent-works-hi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "その技術記事、価値あります",
+      "author" : "@kabik",
+      "day" : 1,
+      "url" : "https://qiita.com/kabik/items/53655f8fc81c7844f055"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VPCプレフィックスリストとCloudFormationで、セキュリティグループのIP管理をグッと楽にする",
+      "author" : "@KawakamiTomoki",
+      "day" : 2,
+      "url" : "https://qiita.com/KawakamiTomoki/items/a74dfd9f3ff695bccc59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "簡単に言ってくれますけどね…　～トランザクション処理とコミット処理～",
+      "author" : "@whi_fukao",
+      "day" : 3,
+      "url" : "https://qiita.com/whi_fukao/items/203eac651286bde33718"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Best Qiita賞の裏側  ～プライズ提供プロジェクトにおける工夫と、プロジェクトの中で得た学び～",
+      "author" : "@cold-wisteria",
+      "day" : 4,
+      "url" : "https://qiita.com/cold-wisteria/items/be3ec7f417a199a619cd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "日曜プログラミング、しよう",
+      "author" : "@Chrysanthemum94",
+      "day" : 5,
+      "url" : "https://qiita.com/Chrysanthemum94/items/f80d590d1ae35aabf505"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "認定スクラムマスター(LSM)研修を受けてきた",
+      "author" : "@uenok0108",
+      "day" : 6,
+      "url" : "https://qiita.com/uenok0108/items/f370fbfd3a80ac94cb92"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "続かない社内勉強会に悩む人への6つの実践的アイデア",
+      "author" : "@flyaway",
+      "day" : 7,
+      "url" : "https://qiita.com/flyaway/items/0fc8b080bcd83157033d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "子育てしながらGitHubに草を1年間生やし続けたら人生が豊かになった話",
+      "author" : "@mizo_k",
+      "day" : 8,
+      "url" : "https://qiita.com/mizo_k/items/c2aba14e77f5fc6f7483"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "油そばに学ぶユーザーエクスペリエンスの話",
+      "author" : "@whi_ryoak",
+      "day" : 9,
+      "url" : "https://qiita.com/whi_ryoak/items/0acef2c44880cc4a4736"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アドカレ書いていたら夢が叶う話 ",
+      "author" : "@e99h2121",
+      "day" : 10,
+      "url" : "https://qiita.com/e99h2121/items/6dc8fb47323f0983542a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "法改正対応って何してるの？",
+      "author" : "@na82o",
+      "day" : 11,
+      "url" : "https://qiita.com/na82o/items/9942ffbdb8c59e7f976d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "認証と認可の違いに関して勉強した事を書き連ねてみる。",
+      "author" : "@etnk",
+      "day" : 12,
+      "url" : "https://qiita.com/etnk/items/75912aabdb2ff3029f1d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パーティションワイズ結合は本当にワイズだった件",
+      "author" : "@Keita_INAGAKI",
+      "day" : 13,
+      "url" : "https://qiita.com/Keita_INAGAKI/items/45b333f1d27e4a50744d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミング未経験者が10時間以内に5つの小さなJavaアプリケーションの実装をする方法　",
+      "author" : "@kobain-jp",
+      "day" : 14,
+      "url" : "https://qiita.com/kobain-jp/items/60b938de1765844e6f99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアがフロントメンバー向けにサブシステム勉強会をフルリモート開催し継続したことについて",
+      "author" : "@soepy",
+      "day" : 15,
+      "url" : "https://qiita.com/soepy/items/211fa9f360ecb1a90008"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームの世界で学んだ「楽しむ技術」で組織の風通しを良くしていった話",
+      "author" : "@uemura_t",
+      "day" : 16,
+      "url" : "https://qiita.com/uemura_t/items/ec67fdddbeaee2b2f5eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "BouncyCastleで自己署名証明書を発行してみよう(Java)",
+      "author" : "@Harmat",
+      "day" : 17,
+      "url" : "https://qiita.com/Harmat/items/627787775fbbf7fa74db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なぜ WHI では times 文化がうまくまわっているのか？",
+      "author" : "@satomihoya",
+      "day" : 18,
+      "url" : "https://qiita.com/satomihoya/items/b125e1eaf44c4a643e6e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "情報処理安全確保支援士試験（SC）合格体験記",
+      "author" : "@h53",
+      "day" : 19,
+      "url" : "https://qiita.com/h53/items/c3867ee6194663f19284"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "長く維持されるシステム構成図のつくりかた 〜 PlantUML で継続的に AWS/GCP/Azure アーキテクチャ図をメンテする仕組み 〜",
+      "author" : "@irongineer",
+      "day" : 20,
+      "url" : "https://qiita.com/irongineer/items/23fcd55830ae2de96ca8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "実践：「質とスピード」を維持するには",
+      "author" : "@goamix",
+      "day" : 21,
+      "url" : "https://qiita.com/goamix/items/3994a57b9f14fe242764"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google Spread SheetのデータをMySQLにインポートしてみる",
+      "author" : "@yucan1002",
+      "day" : 22,
+      "url" : "https://qiita.com/yucan1002/items/441f737577dcc7be90c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レガシーな大規模システムの修正でレビュー時に大切にしていること",
+      "author" : "@shmstm",
+      "day" : 23,
+      "url" : "https://qiita.com/shmstm/items/dc42de3ba00bb4fc552d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2ヶ月でAWS認定11冠した話",
+      "author" : "@FumiakiKato",
+      "day" : 24,
+      "url" : "https://qiita.com/FumiakiKato/items/377babcf3ec2966c9a90"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スプレッドシートに承認ワークフロー機能がついた！！",
+      "author" : "@Hokuto-Niimura",
+      "day" : 25,
+      "url" : "https://qiita.com/Hokuto-Niimura/items/5d74b1c782de6a592b7e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "素数の魅力",
+      "author" : "@takeC74",
+      "day" : 1,
+      "url" : "https://qiita.com/takeC74/items/c2520fac4bacb7b55d1e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Kubebuilder を Docker から利用する",
+      "author" : "@hitsumabushi845",
+      "day" : 2,
+      "url" : "https://qiita.com/hitsumabushi845/items/b77321c593c482dab2e7"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【感想文】t_wadaさんがやってきた",
+      "author" : "@takeC74",
+      "day" : 3,
+      "url" : "https://qiita.com/takeC74/items/52f45d3f30d56e01df3e"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "雀鬼が考える「運」とはっ！",
+      "author" : "@takeC74",
+      "day" : 4,
+      "url" : "https://qiita.com/takeC74/items/386a20e56d2cffa3bd94"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ＤＸとは？",
+      "author" : "@takeC74",
+      "day" : 5,
+      "url" : "https://qiita.com/takeC74/items/9cf4f3d6a507917f5172"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "良い製品企画書の書き方とは？",
+      "author" : "@flyaway",
+      "day" : 6,
+      "url" : "https://qiita.com/flyaway/items/2769e66acd0f92c07f4b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Groovyでもユニットテストを書こう",
+      "author" : "@autotaker1984",
+      "day" : 7,
+      "url" : "https://qiita.com/autotaker1984/items/18bec6a90d573b09703a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "メンターLv.2のお仕事",
+      "author" : "@seino-ta",
+      "day" : 8,
+      "url" : "https://qiita.com/seino-ta/items/d12454f7b8afa746ff7c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "書籍『ドメイン駆動設計入門』Chapter 6 「ユースケースを実現する『アプリケーションサービス』」要旨および感想",
+      "author" : "@h53",
+      "day" : 9,
+      "url" : "https://qiita.com/h53/items/0bdef5b50b724e382377"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "（初心者むけ）Log4jのゼロデイ脆弱性って何がヤバいの？",
+      "author" : "@takeC74",
+      "day" : 10,
+      "url" : "https://qiita.com/takeC74/items/16635d428ee8d6fe01ce"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "頑張らない技術のキャッチアップ方法",
+      "author" : "@uenok0108",
+      "day" : 11,
+      "url" : "https://qiita.com/uenok0108/items/0ae631b0011e3e962667"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS Certified Solutions Architect - Associate(SAA-C02) 合格体験記",
+      "author" : "@hitsumabushi845",
+      "day" : 12,
+      "url" : "https://qiita.com/hitsumabushi845/items/98c51cef2a11bf20f85f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Java: Mavenプロジェクトの依存ライブラリを確認する(dependency:tree)",
+      "author" : "@flyaway",
+      "day" : 13,
+      "url" : "https://qiita.com/flyaway/items/1df3ce9b4dae6f6e5e28"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "配属後半年で確立されてきたCatch-upのスタイルに関して",
+      "author" : "@ogishima_h",
+      "day" : 14,
+      "url" : "https://qiita.com/ogishima_h/items/9c5f518da6577ecd1e45"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "FTRの対応のためにログのセキュリティを強化した話",
+      "author" : "@umekoume",
+      "day" : 15,
+      "url" : "https://qiita.com/umekoume/private/3b7b7844269d94952d2c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "#100DaysOfCodeのススメ",
+      "author" : "@MayuKuno",
+      "day" : 16,
+      "url" : "https://qiita.com/MayuKuno/items/d36b3c5755a66e008c9a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "チームへの問い合わせをGoogle Formに集約することで保守の仕事を少し楽にした話",
+      "author" : "@mnmay",
+      "day" : 17,
+      "url" : "https://qiita.com/mnmay/items/1e174c9854b60a44a185"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "大規模業務アプリケーションの秘伝のソースコードを継ぎ足していく2つのコツ",
+      "author" : "@noriyasu_hirata",
+      "day" : 18,
+      "url" : "https://qiita.com/noriyasu_hirata/items/d72e778c67af5e04a047"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS認定試験 AWS Certified Security - Specialty(SCS)受験対策記録",
+      "author" : "@t_ake-it-easy",
+      "day" : 19,
+      "url" : "https://qiita.com/t_ake-it-easy/items/47e2f3704f0c2237c008"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "Vue 3 + TypeScript ではじめるリポジトリパターン",
+      "author" : "@blasg5884",
+      "day" : 20,
+      "url" : "https://qiita.com/blasg5884/items/394184cbf2f3ea760d4a"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "アジャイル初心者だけど、どうしてもインセプションデッキの素晴らしさを伝えたい話",
+      "author" : "@bigchopstick-3412",
+      "day" : 21,
+      "url" : "https://qiita.com/bigchopstick-3412/items/47972d7ab8bce54b8fb5"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "弊社名を文法解析してみた(できるとは言ってない)",
+      "author" : "@h4ya5e",
+      "day" : 22,
+      "url" : "https://qiita.com/h4ya5e/items/5e0da18718d6aa45165c"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "朝起きたらPCがWin11になっていたので、WSLgを試してみた",
+      "author" : "@sparklingbaby",
+      "day" : 23,
+      "url" : "https://qiita.com/sparklingbaby/items/78c26e7fb2ce6c199d1f"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "政府統計e-Stat APIを使ってデータ分析しましょう",
+      "author" : "@yukiii_chen",
+      "day" : 24,
+      "url" : "https://qiita.com/yukiii_chen/items/9f3c60096df2f4d47c7b"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "ググっても見つからない？ときに見てみると良いかもしれない技術系サイトまとめ",
+      "author" : "@uenok0108",
+      "day" : 25,
+      "url" : "https://qiita.com/uenok0108/items/60bdd1372eeaed1e7a75"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "created_at" : "2021-12-25T19:12:43Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社D2C dot",
+    "category" : "企業・学校・団体",
+    "lgtm" : 8,
+    "subscribers" : 0,
+    "title" : "株式会社D2C dot Advent Calendar 2021",
+    "participants" : 7,
+    "unique_name" : "d2cdot",
+    "url" : "https://qiita.com/advent-calendar/2021/d2cdot"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "WordPressが自分でルート証明書の一覧を持ってた話",
+      "author" : "@tokino",
+      "day" : 1,
+      "url" : "https://qiita.com/tokino/items/c285ee24db27e90da100"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GTMのデバックはローカル環境でも出来る",
+      "author" : "@d2cdot_ohnami",
+      "day" : 2,
+      "url" : "https://qiita.com/d2cdot_ohnami/items/a5354d76103d81eeb338"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーバサイドエンジニアにOxygenNotIncludeというゲームをおすすめする",
+      "author" : "@y-tac-d",
+      "day" : 3,
+      "url" : "https://qiita.com/y-tac-d/items/66d2bcb0b6dad0867665"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "GTMでリンクのクリック計測が出来ない時は何がおきているのか",
+      "author" : "@d2cdot_ohnami",
+      "day" : 4,
+      "url" : "https://qiita.com/d2cdot_ohnami/items/9e064858458c2777b5e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テストコードの書き方の基本を抑える",
+      "author" : "@y-tac-d",
+      "day" : 10,
+      "url" : "https://qiita.com/y-tac-d/items/874be49460c936771d6f"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年に出会ったバグ",
+      "author" : "@d2cdot-suto",
+      "day" : 20,
+      "url" : "https://qiita.com/d2cdot-suto/items/7631d432c33ed0bc65c7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Three Fiberに入門してみる",
+      "author" : "@d2cdot_higa",
+      "day" : 21,
+      "url" : "https://qiita.com/d2cdot_higa/items/d1faff6e49f0808f2920"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "社内 web 最適化ハッカソンをやった記録",
+      "author" : "@d2cd-kimura",
+      "day" : 22,
+      "url" : "https://qiita.com/d2cd-kimura/items/888338418d0430030a09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いろいろな方法でajax処理を書いてみた",
+      "author" : "@Kenichi-Suzuki",
+      "day" : 23,
+      "url" : "https://qiita.com/Kenichi-Suzuki/items/e27c80f45c04062451a0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CSSアニメーションでループ間隔のdelayを実現する手軽な方法",
+      "author" : "@d2cdot_higa",
+      "day" : 24,
+      "url" : "https://qiita.com/d2cdot_higa/items/a305d6b8ed1d6a85953b"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

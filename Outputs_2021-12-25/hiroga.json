@@ -1,0 +1,133 @@
+{
+  "created_at" : "2021-12-25T17:19:02Z",
+  "calendar_meta_data" : {
+    "author" : "@hiroga",
+    "category" : "その他",
+    "lgtm" : 0,
+    "subscribers" : 0,
+    "title" : "さわら Advent Calendar 2021",
+    "participants" : 1,
+    "unique_name" : "hiroga",
+    "url" : "https://qiita.com/advent-calendar/2021/hiroga"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "PCのフォルダ整理法（2021年12月版）",
+      "author" : "@hiroga",
+      "day" : 1,
+      "url" : "https://hiroga.hatenablog.com/entry/2021/12/25/113258"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ディレクトリ構成図を描くときに便利な記号（┐┘┌└） 入力方法3選",
+      "author" : "@hiroga",
+      "day" : 2,
+      "url" : "https://zenn.dev/hiroga/articles/directory-diagram-symbols"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "個人用クラウドストレージの再選定と移行",
+      "author" : "@hiroga",
+      "day" : 3,
+      "url" : "https://hiroga.hatenablog.com/entry/2021/12/25/082829"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Synology NASにおける暗号化の挙動の整理",
+      "author" : "@hiroga",
+      "day" : 7,
+      "url" : "https://hiroga.hatenablog.com/entry/2021/12/25/162512"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "書評 - Property Lists, Preferences and Profiles for Apple Administrators",
+      "author" : "@hiroga",
+      "day" : 12,
+      "url" : "https://hiroga.hatenablog.com/entry/2021/12/25/221518"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ロボット掃除機（Anker Eufy）をジャンクでお迎えしてバッテリーを交換する",
+      "author" : "@hiroga",
+      "day" : 24,
+      "url" : "https://hiroga.hatenablog.com/entry/2021/12/25/075048"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

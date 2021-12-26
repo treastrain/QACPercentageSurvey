@@ -1,0 +1,169 @@
+{
+  "created_at" : "2021-12-26T00:23:41Z",
+  "calendar_meta_data" : {
+    "author" : "@shion21",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 37,
+    "subscribers" : 90,
+    "title" : "Raspberry Pi Advent Calendar 2021",
+    "participants" : 19,
+    "unique_name" : "raspberrypi",
+    "url" : "https://qiita.com/advent-calendar/2021/raspberrypi"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "RaspberryPi上の赤外線リモコンをGoogleHomeで操作する。",
+      "author" : "@shion21",
+      "day" : 1,
+      "url" : "https://blog.vcborn.com/2021/12/post-252/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi Imagerなんて便利なものがあったなんて",
+      "author" : "@yamasaki1ma",
+      "day" : 2,
+      "url" : "https://qiita.com/yamasaki1ma/private/ecffddaa2c12ec4671c5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HD301D1-R1でRaspberry Piをホームシネマプロジェクターにする",
+      "author" : "@sikkim",
+      "day" : 3,
+      "url" : "https://zenn.dev/sikkim/articles/90f31f7b72ca8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi Zero系で、アンテナロスのないアルミケースを作ろう",
+      "author" : "@kusukawa",
+      "day" : 6,
+      "url" : "https://blog.braveridge.com/blog/archives/223"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "raspiでautofocusを実装してみる(2)",
+      "author" : "@kons_9",
+      "day" : 7,
+      "url" : "https://qiita.com/kons_9/items/9f7af28b09d7ddc9656d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイでdotnet1（Lチカ）",
+      "author" : "@tera1707",
+      "day" : 8,
+      "url" : "https://zenn.dev/tera1707/articles/c458d65fee4cdc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「ラズパイ×Alexa」水やりを忘れるので観葉植物に喋ってもらった",
+      "author" : "@tNakka",
+      "day" : 9,
+      "url" : "https://qiita.com/tNakka/items/20da0ac509e4e301d3c8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Piを使ったIoTアプリケーション開発に、NoSQLドキュメント指向組み込みデータベースCouchbase Liteを使ってみる",
+      "author" : "@yoshiyuki_kono",
+      "day" : 10,
+      "url" : "https://qiita.com/yoshiyuki_kono/items/5606020caffaa88ce678"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイでdotnet(PWM)",
+      "author" : "@tera1707",
+      "day" : 11,
+      "url" : "https://zenn.dev/tera1707/articles/f33178395a14d8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ラズパイでドアの開閉を検知して一人暮らしの家族を見守る",
+      "author" : "@bohemian916",
+      "day" : 12,
+      "url" : "https://qiita.com/bohemian916/items/55526d80447ba0e8d4e5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自分だけのRaspberry Pi OSをつくろう！",
+      "author" : "@haruelico",
+      "day" : 13,
+      "url" : "https://zenn.dev/haruelico/articles/d22ce795675b6d"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "iPhoneだけでZERO WH + Ambient（おまけでsamba付き）",
+      "author" : "@Jyugem",
+      "day" : 15,
+      "url" : "https://qiita.com/Jyugem/items/b12de2e56276cd198038"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "学生証で研究室入退室報告SlackBot with ラズパイ",
+      "author" : "@SAKUA",
+      "day" : 17,
+      "url" : "https://qiita.com/SAKUA/items/e1ab67d52fb4cfebd812"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry PiへのMariaDB セットアップ 2022年版",
+      "author" : "@airpocket",
+      "day" : 18,
+      "url" : "https://qiita.com/airpocket/items/f1dd8e0d32be6075b7de"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@Kazuhito"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@C2_now"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ethernet実験はRaspberry PIで。",
+      "author" : "@kaizen_nagoya",
+      "day" : 21,
+      "url" : "https://qiita.com/kaizen_nagoya/items/118e0f3c4b92a5ff7c55"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Raspberry Pi 400でLCDディスプレイを動かしてみた",
+      "author" : "@KMiura95",
+      "day" : 22,
+      "url" : "https://supernove.hatenadiary.jp/entry/2021/12/21/232456"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "HPC環境でのバッチジョブのテスト環境をRaspberry Piクラスタで作成する",
+      "author" : "@hara2dev",
+      "day" : 23,
+      "url" : "https://qiita.com/hara2dev/items/3dfc39918395ef410971"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@flyocy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

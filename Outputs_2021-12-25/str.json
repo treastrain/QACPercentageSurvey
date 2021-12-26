@@ -1,0 +1,148 @@
+{
+  "created_at" : "2021-12-26T01:05:04Z",
+  "calendar_meta_data" : {
+    "author" : "@kgoto",
+    "category" : "学術",
+    "lgtm" : 46,
+    "subscribers" : 106,
+    "title" : "データ構造とアルゴリズム Advent Calendar 2021",
+    "participants" : 13,
+    "unique_name" : "str",
+    "url" : "https://qiita.com/advent-calendar/2021/str"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "全点対最短経路問題の高速な近似アルゴリズム",
+      "author" : "@knewknowl",
+      "day" : 1,
+      "url" : "https://lealgorithm.blogspot.com/2021/12/2.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "遺伝的アルゴリズムでドット絵の「Qiitan」を作ってみる",
+      "author" : "@YottyPG",
+      "day" : 3,
+      "url" : "https://qiita.com/YottyPG/items/1c0cff4d37b8d7a8924e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VBAでFor文のループ条件を途中で変更できない",
+      "author" : "@zan",
+      "day" : 4,
+      "url" : "https://qiita.com/zan/items/e1e9558d6d8434a85d6a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "巡回セールスマンゲームとシャープレイ値を近似するアルゴリズム",
+      "author" : "@takilog",
+      "day" : 10,
+      "url" : "https://zenn.dev/takilog/articles/b8dd1d8ab32562"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "桁dpを代数的にやっつける",
+      "author" : "@ryuhe1",
+      "day" : 11,
+      "url" : "https://qiita.com/ryuhe1/items/185e1a283f13ac638a53"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "In-Place In-Shuffleアルゴリズム",
+      "author" : "@kgoto",
+      "day" : 12,
+      "url" : "https://qiita.com/kgoto/items/8624168f0ba4832fa786"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "秘書問題について、何か",
+      "author" : "@Nanay_1212",
+      "day" : 14,
+      "url" : "https://nanay-desu.hatenablog.com/entry/2021/12/13/153204?_ga=2.184325103.837330202.1639374137-732509385.1639374137"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Quotient Filterとコンパクトなハッシュテーブル",
+      "author" : "@MatsuTaku",
+      "day" : 18,
+      "url" : "https://qiita.com/MatsuTaku/items/4f2cdd32fefb862a98f9"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@syoh-yoshi"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20,
+      "author" : "@goonew"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@takoyakiusagi"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "半群の区間積クエリについて",
+      "author" : "@convexineq",
+      "day" : 23,
+      "url" : "https://qiita.com/convexineq/items/4b6920af3e3d37a96540"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "基本情報技術者試験　アルゴリズム問題をPythonで実装してみた　平成24年秋期",
+      "author" : "@mctk",
+      "day" : 25,
+      "url" : "https://qiita.com/mctk/items/0a637be43c1afe83a152"
+    }
+  ]
+}

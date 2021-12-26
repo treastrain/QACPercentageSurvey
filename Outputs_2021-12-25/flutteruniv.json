@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T01:04:01Z",
+  "calendar_meta_data" : {
+    "author" : "Flutter大学",
+    "category" : "企業・学校・団体",
+    "lgtm" : 397,
+    "subscribers" : 32,
+    "title" : "Flutter大学 Advent Calendar 2021",
+    "participants" : 25,
+    "unique_name" : "flutteruniv",
+    "url" : "https://qiita.com/advent-calendar/2021/flutteruniv"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "【FlutterFire × StripeAPI】簡易版メルカリのようなCtoCプラットフォームアプリを作ってみた",
+      "author" : "@DaigoWakabayashi",
+      "day" : 1,
+      "url" : "https://qiita.com/DaigoWakabayashi/items/891f88dec29f9c44ca03"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[flutter×riverpod×hive] MVVMで作るhiveサンプル",
+      "author" : "@kesunshuchiguno2525",
+      "day" : 2,
+      "url" : "https://qiita.com/kesunshuchiguno2525/items/d9763b86cfdde6034019"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コピペで使えるTextFormField",
+      "author" : "@wakasa_kenta",
+      "day" : 3,
+      "url" : "https://qiita.com/wakasa_kenta/items/031ab0e65bb664125c58"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】アプリ画面に数字を表示させたい(int型からString型に変更 ) ",
+      "author" : "@HikaruKusanagi",
+      "day" : 4,
+      "url" : "https://qiita.com/HikaruKusanagi/items/e0ff2bfaeb33be7ac47c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter Apprentice のススメ【タイムリミットはあと1ヶ月】",
+      "author" : "@Umigishi-Aoi",
+      "day" : 5,
+      "url" : "https://qiita.com/Umigishi-Aoi/items/482e055483876be0ee59"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】hooks_riverpod+state_notifier+freezedでのドメイン駆動設計",
+      "author" : "@tokkun5552",
+      "day" : 6,
+      "url" : "https://qiita.com/tokkun5552/items/5dcb79e5283a67c2b2fe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「Flutter Flameでゲームを作ってみたい！」と１ミリでも思ったことのある君へ",
+      "author" : "@shintyoku",
+      "day" : 7,
+      "url" : "https://qiita.com/shintyoku/items/966891fe9eaae0b18605"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】table_calendarの見た目をカスタマイズする方法",
+      "author" : "@yamashinsan",
+      "day" : 8,
+      "url" : "https://qiita.com/yamashinsan/items/a618460ce53161a63d4d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bottomナビゲーションバーのiconを透明化したりテキストを隠す方法",
+      "author" : "@DaNieL-1evel_17",
+      "day" : 9,
+      "url" : "https://qiita.com/DaNieL-1evel_17/items/7b343eea21f44497daf9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutterでステージング環境やテスト環境へのデプロイを自動化 & 本番環境と共存させる【GitHub Actions x Firebase App Distribution】",
+      "author" : "@ishihaya",
+      "day" : 10,
+      "url" : "https://qiita.com/ishihaya/items/ffdb2b365600ee90e420"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】Cloud Firestoreでデータの保存、取得",
+      "author" : "@kiiimiis",
+      "day" : 11,
+      "url" : "https://qiita.com/kiiimiis/items/1fe1588f030c2ef4c79c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】専用ライブラリ使用時のコンパイルエラーを回避する方法",
+      "author" : "@strivesdfpx379",
+      "day" : 12,
+      "url" : "https://qiita.com/strivesdfpx379/items/a2e9493405f4d754a982"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "FlutterでGraphQLを使ってみよう",
+      "author" : "@yam-yanu",
+      "day" : 13,
+      "url" : "https://qiita.com/yam-yanu/items/11be981f3ca82a6cdfd4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そもそも、Dartってどんな言語なの？",
+      "author" : "@masa-tokyo",
+      "day" : 14,
+      "url" : "https://qiita.com/masa-tokyo/items/40cb4b5975b95485db10"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】GoogleMapで場所（地図）検索機能を実装する",
+      "author" : "@taisei_",
+      "day" : 15,
+      "url" : "https://qiita.com/taisei_/items/d5b7677dac6646383da9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】開発するよりもアプリリリースの準備が大変だった話",
+      "author" : "@uehoho18",
+      "day" : 16,
+      "url" : "https://qiita.com/uehoho18/items/27793efb5fc5a46e7132"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MethodChannelとPlatformViewを使ってFlutterにネイティブビューを表示しよう",
+      "author" : "@risklqbz",
+      "day" : 17,
+      "url" : "https://qiita.com/risklqbz/items/2ecdce19b39e2e0f3b29"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "期待大！FlutterFire の Cloud Firestore ODM を触ってみた",
+      "author" : "@KosukeSaigusa",
+      "day" : 18,
+      "url" : "https://qiita.com/KosukeSaigusa/items/0ff9d84b966388dec53e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "複数値をsortする方法",
+      "author" : "@flogfulofulo",
+      "day" : 19,
+      "url" : "https://zenn.dev/kazukidddd/articles/c2bc92e8a6f0c0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】Sliverでスクロールした時に上にくっつくTabBarの実装する",
+      "author" : "@naokiwakata",
+      "day" : 20,
+      "url" : "https://qiita.com/naokiwakata/items/f0f475288a294ce0649e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【最速入門】Provider・Riverpod 新旧対照表",
+      "author" : "@tatessy",
+      "day" : 21,
+      "url" : "https://qiita.com/tatessy/items/10ab221b4bd0de6b597d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Flutter】初学者がFlutterでアプリのテーマカラーを設定しようとして出したエラーが、Flutter以前の話だった",
+      "author" : "@shvn_iwa",
+      "day" : 22,
+      "url" : "https://qiita.com/shvn_iwa/items/2108bbed7bd2f7026e3d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "共同開発でPodcast/音楽再生アプリを作っている話",
+      "author" : "@hndr",
+      "day" : 23,
+      "url" : "https://zenn.dev/hndr/articles/4d66774fd7169d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "昔のボクに",
+      "author" : "@dongri727",
+      "day" : 24,
+      "url" : "https://qiita.com/dongri727/items/ff63be3911d767a998e3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Flutter初心者のための学習ロードマップ",
+      "author" : "@kboy",
+      "day" : 25,
+      "url" : "https://zenn.dev/kboy/articles/16181eaa6783d6"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "created_at" : "2021-12-25T20:50:23Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社シンプルウェイ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 13,
+    "subscribers" : 1,
+    "title" : "株式会社シンプルウェイ Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "simpleway",
+    "url" : "https://qiita.com/advent-calendar/2021/simpleway"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "GASとTwitterAPIを用いて、ツイートを投稿する",
+      "author" : "@AyakaSukegawa",
+      "day" : 1,
+      "url" : "https://qiita.com/AyakaSukegawa/items/2254e54c2fa185905083"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Minecraftサーバー 作ろう (Minecraft1.18 + Spigot + Geyser + Floodgate)",
+      "author" : "@AnaKutsu",
+      "day" : 2,
+      "url" : "https://qiita.com/AnaKutsu/items/146a5afa3a3070d15cec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Google ID と Apple ID のアカウント連携",
+      "author" : "@AnaKutsu",
+      "day" : 3,
+      "url" : "https://qiita.com/AnaKutsu/items/ed44de833746dbb0932f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "flexboxについての何か",
+      "author" : "@swhorie",
+      "day" : 4,
+      "url" : "https://qiita.com/swhorie/items/b4da01556c0729716d36"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5,
+      "author" : "@hokuto_ibe"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "sysPassをOpenID ConnectでSSOできるようにする",
+      "author" : "@AnaKutsu",
+      "day" : 6,
+      "url" : "https://qiita.com/AnaKutsu/items/849ea85170b45f153038"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PDFKitでPDFの注釈を扱う",
+      "author" : "@simpleway-aoki",
+      "day" : 7,
+      "url" : "https://qiita.com/simpleway-aoki/items/f5d54e7e7a667d20953f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ミラーレス一眼をウェブ会議のカメラにする",
+      "author" : "@AnaKutsu",
+      "day" : 8,
+      "url" : "https://www.ana-kutsu.com/blog/2021/12/webcam_nex_5r.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ウェブ会議用にカフを作る",
+      "author" : "@AnaKutsu",
+      "day" : 9,
+      "url" : "https://www.ana-kutsu.com/blog/2021/12/cough_switch.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Twilio SMS で脱PPAP",
+      "author" : "@AnaKutsu",
+      "day" : 10,
+      "url" : "https://bit.ly/3dN1ZnP"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【PHP】文字列関数まとめ",
+      "author" : "@KS2021",
+      "day" : 11,
+      "url" : "https://qiita.com/KS2021/items/48f5b64815ae1f68d7eb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MysqlとPostgreSQLのコマンドの比較",
+      "author" : "@izumihamano",
+      "day" : 12,
+      "url" : "https://qiita.com/izumihamano/items/405422f2eb9b25f83d16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "作業効率がアップするAdobe XDの便利なプラグイン紹介",
+      "author" : "@marie_onuma",
+      "day" : 13,
+      "url" : "https://qiita.com/marie_onuma/items/542172157c26ec9cd226"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Workersで手っ取り早くBasic認証を設定する",
+      "author" : "@AnaKutsu",
+      "day" : 14,
+      "url" : "https://qiita.com/AnaKutsu/items/1c8bd0eb938edd3c0e0a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Laravel Carbon Period 期間を配列取得",
+      "author" : "@saoriyoshida",
+      "day" : 15,
+      "url" : "https://qiita.com/saoriyoshida/items/2bf013714a5be471a297"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16,
+      "author" : "@atgraph"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DockerでのLaravel環境構築で、DBに接続できない(Connection refused)",
+      "author" : "@kaorikatakura",
+      "day" : 18,
+      "url" : "https://qiita.com/kaorikatakura/items/98e928c57a761ac2d714"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "laravelの同じことができるので困るやつを集めてみた。",
+      "author" : "@shun-yoshida",
+      "day" : 19,
+      "url" : "https://qiita.com/shun-yoshida/items/c66db0ad46790541c6b5"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Basic認証とフォーム認証(Cookieを使ったセッション管理)の仕組み",
+      "author" : "@hitomik",
+      "day" : 21,
+      "url" : "https://qiita.com/hitomik/items/38befaf0d740c4b07363"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22,
+      "author" : "@simpleway-tsuji"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Wordpressの管理画面で簡単に条件分岐",
+      "author" : "@y-iimura",
+      "day" : 23,
+      "url" : "https://qiita.com/y-iimura/items/19c8e15bd8e61695b274"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@takumi__pro"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

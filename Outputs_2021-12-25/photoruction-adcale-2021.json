@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:38:07Z",
+  "calendar_meta_data" : {
+    "author" : "@yoshiki_shootingstar",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 1,
+    "title" : "Photoruction Advent Calendar 2021",
+    "participants" : 21,
+    "unique_name" : "photoruction-adcale-2021",
+    "url" : "https://qiita.com/advent-calendar/2021/photoruction-adcale-2021"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "建設テックのCEOがコード書いてた頃を思い出して、建設テックならでは（？）のマニアックな便利機能の実装を振り返る",
+      "author" : "@ConTech_Nakajima",
+      "day" : 1,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211201"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社して2年間を業務日記から振り返ってみた〜1年目編〜",
+      "author" : "@kanasann1106",
+      "day" : 2,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211202"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "職業エンジニアとしての初プロジェクトを振り返ってみた(前編)",
+      "author" : "@yoshiki_shootingstar",
+      "day" : 3,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211203"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社直後のエンジニアのプロジェクトをPMとして振り返る(後編)",
+      "author" : "@Ques_skr",
+      "day" : 4,
+      "url" : "http://photoruction-tech-blog.hatenablog.com/entry/adcale20211204"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "フォトラクションのCREって何やってるの？",
+      "author" : "@kiwatchi1991",
+      "day" : 5,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211205"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Lambdaを効率良く開発する！",
+      "author" : "@shimokawaraakira",
+      "day" : 6,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211206"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VUEのシングルファイルコンポーネント(SFC)を生Javascriptアプリで使おう！",
+      "author" : "@johnurbina",
+      "day" : 7,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211207"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Photoructionリリースするまでのテストについて（今ある課題と今後の取り組み）",
+      "author" : "@takuya_shiotani",
+      "day" : 8,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211208"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LaravelプロジェクトにViteを用いてVue + Composition API + TypeScript環境を構築",
+      "author" : "@kanasann1106",
+      "day" : 9,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211209"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カスタマーサクセス・サポートを経験したプロダクトマネージャーの強みと苦労について",
+      "author" : "@so333",
+      "day" : 10,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211210"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PMの私がチームとの向き合い方で大切にしていること",
+      "author" : "@Yoshitaka_chiba",
+      "day" : 11,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "gatherで「ちょっと、いいですか？」ができる空間を作った話",
+      "author" : "@yoshiki_shootingstar",
+      "day" : 12,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211212"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "playwrightを使ってWEBのE2Eテストを自動化してみた　〜導入編〜",
+      "author" : "@uchida_xxx",
+      "day" : 13,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211213"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "playwrightを使ってWEBのE2Eテストを自動化してみた　〜失敗談編〜",
+      "author" : "@uchida_xxx",
+      "day" : 14,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211214"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Photoruction Androidアプリのアーキテクチャとこれからについて",
+      "author" : "@kgmyshin",
+      "day" : 15,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211215"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidアプリのアーキテクチャの現状",
+      "author" : "@kkt_yu",
+      "day" : 16,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211216"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "これまでに感じたQAエンジニアと他エンジニアの相違(QA視点マシマシ)",
+      "author" : "@masahiro_higuma",
+      "day" : 17,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211217"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【ノーコード】Slackで最もバリュースタンプが押されている人を表彰できるようにしてみた",
+      "author" : "@masarunoda_15",
+      "day" : 18,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211218"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "受託開発から自社開発になって変わったこと",
+      "author" : "@tokky915",
+      "day" : 19,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211219"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "入社して2年間を業務日記から振り返ってみた〜2年目編〜",
+      "author" : "@kanasann1106",
+      "day" : 20,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211220"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AIエンジニアという職業に対する考え方 before and after",
+      "author" : "@RyotaShiga",
+      "day" : 21,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211221"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "木工（家具）職人とAIエンジニアの共通するところ",
+      "author" : "@ken_kou_001",
+      "day" : 22,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211222"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ローカルでAPI Gateway, Lambdaの構成を再現する",
+      "author" : "@taki_21",
+      "day" : 23,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211223"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "パッケージ管理を制定してみた",
+      "author" : "@ktaroabobon",
+      "day" : 24,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211224"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VIMで開発する",
+      "author" : "@photoruction-gb",
+      "day" : 25,
+      "url" : "https://photoruction-tech-blog.hatenablog.com/entry/adcale20211225"
+    }
+  ]
+}

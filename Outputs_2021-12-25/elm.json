@@ -1,0 +1,142 @@
+{
+  "created_at" : "2021-12-26T00:37:30Z",
+  "calendar_meta_data" : {
+    "author" : "@arowM",
+    "category" : "プログラミング言語",
+    "lgtm" : 0,
+    "subscribers" : 34,
+    "title" : "Elm Advent Calendar 2021",
+    "participants" : 9,
+    "unique_name" : "elm",
+    "url" : "https://qiita.com/advent-calendar/2021/elm"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "ElmでリセットCSSを管理するパッケージを作っています",
+      "author" : "@y047aka",
+      "day" : 1,
+      "url" : "https://zenn.dev/y047aka/articles/elm-reset-css"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elm の Bazel ルールを作った話",
+      "author" : "@matsubara0507",
+      "day" : 2,
+      "url" : "https://zenn.dev/matsubara0507/articles/3290b240947ba0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "elm-threadについて",
+      "author" : "@arowM",
+      "day" : 3,
+      "url" : "https://github.com/arowM/elm-thread#elm-thread"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Q. elm-cssでcss attributeを複数指定したとき何が起きているか",
+      "author" : "@miyamo_madoka",
+      "day" : 4,
+      "url" : "https://zenn.dev/miyamoen/articles/e3138d05716e64"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elmの環境構築ガイドです（2021最新版）",
+      "author" : "@y047aka",
+      "day" : 10,
+      "url" : "https://zenn.dev/y047aka/articles/install-elm-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@IzumiSy"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12,
+      "author" : "@gaaamii"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Chrome ExtensionをElmで作ってみようかな",
+      "author" : "@ababup1192",
+      "day" : 20,
+      "url" : "https://zenn.dev/ababup1192/articles/8e2cec921a9c1a"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elmに入門してみた",
+      "author" : "@hayao0727",
+      "day" : 23,
+      "url" : "https://zenn.dev/belle/articles/b4d6d86b3e8d94"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@y047aka"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Elm+TailwindCSSをVSCodeで書く",
+      "author" : "@g4yamanaka",
+      "day" : 25,
+      "url" : "https://zenn.dev/g4yamanaka/articles/50ccec23caf176"
+    }
+  ]
+}

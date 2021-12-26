@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T04:08:37Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社エーピーコミュニケーションズ",
+    "category" : "企業・学校・団体",
+    "lgtm" : 73,
+    "subscribers" : 5,
+    "title" : "エーピーコミュニケーションズ Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "ap-com",
+    "url" : "https://qiita.com/advent-calendar/2021/ap-com"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Rancher on AKS",
+      "author" : "@t_ume",
+      "day" : 1,
+      "url" : "https://zenn.dev/t_ume/articles/e087f142e932cb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArgoCD ApplicationSetを動かしてみる",
+      "author" : "@FY0323",
+      "day" : 2,
+      "url" : "https://techstep.hatenablog.com/entry/2021/12/02/085034"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jinja2 にコメントを入れる",
+      "author" : "@akira6592",
+      "day" : 3,
+      "url" : "https://tekunabe.hatenablog.jp/entry/2021/12/03/jinja2_comment"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "作成したtemplateをntc-templatesにPRする",
+      "author" : "@snamon",
+      "day" : 4,
+      "url" : "https://usage-automate.hatenablog.com/entry/2021/12/04/092903"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[NetBox] Caddyを使ってLet's Encryptの証明書でHTTPSアクセスできるようにNetBoxをデプロイする",
+      "author" : "@zaki-lknr",
+      "day" : 5,
+      "url" : "https://qiita.com/zaki-lknr/items/061320f8451d272d1c8b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【python】pandas総まとめ（apply / concat）",
+      "author" : "@masa2223",
+      "day" : 6,
+      "url" : "https://qiita.com/masa2223/items/812f70031f41161881c2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VBAでパラメータ.yamlを作る",
+      "author" : "@mitomito",
+      "day" : 7,
+      "url" : "https://mitomito.hatenablog.jp/entry/2021/12/07/063000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒エンジニアが語る資格の心得",
+      "author" : "@taso_int",
+      "day" : 8,
+      "url" : "https://qiita.com/taso_int/items/0d88c48f2451fb63a70a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Kubernetes ServiceでApplication GatewayのWAFを利用する",
+      "author" : "@thanai",
+      "day" : 9,
+      "url" : "https://qiita.com/thanai/items/fe09d22049a6bf60332f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Ansible Towerのインストール方法について",
+      "author" : "@taso_int",
+      "day" : 10,
+      "url" : "https://qiita.com/taso_int/items/49b381b427b568cbea7b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NW機器SSH/Telnet接続PythonライブラリのScrapliを試してみた",
+      "author" : "@snamon",
+      "day" : 11,
+      "url" : "https://usage-automate.hatenablog.com/entry/2021/12/11/162001"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Rancher]Rancher Cluster on vSphere",
+      "author" : "@miyuk",
+      "day" : 12,
+      "url" : "https://qiita.com/miyuk/items/a4ec4c63311b5e6dc136"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rancher から AKS 構築",
+      "author" : "@t_ume",
+      "day" : 13,
+      "url" : "https://zenn.dev/t_ume/articles/526d72a37ea507"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Log Analyticsのデータエクスポート（プレビュー）を利用してみた",
+      "author" : "@pyorne",
+      "day" : 14,
+      "url" : "https://techblog.ap-com.co.jp/entry/2021/12/14/102903"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新卒の新卒による新卒のための振り返り",
+      "author" : "@dekabitasp",
+      "day" : 15,
+      "url" : "https://qiita.com/dekabitasp/items/03e9fc0b535206115dd5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DockerでDjango・React環境を構築する",
+      "author" : "@shiranon",
+      "day" : 16,
+      "url" : "https://qiita.com/shiranon/items/b3efd3ed7ce473c6ad83"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Apache Kafka】Debezium ConnectorをMSK Connectで試してみた",
+      "author" : "@moniso",
+      "day" : 17,
+      "url" : "https://blue-38.hatenablog.com/entry/msk-connect-debezium"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「OpenShift Commons Gathering Japan 2021」イベント参加レポート",
+      "author" : "@bruuuno",
+      "day" : 18,
+      "url" : "https://qiita.com/bruuuno/items/4ade59c9d679c1eb5eec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ArgoCD ver 1.8 ~ 2.2のリリース内容を眺める",
+      "author" : "@FY0323",
+      "day" : 19,
+      "url" : "https://techstep.hatenablog.com/entry/2021/12/19/093512"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Djangoでログイン操作不要のログイン処理",
+      "author" : "@yagaodekawasu",
+      "day" : 20,
+      "url" : "https://qiita.com/yagaodekawasu/items/4d7cdfcee1103e24efed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "[Ansible]設定変更ログをJournalとしてNetBoxに残す",
+      "author" : "@miyuk",
+      "day" : 21,
+      "url" : "https://qiita.com/miyuk/items/e67faab0ac62632b0dcf"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TerraformでVM作成（Azure）",
+      "author" : "@Asano_san",
+      "day" : 22,
+      "url" : "https://qiita.com/Asano_san/items/90aa39d726f3558b3051"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "オンライン研修（座学・ハンズオン）のテクニック",
+      "author" : "@hanzo-k",
+      "day" : 23,
+      "url" : "https://qiita.com/hanzo-k/items/48124e9512db16956f95"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Azure Container Instancesを使ってバッチジョブを作ってみる",
+      "author" : "@KG_",
+      "day" : 24,
+      "url" : "https://qiita.com/KG_/items/c7b332dd6ed8a72b9093"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSではじめるAnsible Automation Platform Controller 4.1.0 入門",
+      "author" : "@ze0",
+      "day" : 25,
+      "url" : "https://qiita.com/ze0/items/249ce808eeccdafb9a70"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "created_at" : "2021-12-25T18:43:58Z",
+  "calendar_meta_data" : {
+    "author" : "REALITY株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 5,
+    "title" : "REALITY Advent Calendar Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "reality_inc",
+    "url" : "https://qiita.com/advent-calendar/2021/reality_inc"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "開発合宿してきたよ！",
+      "author" : "@ken4500",
+      "day" : 1,
+      "url" : "https://note.com/reality_eng/n/n147e96f216b2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REALITYのコメントシステムをGoで書き直した話",
+      "author" : "@Yuu-shi",
+      "day" : 2,
+      "url" : "https://note.com/reality_eng/n/n4e0cd2867f32"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REALITYにフリーマーケットを作った話",
+      "author" : "@sochiai",
+      "day" : 3,
+      "url" : "https://note.com/reality_eng/n/nb74cf5534277"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REALITYで家具を置きたいと思った話",
+      "author" : "@wutchy",
+      "day" : 4,
+      "url" : "https://note.com/reality_eng/n/n19b1538bc5df"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "UnityChanSpringBone2.0で揺れものセットアップして、透過スクリーンを使ったバーチャルライブ作ってみた話",
+      "author" : "@hisayuki_kato",
+      "day" : 5,
+      "url" : "https://note.com/reality_eng/n/n1e1e05da961e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REALITYで動くマルチゲームを作ってみた",
+      "author" : "@naoyawell",
+      "day" : 6,
+      "url" : "https://note.com/reality_eng/n/n5ce517e3c21d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REALITY chat for web",
+      "author" : "@ttrabbits",
+      "day" : 7,
+      "url" : "https://note.com/reality_eng/n/n3ec9711d0480"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Web会議でアバター参加する最強ツール",
+      "author" : "@ken4500",
+      "day" : 8,
+      "url" : "https://note.com/reality_eng/n/nb36f85b8123e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "機械学習 in REALITY",
+      "author" : "@usuginu_ik",
+      "day" : 9,
+      "url" : "https://note.com/reality_eng/n/n35a8074466a7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Androidのカメラにアクセスできるか判定する",
+      "author" : "@endofeigyo",
+      "day" : 10,
+      "url" : "https://note.com/reality_eng/n/n0e89748dd387"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REALITYにアーカイブ機能を！",
+      "author" : "@aroshipup",
+      "day" : 11,
+      "url" : "https://note.com/reality_eng/n/ncbfbc07efe62"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "はじめてのM5Stack",
+      "author" : "@milkypochi",
+      "day" : 12,
+      "url" : "https://note.com/reality_eng/n/n274682c0f00e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ktorでAndroidをサーバーにしてみた",
+      "author" : "@niusounds",
+      "day" : 13,
+      "url" : "https://note.com/reality_eng/n/nbc7cc669984e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Argo CDでdeployする、半独立開発環境を作った",
+      "author" : "@taka_pikopiko",
+      "day" : 14,
+      "url" : "https://note.com/reality_eng/n/n2e2037377eb4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Niantic Lightship ARDK触ってみた",
+      "author" : "@honD",
+      "day" : 15,
+      "url" : "https://note.com/reality_eng/n/nb020cd923737"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ゲームパッド対応してみた",
+      "author" : "@ao-aoyama",
+      "day" : 16,
+      "url" : "https://note.com/reality_eng/n/nbefeb62a6eeb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "needleでモジュール間の画面遷移を実現した話",
+      "author" : "@kamui_project",
+      "day" : 17,
+      "url" : "https://note.com/reality_eng/n/nbe40c0e17690"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REALITYで全身を動かしてみた話",
+      "author" : "@neon-izm",
+      "day" : 18,
+      "url" : "https://note.com/reality_eng/n/nd102f12e7f78"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サイネージモード開発と合宿の幹事をしました - REALITY Advent Calendar #19 ",
+      "author" : "@tk-zzz",
+      "day" : 19,
+      "url" : "https://note.com/reality_eng/n/n11b8f922da15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TwitterAPIで不具合報告監視（通称：REALITYバグひろったー）",
+      "author" : "@sola-msr",
+      "day" : 20,
+      "url" : "https://note.com/reality_eng/n/n37185104ffcb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お絵かきギフトを作ってみた",
+      "author" : "@a_s_d",
+      "day" : 21,
+      "url" : "https://note.com/reality_eng/n/n10068cb87054"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "配信中に画像を送信・表示させたい REALITY Advent Calendar #22",
+      "author" : "@youten_redo",
+      "day" : 22,
+      "url" : "https://note.com/reality_eng/n/nd6651ff6cab3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "MacでMachPortを用いたプロセス間通信をしてみる",
+      "author" : "@DayBySay",
+      "day" : 23,
+      "url" : "https://note.com/reality_eng/n/ne827e718b096"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

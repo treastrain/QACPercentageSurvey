@@ -1,0 +1,182 @@
+{
+  "created_at" : "2021-12-25T21:31:45Z",
+  "calendar_meta_data" : {
+    "author" : "TechCommit",
+    "category" : "企業・学校・団体",
+    "lgtm" : 31,
+    "subscribers" : 5,
+    "title" : "TechCommit Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "tech-commit",
+    "url" : "https://qiita.com/advent-calendar/2021/tech-commit"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "oViceではじめるもくもく会（たまり場としてのバーチャル空間）",
+      "author" : "@inodev",
+      "day" : 1,
+      "url" : "https://note.com/inodev/n/n0ce092b6f706"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Gitについて全然分からない！から一歩抜け出すオススメ本（ビギナーが同じビギナー仲間に推す本）",
+      "author" : "@yukiko1026",
+      "day" : 2,
+      "url" : "https://note.com/techcommityukiko/n/n50750337d975"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "pythonで青空文庫にある夏目漱石の書籍をスクレイピングする",
+      "author" : "@MXLCxJAL",
+      "day" : 3,
+      "url" : "https://qiita.com/MXLCxJAL/items/4c04be2ea8eb87b28865"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プログラミング未経験からのJava研修",
+      "author" : "@mochi_k",
+      "day" : 4,
+      "url" : "https://note.com/mochi_k_/n/n50ebc01a137e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Java学習の話",
+      "author" : "@Trycatch",
+      "day" : 5,
+      "url" : "https://note.com/trycatch/n/nd539cd71a9c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React 関係の記事書きます",
+      "author" : "@iriya-ufo",
+      "day" : 6,
+      "url" : "https://iriya-ufo.net/blog/2021/11/30/how-to-learn-react/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "paizaでスキルチェックDランクの問題を解き続けたら、何ランクまで解けるようになるか",
+      "author" : "@Rach",
+      "day" : 7,
+      "url" : "https://qiita.com/Rach/items/cf8d427a2c7169967f39"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "無線LANのセキュリティについて図解でざっくり理解する",
+      "author" : "@Amybunny",
+      "day" : 8,
+      "url" : "https://qiita.com/Amybunny/items/f6626b19b5418d1d4f86"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【初学者向け】プログラミング1年目が選ぶ、仕事で役立った入門書6選",
+      "author" : "@koukiniini",
+      "day" : 9,
+      "url" : "https://note.com/koukiniini/n/naf4b6ede954e"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@Yasshi-cookie"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SORACOMの製品とサービスを使って、IoTシステムを構築してみた。",
+      "author" : "@MaaSaHero",
+      "day" : 11,
+      "url" : "https://qiita.com/MaaSaHero/items/8e144f7a1628d94b90e9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Javaの学習について",
+      "author" : "@zmym",
+      "day" : 12,
+      "url" : "https://qiita.com/zmym/items/afa660691fd3363c3478"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13,
+      "author" : "@kazuhiro-okuda"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LaravelでPush通知の送信処理",
+      "author" : "@nsym__m",
+      "day" : 14,
+      "url" : "https://nsym.dev/articles/php-push-notification"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@Yttbs1Yttbs"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【GitHub】octkitのREST APIをTypeScriptで使ってみた",
+      "author" : "@urasaku77",
+      "day" : 16,
+      "url" : "https://qiita.com/urasaku77/items/880aacd91d7e4be1dfb5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験からシステムエンジニアになって1年経ったので振り返ってみる。",
+      "author" : "@waccho5316",
+      "day" : 17,
+      "url" : "https://note.com/gropp47/n/n9503b262f0a8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LT大会に登壇側でチャレンジしてみて",
+      "author" : "@saw_0123",
+      "day" : 18,
+      "url" : "https://zenn.dev/saw/articles/advent-calender-2021"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TechCommitの運営に携わってみて",
+      "author" : "@mochi_k",
+      "day" : 19,
+      "url" : "https://note.com/mochi_k_/n/nc0081aea9e9c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "スマートコントラクト開発のための学習教材を紹介します",
+      "author" : "@nawoo",
+      "day" : 20,
+      "url" : "https://qiita.com/nawoo/items/7638e42e602ae67aefd7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "未経験からエンジニア転職するまでの話",
+      "author" : "@Tonkat_prtq",
+      "day" : 21,
+      "url" : "https://note.com/jiro_memo/n/nbb839ee05d16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2021年の振り返り",
+      "author" : "@kapiemon",
+      "day" : 22,
+      "url" : "https://note.com/kapiemon555_note/n/n286150c42c94"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23,
+      "author" : "@pickles_works"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PowerShellでJoin-Objectを使用せず配列同士を結合する",
+      "author" : "@MXLCxJAL",
+      "day" : 24,
+      "url" : "https://qiita.com/MXLCxJAL/items/ef90fac702df250ebbf2"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TechCommitのブランドをアップデートしている話",
+      "author" : "@inodev",
+      "day" : 25,
+      "url" : "https://note.com/inodev/n/n05882e6fc13d"
+    }
+  ]
+}

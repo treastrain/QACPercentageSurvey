@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T23:14:34Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社estie",
+    "category" : "企業・学校・団体",
+    "lgtm" : 24,
+    "subscribers" : 3,
+    "title" : "estie Advent Calendar 2021",
+    "participants" : 22,
+    "unique_name" : "estie",
+    "url" : "https://qiita.com/advent-calendar/2021/estie"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "広報な私が初めて触ったPythonでslack絵文字ランキング作ってみた",
+      "author" : "@ririkot",
+      "day" : 1,
+      "url" : "https://inside.estie.co.jp/entry/2021/12/01/100000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一物三価？　不動産業界に身をおく楽しさ ",
+      "author" : "@fuminsai",
+      "day" : 2,
+      "url" : "https://inside.estie.co.jp/entry/20211202"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "estieにて未知の業界へ足を踏み入れた坊主が、オフィスビルの煩悩まみれになっていった数ヶ月",
+      "author" : "@RyosukeMiyauchi",
+      "day" : 3,
+      "url" : "https://inside.estie.co.jp/entry/20211203"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "VOC（Voice of Customer）でプロダクト開発を加速させる",
+      "author" : "@yu-bun",
+      "day" : 4,
+      "url" : "https://inside.estie.co.jp/entry/20211204"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "estie 0→1bizdevのセブンルール",
+      "author" : "@HashizumeSho",
+      "day" : 5,
+      "url" : "https://inside.estie.co.jp/entry/2021/12/05/101417"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Rails 6系の multiple databases 運用下で同一の table名が存在する時の annotate gem での注意点 ~ annotate_models コードリーディング ~",
+      "author" : "@yto9",
+      "day" : 6,
+      "url" : "https://qiita.com/yto9/items/2fca0ef5bc237c96aef3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "なろう小説のブクマ数予測コンペに参加した話",
+      "author" : "@pndnism",
+      "day" : 7,
+      "url" : "https://qiita.com/pndnism/items/905523333984516f887d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2人目デザイナーの入社前にやったこと",
+      "author" : "@iamken",
+      "day" : 8,
+      "url" : "https://www.wantedly.com/companies/company_6314859/post_articles/362486"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jestのexpect(matcher)を完全に理解する",
+      "author" : "@t-poyo",
+      "day" : 9,
+      "url" : "https://zenn.dev/t_poyo/articles/4c47373e364718"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jaist-tokyo-calendarについて",
+      "author" : "@johntronik",
+      "day" : 10,
+      "url" : "https://qiita.com/johntronik/items/fe4f18bea80995ffbc5a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "3周年を迎えたベンチャー企業の日常",
+      "author" : "@EiHirai",
+      "day" : 11,
+      "url" : "https://inside.estie.co.jp/entry/20211211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CLIPで不動産画像を分類する",
+      "author" : "@TomeHirata",
+      "day" : 12,
+      "url" : "https://qiita.com/TomeHirata/items/27bee01aafcf94fd7051"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビルの所在地の管理、ただそれだけで難しい",
+      "author" : "@aruke_aruke",
+      "day" : 13,
+      "url" : "https://aruke-aruke.hatenablog.com/entry/address_the_address"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS re:Invent 2021で登場したRedshift Serverlessを利用してみた",
+      "author" : "@shin-aoki",
+      "day" : 14,
+      "url" : "https://inside.estie.co.jp/entry/try-redshift-serverless"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "非エンジニアによるestieのコーディング試験の解説",
+      "author" : "@AyakoYamamoto",
+      "day" : 15,
+      "url" : "https://inside.estie.co.jp/entry/20211215"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アジャイルテストについて学んでみた話",
+      "author" : "@kyohei-917",
+      "day" : 16,
+      "url" : "https://qiita.com/kyohei-917/items/34808375bdd7ceb1b801"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RubyKaigi 参加レポ",
+      "author" : "@ericgpks",
+      "day" : 17,
+      "url" : "https://note.com/sq_engch5/n/nc70ef3e7c7a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビジネスサイドがプログラミングしてみる2",
+      "author" : "@rikutanak",
+      "day" : 18,
+      "url" : "https://qiita.com/rikutanak/items/918a445abee6f16c2bd5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "アプリケーションエンジニアが Terraform 触ってみた",
+      "author" : "@ericgpks",
+      "day" : 19,
+      "url" : "https://note.com/sq_engch5/n/n3e33d4744b6c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "0→1から1→10へ、estie pro 機能開発チームが抱えるイシュー3選",
+      "author" : "@t-poyo",
+      "day" : 20,
+      "url" : "https://inside.estie.co.jp/entry/2021/12/20/131142"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "estieのチーム文化を覗き見！estieのSlack大公開！",
+      "author" : "@erena_fujita",
+      "day" : 21,
+      "url" : "https://inside.estie.co.jp/entry/2021/12/21/070000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ビジネスチームと一緒に作るプロダクト開発",
+      "author" : "@yu-bun",
+      "day" : 22,
+      "url" : "https://inside.estie.co.jp/entry/20211222"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "estieのきのこ・たけのこ戦争 ~ 業務委託制度の考え方 ~",
+      "author" : "@tiwanari",
+      "day" : 23,
+      "url" : "https://inside.estie.co.jp/entry/kinoko_takenoko"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "チーム昭和が行っていること",
+      "author" : "@narason",
+      "day" : 24,
+      "url" : "https://inside.estie.co.jp/entry/20211224"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "業務委託古参が estie について語ってみる",
+      "author" : "@kzkamago0721",
+      "day" : 25,
+      "url" : "https://inside.estie.co.jp/entry/20211225"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:30:47Z",
+  "calendar_meta_data" : {
+    "author" : "アノテーション株式会社",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 9,
+    "title" : "アノテーション株式会社 AWS Technical Support Advent Calendar 2021",
+    "participants" : 16,
+    "unique_name" : "annotation-aws-technical-support",
+    "url" : "https://qiita.com/advent-calendar/2021/annotation-aws-technical-support"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "S3で小さいサイズのオブジェクトをライフサイクルルールで移動できないのはなぜでしょうか？",
+      "author" : "@yoichi_yama",
+      "day" : 1,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-s3-lifecycle-mini-object-limitation/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WorkDocsサイトのバックアップを取得する方法について",
+      "author" : "@LeiY",
+      "day" : 2,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-workdocs-backup/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "EC2 の AMI からは復元できるが、AWS Backup から復元しようとするとエラーになった際の対処方法",
+      "author" : "@swaka",
+      "day" : 3,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-backup-restore-role/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Compute Optimizer をオプトインしたにもかかわらず EC2 のレコメンデーションが表示されない原因を教えてください",
+      "author" : "@yasu99",
+      "day" : 4,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-compute-optimizer-ec2-recommendation"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Linux1, Amazon Linux 2, Amazon Linux 2022 の脆弱性情報はどこで参照できますか？",
+      "author" : "@Masato_Hayakawa",
+      "day" : 5,
+      "url" : "https://dev.classmethod.jp/etc/tsnote-ec2-amazon-linux-vulnerability-001"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Security Hub の CIS v1.2.0 - CIS.2.7 で検知された、Code Pipeline の CloudTrail 証跡 に作成されたプレースホルダーバケットに対して、 KMS で暗号化を設定することは可能でしょうか。",
+      "author" : "@sulaiman_pane",
+      "day" : 6,
+      "url" : "https://dev.classmethod.jp/etc/cloudtrail-placeholder-buckets-securityhub/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Tag Editor(AWS Resource Groups and Tags)でサポートされていない Amazon API Gateway のリソース情報を取得する方法を教えてください",
+      "author" : "@Masaki_Oikawa",
+      "day" : 7,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-aws-api-gateway-get-all-resource-cli/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Boto3のコネクションタイムアウト値について教えてください",
+      "author" : "@teruu",
+      "day" : 8,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-boto3-connect-timeout-and-max-attempts/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cognito オーソライザを設定した API Gateway でアクセスログにユーザ情報を出力する方法を教えてください",
+      "author" : "@drumnist_nakano",
+      "day" : 9,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-how-to-output-claims-to-the-accesslog-on-apigateway-with-cognito-authorizer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS WAF でブロックされたアクセスログのみを保持する方法を教えてください",
+      "author" : "@m-smz",
+      "day" : 10,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-aws-waf-logging-filter/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLI のデバッグログをファイルへ出力する方法を教えてください",
+      "author" : "@yasu99",
+      "day" : 11,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-aws-cli-howto-save-debug-log-file"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Aurora(PostgreSQL)のメジャーバージョンアップグレードができない時の対処法",
+      "author" : "@satokoki",
+      "day" : 12,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-rds-aurorapostgresql-majorversionupgrade-without-logicalrepl"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CLI で MFA 必須のスイッチロールで一度 MFA 認証を完了すると、 2 回目以降のコマンド実行では MFA コードの入力を求めらません。 なぜでしょうか。",
+      "author" : "@sulaiman_pane",
+      "day" : 13,
+      "url" : "https://dev.classmethod.jp/etc/tsnote-aws-cli-switch-role-mfa-cache-credentials"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Lex(V2)での会話のテキストログを保存する方法を教えてください",
+      "author" : "@Masaki_Oikawa",
+      "day" : 14,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-aws-lex-stores-text-logs-for-your-conversations-in-cloudwatch-logs/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "R6i インスタンスが東京リージョンで利用可能になりました",
+      "author" : "@LeiY",
+      "day" : 15,
+      "url" : "https://dev.classmethod.jp/articles/tokyo-region-ec2-instance-type-r6i/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "API Gateway のレイテンシを算出する方法を教えてください",
+      "author" : "@drumnist_nakano",
+      "day" : 16,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-how-to-caluculate-apigateway-latency/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "一時停止中の Redshift において、メンテナンスが実行されるのか教えてください",
+      "author" : "@satoshi_mumu",
+      "day" : 17,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-redshift-stopped-cluster-maintenance"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "解決しやすい技術相談について考えてみた",
+      "author" : "@yasu99",
+      "day" : 18,
+      "url" : "https://dev.classmethod.jp/etc/how-to-consult-for-easy-solutions/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テクニカルサポートを最大限活かすための問い合わせ文の作り方",
+      "author" : "@Masato_Hayakawa",
+      "day" : 19,
+      "url" : "https://dev.classmethod.jp/etc/technical-support-how-to-inquire/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Client VPN を CDK で作ってみた",
+      "author" : "@Kazutaka_Ogawa",
+      "day" : 20,
+      "url" : "https://dev.classmethod.jp/articles/create-aws-client-vpn-with-cdk/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CloudFormation で使用するサービスロールの作成方法を教えてください",
+      "author" : "@tadan",
+      "day" : 21,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-cloudformation-create-servicerole-001"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Client VPNで使用しているTLSバージョンを確認する方法を教えてください",
+      "author" : "@shingoth",
+      "day" : 22,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-clientvpn-tlsversion/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AmazonConnect_FullAccess を付与した IAM ユーザの操作でエラーが出る時の対処方法",
+      "author" : "@drumnist_nakano",
+      "day" : 23,
+      "url" : "https://dev.classmethod.jp/articles/tsnote-error-iam-user-with-amazonconnect-fullaccess/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "インスタンス間のパブリックIPでの通信は本当に外部に出ないのか試してみた",
+      "author" : "@fujiry",
+      "day" : 24,
+      "url" : "https://dev.classmethod.jp/articles/communication-between-vpc/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "テクニカルサポートの知見をブログに書くこと、会社アドベントカレンダーの記録",
+      "author" : "@yasu99",
+      "day" : 25,
+      "url" : "https://dev.classmethod.jp/articles/technical-support-advent-calendar-2021"
+    }
+  ]
+}

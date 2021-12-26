@@ -1,0 +1,186 @@
+{
+  "created_at" : "2021-12-26T03:32:34Z",
+  "calendar_meta_data" : {
+    "author" : "@shinodogg",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 0,
+    "subscribers" : 17,
+    "title" : "Algolia Advent Calendar 2021",
+    "participants" : 5,
+    "unique_name" : "algolia",
+    "url" : "https://qiita.com/advent-calendar/2021/algolia"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "InstantSearchとAutocompleteを組み合わせてイケてる検索体験を構築しよう🔎",
+      "author" : "@shinodogg",
+      "day" : 1,
+      "url" : "https://shinodogg.com/2021/11/29/instantsearch-with-autocomplete/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "B2BコマースのDX: なぜB2BはB2Cのベストプラクティスを採用すべきなのか",
+      "author" : "@shinodogg",
+      "day" : 2,
+      "url" : "https://shinodogg.com/2021/12/01/b2b-commerce-digital-transformation-why-should-b2b-retailers-adopt-b2c-best-practices/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "優れたメディアサイトのSearch and Discoveryを構築するための7つの方法",
+      "author" : "@shinodogg",
+      "day" : 3,
+      "url" : "https://shinodogg.com/2021/11/29/7-tips-building-exceptional-media-industry-site-search-and-discovery/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AlgoliaのVirtual Replicaについて",
+      "author" : "@t2hnd",
+      "day" : 4,
+      "url" : "https://blog.tatsuroh.com/2020-12-21/algolia-virtual-replica-explained"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algoliaの検索機能を、力技で特定ユーザーのみに提供する",
+      "author" : "@motchi0214",
+      "day" : 5,
+      "url" : "https://wp-kyoto.net/stop-algolia-instantsearch-conditionally-react/?a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "B2BコマースのDX: ベストプラクティスを取り入れ成功裏にB2Bコマースサイトを構築する方法",
+      "author" : "@shinodogg",
+      "day" : 6,
+      "url" : "https://shinodogg.com/2021/12/03/b2b-commerce-digital-transformation-how-to-build-a-successful-b2b-ecommerce-website-incorporating-best-industry-practices/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algoliaコーディングチャレンジ: サンタさんにインスピレーションを！ 🎅",
+      "author" : "@shinodogg",
+      "day" : 7,
+      "url" : "https://shinodogg.com/2021/12/07/algolia-coding-challenge-help-santa/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Autocomplete(predictive search): オンラインのコンバージョンにおける鍵",
+      "author" : "@shinodogg",
+      "day" : 8,
+      "url" : "https://shinodogg.com/2021/12/06/autocomplete-predictive-search-a-key-to-online-conversion/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AlgoliaがSwedolのデジタルB2B体験向上に貢献した話",
+      "author" : "@shinodogg",
+      "day" : 9,
+      "url" : "https://shinodogg.com/2021/12/07/how-swedol-created-a-better-digital-b2b-experience/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ハイパフォーマンスなレコメンドシステムの解剖学 – パート5",
+      "author" : "@shinodogg",
+      "day" : 10,
+      "url" : "https://shinodogg.com/2021/12/09/the-anatomy-of-high-performance-recommender-systems-part-v/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algoliaの検索結果レコード数の上限とページネーション",
+      "author" : "@shinodogg",
+      "day" : 11,
+      "url" : "https://shinodogg.com/2021/12/09/pagination/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AlgoliaのBrowse Index APIについて",
+      "author" : "@shinodogg",
+      "day" : 12,
+      "url" : "https://shinodogg.com/2021/12/10/algolia-browse-index-api/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AlgoliaのUIデザインキット",
+      "author" : "@shinodogg",
+      "day" : 13,
+      "url" : "https://shinodogg.com/2021/12/14/ui-kits/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algoliaを本番環境に導入する前に確認しておきたいチェックリスト",
+      "author" : "@shinodogg",
+      "day" : 14,
+      "url" : "https://shinodogg.com/2021/12/13/implementation-checklist/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algoliaのフロントエンドの検索UIにはalgoliasearch-liteを使おう🔎",
+      "author" : "@shinodogg",
+      "day" : 15,
+      "url" : "https://shinodogg.com/2021/12/10/algoliasearch-lite/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AlgoliaのDynamic Synonym Suggestionsについて",
+      "author" : "@shinodogg",
+      "day" : 16,
+      "url" : "https://shinodogg.com/2021/12/14/dynamic-synonym-suggestions/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AlgoliaのAI Re-Rankingについて",
+      "author" : "@shinodogg",
+      "day" : 17,
+      "url" : "https://shinodogg.com/2021/12/16/algolia-ai-re-ranking/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algolia Recommendについて",
+      "author" : "@shinodogg",
+      "day" : 18,
+      "url" : "https://shinodogg.com/2021/12/17/recommend/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Stripeの商品データをAlgoliaにインデックスする方法",
+      "author" : "@motchi0214",
+      "day" : 19,
+      "url" : "https://wp-kyoto.net/indexing-stripe-product-data-to-algolia-using-webhook/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "WordPress (Shifter) + Algolia の活用法",
+      "author" : "@gatespace",
+      "day" : 20,
+      "url" : "https://labworks.digitalcube.jp/blog/technology_20211220_shifter-algolia-usecase/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@k-yomo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algolia の React版 PWA Ecom UI Template のアナウンス",
+      "author" : "@shinodogg",
+      "day" : 22,
+      "url" : "https://qiita.com/advent-calendar/2021/algolia"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新型コロナワクチン接種証明書アプリ自治体対応状況検索ページを作る",
+      "author" : "@t2hnd",
+      "day" : 23,
+      "url" : "https://blog.tatsuroh.com/2021-12-23/vaccinecert-list-app"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Algolia Crawler GitHub Action について",
+      "author" : "@shinodogg",
+      "day" : 24,
+      "url" : "https://shinodogg.com/2021/12/21/algolia-crawler-automatic-crawl/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25,
+      "author" : "@shinodogg"
+    }
+  ]
+}

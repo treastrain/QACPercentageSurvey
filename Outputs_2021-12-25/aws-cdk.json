@@ -1,0 +1,306 @@
+{
+  "created_at" : "2021-12-25T20:41:52Z",
+  "calendar_meta_data" : {
+    "author" : "@yktko",
+    "category" : "DevOps・インフラ",
+    "lgtm" : 50,
+    "subscribers" : 53,
+    "title" : "AWS CDK Advent Calendar 2021",
+    "participants" : 27,
+    "unique_name" : "aws-cdk",
+    "url" : "https://qiita.com/advent-calendar/2021/aws-cdk"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "CDK とCloudFormation を繋ぐ話",
+      "author" : "@yktko",
+      "day" : 1,
+      "url" : "https://qiita.com/yktko/items/7bcc9df940194ee62d8c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDKv2で@aws-cdk/assertionsを試してみる",
+      "author" : "@lune_sta",
+      "day" : 2,
+      "url" : "https://qiita.com/lune_sta/items/0e5a59855d3a668a4aa0"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKv2にマイグレーションしてみた #reinvent",
+      "author" : "@193",
+      "day" : 3,
+      "url" : "https://dev.classmethod.jp/articles/cdk-v2/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lambda関数をAWS CLI スクリプトで書こう 〜 @aws-cdk/lambda-layer-awscli モジュールの紹介 〜 ",
+      "author" : "@komeda-shinji",
+      "day" : 4,
+      "url" : "https://qiita.com/komeda-shinji/items/c8e2193dde3bcfc9c2be"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDK - Infrastructureの新たなBoilerplateの時代",
+      "author" : "@raf_T",
+      "day" : 5,
+      "url" : "https://qiita.com/raf_T/items/9fc053407911e0e3bf93"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コードによる管理がどうだったら良さそうか",
+      "author" : "@yktko",
+      "day" : 6,
+      "url" : "https://qiita.com/yktko/items/da8d5ae9a540d5427b01"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKにおけるスタックの分割の検討",
+      "author" : "@r_karotou",
+      "day" : 7,
+      "url" : "https://zenn.dev/intercept6/articles/aws-cdk-stack-div"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK の歩き方 〜 ECS 環境構築編",
+      "author" : "@hkford",
+      "day" : 8,
+      "url" : "https://zenn.dev/hkdord/articles/process-of-writing-cdk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDK Pipelines を導入した複数人開発のススメ",
+      "author" : "@horsewin",
+      "day" : 9,
+      "url" : "https://qiita.com/horsewin/items/900b738ad6ea0246d6a6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Vim で AWS CDK for TypeScript を快適に書くための 12 のプラグイン",
+      "author" : "@konokenj",
+      "day" : 10,
+      "url" : "https://qiita.com/konokenj/items/f619f927f12b1bccfd47"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKの便利ライブラリが共有/検索できるConstructHubがGAしました！",
+      "author" : "@tmk2154",
+      "day" : 11,
+      "url" : "https://dev.classmethod.jp/articles/aws-cdk-construct-hub-ga/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "cdk-remote-stackでCloudFrontからWebAclをクロスリージョン参照する",
+      "author" : "@193",
+      "day" : 12,
+      "url" : "https://dev.classmethod.jp/articles/cdk-remote-stack-webacl-cloudfront/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKv2 でスナップショットテストと CI を始めてみよう",
+      "author" : "@ore88ore",
+      "day" : 13,
+      "url" : "https://dev.classmethod.jp/articles/cdk-v2-snapshot-test-lets-start/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKでLambda関数から別アカウントのS3にアクセスする",
+      "author" : "@tq_jappy",
+      "day" : 14,
+      "url" : "https://jappy.hatenablog.com/entry/2021/12/14/011555"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Python 留年生がAWS CDKのポエムを書かなければいけない話（CDK Plowerなど、セキュリティのお話も）",
+      "author" : "@shogo31",
+      "day" : 15,
+      "url" : "https://note.com/nt31/n/nc787e09e5639"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKにAWS IoT Coreの実装がなかったからコントリビュートしてみた",
+      "author" : "@193",
+      "day" : 16,
+      "url" : "https://dev.classmethod.jp/articles/contribute-aws-cdk-aws-iot/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK における、Security Group を用いた接続許可設定を整理する",
+      "author" : "@tkimurz",
+      "day" : 17,
+      "url" : "https://qiita.com/tkimurz/items/7eef0b33f0ec3ff308dc"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CDKの成り立ちとその可能性について (The CDK Bookより)",
+      "author" : "@oktomoya",
+      "day" : 18,
+      "url" : "https://qiita.com/oktomoya/items/3cf66205b8c932d252ef"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "cdk-remote-stack と AWS Edge Networking Services を使ったクロスリージョンアプリケーション の補足 ",
+      "author" : "@twingo-b",
+      "day" : 19,
+      "url" : "https://qiita.com/twingo-b/items/8afbab3768578751a47e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK と AWS App Runner でお手軽に個人サービスのバックエンド API を運用しているお話",
+      "author" : "@Yaggytter",
+      "day" : 20,
+      "url" : "https://tech.anti-pattern.co.jp/cdk-apprunner/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@track3jyo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDKの開発環境に関するTips",
+      "author" : "@nikuyoshi",
+      "day" : 22,
+      "url" : "https://nikuyoshi.hatenablog.com/entry/2021/12/22/233748"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "今日は、AWS CDK開発で起こった悲劇の日。",
+      "author" : "@updraft",
+      "day" : 23,
+      "url" : "https://updraft.hatenadiary.com/entry/2021/12/23/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "projenでCDK v2.0が使えるのか試してみた",
+      "author" : "@ufoo68",
+      "day" : 24,
+      "url" : "https://qiita.com/ufoo68/items/162c0e91f959a03ea268"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【AWS Lambda/CDK】RSSフィードをツイートするBotを作るLambdaファンクション作ってみた",
+      "author" : "@kure",
+      "day" : 25,
+      "url" : "https://qiita.com/kure/items/1683c0d900c65bc4c273"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "本番環境のデータをマスクしてステージング環境に自動同期する仕組みを作りました【AWS CDK/SDK】1 ~CDK編~",
+      "author" : "@miyomiyo344",
+      "day" : 9,
+      "url" : "https://zenn.dev/chycara344/articles/7529bd5539de03"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "cdk-nagを使ってテンプレートのセキュリティ的な問題を検出する",
+      "author" : "@Chari0731",
+      "day" : 14,
+      "url" : "https://chariosan.com/2021/12/13/cdk_nag_use/"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "AWS-CDKのCustomResourceでAPIGatewayのStageを更新する方法",
+      "author" : "@moricom",
+      "day" : 15,
+      "url" : "https://qiita.com/moricom/items/1da23ec4e1afe784903d"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "[AWS CDK] Construct IDはパスカルケースで命名するのが良い",
+      "author" : "@tmokmss",
+      "day" : 17,
+      "url" : "https://qiita.com/tmokmss/items/721a99e9a62499d6d54a"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "本番環境のデータをマスクしてステージング環境に自動同期する仕組みを作りました【AWS CDK/SDK】2 ~Lambda編前半~",
+      "author" : "@miyomiyo344",
+      "day" : 19,
+      "url" : "https://zenn.dev/chycara344/articles/df13745438fbdc"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "【TypeScript】AWS CDKv2でCloudWatchのログアラームを設定する",
+      "author" : "@tokkun5552",
+      "day" : 20,
+      "url" : "https://qiita.com/tokkun5552/items/2563c21259950beef330"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

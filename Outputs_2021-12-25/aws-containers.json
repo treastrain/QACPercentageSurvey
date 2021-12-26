@@ -1,0 +1,277 @@
+{
+  "created_at" : "2021-12-25T19:33:56Z",
+  "calendar_meta_data" : {
+    "author" : "@literalice",
+    "category" : "サービス・アプリケーション",
+    "lgtm" : 22,
+    "subscribers" : 43,
+    "title" : "AWS Containers Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "aws-containers",
+    "url" : "https://qiita.com/advent-calendar/2021/aws-containers"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK の Amazon ECS Service Extensions で Fargate のタスクに好みのサイドカーを再利用性が高い記述で付与する",
+      "author" : "@literalice",
+      "day" : 1,
+      "url" : "https://qiita.com/literalice/items/c95d8f3a86fb2a0a2dc8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "App Runner でRemix を動かす",
+      "author" : "@y-ohgi",
+      "day" : 2,
+      "url" : "https://y-ohgi.blog/entry/2021/12/02/App_Runner_%E3%81%A7Remix_%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "reinvent 2021コンテナ発表総ざらい",
+      "author" : "@ar1",
+      "day" : 3,
+      "url" : "https://aws.amazon.com/jp/blogs/news/reinvent2021-containers/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECR からDocker Hub のオフィシャルイメージを使用する",
+      "author" : "@y-ohgi",
+      "day" : 4,
+      "url" : "https://y-ohgi.blog/entry/2021/12/02/ECR_%E3%81%8B%E3%82%89Docker_Hub_%E3%81%AE%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Fargate への CircleCI(等)による全自動/半自動デプロイ",
+      "author" : "@sogahisashi",
+      "day" : 5,
+      "url" : "https://zenn.dev/sogaoh/articles/21-12-05-d87b6e85a8e4db"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ecspresso tasks --trace でECSタスクのイベントログを一括表示する tracer を使えるようにした",
+      "author" : "@sfujiwara",
+      "day" : 6,
+      "url" : "https://sfujiwara.hatenablog.com/entry/ecspresso-tasks-trace"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Fargateでポートフォワーディング",
+      "author" : "@winebarrel",
+      "day" : 7,
+      "url" : "https://qiita.com/winebarrel/items/9f5a288233db9b0449f8"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS CDK の歩き方",
+      "author" : "@hkford",
+      "day" : 8,
+      "url" : "https://zenn.dev/hkdord/articles/process-of-writing-cdk"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows Container on Fargateで遊ぶ準備をしてみた",
+      "author" : "@isleys",
+      "day" : 9,
+      "url" : "https://qiita.com/isleys/items/14913405908cb030d9ce"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@yukin01"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@track3jyo"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Copilot CLI を使って複数環境で既存の DynamoDB を使う",
+      "author" : "@hkford",
+      "day" : 12,
+      "url" : "https://zenn.dev/hkdord/articles/aws-copilot-cli-existing-dynamodb"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Elastic Container Service (Amazon ECS) と AWS CDK で起動テンプレートを利用した Capacity Providers を設定する",
+      "author" : "@literalice",
+      "day" : 13,
+      "url" : "https://qiita.com/literalice/items/3f85e00ce83eaf88231d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自前IPv6 Kubernetesで苦しむ",
+      "author" : "@ar1",
+      "day" : 14,
+      "url" : "https://qiita.com/ar1/items/9b3af54c140bcbb179d4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Bottlerocket を使ってみよう！",
+      "author" : "@Anorlondo448",
+      "day" : 15,
+      "url" : "https://qiita.com/Anorlondo448/items/8a6125ee17825503306d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Windows Container on Fargateで遊ぶ準備が終わってなかった",
+      "author" : "@isleys",
+      "day" : 16,
+      "url" : "https://qiita.com/isleys/items/a2f42dd1cdf89112ddd8"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17,
+      "author" : "@mats16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Karpenter のご紹介",
+      "author" : "@otty246",
+      "day" : 18,
+      "url" : "https://qiita.com/otty246/items/646a81adb42bfdcb4e51"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Amazon Managed Service for Prometheus (AMP) について Container Insights との比較と OpenTelemetry との連携",
+      "author" : "@kashinoki38",
+      "day" : 19,
+      "url" : "https://kashionki38.hatenablog.com/entry/2021/12/20/121652"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ECS deployment circuit breakerを使った自動ロールバック",
+      "author" : "@syogun",
+      "day" : 20,
+      "url" : "https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-con464-amazon-ecs-deployment-circuit-breaker/"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21,
+      "author" : "@kashinoki38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS FIS を使ってAmazon ECS で動くアプリケーションの実験を行う",
+      "author" : "@G-F",
+      "day" : 22,
+      "url" : "https://qiita.com/G-F/items/3bcaeee57f04eb94a443"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWS Copilot CLIからCodePipeline経由でARMなECSデプロイする話",
+      "author" : "@kokuyouwind",
+      "day" : 23,
+      "url" : "https://zenn.dev/leaner_tech/articles/20211222-copilot-arm-pipeline"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24,
+      "author" : "@track3jyo"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 25
+    }
+  ]
+}

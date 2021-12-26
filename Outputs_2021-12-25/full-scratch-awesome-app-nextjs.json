@@ -1,0 +1,288 @@
+{
+  "created_at" : "2021-12-26T03:18:47Z",
+  "calendar_meta_data" : {
+    "author" : "@mejileben",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 56,
+    "subscribers" : 75,
+    "title" : "毎日誰かのプルリクを脳死でマージするアドベントカレンダー（Next.js） Advent Calendar 2021",
+    "participants" : 26,
+    "unique_name" : "full-scratch-awesome-app-nextjs",
+    "url" : "https://qiita.com/advent-calendar/2021/full-scratch-awesome-app-nextjs"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "「毎日誰かのプルリクを脳死でマージするアドベントカレンダー」を始めました",
+      "author" : "@mejileben",
+      "day" : 1,
+      "url" : "https://qiita.com/mejileben/items/b9c0d450eb0d96044089"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "「毎日誰かのプルリクを脳死でマージするアドベントカレンダー」の乗っかってみた",
+      "author" : "@sassy_watson",
+      "day" : 2,
+      "url" : "https://qiita.com/sassy_watson/items/9d0010fc99b7b0ee7ec5"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "毎日誰かのプルリクを脳死でマージするアドベントカレンダー にWebGLエフェクトのライブラリ「react-vfx」つっこんでみた",
+      "author" : "@XxGodmoonxX",
+      "day" : 3,
+      "url" : "https://qiita.com/XxGodmoonxX/items/efabd0784e5ae72974c9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NextAuth でログイン機能を追加した",
+      "author" : "@okumura_daiki",
+      "day" : 4,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "毎日誰かのプルリクを脳死でマージするアドベントカレンダーにReduxToolkit導入して今後の状態管理のしやすさを飛躍的に向上させた話",
+      "author" : "@fe_js_engineer",
+      "day" : 5,
+      "url" : "https://qiita.com/fe_js_engineer/items/f0068fdb60eccd77a619"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Lint 周りの整備 & Contributor ページの整備で開発体験を飛躍的に向上させた",
+      "author" : "@yokinist",
+      "day" : 6,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/13"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "baseui を導入しました",
+      "author" : "@kshibayama",
+      "day" : 7,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/14"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロフィールページにGitHubアイコンを表示するようにしてみた",
+      "author" : "@tomon9086",
+      "day" : 8,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/15"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "雪が降るようにしました⛄",
+      "author" : "@kanoi_y",
+      "day" : 9,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/16"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10,
+      "author" : "@tossy_yukky"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11,
+      "author" : "@kai0310"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クリスマスレイアウト追加",
+      "author" : "@anneau",
+      "day" : 12,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リアルタイムカーソルの改善",
+      "author" : "@aiji42",
+      "day" : 13,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/19"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リアタイカーソル改善、contributorsアイコン表示、ソーシャルアイコン追加等",
+      "author" : "@namosuke",
+      "day" : 14,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/20"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15,
+      "author" : "@nomunomu0504"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "タイトルとデスクリプション用コンポーネント作った・particles-bgっていうアニメーションライブラリ入れてみた",
+      "author" : "@powdersugar828828",
+      "day" : 16,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/21"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Contributorsのプロフィールを改善しました",
+      "author" : "@dala00",
+      "day" : 17,
+      "url" : "https://qiita.com/dala00/items/efc93efd24680ddec756"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レスポンシブ表示の改善",
+      "author" : "@sonishimura",
+      "day" : 18,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/24"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@tkc310"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プロフィールページをもっとみやすく！",
+      "author" : "@shota1995m",
+      "day" : 20,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/25"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サイトをダークモードに対応する",
+      "author" : "@mochi_749",
+      "day" : 21,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/26"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ダークモードの手動切り替えに対応 ",
+      "author" : "@watatomo1216",
+      "day" : 22,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/27"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Next.jsにNimを入れる",
+      "author" : "@dumblepy",
+      "day" : 24,
+      "url" : "https://qiita.com/dumblepy/items/aa2ff7fe9bea466cb48a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ただただNext.jsレポジトリにいろんな言語使いたかっただけ",
+      "author" : "@kyoya0819",
+      "day" : 25,
+      "url" : "https://zenn.dev/kyoya0819/articles/28b29ec9416c0c"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "リアルタイムカーソルを実装しました",
+      "author" : "@aiji42",
+      "day" : 4,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/8"
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "本当に脳死でマージするようにGitHub Actionsを修正",
+      "author" : "@ryo2132",
+      "day" : 5,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/10"
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー2",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー2",
+      "title" : "サイトロゴの追加",
+      "author" : "@lilpacy",
+      "day" : 25,
+      "url" : "https://github.com/TeXmeijin/anyway-merge-app/pull/33"
+    }
+  ]
+}

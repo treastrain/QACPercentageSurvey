@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T20:00:32Z",
+  "calendar_meta_data" : {
+    "author" : "@shogo82148",
+    "category" : "プログラミング言語",
+    "lgtm" : 13,
+    "subscribers" : 17,
+    "title" : "Perl Advent Calendar 2021",
+    "participants" : 17,
+    "unique_name" : "perl",
+    "url" : "https://qiita.com/advent-calendar/2021/perl"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "モジュール兼コマンド再考",
+      "author" : "@hkoba",
+      "day" : 1,
+      "url" : "https://hkoba.github.io/perl/adv2021-1/book/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モジュール兼コマンドのための FindBin",
+      "author" : "@hkoba",
+      "day" : 2,
+      "url" : "https://hkoba.github.io/perl/adv2021-2/book/index.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perlで作られたMySQL用の何かについて",
+      "author" : "@yoku0825",
+      "day" : 3,
+      "url" : "https://yoku0825.blogspot.com/2021/12/perlmysql.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "大コンテナ時代における.gitを使うワークフローの難点を解決するためにGitHubDDLを作った",
+      "author" : "@mackee_w",
+      "day" : 4,
+      "url" : "https://mackee.hatenablog.com/entry/2021/12/04/203749"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perlのコンテキストクイズにツールで答えてみた",
+      "author" : "@kfly8",
+      "day" : 5,
+      "url" : "https://tech.mobilefactory.jp/entry/2021/12/05/000000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PerlなプロジェクトをGithub Actionsでコンテナ化 (ARM64対応)",
+      "author" : "@kazeburo",
+      "day" : 6,
+      "url" : "https://kazeburo.hatenablog.com/entry/2021/12/06/115817"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SIer時代によく使ったワンライナー",
+      "author" : "@take_3",
+      "day" : 7,
+      "url" : "https://qiita.com/take_3/items/28fc4478787d8cfe880d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Getopt::Longのスペルが覚えられない俺はとうとう覚える努力を放棄してラッパーを作った",
+      "author" : "@doikoji",
+      "day" : 8,
+      "url" : "https://qiita.com/doikoji/items/af959825991346092245"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl 5.34.0 の try-catch を触ってみる",
+      "author" : "@shogo82148",
+      "day" : 9,
+      "url" : "https://shogo82148.github.io/blog/2021/12/09/perl-try-catch/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl 5.35.4 の defer を先取り",
+      "author" : "@shogo82148",
+      "day" : 10,
+      "url" : "https://shogo82148.github.io/blog/2021/12/10/perl-defer/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl 5.35.5 の iterating over multiple values at a time を先取り",
+      "author" : "@shogo82148",
+      "day" : 11,
+      "url" : "https://shogo82148.github.io/blog/2021/12/11/perl-iterating-over-multiple-values/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "いい感じにuseするのを助けてくれるApp::perlimportsのご紹介",
+      "author" : "@AnaTofuZ",
+      "day" : 12,
+      "url" : "https://anatofuz.hatenablog.com/entry/2021/12/12/162347"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "immutableなデータ構造を作る",
+      "author" : "@mp0liiu",
+      "day" : 13,
+      "url" : "https://mp0liiu.hatenablog.com/entry/2021/12/14/014758"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "jqの代わりにperlを使ったり、mysqlを使ったり",
+      "author" : "@yoku0825",
+      "day" : 14,
+      "url" : "https://yoku0825.blogspot.com/2021/12/jqperlmysql.html"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "JSONが正しくエンコードされているか、Cpanel::JSON::XSで手軽に確認する",
+      "author" : "@kfly8",
+      "day" : 15,
+      "url" : "https://kfly8.hatenablog.com/entry/2021/12/15/210842"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Cloudflare Workers🔥でもPerl🐫でも動くPerlを書く",
+      "author" : "@yusukebe",
+      "day" : 16,
+      "url" : "https://yusukebe.com/posts/2021/psgi-cloudflare-workers/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "高機能軽量マークアップ言語をサポートするperl modulino：wini.pmの2021年",
+      "author" : "@doikoji",
+      "day" : 17,
+      "url" : "https://qiita.com/doikoji/items/d438ad26971d2f75d3e4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "正規表現で複数行テキストをまるごと片付ける方法",
+      "author" : "@xtetsuji",
+      "day" : 18,
+      "url" : "https://qiita.com/xtetsuji/items/cf59050f49a33bc77f5d"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl で HTML をパースするモジュール",
+      "author" : "@nanto_vi",
+      "day" : 19,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/19/9449330"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl で関数内に関数を定義する",
+      "author" : "@nanto_vi",
+      "day" : 20,
+      "url" : "https://nanto.asablo.jp/blog/2021/12/20/9449537"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perlアプリケーション + AWS Lambda + API GatewayでWebhookを受ける",
+      "author" : "@teckl",
+      "day" : 21,
+      "url" : "https://qiita.com/teckl/items/f65b5bcd0e15793adbc9"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl 5.35.7 の builtin を試してみる",
+      "author" : "@papix",
+      "day" : 22,
+      "url" : "https://papix.hatenablog.com/entry/2021/12/22/234935"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リポジトリ内のソースコードを機械的にリファクタリングし続けるスクリプトを作る",
+      "author" : "@hitode909",
+      "day" : 23,
+      "url" : "https://blog.sushi.money/entry/2021/12/23/112211"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perl の文字列用ビット操作演算子を使ってみる",
+      "author" : "@shogo82148",
+      "day" : 24,
+      "url" : "https://shogo82148.github.io/blog/2021/12/24/perl-bitwise-operator/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Perlと型とコンテキスト",
+      "author" : "@karupanerura",
+      "day" : 25,
+      "url" : "https://qiita.com/karupanerura/items/361b620a123d80ad9fbe"
+    }
+  ]
+}

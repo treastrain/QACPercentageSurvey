@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-25T19:58:23Z",
+  "calendar_meta_data" : {
+    "author" : "株式会社トラストバンク",
+    "category" : "企業・学校・団体",
+    "lgtm" : 181,
+    "subscribers" : 8,
+    "title" : "トラストバンク Advent Calendar 2021",
+    "participants" : 20,
+    "unique_name" : "trustbank",
+    "url" : "https://qiita.com/advent-calendar/2021/trustbank"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "はじまりはじまり。CTOからのはじまりの挨拶",
+      "author" : "@yamaken66",
+      "day" : 1,
+      "url" : "https://qiita.com/yamaken66/items/9858b47b65837b78a3c4"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "NotionでOKR（目標）管理してる話",
+      "author" : "@trustbank_isobe",
+      "day" : 2,
+      "url" : "https://qiita.com/trustbank_isobe/items/8406101fabf687d47a63"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "お礼の品の組み合わせをMutationObserverで監視する",
+      "author" : "@dest12217",
+      "day" : 3,
+      "url" : "https://qiita.com/dest12217/items/324281844794f8423d18"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "できることもやりたいこともないけど一人前のweb系エンジニアを目指して頑張っている初学〜3年目の皆さんへ",
+      "author" : "@a_wis1056",
+      "day" : 4,
+      "url" : "https://qiita.com/a_wis1056/items/065464739d8177508690"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "リモートワークでチーム開発をする際にやって良かったこと",
+      "author" : "@kazuyaseo",
+      "day" : 5,
+      "url" : "https://qiita.com/kazuyaseo/items/34df5245f57591d5a4ed"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "デザイナー以外も意識しておいたほうがいいと思ったデザインの話",
+      "author" : "@iijima0226",
+      "day" : 6,
+      "url" : "https://qiita.com/iijima0226/items/51e35be9caf7bff9a250"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "React Native で簡素なクイズアプリを作った",
+      "author" : "@kimisho",
+      "day" : 7,
+      "url" : "https://qiita.com/kimisho/items/bbf921c52ea3bf9539fd"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "管理ツール(CMS)を作る際にエンジニアとして心がけていること",
+      "author" : "@keichiro24",
+      "day" : 8,
+      "url" : "https://qiita.com/keichiro24/items/5734485158f15d2a2d2c"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "そうだ、TGIFをやろう",
+      "author" : "@nirastamo",
+      "day" : 9,
+      "url" : "https://qiita.com/nirastamo/items/3ba13f1f49bc5457218a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "自治体に向けて機械学習を使って何か提供できないかLobeを使って検証してみました",
+      "author" : "@kazuyaseo",
+      "day" : 10,
+      "url" : "https://qiita.com/kazuyaseo/items/66bb83a209cc0c5e5600"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニアこそ、できっこないをやらなくちゃ",
+      "author" : "@yamaken66",
+      "day" : 11,
+      "url" : "https://qiita.com/yamaken66/items/5849cd23bc747f0c4aec"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ふるさとチョイスを取り巻くインフラ環境2021",
+      "author" : "@butadora",
+      "day" : 12,
+      "url" : "https://qiita.com/butadora/items/e89568cc091494c1a059"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "SlackのAPIで遊んでみる",
+      "author" : "@youhei_seasalt",
+      "day" : 13,
+      "url" : "https://qiita.com/youhei_seasalt/items/c54733be13bfbfbf762a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "エンジニア１年目として考えていたこと",
+      "author" : "@h0r4k",
+      "day" : 14,
+      "url" : "https://qiita.com/h0r4k/items/3a1ab9b1ca21749ae452"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "PythonでPDFに文字や画像を記入",
+      "author" : "@t_n",
+      "day" : 15,
+      "url" : "https://qiita.com/t_n/items/024024852dd40338a1e6"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "開発プロセスとソフトウェアの品質について",
+      "author" : "@akiyoshiyamamoto",
+      "day" : 16,
+      "url" : "https://qiita.com/akiyoshiyamamoto/items/d3cb20f355423bf75b45"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "負荷試験を秘伝のタレにしない仕組みを考えてみる",
+      "author" : "@butadora",
+      "day" : 17,
+      "url" : "https://zenn.dev/butadora/articles/2ce84c41b0cd14299832"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "令和も3年に突入したのでリモートワーク環境を整えました",
+      "author" : "@Tocyuki",
+      "day" : 18,
+      "url" : "https://qiita.com/Tocyuki/items/d09c0872d5f609095a5f"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TestCafeで「お礼の品お気に入り登録」をテスト&解説してみる",
+      "author" : "@ryry_qa",
+      "day" : 19,
+      "url" : "https://qiita.com/ryry_qa/items/fa9b25e9e4488ed78d64"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "ふるさとチョイスのSREとしてこの1年やってきたこと",
+      "author" : "@Tocyuki",
+      "day" : 20,
+      "url" : "https://qiita.com/Tocyuki/items/d1ae0dafcdc3f4ca9cf7"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Power Automate Desktopでエクセルとブラウザを連携させスクレイピングツールを作る方法",
+      "author" : "@hiromufujitani",
+      "day" : 21,
+      "url" : "https://qiita.com/hiromufujitani/items/dec04e767e33a2a5515a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "新規事業を支える基幹システムをkintoneやkintone連携サービスで作ってます",
+      "author" : "@taketakekaho",
+      "day" : 22,
+      "url" : "https://qiita.com/taketakekaho/items/a35f2ba7254680420a2a"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "技術者の穴を埋める、非技術者視点の業務についての話",
+      "author" : "@kotsuta",
+      "day" : 23,
+      "url" : "https://qiita.com/kotsuta/items/2e3b44900ec4136e2337"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "レガシーなJSでコンポーネント指向っぽいことをする",
+      "author" : "@gatagata",
+      "day" : 24,
+      "url" : "https://qiita.com/gatagata/items/f6ee978a2ccd55dd3d38"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "CTOの存在意義と価値証明",
+      "author" : "@yamaken66",
+      "day" : 25,
+      "url" : "https://qiita.com/yamaken66/items/57c45e37f208b362bd77"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "created_at" : "2021-12-25T19:43:32Z",
+  "calendar_meta_data" : {
+    "author" : "@eeic2021",
+    "category" : "企業・学校・団体",
+    "lgtm" : 0,
+    "subscribers" : 7,
+    "title" : "eeic （東京大学工学部電気電子・電子情報工学科） Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "eeic",
+    "url" : "https://qiita.com/advent-calendar/2021/eeic"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "constな値を無理やり書き換えたかった",
+      "author" : "@gedatsu",
+      "day" : 2,
+      "url" : "https://gedatsu1729.hatenablog.com/entry/2021/12/02/200219"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 5
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "サーニャのアンテナ",
+      "author" : "@nodgr",
+      "day" : 17,
+      "url" : "https://ibymemo.hatenablog.com/entry/2021/12/17/010047"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19,
+      "author" : "@eeic2016_tanomu"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 20
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 21
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 23
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

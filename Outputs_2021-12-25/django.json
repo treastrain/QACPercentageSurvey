@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T04:28:47Z",
+  "calendar_meta_data" : {
+    "author" : "@aki_yok",
+    "category" : "ライブラリ・フレームワーク",
+    "lgtm" : 34,
+    "subscribers" : 56,
+    "title" : "Django Advent Calendar 2021",
+    "participants" : 15,
+    "unique_name" : "django",
+    "url" : "https://qiita.com/advent-calendar/2021/django"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "Django 組み込みのパスワード再設定（パスワードリセット）の仕組み",
+      "author" : "@aki_yok",
+      "day" : 1,
+      "url" : "https://akiyoko.hatenablog.jp/entry/2021/12/01/080000"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django 4.0主な新機能まとめ",
+      "author" : "@ryu22e",
+      "day" : 2,
+      "url" : "https://ryu22e.org/posts/2021/12/02/django40-new-features/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Djangoでグループごとの最大・最小値のみクエリーする方法",
+      "author" : "@hirokiky",
+      "day" : 3,
+      "url" : "https://blog.hirokiky.org/entry/2021/12/03/093559"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django 4.0のtestコマンドに追加された--shuffleオプションが地味に便利",
+      "author" : "@ryu22e",
+      "day" : 4,
+      "url" : "https://ryu22e.org/posts/2021/12/04/shuffle-option-added-to-django-40-test-command/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "飛び込みで失礼します！",
+      "author" : "@KMiura95",
+      "day" : 5,
+      "url" : "https://zenn.dev/kmiura55/articles/django-use-static"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "django-google-spanner==3.0.0でエミュレータを使おうとして挫折した話",
+      "author" : "@ryu22e",
+      "day" : 6,
+      "url" : "https://ryu22e.org/posts/2021/12/06/failed-to-use-emulator-with-django-google-spanner3.0.0/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "AWSを使ってReact・Django(DRF)のウェブアプリをデプロイしたい",
+      "author" : "@shitikakei",
+      "day" : 7,
+      "url" : "https://qiita.com/shitikakei/items/09bc75e7e2d06dc87735"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DjangoのSystem check frameworkでCloud Spanner非対応のモデルフィールドを検出してみる",
+      "author" : "@ryu22e",
+      "day" : 8,
+      "url" : "https://ryu22e.org/posts/2021/12/08/django-system-check-framework-detects-fields-that-are-not-supported-by-cloud-spanner/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "RestFrameworkでN対Nを利用するTips",
+      "author" : "@cohu",
+      "day" : 9,
+      "url" : "https://zenn.dev/cota_hu/articles/39f2012abdaa1e"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django 4.0をプライベートサイトに入れてみた",
+      "author" : "@ikemo",
+      "day" : 10,
+      "url" : "https://zenn.dev/ikemo/articles/django-40-update"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Djangoで依存チェーンドロップダウン選択リストを作成する方法",
+      "author" : "@ysiny",
+      "day" : 11,
+      "url" : "https://sinyblog.com/django/django-dependent-chained-dropdown-selectlist/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "モデルを別のアプリに移動する方法",
+      "author" : "@ikemo",
+      "day" : 12,
+      "url" : "https://zenn.dev/ikemo/articles/django-move-model-between-apps"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "プレビューのためにFormPreviewを使って欲しくない理由",
+      "author" : "@ikemo",
+      "day" : 13,
+      "url" : "https://zenn.dev/ikemo/articles/django-formpreview-is-not-recommended"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django ORMでN+1問題を検知する方法",
+      "author" : "@ikemo",
+      "day" : 14,
+      "url" : "https://zenn.dev/ikemo/articles/django-queryset-n-plusone"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "色々なパターンのクエリを書いてみる",
+      "author" : "@kzkamago0721",
+      "day" : 15,
+      "url" : "https://k2ss.info/archives/3144/"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DjangoでTwitter APIを利用してツイートする",
+      "author" : "@shimayu22",
+      "day" : 16,
+      "url" : "https://qiita.com/shimayu22/items/3d0fb28af77fe1e0cbe3"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "クラスベースビューと関数ベースビューの使い分けを考える",
+      "author" : "@ikemo",
+      "day" : 17,
+      "url" : "https://zenn.dev/ikemo/articles/django-class-based-view-or-function-based-view"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "QuerySetを任意の順番でソートする方法",
+      "author" : "@ikemo",
+      "day" : 18,
+      "url" : "https://zenn.dev/ikemo/articles/django-queryset-sort"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "DjangoでMySQLの全文検索機能を使う",
+      "author" : "@delhi09",
+      "day" : 19,
+      "url" : "https://kamatimaru.hatenablog.com/entry/2021/12/19/055030"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Fat Modelを避けるための戦略",
+      "author" : "@ikemo",
+      "day" : 20,
+      "url" : "https://zenn.dev/ikemo/articles/django-keep-away-from-fat-model"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "REST framework厨のお前らならば余裕で知ってる認証失敗時の401と403の違い",
+      "author" : "@tell-k",
+      "day" : 21,
+      "url" : "https://zenn.dev/tell_k/articles/4aabc58ebbf9ad"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "文字列のConcatを関数インデックスにする方法",
+      "author" : "@ikemo",
+      "day" : 22,
+      "url" : "https://zenn.dev/ikemo/articles/django-functional-index-concat"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django REST Frameworkについて簡単に解説",
+      "author" : "@Nameless_SN",
+      "day" : 23,
+      "url" : "https://shotanukumizu-1000.hatenablog.com/entry/20211206"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "【Django初心者向け】Djangoの開発環境をDocker Composeでさくっと作る(ローカル環境編)",
+      "author" : "@hayatek",
+      "day" : 24,
+      "url" : "https://qiita.com/hayatek/items/56a895b3e3d85f8c9d1b"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Django REST Framework とは？（Python アプリケーション）",
+      "author" : "@pythonista",
+      "day" : 25,
+      "url" : "https://qiita.com/pythonista/items/1babe212609aa159af77"
+    }
+  ]
+}

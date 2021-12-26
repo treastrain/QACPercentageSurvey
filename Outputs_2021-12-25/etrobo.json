@@ -1,0 +1,127 @@
+{
+  "created_at" : "2021-12-25T21:43:15Z",
+  "calendar_meta_data" : {
+    "author" : "@yurie",
+    "category" : "IoT・ハードウェア",
+    "lgtm" : 3,
+    "subscribers" : 5,
+    "title" : "ETロボコン Unofficial Advent Calendar 2021",
+    "participants" : 3,
+    "unique_name" : "etrobo",
+    "url" : "https://qiita.com/advent-calendar/2021/etrobo"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "day" : 1
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 2
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 3
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 4
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "天命を知る日にMLCadのTipsを語ろうと思うだなんて、たぶんそういうことなんだな。",
+      "author" : "@jtFuruhata",
+      "day" : 5,
+      "url" : "https://qiita.com/jtFuruhata/items/708aa29de0537488c544"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 6
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 7
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 8
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 9
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 10
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 11
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 12
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 13
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 14
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 15
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 16
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 17
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 18
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 19
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "#1 Windows(Cygwin)版開発環境構築【後輩たちのためのEV3rt講座(改)】",
+      "author" : "@koushiro",
+      "day" : 20,
+      "url" : "https://qiita.com/koushiro/items/6edd0a41803d06de7541"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "#2 Windows(WSL)版開発環境構築【後輩たちのためのEV3rt講座(改)】",
+      "author" : "@koushiro",
+      "day" : 21,
+      "url" : "https://qiita.com/koushiro/items/a9cd60178e0981d27020"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 22
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TOPPERSのビルドで困ったときのヒント",
+      "author" : "@yamanekko",
+      "day" : 23,
+      "url" : "https://qiita.com/yamanekko/items/71caa378f217240c79b4"
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 24
+    },
+    {
+      "series" : "カレンダー1",
+      "day" : 25
+    }
+  ]
+}

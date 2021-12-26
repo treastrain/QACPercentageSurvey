@@ -1,0 +1,190 @@
+{
+  "created_at" : "2021-12-26T03:19:51Z",
+  "calendar_meta_data" : {
+    "author" : "@meijik",
+    "category" : "データベース",
+    "lgtm" : 0,
+    "subscribers" : 8,
+    "title" : "Firebird Advent Calendar 2021",
+    "participants" : 2,
+    "unique_name" : "firebird",
+    "url" : "https://qiita.com/advent-calendar/2021/firebird"
+  },
+  "articles" : [
+    {
+      "series" : "カレンダー1",
+      "title" : "18th Firebird Developers Day (FDD)",
+      "author" : "@meijik",
+      "day" : 1,
+      "url" : "http://blog.kimuradb.com/?eid=877641"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebird4.0 の ChaCha20",
+      "author" : "@nakagami",
+      "day" : 2,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-02"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebird4への移行",
+      "author" : "@meijik",
+      "day" : 3,
+      "url" : "http://blog.kimuradb.com/?eid=877643"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Short Firebird Migration Guide to Firebird 4.0 そのいち",
+      "author" : "@meijik",
+      "day" : 4,
+      "url" : "http://blog.kimuradb.com/?eid=877644"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Short Firebird Migration Guide to Firebird 4.0 そのに",
+      "author" : "@meijik",
+      "day" : 5,
+      "url" : "http://blog.kimuradb.com/?eid=877645"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Short Firebird Migration Guide to Firebird 4.0 その参",
+      "author" : "@meijik",
+      "day" : 6,
+      "url" : "http://blog.kimuradb.com/?eid=877646"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Short Firebird Migration Guide to Firebird 4.0 その四",
+      "author" : "@meijik",
+      "day" : 7,
+      "url" : "http://blog.kimuradb.com/?eid=877647"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Short Firebird Migration Guide to Firebird 4.0 その伍",
+      "author" : "@meijik",
+      "day" : 8,
+      "url" : "http://blog.kimuradb.com/?eid=877648"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "LibreOffice Base 7.2 の Firebird サポート",
+      "author" : "@nakagami",
+      "day" : 9,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-09"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Short Firebird Migration Guide to Firebird 4.0 その六",
+      "author" : "@meijik",
+      "day" : 10,
+      "url" : "http://blog.kimuradb.com/?eid=877650"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "コラム：僕とイルカとの出会いと、そのころの出来事",
+      "author" : "@meijik",
+      "day" : 11,
+      "url" : "http://blog.kimuradb.com/?eid=877651"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カルロスのFirebird 4.0移行本の紹介",
+      "author" : "@meijik",
+      "day" : 12,
+      "url" : "http://blog.kimuradb.com/?eid=877652"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カルロスのFirebird 4.0移行本インデックス",
+      "author" : "@meijik",
+      "day" : 13,
+      "url" : "http://blog.kimuradb.com/?eid=877654"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebird, MySQL, PostgreSQLの暗号化機能(本体DBファイル)",
+      "author" : "@meijik",
+      "day" : 14,
+      "url" : "http://blog.kimuradb.com/?eid=877655"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebird 4.0 が読み書きできるのはODS13.0だけという話",
+      "author" : "@meijik",
+      "day" : 15,
+      "url" : "http://blog.kimuradb.com/?eid=877656"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebird の Julia データーベースドライバー",
+      "author" : "@nakagami",
+      "day" : 16,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-16"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "InterBase Developer Editionのダウンロード",
+      "author" : "@meijik",
+      "day" : 17,
+      "url" : "http://blog.kimuradb.com/?eid=877658"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カルロスのFirebird 3.0移行本の紹介",
+      "author" : "@meijik",
+      "day" : 18,
+      "url" : "http://blog.kimuradb.com/?eid=877659"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "カルロスのFirebird 3.0移行本インデックス",
+      "author" : "@meijik",
+      "day" : 19,
+      "url" : "http://blog.kimuradb.com/?eid=877660"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Jaybird(FirebirdのJDBCドライバ)とlog4j2の脆弱性",
+      "author" : "@meijik",
+      "day" : 20,
+      "url" : "http://blog.kimuradb.com/?eid=877661"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "浮動小数点数(単精度、倍精度)その先は? 拡張方向(四倍精度と十進浮動小数点数(DECFLOAT))と縮小方向(float2)",
+      "author" : "@meijik",
+      "day" : 21,
+      "url" : "http://blog.kimuradb.com/?eid=877662"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebirdと異体字セレクタ(IVS)",
+      "author" : "@meijik",
+      "day" : 22,
+      "url" : "http://blog.kimuradb.com/?eid=877663"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "Firebird の Rust ドライバー",
+      "author" : "@nakagami",
+      "day" : 23,
+      "url" : "https://nakagami.blog.ss-blog.jp/2021-12-23"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "TRUNCATE TABLEの実装とDELETE FROM",
+      "author" : "@meijik",
+      "day" : 24,
+      "url" : "http://blog.kimuradb.com/?eid=877664"
+    },
+    {
+      "series" : "カレンダー1",
+      "title" : "2022年のFirebird",
+      "author" : "@meijik",
+      "day" : 25,
+      "url" : "http://blog.kimuradb.com/?eid=877665"
+    }
+  ]
+}
